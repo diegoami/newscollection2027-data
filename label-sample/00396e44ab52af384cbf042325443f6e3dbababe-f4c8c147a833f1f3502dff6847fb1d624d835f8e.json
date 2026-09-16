@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "00396e44ab52af384cbf042325443f6e3dbababe",
+    "lede": "Ruby are you ok? Ruby are you ok? Are you ok Ruby?",
+    "outlet": "theregister",
+    "published": "2026-09-14T18:03:58Z",
+    "title": "OpenAI's malicious bot swarm attacked RubyGems"
+  },
+  "b": {
+    "item_id": "f4c8c147a833f1f3502dff6847fb1d624d835f8e",
+    "lede": "A Reddit user has shared details of a new Balatro-playing AI bot that took on the infamous Gold Stake Black Deck with aplomb.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T10:00:00Z",
+    "title": "AI enthusiast builds GPT-6 Astra-powered bot to take on Balatro's Gold Stake Black Deck \u2014 bot leverages Python for numerical tools, beats hardest difficulty repeatedly"
+  },
+  "score": 0.340509
+}

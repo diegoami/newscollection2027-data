@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "3a2a93c67b9243658f585de1d5fb74c7c8d5bff6",
+    "lede": "Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI.",
+    "outlet": "tomshardware",
+    "published": "2026-09-14T17:39:09Z",
+    "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins \u2014 RTX Pro 5500 delivers 2.6X VRAM at matching specs"
+  },
+  "b": {
+    "item_id": "3ba47b3e491a9df03695df28e4aacfc06bfda422",
+    "lede": "Perplexity and Nvidia released Portable Computer for Windows on Sept. 14, bringing the local-first AI agent to GeForce RTX and RTX PRO GPUs with 24GB or more of VRAM.",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T09:24:32Z",
+    "title": "Perplexity\u2019s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM \u2014 Portable Computer brings AI for multistep tasks to compatible PCs"
+  },
+  "score": 0.766402
+}

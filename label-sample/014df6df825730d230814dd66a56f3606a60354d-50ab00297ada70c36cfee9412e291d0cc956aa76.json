@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "50ab00297ada70c36cfee9412e291d0cc956aa76",
+    "lede": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T08:40:20Z",
+    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste"
+  },
+  "score": 0.452668
+}

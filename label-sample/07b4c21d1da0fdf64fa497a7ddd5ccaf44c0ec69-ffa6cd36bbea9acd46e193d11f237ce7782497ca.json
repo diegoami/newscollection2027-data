@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "07b4c21d1da0fdf64fa497a7ddd5ccaf44c0ec69",
+    "lede": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T17:26:41Z",
+    "title": "Spain's data agency gets first report of AI-powered data breach"
+  },
+  "b": {
+    "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
+    "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Your AI agents can now control your Google Home devices"
+  },
+  "score": 0.500719
+}

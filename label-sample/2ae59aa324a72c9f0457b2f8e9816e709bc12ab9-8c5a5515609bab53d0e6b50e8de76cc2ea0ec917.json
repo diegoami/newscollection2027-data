@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "2ae59aa324a72c9f0457b2f8e9816e709bc12ab9",
+    "lede": "The CEOs of OpenAI and Anthropic, as well as other industry leaders, are calling for a general slowdown in AI development over safety fears. On the flip side, Chinese authorities, the U.S. President, and CEO of Nvidia have dismissed their concerns as fearmongering.",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T17:19:36Z",
+    "title": "AI leaders clash over safety fears after Anthropic whistleblower says AI could 'kill us all' by 2030 \u2014 OpenAI, Anthropic and xAI figureheads call for external governance, while Jensen Huang says worries are 'made up'"
+  },
+  "b": {
+    "item_id": "8c5a5515609bab53d0e6b50e8de76cc2ea0ec917",
+    "lede": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T21:07:24Z",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+  },
+  "score": 0.605344
+}

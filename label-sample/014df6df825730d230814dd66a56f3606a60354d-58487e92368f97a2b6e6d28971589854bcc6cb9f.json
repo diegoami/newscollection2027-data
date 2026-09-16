@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "58487e92368f97a2b6e6d28971589854bcc6cb9f",
+    "lede": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of",
+    "outlet": "theguardian",
+    "published": "2026-09-14T12:00:59Z",
+    "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner"
+  },
+  "score": 0.313273
+}

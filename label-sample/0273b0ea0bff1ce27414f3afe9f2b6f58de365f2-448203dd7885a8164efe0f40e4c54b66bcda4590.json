@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "0273b0ea0bff1ce27414f3afe9f2b6f58de365f2",
+    "lede": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T13:23:02Z",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+  },
+  "b": {
+    "item_id": "448203dd7885a8164efe0f40e4c54b66bcda4590",
+    "lede": "Following rumors of a Nova Lake desktop SKU with 12 Xe3P cores, tipster Jaykihn suggests that Intel has canned the design and moved the target to next-gen Razor Lake instead.",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T14:17:06Z",
+    "title": "Intel reportedly cans 12Xe option for Nova Lake-S desktop \u2014 gaming APU design said to resurface with Razor Lake"
+  },
+  "score": 0.501084
+}

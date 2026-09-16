@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
+    "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Google will now let any AI agent run your smart home"
+  },
+  "score": 0.427637
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "26ddd6d19e52f28aa86db66cee94430fd20883c6",
+    "lede": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T16:30:00Z",
+    "title": "Anthropic merges Claude chat and Cowork in one interface"
+  },
+  "b": {
+    "item_id": "c1c590a699f01e4ecd011d97cd735edd827ff210",
+    "lede": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
+    "outlet": "engadget",
+    "published": "2026-09-16T16:30:00Z",
+    "title": "Anthropic's Claude can now create editable documents for you"
+  },
+  "score": 0.757068
+}

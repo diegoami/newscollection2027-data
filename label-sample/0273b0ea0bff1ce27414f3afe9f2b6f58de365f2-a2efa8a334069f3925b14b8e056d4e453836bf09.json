@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "0273b0ea0bff1ce27414f3afe9f2b6f58de365f2",
+    "lede": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T13:23:02Z",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+  },
+  "b": {
+    "item_id": "a2efa8a334069f3925b14b8e056d4e453836bf09",
+    "lede": "After five years, Samsung's 512GB DDR5 memory modules get their first direct rival from Micron, which also promises to offer speed bins up to 9200 MT/s. But their prices could be way too high even for hyperscalers.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T14:07:31Z",
+    "title": "Micron announces 512GB DDR5-9200 memory modules with 16W power draw \u2014 up to 12TB per server, claims 60% less energy-intensive than four 128GB modules"
+  },
+  "score": 0.3704
+}

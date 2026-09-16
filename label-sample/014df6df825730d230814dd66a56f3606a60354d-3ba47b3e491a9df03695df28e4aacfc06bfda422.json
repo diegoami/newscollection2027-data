@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "3ba47b3e491a9df03695df28e4aacfc06bfda422",
+    "lede": "Perplexity and Nvidia released Portable Computer for Windows on Sept. 14, bringing the local-first AI agent to GeForce RTX and RTX PRO GPUs with 24GB or more of VRAM.",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T09:24:32Z",
+    "title": "Perplexity\u2019s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM \u2014 Portable Computer brings AI for multistep tasks to compatible PCs"
+  },
+  "score": 0.340412
+}

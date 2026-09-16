@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "0273b0ea0bff1ce27414f3afe9f2b6f58de365f2",
+    "lede": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T13:23:02Z",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+  },
+  "b": {
+    "item_id": "cab22266840304c9d83de605e8151bf37ea0aacd",
+    "lede": "Intel spin-off Cornelis and newcomer Delos Data pitch open alternatives for scaling AI beyond the rack",
+    "outlet": "theregister",
+    "published": "2026-09-15T20:56:48Z",
+    "title": "AI networking startups race to replace Nvidia's NVLink"
+  },
+  "score": 0.396841
+}

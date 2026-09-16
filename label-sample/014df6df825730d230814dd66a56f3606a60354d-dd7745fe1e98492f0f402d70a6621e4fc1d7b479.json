@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "dd7745fe1e98492f0f402d70a6621e4fc1d7b479",
+    "lede": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T13:45:54Z",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+  },
+  "score": 0.425293
+}

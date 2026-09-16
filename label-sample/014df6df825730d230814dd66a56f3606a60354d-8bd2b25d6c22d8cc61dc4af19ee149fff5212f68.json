@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "8bd2b25d6c22d8cc61dc4af19ee149fff5212f68",
+    "lede": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+    "outlet": "tomshardware",
+    "published": "2026-09-14T14:23:12Z",
+    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows \u2014 CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting"
+  },
+  "score": 0.36716
+}

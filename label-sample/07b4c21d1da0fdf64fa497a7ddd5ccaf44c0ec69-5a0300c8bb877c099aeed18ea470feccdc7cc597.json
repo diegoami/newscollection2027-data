@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "07b4c21d1da0fdf64fa497a7ddd5ccaf44c0ec69",
+    "lede": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T17:26:41Z",
+    "title": "Spain's data agency gets first report of AI-powered data breach"
+  },
+  "b": {
+    "item_id": "5a0300c8bb877c099aeed18ea470feccdc7cc597",
+    "lede": "SPONSORED FEATURE: DigiCert wants to hand every agent a passport, complete with an expiry date and a named human owner",
+    "outlet": "theregister",
+    "published": "2026-09-15T15:00:00Z",
+    "title": "Who's governing your AI? A trust framework for enterprise agents and models"
+  },
+  "score": 0.472862
+}

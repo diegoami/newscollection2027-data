@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "6fed5ccb7044b68ed96b9b144154c77b4b3da441",
+    "lede": "The update lets you contact VIPs with a tap and adds scam protection.",
+    "outlet": "zdnet",
+    "published": "2026-09-16T16:25:53Z",
+    "title": "How September\u2019s Pixel Drop changes the way you call and message important contacts"
+  },
+  "score": 0.321308
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "566c9d5fe52b15dfc941b09df040cc7090d97a70",
+    "lede": "Siri\u2019s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install.",
+    "outlet": "wired",
+    "published": "2026-09-16T19:29:15Z",
+    "title": "MacOS 27 Golden Gate: Top New Features"
+  },
+  "score": 0.315486
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "02abb8e396706cee09c5d65427790aa74a3e7b42",
+    "lede": "Redmond outlines 'aspirational' goals for model behavior, but gives itself a pass if it gets things wrong",
+    "outlet": "theregister",
+    "published": "2026-09-15T00:15:29Z",
+    "title": "Microsoft drafts feel-good AI model guidelines and wants your input"
+  },
+  "b": {
+    "item_id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
+    "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Google will now let any AI agent run your smart home"
+  },
+  "score": 0.458038
+}

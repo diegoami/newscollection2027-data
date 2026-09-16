@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "02abb8e396706cee09c5d65427790aa74a3e7b42",
+    "lede": "Redmond outlines 'aspirational' goals for model behavior, but gives itself a pass if it gets things wrong",
+    "outlet": "theregister",
+    "published": "2026-09-15T00:15:29Z",
+    "title": "Microsoft drafts feel-good AI model guidelines and wants your input"
+  },
+  "b": {
+    "item_id": "fa2ebb7707766c86425b4c18d1fad8f5312ae32a",
+    "lede": "Downloading a model is increasingly easy. Understanding how it was made, or changing a system at its root, is another matter",
+    "outlet": "theregister",
+    "published": "2026-09-15T08:30:00Z",
+    "title": "Open weights are not open source: Why AI's favorite label is under dispute"
+  },
+  "score": 0.402847
+}

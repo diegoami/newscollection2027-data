@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "047d99bbbc95e2a796ea0cfd2698d20ffdfec65c",
+    "lede": "'Enemies of the regime' on notice",
+    "outlet": "theregister",
+    "published": "2026-09-15T18:01:57Z",
+    "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware"
+  },
+  "b": {
+    "item_id": "90bf31e0e6a113b2939cfe0908873f04111704ef",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T12:16:32Z",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+  },
+  "score": 0.426175
+}

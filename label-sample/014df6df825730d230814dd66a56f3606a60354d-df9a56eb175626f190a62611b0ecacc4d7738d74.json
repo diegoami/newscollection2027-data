@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "df9a56eb175626f190a62611b0ecacc4d7738d74",
+    "lede": "CISA gives federal agencies just 3 days to patch",
+    "outlet": "theregister",
+    "published": "2026-09-16T17:56:31Z",
+    "title": "Google Pixel phones pwned in zero-click attacks"
+  },
+  "score": 0.384384
+}

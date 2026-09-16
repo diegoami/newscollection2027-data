@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "00396e44ab52af384cbf042325443f6e3dbababe",
+    "lede": "Ruby are you ok? Ruby are you ok? Are you ok Ruby?",
+    "outlet": "theregister",
+    "published": "2026-09-14T18:03:58Z",
+    "title": "OpenAI's malicious bot swarm attacked RubyGems"
+  },
+  "b": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "score": 0.334456
+}

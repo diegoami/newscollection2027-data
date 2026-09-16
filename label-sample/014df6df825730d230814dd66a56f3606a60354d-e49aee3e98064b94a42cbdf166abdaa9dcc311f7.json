@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
+    "lede": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs \u2014 new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T11:00:00Z",
+    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations"
+  },
+  "score": 0.377576
+}

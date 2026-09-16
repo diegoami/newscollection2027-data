@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "014df6df825730d230814dd66a56f3606a60354d",
+    "lede": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T18:50:53Z",
+    "title": "Malware bypasses browser checks to force install Chrome, Edge extensions"
+  },
+  "b": {
+    "item_id": "cb035bc8dd07a01ea31cbcb1271dfc250f453741",
+    "lede": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+    "outlet": "arstechnica",
+    "published": "2026-09-16T20:23:16Z",
+    "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers"
+  },
+  "score": 0.397981
+}

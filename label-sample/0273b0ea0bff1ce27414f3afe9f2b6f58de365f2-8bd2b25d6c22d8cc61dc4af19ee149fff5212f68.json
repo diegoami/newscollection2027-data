@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "0273b0ea0bff1ce27414f3afe9f2b6f58de365f2",
+    "lede": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T13:23:02Z",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+  },
+  "b": {
+    "item_id": "8bd2b25d6c22d8cc61dc4af19ee149fff5212f68",
+    "lede": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+    "outlet": "tomshardware",
+    "published": "2026-09-14T14:23:12Z",
+    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows \u2014 CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting"
+  },
+  "score": 0.364861
+}

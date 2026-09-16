@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "1c819a001b237acd3e449763bf4c5f990136a355",
+    "lede": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
+    "outlet": "theregister",
+    "published": "2026-09-15T16:01:00Z",
+    "title": "Cisco email security boxes can be rooted by... an email"
+  },
+  "b": {
+    "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
+    "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T11:14:28Z",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+  },
+  "score": 0.636652
+}
