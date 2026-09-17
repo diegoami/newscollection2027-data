@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "626d0108a886afc729afbfc919d21f866fcdb27b",
+    "lede": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T16:09:58Z",
+    "title": "Apple will let EU apps use less-alarming tracking-consent screens"
+  },
+  "b": {
+    "item_id": "b1674a2eac88691f4c17fc6733283a85c1173140",
+    "lede": "New features like Health Age bring Apple's app more in line with competitors like Whoop and Oura.",
+    "outlet": "engadget",
+    "published": "2026-09-16T21:18:43Z",
+    "title": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta"
+  },
+  "score": 0.615251
+}

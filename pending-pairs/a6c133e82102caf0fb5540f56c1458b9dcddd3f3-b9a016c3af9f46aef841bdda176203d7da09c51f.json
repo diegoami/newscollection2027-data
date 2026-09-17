@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "a6c133e82102caf0fb5540f56c1458b9dcddd3f3",
+    "lede": "Model maker commits to new framework for reporting misaligned models.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T16:18:34Z",
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents"
+  },
+  "b": {
+    "item_id": "b9a016c3af9f46aef841bdda176203d7da09c51f",
+    "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "outlet": "wired",
+    "published": "2026-09-16T22:07:24Z",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+  },
+  "score": 0.642546
+}

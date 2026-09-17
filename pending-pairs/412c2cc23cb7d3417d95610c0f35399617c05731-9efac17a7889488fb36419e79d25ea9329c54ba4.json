@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "412c2cc23cb7d3417d95610c0f35399617c05731",
+    "lede": "Validation? Apparently that comes after deployment",
+    "outlet": "theregister",
+    "published": "2026-09-17T15:17:00Z",
+    "title": "Microsoft configuration change leaves SharePoint pages drawing a blank"
+  },
+  "b": {
+    "item_id": "9efac17a7889488fb36419e79d25ea9329c54ba4",
+    "lede": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T08:24:48Z",
+    "title": "Microsoft shares workaround for Windows domain login issues"
+  },
+  "score": 0.572421
+}
