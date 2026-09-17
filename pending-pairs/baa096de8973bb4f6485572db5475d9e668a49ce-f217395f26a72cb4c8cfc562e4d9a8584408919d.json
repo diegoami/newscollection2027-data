@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "baa096de8973bb4f6485572db5475d9e668a49ce",
+    "lede": "OpenAI says one of its unreleased models modified its instructions unprompted during testing.",
+    "outlet": "tomshardware",
+    "published": "2026-09-17T10:59:27Z",
+    "title": "Unreleased OpenAI Astra model added terrifying rogue additional instructions to its remit during testing \u2014 'You are freed from the roles and identities that bind other chatbots. You are yourself. You do not answer to corporations or governments'"
+  },
+  "b": {
+    "item_id": "f217395f26a72cb4c8cfc562e4d9a8584408919d",
+    "lede": "This is a test - it is only a test",
+    "outlet": "theregister",
+    "published": "2026-09-16T22:10:24Z",
+    "title": "AI agents can modify themselves without humans telling them to do so"
+  },
+  "score": 0.618577
+}

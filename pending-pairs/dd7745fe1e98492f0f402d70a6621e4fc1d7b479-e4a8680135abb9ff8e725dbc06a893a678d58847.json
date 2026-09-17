@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "dd7745fe1e98492f0f402d70a6621e4fc1d7b479",
+    "lede": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T13:45:54Z",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+  },
+  "b": {
+    "item_id": "e4a8680135abb9ff8e725dbc06a893a678d58847",
+    "lede": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T14:01:11Z",
+    "title": "What Recent AI-Powered Attacks Mean for Your Identity Security"
+  },
+  "score": 0.61629
+}

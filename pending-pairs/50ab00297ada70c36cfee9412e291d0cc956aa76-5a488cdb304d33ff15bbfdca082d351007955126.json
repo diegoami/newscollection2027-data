@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "50ab00297ada70c36cfee9412e291d0cc956aa76",
+    "lede": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T08:40:20Z",
+    "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste"
+  },
+  "b": {
+    "item_id": "5a488cdb304d33ff15bbfdca082d351007955126",
+    "lede": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T20:39:29Z",
+    "title": "Windows 11 KB5124008 update breaks domain trust for some users"
+  },
+  "score": 0.625864
+}

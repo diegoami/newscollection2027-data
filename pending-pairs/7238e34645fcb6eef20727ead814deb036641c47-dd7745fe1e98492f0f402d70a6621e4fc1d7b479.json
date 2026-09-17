@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "7238e34645fcb6eef20727ead814deb036641c47",
+    "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T07:20:54Z",
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
+  },
+  "b": {
+    "item_id": "dd7745fe1e98492f0f402d70a6621e4fc1d7b479",
+    "lede": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T13:45:54Z",
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+  },
+  "score": 0.614503
+}

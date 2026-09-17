@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "355367e5b05194a09fd85d4ba7fef706fc77d906",
+    "lede": "Microsoft fixes RDP and Hyper-V fallout, but some USB audio stays silent",
+    "outlet": "theregister",
+    "published": "2026-09-15T13:33:55Z",
+    "title": "September's Windows 11 patch needs an emergency patch of its own"
+  },
+  "b": {
+    "item_id": "b66e9b2e7b75082cb42654d6b83ffa9986860dcf",
+    "lede": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+    "outlet": "zdnet",
+    "published": "2026-09-14T17:27:48Z",
+    "title": "The latest Windows 11 update may mess with your device\u2019s audio \u2013 here\u2019s the workaround"
+  },
+  "score": 0.64753
+}

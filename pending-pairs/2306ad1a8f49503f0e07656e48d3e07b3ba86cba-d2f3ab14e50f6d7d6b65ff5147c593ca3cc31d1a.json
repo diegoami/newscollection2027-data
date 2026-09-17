@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
+    "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Google will now let any AI agent run your smart home"
+  },
+  "b": {
+    "item_id": "d2f3ab14e50f6d7d6b65ff5147c593ca3cc31d1a",
+    "lede": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-16T23:40:00Z",
+    "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac"
+  },
+  "score": 0.646477
+}

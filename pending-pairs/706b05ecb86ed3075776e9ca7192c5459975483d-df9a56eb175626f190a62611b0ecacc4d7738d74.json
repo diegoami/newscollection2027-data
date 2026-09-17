@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "706b05ecb86ed3075776e9ca7192c5459975483d",
+    "lede": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T07:00:19Z",
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+  },
+  "b": {
+    "item_id": "df9a56eb175626f190a62611b0ecacc4d7738d74",
+    "lede": "CISA gives federal agencies just 3 days to patch",
+    "outlet": "theregister",
+    "published": "2026-09-16T17:56:31Z",
+    "title": "Google Pixel phones pwned in zero-click attacks"
+  },
+  "score": 0.629631
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "706b05ecb86ed3075776e9ca7192c5459975483d",
+    "lede": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T07:00:19Z",
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+  },
+  "b": {
+    "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
+    "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T11:14:28Z",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+  },
+  "score": 0.581747
+}

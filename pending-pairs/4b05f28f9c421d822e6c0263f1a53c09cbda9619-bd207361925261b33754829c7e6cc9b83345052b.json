@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "4b05f28f9c421d822e6c0263f1a53c09cbda9619",
+    "lede": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T14:06:14Z",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia"
+  },
+  "b": {
+    "item_id": "bd207361925261b33754829c7e6cc9b83345052b",
+    "lede": "Apple is reportedly interested in using Nvidia's NVLink Fusion for its own data center platforms.",
+    "outlet": "tomshardware",
+    "published": "2026-09-17T11:00:00Z",
+    "title": "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers \u2014 historically bitter rivals reportedly team up for 2029 data center push"
+  },
+  "score": 0.600559
+}

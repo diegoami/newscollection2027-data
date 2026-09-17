@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "4a8be412f3451de556f4d8368c04111b7e4407cd",
+    "lede": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "outlet": "techcrunch",
+    "published": "2026-09-15T20:12:53Z",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
+  },
+  "b": {
+    "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
+    "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Your AI agents can now control your Google Home devices"
+  },
+  "score": 0.646185
+}

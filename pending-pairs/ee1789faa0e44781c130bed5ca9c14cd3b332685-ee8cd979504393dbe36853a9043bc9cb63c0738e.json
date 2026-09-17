@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "ee1789faa0e44781c130bed5ca9c14cd3b332685",
+    "lede": "US vice-president\u2019s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: \u201cIf you\u2019re building Frankenstein, stop.\u201d In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of",
+    "outlet": "theguardian",
+    "published": "2026-09-16T10:42:07Z",
+    "title": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation"
+  },
+  "b": {
+    "item_id": "ee8cd979504393dbe36853a9043bc9cb63c0738e",
+    "lede": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T12:00:00Z",
+    "title": "Chinese state media counters Anthropic's call to put brakes on AI development \u2014 paper says move is \u2018a response to Chinese competition\u2019"
+  },
+  "score": 0.586235
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "426150b40dc87e2273cbb9fdf79c01967c4222a6",
+    "lede": "A new coalition of tech giants aims to speed AI data center grid connections in exchange for more flexibility.",
+    "outlet": "engadget",
+    "published": "2026-09-17T11:24:45Z",
+    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections"
+  },
+  "b": {
+    "item_id": "f75403310fba30a127bce591ec55ac86ae35fcd9",
+    "lede": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T13:38:33Z",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers"
+  },
+  "score": 0.676561
+}
