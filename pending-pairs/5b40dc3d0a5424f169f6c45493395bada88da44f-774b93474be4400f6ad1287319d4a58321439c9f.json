@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "5b40dc3d0a5424f169f6c45493395bada88da44f",
+    "lede": "A hacker collective pulled down a Flock camera and dumped its data. The files included thousands of videos and logs showing that the device captured 1.6 million images of 50,000 vehicles in 21 days.",
+    "outlet": "wired",
+    "published": "2026-09-16T10:30:00Z",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works"
+  },
+  "b": {
+    "item_id": "774b93474be4400f6ad1287319d4a58321439c9f",
+    "lede": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T09:43:46Z",
+    "title": "Hackers reveal how Flock cameras really track cars and people"
+  },
+  "score": 0.788197
+}
