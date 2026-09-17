@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "19f21df889c8301d8e32538836d1e84cb0adea1b",
+    "lede": "The latest iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.",
+    "outlet": "wired",
+    "published": "2026-09-14T18:44:44Z",
+    "title": "The Top New Features in Apple\u2019s iOS 27 and iPadOS 27"
+  },
+  "b": {
+    "item_id": "5d4a899972d4bf72c47eeeb1dd1669ac22273bfd",
+    "lede": "Cupertino's $2,000 foldable gives devs more screen, and more UI state to manage",
+    "outlet": "theregister",
+    "published": "2026-09-15T05:55:00Z",
+    "title": "Apple iPhone Duo makes developers think in folds"
+  },
+  "score": 0.489348
+}

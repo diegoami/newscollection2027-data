@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "1c819a001b237acd3e449763bf4c5f990136a355",
+    "lede": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
+    "outlet": "theregister",
+    "published": "2026-09-15T16:01:00Z",
+    "title": "Cisco email security boxes can be rooted by... an email"
+  },
+  "b": {
+    "item_id": "706b05ecb86ed3075776e9ca7192c5459975483d",
+    "lede": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T07:00:19Z",
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+  },
+  "score": 0.517124
+}

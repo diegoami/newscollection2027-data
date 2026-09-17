@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "35edba26b84c0a672f92322ff79dca2e7a313bdf",
+    "lede": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-16T10:02:05Z",
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms"
+  },
+  "b": {
+    "item_id": "9926842f06a1d29bc9ec3abae0f159015481a2db",
+    "lede": "Tech CEOs banding together is an old ruse recycled from corporate America to get a pass from antitrust laws Anthropic\u2019s Dario Amodei is not the first corporate CEO to suggest that excessive competition is driving the world to some socially undesirable outcome. The safety breach disclosed by OpenAI after a swarm of its agents coordinated to breach their supposedly secure",
+    "outlet": "theguardian",
+    "published": "2026-09-16T11:00:18Z",
+    "title": "Allowing AI firms to collude to \u2018pace the frontier\u2019 is a dangerous proposition"
+  },
+  "score": 0.568865
+}

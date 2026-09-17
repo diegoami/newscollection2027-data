@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "5604e23691ab88c4b3c72aaae73f7fd67b3259c2",
+    "lede": "War damage to data centers exceeded what AWS services are designed to withstand.",
+    "outlet": "arstechnica",
+    "published": "2026-09-16T16:40:11Z",
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data"
+  },
+  "b": {
+    "item_id": "fcc3a1bd073aefd403bad46ab1e342888237c803",
+    "lede": "Amazon Web Services' data centers in Abu Dhabi and Bahrain were struck by drone attacks more than six months ago. Now, the company has told customers to move their data to other regions, and it has no details on when repair work will be completed.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T11:00:00Z",
+    "title": "AWS tells clients to quit Middle East data centers six months after Iranian drone strikes \u2014 Amazon offers no recovery timeline as UAE mulls underground data centers [Updated]"
+  },
+  "score": 0.659451
+}
