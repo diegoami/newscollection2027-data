@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "a6c133e82102caf0fb5540f56c1458b9dcddd3f3",
+    "lede": "Model maker commits to new framework for reporting misaligned models.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T16:18:34Z",
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents"
+  },
+  "b": {
+    "item_id": "e7c5247c346312db8998d044c9a3fa9027948154",
+    "lede": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T18:55:12Z",
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions"
+  },
+  "score": 0.578247
+}

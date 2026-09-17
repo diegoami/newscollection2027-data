@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "030005702ad790eba9608e626c2c1ace79414154",
+    "lede": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-17T18:58:05Z",
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud"
+  },
+  "b": {
+    "item_id": "4a8be412f3451de556f4d8368c04111b7e4407cd",
+    "lede": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "outlet": "techcrunch",
+    "published": "2026-09-15T20:12:53Z",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
+  },
+  "score": 0.584697
+}

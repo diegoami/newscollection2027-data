@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "5212eb797be24aa0cac8241c4e052fe9bafd4e66",
+    "lede": "Why go through the hassle of reading a study for yourself when you can turn it into an AI agent and tell it to reproduce the analysis for you?",
+    "outlet": "theregister",
+    "published": "2026-09-17T16:42:35Z",
+    "title": "Scientific papers become agentic chatbots with new tool"
+  },
+  "b": {
+    "item_id": "f217395f26a72cb4c8cfc562e4d9a8584408919d",
+    "lede": "This is a test - it is only a test",
+    "outlet": "theregister",
+    "published": "2026-09-16T22:10:24Z",
+    "title": "AI agents can modify themselves without humans telling them to do so"
+  },
+  "score": 0.621109
+}

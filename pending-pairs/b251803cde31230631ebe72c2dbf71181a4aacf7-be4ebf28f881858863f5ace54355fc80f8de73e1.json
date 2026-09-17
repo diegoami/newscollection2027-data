@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "b251803cde31230631ebe72c2dbf71181a4aacf7",
+    "lede": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI development There have been some shocking claims in recent days about AI safety: we face a 10% chance of doom; AIs are worse than nukes; a \u201cbotnet\u201d threatens the entire internet; it\u2019s all a big tech psyop. Below, we look at six claims",
+    "outlet": "theguardian",
+    "published": "2026-09-15T17:54:48Z",
+    "title": "Could AI really wipe out humanity \u2013 six experts spell out the risks"
+  },
+  "b": {
+    "item_id": "be4ebf28f881858863f5ace54355fc80f8de73e1",
+    "lede": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T20:34:47Z",
+    "title": "The fix for rogue AI agents could be more AI"
+  },
+  "score": 0.58654
+}

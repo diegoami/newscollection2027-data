@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "e35d655bb9b82a8dbc2aa5487660206ae69cb087",
+    "lede": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T20:19:37Z",
+    "title": "Is the AI safety debate about safety or control?"
+  },
+  "b": {
+    "item_id": "ee1789faa0e44781c130bed5ca9c14cd3b332685",
+    "lede": "US vice-president\u2019s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: \u201cIf you\u2019re building Frankenstein, stop.\u201d In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of",
+    "outlet": "theguardian",
+    "published": "2026-09-16T10:42:07Z",
+    "title": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation"
+  },
+  "score": 0.579673
+}

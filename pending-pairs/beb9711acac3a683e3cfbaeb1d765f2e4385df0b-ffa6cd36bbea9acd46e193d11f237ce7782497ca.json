@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+    "lede": "Multiple family members can share data to help the agent make plans and complete tasks.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T20:24:34Z",
+    "title": "Google announces new experimental \"CC\" AI agent for families"
+  },
+  "b": {
+    "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
+    "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Your AI agents can now control your Google Home devices"
+  },
+  "score": 0.626458
+}

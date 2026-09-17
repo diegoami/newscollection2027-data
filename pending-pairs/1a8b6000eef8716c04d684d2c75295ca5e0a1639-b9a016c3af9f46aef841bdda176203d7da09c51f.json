@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "1a8b6000eef8716c04d684d2c75295ca5e0a1639",
+    "lede": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T20:34:24Z",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior"
+  },
+  "b": {
+    "item_id": "b9a016c3af9f46aef841bdda176203d7da09c51f",
+    "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "outlet": "wired",
+    "published": "2026-09-16T22:07:24Z",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+  },
+  "score": 0.683159
+}
