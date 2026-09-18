@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9efac17a7889488fb36419e79d25ea9329c54ba4",
+    "lede": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T08:24:48Z",
+    "title": "Microsoft shares workaround for Windows domain login issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/"
+  },
+  "b": {
+    "item_id": "b195acf073742003d90addbc7806b6da2e5e59f8",
+    "lede": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T07:35:31Z",
+    "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/"
+  },
+  "score": 0.692515
+}
