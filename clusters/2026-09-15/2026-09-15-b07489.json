@@ -3,6 +3,14 @@
   "id": "2026-09-15-b07489",
   "items": [
     {
+      "item_id": "b66e9b2e7b75082cb42654d6b83ffa9986860dcf",
+      "lede": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+      "outlet": "zdnet",
+      "published": "2026-09-14T17:27:48Z",
+      "title": "The latest Windows 11 update may mess with your device\u2019s audio \u2013 here\u2019s the workaround",
+      "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/"
+    },
+    {
       "item_id": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
       "lede": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs \u2014 new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
       "outlet": "tomshardware",
@@ -28,5 +36,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
