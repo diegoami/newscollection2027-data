@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+    "lede": "Agentic exploits for the win (again)",
+    "outlet": "theregister",
+    "published": "2026-09-18T17:16:00Z",
+    "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+    "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
+  },
+  "b": {
+    "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+    "lede": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-09-18T14:00:14Z",
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+  },
+  "score": 0.687644
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1df9d681963b7a40d16826cef6b6c5d81d474419",
+    "lede": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google\u2019s threat intelligence group says it had a mole inside the hackers\u2019 inner circle.",
+    "outlet": "wired",
+    "published": "2026-09-18T16:00:00Z",
+    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+    "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+  },
+  "b": {
+    "item_id": "90bf31e0e6a113b2939cfe0908873f04111704ef",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T12:16:32Z",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
+  },
+  "score": 0.581611
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+    "lede": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-09-18T14:00:14Z",
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+  },
+  "b": {
+    "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+    "lede": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-18T15:30:16Z",
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+  },
+  "score": 0.791524
+}

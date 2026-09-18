@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "b": {
+    "item_id": "eb7139f19125950429275c91121025e5d1f5c8c0",
+    "lede": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T16:00:38Z",
+    "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+    "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/"
+  },
+  "score": 0.582405
+}

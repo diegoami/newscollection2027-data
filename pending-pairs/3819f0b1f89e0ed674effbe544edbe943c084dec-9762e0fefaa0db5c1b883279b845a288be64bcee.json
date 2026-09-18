@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+    "lede": "Agentic exploits for the win (again)",
+    "outlet": "theregister",
+    "published": "2026-09-18T17:16:00Z",
+    "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+    "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
+  },
+  "b": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "score": 0.687772
+}

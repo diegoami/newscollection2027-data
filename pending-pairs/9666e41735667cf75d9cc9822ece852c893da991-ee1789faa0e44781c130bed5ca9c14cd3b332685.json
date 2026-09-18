@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "e35d655bb9b82a8dbc2aa5487660206ae69cb087",
-    "lede": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "item_id": "9666e41735667cf75d9cc9822ece852c893da991",
+    "lede": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it\u2019s already picked up some industry support, along with some pointed pushback from Nvidia\u2019s Jensen Huang.",
     "outlet": "techcrunch",
-    "published": "2026-09-17T20:19:37Z",
-    "title": "Is the AI safety debate about safety or control?",
-    "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/"
+    "published": "2026-09-18T17:09:56Z",
+    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+    "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
   },
   "b": {
     "item_id": "ee1789faa0e44781c130bed5ca9c14cd3b332685",
@@ -15,5 +15,5 @@
     "title": "\u2018If you\u2019re building Frankenstein, stop\u2019: JD Vance dismisses calls for AI regulation",
     "url": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation"
   },
-  "score": 0.579672
+  "score": 0.584802
 }
