@@ -1,0 +1,22 @@
+{
+  "anchor": "b1cb167b3fcd70682e08f6700f04bb06408b2e0a",
+  "id": "2026-09-16-340216",
+  "items": [
+    {
+      "item_id": "b1cb167b3fcd70682e08f6700f04bb06408b2e0a",
+      "lede": "Meta is making the platform even better for podcast promotion.",
+      "outlet": "engadget",
+      "published": "2026-09-16T14:00:00Z",
+      "title": "Threads leans even further into podcasts with transcripts, analytics and more"
+    },
+    {
+      "item_id": "39749b412919dd1d53c267f55f1dc8b949ce5b68",
+      "lede": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "outlet": "techcrunch",
+      "published": "2026-09-16T14:24:58Z",
+      "title": "Threads\u2019 new features let podcasters promote shows and reach listeners"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

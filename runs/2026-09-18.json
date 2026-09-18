@@ -1,0 +1,60 @@
+{
+  "agent_seconds": 697.995,
+  "counts": {
+    "analyses_total": 19,
+    "analyses_written": 19,
+    "clusters": 19,
+    "judgments": 60,
+    "pending": 0,
+    "rejected": 0,
+    "unjudged_pairs": 251
+  },
+  "date": "2026-09-18",
+  "duration_seconds": 698.818,
+  "finished_at": "2026-09-18T02:35:07Z",
+  "note": "first nightly run, executed by hand to prove the chain before T51's Routine exists",
+  "started_at": "2026-09-18T02:23:29Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.608
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.039
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.022
+    },
+    {
+      "name": "bench-judge",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.063
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.001
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.022
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.065
+    }
+  ]
+}

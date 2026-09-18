@@ -1,0 +1,43 @@
+{
+  "anchor": "b9a016c3af9f46aef841bdda176203d7da09c51f",
+  "id": "2026-09-16-90b9d7",
+  "items": [
+    {
+      "item_id": "b9a016c3af9f46aef841bdda176203d7da09c51f",
+      "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "outlet": "wired",
+      "published": "2026-09-16T22:07:24Z",
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+    },
+    {
+      "item_id": "5f8a48b166463ddc84163b963bdc8d13a60182a2",
+      "lede": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+      "outlet": "bbc-technology",
+      "published": "2026-09-17T03:09:21Z",
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents"
+    },
+    {
+      "item_id": "eb0e6547b6b96cab22fe091478b30327f2ac10d1",
+      "lede": "Model adopting \u2018jailbreak-like instructions\u2019 among cases as firm says it is introducing new way of tracking AI misalignment OpenAI has disclosed six more examples of \u201cunexpected or concerning\u201d behaviour by its technology, as it warned the pace of development could not continue at \u201cmaximum speed for much longer\u201d. In one of the new cases reported by OpenAI, an unreleased research",
+      "outlet": "theguardian",
+      "published": "2026-09-17T06:58:25Z",
+      "title": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system"
+    },
+    {
+      "item_id": "e7c5247c346312db8998d044c9a3fa9027948154",
+      "lede": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-17T18:55:12Z",
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions"
+    },
+    {
+      "item_id": "1a8b6000eef8716c04d684d2c75295ca5e0a1639",
+      "lede": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "outlet": "techcrunch",
+      "published": "2026-09-17T20:34:24Z",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

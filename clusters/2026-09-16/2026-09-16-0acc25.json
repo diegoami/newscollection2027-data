@@ -10,6 +10,13 @@
       "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works"
     },
     {
+      "item_id": "774b93474be4400f6ad1287319d4a58321439c9f",
+      "lede": "One hacked camera captured 1.6 million images and could detect people as well as cars.",
+      "outlet": "arstechnica",
+      "published": "2026-09-17T09:43:46Z",
+      "title": "Hackers reveal how Flock cameras really track cars and people"
+    },
+    {
       "item_id": "d7f3cfe43602c64eacbf80963d1960c12c67da5b",
       "lede": "Hacking group stegan0gram got its hands on a Flock camera and broke into its systems to see how it worked. It turns out that these devices store thousands of clips and captures millions of images, and could also detect people, aside from cars, motorbikes, and license plates.",
       "outlet": "tomshardware",
@@ -17,6 +24,6 @@
       "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials \u2014 group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }
