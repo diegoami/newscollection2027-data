@@ -4,14 +4,16 @@
     "lede": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
     "outlet": "techcrunch",
     "published": "2026-09-17T20:34:24Z",
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior"
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
   },
   "b": {
     "item_id": "a6c133e82102caf0fb5540f56c1458b9dcddd3f3",
     "lede": "Model maker commits to new framework for reporting misaligned models.",
     "outlet": "arstechnica",
     "published": "2026-09-17T16:18:34Z",
-    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents"
+    "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
+    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/"
   },
   "score": 0.591524
 }

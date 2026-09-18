@@ -4,14 +4,16 @@
     "lede": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
     "outlet": "theregister",
     "published": "2026-09-15T16:01:00Z",
-    "title": "Cisco email security boxes can be rooted by... an email"
+    "title": "Cisco email security boxes can be rooted by... an email",
+    "url": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
   },
   "b": {
     "item_id": "90bf31e0e6a113b2939cfe0908873f04111704ef",
     "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T12:16:32Z",
-    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
   },
   "score": 0.624643
 }

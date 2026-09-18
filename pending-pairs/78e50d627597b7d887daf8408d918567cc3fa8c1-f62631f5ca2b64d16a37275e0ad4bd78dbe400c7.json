@@ -4,14 +4,16 @@
     "lede": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T13:09:09Z",
-    "title": "Windows 11 24H2 Home and Pro reach end of support in October"
+    "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/"
   },
   "b": {
     "item_id": "f62631f5ca2b64d16a37275e0ad4bd78dbe400c7",
     "lede": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T09:10:20Z",
-    "title": "Windows Server 2022 reaches end of mainstream support next month"
+    "title": "Windows Server 2022 reaches end of mainstream support next month",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/"
   },
   "score": 0.691483
 }

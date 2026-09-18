@@ -4,14 +4,16 @@
     "lede": "Pizza Bot runs locally and lets users interact with AI agents in an email-like interface. Perfect for blowing them off just like your human colleagues!",
     "outlet": "theregister",
     "published": "2026-09-15T20:25:44Z",
-    "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS"
+    "title": "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/15/your-ai-agents-reports-and-questions-have-a-new-inbox-courtesy-of-aws/5296661"
   },
   "b": {
     "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
     "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
     "outlet": "techcrunch",
     "published": "2026-09-16T17:00:00Z",
-    "title": "Your AI agents can now control your Google Home devices"
+    "title": "Your AI agents can now control your Google Home devices",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
   },
   "score": 0.63589
 }

@@ -4,14 +4,16 @@
     "lede": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T08:24:48Z",
-    "title": "Microsoft shares workaround for Windows domain login issues"
+    "title": "Microsoft shares workaround for Windows domain login issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/"
   },
   "b": {
     "item_id": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
     "lede": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs \u2014 new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
     "outlet": "tomshardware",
     "published": "2026-09-15T11:00:00Z",
-    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations"
+    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations",
+    "url": "https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations"
   },
   "score": 0.624724
 }

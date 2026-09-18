@@ -4,14 +4,16 @@
     "lede": "Perplexity and Nvidia released Portable Computer for Windows on Sept. 14, bringing the local-first AI agent to GeForce RTX and RTX PRO GPUs with 24GB or more of VRAM.",
     "outlet": "tomshardware",
     "published": "2026-09-15T09:24:32Z",
-    "title": "Perplexity\u2019s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM \u2014 Portable Computer brings AI for multistep tasks to compatible PCs"
+    "title": "Perplexity\u2019s local AI agent comes to Windows, but only for RTX GPUs with at least 24GB of VRAM \u2014 Portable Computer brings AI for multistep tasks to compatible PCs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs"
   },
   "b": {
     "item_id": "8bd2b25d6c22d8cc61dc4af19ee149fff5212f68",
     "lede": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
     "outlet": "tomshardware",
     "published": "2026-09-14T14:23:12Z",
-    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows \u2014 CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting"
+    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows \u2014 CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting"
   },
   "score": 0.600581
 }

@@ -4,14 +4,16 @@
     "lede": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
     "outlet": "bbc-technology",
     "published": "2026-09-17T03:09:21Z",
-    "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents"
+    "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+    "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o"
   },
   "b": {
     "item_id": "b9a016c3af9f46aef841bdda176203d7da09c51f",
     "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
     "outlet": "wired",
     "published": "2026-09-16T22:07:24Z",
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
   },
   "score": 0.650931
 }

@@ -4,14 +4,16 @@
     "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T12:16:32Z",
-    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
   },
   "b": {
     "item_id": "dd7745fe1e98492f0f402d70a6621e4fc1d7b479",
     "lede": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T13:45:54Z",
-    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+    "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/"
   },
   "score": 0.588021
 }

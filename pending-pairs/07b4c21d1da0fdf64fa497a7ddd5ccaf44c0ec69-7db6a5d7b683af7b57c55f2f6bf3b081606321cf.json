@@ -4,14 +4,16 @@
     "lede": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T17:26:41Z",
-    "title": "Spain's data agency gets first report of AI-powered data breach"
+    "title": "Spain's data agency gets first report of AI-powered data breach",
+    "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
   },
   "b": {
     "item_id": "7db6a5d7b683af7b57c55f2f6bf3b081606321cf",
     "lede": "Data protection chiefs call for 'immediate review' of data protection models",
     "outlet": "theregister",
     "published": "2026-09-16T11:56:55Z",
-    "title": "Spain gets its first taste of AI-aided cyber attack"
+    "title": "Spain gets its first taste of AI-aided cyber attack",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844"
   },
   "score": 0.635557
 }

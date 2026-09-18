@@ -4,14 +4,16 @@
     "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T07:20:54Z",
-    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
   },
   "b": {
     "item_id": "90bf31e0e6a113b2939cfe0908873f04111704ef",
     "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T12:16:32Z",
-    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
   },
   "score": 0.647043
 }

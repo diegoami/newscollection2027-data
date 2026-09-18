@@ -4,14 +4,16 @@
     "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T07:20:54Z",
-    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
   },
   "b": {
     "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
     "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T11:14:28Z",
-    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
   },
   "score": 0.694216
 }

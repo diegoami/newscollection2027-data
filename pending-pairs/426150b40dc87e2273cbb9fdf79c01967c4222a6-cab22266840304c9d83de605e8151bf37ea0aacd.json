@@ -4,14 +4,16 @@
     "lede": "A new coalition of tech giants aims to speed AI data center grid connections in exchange for more flexibility.",
     "outlet": "engadget",
     "published": "2026-09-17T11:24:45Z",
-    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections"
+    "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
+    "url": "https://www.engadget.com/2260986/nvidia-google-emerald-coalition-data-center-power/"
   },
   "b": {
     "item_id": "cab22266840304c9d83de605e8151bf37ea0aacd",
     "lede": "Intel spin-off Cornelis and newcomer Delos Data pitch open alternatives for scaling AI beyond the rack",
     "outlet": "theregister",
     "published": "2026-09-15T20:56:48Z",
-    "title": "AI networking startups race to replace Nvidia's NVLink"
+    "title": "AI networking startups race to replace Nvidia's NVLink",
+    "url": "https://www.theregister.com/systems/2026/09/15/ai-networking-startups-race-to-replace-nvidias-nvlink/5296672"
   },
   "score": 0.57286
 }

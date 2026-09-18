@@ -4,14 +4,16 @@
     "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T12:16:32Z",
-    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs"
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
   },
   "b": {
     "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
     "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T11:14:28Z",
-    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
   },
   "score": 0.812401
 }

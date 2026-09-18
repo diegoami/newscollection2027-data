@@ -4,14 +4,16 @@
     "lede": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [\u2026]",
     "outlet": "theverge",
     "published": "2026-09-16T16:30:00Z",
-    "title": "Claude comes for Gemini with its own take on Docs and Slides"
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
   },
   "b": {
     "item_id": "c1c590a699f01e4ecd011d97cd735edd827ff210",
     "lede": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
     "outlet": "engadget",
     "published": "2026-09-16T16:30:00Z",
-    "title": "Anthropic's Claude can now create editable documents for you"
+    "title": "Anthropic's Claude can now create editable documents for you",
+    "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/"
   },
   "score": 0.626775
 }

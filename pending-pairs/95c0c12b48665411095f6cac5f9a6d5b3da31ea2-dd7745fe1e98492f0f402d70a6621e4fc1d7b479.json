@@ -4,14 +4,16 @@
     "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T11:14:28Z",
-    "title": "Critical ScreenConnect flaw now actively exploited in attacks"
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
   },
   "b": {
     "item_id": "dd7745fe1e98492f0f402d70a6621e4fc1d7b479",
     "lede": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T13:45:54Z",
-    "title": "What Zero-Day Response Should Be in the Post-Mythos Era"
+    "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+    "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/"
   },
   "score": 0.650342
 }

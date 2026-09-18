@@ -4,14 +4,16 @@
     "lede": "War damage to data centers exceeded what AWS services are designed to withstand.",
     "outlet": "arstechnica",
     "published": "2026-09-16T16:40:11Z",
-    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data"
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/"
   },
   "b": {
     "item_id": "d4df3e94d6f5924c2919616a96701e76a8877bcc",
     "lede": "Amazon Web Services didn\u2019t design its data centers to withstand war, and now the company admits it can\u2019t recover what\u2019s been lost.",
     "outlet": "wired",
     "published": "2026-09-17T19:15:00Z",
-    "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers"
+    "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+    "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/"
   },
   "score": 0.829135
 }

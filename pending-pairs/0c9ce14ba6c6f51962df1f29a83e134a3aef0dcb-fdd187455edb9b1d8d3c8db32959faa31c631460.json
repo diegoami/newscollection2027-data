@@ -4,14 +4,16 @@
     "lede": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T09:00:00Z",
-    "title": "Chinese hackers use SparroWocky malware in govt espionage attacks"
+    "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/"
   },
   "b": {
     "item_id": "fdd187455edb9b1d8d3c8db32959faa31c631460",
     "lede": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T20:24:55Z",
-    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets"
+    "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+    "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/"
   },
   "score": 0.621072
 }

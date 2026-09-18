@@ -4,14 +4,16 @@
     "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
     "outlet": "wired",
     "published": "2026-09-16T22:07:24Z",
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
   },
   "b": {
     "item_id": "eb0e6547b6b96cab22fe091478b30327f2ac10d1",
     "lede": "Model adopting \u2018jailbreak-like instructions\u2019 among cases as firm says it is introducing new way of tracking AI misalignment OpenAI has disclosed six more examples of \u201cunexpected or concerning\u201d behaviour by its technology, as it warned the pace of development could not continue at \u201cmaximum speed for much longer\u201d. In one of the new cases reported by OpenAI, an unreleased research",
     "outlet": "theguardian",
     "published": "2026-09-17T06:58:25Z",
-    "title": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system"
+    "title": "OpenAI reveals cases of \u2018concerning\u2019 AI behaviour as it announces new disclosure system",
+    "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents"
   },
   "score": 0.699677
 }

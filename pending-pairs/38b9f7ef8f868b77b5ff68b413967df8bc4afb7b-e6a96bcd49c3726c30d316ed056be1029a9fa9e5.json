@@ -4,14 +4,16 @@
     "lede": "Forum post claims 7.49 million files up for grabs as Texas utility investigates breach",
     "outlet": "theregister",
     "published": "2026-09-15T14:14:00Z",
-    "title": "CenterPoint Energy confirms intruder helped themselves to customer information"
+    "title": "CenterPoint Energy confirms intruder helped themselves to customer information",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/15/centerpoint-energy-confirms-intruder-helped-themselves-to-customer-information/5296523"
   },
   "b": {
     "item_id": "e6a96bcd49c3726c30d316ed056be1029a9fa9e5",
     "lede": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T16:40:14Z",
-    "title": "CenterPoint Energy confirms customer data stolen in cyberattack"
+    "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/"
   },
   "score": 0.675849
 }

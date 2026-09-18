@@ -4,14 +4,16 @@
     "lede": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
     "outlet": "theregister",
     "published": "2026-09-15T16:01:00Z",
-    "title": "Cisco email security boxes can be rooted by... an email"
+    "title": "Cisco email security boxes can be rooted by... an email",
+    "url": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
   },
   "b": {
     "item_id": "a58825c13db176da0fd919f3d107eed469fb599f",
     "lede": "ISE authentication bypass under active attack just days after another Cisco zero-day sent admins scrambling to patch",
     "outlet": "theregister",
     "published": "2026-09-17T12:40:00Z",
-    "title": "Cisco drops another exploited zero-day, this time a perfect 10"
+    "title": "Cisco drops another exploited zero-day, this time a perfect 10",
+    "url": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
   },
   "score": 0.59878
 }

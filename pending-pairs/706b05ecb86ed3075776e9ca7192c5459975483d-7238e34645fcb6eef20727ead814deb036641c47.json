@@ -4,14 +4,16 @@
     "lede": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-16T07:00:19Z",
-    "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+    "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+    "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/"
   },
   "b": {
     "item_id": "7238e34645fcb6eef20727ead814deb036641c47",
     "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T07:20:54Z",
-    "title": "Cisco warns of max severity ISE zero-day exploited in attacks"
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
   },
   "score": 0.614026
 }

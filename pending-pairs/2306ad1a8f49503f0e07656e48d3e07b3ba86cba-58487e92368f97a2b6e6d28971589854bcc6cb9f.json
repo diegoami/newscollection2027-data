@@ -4,14 +4,16 @@
     "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
     "outlet": "theverge",
     "published": "2026-09-16T17:00:00Z",
-    "title": "Google will now let any AI agent run your smart home"
+    "title": "Google will now let any AI agent run your smart home",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
   },
   "b": {
     "item_id": "58487e92368f97a2b6e6d28971589854bcc6cb9f",
     "lede": "We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of",
     "outlet": "theguardian",
     "published": "2026-09-14T12:00:59Z",
-    "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner"
+    "title": "I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner",
+    "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings"
   },
   "score": 0.610708
 }

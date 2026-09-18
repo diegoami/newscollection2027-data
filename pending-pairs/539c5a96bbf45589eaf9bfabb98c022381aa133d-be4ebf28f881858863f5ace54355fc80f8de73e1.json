@@ -4,14 +4,16 @@
     "lede": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it\u2019s time [\u2026]",
     "outlet": "theverge",
     "published": "2026-09-17T19:28:24Z",
-    "title": "The AI Superintelligence Slowdown"
+    "title": "The AI Superintelligence Slowdown",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
   },
   "b": {
     "item_id": "be4ebf28f881858863f5ace54355fc80f8de73e1",
     "lede": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
     "outlet": "techcrunch",
     "published": "2026-09-17T20:34:47Z",
-    "title": "The fix for rogue AI agents could be more AI"
+    "title": "The fix for rogue AI agents could be more AI",
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
   },
   "score": 0.74192
 }

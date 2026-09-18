@@ -4,14 +4,16 @@
     "lede": "Machine Identity Isolation policies can reject valid credentials unless controllers meet the Server 2025 functional level",
     "outlet": "theregister",
     "published": "2026-09-17T13:45:00Z",
-    "title": "Microsoft patch gives domain-joined Windows PCs trust issues"
+    "title": "Microsoft patch gives domain-joined Windows PCs trust issues",
+    "url": "https://www.theregister.com/os-platforms/2026/09/17/microsoft-patch-gives-domain-joined-windows-pcs-trust-issues/5297155"
   },
   "b": {
     "item_id": "9efac17a7889488fb36419e79d25ea9329c54ba4",
     "lede": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T08:24:48Z",
-    "title": "Microsoft shares workaround for Windows domain login issues"
+    "title": "Microsoft shares workaround for Windows domain login issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/"
   },
   "score": 0.667518
 }

@@ -4,14 +4,16 @@
     "lede": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
     "outlet": "wired",
     "published": "2026-09-16T22:07:24Z",
-    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
   },
   "b": {
     "item_id": "e7c5247c346312db8998d044c9a3fa9027948154",
     "lede": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-17T18:55:12Z",
-    "title": "OpenAI details more cases of AI agents taking unauthorized actions"
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
   },
   "score": 0.697593
 }

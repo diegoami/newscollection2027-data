@@ -4,14 +4,16 @@
     "lede": "Microsoft fixes RDP and Hyper-V fallout, but some USB audio stays silent",
     "outlet": "theregister",
     "published": "2026-09-15T13:33:55Z",
-    "title": "September's Windows 11 patch needs an emergency patch of its own"
+    "title": "September's Windows 11 patch needs an emergency patch of its own",
+    "url": "https://www.theregister.com/on-prem/2026/09/15/septembers-windows-11-patch-needs-an-emergency-patch-of-its-own/5296567"
   },
   "b": {
     "item_id": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
     "lede": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs \u2014 new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
     "outlet": "tomshardware",
     "published": "2026-09-15T11:00:00Z",
-    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations"
+    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations",
+    "url": "https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations"
   },
   "score": 0.639437
 }

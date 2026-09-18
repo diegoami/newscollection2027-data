@@ -4,14 +4,16 @@
     "lede": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T14:45:10Z",
-    "title": "Hackers target WordPress sites via third-party WooCommerce plugin"
+    "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/"
   },
   "b": {
     "item_id": "d97cf7bf1f8941660cf6bb384af12f78ee46b4e5",
     "lede": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
     "outlet": "bleepingcomputer",
     "published": "2026-09-15T20:34:15Z",
-    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites"
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
   },
   "score": 0.649276
 }
