@@ -1,0 +1,24 @@
+{
+  "anchor": "ecf8223020174538997e2b108f0d98248a8e8780",
+  "id": "2026-09-14-67cd9f",
+  "items": [
+    {
+      "item_id": "ecf8223020174538997e2b108f0d98248a8e8780",
+      "lede": "Attack dealt a 'critical blow' to aging infrastructure, with several weeks of disruption expected",
+      "outlet": "theregister",
+      "published": "2026-09-14T16:00:00Z",
+      "title": "Cyberattack sends International Meteor Organization crashing back to Earth",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/14/cyberattack-sends-international-meteor-organization-crashing-back-to-earth/5296282"
+    },
+    {
+      "item_id": "c60fc05e1d0d16b4d074b1228405d7242daa9d1d",
+      "lede": "Group plans to be largely out of commission for several weeks.",
+      "outlet": "arstechnica",
+      "published": "2026-09-16T21:08:14Z",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "506042be0e1af6396fdb85d1c436b82938518837",
+  "id": "2026-09-16-03d529",
+  "items": [
+    {
+      "item_id": "506042be0e1af6396fdb85d1c436b82938518837",
+      "lede": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-16T02:00:00Z",
+      "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+      "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16"
+    },
+    {
+      "item_id": "63b193dabff020fd6ded96889bfe3dfda264b62a",
+      "lede": "Boox has unveiled three new E Ink devices, including the Palma 3.",
+      "outlet": "engadget",
+      "published": "2026-09-16T08:35:49Z",
+      "title": "The new Boox Palma 3 comes with stylus support and an aluminum build",
+      "url": "https://www.engadget.com/2259862/boox-palma-3-note-air6-c-mini-c/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

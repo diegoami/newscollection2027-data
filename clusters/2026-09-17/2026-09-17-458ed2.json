@@ -1,0 +1,24 @@
+{
+  "anchor": "b560d389abd91d0df5b115d27de78b775646b579",
+  "id": "2026-09-17-458ed2",
+  "items": [
+    {
+      "item_id": "b560d389abd91d0df5b115d27de78b775646b579",
+      "lede": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "outlet": "zdnet",
+      "published": "2026-09-17T17:00:00Z",
+      "title": "Claude Code\u2019s revised projects adds AI orchestration, but local developers must wait",
+      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/"
+    },
+    {
+      "item_id": "030005702ad790eba9608e626c2c1ace79414154",
+      "lede": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-17T18:58:05Z",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

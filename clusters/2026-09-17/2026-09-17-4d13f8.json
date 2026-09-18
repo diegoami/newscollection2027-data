@@ -1,0 +1,24 @@
+{
+  "anchor": "7238e34645fcb6eef20727ead814deb036641c47",
+  "id": "2026-09-17-4d13f8",
+  "items": [
+    {
+      "item_id": "7238e34645fcb6eef20727ead814deb036641c47",
+      "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-17T07:20:54Z",
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
+    },
+    {
+      "item_id": "a58825c13db176da0fd919f3d107eed469fb599f",
+      "lede": "ISE authentication bypass under active attack just days after another Cisco zero-day sent admins scrambling to patch",
+      "outlet": "theregister",
+      "published": "2026-09-17T12:40:00Z",
+      "title": "Cisco drops another exploited zero-day, this time a perfect 10",
+      "url": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

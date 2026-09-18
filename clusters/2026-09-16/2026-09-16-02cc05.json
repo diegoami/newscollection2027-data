@@ -17,8 +17,16 @@
       "published": "2026-09-16T14:47:07Z",
       "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
       "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/"
+    },
+    {
+      "item_id": "df9a56eb175626f190a62611b0ecacc4d7738d74",
+      "lede": "CISA gives federal agencies just 3 days to patch",
+      "outlet": "theregister",
+      "published": "2026-09-16T17:56:31Z",
+      "title": "Google Pixel phones pwned in zero-click attacks",
+      "url": "https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

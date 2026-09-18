@@ -1,60 +1,65 @@
 {
-  "agent_seconds": 697.995,
+  "agent_seconds": 396.542,
   "counts": {
-    "analyses_total": 19,
-    "analyses_written": 19,
-    "clusters": 19,
-    "judgments": 60,
+    "analyses_total": 32,
+    "analyses_written": 16,
+    "clusters": 32,
+    "judgments": 120,
     "pending": 0,
     "rejected": 0,
-    "unjudged_pairs": 251
+    "unjudged_pairs": 192
   },
   "date": "2026-09-18",
-  "duration_seconds": 698.818,
-  "finished_at": "2026-09-18T02:35:07Z",
-  "note": "first nightly run, executed by hand to prove the chain before T51's Routine exists",
-  "started_at": "2026-09-18T02:23:29Z",
+  "duration_seconds": 397.32,
+  "finished_at": "2026-09-18T08:09:55Z",
+  "note": "second nightly by hand; first run with the cross-outlet-first judge queue",
+  "started_at": "2026-09-18T08:03:18Z",
   "status": "ok",
   "steps": [
     {
       "name": "sync pull",
       "ok": true,
-      "seconds": 0.608
-    },
-    {
-      "name": "judge",
-      "ok": false,
-      "seconds": 0.039
-    },
-    {
-      "name": "judge",
-      "ok": true,
-      "seconds": 0.022
-    },
-    {
-      "name": "bench-judge",
-      "ok": true,
-      "seconds": 0.003
-    },
-    {
-      "name": "cluster",
-      "ok": true,
-      "seconds": 0.063
+      "seconds": 0.47
     },
     {
       "name": "pending",
       "ok": true,
-      "seconds": 0.001
+      "seconds": 0.004
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.043
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.038
+    },
+    {
+      "name": "bench-judge",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.088
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.002
     },
     {
       "name": "validate",
       "ok": true,
-      "seconds": 0.022
+      "seconds": 0.024
     },
     {
       "name": "build",
       "ok": true,
-      "seconds": 0.065
+      "seconds": 0.103
     }
   ]
 }
