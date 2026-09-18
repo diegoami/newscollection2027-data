@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c819a001b237acd3e449763bf4c5f990136a355",
+    "lede": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
+    "outlet": "theregister",
+    "published": "2026-09-15T16:01:00Z",
+    "title": "Cisco email security boxes can be rooted by... an email",
+    "url": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
+  },
+  "b": {
+    "item_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+    "lede": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T09:34:33Z",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+  },
+  "score": 0.591684
+}

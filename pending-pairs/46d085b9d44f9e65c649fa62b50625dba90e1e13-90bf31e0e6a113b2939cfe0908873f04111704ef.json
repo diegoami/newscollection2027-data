@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+    "lede": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T09:34:33Z",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+  },
+  "b": {
+    "item_id": "90bf31e0e6a113b2939cfe0908873f04111704ef",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-15T12:16:32Z",
+    "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
+  },
+  "score": 0.576597
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+    "lede": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T09:34:33Z",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+  },
+  "b": {
+    "item_id": "7238e34645fcb6eef20727ead814deb036641c47",
+    "lede": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T07:20:54Z",
+    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.582582
+}

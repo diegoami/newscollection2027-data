@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+    "lede": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T09:34:33Z",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+  },
+  "b": {
+    "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
+    "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T11:14:28Z",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
+  },
+  "score": 0.594682
+}

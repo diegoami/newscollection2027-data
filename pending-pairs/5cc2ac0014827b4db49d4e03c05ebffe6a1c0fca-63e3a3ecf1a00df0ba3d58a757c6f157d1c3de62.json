@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+    "lede": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T19:46:08Z",
+    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+  },
+  "b": {
+    "item_id": "63e3a3ecf1a00df0ba3d58a757c6f157d1c3de62",
+    "lede": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.",
+    "outlet": "engadget",
+    "published": "2026-09-18T11:22:31Z",
+    "title": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+    "url": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/"
+  },
+  "score": 0.612167
+}

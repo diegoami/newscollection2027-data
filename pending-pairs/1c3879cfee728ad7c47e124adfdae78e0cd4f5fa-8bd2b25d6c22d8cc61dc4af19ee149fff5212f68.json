@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c3879cfee728ad7c47e124adfdae78e0cd4f5fa",
+    "lede": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T12:00:00Z",
+    "title": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU \u2014 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
+    "url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render"
+  },
+  "b": {
+    "item_id": "8bd2b25d6c22d8cc61dc4af19ee149fff5212f68",
+    "lede": "A developer has wired up the ZLUDA project to AMD's HIP libraries for Windows, putting a small but signifcant bridge over NVIDIA's CUDA moat.",
+    "outlet": "tomshardware",
+    "published": "2026-09-14T14:23:12Z",
+    "title": "Solo dev enables running CUDA on AMD hardware in Windows, getting multiple CUDA libraries running on a gaming Radeon RX 9060 XT GPU in Windows \u2014 CUDA-exclusive workloads on AMD hardware in Windows possible without virtualization or dual-booting",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/solo-developer-wires-zluda-to-amds-hip-getting-multiple-cuda-libraries-running-on-a-radeon-rx-9060-xt-in-windows-cuda-exclusive-workloads-on-amd-hardware-in-windows-is-possible-without-virtualization-or-dual-booting"
+  },
+  "score": 0.590222
+}
