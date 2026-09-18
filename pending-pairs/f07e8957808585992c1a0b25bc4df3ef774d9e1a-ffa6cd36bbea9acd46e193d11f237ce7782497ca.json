@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "f07e8957808585992c1a0b25bc4df3ef774d9e1a",
+    "lede": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-17T21:50:26Z",
+    "title": "New RatHat Android malware uses AI to automate device control"
+  },
+  "b": {
+    "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
+    "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Your AI agents can now control your Google Home devices"
+  },
+  "score": 0.613097
+}

@@ -1,0 +1,17 @@
+{
+  "a": {
+    "item_id": "30ac0d282a6903fe63442849bddcb29c8c2727e3",
+    "lede": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
+    "outlet": "engadget",
+    "published": "2026-09-17T22:55:08Z",
+    "title": "Google's revamped CC is an AI agent for families and groups"
+  },
+  "b": {
+    "item_id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+    "lede": "Multiple family members can share data to help the agent make plans and complete tasks.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T20:24:34Z",
+    "title": "Google announces new experimental \"CC\" AI agent for families"
+  },
+  "score": 0.731574
+}
