@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+    "lede": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T09:34:33Z",
+    "title": "New Check Point flaw lets hackers execute code with root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+  },
+  "b": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "score": 0.660791
+}

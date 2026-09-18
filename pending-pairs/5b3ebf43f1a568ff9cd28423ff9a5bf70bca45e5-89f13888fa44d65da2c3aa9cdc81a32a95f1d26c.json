@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5b3ebf43f1a568ff9cd28423ff9a5bf70bca45e5",
+    "lede": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T13:10:19Z",
+    "title": "Webinar: Which Google Workspace security controls actually matter?",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/"
+  },
+  "b": {
+    "item_id": "89f13888fa44d65da2c3aa9cdc81a32a95f1d26c",
+    "lede": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T12:11:19Z",
+    "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+    "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/"
+  },
+  "score": 0.664258
+}

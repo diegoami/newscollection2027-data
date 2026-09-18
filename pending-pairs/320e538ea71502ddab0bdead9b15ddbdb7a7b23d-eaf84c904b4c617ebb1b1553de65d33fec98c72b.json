@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "320e538ea71502ddab0bdead9b15ddbdb7a7b23d",
+    "lede": "A developer has built a 3D code visualizer.",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T10:00:00Z",
+    "title": "Developer builds viral 3D source code visualizer that consumes 21GB of RAM \u2014 flies around 2.5 million lines of code at over 120 frames per second",
+    "url": "https://www.tomshardware.com/tech-industry/developer-builds-viral-3d-source-code-visualizer-that-consumes-21gb-of-ram-flies-around-2-5-million-lines-of-code-at-over-120-frames-per-second"
+  },
+  "b": {
+    "item_id": "eaf84c904b4c617ebb1b1553de65d33fec98c72b",
+    "lede": "Using AI tools, a new developer has managed to get DLSS 5 neural rendering running on Intel Lunar Lake's integrated Arc graphics, albeit with abysmal performance.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:15:00Z",
+    "title": "AI developer vibe codes DLSS 5 onto Intel CPU's integrated graphics \u2014 Intel Arc 140T runs neural rendering in 360p at 10 frames per second",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-developer-vibe-codes-dlss-5-onto-intel-arc-140t-integrated-graphics-run-neural-rendering-in-360p-at-10-frames-per-second"
+  },
+  "score": 0.578102
+}

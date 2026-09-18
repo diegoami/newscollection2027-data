@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+    "lede": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T19:46:08Z",
+    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+  },
+  "b": {
+    "item_id": "dc8b1f74b838358e1b7fb0e510ca9cb64f02a2af",
+    "lede": "The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two companies. The publication is now seeking a summary judgment from the court, almost three years since it started the case.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T12:49:14Z",
+    "title": "Microsoft director called AI scraping \u2018the largest theft of labor in human history,\u2019 while OpenAI head brands ChatGPT an \u2018existential threat\u2019 to publishers \u2014 revelations come from legal briefs filed in NYT lawsuit",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
+  },
+  "score": 0.605943
+}

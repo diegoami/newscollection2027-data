@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "95c0c12b48665411095f6cac5f9a6d5b3da31ea2",
+    "lede": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-16T11:14:28Z",
+    "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/"
+  },
+  "b": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "score": 0.581828
+}

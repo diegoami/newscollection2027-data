@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+    "lede": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-09-18T14:00:14Z",
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+  },
+  "b": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "score": 0.626772
+}

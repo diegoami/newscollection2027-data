@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b56e8f4dad14c86f6e97b6f5955d43ff9c8133d8",
+    "lede": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T12:16:32Z",
+    "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/"
+  },
+  "b": {
+    "item_id": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
+    "lede": "Windows September 2026 update brings many long-requested features, but also surfaces fresh bugs \u2014 new code crashing AMD, HP, and Lenovo systems and surfaces audio, Explorer, and Remote Desktop problems",
+    "outlet": "tomshardware",
+    "published": "2026-09-15T11:00:00Z",
+    "title": "Microsoft rolls out emergency update for Windows 11's latest patch \u2014 recent update causes crashes on AMD graphics, Explorer hang-ups, and broken third-party integrations",
+    "url": "https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations"
+  },
+  "score": 0.590458
+}

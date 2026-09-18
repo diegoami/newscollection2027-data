@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+    "lede": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-09-18T14:00:14Z",
+    "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+  },
+  "b": {
+    "item_id": "8c5a5515609bab53d0e6b50e8de76cc2ea0ec917",
+    "lede": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "outlet": "techcrunch",
+    "published": "2026-09-16T21:07:24Z",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+  },
+  "score": 0.601518
+}
