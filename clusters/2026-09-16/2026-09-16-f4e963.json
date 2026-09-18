@@ -7,14 +7,16 @@
       "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
       "outlet": "theverge",
       "published": "2026-09-16T17:00:00Z",
-      "title": "Google will now let any AI agent run your smart home"
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
     },
     {
       "item_id": "ffa6cd36bbea9acd46e193d11f237ce7782497ca",
       "lede": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
       "outlet": "techcrunch",
       "published": "2026-09-16T17:00:00Z",
-      "title": "Your AI agents can now control your Google Home devices"
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
     }
   ],
   "status": "analyzed",
