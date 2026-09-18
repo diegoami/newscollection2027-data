@@ -7,14 +7,16 @@
       "lede": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
       "outlet": "bleepingcomputer",
       "published": "2026-09-16T07:00:19Z",
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices"
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/"
     },
     {
       "item_id": "d7449c53d4f5a87cba284c4b83771b887b81417b",
       "lede": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
       "outlet": "techcrunch",
       "published": "2026-09-16T14:47:07Z",
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks"
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/"
     }
   ],
   "status": "analyzed",
