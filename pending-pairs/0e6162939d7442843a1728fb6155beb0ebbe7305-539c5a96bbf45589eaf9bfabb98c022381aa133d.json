@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "3cec5bf6ab8cbac45368d35c6478ab1370c38e6f",
-    "lede": "By framing their efforts as a \u201cslowdown\u201d rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "item_id": "0e6162939d7442843a1728fb6155beb0ebbe7305",
+    "lede": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
     "outlet": "wired",
-    "published": "2026-09-17T19:58:28Z",
-    "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
-    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
+    "published": "2026-09-19T11:00:00Z",
+    "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
   },
   "b": {
     "item_id": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
@@ -15,5 +15,5 @@
     "title": "The AI Superintelligence Slowdown",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
   },
-  "score": 0.597126
+  "score": 0.659515
 }

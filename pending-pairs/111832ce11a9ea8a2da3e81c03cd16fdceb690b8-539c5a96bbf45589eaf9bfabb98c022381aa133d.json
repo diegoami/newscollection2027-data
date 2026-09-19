@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "3cec5bf6ab8cbac45368d35c6478ab1370c38e6f",
-    "lede": "By framing their efforts as a \u201cslowdown\u201d rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "item_id": "111832ce11a9ea8a2da3e81c03cd16fdceb690b8",
+    "lede": "Powerful AI models have created an existential risk to the field, but researchers can\u2019t stop relying on them because they\u2019re too useful.",
     "outlet": "wired",
-    "published": "2026-09-17T19:58:28Z",
-    "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
-    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
+    "published": "2026-09-19T10:00:00Z",
+    "title": "Mathematicians Hate AI. They Can\u2019t Quit It",
+    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/"
   },
   "b": {
     "item_id": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
@@ -15,5 +15,5 @@
     "title": "The AI Superintelligence Slowdown",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
   },
-  "score": 0.597126
+  "score": 0.616973
 }
