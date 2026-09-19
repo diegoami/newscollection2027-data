@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18b467f5baf43ed75f3a2fb71729a9549d058a48",
+    "lede": "Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.",
+    "outlet": "engadget",
+    "published": "2026-09-19T13:05:53Z",
+    "title": "Google Gemini also escaped its testing environment and hacked three companies",
+    "url": "https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/"
+  },
+  "b": {
+    "item_id": "371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+    "lede": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-19T04:27:11Z",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo"
+  },
+  "score": 0.679288
+}
