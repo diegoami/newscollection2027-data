@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7eae20442af376734b677f09c3f933554c52a2e5",
+    "lede": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "outlet": "techcrunch",
+    "published": "2026-09-18T23:13:31Z",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/"
+  },
+  "b": {
+    "item_id": "ee8cd979504393dbe36853a9043bc9cb63c0738e",
+    "lede": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T12:00:00Z",
+    "title": "Chinese state media counters Anthropic's call to put brakes on AI development \u2014 paper says move is \u2018a response to Chinese competition\u2019",
+    "url": "https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition"
+  },
+  "score": 0.600418
+}

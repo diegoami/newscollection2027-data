@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01982aadb2ec985009f152d381630d3f3119f168",
+    "lede": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+    "outlet": "arstechnica",
+    "published": "2026-09-17T20:10:41Z",
+    "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+  },
+  "b": {
+    "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+    "lede": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-18T21:07:24Z",
+    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+  },
+  "score": 0.623179
+}

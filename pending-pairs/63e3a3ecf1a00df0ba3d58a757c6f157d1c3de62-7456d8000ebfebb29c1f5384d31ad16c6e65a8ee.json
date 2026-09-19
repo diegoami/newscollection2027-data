@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "63e3a3ecf1a00df0ba3d58a757c6f157d1c3de62",
+    "lede": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.",
+    "outlet": "engadget",
+    "published": "2026-09-18T11:22:31Z",
+    "title": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+    "url": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/"
+  },
+  "b": {
+    "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+    "lede": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-18T21:07:24Z",
+    "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+  },
+  "score": 0.610335
+}
