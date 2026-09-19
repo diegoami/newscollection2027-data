@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+    "lede": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of",
+    "outlet": "theguardian",
+    "published": "2026-09-19T00:53:20Z",
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack"
+  },
+  "b": {
+    "item_id": "d02ec3786728f47cb78e762c346106bc3dfa5b2d",
+    "lede": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T11:00:00Z",
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/"
+  },
+  "score": 0.611765
+}

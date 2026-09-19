@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+    "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T13:45:00Z",
+    "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+  },
+  "b": {
+    "item_id": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+    "lede": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of",
+    "outlet": "theguardian",
+    "published": "2026-09-19T00:53:20Z",
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack"
+  },
+  "score": 0.661308
+}
