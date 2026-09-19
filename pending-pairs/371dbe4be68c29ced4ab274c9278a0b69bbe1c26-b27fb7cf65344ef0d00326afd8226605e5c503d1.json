@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+    "lede": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-19T04:27:11Z",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo"
+  },
+  "b": {
+    "item_id": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+    "lede": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of",
+    "outlet": "theguardian",
+    "published": "2026-09-19T00:53:20Z",
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack"
+  },
+  "score": 0.678991
+}
