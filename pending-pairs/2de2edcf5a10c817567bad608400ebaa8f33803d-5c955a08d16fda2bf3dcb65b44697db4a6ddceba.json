@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+    "lede": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-18T17:04:51Z",
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+  },
+  "b": {
+    "item_id": "5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+    "lede": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+    "outlet": "engadget",
+    "published": "2026-09-19T17:00:01Z",
+    "title": "California governor wants to implement a kill switch for frontier AI models",
+    "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/"
+  },
+  "score": 0.7329
+}

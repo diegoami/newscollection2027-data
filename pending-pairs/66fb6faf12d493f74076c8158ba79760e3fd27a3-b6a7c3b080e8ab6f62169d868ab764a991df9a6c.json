@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "66fb6faf12d493f74076c8158ba79760e3fd27a3",
+    "lede": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-19T15:25:03Z",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+  },
+  "b": {
+    "item_id": "b6a7c3b080e8ab6f62169d868ab764a991df9a6c",
+    "lede": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "outlet": "techcrunch",
+    "published": "2026-09-19T17:30:00Z",
+    "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+  },
+  "score": 0.602354
+}
