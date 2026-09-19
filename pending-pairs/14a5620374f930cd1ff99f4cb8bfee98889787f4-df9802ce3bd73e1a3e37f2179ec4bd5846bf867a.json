@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14a5620374f930cd1ff99f4cb8bfee98889787f4",
+    "lede": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "outlet": "engadget",
+    "published": "2026-09-19T18:33:46Z",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/"
+  },
+  "b": {
+    "item_id": "df9802ce3bd73e1a3e37f2179ec4bd5846bf867a",
+    "lede": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
+    "outlet": "engadget",
+    "published": "2026-09-17T22:30:01Z",
+    "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
+    "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/"
+  },
+  "score": 0.577702
+}

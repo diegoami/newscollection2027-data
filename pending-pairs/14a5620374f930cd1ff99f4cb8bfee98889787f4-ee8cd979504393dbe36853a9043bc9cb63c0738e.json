@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14a5620374f930cd1ff99f4cb8bfee98889787f4",
+    "lede": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "outlet": "engadget",
+    "published": "2026-09-19T18:33:46Z",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/"
+  },
+  "b": {
+    "item_id": "ee8cd979504393dbe36853a9043bc9cb63c0738e",
+    "lede": "State media outlet China Daily posits that Anthropic's Dario Amodei made the call to limit frontier AI development because Chinese AI models are catching up with American AI labs.",
+    "outlet": "tomshardware",
+    "published": "2026-09-16T12:00:00Z",
+    "title": "Chinese state media counters Anthropic's call to put brakes on AI development \u2014 paper says move is \u2018a response to Chinese competition\u2019",
+    "url": "https://www.tomshardware.com/tech-industry/policy/chinese-state-media-counters-dario-amodeis-call-to-put-brakes-on-ai-development-paper-says-move-is-a-response-to-chinese-competition"
+  },
+  "score": 0.595416
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2bb6e023c6126a54ce140a8d3ae72ff899324804",
+    "lede": "Flight test 14 angling for 10 hours in space and a splashdown in the Pacific",
+    "outlet": "theregister",
+    "published": "2026-09-16T12:46:00Z",
+    "title": "SpaceX aims Starship for orbit on September 22",
+    "url": "https://www.theregister.com/offbeat/2026/09/16/spacex-aims-starship-for-orbit-on-september-22/5296836"
+  },
+  "b": {
+    "item_id": "6ec838ed3919bc6d6ebd544405505fd2c17aae17",
+    "lede": "For Starship's 14th test flight, it will orbit our planet multiple times for 10 hours.",
+    "outlet": "engadget",
+    "published": "2026-09-19T19:45:00Z",
+    "title": "SpaceX targets September 28 for Starship's first orbital flight",
+    "url": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/"
+  },
+  "score": 0.767468
+}

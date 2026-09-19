@@ -1,13 +1,5 @@
 {
   "a": {
-    "item_id": "3cec5bf6ab8cbac45368d35c6478ab1370c38e6f",
-    "lede": "By framing their efforts as a \u201cslowdown\u201d rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-    "outlet": "wired",
-    "published": "2026-09-17T19:58:28Z",
-    "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
-    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
-  },
-  "b": {
     "item_id": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
     "lede": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it\u2019s time [\u2026]",
     "outlet": "theverge",
@@ -15,5 +7,13 @@
     "title": "The AI Superintelligence Slowdown",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
   },
-  "score": 0.597127
+  "b": {
+    "item_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+    "lede": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "outlet": "techcrunch",
+    "published": "2026-09-19T19:57:47Z",
+    "title": "Trump suggests rebranding AI with a new name, says he\u2019s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+  },
+  "score": 0.579193
 }

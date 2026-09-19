@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14a5620374f930cd1ff99f4cb8bfee98889787f4",
+    "lede": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "outlet": "engadget",
+    "published": "2026-09-19T18:33:46Z",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/"
+  },
+  "b": {
+    "item_id": "72296e29af6c09a21616ad850743692457f598b2",
+    "lede": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+    "outlet": "wired",
+    "published": "2026-09-17T18:42:25Z",
+    "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
+    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/"
+  },
+  "score": 0.596644
+}
