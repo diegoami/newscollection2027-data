@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+    "lede": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an \u201cAI Force\u201d to help monitor the technology, though he gave almost no details about either plan. As global fears over AI have grown, especially in the past week",
+    "outlet": "theguardian",
+    "published": "2026-09-19T19:57:17Z",
+    "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
+    "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+  },
+  "b": {
+    "item_id": "be4ebf28f881858863f5ace54355fc80f8de73e1",
+    "lede": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+    "outlet": "techcrunch",
+    "published": "2026-09-17T20:34:47Z",
+    "title": "The fix for rogue AI agents could be more AI",
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+  },
+  "score": 0.616443
+}

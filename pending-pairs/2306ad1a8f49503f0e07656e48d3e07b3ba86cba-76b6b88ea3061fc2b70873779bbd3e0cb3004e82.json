@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2306ad1a8f49503f0e07656e48d3e07b3ba86cba",
+    "lede": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-16T17:00:00Z",
+    "title": "Google will now let any AI agent run your smart home",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+  },
+  "b": {
+    "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+    "lede": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an \u201cAI Force\u201d to help monitor the technology, though he gave almost no details about either plan. As global fears over AI have grown, especially in the past week",
+    "outlet": "theguardian",
+    "published": "2026-09-19T19:57:17Z",
+    "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
+    "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+  },
+  "score": 0.578665
+}
