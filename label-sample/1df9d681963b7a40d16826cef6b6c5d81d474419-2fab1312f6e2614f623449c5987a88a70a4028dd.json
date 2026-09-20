@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1df9d681963b7a40d16826cef6b6c5d81d474419",
+    "lede": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google\u2019s threat intelligence group says it had a mole inside the hackers\u2019 inner circle.",
+    "outlet": "wired",
+    "published": "2026-09-18T16:00:00Z",
+    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+    "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+  },
+  "b": {
+    "item_id": "2fab1312f6e2614f623449c5987a88a70a4028dd",
+    "lede": "Google\u2019s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "outlet": "arstechnica",
+    "published": "2026-09-20T11:07:00Z",
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
+  },
+  "score": 0.884747
+}
