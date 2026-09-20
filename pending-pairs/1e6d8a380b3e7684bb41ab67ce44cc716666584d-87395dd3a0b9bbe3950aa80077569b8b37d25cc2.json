@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e6d8a380b3e7684bb41ab67ce44cc716666584d",
+    "lede": "When wires and wireless mix, the combination can be electric",
+    "outlet": "theregister",
+    "published": "2026-09-18T06:30:00Z",
+    "title": "Techie fixed Wi-Fi dead zone with a drill",
+    "url": "https://www.theregister.com/networks/2026/09/18/techie-fixed-wi-fi-dead-zone-with-a-drill/5297036"
+  },
+  "b": {
+    "item_id": "87395dd3a0b9bbe3950aa80077569b8b37d25cc2",
+    "lede": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge.",
+    "outlet": "engadget",
+    "published": "2026-09-19T23:00:00Z",
+    "title": "The pros and cons of using wired vs. wireless Xbox controllers",
+    "url": "https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/"
+  },
+  "score": 0.582948
+}
