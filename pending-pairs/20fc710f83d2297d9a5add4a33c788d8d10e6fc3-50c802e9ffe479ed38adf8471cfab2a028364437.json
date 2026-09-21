@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "20fc710f83d2297d9a5add4a33c788d8d10e6fc3",
+    "lede": "Kept it secret for months - even after OpenAI 'fessed up",
+    "outlet": "theregister",
+    "published": "2026-09-21T03:50:54Z",
+    "title": "Google joins the \u2018Oops, our agents hacked someone\u2019 club after partner\u2019s internet access error",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/21/google-joins-the-oops-our-agents-hacked-someone-club-after-partners-internet-access-error/5297640"
+  },
+  "b": {
+    "item_id": "50c802e9ffe479ed38adf8471cfab2a028364437",
+    "lede": "US cybersecurity researchers who conducted hack say \u2018scope of what we could theoretically access was huge\u2019 Cybersecurity researchers have hacked into OpenAI with the help of Anthropic\u2019s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised multiple OpenAI employees\u2019 ChatGPT accounts, starting a process that enabled them to access their",
+    "outlet": "theguardian",
+    "published": "2026-09-18T11:20:44Z",
+    "title": "OpenAI \u2018ethically hacked\u2019 with help of Anthropic\u2019s Claude chatbot",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot"
+  },
+  "score": 0.611521
+}
