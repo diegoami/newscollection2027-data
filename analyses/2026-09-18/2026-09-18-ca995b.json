@@ -1,0 +1,56 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+          "outlet": "theverge",
+          "quote": "including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday"
+        },
+        {
+          "item_id": "5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+          "outlet": "engadget",
+          "quote": "California governor wants to implement a kill switch for frontier AI models"
+        }
+      ],
+      "statement": "An executive order aims at a kill switch for frontier AI models."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+          "outlet": "theverge",
+          "quote": "Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months"
+        },
+        {
+          "item_id": "5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+          "outlet": "engadget",
+          "quote": "Newsom's executive order calls for an expert panel to develop new AI safety measures."
+        }
+      ],
+      "statement": "The order convenes an expert panel to recommend safety measures."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+          "outlet": "theverge",
+          "quote": "is positioning the state to take the lead on AI oversight"
+        }
+      ],
+      "statement": "The order positions California to lead on AI oversight."
+    }
+  ],
+  "cluster_id": "2026-09-18-ca995b",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:02:10Z",
+  "headline": "California order seeks expert advice on a kill switch for frontier AI",
+  "model": "claude-opus-5",
+  "summary": "Both reports describe an executive order from California's governor directing the state to convene experts on AI safety, including the possibility of mandating a kill switch for frontier models. One adds that the panel is to report within two months and that the order positions the state to lead on AI oversight. Nothing in the two texts conflicts."
+}

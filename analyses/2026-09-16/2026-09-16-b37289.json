@@ -1,1 +1,93 @@
-{"agreement":"partial","backend":"claude_code","claims":[{"id":"c1","sources":[{"item_id":"0be2b1f96638c1fb2a70c09f377f70207d7d5492","outlet":"tomshardware","quote":"A father says his 9-year-old son spent $118,000 of his employer's money on YouTube ads"},{"item_id":"6363ba3e84b5971db203b2259947a88cb35a24c2","outlet":"theregister","quote":"Nine-year-old runs up $118,000 bill on dad's corporate credit card"}],"statement":"A nine-year-old spent $118,000 on YouTube advertising using a corporate credit card."},{"id":"c2","sources":[{"item_id":"0be2b1f96638c1fb2a70c09f377f70207d7d5492","outlet":"tomshardware","quote":"bill racked up in just three weeks was supposed to be one $20 promotion"}],"statement":"The spending accumulated over about three weeks and was meant to be a single small promotion."},{"id":"c3","sources":[{"item_id":"0be2b1f96638c1fb2a70c09f377f70207d7d5492","outlet":"tomshardware","quote":"YouTube ad campaigns for his Minecraft channel"},{"item_id":"6363ba3e84b5971db203b2259947a88cb35a24c2","outlet":"theregister","quote":"advertising his Roblox YouTube channel"}],"statement":"The advertising promoted the boy's gaming videos."}],"cluster_id":"2026-09-16-b37289","cluster_version":1,"discrepancies":[{"claim_ids":["c3"],"explanation":"The outlets describe the channel differently, one as a Minecraft channel and the other as a Roblox channel.","kind":"framing","quotes":[{"item_id":"0be2b1f96638c1fb2a70c09f377f70207d7d5492","outlet":"tomshardware","quote":"YouTube ad campaigns for his Minecraft channel"},{"item_id":"6363ba3e84b5971db203b2259947a88cb35a24c2","outlet":"theregister","quote":"advertising his Roblox YouTube channel"}],"severity":"medium"}],"generated_at":"2026-09-18T02:32:45Z","headline":"Nine-year-old runs up $118,000 in ads on father's company card","model":"unknown","summary":"Two outlets report that a nine-year-old spent $118,000 of his father's employer's money on YouTube advertising for his own videos. They describe the channel differently, one calling it a Minecraft channel and the other a Roblox channel, and one reports the spending ran up over three weeks."}
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "0be2b1f96638c1fb2a70c09f377f70207d7d5492",
+          "outlet": "tomshardware",
+          "quote": "his 9-year-old son spent $118,000 on YouTube ad campaigns"
+        },
+        {
+          "item_id": "6363ba3e84b5971db203b2259947a88cb35a24c2",
+          "outlet": "theregister",
+          "quote": "Nine-year-old runs up $118,000 bill on dad's corporate credit card"
+        },
+        {
+          "item_id": "482cd12c110fadbbc4ec8274f6663dcf10c7bdaf",
+          "outlet": "tomshardware",
+          "quote": "9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card"
+        }
+      ],
+      "statement": "A nine-year-old spent $118,000 on YouTube advertising using his father's company credit card."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "0be2b1f96638c1fb2a70c09f377f70207d7d5492",
+          "outlet": "tomshardware",
+          "quote": "bill racked up in just three weeks was supposed to be one $20 promotion"
+        }
+      ],
+      "statement": "The spending ran up over about three weeks and began as a single small promotion."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "482cd12c110fadbbc4ec8274f6663dcf10c7bdaf",
+          "outlet": "tomshardware",
+          "quote": "Father loses job over 9-year-old spending $118,000"
+        }
+      ],
+      "statement": "The father lost his job over the charges."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "6363ba3e84b5971db203b2259947a88cb35a24c2",
+          "outlet": "theregister",
+          "quote": "He'll need to earn around $13K a year to pay pops back between now and when he turns 18"
+        },
+        {
+          "item_id": "482cd12c110fadbbc4ec8274f6663dcf10c7bdaf",
+          "outlet": "tomshardware",
+          "quote": "is trying to figure out how to pay back the $118k his son accidentally spent on YouTube ads"
+        }
+      ],
+      "statement": "How the money will be repaid is unresolved."
+    }
+  ],
+  "cluster_id": "2026-09-16-b37289",
+  "cluster_version": 2,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "The headlines name different games for the same channel, one Minecraft and one Roblox.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "0be2b1f96638c1fb2a70c09f377f70207d7d5492",
+          "outlet": "tomshardware",
+          "quote": "for his Minecraft channel"
+        },
+        {
+          "item_id": "6363ba3e84b5971db203b2259947a88cb35a24c2",
+          "outlet": "theregister",
+          "quote": "advertising his Roblox YouTube channel"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T06:58:09Z",
+  "headline": "Nine-year-old runs up $118,000 YouTube ad bill on father's company card",
+  "model": "claude-opus-5",
+  "summary": "Three reports describe a nine-year-old who spent $118,000 on YouTube advertising for his gaming channel using his father's corporate credit card, over roughly three weeks. Outlets differ on which game the channel covered, one naming Minecraft and another Roblox. A later report says the father lost his job over the charges and has declined crowdfunding, while earlier coverage focused on how the money might be repaid."
+}

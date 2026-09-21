@@ -1,0 +1,67 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "4b05f28f9c421d822e6c0263f1a53c09cbda9619",
+          "outlet": "techcrunch",
+          "quote": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip"
+        },
+        {
+          "item_id": "c8f060b21ef38d4bc9982e6bf21235f0a9af1578",
+          "outlet": "tomshardware",
+          "quote": "pulls in next-generation Ascend NPUs by several quarters"
+        }
+      ],
+      "statement": "Huawei has brought forward its next-generation Ascend AI accelerators."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "4b05f28f9c421d822e6c0263f1a53c09cbda9619",
+          "outlet": "techcrunch",
+          "quote": "as it takes on Nvidia"
+        },
+        {
+          "item_id": "c8f060b21ef38d4bc9982e6bf21235f0a9af1578",
+          "outlet": "tomshardware",
+          "quote": "Huawei's mimics Nvidia's approach to AI factories"
+        }
+      ],
+      "statement": "The roadmap is positioned against Nvidia."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "c8f060b21ef38d4bc9982e6bf21235f0a9af1578",
+          "outlet": "tomshardware",
+          "quote": "unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions"
+        }
+      ],
+      "statement": "Huawei disclosed further roadmap detail beyond the accelerators themselves."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "4b05f28f9c421d822e6c0263f1a53c09cbda9619",
+          "outlet": "techcrunch",
+          "quote": "Huawei plans Q1 2027 launch of new AI chip"
+        }
+      ],
+      "statement": "One outlet gives a first-quarter 2027 launch target."
+    }
+  ],
+  "cluster_id": "2026-09-17-77b883",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T06:58:09Z",
+  "headline": "Huawei brings forward next-generation Ascend AI accelerator roadmap",
+  "model": "claude-opus-5",
+  "summary": "Both reports describe Huawei accelerating its next-generation Ascend AI accelerators, positioning them against Nvidia. One gives a first-quarter 2027 target for the Ascend 960DT; the other reports the roadmap being pulled in by several quarters and adds detail on the Ascend 960PR's FP4 performance, Kunpeng CPUs and connectivity. The texts give different details rather than conflicting ones."
+}

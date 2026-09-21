@@ -1,0 +1,93 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+          "outlet": "theverge",
+          "quote": "Virginia governor creates an AI task force and moves to restrain data centers"
+        },
+        {
+          "item_id": "3774a3a579c909b0c01382993411775844336377",
+          "outlet": "theregister",
+          "quote": "Executive order puts the kibosh on NDAs, limits permitting, and calls for stiffer environmental protections"
+        }
+      ],
+      "statement": "Virginia's governor issued an executive order restraining data center development."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+          "outlet": "theverge",
+          "quote": "Executive Order 22 bans executive branch officials from signing nondisclosure agreements"
+        },
+        {
+          "item_id": "3774a3a579c909b0c01382993411775844336377",
+          "outlet": "theregister",
+          "quote": "puts the kibosh on NDAs"
+        }
+      ],
+      "statement": "The order bans nondisclosure agreements for executive branch officials."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+          "outlet": "theverge",
+          "quote": "empower local communities to have a larger say in data center development and slow down approvals"
+        },
+        {
+          "item_id": "3774a3a579c909b0c01382993411775844336377",
+          "outlet": "theregister",
+          "quote": "limits permitting"
+        }
+      ],
+      "statement": "The order gives local communities more say and slows approvals."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+          "outlet": "theverge",
+          "quote": "Virginia governor creates an AI task force"
+        }
+      ],
+      "statement": "The order also creates an AI task force."
+    }
+  ],
+  "cluster_id": "2026-09-18-077e54",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet describes the order's measures neutrally, the other frames data centers as a political problem the governor has belatedly recognised.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "802486953da21839a5cb8b2e17a8da58311a2d39",
+          "outlet": "theverge",
+          "quote": "moves to restrain data centers"
+        },
+        {
+          "item_id": "3774a3a579c909b0c01382993411775844336377",
+          "outlet": "theregister",
+          "quote": "Virginia governor wakes up to fact datacenters have become political cancer"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T07:04:19Z",
+  "headline": "Virginia executive order restrains data center approvals and bans official NDAs",
+  "model": "claude-opus-5",
+  "summary": "Both reports describe a Virginia executive order that bans executive branch officials from signing nondisclosure agreements, limits data center permitting and calls for stronger environmental protections, giving local communities more say over development. One adds that the order also creates an AI task force. They differ in framing: one describes the measures neutrally, the other casts data centers as a political problem the governor has belatedly recognised."
+}

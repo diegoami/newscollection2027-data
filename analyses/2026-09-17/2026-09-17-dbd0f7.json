@@ -1,0 +1,72 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "289b2cb14f5015247a66c1b1fe5f194152bf94eb",
+          "outlet": "arstechnica",
+          "quote": "Small AI models let drones autonomously identify and attack battlefield targets"
+        },
+        {
+          "item_id": "2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+          "outlet": "tomshardware",
+          "quote": "Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo"
+        }
+      ],
+      "statement": "Drones running small on-board AI models identified and attacked targets without human input."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+          "outlet": "tomshardware",
+          "quote": "require no human input and zero external comms"
+        }
+      ],
+      "statement": "The drones operate without external communications."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+          "outlet": "tomshardware",
+          "quote": "uses Nvidia Jetson Orin Nano to independently pick and bomb targets"
+        }
+      ],
+      "statement": "The drones use Nvidia Jetson Orin Nano hardware."
+    }
+  ],
+  "cluster_id": "2026-09-17-dbd0f7",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet describes the technology as deployed to military bases and drones, the other as shown in a recent demonstration.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "289b2cb14f5015247a66c1b1fe5f194152bf94eb",
+          "outlet": "arstechnica",
+          "quote": "Scaleout deploys decentralized AI-driven learning to military bases and drones"
+        },
+        {
+          "item_id": "2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+          "outlet": "tomshardware",
+          "quote": "autonomously identified and attacked targets in a recent demo"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T06:58:09Z",
+  "headline": "Drones with small on-board AI models identify and attack targets autonomously",
+  "model": "claude-opus-5",
+  "summary": "Two reports describe drones running small, non-frontier AI models that identified and attacked targets without human input or external communications. One names the vendor and describes decentralized AI-driven learning deployed to military bases and drones; the other specifies Nvidia Jetson Orin Nano hardware and describes a recent demonstration. The texts differ on whether this is deployment or a demo."
+}

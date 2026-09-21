@@ -1,1 +1,87 @@
-{"agreement":"partial","backend":"claude_code","claims":[{"id":"c1","sources":[{"item_id":"beb9711acac3a683e3cfbaeb1d765f2e4385df0b","outlet":"arstechnica","quote":"AI agent for families"},{"item_id":"30ac0d282a6903fe63442849bddcb29c8c2727e3","outlet":"engadget","quote":"Google's revamped CC is an AI agent for families and groups"}],"statement":"Google announced an AI agent called CC for families and groups."},{"id":"c2","sources":[{"item_id":"beb9711acac3a683e3cfbaeb1d765f2e4385df0b","outlet":"arstechnica","quote":"Multiple family members can share data to help the agent make plans and complete tasks."}],"statement":"Several people share data with the agent so it can plan and complete tasks."},{"id":"c3","sources":[{"item_id":"30ac0d282a6903fe63442849bddcb29c8c2727e3","outlet":"engadget","quote":"CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing."}],"statement":"The agent has its own Google account and sends members a daily briefing."}],"cluster_id":"2026-09-17-b392d6","cluster_version":1,"discrepancies":[{"claim_ids":["c1"],"explanation":"One outlet describes CC as new and experimental, the other as a revamp of something existing.","kind":"framing","quotes":[{"item_id":"beb9711acac3a683e3cfbaeb1d765f2e4385df0b","outlet":"arstechnica","quote":"Google announces new experimental"},{"item_id":"30ac0d282a6903fe63442849bddcb29c8c2727e3","outlet":"engadget","quote":"Google's revamped CC is an AI agent for families and groups"}],"severity":"low"}],"generated_at":"2026-09-18T02:32:45Z","headline":"Google announces CC, an AI agent for families and groups","model":"unknown","summary":"Two outlets report Google announcing CC, an AI agent that several people in a family or group share. They describe it differently, one as new and experimental and the other as a revamp, and one reports that the agent gets its own Google account and sends a daily briefing."}
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+          "outlet": "arstechnica",
+          "quote": "Google announces new experimental \"CC\" AI agent for families"
+        },
+        {
+          "item_id": "30ac0d282a6903fe63442849bddcb29c8c2727e3",
+          "outlet": "engadget",
+          "quote": "Google's revamped CC is an AI agent for families and groups"
+        },
+        {
+          "item_id": "96293117e2edc7c5f367fa61c6a658cf07360033",
+          "outlet": "techcrunch",
+          "quote": "an AI agent that helps families run their households"
+        }
+      ],
+      "statement": "Google has announced a CC AI agent aimed at families and groups."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+          "outlet": "arstechnica",
+          "quote": "Multiple family members can share data to help the agent make plans and complete tasks"
+        },
+        {
+          "item_id": "96293117e2edc7c5f367fa61c6a658cf07360033",
+          "outlet": "techcrunch",
+          "quote": "letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals"
+        }
+      ],
+      "statement": "Members share data with the agent so it can plan and act for them."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "30ac0d282a6903fe63442849bddcb29c8c2727e3",
+          "outlet": "engadget",
+          "quote": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing"
+        }
+      ],
+      "statement": "The agent has its own Google account and sends members a daily briefing."
+    }
+  ],
+  "cluster_id": "2026-09-17-b392d6",
+  "cluster_version": 2,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet presents CC as a new experimental product, the others as a relaunch or refocusing of an existing agent.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+          "outlet": "arstechnica",
+          "quote": "Google announces new experimental \"CC\" AI agent"
+        },
+        {
+          "item_id": "30ac0d282a6903fe63442849bddcb29c8c2727e3",
+          "outlet": "engadget",
+          "quote": "Google's revamped CC"
+        },
+        {
+          "item_id": "96293117e2edc7c5f367fa61c6a658cf07360033",
+          "outlet": "techcrunch",
+          "quote": "Google is refocusing its CC AI agent on household coordination"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T06:58:09Z",
+  "headline": "Google's CC AI agent takes on household and group coordination",
+  "model": "claude-opus-5",
+  "summary": "Three reports describe Google's CC, an AI agent for families and groups that shares members' emails, schedules and tasks so it can manage calendars, fill in forms, make shopping lists and plan meals. One outlet says the agent gets its own Google account and sends a daily briefing. The texts differ on whether CC is a new experimental product or a relaunch of an existing agent."
+}

@@ -1,0 +1,78 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "b195acf073742003d90addbc7806b6da2e5e59f8",
+          "outlet": "bleepingcomputer",
+          "quote": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update"
+        },
+        {
+          "item_id": "fb6c06f99696092790c80492ba27568783f7f285",
+          "outlet": "theregister",
+          "quote": "Microsoft fixes the fix that broke Excel paste"
+        }
+      ],
+      "statement": "Microsoft has issued a fix for copy-and-paste failures its September security update caused in Excel."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "b195acf073742003d90addbc7806b6da2e5e59f8",
+          "outlet": "bleepingcomputer",
+          "quote": "Microsoft fixes broken copy and paste for Excel 2016 users"
+        },
+        {
+          "item_id": "fb6c06f99696092790c80492ba27568783f7f285",
+          "outlet": "theregister",
+          "quote": "Hotfix covers only Excel 2016"
+        }
+      ],
+      "statement": "The fix covers Excel 2016."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "fb6c06f99696092790c80492ba27568783f7f285",
+          "outlet": "theregister",
+          "quote": "may still come unstuck around conditional formatting"
+        }
+      ],
+      "statement": "The fix may be incomplete around conditional formatting."
+    }
+  ],
+  "cluster_id": "2026-09-18-17e495",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1",
+        "c3"
+      ],
+      "explanation": "One outlet reports the problem as fixed, the other as only partly fixed.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "b195acf073742003d90addbc7806b6da2e5e59f8",
+          "outlet": "bleepingcomputer",
+          "quote": "Microsoft has fixed a known issue"
+        },
+        {
+          "item_id": "fb6c06f99696092790c80492ba27568783f7f285",
+          "outlet": "theregister",
+          "quote": "Microsoft fixes the fix that broke Excel paste \u2013 partly"
+        }
+      ],
+      "severity": "medium"
+    }
+  ],
+  "generated_at": "2026-09-21T07:00:17Z",
+  "headline": "Microsoft issues hotfix for Excel copy-and-paste broken by September update",
+  "model": "claude-opus-5",
+  "summary": "Both reports say Microsoft has released a fix for the copy-and-paste failures its September 2026 Excel security update caused, and both say the fix covers Excel 2016. They differ on how complete it is: one presents the issue as fixed, the other reports the hotfix as partial and says it may still fail around conditional formatting."
+}

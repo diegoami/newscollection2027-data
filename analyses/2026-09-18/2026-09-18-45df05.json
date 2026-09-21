@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "1c01993b54d32a1d0c80b94c9d22388650a26829",
+          "outlet": "theverge",
+          "quote": "Waymo says Singapore will be its next international robotaxi city"
+        },
+        {
+          "item_id": "3a8424e2540b192d6040064106fa993799e4e07b",
+          "outlet": "engadget",
+          "quote": "Waymo has announced its next international location: Singapore."
+        }
+      ],
+      "statement": "Waymo has named Singapore as its next international robotaxi city."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "1c01993b54d32a1d0c80b94c9d22388650a26829",
+          "outlet": "theverge",
+          "quote": "Waymo says it will launch a robotaxi service in Singapore in 2028"
+        }
+      ],
+      "statement": "The service is planned to launch in 2028."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "1c01993b54d32a1d0c80b94c9d22388650a26829",
+          "outlet": "theverge",
+          "quote": "in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027"
+        }
+      ],
+      "statement": "Mapping and safety-driver testing are planned for 2027."
+    }
+  ],
+  "cluster_id": "2026-09-18-45df05",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:00:17Z",
+  "headline": "Waymo names Singapore as its next international robotaxi city",
+  "model": "claude-opus-5",
+  "summary": "Both reports say Waymo has named Singapore as its next international robotaxi market. One adds detail: a 2028 service launch, vehicles arriving within months, and mapping and autonomous testing with human safety drivers during 2027. The other states the expansion without a timetable. Nothing in the two texts conflicts."
+}

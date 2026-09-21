@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "13515f2f4514c2b4ec940805f7cbc7b881be74dc",
+          "outlet": "techcrunch",
+          "quote": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+        },
+        {
+          "item_id": "b92f2e8122a4c10ae6ef641438758b620e2c31ff",
+          "outlet": "theverge",
+          "quote": "Disney\u2019s first CTO is Character.AI\u2019s former CEO"
+        }
+      ],
+      "statement": "Disney has appointed Character.AI's former chief executive as its first chief technology officer."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "b92f2e8122a4c10ae6ef641438758b620e2c31ff",
+          "outlet": "theverge",
+          "quote": "Disney announced that Karandeep Anand is joining the company as its new CTO"
+        }
+      ],
+      "statement": "The appointee is Karandeep Anand."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "13515f2f4514c2b4ec940805f7cbc7b881be74dc",
+          "outlet": "techcrunch",
+          "quote": "led an AI startup it once accused of copying its characters"
+        }
+      ],
+      "statement": "Disney had previously taken legal action against Character.AI over its characters."
+    }
+  ],
+  "cluster_id": "2026-09-18-8ae3eb",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:04:19Z",
+  "headline": "Disney appoints Character.AI's former chief executive as its first CTO",
+  "model": "claude-opus-5",
+  "summary": "Both reports say Disney has appointed Character.AI's former chief executive as its first-ever chief technology officer. One names him as Karandeep Anand; the other notes that Disney had previously sent Character.AI a cease-and-desist letter over its characters. The two texts do not conflict."
+}

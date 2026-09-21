@@ -1,0 +1,72 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+          "outlet": "arstechnica",
+          "quote": "AI hallucination of Chinese nuclear components almost led to US military attack"
+        },
+        {
+          "item_id": "aecce48030dc8cf23f77045e8f1d248e2665e59e",
+          "outlet": "engadget",
+          "quote": "AI almost led the US military to start a war with China, report says"
+        }
+      ],
+      "statement": "An AI error nearly led the US military to attack a Chinese target."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "aecce48030dc8cf23f77045e8f1d248e2665e59e",
+          "outlet": "engadget",
+          "quote": "the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components"
+        }
+      ],
+      "statement": "The target was a ship believed to be carrying nuclear weapon components."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+          "outlet": "arstechnica",
+          "quote": "the military's overall use of AI seems to be accelerating"
+        }
+      ],
+      "statement": "US military use of AI is increasing."
+    }
+  ],
+  "cluster_id": "2026-09-18-86cb51",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet describes a near military attack, the other a near war with China.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+          "outlet": "arstechnica",
+          "quote": "almost led to US military attack"
+        },
+        {
+          "item_id": "aecce48030dc8cf23f77045e8f1d248e2665e59e",
+          "outlet": "engadget",
+          "quote": "AI almost led the US military to start a war with China"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T07:04:19Z",
+  "headline": "AI error nearly triggered a US military strike on a Chinese ship",
+  "model": "claude-opus-5",
+  "summary": "Both reports describe an account, attributed to news sources, in which an AI error about Chinese nuclear weapon components nearly led the US military to attack a Chinese ship. One notes that military use of AI appears to be accelerating despite the incident. The outlets differ in scale of framing, one describing a near attack and the other a near war."
+}

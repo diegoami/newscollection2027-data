@@ -1,0 +1,56 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "e9c02b53d38861dfef60b4aab8fa271d1ea3aa49",
+          "outlet": "techcrunch",
+          "quote": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point."
+        },
+        {
+          "item_id": "f002f9c12ba189a83baa1d1b6490c16f2a00205e",
+          "outlet": "engadget",
+          "quote": "Joby Aviation completed a fully autonomous flight from California to North Carolina"
+        }
+      ],
+      "statement": "An aircraft with Joby Aviation's autonomy technology crossed the United States without a human pilot taking control."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "e9c02b53d38861dfef60b4aab8fa271d1ea3aa49",
+          "outlet": "techcrunch",
+          "quote": "Joby Aviation\u2019s 3,100-mile autonomous flight"
+        }
+      ],
+      "statement": "The flight covered about 3,100 miles."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "e9c02b53d38861dfef60b4aab8fa271d1ea3aa49",
+          "outlet": "techcrunch",
+          "quote": "signals its push beyond electric air taxis"
+        },
+        {
+          "item_id": "f002f9c12ba189a83baa1d1b6490c16f2a00205e",
+          "outlet": "engadget",
+          "quote": "The startup is looking to expand beyond electric air taxi rides in major cities."
+        }
+      ],
+      "statement": "The company is moving beyond electric air taxis."
+    }
+  ],
+  "cluster_id": "2026-09-18-2d3846",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:02:10Z",
+  "headline": "Joby Aviation flies a fully autonomous aircraft across the United States",
+  "model": "claude-opus-5",
+  "summary": "Both reports say an aircraft using Joby Aviation's autonomy technology flew across the United States with no human pilot taking control, and both present it as the company moving beyond electric air taxis. One gives the distance as 3,100 miles, the other names the endpoints as California and North Carolina. The texts do not conflict."
+}

@@ -1,0 +1,82 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+          "outlet": "techcrunch",
+          "quote": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\""
+        },
+        {
+          "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+          "outlet": "theverge",
+          "quote": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft"
+        }
+      ],
+      "statement": "Newly unsealed filings in the New York Times case describe the companies' internal view of AI scraping."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+          "outlet": "techcrunch",
+          "quote": "the largest theft of labor in human history"
+        },
+        {
+          "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+          "outlet": "theverge",
+          "quote": "largest theft of labor in human history"
+        }
+      ],
+      "statement": "Internal material called AI scraping the largest theft of labor in human history."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+          "outlet": "techcrunch",
+          "quote": "warned internally it would gut publishers"
+        },
+        {
+          "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+          "outlet": "theverge",
+          "quote": "warned that it was starting a \"doom loop\" that would damage the web"
+        }
+      ],
+      "statement": "The documents warned the practice would harm publishers and the web."
+    }
+  ],
+  "cluster_id": "2026-09-17-90f5c4",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c2"
+      ],
+      "explanation": "One outlet attributes the phrase to a Microsoft executive describing OpenAI's practices, the other to both companies' own documentation.",
+      "kind": "attribution",
+      "quotes": [
+        {
+          "item_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+          "outlet": "techcrunch",
+          "quote": "Microsoft privately called OpenAI's data practices \"theft\""
+        },
+        {
+          "item_id": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+          "outlet": "theverge",
+          "quote": "The companies' own documentation warned"
+        }
+      ],
+      "severity": "medium"
+    }
+  ],
+  "generated_at": "2026-09-21T06:58:09Z",
+  "headline": "Unsealed filings show internal warnings over AI scraping of news content",
+  "model": "claude-opus-5",
+  "summary": "Two reports describe newly unsealed court documents in the New York Times' case against OpenAI and Microsoft. Internal material characterized AI scraping as the largest theft of labor in human history and warned it would damage publishers and the web. The outlets differ on attribution: one says a Microsoft executive applied the phrase to OpenAI's practices, the other that it came from the companies' own documentation."
+}

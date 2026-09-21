@@ -1,0 +1,98 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "77eda886577778e6073fffeaf12ff995c7712a1f",
+          "outlet": "engadget",
+          "quote": "The president said he will soon announce an \"AI czar\" to run this newly made-up agency."
+        },
+        {
+          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+          "outlet": "theguardian",
+          "quote": "Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an \u201cAI Force\u201d to help monitor the technology"
+        },
+        {
+          "item_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+          "outlet": "techcrunch",
+          "quote": "says he\u2019s also creating an AI Force"
+        },
+        {
+          "item_id": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+          "outlet": "theverge",
+          "quote": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\""
+        }
+      ],
+      "statement": "Trump says he will create an AI Force and appoint an AI czar."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+          "outlet": "theguardian",
+          "quote": "though he gave almost no details about either plan"
+        }
+      ],
+      "statement": "Few details were given about either plan."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+          "outlet": "theverge",
+          "quote": "amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development"
+        }
+      ],
+      "statement": "The announcement came as calls to slow AI development grew."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+          "outlet": "techcrunch",
+          "quote": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+        },
+        {
+          "item_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+          "outlet": "techcrunch",
+          "quote": "Trump suggests rebranding AI with a new name"
+        }
+      ],
+      "statement": "Trump called the AI backlash a Democratic hoax and suggested renaming AI."
+    }
+  ],
+  "cluster_id": "2026-09-19-86a1d6",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet describes the proposed body neutrally as monitoring the technology, another as a newly made-up agency.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+          "outlet": "theguardian",
+          "quote": "create an \u201cAI Force\u201d to help monitor the technology"
+        },
+        {
+          "item_id": "77eda886577778e6073fffeaf12ff995c7712a1f",
+          "outlet": "engadget",
+          "quote": "to run this newly made-up agency"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T07:04:19Z",
+  "headline": "Trump says he will create an AI Force and appoint an AI czar",
+  "model": "claude-opus-5",
+  "summary": "Four outlets report Trump saying he will create an AI Force and appoint an AI czar, announced on Truth Social with almost no detail, as calls to slow AI development grew across politics and the industry. One adds that he suggested renaming AI and called the backlash a Democratic hoax without evidence. The outlets differ in framing, one describing the body neutrally and another as newly made-up."
+}

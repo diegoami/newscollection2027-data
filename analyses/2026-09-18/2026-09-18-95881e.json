@@ -1,0 +1,82 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "d4a4fb2fab561447f33f0b7e525d9782bb037074",
+          "outlet": "theregister",
+          "quote": "North Korea's fake job interviews infected 30,000 devices"
+        },
+        {
+          "item_id": "cfe7f416ead5d41aca6c64643b53d74d3e726258",
+          "outlet": "bleepingcomputer",
+          "quote": "the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide"
+        },
+        {
+          "item_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+          "outlet": "tomshardware",
+          "quote": "North Korea used job interviews to deploy malware on 30,000 devices during coding tests"
+        }
+      ],
+      "statement": "A North Korean group known as WaterPlum infected about 30,000 devices."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "d4a4fb2fab561447f33f0b7e525d9782bb037074",
+          "outlet": "theregister",
+          "quote": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers"
+        },
+        {
+          "item_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+          "outlet": "tomshardware",
+          "quote": "North Korean hackers are posting fake jobs to install malware on unsuspecting applicants' computers"
+        }
+      ],
+      "statement": "The group used fake job postings and coding tests to install malware."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "cfe7f416ead5d41aca6c64643b53d74d3e726258",
+          "outlet": "bleepingcomputer",
+          "quote": "transferred more than $10.7 million in stolen cryptocurrency to North Korea"
+        },
+        {
+          "item_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+          "outlet": "tomshardware",
+          "quote": "WaterPlum group loots $10.7 million in crypto"
+        }
+      ],
+      "statement": "The campaign stole more than $10.7 million in cryptocurrency."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "cfe7f416ead5d41aca6c64643b53d74d3e726258",
+          "outlet": "bleepingcomputer",
+          "quote": "A joint law enforcement advisory warns"
+        },
+        {
+          "item_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+          "outlet": "tomshardware",
+          "quote": "Multiple government agencies across the world released a warning"
+        }
+      ],
+      "statement": "The disclosure came in a joint government advisory."
+    }
+  ],
+  "cluster_id": "2026-09-18-95881e",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:02:10Z",
+  "headline": "North Korean group used fake job interviews to infect 30,000 devices",
+  "model": "claude-opus-5",
+  "summary": "Three reports describe a joint law enforcement advisory on WaterPlum, a North Korean group that used fake job postings and bogus coding tests to install malware on applicants' machines, compromising at least 30,000 devices and stealing more than $10.7 million in cryptocurrency. One adds that more than 7,000 crypto wallets were raided; another gives a December 2025 to July 2026 window. The accounts do not conflict."
+}

@@ -1,0 +1,138 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "50c802e9ffe479ed38adf8471cfab2a028364437",
+          "outlet": "theguardian",
+          "quote": "Cybersecurity researchers have hacked into OpenAI with the help of Anthropic\u2019s Claude chatbot"
+        },
+        {
+          "item_id": "a8365cfa26c035d9e0fa201ceff4916d184708de",
+          "outlet": "arstechnica",
+          "quote": "Researchers used Claude to hack OpenAI"
+        },
+        {
+          "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+          "outlet": "techcrunch",
+          "quote": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems"
+        },
+        {
+          "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+          "outlet": "theverge",
+          "quote": "Security researchers used Claude to help them hack into OpenAI"
+        },
+        {
+          "item_id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+          "outlet": "theregister",
+          "quote": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts"
+        },
+        {
+          "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+          "outlet": "tomshardware",
+          "quote": "Hackers breach OpenAI using Claude tools"
+        }
+      ],
+      "statement": "Security researchers used Anthropic's Claude to breach OpenAI."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "50c802e9ffe479ed38adf8471cfab2a028364437",
+          "outlet": "theguardian",
+          "quote": "compromised multiple OpenAI employees\u2019 ChatGPT accounts"
+        },
+        {
+          "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+          "outlet": "techcrunch",
+          "quote": "taking over employee accounts"
+        },
+        {
+          "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+          "outlet": "theverge",
+          "quote": "hack into OpenAI employee accounts"
+        }
+      ],
+      "statement": "They took over OpenAI employee accounts."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "a8365cfa26c035d9e0fa201ceff4916d184708de",
+          "outlet": "arstechnica",
+          "quote": "reach an OpenAI employee account and sensitive GitHub data"
+        },
+        {
+          "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+          "outlet": "techcrunch",
+          "quote": "gaining access to an internal code repository"
+        },
+        {
+          "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+          "outlet": "theverge",
+          "quote": "They were able to access OpenAI's GitHub repository"
+        },
+        {
+          "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+          "outlet": "tomshardware",
+          "quote": "gaining access to employee accounts and the company's internal codebase"
+        }
+      ],
+      "statement": "They reached OpenAI's internal code repository."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+          "outlet": "techcrunch",
+          "quote": "before reporting the flaws"
+        },
+        {
+          "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+          "outlet": "tomshardware",
+          "quote": "attackers initiated a 'harmless' pull request as proof of the hack"
+        },
+        {
+          "item_id": "50c802e9ffe479ed38adf8471cfab2a028364437",
+          "outlet": "theguardian",
+          "quote": "OpenAI \u2018ethically hacked\u2019"
+        }
+      ],
+      "statement": "The researchers disclosed the flaws rather than exploiting them."
+    }
+  ],
+  "cluster_id": "2026-09-18-18e2ba",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "The outlets name the team differently: a cybersecurity startup called Hackron AI, versus three independent researchers at Hacktron.",
+      "kind": "attribution",
+      "quotes": [
+        {
+          "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+          "outlet": "tomshardware",
+          "quote": "A team of white-hat hackers from cybersecurity startup Hackron AI"
+        },
+        {
+          "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+          "outlet": "theverge",
+          "quote": "A team of three independent security researchers at Hacktron"
+        }
+      ],
+      "severity": "medium"
+    }
+  ],
+  "generated_at": "2026-09-21T07:00:17Z",
+  "headline": "Researchers used Claude to breach OpenAI employee accounts and code repository",
+  "model": "claude-opus-5",
+  "summary": "Six outlets report that security researchers used Anthropic's Claude to compromise OpenAI employee accounts and reach the company's internal GitHub repository, then disclosed the flaws rather than exploiting them. Accounts differ on who did it: one names a cybersecurity startup called Hackron AI, another three independent researchers at Hacktron. One report adds that the work took under 72 hours and that a harmless pull request was filed as proof."
+}

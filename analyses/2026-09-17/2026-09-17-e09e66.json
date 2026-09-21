@@ -1,0 +1,77 @@
+{
+  "agreement": "partial",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "2d65468e8d368ff08c125a53a86ebbf6875046f7",
+          "outlet": "techcrunch",
+          "quote": "$875M worth of AI"
+        },
+        {
+          "item_id": "8a86701f25e4f074ec3c26948a4383099def5417",
+          "outlet": "arstechnica",
+          "quote": "FAA tees up $875M AI tool to help manage air traffic congestion"
+        }
+      ],
+      "statement": "The FAA is putting $875 million into an AI tool for air traffic management."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "2d65468e8d368ff08c125a53a86ebbf6875046f7",
+          "outlet": "techcrunch",
+          "quote": "to help air traffic controllers better navigate their jobs"
+        },
+        {
+          "item_id": "8a86701f25e4f074ec3c26948a4383099def5417",
+          "outlet": "arstechnica",
+          "quote": "to help manage air traffic congestion"
+        }
+      ],
+      "statement": "The tool is intended to help air traffic controllers."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "8a86701f25e4f074ec3c26948a4383099def5417",
+          "outlet": "arstechnica",
+          "quote": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout"
+        }
+      ],
+      "statement": "Washington DC comes before a nationwide rollout."
+    }
+  ],
+  "cluster_id": "2026-09-17-e09e66",
+  "cluster_version": 1,
+  "discrepancies": [
+    {
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet describes the software as already being launched, the other as planned ahead of a rollout.",
+      "kind": "framing",
+      "quotes": [
+        {
+          "item_id": "2d65468e8d368ff08c125a53a86ebbf6875046f7",
+          "outlet": "techcrunch",
+          "quote": "A new AI-based software program is being launched"
+        },
+        {
+          "item_id": "8a86701f25e4f074ec3c26948a4383099def5417",
+          "outlet": "arstechnica",
+          "quote": "FAA plans for AI tool"
+        }
+      ],
+      "severity": "low"
+    }
+  ],
+  "generated_at": "2026-09-21T07:00:17Z",
+  "headline": "FAA commits $875 million to an AI tool for air traffic management",
+  "model": "claude-opus-5",
+  "summary": "Two reports describe an $875 million FAA programme putting AI into air traffic management, intended to help controllers handle congestion. One says the tool will be used for Washington DC traffic before a nationwide rollout. The texts differ on how far along it is: one describes the software as being launched, the other as planned."
+}

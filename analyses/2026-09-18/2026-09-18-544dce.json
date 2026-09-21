@@ -1,0 +1,40 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "32735dd07e66a278f53b8773a8a892cec8a1c5d3",
+          "outlet": "engadget",
+          "quote": "Anthropic has set up a bio research lab for physical experiments"
+        },
+        {
+          "item_id": "7eae20442af376734b677f09c3f933554c52a2e5",
+          "outlet": "techcrunch",
+          "quote": "Anthropic is operating a lab that conducts biology experiments"
+        }
+      ],
+      "statement": "Anthropic is operating its own biology research lab."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "32735dd07e66a278f53b8773a8a892cec8a1c5d3",
+          "outlet": "engadget",
+          "quote": "Anthropic now has its own bio research lab in San Francisco."
+        }
+      ],
+      "statement": "The lab is in San Francisco."
+    }
+  ],
+  "cluster_id": "2026-09-18-544dce",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-21T07:00:17Z",
+  "headline": "Anthropic is running its own biology research lab",
+  "model": "claude-opus-5",
+  "summary": "Both reports say Anthropic is operating its own laboratory for physical biology experiments. One places it in San Francisco; the other frames it against the industry's claims that AI will help cure disease and its own researchers' warnings about AI risk. The two texts do not conflict."
+}
