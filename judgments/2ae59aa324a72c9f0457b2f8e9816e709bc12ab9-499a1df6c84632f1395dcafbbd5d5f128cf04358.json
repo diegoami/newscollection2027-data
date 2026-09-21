@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2ae59aa324a72c9f0457b2f8e9816e709bc12ab9",
+  "item_id_b": "499a1df6c84632f1395dcafbbd5d5f128cf04358",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "2ae59aa324a72c9f0457b2f8e9816e709bc12ab9-499a1df6c84632f1395dcafbbd5d5f128cf04358",
+  "reason": "Tom's Hardware rounds up the safety clash while the Guardian analyses China-competition fears; no shared event.",
+  "same_story": false
+}

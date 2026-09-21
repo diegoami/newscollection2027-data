@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "b00e5960c84ec21f16b2c42c3138c498cc0652fa",
+  "item_id_b": "d0c20cd37d1094d7943641336ac16842beda75e1",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "b00e5960c84ec21f16b2c42c3138c498cc0652fa-d0c20cd37d1094d7943641336ac16842beda75e1",
+  "reason": "A Galaxy Watch9 review and an Apple-versus-Samsung comparison are different pieces about different products.",
+  "same_story": false
+}

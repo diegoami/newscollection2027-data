@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4c6f8453bd68143b8b38ced8324ce32ab722598e",
+  "item_id_b": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "4c6f8453bd68143b8b38ced8324ce32ab722598e-76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+  "reason": "A Microsoft AI CEO interview and Trump's AI Force announcement are different events.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9666e41735667cf75d9cc9822ece852c893da991",
+  "item_id_b": "a864cdf7e10a4848d8790ece2cb4bb94f3c32570",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "9666e41735667cf75d9cc9822ece852c893da991-a864cdf7e10a4848d8790ece2cb4bb94f3c32570",
+  "reason": "The Verge item is a weekly column surveying the regulation debate rather than a report of Amodei's proposal.",
+  "same_story": false
+}

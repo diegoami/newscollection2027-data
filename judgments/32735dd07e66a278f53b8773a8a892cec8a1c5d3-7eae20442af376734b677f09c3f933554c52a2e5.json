@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "32735dd07e66a278f53b8773a8a892cec8a1c5d3",
+  "item_id_b": "7eae20442af376734b677f09c3f933554c52a2e5",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "32735dd07e66a278f53b8773a8a892cec8a1c5d3-7eae20442af376734b677f09c3f933554c52a2e5",
+  "reason": "Both report that Anthropic is running a biology lab for physical experiments.",
+  "same_story": true
+}

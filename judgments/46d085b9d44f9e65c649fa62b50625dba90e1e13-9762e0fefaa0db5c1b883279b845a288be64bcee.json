@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "46d085b9d44f9e65c649fa62b50625dba90e1e13",
+  "item_id_b": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "46d085b9d44f9e65c649fa62b50625dba90e1e13-9762e0fefaa0db5c1b883279b845a288be64bcee",
+  "reason": "A Check Point root-privilege vulnerability and the Claude-assisted OpenAI breach are unrelated events.",
+  "same_story": false
+}

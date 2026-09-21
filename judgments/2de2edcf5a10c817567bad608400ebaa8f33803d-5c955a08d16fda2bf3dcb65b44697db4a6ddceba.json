@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2de2edcf5a10c817567bad608400ebaa8f33803d",
+  "item_id_b": "5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "2de2edcf5a10c817567bad608400ebaa8f33803d-5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+  "reason": "Both report Newsom's executive order pointing California toward frontier-AI safety rules including a kill switch.",
+  "same_story": true
+}

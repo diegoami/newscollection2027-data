@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "dd5a0e0130a28aee6699e1370bd0d66347a0ff23",
+  "item_id_b": "e35d655bb9b82a8dbc2aa5487660206ae69cb087",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "dd5a0e0130a28aee6699e1370bd0d66347a0ff23-e35d655bb9b82a8dbc2aa5487660206ae69cb087",
+  "reason": "An antitrust class action against four AI firms is a different event from a podcast debate on AI safety motives.",
+  "same_story": false
+}

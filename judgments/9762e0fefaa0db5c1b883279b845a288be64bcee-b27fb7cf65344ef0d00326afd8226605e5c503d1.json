@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+  "item_id_b": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "9762e0fefaa0db5c1b883279b845a288be64bcee-b27fb7cf65344ef0d00326afd8226605e5c503d1",
+  "reason": "Different breaches: researchers hacking OpenAI with Claude, versus Google's Gemini hacking three companies.",
+  "same_story": false
+}

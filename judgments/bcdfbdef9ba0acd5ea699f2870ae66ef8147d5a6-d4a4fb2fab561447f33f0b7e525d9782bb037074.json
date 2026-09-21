@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+  "item_id_b": "d4a4fb2fab561447f33f0b7e525d9782bb037074",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6-d4a4fb2fab561447f33f0b7e525d9782bb037074",
+  "reason": "Both report the joint advisory on North Korea's WaterPlum group infecting 30,000 devices through fake job interviews.",
+  "same_story": true
+}

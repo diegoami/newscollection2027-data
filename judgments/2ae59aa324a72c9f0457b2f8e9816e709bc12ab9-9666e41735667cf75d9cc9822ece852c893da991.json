@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2ae59aa324a72c9f0457b2f8e9816e709bc12ab9",
+  "item_id_b": "9666e41735667cf75d9cc9822ece852c893da991",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "2ae59aa324a72c9f0457b2f8e9816e709bc12ab9-9666e41735667cf75d9cc9822ece852c893da991",
+  "reason": "Tom's Hardware rounds up the wider safety clash; TechCrunch reports Amodei's 'Pace the Frontier' proposal three days later.",
+  "same_story": false
+}

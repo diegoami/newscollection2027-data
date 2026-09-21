@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6",
+  "item_id_b": "cfe7f416ead5d41aca6c64643b53d74d3e726258",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "bcdfbdef9ba0acd5ea699f2870ae66ef8147d5a6-cfe7f416ead5d41aca6c64643b53d74d3e726258",
+  "reason": "Both report the joint advisory on WaterPlum infecting 30,000 devices and moving $10.7m in stolen cryptocurrency.",
+  "same_story": true
+}

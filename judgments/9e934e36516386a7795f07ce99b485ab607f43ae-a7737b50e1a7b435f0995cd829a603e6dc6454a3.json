@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9e934e36516386a7795f07ce99b485ab607f43ae",
+  "item_id_b": "a7737b50e1a7b435f0995cd829a603e6dc6454a3",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "9e934e36516386a7795f07ce99b485ab607f43ae-a7737b50e1a7b435f0995cd829a603e6dc6454a3",
+  "reason": "Two unrelated ChatGPT how-to pieces: one on memory settings, one on making stickers.",
+  "same_story": false
+}

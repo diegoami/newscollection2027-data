@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4434b99a74677285624df7f7e769b4f072d0451b",
+  "item_id_b": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "4434b99a74677285624df7f7e769b4f072d0451b-907e9d53087619686dbf6e92b18f5dd18f972a46",
+  "reason": "Both report the Hacktron researchers' use of Claude to take over OpenAI employee accounts and reach its internal code repository.",
+  "same_story": true
+}

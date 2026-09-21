@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1df9d681963b7a40d16826cef6b6c5d81d474419",
+  "item_id_b": "2fab1312f6e2614f623449c5987a88a70a4028dd",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "1df9d681963b7a40d16826cef6b6c5d81d474419-2fab1312f6e2614f623449c5987a88a70a4028dd",
+  "reason": "Both report Google's threat intelligence disclosure that it had a mole inside the TeamPCP supply-chain hacking gang.",
+  "same_story": true
+}

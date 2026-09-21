@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1c01993b54d32a1d0c80b94c9d22388650a26829",
+  "item_id_b": "3a8424e2540b192d6040064106fa993799e4e07b",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "1c01993b54d32a1d0c80b94c9d22388650a26829-3a8424e2540b192d6040064106fa993799e4e07b",
+  "reason": "Both report Waymo announcing Singapore as its next international robotaxi city.",
+  "same_story": true
+}

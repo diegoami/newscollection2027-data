@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "96293117e2edc7c5f367fa61c6a658cf07360033",
+  "item_id_b": "beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "96293117e2edc7c5f367fa61c6a658cf07360033-beb9711acac3a683e3cfbaeb1d765f2e4385df0b",
+  "reason": "Both report Google announcing its experimental 'CC' AI agent for families.",
+  "same_story": true
+}

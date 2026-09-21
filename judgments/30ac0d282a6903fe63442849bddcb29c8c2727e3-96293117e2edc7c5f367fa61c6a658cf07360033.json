@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "30ac0d282a6903fe63442849bddcb29c8c2727e3",
+  "item_id_b": "96293117e2edc7c5f367fa61c6a658cf07360033",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "30ac0d282a6903fe63442849bddcb29c8c2727e3-96293117e2edc7c5f367fa61c6a658cf07360033",
+  "reason": "Both report Google's revamped 'CC' AI agent for families and groups.",
+  "same_story": true
+}

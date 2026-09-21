@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4b05f28f9c421d822e6c0263f1a53c09cbda9619",
+  "item_id_b": "c8f060b21ef38d4bc9982e6bf21235f0a9af1578",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "4b05f28f9c421d822e6c0263f1a53c09cbda9619-c8f060b21ef38d4bc9982e6bf21235f0a9af1578",
+  "reason": "Both report Huawei pulling in its next-generation Ascend AI accelerator roadmap.",
+  "same_story": true
+}

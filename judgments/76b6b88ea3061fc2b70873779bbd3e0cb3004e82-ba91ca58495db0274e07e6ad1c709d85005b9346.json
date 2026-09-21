@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+  "item_id_b": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82-ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "reason": "Both report Trump's announcement of an AI czar and an 'AI Force'.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
+  "item_id_b": "9515eed3cd4bd0a8bc351a0661a3262d71624586",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "539c5a96bbf45589eaf9bfabb98c022381aa133d-9515eed3cd4bd0a8bc351a0661a3262d71624586",
+  "reason": "Both are commentary on the AI slowdown and the TechCrunch item is a podcast episode; neither reports one event.",
+  "same_story": false
+}

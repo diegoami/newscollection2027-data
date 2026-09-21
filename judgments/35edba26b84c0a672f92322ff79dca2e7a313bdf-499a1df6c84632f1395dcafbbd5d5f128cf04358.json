@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "35edba26b84c0a672f92322ff79dca2e7a313bdf",
+  "item_id_b": "499a1df6c84632f1395dcafbbd5d5f128cf04358",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "35edba26b84c0a672f92322ff79dca2e7a313bdf-499a1df6c84632f1395dcafbbd5d5f128cf04358",
+  "reason": "Altman's comments and the Guardian's China-competition analysis are separate pieces, not one event.",
+  "same_story": false
+}

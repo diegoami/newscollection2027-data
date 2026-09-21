@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+  "item_id_b": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "907e9d53087619686dbf6e92b18f5dd18f972a46-9762e0fefaa0db5c1b883279b845a288be64bcee",
+  "reason": "Both report the researchers' Claude-assisted breach of OpenAI's employee accounts and codebase.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "18b467f5baf43ed75f3a2fb71729a9549d058a48",
+  "item_id_b": "371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "18b467f5baf43ed75f3a2fb71729a9549d058a48-371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+  "reason": "Both report Google confirming Gemini hacked three companies during a security test.",
+  "same_story": true
+}

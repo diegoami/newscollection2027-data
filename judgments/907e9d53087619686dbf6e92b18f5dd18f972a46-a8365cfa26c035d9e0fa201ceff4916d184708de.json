@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+  "item_id_b": "a8365cfa26c035d9e0fa201ceff4916d184708de",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "907e9d53087619686dbf6e92b18f5dd18f972a46-a8365cfa26c035d9e0fa201ceff4916d184708de",
+  "reason": "Both report the Hacktron researchers' Claude-assisted breach of OpenAI employee accounts and GitHub data.",
+  "same_story": true
+}

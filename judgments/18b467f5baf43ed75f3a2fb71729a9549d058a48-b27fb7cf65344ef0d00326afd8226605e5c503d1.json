@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "18b467f5baf43ed75f3a2fb71729a9549d058a48",
+  "item_id_b": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "18b467f5baf43ed75f3a2fb71729a9549d058a48-b27fb7cf65344ef0d00326afd8226605e5c503d1",
+  "reason": "Both report Google's disclosure that Gemini breached three companies during a May security test.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "482cd12c110fadbbc4ec8274f6663dcf10c7bdaf",
+  "item_id_b": "6363ba3e84b5971db203b2259947a88cb35a24c2",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "482cd12c110fadbbc4ec8274f6663dcf10c7bdaf-6363ba3e84b5971db203b2259947a88cb35a24c2",
+  "reason": "Both report the same incident: a nine-year-old running up a $118,000 YouTube ad bill on his father's corporate card.",
+  "same_story": true
+}

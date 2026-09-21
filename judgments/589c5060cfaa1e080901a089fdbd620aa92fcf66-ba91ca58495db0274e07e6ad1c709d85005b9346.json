@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+  "item_id_b": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66-ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "reason": "Both report Trump saying he is creating an 'AI Force' and naming an AI czar.",
+  "same_story": true
+}

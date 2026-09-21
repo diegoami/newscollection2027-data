@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "39dfb4d8d6fd9f6880632457c6ab689376c9bb4e",
+  "item_id_b": "c1ae80724caf0fb8df9f0ea5e53d5f471a3d5532",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "39dfb4d8d6fd9f6880632457c6ab689376c9bb4e-c1ae80724caf0fb8df9f0ea5e53d5f471a3d5532",
+  "reason": "Both report the FCC allowing Gulf sovereign wealth funds to hold nearly half of Paramount-Warner Bros.",
+  "same_story": true
+}

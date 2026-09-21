@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "13515f2f4514c2b4ec940805f7cbc7b881be74dc",
+  "item_id_b": "b92f2e8122a4c10ae6ef641438758b620e2c31ff",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "13515f2f4514c2b4ec940805f7cbc7b881be74dc-b92f2e8122a4c10ae6ef641438758b620e2c31ff",
+  "reason": "Both report Disney appointing Character.AI's former CEO as its first chief technology officer.",
+  "same_story": true
+}

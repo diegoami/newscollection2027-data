@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "20fc0c317b9e82672413f70a8f1c457c1a176b93",
+  "item_id_b": "c1ae80724caf0fb8df9f0ea5e53d5f471a3d5532",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "20fc0c317b9e82672413f70a8f1c457c1a176b93-c1ae80724caf0fb8df9f0ea5e53d5f471a3d5532",
+  "reason": "Both report the FCC waiving its 25 percent foreign-ownership cap to let Gulf sovereign funds hold 49.5 percent of Paramount.",
+  "same_story": true
+}

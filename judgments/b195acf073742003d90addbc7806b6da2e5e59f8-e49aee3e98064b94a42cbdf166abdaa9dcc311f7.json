@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "b195acf073742003d90addbc7806b6da2e5e59f8",
+  "item_id_b": "e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "b195acf073742003d90addbc7806b6da2e5e59f8-e49aee3e98064b94a42cbdf166abdaa9dcc311f7",
+  "reason": "An Excel 2016 paste hotfix and the Windows 11 out-of-band update are different fixes for different products.",
+  "same_story": false
+}

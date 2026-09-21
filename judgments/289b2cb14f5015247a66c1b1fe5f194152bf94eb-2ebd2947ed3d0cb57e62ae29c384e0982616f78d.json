@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "289b2cb14f5015247a66c1b1fe5f194152bf94eb",
+  "item_id_b": "2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "289b2cb14f5015247a66c1b1fe5f194152bf94eb-2ebd2947ed3d0cb57e62ae29c384e0982616f78d",
+  "reason": "Both report the Swedish startup's demo of drones running small on-board AI models that identified and attacked targets without human input.",
+  "same_story": true
+}

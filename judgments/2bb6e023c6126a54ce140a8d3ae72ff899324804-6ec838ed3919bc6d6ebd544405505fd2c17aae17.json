@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2bb6e023c6126a54ce140a8d3ae72ff899324804",
+  "item_id_b": "6ec838ed3919bc6d6ebd544405505fd2c17aae17",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "2bb6e023c6126a54ce140a8d3ae72ff899324804-6ec838ed3919bc6d6ebd544405505fd2c17aae17",
+  "reason": "Both report SpaceX's plan for Starship flight test 14, a ten-hour orbital attempt; the outlets give different target dates.",
+  "same_story": true
+}

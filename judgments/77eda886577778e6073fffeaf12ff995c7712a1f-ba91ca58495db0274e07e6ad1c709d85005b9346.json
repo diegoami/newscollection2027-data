@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "77eda886577778e6073fffeaf12ff995c7712a1f",
+  "item_id_b": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "77eda886577778e6073fffeaf12ff995c7712a1f-ba91ca58495db0274e07e6ad1c709d85005b9346",
+  "reason": "Both report Trump saying he will appoint an AI czar and create an 'AI Force'.",
+  "same_story": true
+}

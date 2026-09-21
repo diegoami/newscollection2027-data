@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca",
+  "item_id_b": "7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+  "judged_at": "2026-09-21T06:53:33Z",
+  "model": "claude-opus-5",
+  "pair_id": "5cc2ac0014827b4db49d4e03c05ebffe6a1c0fca-7456d8000ebfebb29c1f5384d31ad16c6e65a8ee",
+  "reason": "Both report the newly unsealed filings in the New York Times case against OpenAI and Microsoft.",
+  "same_story": true
+}
