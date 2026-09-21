@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c3879cfee728ad7c47e124adfdae78e0cd4f5fa",
+    "lede": "A developer's live WebGPU demo runs Nvidia's DLSS 5 neural rendering in a web browser, but also apparently runs on macOS.",
+    "outlet": "tomshardware",
+    "published": "2026-09-18T12:00:00Z",
+    "title": "Modder gets Nvidia's DLSS 5 working in a web browser using WebGPU \u2014 147MB browser port runs on non-Nvidia GPUs and macOS but takes two seconds per render",
+    "url": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render"
+  },
+  "b": {
+    "item_id": "822ea128c766e603f16853bf19e9bda4e4098aef",
+    "lede": "The developers of RPCS3 have found a workaround for an Nvidia driver bug and are touting up to 37% performance gains.",
+    "outlet": "tomshardware",
+    "published": "2026-09-21T13:00:00Z",
+    "title": "PlayStation 3 emulation devs work around an Nvidia bug for up to 37% faster performance \u2014 open-source coders reach out to Nvidia to over uncovered bug",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/playstation-3-emulation-devs-work-around-an-nvidia-bug-for-up-to-37-percent-faster-performance-open-source-coders-reach-out-to-nvidia-to-over-uncovered-bug"
+  },
+  "score": 0.622067
+}

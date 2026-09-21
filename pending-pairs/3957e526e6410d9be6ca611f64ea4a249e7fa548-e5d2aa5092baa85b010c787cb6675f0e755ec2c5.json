@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3957e526e6410d9be6ca611f64ea4a249e7fa548",
+    "lede": "Retailer cites credentials and transparency concerns while guarding its lucrative customer journey",
+    "outlet": "theregister",
+    "published": "2026-09-21T13:28:00Z",
+    "title": "Amazon shows Meta's Muse AI shopping agent the door",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777"
+  },
+  "b": {
+    "item_id": "e5d2aa5092baa85b010c787cb6675f0e755ec2c5",
+    "lede": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website.",
+    "outlet": "engadget",
+    "published": "2026-09-21T11:38:42Z",
+    "title": "Amazon bars Meta's Muse AI from shopping on its site",
+    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/"
+  },
+  "score": 0.683196
+}

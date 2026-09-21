@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "408c2d26746ffff2da38c1cab949d1652ea4fc21",
+    "lede": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T11:45:54Z",
+    "title": "Microsoft: September updates break File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/"
+  },
+  "b": {
+    "item_id": "81a650142c3f1ad29ace9cb3c3772482ef78fa6f",
+    "lede": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T14:42:37Z",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/"
+  },
+  "score": 0.679322
+}
