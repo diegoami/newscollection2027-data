@@ -1,0 +1,56 @@
+{
+  "anchor": "50c802e9ffe479ed38adf8471cfab2a028364437",
+  "id": "2026-09-18-18e2ba",
+  "items": [
+    {
+      "item_id": "50c802e9ffe479ed38adf8471cfab2a028364437",
+      "lede": "US cybersecurity researchers who conducted hack say \u2018scope of what we could theoretically access was huge\u2019 Cybersecurity researchers have hacked into OpenAI with the help of Anthropic\u2019s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised multiple OpenAI employees\u2019 ChatGPT accounts, starting a process that enabled them to access their",
+      "outlet": "theguardian",
+      "published": "2026-09-18T11:20:44Z",
+      "title": "OpenAI \u2018ethically hacked\u2019 with help of Anthropic\u2019s Claude chatbot",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot"
+    },
+    {
+      "item_id": "a8365cfa26c035d9e0fa201ceff4916d184708de",
+      "lede": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+      "outlet": "arstechnica",
+      "published": "2026-09-18T13:30:12Z",
+      "title": "Researchers used Claude to hack OpenAI",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+    },
+    {
+      "item_id": "9762e0fefaa0db5c1b883279b845a288be64bcee",
+      "lede": "A team of white-hat hackers from cybersecurity startup Hackron AI has successfully hacked OpenAI using Claude tools.",
+      "outlet": "tomshardware",
+      "published": "2026-09-18T13:45:00Z",
+      "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase \u2014 attackers initiated a 'harmless' pull request as proof of the hack",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
+    },
+    {
+      "item_id": "4434b99a74677285624df7f7e769b4f072d0451b",
+      "lede": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "outlet": "techcrunch",
+      "published": "2026-09-18T14:00:14Z",
+      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+    },
+    {
+      "item_id": "907e9d53087619686dbf6e92b18f5dd18f972a46",
+      "lede": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-18T15:30:16Z",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+    },
+    {
+      "item_id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+      "lede": "Agentic exploits for the win (again)",
+      "outlet": "theregister",
+      "published": "2026-09-18T17:16:00Z",
+      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+      "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
+    }
+  ],
+  "status": "pending",
+  "version": 1
+}

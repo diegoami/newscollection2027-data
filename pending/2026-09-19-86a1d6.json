@@ -1,0 +1,40 @@
+{
+  "anchor": "77eda886577778e6073fffeaf12ff995c7712a1f",
+  "id": "2026-09-19-86a1d6",
+  "items": [
+    {
+      "item_id": "77eda886577778e6073fffeaf12ff995c7712a1f",
+      "lede": "The president said he will soon announce an \"AI czar\" to run this newly made-up agency.",
+      "outlet": "engadget",
+      "published": "2026-09-19T19:22:20Z",
+      "title": "Now Trump says he's creating an AI Force",
+      "url": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/"
+    },
+    {
+      "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+      "lede": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an \u201cAI Force\u201d to help monitor the technology, though he gave almost no details about either plan. As global fears over AI have grown, especially in the past week",
+      "outlet": "theguardian",
+      "published": "2026-09-19T19:57:17Z",
+      "title": "Trump to create \u2018AI Force\u2019 to monitor technology as fears over out-of-control agents grow",
+      "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force"
+    },
+    {
+      "item_id": "589c5060cfaa1e080901a089fdbd620aa92fcf66",
+      "lede": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "outlet": "techcrunch",
+      "published": "2026-09-19T19:57:47Z",
+      "title": "Trump suggests rebranding AI with a new name, says he\u2019s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+    },
+    {
+      "item_id": "ba91ca58495db0274e07e6ad1c709d85005b9346",
+      "lede": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-20T15:39:22Z",
+      "title": "Trump now says he wants to form an \u2018AI Force\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+    }
+  ],
+  "status": "pending",
+  "version": 1
+}

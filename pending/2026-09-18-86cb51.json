@@ -1,0 +1,24 @@
+{
+  "anchor": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+  "id": "2026-09-18-86cb51",
+  "items": [
+    {
+      "item_id": "6b844761c1220d264f713540e21cb2d329f2b7b1",
+      "lede": "But the military's overall use of AI seems to be accelerating.",
+      "outlet": "arstechnica",
+      "published": "2026-09-18T20:26:33Z",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+    },
+    {
+      "item_id": "aecce48030dc8cf23f77045e8f1d248e2665e59e",
+      "lede": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
+      "outlet": "engadget",
+      "published": "2026-09-18T22:44:45Z",
+      "title": "AI almost led the US military to start a war with China, report says",
+      "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/"
+    }
+  ],
+  "status": "pending",
+  "version": 1
+}
