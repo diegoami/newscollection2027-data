@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c476924b2eb2bb2ae2cb81fed9efa0e3a3b0afd9",
+    "lede": "Muse isn't welcome as a shopper anymore.",
+    "outlet": "techcrunch",
+    "published": "2026-09-21T17:55:18Z",
+    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+  },
+  "b": {
+    "item_id": "e5d2aa5092baa85b010c787cb6675f0e755ec2c5",
+    "lede": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website.",
+    "outlet": "engadget",
+    "published": "2026-09-21T11:38:42Z",
+    "title": "Amazon bars Meta's Muse AI from shopping on its site",
+    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/"
+  },
+  "score": 0.671211
+}

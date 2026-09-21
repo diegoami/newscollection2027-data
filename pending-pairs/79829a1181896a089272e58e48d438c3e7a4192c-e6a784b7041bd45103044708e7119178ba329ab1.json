@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "79829a1181896a089272e58e48d438c3e7a4192c",
+    "lede": "Watchdog says users may have been unaware their information was used to target adverts or infer their interests Google has been fined more than \u20ac400m (\u00a3345m) over the way it processed users\u2019 location data, following claims that the tech giant had manipulated users into agreeing to be constantly tracked on their mobile phones. The fine, imposed by Ireland\u2019s Data Protection",
+    "outlet": "theguardian",
+    "published": "2026-09-21T10:57:26Z",
+    "title": "Google fined more than \u20ac400m by Irish regulator over its use of location data",
+    "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data"
+  },
+  "b": {
+    "item_id": "e6a784b7041bd45103044708e7119178ba329ab1",
+    "lede": "Ireland's Data Protection Commission (DPC) has fined Google \u20ac403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T15:41:22Z",
+    "title": "Google fined \u20ac403 million over location data privacy violations",
+    "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
+  },
+  "score": 0.748575
+}

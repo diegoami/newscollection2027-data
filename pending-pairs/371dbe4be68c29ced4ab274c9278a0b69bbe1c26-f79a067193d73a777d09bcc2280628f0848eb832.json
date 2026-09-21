@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "371dbe4be68c29ced4ab274c9278a0b69bbe1c26",
+    "lede": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-19T04:27:11Z",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo"
+  },
+  "b": {
+    "item_id": "f79a067193d73a777d09bcc2280628f0848eb832",
+    "lede": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T16:57:26Z",
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
+  },
+  "score": 0.672626
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5c955a08d16fda2bf3dcb65b44697db4a6ddceba",
+    "lede": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+    "outlet": "engadget",
+    "published": "2026-09-19T17:00:01Z",
+    "title": "California governor wants to implement a kill switch for frontier AI models",
+    "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/"
+  },
+  "b": {
+    "item_id": "a7f35bf45e5f5560d8c61137d5f0917a16ff8f7b",
+    "lede": "The president offered few details on what his proposed new AI Force would do.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T15:37:56Z",
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+  },
+  "score": 0.593798
+}

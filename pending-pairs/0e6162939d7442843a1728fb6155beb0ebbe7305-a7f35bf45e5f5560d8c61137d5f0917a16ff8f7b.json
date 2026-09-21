@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e6162939d7442843a1728fb6155beb0ebbe7305",
+    "lede": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+    "outlet": "wired",
+    "published": "2026-09-19T11:00:00Z",
+    "title": "Forget the AI Slowdown\u2014the Vulnerability Explosion Is Already Happening",
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
+  },
+  "b": {
+    "item_id": "a7f35bf45e5f5560d8c61137d5f0917a16ff8f7b",
+    "lede": "The president offered few details on what his proposed new AI Force would do.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T15:37:56Z",
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+  },
+  "score": 0.588265
+}

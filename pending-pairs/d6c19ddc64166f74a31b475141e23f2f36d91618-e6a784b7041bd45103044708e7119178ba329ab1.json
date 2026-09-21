@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d6c19ddc64166f74a31b475141e23f2f36d91618",
+    "lede": "Hardly the first time it's run afoul of EU regulations.",
+    "outlet": "engadget",
+    "published": "2026-09-21T14:31:22Z",
+    "title": "Google fined $463 million for breaching EU location data rules",
+    "url": "https://www.engadget.com/2263850/google-fined-dollar463-million-for-breaching-eu-location-data-rules/"
+  },
+  "b": {
+    "item_id": "e6a784b7041bd45103044708e7119178ba329ab1",
+    "lede": "Ireland's Data Protection Commission (DPC) has fined Google \u20ac403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T15:41:22Z",
+    "title": "Google fined \u20ac403 million over location data privacy violations",
+    "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
+  },
+  "score": 0.653047
+}
