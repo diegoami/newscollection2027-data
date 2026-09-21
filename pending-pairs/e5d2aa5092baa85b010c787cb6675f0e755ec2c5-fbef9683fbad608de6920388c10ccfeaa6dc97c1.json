@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e5d2aa5092baa85b010c787cb6675f0e755ec2c5",
+    "lede": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website.",
+    "outlet": "engadget",
+    "published": "2026-09-21T11:38:42Z",
+    "title": "Amazon bars Meta's Muse AI from shopping on its site",
+    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/"
+  },
+  "b": {
+    "item_id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
+    "lede": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-21T09:21:47Z",
+    "title": "Amazon doesn\u2019t trust Meta\u2019s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+  },
+  "score": 0.676533
+}

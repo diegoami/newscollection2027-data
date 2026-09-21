@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8225d45909d6c28857fe109a8ae3d1dc8a0022d6",
+    "lede": "The Muse app continues Meta\u2019s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "outlet": "wired",
+    "published": "2026-09-20T10:30:00Z",
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/"
+  },
+  "b": {
+    "item_id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
+    "lede": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-21T09:21:47Z",
+    "title": "Amazon doesn\u2019t trust Meta\u2019s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+  },
+  "score": 0.597758
+}

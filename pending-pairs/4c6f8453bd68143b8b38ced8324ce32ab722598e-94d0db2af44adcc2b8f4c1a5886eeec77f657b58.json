@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4c6f8453bd68143b8b38ced8324ce32ab722598e",
+    "lede": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-17T14:00:00Z",
+    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude"
+  },
+  "b": {
+    "item_id": "94d0db2af44adcc2b8f4c1a5886eeec77f657b58",
+    "lede": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-21T10:18:06Z",
+    "title": "UN says AI safeguards can\u2019t wait for certainty",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle"
+  },
+  "score": 0.600552
+}
