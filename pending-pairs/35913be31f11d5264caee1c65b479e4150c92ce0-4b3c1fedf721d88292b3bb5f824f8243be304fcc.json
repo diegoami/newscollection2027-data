@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "35913be31f11d5264caee1c65b479e4150c92ce0",
+    "lede": "Repairability improvements can't lift last year's score as camera complexity and screen-frame concerns remain",
+    "outlet": "theregister",
+    "published": "2026-09-21T20:30:00Z",
+    "title": "Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds",
+    "url": "https://www.theregister.com/personal-tech/2026/09/21/skip-the-upgrade-iphone-18-pro-aperture-about-as-unrepairable-as-it-gets-ifixit-finds/5297970"
+  },
+  "b": {
+    "item_id": "4b3c1fedf721d88292b3bb5f824f8243be304fcc",
+    "lede": "Apple's variable aperture might capture better photos, but is near impossible to fix if it breaks.",
+    "outlet": "engadget",
+    "published": "2026-09-21T11:30:06Z",
+    "title": "The iPhone 18 Pro's fancy variable aperture camera is incredibly hard to repair",
+    "url": "https://www.engadget.com/2263650/the-iphone-18-pro-variable-aperture-camera-ifixit-hard-to-repair/"
+  },
+  "score": 0.578556
+}
