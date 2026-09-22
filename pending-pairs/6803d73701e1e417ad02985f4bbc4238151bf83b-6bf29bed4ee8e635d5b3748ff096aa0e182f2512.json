@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6803d73701e1e417ad02985f4bbc4238151bf83b",
+    "lede": "The Mac Studio review unit that Apple sent us to test this year is, put simply, kind of outrageous. It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage and costs $12,299. This thing is not for your typical content creation workloads. It's for AI [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-21T13:00:00Z",
+    "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+    "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review"
+  },
+  "b": {
+    "item_id": "6bf29bed4ee8e635d5b3748ff096aa0e182f2512",
+    "lede": "Newegg's ABS Cyclone Aqua prebuilt combines Intel's 20-core Core i7-14700F with Nvidia's RTX 5060 8GB, and 32GB of DDR4 memory for less than the cost of building a comparable system",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T11:30:00Z",
+    "title": "Gaming PC with RTX 5060, 32GB of RAM, and 1TB of storage gets $500 discount \u2014 Newegg's capable ABS Cyclone Aqua prebuilt is $1,199 with code",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd500-discount-neweggs-capable-abs-cyclone-aqua-prebuilt-is-usd1-199-with-code"
+  },
+  "score": 0.674464
+}

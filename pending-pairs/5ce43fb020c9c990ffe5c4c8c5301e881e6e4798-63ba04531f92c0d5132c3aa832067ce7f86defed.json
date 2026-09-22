@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5ce43fb020c9c990ffe5c4c8c5301e881e6e4798",
+    "lede": "Apple's use of QLC NAND allows the iPhone 18 Pro Max to offer higher storage capacity, but Homolab's testing highlights the potential performance trade-off under sustained writes.",
+    "outlet": "tomshardware",
+    "published": "2026-09-21T17:34:47Z",
+    "title": "iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes \u2014 QLC NAND offers higher capacity but reportedly suffers 38% drop compared to TLC-based Pro",
+    "url": "https://www.tomshardware.com/pc-components/ssds/iphone-18-pro-max-storage-can-drop-lower-than-a-hard-drive-at-1-1-mb-s-during-heavy-writes-qlc-nand-offers-higher-capacity-but-reportedly-suffers-38-percent-drop-compared-to-tlc-based-pro"
+  },
+  "b": {
+    "item_id": "63ba04531f92c0d5132c3aa832067ce7f86defed",
+    "lede": "DapuStor\u2019s dual-mode J5060 QLC SSD runs part of its NAND as pSLC, trading 4TB of a 30.72TB drive for 800GB of fast flash.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T10:30:00Z",
+    "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region \u2014 trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
+    "url": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes"
+  },
+  "score": 0.621534
+}

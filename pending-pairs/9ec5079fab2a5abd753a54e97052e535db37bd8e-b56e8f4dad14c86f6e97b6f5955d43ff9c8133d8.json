@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9ec5079fab2a5abd753a54e97052e535db37bd8e",
+    "lede": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T09:55:11Z",
+    "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
+  },
+  "b": {
+    "item_id": "b56e8f4dad14c86f6e97b6f5955d43ff9c8133d8",
+    "lede": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-18T12:16:32Z",
+    "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/"
+  },
+  "score": 0.676328
+}

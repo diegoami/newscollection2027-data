@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cc98e60c22639ee83f531c2a3c8e0231b9056a1",
+    "lede": "Walmart is selling a CyberPowerPC gaming PC with a Ryzen 7 9800X3D, GeForce RTX 5080 Founders Edition, 32GB of DDR5-6000 memory, and a 1TB PCIe 4.0 SSD for $2,299.",
+    "outlet": "tomshardware",
+    "published": "2026-09-21T17:19:27Z",
+    "title": "Get the world\u2019s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299 \u2014 fully loaded powerhouse sports Ryzen 7 9800X3D, RTX 5080 Founders Edition, 32GB RAM, and 1TB SSD",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-the-worlds-fastest-gaming-cpu-and-a-dlss-5-capable-gpu-in-a-gaming-pc-for-usd2-299-fully-loaded-powerhouse-sports-ryzen-7-9800x3d-rtx-5080-founders-edition-32gb-ram-and-1tb-ssd"
+  },
+  "b": {
+    "item_id": "63ba04531f92c0d5132c3aa832067ce7f86defed",
+    "lede": "DapuStor\u2019s dual-mode J5060 QLC SSD runs part of its NAND as pSLC, trading 4TB of a 30.72TB drive for 800GB of fast flash.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T10:30:00Z",
+    "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region \u2014 trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
+    "url": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes"
+  },
+  "score": 0.600006
+}

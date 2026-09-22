@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "63ba04531f92c0d5132c3aa832067ce7f86defed",
+    "lede": "DapuStor\u2019s dual-mode J5060 QLC SSD runs part of its NAND as pSLC, trading 4TB of a 30.72TB drive for 800GB of fast flash.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T10:30:00Z",
+    "title": "New DapuStor SSD pairs high-capacity QLC with a permanent pSLC region \u2014 trades 6% to 20% of its QLC capacity for more than 7x faster random writes",
+    "url": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes"
+  },
+  "b": {
+    "item_id": "da94f6b37f722a25a4463a7b6919ae76e39e016f",
+    "lede": "Get a solid deal on the 2TB MSI Spatium M461 SSD. Just $299 after promo code nets one of the least expensive Gen 4x4 SSDs available today.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T10:48:20Z",
+    "title": "This $299 2TB MSI SSD is one of the least expensive PCIe 4.0 SSDs you can buy right now \u2014 just 10 cents per GB yields a speedy upgrade for your internal storage",
+    "url": "https://www.tomshardware.com/pc-components/this-usd299-2tb-msi-ssd-is-one-of-the-least-expensive-pcie-4-0-ssds-you-can-buy-right-now-just-10-cents-per-gb-yields-a-speedy-upgrade-for-your-internal-storage"
+  },
+  "score": 0.582
+}

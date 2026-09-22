@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11d91986578dbb423b081395983ba8d2874b872e",
+    "lede": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
+    "outlet": "wired",
+    "published": "2026-09-22T10:00:00Z",
+    "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
+  },
+  "b": {
+    "item_id": "b27fb7cf65344ef0d00326afd8226605e5c503d1",
+    "lede": "Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of",
+    "outlet": "theguardian",
+    "published": "2026-09-19T00:53:20Z",
+    "title": "Google says its Gemini AI model hacked three other companies",
+    "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack"
+  },
+  "score": 0.579529
+}
