@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5688d00270f814eaf070ec3861e54aae38359d62",
+    "lede": "That video capture is nothing to sneeze at.",
+    "outlet": "engadget",
+    "published": "2026-09-22T20:00:00Z",
+    "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+    "url": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/"
+  },
+  "b": {
+    "item_id": "948ab460c8b3929a7da38566d500671a54735742",
+    "lede": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "outlet": "techcrunch",
+    "published": "2026-09-22T20:00:00Z",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+  },
+  "score": 0.571052
+}

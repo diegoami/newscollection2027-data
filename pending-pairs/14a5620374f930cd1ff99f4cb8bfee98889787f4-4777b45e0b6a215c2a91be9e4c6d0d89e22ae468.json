@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14a5620374f930cd1ff99f4cb8bfee98889787f4",
+    "lede": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "outlet": "engadget",
+    "published": "2026-09-19T18:33:46Z",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/"
+  },
+  "b": {
+    "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+    "lede": "I thought we were supposed to be slowing down the frontier.",
+    "outlet": "engadget",
+    "published": "2026-09-22T19:11:11Z",
+    "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+    "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/"
+  },
+  "score": 0.608208
+}
