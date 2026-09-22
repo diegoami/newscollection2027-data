@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b2c543ac59e1c4518c6ada1d61803543a9eca330",
+    "lede": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T22:24:38Z",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+  },
+  "b": {
+    "item_id": "c476924b2eb2bb2ae2cb81fed9efa0e3a3b0afd9",
+    "lede": "Muse isn't welcome as a shopper anymore.",
+    "outlet": "techcrunch",
+    "published": "2026-09-21T17:55:18Z",
+    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+  },
+  "score": 0.580738
+}
