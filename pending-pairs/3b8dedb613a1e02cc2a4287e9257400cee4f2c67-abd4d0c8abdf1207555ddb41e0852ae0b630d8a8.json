@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3b8dedb613a1e02cc2a4287e9257400cee4f2c67",
+    "lede": "The English hospitals recovered patient care data only.",
+    "outlet": "arstechnica",
+    "published": "2026-09-22T16:55:40Z",
+    "title": "IT mistake erases 11 years of viewing history for hospitals\u2019 maternity records",
+    "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/"
+  },
+  "b": {
+    "item_id": "abd4d0c8abdf1207555ddb41e0852ae0b630d8a8",
+    "lede": "Human error sent reused instructions at the wrong database, taking historical access logs with it",
+    "outlet": "theregister",
+    "published": "2026-09-22T10:45:00Z",
+    "title": "NHS Trust IT blunder overwrites 11 years of maternity records",
+    "url": "https://www.theregister.com/databases/2026/09/22/nhs-trust-it-blunder-overwrites-11-years-of-maternity-records/5298130"
+  },
+  "score": 0.583433
+}

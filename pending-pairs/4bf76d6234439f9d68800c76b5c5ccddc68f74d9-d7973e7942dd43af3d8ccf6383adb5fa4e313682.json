@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4bf76d6234439f9d68800c76b5c5ccddc68f74d9",
+    "lede": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T16:32:47Z",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "d7973e7942dd43af3d8ccf6383adb5fa4e313682",
+    "lede": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T18:23:11Z",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+  },
+  "score": 0.583557
+}

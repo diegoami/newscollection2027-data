@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7023954e1825c744cb88137cfa76b17c4f66f1a5",
+    "lede": "Ethernet ports are often in short supply. If you run low, a cheap device lets you add more to your existing router without fuss.",
+    "outlet": "engadget",
+    "published": "2026-09-22T16:30:00Z",
+    "title": "How to add extra Ethernet ports if your router doesn't have enough",
+    "url": "https://www.engadget.com/2262942/how-to-add-extra-ethernet-ports-router/"
+  },
+  "b": {
+    "item_id": "f63e9eecbaf8df06603f1a1da62992cef293b87b",
+    "lede": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.",
+    "outlet": "engadget",
+    "published": "2026-09-19T16:00:00Z",
+    "title": "Here's why some monitors have two USB ports (and the best ways to use them)",
+    "url": "https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/"
+  },
+  "score": 0.595636
+}
