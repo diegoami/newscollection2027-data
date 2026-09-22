@@ -1,0 +1,58 @@
+{
+  "cluster_id": "2026-09-21-df4ff0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "iFixit teardown finds iPhone 18 Pro's variable aperture camera hard to repair",
+  "summary": "An iFixit teardown of the iPhone 18 Pro's variable aperture camera revealed a magnetically adjustable mechanical iris with six overlapping blades. Outlets differ on how severely they characterize its repairability.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "iFixit's teardown of the iPhone 18 Pro's variable aperture camera revealed repair concerns.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "540ae33c24cd3fc5d70ee57d863a4756a9fea405",
+          "quote": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4b3c1fedf721d88292b3bb5f824f8243be304fcc",
+          "quote": "The iPhone 18 Pro's fancy variable aperture camera is incredibly hard to repair"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The variable aperture uses a magnetically adjustable mechanical iris with six overlapping blades.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "540ae33c24cd3fc5d70ee57d863a4756a9fea405",
+          "quote": "The adjustable mechanical iris opens and closes magnetically, controlling how much light should pass through to the sensor, featuring six leaf-like overlapping blades"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "engadget characterizes the camera as 'incredibly hard to repair' while theverge frames the same teardown findings more mildly as repair concerns to note.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b3c1fedf721d88292b3bb5f824f8243be304fcc",
+          "quote": "incredibly hard to repair"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "540ae33c24cd3fc5d70ee57d863a4756a9fea405",
+          "quote": "repair concerns to be mindful of"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

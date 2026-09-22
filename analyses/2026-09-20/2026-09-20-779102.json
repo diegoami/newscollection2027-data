@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-09-20-779102",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Nvidia's Jensen Huang dismisses AI existential-risk fears, rejects slowdown calls",
+  "summary": "Nvidia CEO Jensen Huang said there is a '0% chance' AI destroys the world by 2030, dismissing warnings from AI-safety advocates, including a former Anthropic researcher, as unsubstantiated doomsday narratives, and said the industry should keep developing AI as fast as possible.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Jensen Huang said there is a '0% chance' AI destroys the world by 2030.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "bfdd40457e56c0373861ed636fc08615498b31f3",
+          "quote": "Jensen Huang says there is '0% chance' AI destroys the world by 2030"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "570fe5cd268eb030749f05aa924b1f32a20c3adc",
+          "quote": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Huang dismissed AI-safety warnings, including from a former Anthropic researcher, as unsubstantiated or overblown.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "bfdd40457e56c0373861ed636fc08615498b31f3",
+          "quote": "fears that AI will destroy humanity in the coming years are unsubstantiated"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "570fe5cd268eb030749f05aa924b1f32a20c3adc",
+          "quote": "dismisses warnings from former Anthropic researcher and others as ‘doomsday narratives’"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Huang said the industry should develop AI as fast as possible and rejected new regulations.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "bfdd40457e56c0373861ed636fc08615498b31f3",
+          "quote": "'We should go as fast as we can, irrespective of anyone else,'"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

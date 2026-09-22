@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-09-21-ab538b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Apple's M6 Mac mini reviews praise speed but knock its price hike",
+  "summary": "Reviews of Apple's new M6 Mac mini, starting at $899, praise its speed boost but say the price hike hurts its value compared to earlier models. One reviewer instead frames the refresh around its AI focus.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple's new M6 Mac mini starts at $899, a price increase from before.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "0545bd8f048f630ec1dfc28d7459b8582aefdf2c",
+          "quote": "At $899, the new Mac mini loses the fun factor of the previous models."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d3361d5d9008b5d16c73ba8c32e8f2c0b5fb46c1",
+          "quote": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The M6 chip provides a considerable speed boost.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "5dd821259975dc730c9fbad321f47242c3f18b67",
+          "quote": "The M6 Mac mini gets a considerable speed boost and a considerable price hike."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "6c5e1a1bd6b26c0c1633691d2d4371ab7a8fa49c",
+          "quote": "Apple has refreshed the Mac Mini with a brand-new chip, the M6."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The price hike makes the new Mac mini a worse value than before.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "d3361d5d9008b5d16c73ba8c32e8f2c0b5fb46c1",
+          "quote": "the price hike is rough"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "5dd821259975dc730c9fbad321f47242c3f18b67",
+          "quote": "losing its grip on value"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "0545bd8f048f630ec1dfc28d7459b8582aefdf2c",
+          "quote": "is no longer a great deal"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "wired frames the M6 Mac mini around its AI focus, while engadget, tomshardware and arstechnica emphasize the price hike as a downside.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "6c5e1a1bd6b26c0c1633691d2d4371ab7a8fa49c",
+          "quote": "For the AI Curious"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d3361d5d9008b5d16c73ba8c32e8f2c0b5fb46c1",
+          "quote": "the price hike is rough"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-09-21-b9cb1c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Paramount settles states' antitrust suit, clearing its Warner Bros. merger",
+  "summary": "Paramount settled the antitrust lawsuit brought by California and other states over its $110 billion Warner Bros. Discovery acquisition, clearing a major roadblock for the merger to proceed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Paramount settled the antitrust lawsuit over its $110 billion Warner Bros. Discovery acquisition.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c49469caf7c21806d72950ebdc8958235c5d4904",
+          "quote": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "79a8bbd058c4e089d2516b6170801a5aa0059603",
+          "quote": "Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The settlement clears the way for the merger to proceed.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c49469caf7c21806d72950ebdc8958235c5d4904",
+          "quote": "The settlement removes a major roadblock standing in the way of the massive media merger."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "79a8bbd058c4e089d2516b6170801a5aa0059603",
+          "quote": "The mega-merger of the year will apparently go forward."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

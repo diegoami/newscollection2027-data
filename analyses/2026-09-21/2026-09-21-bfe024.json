@@ -1,0 +1,63 @@
+{
+  "cluster_id": "2026-09-21-bfe024",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "iPhone owners can file claims in Apple's $250 million Siri settlement",
+  "summary": "Apple is paying $250 million to settle claims it failed to deliver an AI-upgraded Siri, and eligible iPhone 15 Pro, 15 Pro Max and 16 owners can now file a claim. One outlet reports a specific payout amount that the other does not mention.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is paying $250 million to settle claims it failed to deliver an AI-upgraded Siri, and eligible iPhone owners can now file a claim.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "335387d8455b398318c4f33f48661bc02245b5cd",
+          "quote": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "4dcfcbe12f6f83b9a29449d7422fc8a75dde58e7",
+          "quote": "Apple is doling out $250 million"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Eligible devices include the iPhone 15 Pro, iPhone 15 Pro Max, and iPhone 16 models.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "335387d8455b398318c4f33f48661bc02245b5cd",
+          "quote": "iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "4dcfcbe12f6f83b9a29449d7422fc8a75dde58e7",
+          "quote": "Got an iPhone 15 Pro, Pro Max, or 16?"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "zdnet reports a specific payout of up to $95 per claimant; theverge's text does not mention a payout amount.",
+      "quotes": [
+        {
+          "outlet": "zdnet",
+          "item_id": "4dcfcbe12f6f83b9a29449d7422fc8a75dde58e7",
+          "quote": "Claim up to $95 today from Apple’s Siri AI settlement"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "335387d8455b398318c4f33f48661bc02245b5cd",
+          "quote": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,48 @@
+{
+  "anchor": "0545bd8f048f630ec1dfc28d7459b8582aefdf2c",
+  "id": "2026-09-21-ab538b",
+  "items": [
+    {
+      "item_id": "0545bd8f048f630ec1dfc28d7459b8582aefdf2c",
+      "lede": "At $899, the new Mac mini loses the fun factor of the previous models.",
+      "outlet": "engadget",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Apple Mac mini (M6) review: The best compact desktop is no longer a great deal",
+      "url": "https://www.engadget.com/2263471/apple-mac-mini-m6-review/"
+    },
+    {
+      "item_id": "5dd821259975dc730c9fbad321f47242c3f18b67",
+      "lede": "The M6 Mac mini gets a considerable speed boost and a considerable price hike.",
+      "outlet": "tomshardware",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Apple Mac mini (Late 2026) Review: Strong performance, but losing its grip on value",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review"
+    },
+    {
+      "item_id": "6c5e1a1bd6b26c0c1633691d2d4371ab7a8fa49c",
+      "lede": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it\u2019s more focused on AI than ever.",
+      "outlet": "wired",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
+      "url": "https://www.wired.com/review/apple-mac-mini-m6/"
+    },
+    {
+      "item_id": "b8b7927bfac644467a20c9e06f65ee7a7deb7fc2",
+      "lede": "There are lots of compact desktop computers out there, but none match the Mac Mini's small size and big power. 2024's redesign reduced the Mini to 0.82L, a chassis so minimal you can easily mount it behind a monitor or under a desk. I've used gaming laptop charging bricks that are nearly as large and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "The Mac Mini is still mighty, just not as cheap",
+      "url": "https://www.theverge.com/tech/998006/apple-mac-mini-m6-m5-pro-review"
+    },
+    {
+      "item_id": "d3361d5d9008b5d16c73ba8c32e8f2c0b5fb46c1",
+      "lede": "The M4 Mac mini was one of Apple's best values. The $899 M6 mini, not so much.",
+      "outlet": "arstechnica",
+      "published": "2026-09-21T13:00:24Z",
+      "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

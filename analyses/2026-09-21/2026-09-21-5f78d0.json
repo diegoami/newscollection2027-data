@@ -1,0 +1,64 @@
+{
+  "cluster_id": "2026-09-21-5f78d0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Reviews of Apple's M5 Ultra Mac Studio cite different starting prices",
+  "summary": "Reviews of Apple's M5 Ultra Mac Studio praise its AI and productivity performance, but outlets cite different prices for their review units and differ on whether the premium is worthwhile.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The M5 Ultra Mac Studio delivers strong AI and productivity performance.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "067cd54b6ad4889f553609ce7879bcf56a6c0532",
+          "quote": "The Mac Studio with M5 Ultra delivers powerhouse productivity and AI performance in a small chassis."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6803d73701e1e417ad02985f4bbc4238151bf83b",
+          "quote": "It has an M5 Ultra chip with a 36-core CPU and 80-core GPU, 256GB of RAM, and 4TB of storage"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "engadget cites the M5 Ultra Mac Studio at $11,299 while theverge's review unit costs $12,299, likely due to different configurations.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "2717b7c8cfc9a93273f5751771bbeb6662dd4163",
+          "quote": "At $11,299, the M5 Ultra's extra performance over the M5 Max model is only worth it for select buyers."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6803d73701e1e417ad02985f4bbc4238151bf83b",
+          "quote": "and costs $12,299"
+        }
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "tomshardware frames the M5 Ultra positively as outpacing rival workstations, while engadget frames the price premium as worthwhile only for select buyers.",
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "067cd54b6ad4889f553609ce7879bcf56a6c0532",
+          "quote": "Local model citizen outpaces DGX Spark and Threadripper"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "2717b7c8cfc9a93273f5751771bbeb6662dd4163",
+          "quote": "is only worth it for select buyers"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

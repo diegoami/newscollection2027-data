@@ -1,0 +1,80 @@
+{
+  "anchor": "0f33111a6f51b4e8ee7e84aabec5ada8ca808a76",
+  "id": "2026-09-21-0f1f28",
+  "items": [
+    {
+      "item_id": "0f33111a6f51b4e8ee7e84aabec5ada8ca808a76",
+      "lede": "There's a good chance that my next laptop will be a Googlebook. If you're an Android user like me, then yours might be too, because Google is making a compelling pitch: The Googlebook does for the Android phone what the MacBook does for the iPhone (and then some). John Maletis, Google's head of laptops and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Googlebooks feel like the first laptops built for Android owners",
+      "url": "https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast"
+    },
+    {
+      "item_id": "7414788b6665f58ab161fe6e0345c76ef1ac122a",
+      "lede": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS to make a Mac-like experience for Android users, with a ton of Gemini tacked on.",
+      "outlet": "tomshardware",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Hands-on with Googlebooks \u2014 Five models, the new Googlebook OS, and a Mac-style experience for Android users at premium prices",
+      "url": "https://www.tomshardware.com/laptops/hands-on-with-googlebooks-five-models-the-new-googlebook-os-and-a-mac-style-experience-for-android-users-at-premium-prices"
+    },
+    {
+      "item_id": "acfd28523742ffdc7516e9f8f4b62d128291b065",
+      "lede": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google\u2019s bringing that experience to Android.",
+      "outlet": "wired",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "Got an Android Phone? Google Thinks You\u2019ll Probably Want a Googlebook Laptop",
+      "url": "https://www.wired.com/story/google-launches-googlebook-laptops/"
+    },
+    {
+      "item_id": "bec8f6bc471def351482d8154e1890ebd9cf1e13",
+      "lede": "The new Googlebooks from Acer, ASUS, Dell, HP and Lenovo cover a variety of sizes and form factors.",
+      "outlet": "engadget",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "I tried every new Googlebook announced today",
+      "url": "https://www.engadget.com/2263652/i-tried-every-new-googlebook-announced-today/"
+    },
+    {
+      "item_id": "cc6438358e05f03860762f7ea685ae95d637e7cf",
+      "lede": "There are a few things about using a Googlebook that immediately feel just right. The hardware is polished (since it's based on current laptops). The OS is familiar (if you've ever used a Chromebook). But most impressive, it integrates your Android phone with your PC so they feel more like one device. It's the culmination [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-21T13:00:00Z",
+      "title": "I got to see Google\u2019s wild ideas about the future of laptops",
+      "url": "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+    },
+    {
+      "item_id": "6d3d61319f06c770c0bf4740a591334897fab7ed",
+      "lede": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+      "outlet": "arstechnica",
+      "published": "2026-09-21T13:00:11Z",
+      "title": "Googlebooks launch October 4 starting at $899\u2014here are the five models you can preorder today",
+      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
+    },
+    {
+      "item_id": "4f608db524bc35dd110da216a431666de94d26b5",
+      "lede": "The first Googlebooks are up for pre-order today and they arrive on October 4.",
+      "outlet": "engadget",
+      "published": "2026-09-21T13:00:36Z",
+      "title": "Google's pitch for Googlebooks: A laptop that works better with your Android phone",
+      "url": "https://www.engadget.com/2263649/googlebooks-a-laptop-that-works-better-with-your-android-phone/"
+    },
+    {
+      "item_id": "433544038d2bac96729b9aafba2e831d5dfa342a",
+      "lede": "Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299, putting the Googlebooks in the same [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-21T13:01:00Z",
+      "title": "These are the first five Googlebook laptops",
+      "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell"
+    },
+    {
+      "item_id": "26792917d6d70d37ed53c4736a938d4327789925",
+      "lede": "Google\u2019s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "outlet": "techcrunch",
+      "published": "2026-09-21T14:39:22Z",
+      "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

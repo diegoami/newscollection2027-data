@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-09-21-716bde",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Ireland fines Google roughly €400 million over location data practices",
+  "summary": "Ireland's Data Protection Commission fined Google roughly €400 million for how it processed users' location data. Outlets report slightly different currency figures for the fine.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ireland's Data Protection Commission fined Google roughly €400 million over its handling of users' location data.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "e6a784b7041bd45103044708e7119178ba329ab1",
+          "quote": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data."
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "79829a1181896a089272e58e48d438c3e7a4192c",
+          "quote": "Google fined more than €400m by Irish regulator over its use of location data"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d6c19ddc64166f74a31b475141e23f2f36d91618",
+          "quote": "Google fined $463 million for breaching EU location data rules"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "Outlets report different currency figures for the fine: theguardian cites €400m/£345m, while engadget and bleepingcomputer cite $463 million (€403 million).",
+      "quotes": [
+        {
+          "outlet": "theguardian",
+          "item_id": "79829a1181896a089272e58e48d438c3e7a4192c",
+          "quote": "Google has been fined more than €400m (£345m)"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "e6a784b7041bd45103044708e7119178ba329ab1",
+          "quote": "€403 million ($463M)"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d6c19ddc64166f74a31b475141e23f2f36d91618",
+          "quote": "$463 million"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

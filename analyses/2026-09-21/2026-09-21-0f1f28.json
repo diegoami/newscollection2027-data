@@ -1,0 +1,129 @@
+{
+  "cluster_id": "2026-09-21-0f1f28",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-22T02:19:54Z",
+  "headline": "Google launches five Googlebook laptops with deep Android integration",
+  "summary": "Google and partners Acer, Asus, Dell, HP and Lenovo launched five Googlebook laptops, available for preorder today and arriving October 4, starting between $899 and $1,299. The laptops deeply integrate Android phones and weave Gemini AI throughout the desktop. One outlet frames the pricing more critically than others.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google and partner OEMs launched five Googlebook laptop models today.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "433544038d2bac96729b9aafba2e831d5dfa342a",
+          "quote": "There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "bec8f6bc471def351482d8154e1890ebd9cf1e13",
+          "quote": "The new Googlebooks from Acer, ASUS, Dell, HP and Lenovo cover a variety of sizes and form factors."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7414788b6665f58ab161fe6e0345c76ef1ac122a",
+          "quote": "Google has detailed its new Googlebooks, five laptops combining Android and ChromeOS"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The laptops are available for preorder today and arrive October 4.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "433544038d2bac96729b9aafba2e831d5dfa342a",
+          "quote": "available for preorder starting today and arrive in stores on October 4th"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4f608db524bc35dd110da216a431666de94d26b5",
+          "quote": "The first Googlebooks are up for pre-order today and they arrive on October 4."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "6d3d61319f06c770c0bf4740a591334897fab7ed",
+          "quote": "Googlebooks launch October 4 starting at $899"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Starting prices range from $899 to $1,299.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "433544038d2bac96729b9aafba2e831d5dfa342a",
+          "quote": "Starting prices range from $899 to $1,299"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "26792917d6d70d37ed53c4736a938d4327789925",
+          "quote": "Google’s $899 Googlebook"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Googlebooks integrate deeply with Android phones, similar to Mac-iPhone integration.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "0f33111a6f51b4e8ee7e84aabec5ada8ca808a76",
+          "quote": "The Googlebook does for the Android phone what the MacBook does for the iPhone"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "acfd28523742ffdc7516e9f8f4b62d128291b065",
+          "quote": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7414788b6665f58ab161fe6e0345c76ef1ac122a",
+          "quote": "five laptops combining Android and ChromeOS to make a Mac-like experience for Android users"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The Googlebook software integrates Gemini AI features throughout the desktop experience.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7414788b6665f58ab161fe6e0345c76ef1ac122a",
+          "quote": "with a ton of Gemini tacked on"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "26792917d6d70d37ed53c4736a938d4327789925",
+          "quote": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "arstechnica frames the pricing critically ('you may not like the price') while theverge reports the same starting prices neutrally.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "6d3d61319f06c770c0bf4740a591334897fab7ed",
+          "quote": "you may not like the price"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "433544038d2bac96729b9aafba2e831d5dfa342a",
+          "quote": "Starting prices range from $899 to $1,299"
+        }
+      ],
+      "claim_ids": [
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
