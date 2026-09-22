@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11d91986578dbb423b081395983ba8d2874b872e",
+    "lede": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
+    "outlet": "wired",
+    "published": "2026-09-22T10:00:00Z",
+    "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
+  },
+  "b": {
+    "item_id": "6a391c588ba53b3cc4b38ffe3bc86b27c167268b",
+    "lede": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+    "outlet": "wired",
+    "published": "2026-09-22T13:00:00Z",
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/"
+  },
+  "score": 0.58087
+}

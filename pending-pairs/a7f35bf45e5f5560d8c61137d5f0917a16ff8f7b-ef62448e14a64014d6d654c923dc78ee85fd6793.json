@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a7f35bf45e5f5560d8c61137d5f0917a16ff8f7b",
+    "lede": "The president offered few details on what his proposed new AI Force would do.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T15:37:56Z",
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+  },
+  "b": {
+    "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
+    "lede": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T12:13:41Z",
+    "title": "US and China propose hotline to de-escalate AI threats ahead of Washington summit",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence"
+  },
+  "score": 0.598032
+}
