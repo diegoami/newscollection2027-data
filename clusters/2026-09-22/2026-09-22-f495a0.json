@@ -1,0 +1,24 @@
+{
+  "anchor": "bbe00974ebe14bb0ff3181531ef406928f5f5700",
+  "id": "2026-09-22-f495a0",
+  "items": [
+    {
+      "item_id": "bbe00974ebe14bb0ff3181531ef406928f5f5700",
+      "lede": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-22T15:00:00Z",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/"
+    },
+    {
+      "item_id": "69bd5b227657faccb6a82f66dc0185deb6acadc0",
+      "lede": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T19:45:47Z",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

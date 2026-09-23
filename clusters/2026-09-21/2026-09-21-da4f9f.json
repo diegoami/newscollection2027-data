@@ -1,0 +1,24 @@
+{
+  "anchor": "f956d09adad3c30a396245fa2cf34ebc9c16fd85",
+  "id": "2026-09-21-da4f9f",
+  "items": [
+    {
+      "item_id": "f956d09adad3c30a396245fa2cf34ebc9c16fd85",
+      "lede": "Despite admitting to a \u201ccomponent issue,\u201d the company refuses to say what went wrong, how many units are affected in how many countries, and why it won\u2019t recall its $500 AI toothbrush.",
+      "outlet": "wired",
+      "published": "2026-09-21T17:22:19Z",
+      "title": "Dyson Won\u2019t Say What\u2019s Wrong With Its CameraJet Toothbrush",
+      "url": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/"
+    },
+    {
+      "item_id": "2de9b1ece6a57ef96def320f212b30a42fe9ea16",
+      "lede": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T13:33:16Z",
+      "title": "Dyson\u2019s most overengineered gadget may have a waterproofing problem",
+      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

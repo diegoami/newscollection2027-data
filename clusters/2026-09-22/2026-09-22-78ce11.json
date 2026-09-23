@@ -1,0 +1,24 @@
+{
+  "anchor": "4d5e3079798a6f8cedcbf1121e415e15b3793595",
+  "id": "2026-09-22-78ce11",
+  "items": [
+    {
+      "item_id": "4d5e3079798a6f8cedcbf1121e415e15b3793595",
+      "lede": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-22T20:00:00Z",
+      "title": "Motorola\u2019s wild-looking Signature 27 runs Qualcomm\u2019s new Extreme chipset",
+      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6"
+    },
+    {
+      "item_id": "bb9e5b4b5c6f157b9d7acf67b34d367c72c0feb2",
+      "lede": "Not bad for a quick refresh.",
+      "outlet": "engadget",
+      "published": "2026-09-22T20:00:00Z",
+      "title": "Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor",
+      "url": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

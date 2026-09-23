@@ -1,0 +1,24 @@
+{
+  "anchor": "9ec5079fab2a5abd753a54e97052e535db37bd8e",
+  "id": "2026-09-22-443499",
+  "items": [
+    {
+      "item_id": "9ec5079fab2a5abd753a54e97052e535db37bd8e",
+      "lede": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-22T09:55:11Z",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/"
+    },
+    {
+      "item_id": "60ade2ea554680c78d6ff8c83bd22ffe5f8757f0",
+      "lede": "BigDiskBuster leaves Microsoft's antivirus running but unable to install updates",
+      "outlet": "theregister",
+      "published": "2026-09-22T16:36:00Z",
+      "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
+      "url": "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "209a7e5ce1fe85f052340174223a630c293c9881",
+  "id": "2026-09-22-70f415",
+  "items": [
+    {
+      "item_id": "209a7e5ce1fe85f052340174223a630c293c9881",
+      "lede": "The Tread Flex is the company's first fold-up treadmill, and also its cheapest to date.",
+      "outlet": "engadget",
+      "published": "2026-09-22T11:00:00Z",
+      "title": "Peloton has made a foldable (treadmill)",
+      "url": "https://www.engadget.com/2264548/peloton-tread-flex-vision-launch/"
+    },
+    {
+      "item_id": "dc7895888e6fee9dfa3cd6f0fe385c5d75e87269",
+      "lede": "Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its two existing Treads and adding the new, more affordable Tread Flex into the fold. At a New York City launch event, Peloton chief [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-22T12:10:08Z",
+      "title": "Peloton is back with a \u2018cheaper\u2019 folding treadmill",
+      "url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

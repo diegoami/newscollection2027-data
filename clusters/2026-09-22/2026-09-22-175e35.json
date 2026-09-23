@@ -1,0 +1,24 @@
+{
+  "anchor": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+  "id": "2026-09-22-175e35",
+  "items": [
+    {
+      "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+      "lede": "I thought we were supposed to be slowing down the frontier.",
+      "outlet": "engadget",
+      "published": "2026-09-22T19:11:11Z",
+      "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+      "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/"
+    },
+    {
+      "item_id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
+      "lede": "The frontier AI model race has entered its comparison shopping phase.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T21:25:18Z",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

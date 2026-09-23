@@ -1,0 +1,24 @@
+{
+  "anchor": "e30c0cffbd325e1691f6c56e6d00bbabe26ff833",
+  "id": "2026-09-22-d4e6e9",
+  "items": [
+    {
+      "item_id": "e30c0cffbd325e1691f6c56e6d00bbabe26ff833",
+      "lede": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-22T18:04:39Z",
+      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/"
+    },
+    {
+      "item_id": "bdc6b949fce849805502a45c0273d14ffad3f5f3",
+      "lede": "'first' publicly documented Windows implant to use LLMs for C2",
+      "outlet": "theregister",
+      "published": "2026-09-22T21:33:29Z",
+      "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+      "url": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

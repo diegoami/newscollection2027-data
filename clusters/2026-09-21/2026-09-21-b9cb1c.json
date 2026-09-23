@@ -3,6 +3,14 @@
   "id": "2026-09-21-b9cb1c",
   "items": [
     {
+      "item_id": "a9c684051bd08a3a7b83953323e01aba3159d4e1",
+      "lede": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "outlet": "arstechnica",
+      "published": "2026-09-21T16:15:26Z",
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/"
+    },
+    {
       "item_id": "c49469caf7c21806d72950ebdc8958235c5d4904",
       "lede": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includes requirements like minimum [\u2026]",
       "outlet": "theverge",
@@ -20,5 +28,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

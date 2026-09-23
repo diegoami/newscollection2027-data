@@ -1,0 +1,24 @@
+{
+  "anchor": "5688d00270f814eaf070ec3861e54aae38359d62",
+  "id": "2026-09-22-7822dc",
+  "items": [
+    {
+      "item_id": "5688d00270f814eaf070ec3861e54aae38359d62",
+      "lede": "That video capture is nothing to sneeze at.",
+      "outlet": "engadget",
+      "published": "2026-09-22T20:00:00Z",
+      "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+      "url": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/"
+    },
+    {
+      "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a",
+      "lede": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-22T20:00:00Z",
+      "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

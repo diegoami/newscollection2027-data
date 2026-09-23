@@ -1,0 +1,32 @@
+{
+  "anchor": "78b546b7332d408b17ba8e470e4376ebe86c3050",
+  "id": "2026-09-22-4063b9",
+  "items": [
+    {
+      "item_id": "78b546b7332d408b17ba8e470e4376ebe86c3050",
+      "lede": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter\u2019s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local \u2060law enforcement that the shooter \u2060had used ChatGPT to \u200bplan the massacre. The lawsuit filed",
+      "outlet": "theguardian",
+      "published": "2026-09-22T04:29:22Z",
+      "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting"
+    },
+    {
+      "item_id": "c9bb70658767602659b455d4fa0f5626d1310245",
+      "lede": "The Canadian province of British Columbia has sued OpenAI for failing to notify authorities about the Tumbler Ridge shooter's chats.",
+      "outlet": "engadget",
+      "published": "2026-09-22T08:47:27Z",
+      "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
+      "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/"
+    },
+    {
+      "item_id": "f5795de5b2fbaacf1ce2e317bf58b004f5361b3f",
+      "lede": "British Columbia sues OpenAI, demands Tumbler Ridge shooter\u2019s ChatGPT logs.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T19:28:23Z",
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

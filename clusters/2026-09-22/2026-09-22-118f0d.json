@@ -1,0 +1,24 @@
+{
+  "anchor": "41a6092b93fa47c78b25b225978cad6b52a13223",
+  "id": "2026-09-22-118f0d",
+  "items": [
+    {
+      "item_id": "41a6092b93fa47c78b25b225978cad6b52a13223",
+      "lede": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located underneath Apple's European headquarters in London's iconic Battersea Power Station, and is set to open next week on September 28th. Details about [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-22T08:35:54Z",
+      "title": "Apple\u2019s first live music venue is opening beneath its UK headquarters",
+      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea"
+    },
+    {
+      "item_id": "571a509e58a7ffd20e98fe9bac5784262f041d30",
+      "lede": "Apple Music Hall in London seems tailor-made for Apple Music Live concerts.",
+      "outlet": "engadget",
+      "published": "2026-09-22T10:14:37Z",
+      "title": "Apple opens a dedicated concert venue with spatial audio and multi-cam video recording",
+      "url": "https://www.engadget.com/2265008/apple-music-hall-live-event-recording/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
