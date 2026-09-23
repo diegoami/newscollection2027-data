@@ -8,12 +8,12 @@
     "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
   },
   "b": {
-    "item_id": "7df9c7e1f29d359cfbf9b663eb4c5e29856c37a2",
-    "lede": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
-    "outlet": "techcrunch",
-    "published": "2026-09-22T18:40:30Z",
-    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents\u2019 and applicants\u2019 data",
-    "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/"
+    "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
+    "lede": "This time it's personal",
+    "outlet": "theregister",
+    "published": "2026-09-22T17:24:13Z",
+    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+    "url": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
   },
-  "score": 0.706883
+  "score": 0.615021
 }
