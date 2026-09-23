@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+    "lede": "I thought we were supposed to be slowing down the frontier.",
+    "outlet": "engadget",
+    "published": "2026-09-22T19:11:11Z",
+    "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+    "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/"
+  },
+  "b": {
+    "item_id": "6a58123f6078733841520cc9725c02dc957b4a6c",
+    "lede": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna",
+    "outlet": "theregister",
+    "published": "2026-09-23T00:02:47Z",
+    "title": "Frontier AI keeps racing despite calls to slow down",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/23/frontier-ai-keeps-racing-despite-calls-to-slow-down/5298448"
+  },
+  "score": 0.586495
+}
