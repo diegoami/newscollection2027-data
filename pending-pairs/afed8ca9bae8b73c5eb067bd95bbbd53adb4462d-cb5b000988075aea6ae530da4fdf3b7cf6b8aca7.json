@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "afed8ca9bae8b73c5eb067bd95bbbd53adb4462d",
+    "lede": "Alibaba Group's AI division has released Qwen 2.1 Image, an ultra-lightweight image generation model with just 7B parameters, able to run on local hardware like the RTX 3090.",
+    "outlet": "tomshardware",
+    "published": "2026-09-23T15:34:36Z",
+    "title": "Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models"
+  },
+  "b": {
+    "item_id": "cb5b000988075aea6ae530da4fdf3b7cf6b8aca7",
+    "lede": "Alibaba\u2019s T-Head Zhenwu V900 claims three times the M890\u2019s performance with 216GB of memory as Alibaba targets 10T-parameter Qwen",
+    "outlet": "tomshardware",
+    "published": "2026-09-23T12:00:00Z",
+    "title": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-unveils-zhenwu-v900-ai-accelerator-claims-its-the-most-powerful-ai-chip-in-china-accelerator-supports-500-000-chip-supercluster-with-a-10t-parameter-qwen-model-on-the-roadmap"
+  },
+  "score": 0.728207
+}

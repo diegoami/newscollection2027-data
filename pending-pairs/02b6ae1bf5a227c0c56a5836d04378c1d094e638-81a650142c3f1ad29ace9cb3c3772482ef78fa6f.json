@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "02b6ae1bf5a227c0c56a5836d04378c1d094e638",
+    "lede": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+    "outlet": "zdnet",
+    "published": "2026-09-23T15:01:00Z",
+    "title": "How to fix your Windows File History if the September update broke it",
+    "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/"
+  },
+  "b": {
+    "item_id": "81a650142c3f1ad29ace9cb3c3772482ef78fa6f",
+    "lede": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T14:42:37Z",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/"
+  },
+  "score": 0.60442
+}

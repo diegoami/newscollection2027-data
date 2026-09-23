@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "478c3fa8fb6edfba6e66e9338e6bbad2b4c91c54",
+    "lede": "New dock and app launcher arrive while soaring memory prices revive scrutiny of a two-year-old firmware restriction",
+    "outlet": "theregister",
+    "published": "2026-09-23T15:09:31Z",
+    "title": "Thoughts return to forbidden RAM upgrades as Raspberry Pi OS gets fresh lick of paint",
+    "url": "https://www.theregister.com/systems/2026/09/23/thoughts-return-to-forbidden-ram-upgrades-as-raspberry-pi-os-gets-fresh-lick-of-paint/5298600"
+  },
+  "b": {
+    "item_id": "f7682d22a10cad0599e2f52bd5c6ac5c9e43f4fb",
+    "lede": "Raspberry Pi users are being firmware blocked from swapping the RAM chips on their SBCs for repairs or upgrades.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T11:07:17Z",
+    "title": "Raspberry Pi locks boards to factory RAM capacities in firmware \u2014 engineer tells DIY modders 'don't waste your time' trying repairs or upgrades, company cites shady reseller scams",
+    "url": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-locks-boards-to-factory-ram-capacities-in-firmware-engineer-tells-diy-modders-dont-waste-your-time-trying-repairs-or-upgrades-company-cites-shady-reseller-scams"
+  },
+  "score": 0.588289
+}
