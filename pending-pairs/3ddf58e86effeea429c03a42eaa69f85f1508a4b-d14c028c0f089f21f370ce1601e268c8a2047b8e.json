@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ddf58e86effeea429c03a42eaa69f85f1508a4b",
+    "lede": "\u200bAttackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T08:53:09Z",
+    "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
+  },
+  "b": {
+    "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+    "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T07:17:23Z",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.635447
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26767520db52c2221450903de665a55c4789ed0f",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T20:12:17Z",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+  },
+  "b": {
+    "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+    "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T07:17:23Z",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.646629
+}
