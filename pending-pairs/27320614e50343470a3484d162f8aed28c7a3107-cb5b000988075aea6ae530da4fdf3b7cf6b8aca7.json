@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27320614e50343470a3484d162f8aed28c7a3107",
+    "lede": "USA alone has 37GW under construction, but Alibaba doesn't think the AI boom will run out of steam",
+    "outlet": "theregister",
+    "published": "2026-09-22T05:42:32Z",
+    "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
+    "url": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062"
+  },
+  "b": {
+    "item_id": "cb5b000988075aea6ae530da4fdf3b7cf6b8aca7",
+    "lede": "Alibaba\u2019s T-Head Zhenwu V900 claims three times the M890\u2019s performance with 216GB of memory as Alibaba targets 10T-parameter Qwen",
+    "outlet": "tomshardware",
+    "published": "2026-09-23T12:00:00Z",
+    "title": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China'",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-unveils-zhenwu-v900-ai-accelerator-claims-its-the-most-powerful-ai-chip-in-china-accelerator-supports-500-000-chip-supercluster-with-a-10t-parameter-qwen-model-on-the-roadmap"
+  },
+  "score": 0.678931
+}
