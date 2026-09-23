@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "c476924b2eb2bb2ae2cb81fed9efa0e3a3b0afd9",
-    "lede": "Muse isn't welcome as a shopper anymore.",
-    "outlet": "techcrunch",
-    "published": "2026-09-21T17:55:18Z",
-    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+    "item_id": "efa67800074e67f8d537f8ab67e997c4307eecf3",
+    "lede": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do \u201cwhatever\u201d they wanted on a victim\u2019s Mac, highlighting the inherent dangers of AI helpers.",
+    "outlet": "wired",
+    "published": "2026-09-23T12:54:58Z",
+    "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
   },
   "b": {
     "item_id": "fbef9683fbad608de6920388c10ccfeaa6dc97c1",
@@ -15,5 +15,5 @@
     "title": "Amazon doesn\u2019t trust Meta\u2019s Muse AI agent",
     "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
   },
-  "score": 0.801074
+  "score": 0.582935
 }

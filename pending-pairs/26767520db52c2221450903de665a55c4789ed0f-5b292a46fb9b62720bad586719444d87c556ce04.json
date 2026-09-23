@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26767520db52c2221450903de665a55c4789ed0f",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T20:12:17Z",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+  },
+  "b": {
+    "item_id": "5b292a46fb9b62720bad586719444d87c556ce04",
+    "lede": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T14:35:26Z",
+    "title": "InfraTrust report warns network management systems under attack",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+  },
+  "score": 0.670803
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "83794febb53598bf371444c2fab137487245d1d5",
+    "lede": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
+    "outlet": "techcrunch",
+    "published": "2026-09-23T12:12:39Z",
+    "title": "Comma\u2019s hands-off driving tech under investigation after 2 fatal crashes",
+    "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/"
+  },
+  "b": {
+    "item_id": "ca5fc52a4d58c6f8a7ef9b6a5a66ea030d7d35e9",
+    "lede": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+    "outlet": "arstechnica",
+    "published": "2026-09-23T14:20:23Z",
+    "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+    "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/"
+  },
+  "score": 0.623246
+}

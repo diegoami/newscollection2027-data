@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4bf76d6234439f9d68800c76b5c5ccddc68f74d9",
+    "lede": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T16:32:47Z",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "5b292a46fb9b62720bad586719444d87c556ce04",
+    "lede": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T14:35:26Z",
+    "title": "InfraTrust report warns network management systems under attack",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+  },
+  "score": 0.651338
+}
