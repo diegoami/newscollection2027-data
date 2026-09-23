@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+    "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T07:17:23Z",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "f57d633897e465420615f907ec9d1d0ee7e5739e",
+    "lede": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T18:31:22Z",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+  },
+  "score": 0.641678
+}

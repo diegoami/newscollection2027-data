@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10a0c0121134e7a1ba457813ddae834e93608906",
+    "lede": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T14:02:12Z",
+    "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+    "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/"
+  },
+  "b": {
+    "item_id": "9dbdfda02b0faa57cc2cc42f6b51d1aba4695fa0",
+    "lede": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T19:53:54Z",
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+  },
+  "score": 0.583349
+}

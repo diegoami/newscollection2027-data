@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09f847df455105753440fe7a04b035f886d38dff",
+    "lede": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
+    "outlet": "engadget",
+    "published": "2026-09-22T20:29:08Z",
+    "title": "Discord rolls out its revised age verification policy",
+    "url": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/"
+  },
+  "b": {
+    "item_id": "5b3915b552e5ebeb9dab22c149ab80e296809054",
+    "lede": "Discord will try to automatically estimate ages, require verification when it can't.",
+    "outlet": "arstechnica",
+    "published": "2026-09-23T20:05:13Z",
+    "title": "Discord age verification rolls out today with changes spurred by user backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
+  },
+  "score": 0.711438
+}

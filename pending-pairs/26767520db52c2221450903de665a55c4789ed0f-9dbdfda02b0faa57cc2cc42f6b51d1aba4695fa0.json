@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26767520db52c2221450903de665a55c4789ed0f",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T20:12:17Z",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+  },
+  "b": {
+    "item_id": "9dbdfda02b0faa57cc2cc42f6b51d1aba4695fa0",
+    "lede": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T19:53:54Z",
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+  },
+  "score": 0.638906
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "587faf73bdc2e86dbc873f44849e360b22580d27",
+    "lede": "According to Discord, 90% of users will not have to verify their age.",
+    "outlet": "techcrunch",
+    "published": "2026-09-23T03:31:12Z",
+    "title": "Discord\u2019s age verification era is upon us, despite community backlash",
+    "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/"
+  },
+  "b": {
+    "item_id": "5b3915b552e5ebeb9dab22c149ab80e296809054",
+    "lede": "Discord will try to automatically estimate ages, require verification when it can't.",
+    "outlet": "arstechnica",
+    "published": "2026-09-23T20:05:13Z",
+    "title": "Discord age verification rolls out today with changes spurred by user backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
+  },
+  "score": 0.758833
+}
