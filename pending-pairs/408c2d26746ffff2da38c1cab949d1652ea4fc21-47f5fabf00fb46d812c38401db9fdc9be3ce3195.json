@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "408c2d26746ffff2da38c1cab949d1652ea4fc21",
+    "lede": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T11:45:54Z",
+    "title": "Microsoft: September updates break File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/"
+  },
+  "b": {
+    "item_id": "47f5fabf00fb46d812c38401db9fdc9be3ce3195",
+    "lede": "Security researchers report that Microsoft considers the side-channel leak of file events to be by design",
+    "outlet": "theregister",
+    "published": "2026-09-24T17:00:00Z",
+    "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
+    "url": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672"
+  },
+  "score": 0.587618
+}

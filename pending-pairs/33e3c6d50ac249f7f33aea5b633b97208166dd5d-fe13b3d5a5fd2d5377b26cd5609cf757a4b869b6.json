@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33e3c6d50ac249f7f33aea5b633b97208166dd5d",
+    "lede": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+    "outlet": "engadget",
+    "published": "2026-09-24T10:01:55Z",
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "url": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/"
+  },
+  "b": {
+    "item_id": "fe13b3d5a5fd2d5377b26cd5609cf757a4b869b6",
+    "lede": "\"There will obviously be legal consequences,\" prime minister promises.",
+    "outlet": "arstechnica",
+    "published": "2026-09-24T16:01:16Z",
+    "title": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
+    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
+  },
+  "score": 0.578498
+}

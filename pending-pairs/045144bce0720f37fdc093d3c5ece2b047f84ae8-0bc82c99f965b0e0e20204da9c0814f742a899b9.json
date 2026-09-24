@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "045144bce0720f37fdc093d3c5ece2b047f84ae8",
+    "lede": "SPONSORED FEATURE: AI agents may be unpredictable. Who they are, what they can do, and who owns them shouldn\u2019t be.",
+    "outlet": "theregister",
+    "published": "2026-09-22T15:00:00Z",
+    "title": "Who signed off on that AI agent? Nobody? Thought so.",
+    "url": "https://www.theregister.com/security/2026/09/22/sponsored/5297693"
+  },
+  "b": {
+    "item_id": "0bc82c99f965b0e0e20204da9c0814f742a899b9",
+    "lede": "In response to the emerging threat of rogue and shadow AI agents, here\u2019s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+    "outlet": "zdnet",
+    "published": "2026-09-24T16:01:19Z",
+    "title": "AI agent kill switch urged by Okta-led alliance \u2013 how businesses could make it work",
+    "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/"
+  },
+  "score": 0.582375
+}

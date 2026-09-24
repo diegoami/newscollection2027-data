@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "fe13b3d5a5fd2d5377b26cd5609cf757a4b869b6",
+    "lede": "\"There will obviously be legal consequences,\" prime minister promises.",
+    "outlet": "arstechnica",
+    "published": "2026-09-24T16:01:16Z",
+    "title": "OpenAI agent \u201cdidn\u2019t accept no for an answer\u201d in Australian government breach",
+    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
+  },
+  "b": {
+    "item_id": "ffbbca040254952b4062d627c7e85356b888b173",
+    "lede": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "outlet": "wired",
+    "published": "2026-09-24T10:46:56Z",
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+  },
+  "score": 0.644856
+}
