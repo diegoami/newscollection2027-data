@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "408c2d26746ffff2da38c1cab949d1652ea4fc21",
+    "lede": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T11:45:54Z",
+    "title": "Microsoft: September updates break File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/"
+  },
+  "b": {
+    "item_id": "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2",
+    "lede": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T08:14:47Z",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+  },
+  "score": 0.915383
+}

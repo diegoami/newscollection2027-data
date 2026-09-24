@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4d03ef59c828444f717bbd846029e8ada4ae0d9f",
+    "lede": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-23T21:30:22Z",
+    "title": "FBI investigates claim by hackers they stole data on all agency staff",
+    "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo"
+  },
+  "b": {
+    "item_id": "69879410fc78a38e5f3ce5576b8e3b447945d5bf",
+    "lede": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T19:13:29Z",
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
+  },
+  "score": 0.610468
+}

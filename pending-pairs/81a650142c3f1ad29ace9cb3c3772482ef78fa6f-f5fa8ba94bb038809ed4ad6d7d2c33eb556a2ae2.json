@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "81a650142c3f1ad29ace9cb3c3772482ef78fa6f",
+    "lede": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T14:42:37Z",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/"
+  },
+  "b": {
+    "item_id": "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2",
+    "lede": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T08:14:47Z",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+  },
+  "score": 0.744937
+}

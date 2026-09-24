@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60ade2ea554680c78d6ff8c83bd22ffe5f8757f0",
+    "lede": "BigDiskBuster leaves Microsoft's antivirus running but unable to install updates",
+    "outlet": "theregister",
+    "published": "2026-09-22T16:36:00Z",
+    "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
+    "url": "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320"
+  },
+  "b": {
+    "item_id": "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2",
+    "lede": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T08:14:47Z",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+  },
+  "score": 0.578101
+}
