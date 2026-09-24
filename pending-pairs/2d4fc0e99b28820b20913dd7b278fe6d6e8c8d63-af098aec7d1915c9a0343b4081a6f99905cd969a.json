@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d4fc0e99b28820b20913dd7b278fe6d6e8c8d63",
+    "lede": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T14:08:38Z",
+    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+    "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o"
+  },
+  "b": {
+    "item_id": "af098aec7d1915c9a0343b4081a6f99905cd969a",
+    "lede": "The BBC\u2019s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T05:18:26Z",
+    "title": "What you need to know about the OpenAI Australian government hack",
+    "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo"
+  },
+  "score": 0.586133
+}

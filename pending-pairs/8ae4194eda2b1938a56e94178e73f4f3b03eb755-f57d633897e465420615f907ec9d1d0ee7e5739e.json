@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8ae4194eda2b1938a56e94178e73f4f3b03eb755",
+    "lede": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T13:27:57Z",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/"
+  },
+  "b": {
+    "item_id": "f57d633897e465420615f907ec9d1d0ee7e5739e",
+    "lede": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T18:31:22Z",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+  },
+  "score": 0.639413
+}

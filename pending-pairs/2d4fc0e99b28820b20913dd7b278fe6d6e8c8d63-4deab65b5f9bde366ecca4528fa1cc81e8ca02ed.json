@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d4fc0e99b28820b20913dd7b278fe6d6e8c8d63",
+    "lede": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T14:08:38Z",
+    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+    "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o"
+  },
+  "b": {
+    "item_id": "4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+    "lede": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI \u2018way too long\u2019 to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a \u201cpublic mailbox\u201d. Australia\u2019s prime minister made the comments at the",
+    "outlet": "theguardian",
+    "published": "2026-09-24T02:06:05Z",
+    "title": "Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+  },
+  "score": 0.571304
+}

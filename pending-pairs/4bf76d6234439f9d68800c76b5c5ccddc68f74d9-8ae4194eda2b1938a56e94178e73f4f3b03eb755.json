@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4bf76d6234439f9d68800c76b5c5ccddc68f74d9",
+    "lede": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T16:32:47Z",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "8ae4194eda2b1938a56e94178e73f4f3b03eb755",
+    "lede": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T13:27:57Z",
+    "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/"
+  },
+  "score": 0.647189
+}

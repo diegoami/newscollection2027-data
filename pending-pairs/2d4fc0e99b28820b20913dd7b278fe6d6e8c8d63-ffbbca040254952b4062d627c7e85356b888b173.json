@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d4fc0e99b28820b20913dd7b278fe6d6e8c8d63",
+    "lede": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T14:08:38Z",
+    "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+    "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o"
+  },
+  "b": {
+    "item_id": "ffbbca040254952b4062d627c7e85356b888b173",
+    "lede": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "outlet": "wired",
+    "published": "2026-09-24T10:46:56Z",
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+  },
+  "score": 0.583619
+}

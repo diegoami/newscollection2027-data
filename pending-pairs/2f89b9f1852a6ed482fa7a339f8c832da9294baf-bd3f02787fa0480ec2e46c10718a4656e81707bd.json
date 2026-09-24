@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f89b9f1852a6ed482fa7a339f8c832da9294baf",
+    "lede": "But it's a far cry from an orbital data center.",
+    "outlet": "tomshardware",
+    "published": "2026-09-23T10:30:00Z",
+    "title": "China launches 'Supercomputing-1' AI satellite as orbital data centers gather momentum",
+    "url": "https://www.tomshardware.com/tech-industry/space/china-puts-ai-compute-into-orbit-with-supercomputing-1-satellite-onboard-processing-aims-to-cut-earth-observation-data-processing-from-hours-to-minutes"
+  },
+  "b": {
+    "item_id": "bd3f02787fa0480ec2e46c10718a4656e81707bd",
+    "lede": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T14:15:17Z",
+    "title": "Google is sending an AI satellite into space next week",
+    "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
+  },
+  "score": 0.631372
+}
