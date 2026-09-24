@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "29c26824efac1052b57a9d832049ba4d799aec30",
+    "lede": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T22:46:01Z",
+    "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
+  },
+  "b": {
+    "item_id": "d7973e7942dd43af3d8ccf6383adb5fa4e313682",
+    "lede": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T18:23:11Z",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+  },
+  "score": 0.597475
+}

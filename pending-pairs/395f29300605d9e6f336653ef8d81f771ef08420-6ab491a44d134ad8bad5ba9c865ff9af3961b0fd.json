@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "395f29300605d9e6f336653ef8d81f771ef08420",
+    "lede": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-23T23:19:42Z",
+    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+    "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
+  },
+  "b": {
+    "item_id": "6ab491a44d134ad8bad5ba9c865ff9af3961b0fd",
+    "lede": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-22T11:53:58Z",
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent"
+  },
+  "score": 0.571176
+}

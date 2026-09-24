@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "395f29300605d9e6f336653ef8d81f771ef08420",
+    "lede": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-23T23:19:42Z",
+    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+    "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026"
+  },
+  "b": {
+    "item_id": "b2c543ac59e1c4518c6ada1d61803543a9eca330",
+    "lede": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "outlet": "arstechnica",
+    "published": "2026-09-21T22:24:38Z",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+  },
+  "score": 0.576978
+}
