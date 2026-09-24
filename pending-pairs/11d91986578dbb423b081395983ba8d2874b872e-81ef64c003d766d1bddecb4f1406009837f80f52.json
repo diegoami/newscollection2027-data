@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11d91986578dbb423b081395983ba8d2874b872e",
+    "lede": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
+    "outlet": "wired",
+    "published": "2026-09-22T10:00:00Z",
+    "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
+    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/"
+  },
+  "b": {
+    "item_id": "81ef64c003d766d1bddecb4f1406009837f80f52",
+    "lede": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T20:10:48Z",
+    "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+    "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/"
+  },
+  "score": 0.599221
+}

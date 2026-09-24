@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9ef4a7c3c63171539a8e605f4e1922567cf5f8a8",
+    "lede": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "outlet": "techcrunch",
+    "published": "2026-09-24T19:00:42Z",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+  },
+  "b": {
+    "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3",
+    "lede": "Qualcomm has launched a new chip that will enable AI features on small audio devices.",
+    "outlet": "engadget",
+    "published": "2026-09-24T11:23:00Z",
+    "title": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+    "url": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/"
+  },
+  "score": 0.616867
+}
