@@ -1,0 +1,60 @@
+{
+  "agent_seconds": 932.106,
+  "counts": {
+    "analyses_total": 95,
+    "analyses_written": 17,
+    "clusters": 95,
+    "judgments": 360,
+    "pending": 0,
+    "rejected": 0,
+    "unjudged_pairs": 775
+  },
+  "date": "2026-09-24",
+  "duration_seconds": 933.282,
+  "finished_at": "2026-09-24T02:30:04Z",
+  "note": "Pushed to data-repo branch claude/compassionate-franklin-a5m7tq per session branch policy, not main.",
+  "started_at": "2026-09-24T02:14:31Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.55
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.071
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.177
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.133
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.089
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.004
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.146
+    }
+  ]
+}

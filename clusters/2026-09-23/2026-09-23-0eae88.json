@@ -1,0 +1,24 @@
+{
+  "anchor": "5a21b41cd383392d665682cfe6075e9d5daf8015",
+  "id": "2026-09-23-0eae88",
+  "items": [
+    {
+      "item_id": "5a21b41cd383392d665682cfe6075e9d5daf8015",
+      "lede": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-23T16:00:00Z",
+      "title": "Logitech\u2019s new haptics-based gaming mouse is a little better and $20 more",
+      "url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
+    },
+    {
+      "item_id": "54f77772a35eb11bcb12a6d94ce4da2e72f6498e",
+      "lede": "For $60 it had better be a pretty incredible mouse pad.",
+      "outlet": "engadget",
+      "published": "2026-09-23T16:01:00Z",
+      "title": "Logitech just unveiled several new gaming accessories in its Pro line",
+      "url": "https://www.engadget.com/2265768/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

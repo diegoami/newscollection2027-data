@@ -1,0 +1,24 @@
+{
+  "anchor": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+  "id": "2026-09-23-110455",
+  "items": [
+    {
+      "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+      "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-23T07:17:23Z",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+    },
+    {
+      "item_id": "6a91aaa7750826fca0a21452a3740002ba586738",
+      "lede": "Good news: there's a patch. Bad news: both CISA and F5 warn that it's under active exploitation",
+      "outlet": "theregister",
+      "published": "2026-09-23T18:09:28Z",
+      "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
+      "url": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
