@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b03075519864836b1cd65fa183d2aef61b6ec7ed",
+    "lede": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+    "outlet": "techcrunch",
+    "published": "2026-09-24T00:46:17Z",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+  },
+  "b": {
+    "item_id": "e5d2aa5092baa85b010c787cb6675f0e755ec2c5",
+    "lede": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website.",
+    "outlet": "engadget",
+    "published": "2026-09-21T11:38:42Z",
+    "title": "Amazon bars Meta's Muse AI from shopping on its site",
+    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/"
+  },
+  "score": 0.57441
+}

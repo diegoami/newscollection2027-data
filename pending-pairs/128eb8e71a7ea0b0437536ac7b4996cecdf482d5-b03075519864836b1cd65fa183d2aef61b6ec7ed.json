@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "128eb8e71a7ea0b0437536ac7b4996cecdf482d5",
+    "lede": "Meta Charm is a Tamagotchi-like device with Muse AI.",
+    "outlet": "engadget",
+    "published": "2026-09-24T00:05:03Z",
+    "title": "Meta put Muse in a Tamagotchi like 'Charm' device",
+    "url": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/"
+  },
+  "b": {
+    "item_id": "b03075519864836b1cd65fa183d2aef61b6ec7ed",
+    "lede": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+    "outlet": "techcrunch",
+    "published": "2026-09-24T00:46:17Z",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
+  },
+  "score": 0.754348
+}
