@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33e3c6d50ac249f7f33aea5b633b97208166dd5d",
+    "lede": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+    "outlet": "engadget",
+    "published": "2026-09-24T10:01:55Z",
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "url": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/"
+  },
+  "b": {
+    "item_id": "ffbbca040254952b4062d627c7e85356b888b173",
+    "lede": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "outlet": "wired",
+    "published": "2026-09-24T10:46:56Z",
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+  },
+  "score": 0.698694
+}

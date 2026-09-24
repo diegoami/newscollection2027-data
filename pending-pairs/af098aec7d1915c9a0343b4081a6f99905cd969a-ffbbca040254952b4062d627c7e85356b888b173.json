@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "af098aec7d1915c9a0343b4081a6f99905cd969a",
+    "lede": "The BBC\u2019s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T05:18:26Z",
+    "title": "What you need to know about the OpenAI Australian government hack",
+    "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo"
+  },
+  "b": {
+    "item_id": "ffbbca040254952b4062d627c7e85356b888b173",
+    "lede": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "outlet": "wired",
+    "published": "2026-09-24T10:46:56Z",
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+  },
+  "score": 0.60131
+}

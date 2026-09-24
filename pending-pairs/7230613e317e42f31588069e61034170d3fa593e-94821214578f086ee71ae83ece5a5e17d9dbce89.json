@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7230613e317e42f31588069e61034170d3fa593e",
+    "lede": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T11:52:32Z",
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  "b": {
+    "item_id": "94821214578f086ee71ae83ece5a5e17d9dbce89",
+    "lede": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T09:38:53Z",
+    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
+  },
+  "score": 0.660346
+}

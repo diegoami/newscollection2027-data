@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+    "lede": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI \u2018way too long\u2019 to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a \u201cpublic mailbox\u201d. Australia\u2019s prime minister made the comments at the",
+    "outlet": "theguardian",
+    "published": "2026-09-24T02:06:05Z",
+    "title": "Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+  },
+  "b": {
+    "item_id": "7230613e317e42f31588069e61034170d3fa593e",
+    "lede": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T11:52:32Z",
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  "score": 0.605423
+}

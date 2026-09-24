@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5b292a46fb9b62720bad586719444d87c556ce04",
+    "lede": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T14:35:26Z",
+    "title": "InfraTrust report warns network management systems under attack",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+  },
+  "b": {
+    "item_id": "849a3d02ea1aace5ea38c9800402e4a23d0d0e83",
+    "lede": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T10:42:37Z",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+  },
+  "score": 0.630361
+}

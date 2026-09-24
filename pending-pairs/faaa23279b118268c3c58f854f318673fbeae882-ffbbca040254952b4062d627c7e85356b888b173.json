@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "faaa23279b118268c3c58f854f318673fbeae882",
+    "lede": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T02:23:54Z",
+    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo"
+  },
+  "b": {
+    "item_id": "ffbbca040254952b4062d627c7e85356b888b173",
+    "lede": "The country\u2019s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "outlet": "wired",
+    "published": "2026-09-24T10:46:56Z",
+    "title": "An OpenAI Agent Hacked Australia\u2019s Health Service. Their Government Found Out Months Later",
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+  },
+  "score": 0.640971
+}

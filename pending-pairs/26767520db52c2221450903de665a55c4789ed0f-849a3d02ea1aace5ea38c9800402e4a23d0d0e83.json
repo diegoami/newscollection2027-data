@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26767520db52c2221450903de665a55c4789ed0f",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-21T20:12:17Z",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+  },
+  "b": {
+    "item_id": "849a3d02ea1aace5ea38c9800402e4a23d0d0e83",
+    "lede": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T10:42:37Z",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+  },
+  "score": 0.748924
+}

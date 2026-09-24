@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7230613e317e42f31588069e61034170d3fa593e",
+    "lede": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T11:52:32Z",
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  "b": {
+    "item_id": "faaa23279b118268c3c58f854f318673fbeae882",
+    "lede": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T02:23:54Z",
+    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo"
+  },
+  "score": 0.595537
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33e3c6d50ac249f7f33aea5b633b97208166dd5d",
+    "lede": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+    "outlet": "engadget",
+    "published": "2026-09-24T10:01:55Z",
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "url": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/"
+  },
+  "b": {
+    "item_id": "faaa23279b118268c3c58f854f318673fbeae882",
+    "lede": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-24T02:23:54Z",
+    "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+    "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo"
+  },
+  "score": 0.652059
+}

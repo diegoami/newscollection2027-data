@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "849a3d02ea1aace5ea38c9800402e4a23d0d0e83",
+    "lede": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T10:42:37Z",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+  },
+  "b": {
+    "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+    "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T07:17:23Z",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.633836
+}
