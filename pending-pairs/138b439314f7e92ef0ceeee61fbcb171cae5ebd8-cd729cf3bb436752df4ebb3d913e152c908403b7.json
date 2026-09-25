@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "138b439314f7e92ef0ceeee61fbcb171cae5ebd8",
+    "lede": "Part of Project Suncatcher, the proof of concept aims to see how well lightly modified compute fares in orbit",
+    "outlet": "theregister",
+    "published": "2026-09-24T22:12:48Z",
+    "title": "Google's TPUs to catch some rays in orbit next week",
+    "url": "https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990"
+  },
+  "b": {
+    "item_id": "cd729cf3bb436752df4ebb3d913e152c908403b7",
+    "lede": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+    "outlet": "arstechnica",
+    "published": "2026-09-24T16:16:34Z",
+    "title": "Google's first Suncatcher orbital data center test launches October 1",
+    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/"
+  },
+  "score": 0.643881
+}
