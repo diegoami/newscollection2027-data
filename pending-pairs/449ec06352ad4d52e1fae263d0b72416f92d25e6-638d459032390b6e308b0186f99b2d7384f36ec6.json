@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "449ec06352ad4d52e1fae263d0b72416f92d25e6",
+    "lede": "Familiar fingerprints point to Kim\u2019s regime \u2026 to the surprise of nobody",
+    "outlet": "theregister",
+    "published": "2026-09-25T17:04:07Z",
+    "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
+  },
+  "b": {
+    "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+    "lede": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T08:33:44Z",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
+  },
+  "score": 0.61548
+}

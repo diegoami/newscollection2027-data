@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "6507ab8fb9961060d8a229cb70c72d570703f072",
-    "lede": "Meta's newest smart glasses are an iterative, expensive update.",
+    "item_id": "7fce1b956f11e327661278dbbf9d700802aabe32",
+    "lede": "The setting affects whether workers can review photos and videos from your glasses.",
     "outlet": "engadget",
-    "published": "2026-09-24T21:56:17Z",
-    "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
-    "url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/"
+    "published": "2026-09-25T20:35:15Z",
+    "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+    "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/"
   },
   "b": {
     "item_id": "9a13df0d58adbc0db52e36a3d223b884600ceb12",
@@ -15,5 +15,5 @@
     "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
     "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/"
   },
-  "score": 0.747286
+  "score": 0.587291
 }
