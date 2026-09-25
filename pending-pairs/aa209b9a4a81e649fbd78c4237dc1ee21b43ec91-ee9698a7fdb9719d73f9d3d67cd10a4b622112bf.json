@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aa209b9a4a81e649fbd78c4237dc1ee21b43ec91",
+    "lede": "Despite uncertainty about how human mimicry affects people, DeepMind fakes are here",
+    "outlet": "theregister",
+    "published": "2026-09-24T23:57:01Z",
+    "title": "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/25/google-gemini-can-present-cartoon-or-lifelike-avatars-to-lip-sync-generative-chatter/5299016"
+  },
+  "b": {
+    "item_id": "ee9698a7fdb9719d73f9d3d67cd10a4b622112bf",
+    "lede": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T19:59:26Z",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+  },
+  "score": 0.651043
+}
