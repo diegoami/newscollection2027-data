@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4abcd1baeae496e93b96a9f1d635d283b042381a",
+    "lede": "Joe Fay chairs a Register dinner on the file infrastructure nobody has got round to replacing, under the Chatham House Rule.",
+    "outlet": "theregister",
+    "published": "2026-09-25T08:45:00Z",
+    "title": "Your files are in four places and nobody knows which one is right",
+    "url": "https://www.theregister.com/storage/2026/09/25/sponsored/5298972"
+  },
+  "b": {
+    "item_id": "66f769af49533192617cac754c91c7b6859fc40a",
+    "lede": "Joe Fay chairs a Register dinner in New York on the file infrastructure nobody has got around to replacing, with nothing on the record.",
+    "outlet": "theregister",
+    "published": "2026-09-25T15:00:00Z",
+    "title": "Which copy of that file is the real one? Dinner, off the record, in Midtown",
+    "url": "https://www.theregister.com/storage/2026/09/25/sponsored/5299080"
+  },
+  "score": 0.713485
+}

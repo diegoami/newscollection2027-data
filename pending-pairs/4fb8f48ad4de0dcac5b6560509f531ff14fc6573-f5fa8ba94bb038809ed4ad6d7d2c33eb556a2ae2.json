@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4fb8f48ad4de0dcac5b6560509f531ff14fc6573",
+    "lede": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T12:40:59Z",
+    "title": "Microsoft plans to deprecate Windows Deployment Services",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/"
+  },
+  "b": {
+    "item_id": "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2",
+    "lede": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T08:14:47Z",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+  },
+  "score": 0.60697
+}

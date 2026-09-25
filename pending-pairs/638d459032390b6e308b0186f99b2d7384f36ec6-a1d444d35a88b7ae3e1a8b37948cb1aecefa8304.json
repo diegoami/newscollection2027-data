@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+    "lede": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T08:33:44Z",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
+  },
+  "b": {
+    "item_id": "a1d444d35a88b7ae3e1a8b37948cb1aecefa8304",
+    "lede": "The $351 million theft from crypto exchange Bitget is the latest in a string of high-profile hacks targeting the crypto sector.",
+    "outlet": "techcrunch",
+    "published": "2026-09-25T13:24:34Z",
+    "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
+    "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
+  },
+  "score": 0.876716
+}

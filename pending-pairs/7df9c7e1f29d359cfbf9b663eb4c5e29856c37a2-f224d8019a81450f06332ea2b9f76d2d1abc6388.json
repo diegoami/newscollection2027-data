@@ -8,12 +8,12 @@
     "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/"
   },
   "b": {
-    "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
-    "lede": "This time it's personal",
-    "outlet": "theregister",
-    "published": "2026-09-22T17:24:13Z",
-    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
-    "url": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
+    "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+    "lede": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-25T13:56:16Z",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o"
   },
-  "score": 0.60486
+  "score": 0.653373
 }

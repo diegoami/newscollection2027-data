@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15ab194c4f559f7bf13b4378a06edb0ef81f4b51",
+    "lede": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T14:51:10Z",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/"
+  },
+  "b": {
+    "item_id": "3705922b155e26816bd6d9f001a581bc8234d55b",
+    "lede": "'Humans are responsible, not the AI,' argues Scott Bessent as he calls out OpenAI agents' hack of Hugging Face",
+    "outlet": "theregister",
+    "published": "2026-09-21T19:10:53Z",
+    "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+    "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965"
+  },
+  "score": 0.570514
+}

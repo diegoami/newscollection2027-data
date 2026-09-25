@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b2dd5a2839d5b0ecae404ac5deb9155380f87bc1",
+    "lede": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
+    "outlet": "zdnet",
+    "published": "2026-09-25T12:00:14Z",
+    "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
+    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/"
+  },
+  "b": {
+    "item_id": "b458d25bab91639f437a91c01acc783c309f15ac",
+    "lede": "Did Copilot write the synchronization code?",
+    "outlet": "theregister",
+    "published": "2026-09-22T13:00:00Z",
+    "title": "Register reader hit with surprise bill after Microsoft portals disagreed",
+    "url": "https://www.theregister.com/saas/2026/09/22/register-reader-hit-with-surprise-bill-after-microsoft-portals-disagreed/5297799"
+  },
+  "score": 0.572093
+}

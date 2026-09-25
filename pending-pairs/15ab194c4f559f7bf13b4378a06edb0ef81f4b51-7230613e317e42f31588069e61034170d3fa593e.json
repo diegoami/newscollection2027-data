@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15ab194c4f559f7bf13b4378a06edb0ef81f4b51",
+    "lede": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T14:51:10Z",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/"
+  },
+  "b": {
+    "item_id": "7230613e317e42f31588069e61034170d3fa593e",
+    "lede": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T11:52:32Z",
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  "score": 0.613291
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0bc82c99f965b0e0e20204da9c0814f742a899b9",
+    "lede": "In response to the emerging threat of rogue and shadow AI agents, here\u2019s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+    "outlet": "zdnet",
+    "published": "2026-09-24T16:01:19Z",
+    "title": "AI agent kill switch urged by Okta-led alliance \u2013 how businesses could make it work",
+    "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/"
+  },
+  "b": {
+    "item_id": "15ab194c4f559f7bf13b4378a06edb0ef81f4b51",
+    "lede": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T14:51:10Z",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/"
+  },
+  "score": 0.610527
+}

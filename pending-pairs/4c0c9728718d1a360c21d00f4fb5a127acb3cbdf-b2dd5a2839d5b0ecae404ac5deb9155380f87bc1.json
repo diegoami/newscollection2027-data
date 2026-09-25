@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4c0c9728718d1a360c21d00f4fb5a127acb3cbdf",
+    "lede": "Microsoft is giving its Copilot app another facelift.",
+    "outlet": "engadget",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft's Copilot app adds Office, natural coding and automation",
+    "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/"
+  },
+  "b": {
+    "item_id": "b2dd5a2839d5b0ecae404ac5deb9155380f87bc1",
+    "lede": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
+    "outlet": "zdnet",
+    "published": "2026-09-25T12:00:14Z",
+    "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
+    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/"
+  },
+  "score": 0.747198
+}

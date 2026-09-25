@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7a32e150af52ac75510ca07609214ef8f8c5046e",
+    "lede": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft revamps Copilot with new tools, support for frontier models",
+    "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program"
+  },
+  "b": {
+    "item_id": "b2dd5a2839d5b0ecae404ac5deb9155380f87bc1",
+    "lede": "Microsoft says Copilot has gotten \u2018actually really good.\u2019 The new app has AI agents and can write code. So how much is all this going to cost?",
+    "outlet": "zdnet",
+    "published": "2026-09-25T12:00:14Z",
+    "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
+    "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/"
+  },
+  "score": 0.576143
+}

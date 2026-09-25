@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bae305cb7e9804cf4f8766ee5d7bdfa257305189",
+    "lede": "Coding agents helped two developers build an accelerated desktop and graphics driver in weeks",
+    "outlet": "theregister",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Asahi fork embraces LLMs and lands Linux on the M4 Mac mini",
+    "url": "https://www.theregister.com/os-platforms/2026/09/25/asahi-fork-embraces-llms-and-lands-linux-on-the-m4-mac-mini/5298931"
+  },
+  "b": {
+    "item_id": "d263412588c1588719c43e1231b1a2ad4190d438",
+    "lede": "Three decades after he wrote the original Windows Task Manager at Microsoft, Dave Plummer is back with a new iteration that works on macOS and Linux too.",
+    "outlet": "engadget",
+    "published": "2026-09-22T13:00:00Z",
+    "title": "The creator of Windows Task Manager has 'vibe coded' a new version that runs on macOS and Linux",
+    "url": "https://www.engadget.com/2262039/vibe-coded-modern-task-manager-runs-on-mac-and-linux/"
+  },
+  "score": 0.573008
+}

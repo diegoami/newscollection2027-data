@@ -8,12 +8,12 @@
     "url": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities"
   },
   "b": {
-    "item_id": "c1c97de161b0f3b750ced0f4c73fe28d07c12679",
-    "lede": "Trump focus on winning \u201cAI race\u201d may deter China from sharing safety intel.",
-    "outlet": "arstechnica",
-    "published": "2026-09-23T20:52:28Z",
-    "title": "China silent as US touts plan for AI safety alerts that omits tech experts",
-    "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
+    "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+    "lede": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-25T13:56:16Z",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o"
   },
-  "score": 0.594691
+  "score": 0.624766
 }

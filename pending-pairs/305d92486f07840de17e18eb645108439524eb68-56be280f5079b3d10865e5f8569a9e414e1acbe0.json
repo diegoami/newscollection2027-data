@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "305d92486f07840de17e18eb645108439524eb68",
+    "lede": "XMG noted that SO-DIMM prices have jumped 6x, with other components like PCBs, CPUs, and GPUs also facing increasing costs. This has forced the niche laptop manufacturer to bump their SRPs between $113 and $342.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T13:00:00Z",
+    "title": "DDR5 laptop memory prices surge 6X in 12 months",
+    "url": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes"
+  },
+  "b": {
+    "item_id": "56be280f5079b3d10865e5f8569a9e414e1acbe0",
+    "lede": "CyberPowerPC is offering five different pre-built gaming PCs with either an RTX 5070, 5080, or 5090 Founders Edition GPUs paired with either an Intel or AMD X3D CPU. They also come with 32GB of DDR5 RAM and 1TB of NVMe SSD, all for reasonable prices.",
+    "outlet": "tomshardware",
+    "published": "2026-09-24T09:30:00Z",
+    "title": "CyberPowerPC lands rare RTX 50-series Founders Edition cards in discounted Walmart rigs",
+    "url": "https://www.tomshardware.com/pc-components/gpus/cyberpowerpc-lands-rare-rtx-50-series-founders-edition-cards-in-discounted-walmart-rigs-complete-rtx-5090-pc-costs-usd2-400-less-than-a-standalone-gpu"
+  },
+  "score": 0.615096
+}
