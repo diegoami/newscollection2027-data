@@ -41,8 +41,16 @@
       "published": "2026-09-22T14:57:18Z",
       "title": "Xbox 'reset' continues with 268 job cuts and Activision making the next Halo game",
       "url": "https://www.engadget.com/2265293/xbox-reset-continues-with-268-job-cuts-activision-making-the-next-halo-game/"
+    },
+    {
+      "item_id": "15d62387a1336a0a483cb389366e66e2c8cdbfa4",
+      "lede": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" Layoffs have become a way of life for Xbox employees, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-24T16:00:00Z",
+      "title": "The Xbox reset gets ugly",
+      "url": "https://www.theverge.com/tech/999919/microsoft-xbox-reorganization-activision-notepad"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

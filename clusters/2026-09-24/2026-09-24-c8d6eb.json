@@ -1,0 +1,24 @@
+{
+  "anchor": "4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+  "id": "2026-09-24-c8d6eb",
+  "items": [
+    {
+      "item_id": "4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+      "lede": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI \u2018way too long\u2019 to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a \u201cpublic mailbox\u201d. Australia\u2019s prime minister made the comments at the",
+      "outlet": "theguardian",
+      "published": "2026-09-24T02:06:05Z",
+      "title": "Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman"
+    },
+    {
+      "item_id": "faaa23279b118268c3c58f854f318673fbeae882",
+      "lede": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-24T02:23:54Z",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

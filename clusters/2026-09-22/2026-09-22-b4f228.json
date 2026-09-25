@@ -1,0 +1,48 @@
+{
+  "anchor": "09f847df455105753440fe7a04b035f886d38dff",
+  "id": "2026-09-22-b4f228",
+  "items": [
+    {
+      "item_id": "09f847df455105753440fe7a04b035f886d38dff",
+      "lede": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
+      "outlet": "engadget",
+      "published": "2026-09-22T20:29:08Z",
+      "title": "Discord rolls out its revised age verification policy",
+      "url": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/"
+    },
+    {
+      "item_id": "587faf73bdc2e86dbc873f44849e360b22580d27",
+      "lede": "According to Discord, 90% of users will not have to verify their age.",
+      "outlet": "techcrunch",
+      "published": "2026-09-23T03:31:12Z",
+      "title": "Discord\u2019s age verification era is upon us, despite community backlash",
+      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/"
+    },
+    {
+      "item_id": "0b920e99e81c616f4b1c820b8d7332218665295e",
+      "lede": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign users to an estimated age group based on \"multiple account signals,\" with account restrictions placed on users believed to [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-23T14:27:49Z",
+      "title": "Discord will now automatically estimate your age",
+      "url": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout"
+    },
+    {
+      "item_id": "f16d11f66e6ec3ba9f39bc4cdd9a5a2f4a7240a2",
+      "lede": "Discord users asked to prove they\u2019re adults get less intrusive options",
+      "outlet": "theregister",
+      "published": "2026-09-23T16:59:00Z",
+      "title": "Discordians now subject to whims of new age verification technology",
+      "url": "https://www.theregister.com/offbeat/2026/09/23/discordians-now-subject-to-whims-of-new-age-verification-technology/5298641"
+    },
+    {
+      "item_id": "5b3915b552e5ebeb9dab22c149ab80e296809054",
+      "lede": "Discord will try to automatically estimate ages, require verification when it can't.",
+      "outlet": "arstechnica",
+      "published": "2026-09-23T20:05:13Z",
+      "title": "Discord age verification rolls out today with changes spurred by user backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

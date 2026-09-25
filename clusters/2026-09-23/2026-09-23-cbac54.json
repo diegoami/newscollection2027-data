@@ -1,0 +1,24 @@
+{
+  "anchor": "0fb4f4c0f22ef5b2f3c07b38674f6d482ac35cc8",
+  "id": "2026-09-23-cbac54",
+  "items": [
+    {
+      "item_id": "0fb4f4c0f22ef5b2f3c07b38674f6d482ac35cc8",
+      "lede": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-23T16:01:45Z",
+      "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are",
+      "url": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
+    },
+    {
+      "item_id": "9f99cc5e826440321c14ed229d5b0e9b9d9c8266",
+      "lede": "After years without a major successor, Logitech\u2019s Yeti 2 arrives with new features designed to simplify microphone setup and audio adjustments.",
+      "outlet": "tomshardware",
+      "published": "2026-09-24T14:00:00Z",
+      "title": "Logitech refreshes legendary Blue Yeti microphone with 3D voice tracking and AI denoising",
+      "url": "https://www.tomshardware.com/peripherals/microphones/logitech-refreshes-legendary-blue-yeti-microphone-with-3d-voice-tracking-and-ai-denoising-usd160-blue-yeti-2-sequel-features-real-time-auto-gain-and-color-mascot-screen"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "a46811e743a481e5927d22137fb6a45083a16ba3",
+  "id": "2026-09-24-35b490",
+  "items": [
+    {
+      "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3",
+      "lede": "Qualcomm has launched a new chip that will enable AI features on small audio devices.",
+      "outlet": "engadget",
+      "published": "2026-09-24T11:23:00Z",
+      "title": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+      "url": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/"
+    },
+    {
+      "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080",
+      "lede": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-24T23:42:39Z",
+      "title": "Qualcomm\u2019s new \u2018Elite\u2019 sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
