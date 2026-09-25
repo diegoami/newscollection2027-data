@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ddf58e86effeea429c03a42eaa69f85f1508a4b",
+    "lede": "\u200bAttackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T08:53:09Z",
+    "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
+  },
+  "b": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "score": 0.760853
+}

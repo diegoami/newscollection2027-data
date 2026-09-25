@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "d14c028c0f089f21f370ce1601e268c8a2047b8e",
+    "lede": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T07:17:23Z",
+    "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.623575
+}

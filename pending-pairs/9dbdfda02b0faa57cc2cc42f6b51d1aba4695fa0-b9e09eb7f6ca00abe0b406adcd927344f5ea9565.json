@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9dbdfda02b0faa57cc2cc42f6b51d1aba4695fa0",
+    "lede": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T19:53:54Z",
+    "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+  },
+  "b": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "score": 0.750551
+}

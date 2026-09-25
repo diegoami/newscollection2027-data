@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "849a3d02ea1aace5ea38c9800402e4a23d0d0e83",
+    "lede": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T10:42:37Z",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+  },
+  "b": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "score": 0.750474
+}

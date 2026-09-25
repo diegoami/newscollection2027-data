@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "469d8da91a36901de9f26844af90ccef9c25104b",
+    "lede": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+    "outlet": "arstechnica",
+    "published": "2026-09-25T17:57:37Z",
+    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
+  },
+  "b": {
+    "item_id": "7a32e150af52ac75510ca07609214ef8f8c5046e",
+    "lede": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft revamps Copilot with new tools, support for frontier models",
+    "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program"
+  },
+  "score": 0.607405
+}

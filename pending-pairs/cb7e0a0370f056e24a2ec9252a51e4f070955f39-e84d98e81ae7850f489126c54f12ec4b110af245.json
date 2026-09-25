@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cb7e0a0370f056e24a2ec9252a51e4f070955f39",
+    "lede": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T17:14:12Z",
+    "title": "Muse will apparently let you download its entire filesystem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem"
+  },
+  "b": {
+    "item_id": "e84d98e81ae7850f489126c54f12ec4b110af245",
+    "lede": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T16:49:53Z",
+    "title": "Meta makes the Muse filesystem even more accessible",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem"
+  },
+  "score": 0.605507
+}

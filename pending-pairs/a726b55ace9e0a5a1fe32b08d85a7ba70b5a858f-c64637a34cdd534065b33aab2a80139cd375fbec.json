@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "bdbbfa39d4a0912a718e7ac068d5ec8b00d99c6c",
-    "lede": "The company is expected to reveal its first-ever camera-free glasses.",
-    "outlet": "engadget",
-    "published": "2026-09-23T11:00:00Z",
-    "title": "How to watch Meta unveil its new smart glasses at Connect 2026",
-    "url": "https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/"
+    "item_id": "a726b55ace9e0a5a1fe32b08d85a7ba70b5a858f",
+    "lede": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T17:42:59Z",
+    "title": "Phones don\u2019t have lights",
+    "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks"
   },
   "b": {
     "item_id": "c64637a34cdd534065b33aab2a80139cd375fbec",
@@ -15,5 +15,5 @@
     "title": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses",
     "url": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
   },
-  "score": 0.606106
+  "score": 0.585205
 }

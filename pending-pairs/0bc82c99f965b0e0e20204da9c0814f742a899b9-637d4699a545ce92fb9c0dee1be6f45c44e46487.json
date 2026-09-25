@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0bc82c99f965b0e0e20204da9c0814f742a899b9",
+    "lede": "In response to the emerging threat of rogue and shadow AI agents, here\u2019s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+    "outlet": "zdnet",
+    "published": "2026-09-24T16:01:19Z",
+    "title": "AI agent kill switch urged by Okta-led alliance \u2013 how businesses could make it work",
+    "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/"
+  },
+  "b": {
+    "item_id": "637d4699a545ce92fb9c0dee1be6f45c44e46487",
+    "lede": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T15:39:48Z",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+  },
+  "score": 0.60327
+}

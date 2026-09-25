@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ab3a59da1cc2e24c29d822b32594974c220d6625",
+    "lede": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Get our breaking news email , free app or daily news podcast Technology experts have warned revelations an artificial intelligence agent hacked Medicare\u2019s internal systems will not be the only dangerous breach of government data and have called for",
+    "outlet": "theguardian",
+    "published": "2026-09-24T15:00:21Z",
+    "title": "AI hack of Medicare exposes Australia\u2019s vulnerabilities and experts warn \u2018there is more of this to come\u2019",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities"
+  },
+  "b": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "score": 0.595482
+}

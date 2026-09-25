@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "637d4699a545ce92fb9c0dee1be6f45c44e46487",
+    "lede": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T15:39:48Z",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+  },
+  "b": {
+    "item_id": "efa67800074e67f8d537f8ab67e997c4307eecf3",
+    "lede": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do \u201cwhatever\u201d they wanted on a victim\u2019s Mac, highlighting the inherent dangers of AI helpers.",
+    "outlet": "wired",
+    "published": "2026-09-23T12:54:58Z",
+    "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+    "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/"
+  },
+  "score": 0.604484
+}
