@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e5a147212b810d78e2b9c78828c940bbdfa014de",
+    "lede": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks.",
+    "outlet": "engadget",
+    "published": "2026-09-25T10:53:55Z",
+    "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
+    "url": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/"
+  },
+  "b": {
+    "item_id": "ee9698a7fdb9719d73f9d3d67cd10a4b622112bf",
+    "lede": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T19:59:26Z",
+    "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+    "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+  },
+  "score": 0.784562
+}

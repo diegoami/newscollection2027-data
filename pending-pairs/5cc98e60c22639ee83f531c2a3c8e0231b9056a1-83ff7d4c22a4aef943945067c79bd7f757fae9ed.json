@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cc98e60c22639ee83f531c2a3c8e0231b9056a1",
+    "lede": "Walmart is selling a CyberPowerPC gaming PC with a Ryzen 7 9800X3D, GeForce RTX 5080 Founders Edition, 32GB of DDR5-6000 memory, and a 1TB PCIe 4.0 SSD for $2,299.",
+    "outlet": "tomshardware",
+    "published": "2026-09-21T17:19:27Z",
+    "title": "Get the world\u2019s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299 \u2014 fully loaded powerhouse sports Ryzen 7 9800X3D, RTX 5080 Founders Edition, 32GB RAM, and 1TB SSD",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-the-worlds-fastest-gaming-cpu-and-a-dlss-5-capable-gpu-in-a-gaming-pc-for-usd2-299-fully-loaded-powerhouse-sports-ryzen-7-9800x3d-rtx-5080-founders-edition-32gb-ram-and-1tb-ssd"
+  },
+  "b": {
+    "item_id": "83ff7d4c22a4aef943945067c79bd7f757fae9ed",
+    "lede": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T10:30:00Z",
+    "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits"
+  },
+  "score": 0.601973
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4c0c9728718d1a360c21d00f4fb5a127acb3cbdf",
+    "lede": "Microsoft is giving its Copilot app another facelift.",
+    "outlet": "engadget",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft's Copilot app adds Office, natural coding and automation",
+    "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/"
+  },
+  "b": {
+    "item_id": "7a32e150af52ac75510ca07609214ef8f8c5046e",
+    "lede": "Microsoft is revamping Copilot into a singular AI workspace, mixing your projects and agents together. It will also be able to support third-party frontier models.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft revamps Copilot with new tools, support for frontier models",
+    "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program"
+  },
+  "score": 0.626665
+}

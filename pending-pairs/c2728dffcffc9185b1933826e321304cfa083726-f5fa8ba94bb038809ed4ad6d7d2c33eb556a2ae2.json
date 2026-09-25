@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+    "lede": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T10:30:38Z",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/"
+  },
+  "b": {
+    "item_id": "f5fa8ba94bb038809ed4ad6d7d2c33eb556a2ae2",
+    "lede": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T08:14:47Z",
+    "title": "Microsoft fixes bug that broke Windows File History backup feature",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/"
+  },
+  "score": 0.697249
+}

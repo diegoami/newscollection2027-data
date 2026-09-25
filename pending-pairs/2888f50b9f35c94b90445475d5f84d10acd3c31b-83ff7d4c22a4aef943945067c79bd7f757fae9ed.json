@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2888f50b9f35c94b90445475d5f84d10acd3c31b",
+    "lede": "Walmart has MSI's GeForce RTX 5090 Gaming Trio for just $4299 as part of its GeForce Week event, a rare deal on the most powerful graphics card around as the AI boom drives prices ever higher.",
+    "outlet": "tomshardware",
+    "published": "2026-09-22T15:00:52Z",
+    "title": "Get this spiffy, stealthy MSI Gaming Trio RTX 5090 for just $4,299",
+    "url": "https://www.tomshardware.com/pc-components/gpus/get-this-spiffy-stealthy-msi-rtx-5090-for-just-usd4-299-geforce-week-at-walmart-serves-up-a-rare-deal-on-nvidias-fastest-gaming-gpu"
+  },
+  "b": {
+    "item_id": "83ff7d4c22a4aef943945067c79bd7f757fae9ed",
+    "lede": "QuasarZone tests show the 16-pin power connector on a GeForce RTX 5090 reaches temperatures above 90 degrees Celsius at peak power consumption near 650W.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T10:30:00Z",
+    "title": "Nvidia DLSS 5 power draw hits 647W as power connector runs hotter than the GPU die, upscales frame rates and flame temps on 16-pin",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits"
+  },
+  "score": 0.574559
+}

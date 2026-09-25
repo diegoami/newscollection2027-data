@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b79191560dd64013b974fd72fd461253e5179188",
+    "lede": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+    "outlet": "techcrunch",
+    "published": "2026-09-24T16:00:00Z",
+    "title": "Google tests letting Gemini call businesses for you",
+    "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+  },
+  "b": {
+    "item_id": "e5a147212b810d78e2b9c78828c940bbdfa014de",
+    "lede": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks.",
+    "outlet": "engadget",
+    "published": "2026-09-25T10:53:55Z",
+    "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
+    "url": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/"
+  },
+  "score": 0.600423
+}

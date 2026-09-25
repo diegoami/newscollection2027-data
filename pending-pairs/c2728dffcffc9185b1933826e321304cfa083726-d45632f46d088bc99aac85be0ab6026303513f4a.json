@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+    "lede": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T10:30:38Z",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/"
+  },
+  "b": {
+    "item_id": "d45632f46d088bc99aac85be0ab6026303513f4a",
+    "lede": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T11:18:13Z",
+    "title": "Microsoft: September Windows updates break Always On VPN connections",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/"
+  },
+  "score": 0.607373
+}

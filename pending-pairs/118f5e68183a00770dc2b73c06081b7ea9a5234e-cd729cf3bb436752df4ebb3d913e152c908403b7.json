@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
+    "lede": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T10:00:00Z",
+    "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units"
+  },
+  "b": {
+    "item_id": "cd729cf3bb436752df4ebb3d913e152c908403b7",
+    "lede": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+    "outlet": "arstechnica",
+    "published": "2026-09-24T16:16:34Z",
+    "title": "Google's first Suncatcher orbital data center test launches October 1",
+    "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/"
+  },
+  "score": 0.744978
+}

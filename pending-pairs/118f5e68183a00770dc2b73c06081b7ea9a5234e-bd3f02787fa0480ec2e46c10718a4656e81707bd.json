@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
+    "lede": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T10:00:00Z",
+    "title": "Google's orbital AI data center test packs four TPUs and 1,000W of solar power",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units"
+  },
+  "b": {
+    "item_id": "bd3f02787fa0480ec2e46c10718a4656e81707bd",
+    "lede": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers into orbit. The satellite, equipped with Google's Tensor [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T14:15:17Z",
+    "title": "Google is sending an AI satellite into space next week",
+    "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher"
+  },
+  "score": 0.731132
+}
