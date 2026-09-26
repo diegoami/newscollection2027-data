@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5fe3eb5897178d7a28d2e600f103840a2bc90d2a",
+    "lede": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-26T15:50:38Z",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/"
+  },
+  "b": {
+    "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+    "lede": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T10:30:38Z",
+    "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/"
+  },
+  "score": 0.575958
+}
