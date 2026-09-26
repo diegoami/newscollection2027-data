@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d8143f817f623613bfcef2d11d5ef7c6056b1be1",
+    "lede": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-26T19:03:34Z",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
+  },
+  "b": {
+    "item_id": "f57d633897e465420615f907ec9d1d0ee7e5739e",
+    "lede": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-23T18:31:22Z",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+  },
+  "score": 0.647647
+}
