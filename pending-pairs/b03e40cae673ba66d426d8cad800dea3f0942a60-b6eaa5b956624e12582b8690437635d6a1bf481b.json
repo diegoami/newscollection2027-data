@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b03e40cae673ba66d426d8cad800dea3f0942a60",
+    "lede": "Your PS5 or Xbox Series console can use either setup, but you should consider what's best for your space first.",
+    "outlet": "engadget",
+    "published": "2026-09-26T13:30:00Z",
+    "title": "Vertical or horizontal: Does it really matter how you set up your gaming console?",
+    "url": "https://www.engadget.com/2265682/does-gaming-console-orientation-matter-vertical-vs-horizontal/"
+  },
+  "b": {
+    "item_id": "b6eaa5b956624e12582b8690437635d6a1bf481b",
+    "lede": "Traditional PS5 emulators attempt to recreate the console's hardware and software environment, but AnyPS5 is experimenting with a compatibility layer that translates PlayStation 5 executables into formats that can run on Windows and Linux.",
+    "outlet": "tomshardware",
+    "published": "2026-09-26T13:59:04Z",
+    "title": "Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC",
+    "url": "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux"
+  },
+  "score": 0.582841
+}
