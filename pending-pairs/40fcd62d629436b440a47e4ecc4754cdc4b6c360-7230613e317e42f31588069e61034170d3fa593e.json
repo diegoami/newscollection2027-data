@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "40fcd62d629436b440a47e4ecc4754cdc4b6c360",
+    "lede": "OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing.",
+    "outlet": "engadget",
+    "published": "2026-09-26T11:58:20Z",
+    "title": "OpenAI's agents targeted and infiltrated US government websites",
+    "url": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/"
+  },
+  "b": {
+    "item_id": "7230613e317e42f31588069e61034170d3fa593e",
+    "lede": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-24T11:52:32Z",
+    "title": "OpenAI agents hacked an Australian government website in search for data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data"
+  },
+  "score": 0.647686
+}
