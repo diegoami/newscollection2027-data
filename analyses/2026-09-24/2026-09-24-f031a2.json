@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-09-24-f031a2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Trailer released for Alex Gibney's Elon Musk documentary",
+  "summary": "A trailer has been released for a four-hour documentary about Elon Musk, directed by Oscar-winning filmmaker Alex Gibney, known for films about Enron, Scientology and Elizabeth Holmes. Some have already called the documentary a 'hit piece.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A trailer has been released for a four-hour Elon Musk documentary",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "da38e74d2329bda0323d5d4a30b51c77072da54c",
+          "quote": "We finally have a trailer for that four-hour Elon Musk documentary"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The documentary was directed by Oscar-winning documentarian Alex Gibney",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "4400cc72c032e73800a48d7ee6c3bcd18d0adde0",
+          "quote": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "da38e74d2329bda0323d5d4a30b51c77072da54c",
+          "quote": "It was directed by Alex Gibney"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Some have called the documentary a 'hit piece'",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "4400cc72c032e73800a48d7ee6c3bcd18d0adde0",
+          "quote": "called a \"hit piece\""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

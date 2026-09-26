@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-09-25-df9b2f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Kiteworks urges customers to shut down servers over threat",
+  "summary": "Kiteworks is urging customers worldwide to temporarily shut down their servers for a six-hour window on Saturday, after receiving what it calls a 'credible threat' from law enforcement warning of an imminent cyberattack tied to potential zero-day vulnerabilities.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Kiteworks is urging customers to temporarily shut down their servers due to an imminent cyberattack threat",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
+          "quote": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+          "quote": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The shutdown is planned for a six-hour window on Saturday",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+          "quote": "to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Kiteworks said it received a 'credible threat' from law enforcement warning of the attack",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
+          "quote": "said it received a \"credible threat\" from law enforcement about an imminent attack."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The threat is linked to potential zero-day vulnerabilities",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+          "quote": "over potential zero-day attacks"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

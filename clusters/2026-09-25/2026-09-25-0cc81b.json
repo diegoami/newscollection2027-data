@@ -41,8 +41,16 @@
       "published": "2026-09-25T12:00:14Z",
       "title": "Microsoft\u2019s new Copilot app puts everything in one place \u2013 but the price is \u2018evolving\u2019",
       "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/"
+    },
+    {
+      "item_id": "469d8da91a36901de9f26844af90ccef9c25104b",
+      "lede": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "outlet": "arstechnica",
+      "published": "2026-09-25T17:57:37Z",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

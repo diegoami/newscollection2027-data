@@ -3,6 +3,14 @@
   "id": "2026-09-23-0b856d",
   "items": [
     {
+      "item_id": "1cc0661890f6f3c46ccec5cc2f53667196706823",
+      "lede": "In YouTube\u2019s latest update, viewers can tweak what the algorithm shows on their front page and curate it to a specific vibe.",
+      "outlet": "wired",
+      "published": "2026-09-23T14:30:00Z",
+      "title": "YouTube\u2019s Custom Feeds Give You More Control Over the Algorithm",
+      "url": "https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/"
+    },
+    {
       "item_id": "ec5172ddcc942332d6fea2e047da137cab09961f",
       "lede": "ouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
       "outlet": "techcrunch",
@@ -17,8 +25,16 @@
       "published": "2026-09-23T14:59:02Z",
       "title": "YouTube will soon let you generate custom feeds and use GIFs in comments",
       "url": "https://www.engadget.com/2266446/youtube-will-soon-let-you-generate-custom-feeds-and-use-gifs-in-comments/"
+    },
+    {
+      "item_id": "cb8771dad7d11536edcd1b058a7e7428c251c5a6",
+      "lede": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+      "outlet": "techcrunch",
+      "published": "2026-09-23T16:03:44Z",
+      "title": "YouTube is making comments more fun \u2014 and fandom more lucrative for creators",
+      "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

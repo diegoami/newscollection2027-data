@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-09-22-ab4612",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Alibaba unveils new AI chip, plans 20GW of datacenters",
+  "summary": "Alibaba is planning a six-year buildout to 20GW of datacenters and has unveiled its Zhenwu V900 AI accelerator chip, claimed to triple the performance of its predecessor with 216GB of memory as it targets a 10-trillion-parameter Qwen model. The US alone already has 37GW of datacenter capacity under construction.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Alibaba plans to build 20GW of datacenters over six years",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "27320614e50343470a3484d162f8aed28c7a3107",
+          "quote": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Alibaba unveiled its Zhenwu V900 AI accelerator chip",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "cb5b000988075aea6ae530da4fdf3b7cf6b8aca7",
+          "quote": "Alibaba unveils Zhenwu V900 AI accelerator, claims it's 'the most powerful AI chip in China'"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "27320614e50343470a3484d162f8aed28c7a3107",
+          "quote": "reveals chip to power them"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Alibaba claims the Zhenwu V900 has three times its predecessor's performance with 216GB of memory",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "cb5b000988075aea6ae530da4fdf3b7cf6b8aca7",
+          "quote": "Alibaba’s T-Head Zhenwu V900 claims three times the M890’s performance with 216GB of memory as Alibaba targets 10T-parameter Qwen"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The US alone has 37GW of datacenter capacity under construction",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "27320614e50343470a3484d162f8aed28c7a3107",
+          "quote": "USA alone has 37GW under construction, but Alibaba doesn't think the AI boom will run out of steam"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,78 @@
+{
+  "cluster_id": "2026-09-24-cc0f4f",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Google to launch experimental orbital AI data center Oct 1",
+  "summary": "Google plans to launch an experimental orbital AI data center satellite on October 1 as part of Project Suncatcher. The satellite will carry four TPUs and 1,000W of solar power, running for only 15 minutes at a time in a proof of concept testing how well lightly modified compute performs in orbit.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google will launch an experimental orbital AI data center satellite on October 1, as part of Project Suncatcher",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
+          "quote": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "cd729cf3bb436752df4ebb3d913e152c908403b7",
+          "quote": "Google's first Suncatcher orbital data center test launches October 1"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The satellite will carry four TPUs",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
+          "quote": "packs four TPUs and 1,000W of solar power"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "cd729cf3bb436752df4ebb3d913e152c908403b7",
+          "quote": "will have four TPUs and only run for 15 minutes at a time."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The satellite includes 1,000W of solar power",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
+          "quote": "and 1,000W of solar power"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The test will run for only 15 minutes at a time",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "cd729cf3bb436752df4ebb3d913e152c908403b7",
+          "quote": "and only run for 15 minutes at a time."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The proof of concept aims to see how well lightly modified compute fares in orbit",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "138b439314f7e92ef0ceeee61fbcb171cae5ebd8",
+          "quote": "Part of Project Suncatcher, the proof of concept aims to see how well lightly modified compute fares in orbit"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

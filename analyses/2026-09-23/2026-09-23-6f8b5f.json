@@ -1,1 +1,137 @@
-{"cluster_id": "2026-09-23-6f8b5f", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "Meta Unveils Camera-Free Glasses and New VR Glasses", "summary": "Meta introduced camera-free smart glasses and a new pair of VR Glasses at Meta Connect 2026, according to The Verge, TechCrunch, Engadget and The Guardian. The $1,300 VR Glasses use hand and eye tracking instead of a headset controller, but outlets differ on how immersive the device really is.", "claims": [{"id": "c1", "statement": "Meta introduced new camera-free (audio-only) smart glasses.", "sources": [{"outlet": "theverge", "item_id": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93", "quote": "Meta ditches the camera on its newest smart glasses"}, {"outlet": "techcrunch", "item_id": "b8569e46aaeee2e500809da9a155411285666dd4", "quote": "Meta introduces camera-free AI glasses"}, {"outlet": "theguardian", "item_id": "0997b7305a67e5360aeac7effa295ba7addd5f5e", "quote": "including an audio-only version without a camera"}]}, {"id": "c2", "statement": "Meta also launched new VR Glasses, a lighter glasses-form device instead of a headset.", "sources": [{"outlet": "theverge", "item_id": "c64637a34cdd534065b33aab2a80139cd375fbec", "quote": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses"}, {"outlet": "theguardian", "item_id": "0997b7305a67e5360aeac7effa295ba7addd5f5e", "quote": "Meta announced an advanced new set of virtual reality glasses"}, {"outlet": "engadget", "item_id": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092", "quote": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making"}]}, {"id": "c3", "statement": "The camera-free glasses are lighter with up to 12 hours of battery life.", "sources": [{"outlet": "techcrunch", "item_id": "b8569e46aaeee2e500809da9a155411285666dd4", "quote": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."}]}, {"id": "c4", "statement": "The VR Glasses are priced at $1,300.", "sources": [{"outlet": "engadget", "item_id": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092", "quote": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making"}]}, {"id": "c5", "statement": "The VR Glasses use hand and eye tracking instead of a controller.", "sources": [{"outlet": "engadget", "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9", "quote": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller"}]}, {"id": "c6", "statement": "The VR Glasses include IMAX-related entertainment features.", "sources": [{"outlet": "techcrunch", "item_id": "2cd971e282db687c60bed350b138a6e5adafad10", "quote": "Meta is trying VR glasses (again), this time with more IMAX"}]}, {"id": "c7", "statement": "The VR Glasses are a more portable but less immersive alternative to a full headset.", "sources": [{"outlet": "engadget", "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9", "quote": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today."}]}], "discrepancies": [{"kind": "framing", "severity": "low", "explanation": "Outlets differ on how immersive the VR Glasses are: The Verge says they still have immersive displays, while Engadget's hands-on calls the device less immersive than a headset.", "quotes": [{"outlet": "theverge", "item_id": "c64637a34cdd534065b33aab2a80139cd375fbec", "quote": "they still have immersive displays for watching movies, playing games, and getting work done"}, {"outlet": "engadget", "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9", "quote": "a more portable but less immersive device"}], "claim_ids": ["c2", "c7"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-09-23-6f8b5f",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Meta unveils camera-free glasses and new VR Glasses at Connect",
+  "summary": "At Meta Connect 2026, Meta unveiled the Ray-Ban Meta Audio, its first camera-free smart glasses, lighter with up to 12 hours of battery life, alongside new $1,300 VR Glasses that resemble eyewear rather than a headset, featuring hand and eye tracking and expanded IMAX entertainment. Meta also released an iterative Ray-Ban Meta Gen 3 update and announced a 'Private Processing' encryption feature, amid ongoing privacy backlash over camera-equipped wearables.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta unveiled the Ray-Ban Meta Audio, its first smart glasses without a camera",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b8569e46aaeee2e500809da9a155411285666dd4",
+          "quote": "Meta introduces camera-free AI glasses"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "f14add291823ead7c15088f6399c781ecb81b55b",
+          "quote": "Meta announces Ray-Ban Meta Audio, its first smart glasses without a camera"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The camera-free glasses are lighter and offer up to 12 hours of battery life",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b8569e46aaeee2e500809da9a155411285666dd4",
+          "quote": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Meta also unveiled new VR Glasses that resemble eyewear rather than a headset, priced at $1,300",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c64637a34cdd534065b33aab2a80139cd375fbec",
+          "quote": "Meta’s next VR device isn’t a headset — it’s glasses"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+          "quote": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The VR Glasses feature hand and eye tracking that outperforms a controller, and are more portable but less immersive than a Quest headset",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+          "quote": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+          "quote": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The VR Glasses come with enhanced entertainment options including more IMAX content",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2cd971e282db687c60bed350b138a6e5adafad10",
+          "quote": "Meta is trying VR glasses (again), this time with more IMAX"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Meta also released the Ray-Ban Meta Gen 3, an iterative, expensive update over Gen 2",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "6507ab8fb9961060d8a229cb70c72d570703f072",
+          "quote": "Meta's newest smart glasses are an iterative, expensive update."
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Meta announced a 'Private Processing' encryption feature coming to its smart glasses",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "1850364dd521821959ead78165838abee234fbb0",
+          "quote": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses."
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "The wearables come amid backlash and scrutiny over privacy concerns around camera-equipped smart glasses",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "0997b7305a67e5360aeac7effa295ba7addd5f5e",
+          "quote": "The new wearables come at a time of uncertainty for smart glasses, which are facing backlash over privacy concerns"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Only Wired mentions the 'Private Processing' encryption feature among the many Connect announcements; other glasses-focused pieces do not mention it.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "1850364dd521821959ead78165838abee234fbb0",
+          "quote": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "b8569e46aaeee2e500809da9a155411285666dd4",
+          "quote": "Meta introduces camera-free AI glasses"
+        }
+      ],
+      "claim_ids": [
+        "c7"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

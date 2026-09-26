@@ -43,6 +43,14 @@
       "url": "https://www.engadget.com/2265293/xbox-reset-continues-with-268-job-cuts-activision-making-the-next-halo-game/"
     },
     {
+      "item_id": "30ca8ad7ff1f2e54439ca9927c9fca9dbebb7d8b",
+      "lede": "Activision gets Halo , Obsidian becomes part of Bethesda, and more internal shake-ups.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T15:30:53Z",
+      "title": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
+      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/"
+    },
+    {
       "item_id": "15d62387a1336a0a483cb389366e66e2c8cdbfa4",
       "lede": "It feels like Xbox has been in a permanent state of turmoil for at least two years now, and this week is no different. Microsoft cut 268 jobs across its gaming division this week, shuffled major studios and franchises around, and continued its Xbox \"reset.\" Layoffs have become a way of life for Xbox employees, [\u2026]",
       "outlet": "theverge",
@@ -52,5 +60,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

@@ -1,0 +1,24 @@
+{
+  "anchor": "c2728dffcffc9185b1933826e321304cfa083726",
+  "id": "2026-09-25-a4d929",
+  "items": [
+    {
+      "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+      "lede": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-25T10:30:38Z",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/"
+    },
+    {
+      "item_id": "8a4de6e80701066869b8ef93d058905ad3b1ee6c",
+      "lede": "Users may need to summon Explorer manually after signing in",
+      "outlet": "theregister",
+      "published": "2026-09-25T13:32:00Z",
+      "title": "Windows update leaves some virtual desktops staring into the void",
+      "url": "https://www.theregister.com/os-platforms/2026/09/25/windows-update-leaves-some-virtual-desktops-staring-into-the-void/5299106"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

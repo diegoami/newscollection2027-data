@@ -19,6 +19,14 @@
       "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/"
     },
     {
+      "item_id": "138b439314f7e92ef0ceeee61fbcb171cae5ebd8",
+      "lede": "Part of Project Suncatcher, the proof of concept aims to see how well lightly modified compute fares in orbit",
+      "outlet": "theregister",
+      "published": "2026-09-24T22:12:48Z",
+      "title": "Google's TPUs to catch some rays in orbit next week",
+      "url": "https://www.theregister.com/systems/2026/09/24/googles-tpus-to-catch-some-rays-in-orbit-next-week/5298990"
+    },
+    {
       "item_id": "118f5e68183a00770dc2b73c06081b7ea9a5234e",
       "lede": "Google will launch an experimental satellite into orbit on October 1, taking four tensor processing units with it.",
       "outlet": "tomshardware",
@@ -27,6 +35,6 @@
       "url": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

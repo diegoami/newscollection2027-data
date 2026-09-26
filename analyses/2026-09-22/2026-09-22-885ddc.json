@@ -1,1 +1,140 @@
-{"cluster_id": "2026-09-22-885ddc", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "ShinyHunters Claims FBI Hack, Says It's Not Financial", "summary": "The ShinyHunters hacking group claims it breached the FBI and stole data on employees and applicants, according to The Register, TechCrunch, Bleeping Computer and Engadget. Bleeping Computer says the group used an Oracle PeopleSoft zero-day, and The Register and Engadget report the group says the breach is not financially motivated.", "claims": [{"id": "c1", "statement": "ShinyHunters claims it breached the FBI and stole employee and applicant data.", "sources": [{"outlet": "theregister", "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359", "quote": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'"}, {"outlet": "techcrunch", "item_id": "7df9c7e1f29d359cfbf9b663eb4c5e29856c37a2", "quote": "Hacking group ShinyHunters claims it breached the FBI, stole agents\u2019 and applicants\u2019 data"}, {"outlet": "bleepingcomputer", "item_id": "69879410fc78a38e5f3ce5576b8e3b447945d5bf", "quote": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach"}, {"outlet": "engadget", "item_id": "935fc6b627869113232bb2e75dad268d198b031d", "quote": "ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees"}]}, {"id": "c2", "statement": "The breach reportedly used a new Oracle PeopleSoft zero-day vulnerability.", "sources": [{"outlet": "bleepingcomputer", "item_id": "69879410fc78a38e5f3ce5576b8e3b447945d5bf", "quote": "using a new Oracle PeopleSoft zero-day vulnerability"}]}, {"id": "c3", "statement": "The group says the hack is not financially motivated.", "sources": [{"outlet": "theregister", "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359", "quote": "This is NOT financially motivated"}, {"outlet": "engadget", "item_id": "935fc6b627869113232bb2e75dad268d198b031d", "quote": "Financial extortion doesn't seem to be the group's goal this time."}]}, {"id": "c4", "statement": "The group claims to have 2-3TB of sensitive FBI employee data.", "sources": [{"outlet": "engadget", "item_id": "935fc6b627869113232bb2e75dad268d198b031d", "quote": "ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-22-885ddc",
+  "cluster_version": 5,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "ShinyHunters claims a major FBI data breach via PeopleSoft flaw",
+  "summary": "The hacking group ShinyHunters claims it breached FBI systems through an Oracle PeopleSoft zero-day, stealing personal data on agents and applicants, including names, badge numbers, addresses and even blood and urine test results. The FBI is investigating whether the claims, including reports of up to 3TB of data, are real. ShinyHunters says the hack was not financially motivated, though BleepingComputer describes the group as an extortion gang.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "ShinyHunters claims to have breached the FBI and stolen employee/applicant data via an Oracle PeopleSoft zero-day",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "69879410fc78a38e5f3ce5576b8e3b447945d5bf",
+          "quote": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "7df9c7e1f29d359cfbf9b663eb4c5e29856c37a2",
+          "quote": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The stolen data reportedly includes agents' names, roles, badge numbers, and personal details like home addresses and phone numbers",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "4d03ef59c828444f717bbd846029e8ada4ae0d9f",
+          "quote": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The hack also reportedly exposed special agents' blood and urine test results",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+          "quote": "Special agents' blood and urine test results stolen in FBI hack"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "ShinyHunters claims the hack was not financially motivated",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
+          "quote": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "bb5970b0a45b68cb96a646e6e7abf6d3e6c3da5b",
+          "quote": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Experts warn the stolen data could leave agents vulnerable to blackmail, scams and counterintelligence threats",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+          "quote": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "7df9c7e1f29d359cfbf9b663eb4c5e29856c37a2",
+          "quote": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The FBI is investigating whether the hack and its claimed scope are real",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "4d03ef59c828444f717bbd846029e8ada4ae0d9f",
+          "quote": "FBI investigates claim by hackers they stole data on all agency staff"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "a2eaff1a41c29c898c58d9b27abb3440a16fb22d",
+          "quote": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Only Engadget reports a specific volume of stolen data (2-3TB); other outlets describe the scope only in terms of affected employees.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "935fc6b627869113232bb2e75dad268d198b031d",
+          "quote": "ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "4d03ef59c828444f717bbd846029e8ada4ae0d9f",
+          "quote": "FBI investigates claim by hackers they stole data on all agency staff"
+        }
+      ],
+      "claim_ids": [
+        "c6"
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "BleepingComputer describes ShinyHunters as an extortion gang, while the group itself tells The Register the hack was not financially motivated.",
+      "quotes": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "69879410fc78a38e5f3ce5576b8e3b447945d5bf",
+          "quote": "The ShinyHunters extortion gang claims it breached FBI systems"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "86731cd95e8f895bf33d229ebda3a34b7316c359",
+          "quote": "This is NOT financially motivated'"
+        }
+      ],
+      "claim_ids": [
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

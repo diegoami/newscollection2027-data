@@ -1,1 +1,56 @@
-{"cluster_id": "2026-09-24-083419", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "Google Tests Gemini Feature That Calls Businesses for You", "summary": "Google is testing a Gemini feature that calls businesses on the user's behalf, first for Pixel 11 owners with a Gemini subscription in the US, according to TechCrunch and The Verge. The Verge says Gemini can make a reservation, check stock or reschedule an appointment.", "claims": [{"id": "c1", "statement": "Google is testing a Gemini feature that calls businesses on the user's behalf.", "sources": [{"outlet": "techcrunch", "item_id": "b79191560dd64013b974fd72fd461253e5179188", "quote": "Google tests letting Gemini call businesses for you"}, {"outlet": "theverge", "item_id": "69d34719f9a17ab36a959a365bf31f80b9ec5f71", "quote": "Gemini can now call businesses for you so you don\u2019t have to wait on hold"}]}, {"id": "c2", "statement": "The feature is first available to Pixel 11 owners with a Gemini subscription in the US.", "sources": [{"outlet": "techcrunch", "item_id": "b79191560dd64013b974fd72fd461253e5179188", "quote": "first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription"}, {"outlet": "theverge", "item_id": "69d34719f9a17ab36a959a365bf31f80b9ec5f71", "quote": "an \"early experiment\" feature on Pixel 11"}]}, {"id": "c3", "statement": "Gemini can make a reservation, check stock or reschedule an appointment.", "sources": [{"outlet": "theverge", "item_id": "69d34719f9a17ab36a959a365bf31f80b9ec5f71", "quote": "like making a reservation, checking if a product is in stock, or rescheduling an appointment"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-24-083419",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Google's Gemini can now call businesses for Pixel 11 users",
+  "summary": "Google is rolling out a 'Call for Me' feature that lets Gemini call businesses on a user's behalf, handling tasks like making reservations, checking stock, or rescheduling appointments. The feature is beginning a preliminary rollout exclusively for Pixel 11 owners in the US who pay for a Gemini subscription.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google is rolling out a 'Call for Me' feature letting Gemini make business calls on your behalf",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "ae28f4351d4a0b13614a7ed011995caee72616e4",
+          "quote": "Pixel 11's Call For Me feature begins preliminary rollout"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "d78e096af7b6eaaefba2eb24dc4ee862f35636c4",
+          "quote": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The feature is initially exclusive to Pixel 11 owners with a Gemini subscription in the US",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b79191560dd64013b974fd72fd461253e5179188",
+          "quote": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "d78e096af7b6eaaefba2eb24dc4ee862f35636c4",
+          "quote": "exclusive to the Pixel 11 series—gives robocalls a new meaning."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Gemini can handle tasks like making a reservation, checking product stock, or rescheduling an appointment without the user starting the call",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "69d34719f9a17ab36a959a365bf31f80b9ec5f71",
+          "quote": "like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: Instead of dialing yourself, […]"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

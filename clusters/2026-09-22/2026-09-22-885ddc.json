@@ -43,14 +43,30 @@
       "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/"
     },
     {
+      "item_id": "4d03ef59c828444f717bbd846029e8ada4ae0d9f",
+      "lede": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-24T11:46:07Z",
+      "title": "FBI investigates claim by hackers they stole data on all agency staff",
+      "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo"
+    },
+    {
       "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
       "lede": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
       "outlet": "bbc-technology",
       "published": "2026-09-25T13:56:16Z",
       "title": "Special agents' blood and urine test results stolen in FBI hack",
       "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o"
+    },
+    {
+      "item_id": "bb5970b0a45b68cb96a646e6e7abf6d3e6c3da5b",
+      "lede": "Data theft and extortion biz, that is",
+      "outlet": "theregister",
+      "published": "2026-09-25T18:23:31Z",
+      "title": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
     }
   ],
-  "status": "pending",
-  "version": 4
+  "status": "analyzed",
+  "version": 5
 }

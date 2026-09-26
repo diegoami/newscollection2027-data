@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-09-23-92bb00",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Samsung firmware update bricks smart fridges before holiday",
+  "summary": "A faulty Samsung firmware update left many smart refrigerators stuck and non-functional just before a major South Korean holiday, spoiling food and frustrating owners. One affected user called the situation 'so absurd and embarrassing.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A Samsung firmware update bricked smart refrigerators, leaving them stuck and non-functional",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7dd82e59318e542bf56f4fab27355b8c97319f87",
+          "quote": "A broken Samsung update left many refrigerators stuck and non-functional."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "106d9b92dc30795ed94afe68e9904d0c702dcda2",
+          "quote": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The failure happened right before a major South Korean holiday, spoiling food for many users",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7dd82e59318e542bf56f4fab27355b8c97319f87",
+          "quote": "Samsung's disastrous firmware update bricks refrigerators ahead of South Korean holiday"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7dd82e59318e542bf56f4fab27355b8c97319f87",
+          "quote": "which happened right before a major holiday, has many users complaining of spoiled food and a ruined holiday."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "One affected owner called the situation 'so absurd and embarrassing'",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "106d9b92dc30795ed94afe68e9904d0c702dcda2",
+          "quote": "\"So absurd and embarrassing ...\""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

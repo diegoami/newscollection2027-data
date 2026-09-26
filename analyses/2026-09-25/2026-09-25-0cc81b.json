@@ -1,0 +1,100 @@
+{
+  "cluster_id": "2026-09-25-0cc81b",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Microsoft drops 'Copilot+ PC' brand, unveils Copilot super app",
+  "summary": "Microsoft is retiring the 'Copilot+ PC' hardware branding, with new Surface laptops dropping the label, while separately unveiling a revamped Copilot 'super app' that bundles chat, coding and agents, adds Office integration and third-party frontier model support, and rebrands its Scout assistant as Autopilot. ZDNet notes pricing for the new app is still 'evolving.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft is dropping the 'Copilot+ PC' hardware branding",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "847969f8b68fd7b5311c21daad0c2f8b2e767eb1",
+          "quote": "Microsoft is killing off the ‘Copilot Plus PC’ brand"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "469d8da91a36901de9f26844af90ccef9c25104b",
+          "quote": "Microsoft stops insisting you need a \"Copilot+ PC\""
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft's new Surface laptops no longer use Copilot+ PC branding",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "469d8da91a36901de9f26844af90ccef9c25104b",
+          "quote": "Microsoft's new Surface laptops forgo Copilot+ PC branding."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Microsoft unveiled a revamped Copilot 'super app' bundling chat, coding, and agents into one interface",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c9b6dd7b22a4e54aff34394a04ef52f31f0b544c",
+          "quote": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c9b6dd7b22a4e54aff34394a04ef52f31f0b544c",
+          "quote": "The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "As part of the launch, Microsoft is rebranding its Scout assistant as Autopilot",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c9b6dd7b22a4e54aff34394a04ef52f31f0b544c",
+          "quote": "Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The new Copilot app also adds Office integration, natural-language coding, and automation features",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "4c0c9728718d1a360c21d00f4fb5a127acb3cbdf",
+          "quote": "Microsoft's Copilot app adds Office, natural coding and automation"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Copilot will also support third-party frontier models",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7a32e150af52ac75510ca07609214ef8f8c5046e",
+          "quote": "It will also be able to support third-party frontier models."
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Pricing for the new Copilot app is still 'evolving'",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "b2dd5a2839d5b0ecae404ac5deb9155380f87bc1",
+          "quote": "but the price is ‘evolving’"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-09-23-8bcfb2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "NHTSA investigates comma.ai driving tech after fatal crashes",
+  "summary": "NHTSA is investigating comma.ai's hands-off driving technology following fatal crashes. TechCrunch reports the probe covers at least 2 fatal crashes, some involving 'forked' versions of Comma's software, while Ars Technica says federal regulators know of 5 crashes in which comma.ai-equipped cars hit slow or stopped vehicles.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "NHTSA is investigating comma.ai's hands-off driving tech after fatal crashes",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "ca5fc52a4d58c6f8a7ef9b6a5a66ea030d7d35e9",
+          "quote": "After multiple deaths and injuries, NHTSA is investigating comma.ai"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "83794febb53598bf371444c2fab137487245d1d5",
+          "quote": "Comma’s hands-off driving tech under investigation after 2 fatal crashes"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Federal regulators know of 5 crashes involving comma.ai devices hitting slow or stopped vehicles",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "ca5fc52a4d58c6f8a7ef9b6a5a66ea030d7d35e9",
+          "quote": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Some crashes reportedly involved drivers using 'forked' versions of Comma's software",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "83794febb53598bf371444c2fab137487245d1d5",
+          "quote": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "TechCrunch cites 2 fatal crashes while Ars Technica reports federal regulators know of 5 crashes overall involving comma.ai devices.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "83794febb53598bf371444c2fab137487245d1d5",
+          "quote": "after 2 fatal crashes"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ca5fc52a4d58c6f8a7ef9b6a5a66ea030d7d35e9",
+          "quote": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles."
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c2"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

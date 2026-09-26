@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-09-22-3742bb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "US and China propose AI hotline, but it won't be ready soon",
+  "summary": "The US and China have proposed AI 'red lines' and a hotline for rapid communication and joint responses to rogue AI actions, as the two countries look for ways to manage AI-related national security risks. Wired reports the hotline system won't be ready for a while, even as the countries race for AI dominance.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The US and China have proposed a hotline to communicate on AI-related national security issues",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
+          "quote": "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "cdf5468b79169b1736ca81034236721587c7c77b",
+          "quote": "the countries also appear to be figuring out ways to communicate on national security issues."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The proposed hotline would allow rapid communication and joint responses to rogue AI actions",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
+          "quote": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Wired frames the hotline as not imminent, while Tom's Hardware reports the proposal without noting a timeline.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "cdf5468b79169b1736ca81034236721587c7c77b",
+          "quote": "A US-China AI Hotline Won't Be Ready For a While"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
+          "quote": "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

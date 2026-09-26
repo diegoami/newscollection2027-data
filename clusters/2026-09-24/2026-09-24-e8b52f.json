@@ -11,6 +11,14 @@
       "url": "https://www.theverge.com/games/1000088/nintendo-switch-piracy-reddit-mod-lawsuit"
     },
     {
+      "item_id": "8e6f94a71c9f8c9ad9e0b677b81f70c8bcfa2af1",
+      "lede": "It's easy to win when the defendant is a no-show.",
+      "outlet": "engadget",
+      "published": "2026-09-24T21:34:11Z",
+      "title": "Nintendo wins $4.5 million from lawsuit over pirated Switch games",
+      "url": "https://www.engadget.com/2268376/nintendo-wins-4-5-million-from-lawsuit-over-pirated-switch-games/"
+    },
+    {
       "item_id": "c6acd43f987c2460515262fcdff3c25dbba7d6a2",
       "lede": "A Washington court granted Nintendo of America a $4.5 million default judgment after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications.",
       "outlet": "tomshardware",
@@ -19,6 +27,6 @@
       "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

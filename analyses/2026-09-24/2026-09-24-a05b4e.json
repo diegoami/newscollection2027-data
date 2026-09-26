@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-09-24-a05b4e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Asus confirms eShop data breach, warns of phishing scams",
+  "summary": "Asus has confirmed a data breach at its eShop that exposed customer contact details and order records, though the company says payment data remains safe. Asus is warning customers about targeted phishing scams as a result, but has not disclosed how many customers were affected.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Asus confirmed a data breach of its eShop exposing customer contact details and order records",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb3876508325232eea5adc15c66b57107306679e",
+          "quote": "Asus confirms eShop data breach exposed customer order records and contact details"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "cf6699ade1fd81d412a153c495026d402970b91b",
+          "quote": "Contact details and order records accessed"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Payment data was not affected",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb3876508325232eea5adc15c66b57107306679e",
+          "quote": "payment data safe, but firm warns of targeted phishing scams"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Asus is warning of targeted phishing scams as a result",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb3876508325232eea5adc15c66b57107306679e",
+          "quote": "firm warns of targeted phishing scams"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Asus has not disclosed how many customers are affected",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "cf6699ade1fd81d412a153c495026d402970b91b",
+          "quote": "but PC maker is keeping schtum on how many customers are affected"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

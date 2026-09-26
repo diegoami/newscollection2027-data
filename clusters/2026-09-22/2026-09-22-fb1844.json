@@ -19,6 +19,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po"
     }
   ],
-  "status": "pending",
+  "status": "superseded",
+  "superseded_by": "2026-09-19-86a1d6",
   "version": 1
 }

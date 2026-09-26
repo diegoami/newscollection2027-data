@@ -17,8 +17,16 @@
       "published": "2026-09-25T13:24:34Z",
       "title": "North Korean hackers suspected in $351M crypto theft, the largest so far this year",
       "url": "https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/"
+    },
+    {
+      "item_id": "449ec06352ad4d52e1fae263d0b72416f92d25e6",
+      "lede": "Familiar fingerprints point to Kim\u2019s regime \u2026 to the surprise of nobody",
+      "outlet": "theregister",
+      "published": "2026-09-25T17:04:07Z",
+      "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

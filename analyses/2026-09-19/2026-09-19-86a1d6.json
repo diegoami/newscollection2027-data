@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-09-19-86a1d6",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-22T02:19:54Z",
-  "headline": "Trump says he will create an 'AI Force' and appoint an AI czar",
-  "summary": "Donald Trump said he will create an 'AI Force' agency and appoint an AI czar, while dismissing AI-safety warnings as an overblown or politically motivated backlash. Outlets agree he offered few details of what the unit would do, though they frame the announcement differently.",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Trump proposes an 'AI Force' and renames AI 'super intelligence'",
+  "summary": "President Trump said he will create an 'AI Force' and appoint an AI czar to oversee AI development, offering few details on what the unit would do. He dismissed AI safety concerns as a Democratic hoax. Days later, at the UN General Assembly, he said the US is 'officially' renaming artificial intelligence to 'super intelligence,' though experts doubt the term will catch on.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Trump said he will create an 'AI Force' and appoint an AI czar.",
+      "statement": "Trump announced plans to create an “AI Force” and appoint an AI czar",
       "sources": [
         {
           "outlet": "engadget",
@@ -20,33 +20,12 @@
           "outlet": "tomshardware",
           "item_id": "901587851bdecf6c64a976a6c585d41d230109b8",
           "quote": "President Trump says he will create an AI Force and appoint a new AI czar"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
-          "quote": "Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the technology"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Trump offered little detail about what the AI Force would actually do.",
-      "sources": [
-        {
-          "outlet": "theguardian",
-          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
-          "quote": "though he gave almost no details about either plan"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "a7f35bf45e5f5560d8c61137d5f0917a16ff8f7b",
-          "quote": "The president offered few details on what his proposed new AI Force would do."
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "Trump dismissed AI safety warnings, framing the backlash as unfounded.",
+      "statement": "Trump dismissed AI safety warnings and the AI backlash as a hoax",
       "sources": [
         {
           "outlet": "techcrunch",
@@ -59,26 +38,40 @@
           "quote": "dismissing safety warnings as hoaxes"
         }
       ]
-    }
-  ],
-  "discrepancies": [
+    },
     {
-      "kind": "framing",
-      "severity": "low",
-      "explanation": "arstechnica frames the announcement as Trump rejecting AI slowdown calls, while theverge reports Trump's own pledge not to hinder AI development.",
-      "quotes": [
+      "id": "c3",
+      "statement": "The president gave few or no details about what the AI Force would do",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "76b6b88ea3061fc2b70873779bbd3e0cb3004e82",
+          "quote": "he gave almost no details about either plan. As global fears over AI have grown, especially in the past week"
+        },
         {
           "outlet": "arstechnica",
           "item_id": "a7f35bf45e5f5560d8c61137d5f0917a16ff8f7b",
-          "quote": "Trump rejects AI slowdown calls, launches \"AI Force\" instead"
-        },
+          "quote": "The president offered few details on what his proposed new AI Force would do."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Trump later said the US is “officially” renaming artificial intelligence to “super intelligence”",
+      "sources": [
         {
           "outlet": "theverge",
-          "item_id": "ba91ca58495db0274e07e6ad1c709d85005b9346",
-          "quote": "will not in any way hinder"
+          "item_id": "5d6a730c146110e70a10c6cbae57f79a6f901c51",
+          "quote": "Trump says the US is officially renaming AI to ‘super intelligence’"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "04f0d8ca634c4ae401de21c9b1d5ce9833bcae3e",
+          "quote": "Will Trump's AI rebrand as 'super intelligence' catch on?"
         }
       ]
     }
   ],
-  "agreement": "partial"
+  "discrepancies": [],
+  "agreement": "full"
 }

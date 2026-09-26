@@ -1,1 +1,77 @@
-{"cluster_id": "2026-09-22-4063b9", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-23T02:25:00Z", "headline": "British Columbia sues OpenAI over school shooting", "summary": "British Columbia has sued OpenAI, alleging a mass shooting at a Tumbler Ridge school could have been prevented if the company had warned authorities about the shooter's ChatGPT use.", "claims": [{"id": "c1", "statement": "British Columbia has sued OpenAI over the Tumbler Ridge school shooting.", "sources": [{"outlet": "theguardian", "item_id": "78b546b7332d408b17ba8e470e4376ebe86c3050", "quote": "British Columbia has sued OpenAI in California"}, {"outlet": "engadget", "item_id": "c9bb70658767602659b455d4fa0f5626d1310245", "quote": "The Canadian province of British Columbia has sued OpenAI"}, {"outlet": "arstechnica", "item_id": "f5795de5b2fbaacf1ce2e317bf58b004f5361b3f", "quote": "British Columbia sues OpenAI"}]}, {"id": "c2", "statement": "The lawsuit alleges the attack could have been prevented had OpenAI warned police about the shooter's ChatGPT use.", "sources": [{"outlet": "theguardian", "item_id": "78b546b7332d408b17ba8e470e4376ebe86c3050", "quote": "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use"}, {"outlet": "engadget", "item_id": "c9bb70658767602659b455d4fa0f5626d1310245", "quote": "failing to notify authorities about the Tumbler Ridge shooter's chats"}]}, {"id": "c3", "statement": "Ars Technica reports the lawsuit demands OpenAI pay for a new school.", "sources": [{"outlet": "arstechnica", "item_id": "f5795de5b2fbaacf1ce2e317bf58b004f5361b3f", "quote": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-22-4063b9",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "British Columbia sues OpenAI over Tumbler Ridge school shooting",
+  "summary": "British Columbia has sued OpenAI and Sam Altman, alleging a mass shooting at a Tumbler Ridge school could have been prevented if OpenAI had warned police that the shooter had used ChatGPT. The suit demands OpenAI pay for a new school, and Tom's Hardware reports OpenAI reviewers reportedly wanted to alert police before the attack.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "British Columbia sued OpenAI and Sam Altman over the Tumbler Ridge school shooting",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "78b546b7332d408b17ba8e470e4376ebe86c3050",
+          "quote": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "a6ee2d2228ab2302f747ed1028b4d5a89b08b2fb",
+          "quote": "British Columbia sues OpenAI and Sam Altman"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The lawsuit alleges OpenAI should have warned police that the shooter had used ChatGPT before the attack",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c9bb70658767602659b455d4fa0f5626d1310245",
+          "quote": "for failing to notify authorities about the Tumbler Ridge shooter's chats."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "a6ee2d2228ab2302f747ed1028b4d5a89b08b2fb",
+          "quote": "B.C. is demanding compensation after it says OpenAI's reviewers wanted to call police about the Tumbler Ridge shooter before the attack."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The lawsuit demands OpenAI pay for a new school after ChatGPT was used in the shooting",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "f5795de5b2fbaacf1ce2e317bf58b004f5361b3f",
+          "quote": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Only Tom's Hardware reports that OpenAI's reviewers reportedly wanted to call police before the attack; other outlets describe only a general failure to notify authorities.",
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "a6ee2d2228ab2302f747ed1028b4d5a89b08b2fb",
+          "quote": "B.C. is demanding compensation after it says OpenAI's reviewers wanted to call police about the Tumbler Ridge shooter before the attack."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c9bb70658767602659b455d4fa0f5626d1310245",
+          "quote": "for failing to notify authorities about the Tumbler Ridge shooter's chats."
+        }
+      ],
+      "claim_ids": [
+        "c2"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,1 +1,88 @@
-{"cluster_id": "2026-09-22-24fee6", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "Xbox Cuts More Jobs as Activision Takes Over Halo Franchise", "summary": "Microsoft laid off Xbox staff and handed the Halo, Sea of Thieves and Age of Empires franchises to Activision as part of its ongoing gaming 'reset', according to The Verge, BBC and Engadget. Outlets give different figures for the day's job cuts and for the total planned losses under the reset.", "claims": [{"id": "c1", "statement": "Microsoft is laying off around 268 Xbox employees.", "sources": [{"outlet": "theverge", "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac", "quote": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close"}, {"outlet": "engadget", "item_id": "5efea3a0727688607c3fdc322cad92636a750d7d", "quote": "268 job cuts"}, {"outlet": "theverge", "item_id": "15d62387a1336a0a483cb389366e66e2c8cdbfa4", "quote": "Microsoft cut 268 jobs across its gaming division this week"}]}, {"id": "c2", "statement": "Activision is taking over the Halo franchise (and others).", "sources": [{"outlet": "theverge", "item_id": "7976c3075a55a3817684721536bbe257fd951d1a", "quote": "Activision is taking over Halo as part of a massive Xbox shake-up"}, {"outlet": "bbc-technology", "item_id": "4125599a8a0d506401c9637d0df99594eeddba14", "quote": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs"}]}, {"id": "c3", "statement": "The cuts are part of a broader Xbox 'reset' announced in July.", "sources": [{"outlet": "theverge", "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac", "quote": "as part of an ongoing \"reset\" of its gaming business"}, {"outlet": "bbc-technology", "item_id": "4125599a8a0d506401c9637d0df99594eeddba14", "quote": "The news comes as part of a \"reset\" announced by Xbox in July"}]}, {"id": "c4", "statement": "Ninja Theory studio may close.", "sources": [{"outlet": "theverge", "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac", "quote": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close"}, {"outlet": "engadget", "item_id": "5efea3a0727688607c3fdc322cad92636a750d7d", "quote": "a probably closure of Ninja Theory"}]}], "discrepancies": [{"kind": "number", "severity": "high", "explanation": "Outlets differ on the day's layoff count: The Verge's lede says around 260 Xbox employees while Engadget's headline says 268.", "quotes": [{"outlet": "theverge", "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac", "quote": "laying off around 260 Xbox employees today"}, {"outlet": "engadget", "item_id": "5efea3a0727688607c3fdc322cad92636a750d7d", "quote": "268 job cuts"}], "claim_ids": ["c1"]}, {"kind": "number", "severity": "high", "explanation": "Outlets give different totals for the roles planned to be cut under the Xbox reset: The Verge cites 3,200, BBC cites 3,600.", "quotes": [{"outlet": "theverge", "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac", "quote": "the 3,200 roles that were previously"}, {"outlet": "bbc-technology", "item_id": "4125599a8a0d506401c9637d0df99594eeddba14", "quote": "3,600 planned job losses overall"}], "claim_ids": ["c3"]}], "agreement": "conflicting"}
+{
+  "cluster_id": "2026-09-22-24fee6",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Microsoft's Xbox reset cuts jobs, shifts Halo to Activision",
+  "summary": "Microsoft is restructuring its Xbox division, laying off roughly 260 to 268 employees and moving franchises including Halo to Activision, while Obsidian becomes part of Bethesda. The cuts continue a 'reset' that began with earlier layoffs, and Ninja Theory may close as part of the changes.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft is restructuring Xbox studios, giving Activision the Halo franchise",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7976c3075a55a3817684721536bbe257fd951d1a",
+          "quote": "Activision is taking over Halo as part of a massive Xbox shake-up"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "4125599a8a0d506401c9637d0df99594eeddba14",
+          "quote": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft is laying off Xbox employees as part of its ongoing 'reset'",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "5efea3a0727688607c3fdc322cad92636a750d7d",
+          "quote": "Xbox 'reset' continues with 268 job cuts and Activision making the next Halo game"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac",
+          "quote": "Microsoft is laying off around 260 Xbox employees today"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Obsidian is becoming part of Bethesda as part of the shake-up",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "30ca8ad7ff1f2e54439ca9927c9fca9dbebb7d8b",
+          "quote": "Activision gets Halo , Obsidian becomes part of Bethesda, and more internal shake-ups."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Ninja Theory may close as part of the restructuring",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac",
+          "quote": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "Outlets give different counts for the week's Xbox layoffs, 268 versus around 260 employees.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "5efea3a0727688607c3fdc322cad92636a750d7d",
+          "quote": "268 job cuts and Activision making the next Halo game"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a5fe1b8bd0b10157ff13b99b75dc41bab34910ac",
+          "quote": "around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure in Xbox history.\" Today's layoffs are part of the 3,200 roles that were previously […]"
+        }
+      ],
+      "claim_ids": [
+        "c2"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

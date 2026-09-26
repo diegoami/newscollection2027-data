@@ -1,0 +1,83 @@
+{
+  "cluster_id": "2026-09-25-83b6ce",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "North Korean hackers steal hundreds of millions from Bitget",
+  "summary": "Cryptocurrency exchange Bitget disclosed that suspected North Korean hackers stole funds from its hot and warm wallets, in what TechCrunch calls the largest crypto theft so far this year. Outlets differ on the exact amount stolen, reporting figures of $351.6 million, $351 million, and $387.5 million.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Bitget disclosed that suspected North Korean hackers stole hundreds of millions from its crypto wallets",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+          "quote": "Hackers steal $351.6 million in Bitget crypto exchange hack"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "a1d444d35a88b7ae3e1a8b37948cb1aecefa8304",
+          "quote": "North Korean hackers suspected in $351M crypto theft, the largest so far this year"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Bitget blames North Korea for the theft",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "449ec06352ad4d52e1fae263d0b72416f92d25e6",
+          "quote": "Bitget blames North Korea for $387.5M crypto wallet raid"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "This is reportedly the largest crypto theft so far this year",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a1d444d35a88b7ae3e1a8b37948cb1aecefa8304",
+          "quote": "the largest so far this year"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The hackers stole funds from Bitget's hot and warm wallets",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+          "quote": "have stolen $351.6 million from its hot and warm wallets. [...]"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Outlets report different amounts stolen from Bitget: $351.6 million, $351 million, and $387.5 million.",
+      "quotes": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+          "quote": "steal $351.6 million in Bitget crypto exchange hack"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "449ec06352ad4d52e1fae263d0b72416f92d25e6",
+          "quote": "$387.5M crypto wallet raid"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-09-23-11f376",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Eight Sleep launches Pod 6 smart sleep system for $2,000",
+  "summary": "Eight Sleep has announced the Pod 6, the latest version of its smart mattress cooling system, which the company calls its 'most significant hardware launch to date.' The $2,000 device regulates bed temperature based on tracked health and sleep metrics such as breathing and heart rate.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Eight Sleep announced the Pod 6, its newest smart mattress/cooling system",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "f44f60953be580fe556466a8baea23760c467faa",
+          "quote": "Eight Sleep announces the Pod 6, its newest smart mattress cover"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "da2a618684b29c847f95e66f030574ff7ab62c2a",
+          "quote": "Eight Sleep’s new cooling hub is small enough to hide under your bed"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Pod 6 regulates bed temperature based on tracked health and sleep metrics like breathing and heart rate",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "da2a618684b29c847f95e66f030574ff7ab62c2a",
+          "quote": "Eight Sleep announced the next version of its \"intelligent sleep system\" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Eight Sleep calls the Pod 6 its 'most significant hardware launch to date'",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "da2a618684b29c847f95e66f030574ff7ab62c2a",
+          "quote": "most significant hardware launch to date,\" and it's centered around a redesigned cooling hub […]"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Pod 6 costs $2,000",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "f44f60953be580fe556466a8baea23760c467faa",
+          "quote": "It's $2,000 and it doesn't even read you a bedtime story."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

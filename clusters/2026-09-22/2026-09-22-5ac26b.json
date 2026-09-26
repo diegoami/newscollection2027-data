@@ -17,8 +17,16 @@
       "published": "2026-09-22T13:00:00Z",
       "title": "Adobe Premiere mobile is now available on Android",
       "url": "https://www.engadget.com/2265059/adobe-premiere-mobile-android/"
+    },
+    {
+      "item_id": "ebd8c3d9c44002cd4b1694e320cbfc0f95bb4b56",
+      "lede": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+      "outlet": "arstechnica",
+      "published": "2026-09-22T19:08:58Z",
+      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

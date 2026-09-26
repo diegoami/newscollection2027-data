@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-09-25-a4d929",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Microsoft confirms Windows updates cause black screen issues",
+  "summary": "Microsoft has confirmed that recent Windows updates, including August 2026 preview updates and subsequent releases, are causing some users to experience desktop loading issues such as black screens. The bug affects virtual desktops, and some affected users may need to manually restart Explorer after signing in.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft confirmed that recent Windows updates are causing desktop loading issues, including black screens",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+          "quote": "Microsoft: Recent Windows updates cause desktop loading issues"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "c2728dffcffc9185b1933826e321304cfa083726",
+          "quote": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens,"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The issue affects virtual desktops, and some users need to manually summon Explorer after signing in",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "8a4de6e80701066869b8ef93d058905ad3b1ee6c",
+          "quote": "Windows update leaves some virtual desktops staring into the void"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "8a4de6e80701066869b8ef93d058905ad3b1ee6c",
+          "quote": "Users may need to summon Explorer manually after signing in"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

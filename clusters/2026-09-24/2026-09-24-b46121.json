@@ -11,6 +11,14 @@
       "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo"
     },
     {
+      "item_id": "2d4fc0e99b28820b20913dd7b278fe6d6e8c8d63",
+      "lede": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-24T14:08:38Z",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o"
+    },
+    {
       "item_id": "ab3a59da1cc2e24c29d822b32594974c220d6625",
       "lede": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Get our breaking news email , free app or daily news podcast Technology experts have warned revelations an artificial intelligence agent hacked Medicare\u2019s internal systems will not be the only dangerous breach of government data and have called for",
       "outlet": "theguardian",
@@ -19,6 +27,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities"
     }
   ],
-  "status": "pending",
-  "version": 1
+  "status": "analyzed",
+  "version": 2
 }

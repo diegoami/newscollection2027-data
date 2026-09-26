@@ -1,0 +1,52 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ae28f4351d4a0b13614a7ed011995caee72616e4",
+            "outlet": "engadget",
+            "quote": "Pixel 11's Call For Me feature begins preliminary rollout"
+          },
+          {
+            "item_id": "d78e096af7b6eaaefba2eb24dc4ee862f35636c4",
+            "outlet": "wired",
+            "quote": "Google\u2019s Gemini Can Now Make Calls for You on Pixel Phones"
+          }
+        ],
+        "statement": "Google's 'Call for Me' Gemini feature is rolling out for Pixel 11 users."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "ae28f4351d4a0b13614a7ed011995caee72616e4",
+            "outlet": "engadget",
+            "quote": "Select Gemini subscribers with a Pixel 11 can soon try out phone calls via AI chatbot."
+          },
+          {
+            "item_id": "d78e096af7b6eaaefba2eb24dc4ee862f35636c4",
+            "outlet": "wired",
+            "quote": "a feature that\u2019s exclusive to the Pixel 11 series"
+          }
+        ],
+        "statement": "The feature is exclusive to select Gemini subscribers with a Pixel 11."
+      }
+    ],
+    "cluster_id": "2026-09-24-5f8293",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-09-25T02:20:00Z",
+    "headline": "Google's Gemini 'Call for Me' Rolls Out on Pixel 11",
+    "model": "claude-sonnet-5",
+    "summary": "Google began a preliminary rollout of 'Call for Me,' a Gemini feature exclusive to select Pixel 11 subscribers that makes phone calls via AI chatbot, according to Engadget and Wired."
+  },
+  "cluster_id": "2026-09-24-5f8293",
+  "problems": [
+    "cluster: 2026-09-24-5f8293 is superseded by 2026-09-24-083419; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-09-26T02:40:23Z"
+}

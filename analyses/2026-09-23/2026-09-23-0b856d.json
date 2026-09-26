@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-09-23-0b856d",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "YouTube adds AI custom feeds and new comment features",
+  "summary": "YouTube is rolling out AI-powered custom feeds that let viewers describe what they want to see, using Gemini to build a personalized page. The platform is also adding GIF replies, voice-powered TV comments, personalized moderation, and paid members-only communities to make comments more engaging for creators and fans.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "YouTube introduced custom feeds letting viewers describe what they want to see, powered by Gemini",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "ec5172ddcc942332d6fea2e047da137cab09961f",
+          "quote": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "1cc0661890f6f3c46ccec5cc2f53667196706823",
+          "quote": "YouTube’s Custom Feeds Give You More Control Over the Algorithm"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "YouTube is rolling out GIF replies in comments",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "001461cd1d81d21e5724c1299318bcd705579087",
+          "quote": "use GIFs in comments"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "cb8771dad7d11536edcd1b058a7e7428c251c5a6",
+          "quote": "YouTube is rolling out GIF replies"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "YouTube added voice-powered TV comments, personalized moderation, and paid members-only communities",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "cb8771dad7d11536edcd1b058a7e7428c251c5a6",
+          "quote": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

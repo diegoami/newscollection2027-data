@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-09-25-35b712",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Cricut unveils new all-in-one sticker-making machines",
+  "summary": "Cricut has announced the StickerPix Print plus Cut and StickerPix Print, new compact machines that print, cut and laminate stickers. Designed as all-in-one solutions for turning photos into pre-cut stickers, they are among the smallest machines in Cricut's current lineup.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Cricut announced new machines, the StickerPix Print plus Cut and StickerPix Print, that print, cut and laminate stickers",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "181d40f0307e12558da57e232af19417f02d0bf5",
+          "quote": "Cricut’s new compact crafter prints, cuts, and laminates stickers"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "181d40f0307e12558da57e232af19417f02d0bf5",
+          "quote": "The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations […]"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The machines are designed as all-in-one solutions for turning photos into pre-cut stickers",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "181d40f0307e12558da57e232af19417f02d0bf5",
+          "quote": "primarily designed as all-in-one solutions for turning photos and other images into pre-cut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations […]"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

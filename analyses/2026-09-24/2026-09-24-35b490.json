@@ -1,1 +1,56 @@
-{"cluster_id": "2026-09-24-35b490", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "Qualcomm Launches Snapdragon Sound Elite Chip for Audio Wearables", "summary": "Qualcomm launched its new Snapdragon Sound Elite chip for audio wearables, according to Engadget and The Verge. Engadget says the chip enables AI features on small audio devices, while The Verge says it integrates 'micro-power Wi-Fi 6E' for lossless streaming without a connected phone.", "claims": [{"id": "c1", "statement": "Qualcomm launched a new Snapdragon Sound Elite chip for audio wearables.", "sources": [{"outlet": "engadget", "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3", "quote": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables"}, {"outlet": "theverge", "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080", "quote": "Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip"}]}, {"id": "c2", "statement": "The chip enables AI features on small audio devices.", "sources": [{"outlet": "engadget", "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3", "quote": "Qualcomm has launched a new chip that will enable AI features on small audio devices."}]}, {"id": "c3", "statement": "The chip integrates 'micro-power Wi-Fi 6E' for lossless audio streaming without a connected phone.", "sources": [{"outlet": "theverge", "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080", "quote": "integrate \"micro-power Wi-Fi 6E\" right into the chip"}, {"outlet": "theverge", "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080", "quote": "could stream high-quality lossless audio that doesn't cut out when you leave your phone"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-24-35b490",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Qualcomm launches new Snapdragon Sound Elite AI audio chip",
+  "summary": "Qualcomm has launched the Snapdragon Sound Elite Gen 2, a new AI chip for audio wearables that integrates 'micro-power Wi-Fi 6E' to enable lossless streaming without dropouts. Separately, PrismML is bringing its tiny open-weight LLMs to Qualcomm-powered smart glasses, aiming for on-device AI that better uses existing computing power.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Qualcomm launched the Snapdragon Sound Elite, a new AI chip for audio wearables",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3",
+          "quote": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "a46811e743a481e5927d22137fb6a45083a16ba3",
+          "quote": "Qualcomm has launched a new chip that will enable AI features on small audio devices."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The chip integrates 'micro-power Wi-Fi 6E' to enable lossless audio streaming without cutting out",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080",
+          "quote": "Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can […]"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "PrismML is bringing its tiny open-weight LLMs to Qualcomm-powered smart glasses",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "9ef4a7c3c63171539a8e605f4e1922567cf5f8a8",
+          "quote": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "9ef4a7c3c63171539a8e605f4e1922567cf5f8a8",
+          "quote": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

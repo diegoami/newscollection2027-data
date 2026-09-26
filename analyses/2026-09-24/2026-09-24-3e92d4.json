@@ -1,1 +1,99 @@
-{"cluster_id": "2026-09-24-3e92d4", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-25T02:20:00Z", "headline": "Meta Unveils Tamagotchi-Like Muse Charm Wearable", "summary": "Meta introduced Charm, a Tamagotchi-like wearable running its Muse AI agent, according to Engadget, TechCrunch and The Register. TechCrunch describes it as another mobile home for Muse, while The Register jokes it may 'die' if neglected.", "claims": [{"id": "c1", "statement": "Meta introduced Charm, a Tamagotchi-like wearable running its Muse AI agent.", "sources": [{"outlet": "engadget", "item_id": "128eb8e71a7ea0b0437536ac7b4996cecdf482d5", "quote": "Meta put Muse in a Tamagotchi like 'Charm' device"}, {"outlet": "techcrunch", "item_id": "b03075519864836b1cd65fa183d2aef61b6ec7ed", "quote": "Meta made a Tamagotchi-like wearable for its Muse AI agent"}, {"outlet": "theregister", "item_id": "5f9986f8b84d344e560849184fdde8df39b8c163", "quote": "Zuck's Muse Charm"}]}, {"id": "c2", "statement": "The device is a small piece of hardware offering another way to access Muse.", "sources": [{"outlet": "techcrunch", "item_id": "b03075519864836b1cd65fa183d2aef61b6ec7ed", "quote": "The tiny hardware device creates another mobile home for its AI agent Muse."}]}, {"id": "c3", "statement": "The device resembles a Tamagotchi-style virtual pet.", "sources": [{"outlet": "theregister", "item_id": "5f9986f8b84d344e560849184fdde8df39b8c163", "quote": "Meta's new AI fidget is a ... Tamagotchi?"}, {"outlet": "theregister", "item_id": "5f9986f8b84d344e560849184fdde8df39b8c163", "quote": "We hope Zuck's Muse Charm doesn't die if you neglect it"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-24-3e92d4",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Meta unveils Muse Charm, a Tamagotchi-like AI wearable",
+  "summary": "Meta has unveiled the Muse Charm, a Tamagotchi-like wearable built around its Muse AI agent, resembling a chunky smartwatch without a strap. The devices will be able to recognize and interact with each other when they launch later this year, and Muse is also coming to Meta's AI glasses. The Register jokingly compares the device's care needs to a real Tamagotchi.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta unveiled the Muse Charm, a Tamagotchi-like wearable device powered by its Muse AI agent",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "128eb8e71a7ea0b0437536ac7b4996cecdf482d5",
+          "quote": "Meta put Muse in a Tamagotchi like 'Charm' device"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "b03075519864836b1cd65fa183d2aef61b6ec7ed",
+          "quote": "Meta made a Tamagotchi-like wearable for its Muse AI agent"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Muse Charm looks like a chunky smartwatch without a strap, with a big screen and lanyard",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6330e9855670eee094cbe404794539cfe6eefd45",
+          "quote": "It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Muse Charms will be able to recognize and interact with other nearby Charms",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "752f2436c805c12b96ff18550e34eb0fc37ea160",
+          "quote": "Meta’s Muse AI Charms can interact with each other"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "752f2436c805c12b96ff18550e34eb0fc37ea160",
+          "quote": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Meta's Muse AI agent is also coming to Meta's AI glasses",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "f9cb3d21756234750eead01f6812e69b3f802804",
+          "quote": "Meta's Muse AI agent is coming to its AI glasses"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The Charm's design taps into a Gen Z trend around bag charms and fashion accessories",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6374a69076e5abec24c67e93cad8189dfee2744c",
+          "quote": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "The Register frames the device jokingly as a Tamagotchi that could 'die' from neglect, while other outlets describe the Tamagotchi comparison neutrally as a design reference.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "5f9986f8b84d344e560849184fdde8df39b8c163",
+          "quote": "We hope Zuck's Muse Charm doesn't die if you neglect it"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "128eb8e71a7ea0b0437536ac7b4996cecdf482d5",
+          "quote": "Meta put Muse in a Tamagotchi like 'Charm' device"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-09-24-e8b52f",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T02:40:17Z",
+  "headline": "Nintendo wins $4.5 million default judgment in piracy suit",
+  "summary": "Nintendo won a $4.5 million default judgment against a Reddit moderator accused of distributing pirated Switch games, after the defendant failed to appear in court. The defendant had initially agreed by email to comply with a cease-and-desist letter but later cut off communication, and a judge also ordered him to shut down the alleged piracy-hosting online stores.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nintendo won a $4.5 million default judgment against a Reddit moderator for distributing pirated Switch games",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "faa07064b9bfb5560c1acb13827115e925579f18",
+          "quote": "Reddit mod ordered to pay Nintendo $4.5 million in Switch piracy lawsuit"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "c6acd43f987c2460515262fcdff3c25dbba7d6a2",
+          "quote": "Nintendo wins $4.5 million lawsuit against Switch pirate by default"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The defendant did not appear in court to respond to the allegations",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "8e6f94a71c9f8c9ad9e0b677b81f70c8bcfa2af1",
+          "quote": "It's easy to win when the defendant is a no-show."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "c6acd43f987c2460515262fcdff3c25dbba7d6a2",
+          "quote": "after the defendant failed to appear in court and respond to the allegations. The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A judge also ordered the defendant to shut down online stores allegedly housing pirated Switch game libraries",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "faa07064b9bfb5560c1acb13827115e925579f18",
+          "quote": "a Washington federal judge also ordered Williams to shut down the online stores allegedly housing libraries of pirated Switch games. Nintendo sued Williams, also known […]"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The defendant had agreed via email to comply with a cease-and-desist letter but later cut off communication",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c6acd43f987c2460515262fcdff3c25dbba7d6a2",
+          "quote": "The company claimed that it sent a cease-and-desist letter and the respondent even answered via email saying they will comply and cooperate, but they have since cut-off communications."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
