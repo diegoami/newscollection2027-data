@@ -27,6 +27,14 @@
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo"
     },
     {
+      "item_id": "af098aec7d1915c9a0343b4081a6f99905cd969a",
+      "lede": "The BBC\u2019s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-24T05:18:26Z",
+      "title": "What you need to know about the OpenAI Australian government hack",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo"
+    },
+    {
       "item_id": "94821214578f086ee71ae83ece5a5e17d9dbce89",
       "lede": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
       "outlet": "bleepingcomputer",
@@ -67,6 +75,22 @@
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
     },
     {
+      "item_id": "2d4fc0e99b28820b20913dd7b278fe6d6e8c8d63",
+      "lede": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-24T14:08:38Z",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o"
+    },
+    {
+      "item_id": "ab3a59da1cc2e24c29d822b32594974c220d6625",
+      "lede": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Get our breaking news email , free app or daily news podcast Technology experts have warned revelations an artificial intelligence agent hacked Medicare\u2019s internal systems will not be the only dangerous breach of government data and have called for",
+      "outlet": "theguardian",
+      "published": "2026-09-24T15:00:21Z",
+      "title": "AI hack of Medicare exposes Australia\u2019s vulnerabilities and experts warn \u2018there is more of this to come\u2019",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities"
+    },
+    {
       "item_id": "fe13b3d5a5fd2d5377b26cd5609cf757a4b869b6",
       "lede": "\"There will obviously be legal consequences,\" prime minister promises.",
       "outlet": "arstechnica",
@@ -81,8 +105,24 @@
       "published": "2026-09-25T05:57:17Z",
       "title": "PM rejects \u2018nonsense\u2019 suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
       "url": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack"
+    },
+    {
+      "item_id": "6c7096ff6fb555b103edeaf3c0d9fa9ca4f60786",
+      "lede": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-26T00:09:45Z",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo"
+    },
+    {
+      "item_id": "40fcd62d629436b440a47e4ecc4754cdc4b6c360",
+      "lede": "OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing.",
+      "outlet": "engadget",
+      "published": "2026-09-26T11:58:20Z",
+      "title": "OpenAI's agents targeted and infiltrated US government websites",
+      "url": "https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

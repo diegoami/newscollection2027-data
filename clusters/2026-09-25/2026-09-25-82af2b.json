@@ -3,6 +3,14 @@
   "id": "2026-09-25-82af2b",
   "items": [
     {
+      "item_id": "aa2c1d240ffede606eb860a2dd775bcc8c305de2",
+      "lede": "The US government filed an application to support the company\u2019s legal challenge against a fine issued under the bloc\u2019s Digital Services Act, which Trump has described as \u201coverseas extortion.\u201d",
+      "outlet": "wired",
+      "published": "2026-09-25T11:32:17Z",
+      "title": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
+      "url": "https://www.wired.com/story/trump-administration-is-trying-to-get-musk-and-x-out-of-a-dollar137-million-eu-fine/"
+    },
+    {
       "item_id": "60d34ff553e208048447ddcba9438c6aad3cf167",
       "lede": "Justice Department claims the EU overreached by pursuing X's owner and wider corporate empire",
       "outlet": "theregister",
@@ -20,5 +28,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

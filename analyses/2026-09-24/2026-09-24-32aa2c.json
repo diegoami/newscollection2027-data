@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-09-24-32aa2c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "New York sues Polymarket over illegal gambling",
+  "summary": "New York state is taking legal action against prediction-market operator Polymarket, with illegal gambling charges underway against four such businesses. One report frames the suit as New York defying the Trump administration, which is trying to override state gambling laws.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "New York is suing Polymarket over alleged illegal gambling.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "7a0c8b20ad7553a2d886f376b2d3363f6617f590",
+          "quote": "New York continues to fight prediction markets with a lawsuit against Polymarket"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "dea1a6c72d6660d1a71c718ace94c99eb594adaf",
+          "quote": "New York sues Polymarket"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "New York has illegal gambling charges underway against four such businesses.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "7a0c8b20ad7553a2d886f376b2d3363f6617f590",
+          "quote": "illegal gambling charges underway against four of these businesses"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Trump administration is trying to override state gambling laws, and New York's suit is asking a court to shut Polymarket down.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "dea1a6c72d6660d1a71c718ace94c99eb594adaf",
+          "quote": "Trump admin tries to override state gambling laws"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Ars Technica frames the suit as New York defying the Trump administration, while Engadget's lede describes only the illegal-gambling charges without that framing.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "dea1a6c72d6660d1a71c718ace94c99eb594adaf",
+          "quote": "New York defies Trump admin"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7a0c8b20ad7553a2d886f376b2d3363f6617f590",
+          "quote": "illegal gambling charges underway against four of these businesses"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c2"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

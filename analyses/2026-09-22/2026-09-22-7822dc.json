@@ -1,1 +1,89 @@
-{"cluster_id": "2026-09-22-7822dc", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-23T02:25:00Z", "headline": "Qualcomm unveils two Snapdragon 8 Elite Gen 6 chips", "summary": "Qualcomm announced two versions of its flagship Snapdragon 8 Elite Gen 6 chip, including an Extreme variant, with spec differences mostly limited to improved AI processing, video capture, and gaming performance.", "claims": [{"id": "c1", "statement": "Qualcomm announced two versions of its flagship chip: the Snapdragon 8 Elite Gen 6 and an Extreme variant.", "sources": [{"outlet": "engadget", "item_id": "5688d00270f814eaf070ec3861e54aae38359d62", "quote": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip"}, {"outlet": "theverge", "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a", "quote": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too."}]}, {"id": "c2", "statement": "The Verge reports the spec differences between the two chips are relatively minor, mostly improved AI processing, video capture, and gaming performance on the Extreme model.", "sources": [{"outlet": "theverge", "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a", "quote": "the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model"}]}, {"id": "c3", "statement": "Engadget highlights the chip's video capture capability.", "sources": [{"outlet": "engadget", "item_id": "5688d00270f814eaf070ec3861e54aae38359d62", "quote": "That video capture is nothing to sneeze at."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-22-7822dc",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Qualcomm launches Snapdragon 8 Elite Gen 6 chips",
+  "summary": "Qualcomm announced two new flagship phone chips, the Snapdragon 8 Elite Gen 6 and an Extreme version, with Motorola's Signature 27 among the first phones to use the Extreme model. One report says the new top chip can run a 30B-parameter model locally. Outlets differ on how notable the Extreme model's upgrades are.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Qualcomm announced two new flagship chips: the Snapdragon 8 Elite Gen 6 and an Extreme version.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "5688d00270f814eaf070ec3861e54aae38359d62",
+          "quote": "two versions of its flagship Snapdragon 8 Elite Gen 6 chip"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a",
+          "quote": "comes in an Extreme version too"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Motorola's Signature 27 is among the first phones to use the Extreme Gen 6 chip.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "4d5e3079798a6f8cedcbf1121e415e15b3793595",
+          "quote": "runs Qualcomm’s new Extreme chipset"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "bb9e5b4b5c6f157b9d7acf67b34d367c72c0feb2",
+          "quote": "among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new top chip can run a 30-billion-parameter mixture-of-experts model locally.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "948ab460c8b3929a7da38566d500671a54735742",
+          "quote": "its new top chip can run 30B mixture-of-expert model locally"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Extreme model's improvements are mostly limited to AI processing, video capture, and gaming performance.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a",
+          "quote": "mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Engadget highlights the video-capture upgrade as notable, while The Verge characterizes the Extreme model's spec differences as relatively minor.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "5688d00270f814eaf070ec3861e54aae38359d62",
+          "quote": "That video capture is nothing to sneeze at."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "b5e5673b65c567e0404c39e4641eff90a1d0742a",
+          "quote": "the spec differences are relatively minor"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

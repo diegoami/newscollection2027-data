@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-09-24-2d40c0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Cold drink can boosts iPhone 18 Pro benchmark scores",
+  "summary": "An enthusiast cooled an iPhone 18 Pro with a cold can of La Croix sparkling water during a prolonged benchmarking session, and the phone showed up to 25% higher sustained performance, illustrating the effect of extra cooling on thermal throttling.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "An enthusiast, Matt Birchler, cooled an iPhone 18 Pro with a cold drink can during a benchmarking session.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b7c2d5fef5c4fd1a2fc255eb833df2a7b86b17af",
+          "quote": "iPhone 18 Pro benchmark boosted by giving it a cold drink"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "cf294c8bfe6ef3695b98b457e1f70f223329d37d",
+          "quote": "Matt Birchler put a cold drink can on the back of an iPhone 18 Pro to see how much performance uplift it would get in a prolonged benchmarking session"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The cold-can cooling improved the phone's sustained benchmark performance.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b7c2d5fef5c4fd1a2fc255eb833df2a7b86b17af",
+          "quote": "the fridge helped with sustained performance"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "cf294c8bfe6ef3695b98b457e1f70f223329d37d",
+          "quote": "showed up to 25% higher sustained performance from the cold drink"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The specific can used was La Croix sparkling water, and the boost measured up to 25%.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "cf294c8bfe6ef3695b98b457e1f70f223329d37d",
+          "quote": "cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

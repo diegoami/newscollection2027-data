@@ -1,0 +1,112 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "f14add291823ead7c15088f6399c781ecb81b55b",
+            "outlet": "engadget",
+            "quote": "Meta announces Ray-Ban Meta Audio, its first smart glasses without a camera"
+          },
+          {
+            "item_id": "b8569e46aaeee2e500809da9a155411285666dd4",
+            "outlet": "techcrunch",
+            "quote": "Meta introduces camera-free AI glasses"
+          }
+        ],
+        "statement": "Meta announced its first camera-free smart glasses, Ray-Ban Meta Audio."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "b8569e46aaeee2e500809da9a155411285666dd4",
+            "outlet": "techcrunch",
+            "quote": "lighter and have up to 12 hours battery life"
+          }
+        ],
+        "statement": "The camera-free glasses are lighter and have up to 12 hours of battery life."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "c64637a34cdd534065b33aab2a80139cd375fbec",
+            "outlet": "theverge",
+            "quote": "Meta\u2019s next VR device isn\u2019t a headset"
+          },
+          {
+            "item_id": "9a13df0d58adbc0db52e36a3d223b884600ceb12",
+            "outlet": "wired",
+            "quote": "a slimmed-down VR headset"
+          }
+        ],
+        "statement": "Meta unveiled new VR Glasses that sit on the ears like regular glasses rather than a full headset."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+            "outlet": "engadget",
+            "quote": "Meta's $1,300 VR Glasses"
+          },
+          {
+            "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+            "outlet": "engadget",
+            "quote": "Hand and eye tracking is so much better than a controller"
+          }
+        ],
+        "statement": "The new Meta VR Glasses are priced at $1,300 and use hand and eye tracking instead of a controller."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "1850364dd521821959ead78165838abee234fbb0",
+            "outlet": "wired",
+            "quote": "bringing its Private Processing encryption service to its much-maligned smart glasses"
+          }
+        ],
+        "statement": "Meta is bringing a Private Processing encryption service to its smart glasses."
+      }
+    ],
+    "cluster_id": "2026-09-23-6f8b5f",
+    "cluster_version": 4,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c3",
+          "c4"
+        ],
+        "explanation": "One Engadget piece frames the VR Glasses as a Vision Pro-rivaling successor, while another Engadget piece frames the same device as more portable but less immersive than a full headset.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+            "outlet": "engadget",
+            "quote": "Meta's VR Glasses are the real Vision Pro successor"
+          },
+          {
+            "item_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+            "outlet": "engadget",
+            "quote": "more portable but less immersive device"
+          }
+        ],
+        "severity": "medium"
+      }
+    ],
+    "generated_at": "2026-09-26T15:30:00Z",
+    "headline": "Meta unveils camera-free glasses and VR Glasses at Connect",
+    "model": "claude-sonnet-5",
+    "summary": "At Meta Connect 2026, Meta introduced its first camera-free smart glasses, Ray-Ban Meta Audio, and new Meta VR Glasses that sit like eyewear rather than a full headset, priced at $1,300 and using hand and eye tracking. Meta also said it is bringing a Private Processing encryption service to its smart glasses. Outlets differ on how impressive or immersive the new VR Glasses are."
+  },
+  "cluster_id": "2026-09-23-6f8b5f",
+  "problems": [
+    "discrepancy 0: quotes span 1 outlet(s); a disagreement needs at least two"
+  ],
+  "rejected_at": "2026-09-26T14:49:14Z"
+}

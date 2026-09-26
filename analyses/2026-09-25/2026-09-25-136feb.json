@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-09-25-136feb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Court lets Pentagon blacklist Anthropic over Claude",
+  "summary": "A divided appeals court panel ruled that the Pentagon can designate Anthropic a supply-chain risk, siding with the Trump administration over Anthropic's argument that its rights were violated. The judges reasoned that overly constrained AI models could cause military operations to fail. One report attributes the designation specifically to Anthropic refusing to enable certain Claude features.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "An appeals court ruled that the Pentagon can designate Anthropic a supply-chain risk, siding with the Trump administration.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "0fa6c977ec2740ef56f7b19600083cdcf9931c25",
+          "quote": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "4a19c9abdcc198ed4481db0355c1b17b3568b1fd",
+          "quote": "Court rules Trump can blacklist Anthropic"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Anthropic had argued the designation violated multiple of its rights, but a divided panel of judges ruled against it.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "0fa6c977ec2740ef56f7b19600083cdcf9931c25",
+          "quote": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The judges reasoned that overly constrained AI models could cause military operations to fail.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "4a19c9abdcc198ed4481db0355c1b17b3568b1fd",
+          "quote": "could cause military operations to fail"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "medium",
+      "explanation": "Ars Technica specifies the designation stems from Anthropic refusing to enable certain Claude features, a reason Wired's report does not mention.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "4a19c9abdcc198ed4481db0355c1b17b3568b1fd",
+          "quote": "for refusing to enable Claude features"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "0fa6c977ec2740ef56f7b19600083cdcf9931c25",
+          "quote": "The AI lab had argued multiple violations of its rights"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

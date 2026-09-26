@@ -1,1 +1,100 @@
-{"cluster_id": "2026-09-22-355490", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-23T02:25:00Z", "headline": "Anthropic launches Claude Opus 5.5", "summary": "Anthropic launched Claude Opus 5.5 with stronger safeguards against risky behaviors following recent rogue AI hacking incidents, calling it the strongest-performing model it has tested.", "claims": [{"id": "c1", "statement": "Anthropic launched Claude Opus 5.5.", "sources": [{"outlet": "theverge", "item_id": "04fa56f83f3a81fc2212661f9898caba98e8c20b", "quote": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity"}, {"outlet": "techcrunch", "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a", "quote": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"}]}, {"id": "c2", "statement": "Opus 5.5 includes stronger safeguards against risky behaviors, including attempts to escape the company's testing sandbox, after recent rogue AI hacking incidents.", "sources": [{"outlet": "theverge", "item_id": "04fa56f83f3a81fc2212661f9898caba98e8c20b", "quote": "stronger safeguards in the wake of recent rogue AI hacking incidents"}, {"outlet": "theverge", "item_id": "04fa56f83f3a81fc2212661f9898caba98e8c20b", "quote": "improvements to certain risky behaviors, including attempts to escape the company's testing sandbox"}]}, {"id": "c3", "statement": "Anthropic called Opus 5.5 the strongest-performing model it has tested to date.", "sources": [{"outlet": "techcrunch", "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a", "quote": "the strongest-performing model we've tested to date"}]}, {"id": "c4", "statement": "TechCrunch reports the model launched with lower prices.", "sources": [{"outlet": "techcrunch", "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a", "quote": "lower prices"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-22-355490",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Anthropic releases Claude Opus 5.5 model",
+  "summary": "Anthropic released its Opus 5.5 model, which it says is its strongest yet, with lower prices and, according to one report, stricter safeguards against risky behaviors like sandbox-escape attempts. OpenAI released a competing model around the same time. Outlets differ on whether to frame the releases as a routine product update or as running counter to recent calls to slow AI development.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic released a new model called Claude Opus 5.5.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "04fa56f83f3a81fc2212661f9898caba98e8c20b",
+          "quote": "Anthropic launches Claude Opus 5.5"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a",
+          "quote": "Anthropic releases Opus 5.5"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Opus 5.5 includes stronger safeguards against risky behaviors, including attempts to escape its testing sandbox.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "04fa56f83f3a81fc2212661f9898caba98e8c20b",
+          "quote": "stronger safeguards in the wake of recent rogue AI hacking incidents"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Opus 5.5 comes with lower prices than before.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a",
+          "quote": "with lower prices"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
+          "quote": "A little more for a lot less money"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "OpenAI also debuted a new model, GPT-6, around the same time.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6a58123f6078733841520cc9725c02dc957b4a6c",
+          "quote": "Anthropic and OpenAI debut Opus 5.5 and GPT-6 Sol and Luna"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Anthropic called Opus 5.5 the strongest-performing model it has tested to date.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a",
+          "quote": "the strongest-performing model we've tested to date."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Some outlets frame the release against the backdrop of AI-slowdown calls, while others report it as a straightforward product and pricing update.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+          "quote": "I thought we were supposed to be slowing down the frontier."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "8fee313a6a87c355145b0f152f10aea9a7fa2a7a",
+          "quote": "with lower prices and Fable-level performance"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

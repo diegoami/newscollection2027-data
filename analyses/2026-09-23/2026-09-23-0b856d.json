@@ -1,31 +1,31 @@
 {
   "cluster_id": "2026-09-23-0b856d",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-26T02:40:17Z",
-  "headline": "YouTube adds AI custom feeds and new comment features",
-  "summary": "YouTube is rolling out AI-powered custom feeds that let viewers describe what they want to see, using Gemini to build a personalized page. The platform is also adding GIF replies, voice-powered TV comments, personalized moderation, and paid members-only communities to make comments more engaging for creators and fans.",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "YouTube adds AI custom feeds and new comment tools",
+  "summary": "YouTube is rolling out custom feeds that let users describe what they want to see, built with Gemini, along with GIF replies, voice-powered TV comments, personalized moderation, and paid members-only communities. Outlets differ on whether these AI features are arriving now or are still mostly to come later this year.",
   "claims": [
     {
       "id": "c1",
-      "statement": "YouTube introduced custom feeds letting viewers describe what they want to see, powered by Gemini",
+      "statement": "YouTube is introducing custom feeds that let users describe what they want to see, built using Gemini.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "ec5172ddcc942332d6fea2e047da137cab09961f",
-          "quote": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
+          "quote": "use Gemini to build a personalized feed around the request"
         },
         {
           "outlet": "wired",
           "item_id": "1cc0661890f6f3c46ccec5cc2f53667196706823",
-          "quote": "YouTube’s Custom Feeds Give You More Control Over the Algorithm"
+          "quote": "Custom Feeds Give You More Control Over the Algorithm"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "YouTube is rolling out GIF replies in comments",
+      "statement": "YouTube is adding GIF replies and GIFs in comments.",
       "sources": [
         {
           "outlet": "engadget",
@@ -41,16 +41,54 @@
     },
     {
       "id": "c3",
-      "statement": "YouTube added voice-powered TV comments, personalized moderation, and paid members-only communities",
+      "statement": "YouTube is also rolling out voice-powered TV comments, personalized moderation, and paid members-only communities.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "cb8771dad7d11536edcd1b058a7e7428c251c5a6",
-          "quote": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators."
+          "quote": "voice-powered TV comments, personalized moderation, paid members-only communities"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "YouTube plans a bigger focus on AI and livestreams later this year.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "25698732c6b8e24b913f537fbdaeb61763ddee2d",
+          "quote": "later this year"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "25698732c6b8e24b913f537fbdaeb61763ddee2d",
+          "quote": "a big focus on AI and livestreams"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Wired describes the custom-feeds rollout as part of YouTube's latest update, while Ars Technica frames much of the AI push as still to come later this year.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "1cc0661890f6f3c46ccec5cc2f53667196706823",
+          "quote": "In YouTube’s latest update"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "25698732c6b8e24b913f537fbdaeb61763ddee2d",
+          "quote": "later this year"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

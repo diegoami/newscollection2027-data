@@ -1,51 +1,66 @@
 {
   "cluster_id": "2026-09-25-82af2b",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-26T02:40:17Z",
-  "headline": "US backs Musk in fight over EU tech fine",
-  "summary": "The Trump administration's Justice Department is backing Elon Musk in his fight against a €120 million EU fine on X, imposed under the Digital Services Act. Washington argues Brussels overreached in pursuing X's owner and his wider corporate empire.",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Trump administration backs Musk's X in EU fine dispute",
+  "summary": "The Trump administration is backing Musk's X in its legal challenge against an EU fine issued under the Digital Services Act, with the Justice Department arguing Brussels overreached. Outlets differ on the size of the fine, citing figures in different currencies that are not reconciled.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The Trump administration is siding with Elon Musk in his fight against a €120 million EU fine on X",
+      "statement": "The Trump administration is supporting X's legal challenge against an EU fine under the Digital Services Act.",
       "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "aa2c1d240ffede606eb860a2dd775bcc8c305de2",
+          "quote": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act"
+        },
         {
           "outlet": "arstechnica",
           "item_id": "d69a4fb8620f03c21745a820d2435a67a57f4b6c",
           "quote": "Trump administration takes Musk’s side in fight over EU tech rules"
-        },
-        {
-          "outlet": "theregister",
-          "item_id": "60d34ff553e208048447ddcba9438c6aad3cf167",
-          "quote": "Uncle Sam wants in on Musk's €120M fight with Brussels"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The Justice Department claims the EU overreached in pursuing X's owner and wider corporate empire",
+      "statement": "The Justice Department argues the EU overreached in pursuing X and its owner.",
       "sources": [
         {
           "outlet": "theregister",
           "item_id": "60d34ff553e208048447ddcba9438c6aad3cf167",
           "quote": "Justice Department claims the EU overreached by pursuing X's owner and wider corporate empire"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The fine was imposed under the EU's Digital Services Act",
-      "sources": [
+        },
         {
           "outlet": "arstechnica",
           "item_id": "d69a4fb8620f03c21745a820d2435a67a57f4b6c",
-          "quote": "Washington says Brussels overreached when it fined X €120 million under the DSA."
+          "quote": "Washington says Brussels overreached when it fined X"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Wired cites the fine as $137 million while The Register and Ars Technica cite it as €120 million, without reconciling the currency difference.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "aa2c1d240ffede606eb860a2dd775bcc8c305de2",
+          "quote": "$137 Million EU Fine"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d69a4fb8620f03c21745a820d2435a67a57f4b6c",
+          "quote": "fined X €120 million under the DSA"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "conflicting"
 }

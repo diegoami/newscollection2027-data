@@ -1,36 +1,47 @@
 {
   "cluster_id": "2026-09-22-3742bb",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-26T02:40:17Z",
-  "headline": "US and China propose AI hotline, but it won't be ready soon",
-  "summary": "The US and China have proposed AI 'red lines' and a hotline for rapid communication and joint responses to rogue AI actions, as the two countries look for ways to manage AI-related national security risks. Wired reports the hotline system won't be ready for a while, even as the countries race for AI dominance.",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "US and China discuss hotline for AI safety incidents",
+  "summary": "The US and China have discussed setting up a communication channel for AI-related national-security incidents ahead of a Washington summit. Outlets differ on how advanced the plan is: one describes a joint proposal with agreed red lines, another says China has stayed silent and tech experts were left out, and a third says any working hotline is far from ready.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The US and China have proposed a hotline to communicate on AI-related national security issues",
+      "statement": "The US and China have proposed a communication channel, or hotline, to address AI-related national-security incidents.",
       "sources": [
         {
           "outlet": "tomshardware",
           "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
-          "quote": "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+          "quote": "propose hotline to de-escalate AI threats"
         },
         {
           "outlet": "wired",
           "item_id": "cdf5468b79169b1736ca81034236721587c7c77b",
-          "quote": "the countries also appear to be figuring out ways to communicate on national security issues."
+          "quote": "figuring out ways to communicate on national security issues"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The proposed hotline would allow rapid communication and joint responses to rogue AI actions",
+      "statement": "China has not publicly responded to the plan, and technical experts were left out of it.",
       "sources": [
         {
-          "outlet": "tomshardware",
-          "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
-          "quote": "The U.S. and China have proposed implementing AI red lines that will not be crossed, as well as a hotline between the two countries to provide rapid communication and opportunities for joint responses to rogue AI actions."
+          "outlet": "arstechnica",
+          "item_id": "c1c97de161b0f3b750ced0f4c73fe28d07c12679",
+          "quote": "omits tech experts"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A working hotline is not expected to be ready soon.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "cdf5468b79169b1736ca81034236721587c7c77b",
+          "quote": "Won't Be Ready For a While"
         }
       ]
     }
@@ -38,22 +49,23 @@
   "discrepancies": [
     {
       "kind": "framing",
-      "severity": "low",
-      "explanation": "Wired frames the hotline as not imminent, while Tom's Hardware reports the proposal without noting a timeline.",
+      "severity": "medium",
+      "explanation": "Tom's Hardware frames the hotline as an agreed bilateral proposal already moving forward, while Ars Technica frames China as unresponsive and the process as stalled.",
       "quotes": [
-        {
-          "outlet": "wired",
-          "item_id": "cdf5468b79169b1736ca81034236721587c7c77b",
-          "quote": "A US-China AI Hotline Won't Be Ready For a While"
-        },
         {
           "outlet": "tomshardware",
           "item_id": "ef62448e14a64014d6d654c923dc78ee85fd6793",
-          "quote": "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+          "quote": "propose hotline to de-escalate AI threats"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "c1c97de161b0f3b750ced0f4c73fe28d07c12679",
+          "quote": "China silent as US touts plan"
         }
       ],
       "claim_ids": [
-        "c1"
+        "c1",
+        "c2"
       ]
     }
   ],

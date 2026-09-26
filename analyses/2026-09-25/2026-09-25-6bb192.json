@@ -1,62 +1,78 @@
 {
   "cluster_id": "2026-09-25-6bb192",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-26T02:40:17Z",
-  "headline": "Tesla's Semi truck finally hits the road at scale",
-  "summary": "Nearly a decade after it was unveiled, Tesla's Semi truck is finally reaching the road in large numbers. The 500-mile-range truck was showcased at a Nevada event for fleet managers, with Tesla saying it plans to produce 50,000 units a year.",
+  "generated_at": "2026-09-26T15:30:00Z",
+  "headline": "Tesla's electric Semi truck reaches the road",
+  "summary": "Nearly a decade after it was first shown, Tesla's Semi electric truck, with a 500-mile range, is arriving in larger numbers, with Tesla saying it plans to build 50,000 units a year. One report frames the rollout as a milestone for clean transportation, while another says charging-infrastructure gaps still limit electric trucking.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Tesla's Semi truck is finally reaching the road in large numbers after a decade of work and delays",
+      "statement": "Tesla's Semi truck, with a 500-mile range, is now reaching the road after years of delay.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "509ed3fce69e4936db09cf74683b05733ee300e7",
-          "quote": "Tesla finally moves to electrify trucking after a decade of work and delays"
-        },
         {
           "outlet": "wired",
           "item_id": "dde1c56ba1943f57922583adee492a383860ddb2",
           "quote": "Nearly a Decade Later, the Electric Tesla Semi Is Here"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "509ed3fce69e4936db09cf74683b05733ee300e7",
+          "quote": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The Semi has a 500-mile range",
+      "statement": "Tesla says it plans to make 50,000 Semi units a year.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "509ed3fce69e4936db09cf74683b05733ee300e7",
-          "quote": "Tesla's Semi truck, with a 500-mile range"
+          "quote": "the company saying it plans to make 50,000 units a year"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "Tesla plans to produce 50,000 units a year",
+      "statement": "Charging-infrastructure gaps still limit electric trucking despite the Semi's arrival.",
       "sources": [
         {
-          "outlet": "techcrunch",
-          "item_id": "509ed3fce69e4936db09cf74683b05733ee300e7",
-          "quote": "the company saying it plans to make 50,000 units a year."
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "The milestone was marked at a Nevada event aimed at fleet managers",
-      "sources": [
+          "outlet": "arstechnica",
+          "item_id": "e899f09f9f933c2b399e7f2a27334470352a7c1d",
+          "quote": "faces an even bigger infrastructure challenge"
+        },
         {
-          "outlet": "wired",
-          "item_id": "dde1c56ba1943f57922583adee492a383860ddb2",
-          "quote": "A Nevada event aimed at a niche audience of fleet managers could mark a milestone in clean transportation."
+          "outlet": "arstechnica",
+          "item_id": "e899f09f9f933c2b399e7f2a27334470352a7c1d",
+          "quote": "charging gaps still limit electric trucking"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "Wired frames the Semi's arrival as a potential milestone for clean transportation, while Ars Technica frames the same launch as overshadowed by charging-infrastructure limits.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "dde1c56ba1943f57922583adee492a383860ddb2",
+          "quote": "could mark a milestone in clean transportation"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "e899f09f9f933c2b399e7f2a27334470352a7c1d",
+          "quote": "faces an even bigger infrastructure challenge"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

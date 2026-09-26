@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+            "outlet": "engadget",
+            "quote": "Anthropic and OpenAI announce more powerful (and cheaper) AI models"
+          },
+          {
+            "item_id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
+            "outlet": "arstechnica",
+            "quote": "New Anthropic, OpenAI models make same promise: A little more for a lot less money"
+          }
+        ],
+        "statement": "Anthropic and OpenAI both announced new AI models that are more powerful and cheaper."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "5618ffbe19d5709c91eda9d0e6e11b693b7cff3b",
+            "outlet": "arstechnica",
+            "quote": "The frontier AI model race has entered its comparison shopping phase."
+          }
+        ],
+        "statement": "Ars Technica frames the releases as the frontier AI model race entering a \"comparison shopping phase.\""
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "4777b45e0b6a215c2a91be9e4c6d0d89e22ae468",
+            "outlet": "engadget",
+            "quote": "I thought we were supposed to be slowing down the frontier."
+          }
+        ],
+        "statement": "Engadget notes the releases come despite talk of slowing down AI development."
+      }
+    ],
+    "cluster_id": "2026-09-22-175e35",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-09-23T02:25:00Z",
+    "headline": "Anthropic and OpenAI release cheaper, stronger models",
+    "model": "claude-sonnet-5",
+    "summary": "Anthropic and OpenAI both announced new AI models that are more powerful and cheaper, with outlets framing the releases as the frontier AI race entering a comparison-shopping phase."
+  },
+  "cluster_id": "2026-09-22-175e35",
+  "problems": [
+    "cluster: 2026-09-22-175e35 is superseded by 2026-09-22-355490; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-09-26T14:49:14Z"
+}
