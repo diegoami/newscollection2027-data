@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4bf76d6234439f9d68800c76b5c5ccddc68f74d9",
+    "lede": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-22T16:32:47Z",
+    "title": "Check Point warns of Management Server zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+    "lede": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T21:41:07Z",
+    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/"
+  },
+  "score": 0.623108
+}

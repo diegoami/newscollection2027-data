@@ -35,6 +35,7 @@
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-09-24-c8d6eb",
   "version": 1
 }

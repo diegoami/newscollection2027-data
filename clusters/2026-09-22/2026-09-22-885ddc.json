@@ -41,8 +41,16 @@
       "published": "2026-09-23T21:46:36Z",
       "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
       "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/"
+    },
+    {
+      "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+      "lede": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-25T13:56:16Z",
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o"
     }
   ],
   "status": "pending",
-  "version": 3
+  "version": 4
 }

@@ -19,6 +19,7 @@
       "url": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-09-24-083419",
   "version": 1
 }

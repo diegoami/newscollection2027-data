@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "22c8166b45dcc750c57782c2f05c75c39467af9f",
+    "lede": "Disclosure reveals \u2060new area of privacy risk for the company and illustrates \u200bhow difficult it is to inventory unauthorized activity tied to its agents Two \u2060months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters. The",
+    "outlet": "theguardian",
+    "published": "2026-09-25T22:55:19Z",
+    "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
+    "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt"
+  },
+  "b": {
+    "item_id": "b043d9d03d29d7a8884e39862cabb6ae73ffb481",
+    "lede": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+    "outlet": "techcrunch",
+    "published": "2026-09-25T17:29:46Z",
+    "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+  },
+  "score": 0.576581
+}
