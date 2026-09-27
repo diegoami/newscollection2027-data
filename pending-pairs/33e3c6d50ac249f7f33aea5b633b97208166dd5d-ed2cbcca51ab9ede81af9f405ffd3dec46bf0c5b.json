@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33e3c6d50ac249f7f33aea5b633b97208166dd5d",
+    "lede": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+    "outlet": "engadget",
+    "published": "2026-09-24T10:01:55Z",
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "url": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/"
+  },
+  "b": {
+    "item_id": "ed2cbcca51ab9ede81af9f405ffd3dec46bf0c5b",
+    "lede": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-27T17:21:07Z",
+    "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+  },
+  "score": 0.573643
+}

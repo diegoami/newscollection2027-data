@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "44db897d4935fdb77c40477fc139088e6c7f9392",
+    "lede": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-27T16:02:37Z",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+  },
+  "b": {
+    "item_id": "b9e09eb7f6ca00abe0b406adcd927344f5ea9565",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T17:24:20Z",
+    "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+  },
+  "score": 0.592002
+}
