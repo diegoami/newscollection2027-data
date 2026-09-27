@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b02666adfcfc3bcd65905b10095c6f4a6b35e185",
+    "lede": "SharpEmu\u2019s latest release can run six tested PS5 games at 60 FPS, with 12 of 55 titles now reaching gameplay state, as developers improve shader translation and Vulkan support.",
+    "outlet": "tomshardware",
+    "published": "2026-09-27T12:40:00Z",
+    "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support"
+  },
+  "b": {
+    "item_id": "b6eaa5b956624e12582b8690437635d6a1bf481b",
+    "lede": "Traditional PS5 emulators attempt to recreate the console's hardware and software environment, but AnyPS5 is experimenting with a compatibility layer that translates PlayStation 5 executables into formats that can run on Windows and Linux.",
+    "outlet": "tomshardware",
+    "published": "2026-09-26T13:59:04Z",
+    "title": "Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC",
+    "url": "https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux"
+  },
+  "score": 0.585251
+}
