@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "1d7ffbbb06c8df77d30288362505fb7f060b7802",
-    "lede": "Better thermals and battery life make this iterative update nicer to use.",
-    "outlet": "arstechnica",
-    "published": "2026-09-25T19:34:42Z",
-    "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-    "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/"
+    "item_id": "65e6b25a8c9e86d6e1b90a18d847f0247e026d95",
+    "lede": "The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?",
+    "outlet": "engadget",
+    "published": "2026-09-26T22:45:00Z",
+    "title": "iPhone 18 Pro vs. iPhone 17 Pro: What's new?",
+    "url": "https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/"
   },
   "b": {
     "item_id": "746be7555592983f73b89091a1b776a0fbba38c8",
@@ -15,5 +15,5 @@
     "title": "These camera apps give you more control over the iPhone 18 Pro\u2019s aperture",
     "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
   },
-  "score": 0.57464
+  "score": 0.640031
 }
