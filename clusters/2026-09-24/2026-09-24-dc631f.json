@@ -1,0 +1,24 @@
+{
+  "anchor": "873656155d9684773b2892985ea736d0af59730f",
+  "id": "2026-09-24-dc631f",
+  "items": [
+    {
+      "item_id": "873656155d9684773b2892985ea736d0af59730f",
+      "lede": "WiCi wireless external GPU with onboard storage puts AI workloads reach of local machines via WiFi 7.",
+      "outlet": "tomshardware",
+      "published": "2026-09-24T11:25:00Z",
+      "title": "New wireless Wi-Fi 7 external GPU box comes with a built-in 4TB SSD for local AI",
+      "url": "https://www.tomshardware.com/pc-components/gpus/wici-one-unveils-wireless-wi-fi-7-egpu-with-built-in-4tb-ssd-for-local-ai-usd1-999-box-leverages-wifi-7-to-present-a-remote-card-as-local"
+    },
+    {
+      "item_id": "8b4a62bef97f4cbec33ec90c3c57f6e43a1fc1f1",
+      "lede": "The WiCi One is available for preorders starting at $1,999.",
+      "outlet": "engadget",
+      "published": "2026-09-26T19:45:00Z",
+      "title": "This external GPU uses Wi-Fi to transform any device into a gaming rig",
+      "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

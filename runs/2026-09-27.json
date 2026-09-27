@@ -1,0 +1,65 @@
+{
+  "agent_seconds": 1029.009,
+  "counts": {
+    "analyses_total": 121,
+    "analyses_written": 8,
+    "clusters": 127,
+    "judgments": 1440,
+    "pending": 0,
+    "rejected": 6,
+    "unjudged_pairs": 48
+  },
+  "date": "2026-09-27",
+  "duration_seconds": 1113.139,
+  "finished_at": "2026-09-27T02:31:25Z",
+  "note": "jev stopped normally at 233/233; judge queue hit max_pairs_per_run (150), 48 pairs carried to tomorrow",
+  "started_at": "2026-09-27T02:12:52Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.6
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 82.253
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.147
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.54
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.242
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.116
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.009
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.217
+    }
+  ]
+}
