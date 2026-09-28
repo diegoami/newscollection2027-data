@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "71be334bb3441c17bac7bf84c10a2d670b76a03e",
+  "item_id_b": "c7ec387f956db3fdf46d7bf67728bde199c030aa",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "71be334bb3441c17bac7bf84c10a2d670b76a03e-c7ec387f956db3fdf46d7bf67728bde199c030aa",
+  "reason": "Different Disrupt session preview and a generic ticket-pricing promo.",
+  "same_story": false
+}

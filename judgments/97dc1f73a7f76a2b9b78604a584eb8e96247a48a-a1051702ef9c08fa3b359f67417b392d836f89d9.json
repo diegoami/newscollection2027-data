@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "97dc1f73a7f76a2b9b78604a584eb8e96247a48a",
+  "item_id_b": "a1051702ef9c08fa3b359f67417b392d836f89d9",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "97dc1f73a7f76a2b9b78604a584eb8e96247a48a-a1051702ef9c08fa3b359f67417b392d836f89d9",
+  "reason": "B is a live-blog roundup of the whole Meta Connect keynote, not a specific-event match for the Ray-Ban Display update.",
+  "same_story": false
+}

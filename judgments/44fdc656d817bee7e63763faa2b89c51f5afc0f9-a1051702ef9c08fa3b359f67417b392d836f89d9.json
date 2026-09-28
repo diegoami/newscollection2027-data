@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+  "item_id_b": "a1051702ef9c08fa3b359f67417b392d836f89d9",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9-a1051702ef9c08fa3b359f67417b392d836f89d9",
+  "reason": "B is a live-blog roundup of the keynote, not a specific-event match for the VR Glasses hands-on.",
+  "same_story": false
+}

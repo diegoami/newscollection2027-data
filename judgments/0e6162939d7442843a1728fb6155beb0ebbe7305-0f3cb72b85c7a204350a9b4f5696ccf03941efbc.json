@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0e6162939d7442843a1728fb6155beb0ebbe7305",
+  "item_id_b": "0f3cb72b85c7a204350a9b4f5696ccf03941efbc",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0e6162939d7442843a1728fb6155beb0ebbe7305-0f3cb72b85c7a204350a9b4f5696ccf03941efbc",
+  "reason": "Both are Wired opinion/analysis pieces on the AI-slowdown topic, not a single reported event.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "177c3cf0302e1c8c256a29e74ead5e059fb395e3",
+  "item_id_b": "ab3a59da1cc2e24c29d822b32594974c220d6625",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "177c3cf0302e1c8c256a29e74ead5e059fb395e3-ab3a59da1cc2e24c29d822b32594974c220d6625",
+  "reason": "One is a video of Albanese's UN speech; the other is an experts-react analysis piece, different specific events.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7230613e317e42f31588069e61034170d3fa593e",
+  "item_id_b": "f13e6555ace661498132718c38712e07a98f02be",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7230613e317e42f31588069e61034170d3fa593e-f13e6555ace661498132718c38712e07a98f02be",
+  "reason": "Verge reports one specific Australian hack from 09-24; Guardian's 09-27 halt decision responds to a broader pattern, not this single incident.",
+  "same_story": false
+}

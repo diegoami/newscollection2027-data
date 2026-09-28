@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "433544038d2bac96729b9aafba2e831d5dfa342a",
+  "item_id_b": "cc6438358e05f03860762f7ea685ae95d637e7cf",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "433544038d2bac96729b9aafba2e831d5dfa342a-cc6438358e05f03860762f7ea685ae95d637e7cf",
+  "reason": "Both Verge pieces, published a minute apart, cover the same Googlebook laptop launch announcement.",
+  "same_story": true
+}

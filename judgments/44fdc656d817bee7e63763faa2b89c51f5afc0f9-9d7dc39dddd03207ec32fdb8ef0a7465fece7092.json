@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "44fdc656d817bee7e63763faa2b89c51f5afc0f9",
+  "item_id_b": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "44fdc656d817bee7e63763faa2b89c51f5afc0f9-9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+  "reason": "Two Engadget hands-on pieces about the same Meta VR Glasses reveal, published 18 minutes apart.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3a2fbb6e3782c2e74b97ea5b10567d3216b4593d",
+  "item_id_b": "539c5a96bbf45589eaf9bfabb98c022381aa133d",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3a2fbb6e3782c2e74b97ea5b10567d3216b4593d-539c5a96bbf45589eaf9bfabb98c022381aa133d",
+  "reason": "Both are Verge analysis pieces on the AI-slowdown/regulation topic, not the same identifiable event.",
+  "same_story": false
+}

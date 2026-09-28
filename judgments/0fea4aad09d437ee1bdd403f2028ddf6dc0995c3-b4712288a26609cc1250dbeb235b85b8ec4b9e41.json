@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0fea4aad09d437ee1bdd403f2028ddf6dc0995c3",
+  "item_id_b": "b4712288a26609cc1250dbeb235b85b8ec4b9e41",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0fea4aad09d437ee1bdd403f2028ddf6dc0995c3-b4712288a26609cc1250dbeb235b85b8ec4b9e41",
+  "reason": "A reports the PM's rejection of a specific claim; B is an opinion piece on AI doom using the hack only as background.",
+  "same_story": false
+}

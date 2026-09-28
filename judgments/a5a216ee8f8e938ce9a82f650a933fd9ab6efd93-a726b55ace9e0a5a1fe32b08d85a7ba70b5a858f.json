@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93",
+  "item_id_b": "a726b55ace9e0a5a1fe32b08d85a7ba70b5a858f",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93-a726b55ace9e0a5a1fe32b08d85a7ba70b5a858f",
+  "reason": "Different topics two days apart: camera-less smart glasses design versus Zuckerberg's remarks on Ray-Ban indicator lights.",
+  "same_story": false
+}

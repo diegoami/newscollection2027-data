@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5485f87cdfbe62e4a3de42ee275da091670a4592",
+  "item_id_b": "6c5b86c7b0658b70864e64d361fa74d3e2ede136",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5485f87cdfbe62e4a3de42ee275da091670a4592-6c5b86c7b0658b70864e64d361fa74d3e2ede136",
+  "reason": "Both TechCrunch pieces published within 76 minutes report new AI creator tools YouTube announced the same day.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "177c3cf0302e1c8c256a29e74ead5e059fb395e3",
+  "item_id_b": "46e474f4f822c9a72f832d2b6c3c4d09349acea1",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "177c3cf0302e1c8c256a29e74ead5e059fb395e3-46e474f4f822c9a72f832d2b6c3c4d09349acea1",
+  "reason": "One is Albanese's UN speech video; the other is an analysis piece on global AI anxiety, not reporting the same specific event.",
+  "same_story": false
+}

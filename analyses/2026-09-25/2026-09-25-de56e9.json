@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "cfaa791365ad8db695b19a45379a837033ed687e",
+          "outlet": "wired",
+          "quote": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand"
+        },
+        {
+          "item_id": "162c03291b71e460501a010e1e1e9a509e0eaabe",
+          "outlet": "tomshardware",
+          "quote": "Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead"
+        }
+      ],
+      "statement": "Thieves stole trailers bearing Nvidia-linked markings, apparently expecting valuable AI GPUs, but found only sand inside."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "162c03291b71e460501a010e1e1e9a509e0eaabe",
+          "outlet": "tomshardware",
+          "quote": "The two PlusAI trailers with Nvidia-partner markings were apparently left outside the startup's warehouse"
+        }
+      ],
+      "statement": "The two trailers belonged to PlusAI and carried Nvidia-partner markings, and were left outside the startup's warehouse."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "162c03291b71e460501a010e1e1e9a509e0eaabe",
+          "outlet": "tomshardware",
+          "quote": "they were deliberately left outside as the trailers only contained sand for simulating real-world truck loads"
+        }
+      ],
+      "statement": "The sand inside the trailers was there deliberately, used as ballast to simulate real-world truck loads rather than to hold any computing hardware."
+    }
+  ],
+  "cluster_id": "2026-09-25-de56e9",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-09-28T02:30:00Z",
+  "headline": "Thieves steal Nvidia-branded trailers expecting GPUs, find only sand",
+  "model": "claude-sonnet-5",
+  "summary": "Thieves stole two trailers marked with Nvidia-partner branding belonging to PlusAI, apparently hoping to find valuable AI GPUs inside. The trailers had been left outside PlusAI's warehouse and were deliberately loaded with sand used to simulate real-world truck loads, rather than any actual computing hardware."
+}

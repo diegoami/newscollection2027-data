@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3a2fbb6e3782c2e74b97ea5b10567d3216b4593d",
+  "item_id_b": "a864cdf7e10a4848d8790ece2cb4bb94f3c32570",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3a2fbb6e3782c2e74b97ea5b10567d3216b4593d-a864cdf7e10a4848d8790ece2cb4bb94f3c32570",
+  "reason": "Both are Verge analysis pieces on the general AI-regulation debate across several days, not one event.",
+  "same_story": false
+}

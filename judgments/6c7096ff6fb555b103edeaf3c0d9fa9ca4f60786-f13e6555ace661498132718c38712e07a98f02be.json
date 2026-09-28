@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6c7096ff6fb555b103edeaf3c0d9fa9ca4f60786",
+  "item_id_b": "f13e6555ace661498132718c38712e07a98f02be",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6c7096ff6fb555b103edeaf3c0d9fa9ca4f60786-f13e6555ace661498132718c38712e07a98f02be",
+  "reason": "Guardian's halt-training decision came hours after the Friday disclosure BBC reports; problem and response are one story.",
+  "same_story": true
+}

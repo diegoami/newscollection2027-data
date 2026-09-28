@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93",
+  "item_id_b": "c64637a34cdd534065b33aab2a80139cd375fbec",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "a5a216ee8f8e938ce9a82f650a933fd9ab6efd93-c64637a34cdd534065b33aab2a80139cd375fbec",
+  "reason": "Different Meta Connect products: camera-less smart glasses versus a separate VR glasses device.",
+  "same_story": false
+}

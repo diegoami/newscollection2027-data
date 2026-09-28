@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9091e5e67e944af84d97916da087a7d1b8229704",
+  "item_id_b": "a0af0f0d7e888fbf71112b0a49936185c864eeeb",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9091e5e67e944af84d97916da087a7d1b8229704-a0af0f0d7e888fbf71112b0a49936185c864eeeb",
+  "reason": "Different content: a generic ticket-promo post versus a specific Startup Battlefield VC-judges announcement.",
+  "same_story": false
+}

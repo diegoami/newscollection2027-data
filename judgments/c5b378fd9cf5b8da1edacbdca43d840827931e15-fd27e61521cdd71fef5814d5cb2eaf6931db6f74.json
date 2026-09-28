@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "c5b378fd9cf5b8da1edacbdca43d840827931e15",
+  "item_id_b": "fd27e61521cdd71fef5814d5cb2eaf6931db6f74",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "c5b378fd9cf5b8da1edacbdca43d840827931e15-fd27e61521cdd71fef5814d5cb2eaf6931db6f74",
+  "reason": "Different Disrupt session previews for unrelated speakers.",
+  "same_story": false
+}

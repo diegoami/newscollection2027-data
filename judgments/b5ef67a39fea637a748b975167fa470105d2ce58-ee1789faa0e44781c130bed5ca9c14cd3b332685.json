@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "b5ef67a39fea637a748b975167fa470105d2ce58",
+  "item_id_b": "ee1789faa0e44781c130bed5ca9c14cd3b332685",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "b5ef67a39fea637a748b975167fa470105d2ce58-ee1789faa0e44781c130bed5ca9c14cd3b332685",
+  "reason": "A is a feature on the history of AI-doom warnings; B reports Vance's specific remarks dismissing regulation, a different event.",
+  "same_story": false
+}

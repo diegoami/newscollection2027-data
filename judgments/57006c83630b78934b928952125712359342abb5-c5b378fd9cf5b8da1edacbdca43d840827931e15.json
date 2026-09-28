@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "57006c83630b78934b928952125712359342abb5",
+  "item_id_b": "c5b378fd9cf5b8da1edacbdca43d840827931e15",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "57006c83630b78934b928952125712359342abb5-c5b378fd9cf5b8da1edacbdca43d840827931e15",
+  "reason": "Different generic TechCrunch Disrupt exhibit-deadline and session-preview posts.",
+  "same_story": false
+}

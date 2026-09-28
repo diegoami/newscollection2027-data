@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "637d4699a545ce92fb9c0dee1be6f45c44e46487",
+  "item_id_b": "f13e6555ace661498132718c38712e07a98f02be",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "637d4699a545ce92fb9c0dee1be6f45c44e46487-f13e6555ace661498132718c38712e07a98f02be",
+  "reason": "Verge piece is a roundup of a wave of rogue-AI incidents across companies, not the specific halt-training decision Guardian reports.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0fc9c86402b397c8614a0f9ff3188bc8b7eca67f",
+  "item_id_b": "eaa520eb586c5ae89d8a6fd3ed8bf70915813d7e",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0fc9c86402b397c8614a0f9ff3188bc8b7eca67f-eaa520eb586c5ae89d8a6fd3ed8bf70915813d7e",
+  "reason": "Different angles two days apart: Meta's Muse success story versus a later piece on Muse's trust issues, not one event.",
+  "same_story": false
+}

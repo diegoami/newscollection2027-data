@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6507ab8fb9961060d8a229cb70c72d570703f072",
+  "item_id_b": "9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6507ab8fb9961060d8a229cb70c72d570703f072-9d7dc39dddd03207ec32fdb8ef0a7465fece7092",
+  "reason": "Different Meta hardware products: Ray-Ban Meta glasses comparison versus the separate VR Glasses.",
+  "same_story": false
+}

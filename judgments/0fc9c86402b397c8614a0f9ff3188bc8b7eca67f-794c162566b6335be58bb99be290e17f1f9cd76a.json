@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0fc9c86402b397c8614a0f9ff3188bc8b7eca67f",
+  "item_id_b": "794c162566b6335be58bb99be290e17f1f9cd76a",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0fc9c86402b397c8614a0f9ff3188bc8b7eca67f-794c162566b6335be58bb99be290e17f1f9cd76a",
+  "reason": "Two TechCrunch pieces published 16 minutes apart both report Meta's Muse AI agent surging in popularity.",
+  "same_story": true
+}

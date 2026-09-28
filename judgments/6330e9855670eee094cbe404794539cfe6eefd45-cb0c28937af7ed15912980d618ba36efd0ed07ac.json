@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6330e9855670eee094cbe404794539cfe6eefd45",
+  "item_id_b": "cb0c28937af7ed15912980d618ba36efd0ed07ac",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6330e9855670eee094cbe404794539cfe6eefd45-cb0c28937af7ed15912980d618ba36efd0ed07ac",
+  "reason": "B is a live-blog roundup of the Meta Connect event, not the specific Muse Charm gadget story A reports.",
+  "same_story": false
+}

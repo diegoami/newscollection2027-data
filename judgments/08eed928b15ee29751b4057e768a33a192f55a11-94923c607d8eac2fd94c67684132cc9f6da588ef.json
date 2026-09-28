@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "08eed928b15ee29751b4057e768a33a192f55a11",
+  "item_id_b": "94923c607d8eac2fd94c67684132cc9f6da588ef",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "08eed928b15ee29751b4057e768a33a192f55a11-94923c607d8eac2fd94c67684132cc9f6da588ef",
+  "reason": "Both are Guardian opinion/podcast pieces on the general AI-regulation topic, not one event.",
+  "same_story": false
+}

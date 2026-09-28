@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0fea4aad09d437ee1bdd403f2028ddf6dc0995c3",
+  "item_id_b": "4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0fea4aad09d437ee1bdd403f2028ddf6dc0995c3-4deab65b5f9bde366ecca4528fa1cc81e8ca02ed",
+  "reason": "Same delay-in-disclosure controversy over the Medicare hack, one day apart: the PM's rejection of criticism is a response to B's revelation.",
+  "same_story": true
+}

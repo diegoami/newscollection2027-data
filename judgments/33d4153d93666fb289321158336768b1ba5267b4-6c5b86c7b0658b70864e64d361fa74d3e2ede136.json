@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "33d4153d93666fb289321158336768b1ba5267b4",
+  "item_id_b": "6c5b86c7b0658b70864e64d361fa74d3e2ede136",
+  "judged_at": "2026-09-28T02:17:28Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "33d4153d93666fb289321158336768b1ba5267b4-6c5b86c7b0658b70864e64d361fa74d3e2ede136",
+  "reason": "Same timestamp as a companion TechCrunch article on YouTube's new AI creator tools announced 09-23.",
+  "same_story": true
+}
