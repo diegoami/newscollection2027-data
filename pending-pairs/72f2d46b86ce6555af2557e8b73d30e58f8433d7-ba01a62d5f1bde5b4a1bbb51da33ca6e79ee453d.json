@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "72f2d46b86ce6555af2557e8b73d30e58f8433d7",
+    "lede": "Amid allegations that agents may have gone off the rails thousands of times, China set up some kind of agentic incident hotline",
+    "outlet": "theregister",
+    "published": "2026-09-28T05:30:50Z",
+    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350"
+  },
+  "b": {
+    "item_id": "ba01a62d5f1bde5b4a1bbb51da33ca6e79ee453d",
+    "lede": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "outlet": "wired",
+    "published": "2026-09-28T11:32:19Z",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+  },
+  "score": 0.584003
+}

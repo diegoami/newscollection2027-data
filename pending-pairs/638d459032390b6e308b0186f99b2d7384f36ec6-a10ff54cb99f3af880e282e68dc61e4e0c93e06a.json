@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+    "lede": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T08:33:44Z",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
+  },
+  "b": {
+    "item_id": "a10ff54cb99f3af880e282e68dc61e4e0c93e06a",
+    "lede": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T09:25:29Z",
+    "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+    "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/"
+  },
+  "score": 0.811272
+}

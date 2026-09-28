@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "638d459032390b6e308b0186f99b2d7384f36ec6",
+    "lede": "\u200bCryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T08:33:44Z",
+    "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/"
+  },
+  "b": {
+    "item_id": "6e0ac2f03d0d3964ae27d9e0dba55f12a99edf41",
+    "lede": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T12:00:00Z",
+    "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes"
+  },
+  "score": 0.730677
+}

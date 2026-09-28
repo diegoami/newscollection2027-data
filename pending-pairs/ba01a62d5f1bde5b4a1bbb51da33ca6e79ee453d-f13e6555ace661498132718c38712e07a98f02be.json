@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ba01a62d5f1bde5b4a1bbb51da33ca6e79ee453d",
+    "lede": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "outlet": "wired",
+    "published": "2026-09-28T11:32:19Z",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+  },
+  "b": {
+    "item_id": "f13e6555ace661498132718c38712e07a98f02be",
+    "lede": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents",
+    "outlet": "theguardian",
+    "published": "2026-09-27T01:10:21Z",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+  },
+  "score": 0.636939
+}
