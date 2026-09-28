@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dccb97eabafeb42be3fd2f1d2868ddfb4a89a39",
+    "lede": "AI companies are able to improve their models by submitting users' conversations as training data. Opting out is easy, you just need to know where to look.",
+    "outlet": "engadget",
+    "published": "2026-09-28T15:15:00Z",
+    "title": "How to stop AI companies from training on your data",
+    "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data/"
+  },
+  "b": {
+    "item_id": "3509dd12cb15589ccaa2b3617d56e055e8137b6e",
+    "lede": "A draft UK government list of AI best practices has reminded people they don't need to thank their chatbot for its work in an attempt to use it more efficiently.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T13:00:00Z",
+    "title": "UK government tells staff to stop thanking AI chatbots",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact"
+  },
+  "score": 0.606024
+}

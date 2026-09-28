@@ -1,5 +1,13 @@
 {
   "a": {
+    "item_id": "3913eb7fbe0f150e7e44d908f72861bd98a7547d",
+    "lede": "Everything old is new again.",
+    "outlet": "engadget",
+    "published": "2026-09-28T15:39:12Z",
+    "title": "Bose's throwback to wired earbuds add much-needed ANC",
+    "url": "https://www.engadget.com/2270779/boses-throwback-to-wired-earbuds-add-much-needed-anc/"
+  },
+  "b": {
     "item_id": "3ee492e04c929d2c110458fe83b387f734533f7d",
     "lede": "Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds, do away with battery anxiety and the need to remember to charge them every few days. Their functionality is limited, [\u2026]",
     "outlet": "theverge",
@@ -7,13 +15,5 @@
     "title": "Bose\u2019s first wired earbuds in 11 years add noise canceling",
     "url": "https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder"
   },
-  "b": {
-    "item_id": "b59ade817b530fc5571c9f1700150d080fad5b19",
-    "lede": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company\u2019s flagship over-ears.",
-    "outlet": "zdnet",
-    "published": "2026-09-28T14:40:43Z",
-    "title": "Your Bose headphones are getting a major Bluetooth upgrade \u2013 what to expect",
-    "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/"
-  },
-  "score": 0.572738
+  "score": 0.754459
 }

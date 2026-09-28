@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bb026ab8e20b69c93cfb4d2b6bc4d89d935872d2",
+    "lede": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue. The company announced a $150bn stock buyback the same day. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-09-28T15:32:57Z",
+    "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback"
+  },
+  "b": {
+    "item_id": "fa45a29570c32d230e345cbed6341f9b552bfdcd",
+    "lede": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T13:36:06Z",
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+  },
+  "score": 0.726892
+}

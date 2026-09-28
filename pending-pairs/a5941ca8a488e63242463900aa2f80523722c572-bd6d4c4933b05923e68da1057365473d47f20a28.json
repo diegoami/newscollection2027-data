@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5941ca8a488e63242463900aa2f80523722c572",
+    "lede": "We sit down with OpenAI's Hardware boss to talk about its chart-topping Jalape\u00f1o inference chip in this unredacted interview transcript.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T15:30:00Z",
+    "title": "OpenAI Jalape\u00f1o design interview transcript",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-jalapeno-design-interview-transcript-hardware-vp-richard-ho-explains-how-ai-assisted-design-may-shape-the-future-of-inference-asics"
+  },
+  "b": {
+    "item_id": "bd6d4c4933b05923e68da1057365473d47f20a28",
+    "lede": "OpenAI has danced with the idea of a broader rollout of its Jalape\u00f1o ASIC, but hardware VP Richard Ho tells us the chip is for internal use \u201cfirst and foremost.\u201d",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T15:45:00Z",
+    "title": "OpenAI's custom Jalapeno AI inference ASIC is for OpenAI\u2019s internal use, but company leaves the door open to broader rollout",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-custom-jalapeno-ai-inference-asic-is-for-openais-internal-use-but-company-leaves-the-door-open-to-broader-rollout-firm-says-it-will-have-its-hands-full-with-jalapeno-for-a-good-long-time"
+  },
+  "score": 0.600885
+}

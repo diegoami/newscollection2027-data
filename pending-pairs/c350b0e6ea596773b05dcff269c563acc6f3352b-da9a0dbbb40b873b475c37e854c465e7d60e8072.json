@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c350b0e6ea596773b05dcff269c563acc6f3352b",
+    "lede": "The Noctua Edition replaces the original WireView Pro II cooling solution with a semi-passive design that can handle up to 300W without active cooling and runs below 2,000 RPM when the fan is needed.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T16:15:00Z",
+    "title": "Noctua upgrades Thermal Grizzly's 12V-2x6 power monitor",
+    "url": "https://www.tomshardware.com/pc-components/gpus/noctua-upgrades-thermal-grizzlys-12v-2x6-power-monitor-cuts-active-noise-to-21-5db-and-runs-passively-up-to-a-300w-gpu-load"
+  },
+  "b": {
+    "item_id": "da9a0dbbb40b873b475c37e854c465e7d60e8072",
+    "lede": "Noctua and Forced Physics are exploring whether densely packed micro-channels can provide extreme cooling performance without the noise associated with high-pressure airflow",
+    "outlet": "tomshardware",
+    "published": "2026-09-25T14:42:58Z",
+    "title": "Noctua explores 2,000W micro-channel air cooling",
+    "url": "https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs"
+  },
+  "score": 0.581134
+}

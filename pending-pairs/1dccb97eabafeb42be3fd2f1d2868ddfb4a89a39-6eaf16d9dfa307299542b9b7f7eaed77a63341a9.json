@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dccb97eabafeb42be3fd2f1d2868ddfb4a89a39",
+    "lede": "AI companies are able to improve their models by submitting users' conversations as training data. Opting out is easy, you just need to know where to look.",
+    "outlet": "engadget",
+    "published": "2026-09-28T15:15:00Z",
+    "title": "How to stop AI companies from training on your data",
+    "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data/"
+  },
+  "b": {
+    "item_id": "6eaf16d9dfa307299542b9b7f7eaed77a63341a9",
+    "lede": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/"
+  },
+  "score": 0.602183
+}

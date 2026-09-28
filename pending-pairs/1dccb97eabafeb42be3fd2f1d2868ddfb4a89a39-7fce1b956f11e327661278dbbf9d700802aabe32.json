@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dccb97eabafeb42be3fd2f1d2868ddfb4a89a39",
+    "lede": "AI companies are able to improve their models by submitting users' conversations as training data. Opting out is easy, you just need to know where to look.",
+    "outlet": "engadget",
+    "published": "2026-09-28T15:15:00Z",
+    "title": "How to stop AI companies from training on your data",
+    "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data/"
+  },
+  "b": {
+    "item_id": "7fce1b956f11e327661278dbbf9d700802aabe32",
+    "lede": "The setting affects whether workers can review photos and videos from your glasses.",
+    "outlet": "engadget",
+    "published": "2026-09-25T20:35:15Z",
+    "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+    "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/"
+  },
+  "score": 0.597589
+}

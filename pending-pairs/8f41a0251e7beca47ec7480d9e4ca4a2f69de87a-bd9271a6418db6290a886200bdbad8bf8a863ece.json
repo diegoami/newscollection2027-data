@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8f41a0251e7beca47ec7480d9e4ca4a2f69de87a",
+    "lede": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+    "outlet": "arstechnica",
+    "published": "2026-09-28T16:43:18Z",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+  },
+  "b": {
+    "item_id": "bd9271a6418db6290a886200bdbad8bf8a863ece",
+    "lede": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T17:09:02Z",
+    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+  },
+  "score": 0.593482
+}

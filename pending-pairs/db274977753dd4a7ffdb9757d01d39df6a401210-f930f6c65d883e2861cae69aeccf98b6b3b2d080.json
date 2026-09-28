@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "c8ebd6a4009912325072c60ceb6bcc8cd67fefe1",
-    "lede": "The Bose Noise Cancelling Wired Earbuds are the first new wired headphones from the brand since 2015, inspired directly by teen preferences. We got an early listen.",
-    "outlet": "wired",
-    "published": "2026-09-28T13:00:00Z",
-    "title": "Bose Launches New Wired Earbuds After More Than a Decade",
-    "url": "https://www.wired.com/story/bose-to-release-wired-headphones-after-10-years/"
+    "item_id": "db274977753dd4a7ffdb9757d01d39df6a401210",
+    "lede": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
+    "outlet": "zdnet",
+    "published": "2026-09-28T16:15:17Z",
+    "title": "Bose\u2019s new wired earbuds aim for the same great sound and ANC \u2013 no charging needed",
+    "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/"
   },
   "b": {
     "item_id": "f930f6c65d883e2861cae69aeccf98b6b3b2d080",
@@ -15,5 +15,5 @@
     "title": "Qualcomm\u2019s new \u2018Elite\u2019 sound chip might finally deliver the Wi-Fi earbud dream",
     "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream"
   },
-  "score": 0.580509
+  "score": 0.585721
 }

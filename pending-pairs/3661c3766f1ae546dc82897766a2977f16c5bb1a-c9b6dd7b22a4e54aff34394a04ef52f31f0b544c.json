@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3661c3766f1ae546dc82897766a2977f16c5bb1a",
+    "lede": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T16:35:00Z",
+    "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
+  },
+  "b": {
+    "item_id": "c9b6dd7b22a4e54aff34394a04ef52f31f0b544c",
+    "lede": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+  },
+  "score": 0.602177
+}

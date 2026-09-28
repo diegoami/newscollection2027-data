@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bd9271a6418db6290a886200bdbad8bf8a863ece",
+    "lede": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T17:09:02Z",
+    "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
+  },
+  "b": {
+    "item_id": "f13e6555ace661498132718c38712e07a98f02be",
+    "lede": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents",
+    "outlet": "theguardian",
+    "published": "2026-09-27T01:10:21Z",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+  },
+  "score": 0.595122
+}

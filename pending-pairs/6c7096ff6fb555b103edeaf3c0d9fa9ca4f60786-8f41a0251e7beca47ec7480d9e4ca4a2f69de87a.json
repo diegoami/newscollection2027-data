@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6c7096ff6fb555b103edeaf3c0d9fa9ca4f60786",
+    "lede": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-26T00:09:45Z",
+    "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+    "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo"
+  },
+  "b": {
+    "item_id": "8f41a0251e7beca47ec7480d9e4ca4a2f69de87a",
+    "lede": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+    "outlet": "arstechnica",
+    "published": "2026-09-28T16:43:18Z",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+  },
+  "score": 0.606102
+}
