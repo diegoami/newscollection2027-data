@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "637d4699a545ce92fb9c0dee1be6f45c44e46487",
+    "lede": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-25T15:39:48Z",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+  },
+  "b": {
+    "item_id": "7627b64443e10e0d8938aa75b673ac143846704a",
+    "lede": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T18:45:00Z",
+    "title": "OpenAI\u2019s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+  },
+  "score": 0.613076
+}

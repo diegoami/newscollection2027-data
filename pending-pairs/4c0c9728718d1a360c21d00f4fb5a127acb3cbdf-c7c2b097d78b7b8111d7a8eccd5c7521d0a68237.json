@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4c0c9728718d1a360c21d00f4fb5a127acb3cbdf",
+    "lede": "Microsoft is giving its Copilot app another facelift.",
+    "outlet": "engadget",
+    "published": "2026-09-25T12:00:00Z",
+    "title": "Microsoft's Copilot app adds Office, natural coding and automation",
+    "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/"
+  },
+  "b": {
+    "item_id": "c7c2b097d78b7b8111d7a8eccd5c7521d0a68237",
+    "lede": "Redmond calls its pricing model an 'evolution' as advanced AI racks up usage charges",
+    "outlet": "theregister",
+    "published": "2026-09-28T15:36:00Z",
+    "title": "Microsoft's Copilot super app comes with a meter attached",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515"
+  },
+  "score": 0.590663
+}

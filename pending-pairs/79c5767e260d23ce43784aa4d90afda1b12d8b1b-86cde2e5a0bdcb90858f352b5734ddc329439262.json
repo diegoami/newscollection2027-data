@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "79c5767e260d23ce43784aa4d90afda1b12d8b1b",
+    "lede": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [\u2026]",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T18:31:23Z",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+  },
+  "b": {
+    "item_id": "86cde2e5a0bdcb90858f352b5734ddc329439262",
+    "lede": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+  },
+  "score": 0.740501
+}

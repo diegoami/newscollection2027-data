@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d9ae01995f45639df81918b0e9ff7ba48ed448c",
+    "lede": "Meta wants to sell its AI products and services to other companies.",
+    "outlet": "engadget",
+    "published": "2026-09-28T18:37:57Z",
+    "title": "Meta is starting an enterprise business to justify its massive AI spending",
+    "url": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/"
+  },
+  "b": {
+    "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068",
+    "lede": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T16:52:38Z",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+  },
+  "score": 0.572371
+}
