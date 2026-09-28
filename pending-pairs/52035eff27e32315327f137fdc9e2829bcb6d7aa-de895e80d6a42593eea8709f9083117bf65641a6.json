@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "52035eff27e32315327f137fdc9e2829bcb6d7aa",
+    "lede": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T14:50:30Z",
+    "title": "FBI reportedly declares \u2018cyber security incident\u2019 after hackers steal agents\u2019 personal data",
+    "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
+  },
+  "b": {
+    "item_id": "de895e80d6a42593eea8709f9083117bf65641a6",
+    "lede": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-25T23:05:40Z",
+    "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+    "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo"
+  },
+  "score": 0.669189
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "86cde2e5a0bdcb90858f352b5734ddc329439262",
+    "lede": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+  },
+  "b": {
+    "item_id": "fa45a29570c32d230e345cbed6341f9b552bfdcd",
+    "lede": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T13:36:06Z",
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+  },
+  "score": 0.780078
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "f13e6555ace661498132718c38712e07a98f02be",
+    "lede": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents",
+    "outlet": "theguardian",
+    "published": "2026-09-27T01:10:21Z",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+  },
+  "b": {
+    "item_id": "fa45a29570c32d230e345cbed6341f9b552bfdcd",
+    "lede": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T13:36:06Z",
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+  },
+  "score": 0.605966
+}

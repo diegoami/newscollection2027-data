@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15ab194c4f559f7bf13b4378a06edb0ef81f4b51",
+    "lede": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T14:51:10Z",
+    "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+    "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/"
+  },
+  "b": {
+    "item_id": "c97ff75e84c28b08311499dbafd8a8448bac11be",
+    "lede": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T14:00:10Z",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+    "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/"
+  },
+  "score": 0.588065
+}

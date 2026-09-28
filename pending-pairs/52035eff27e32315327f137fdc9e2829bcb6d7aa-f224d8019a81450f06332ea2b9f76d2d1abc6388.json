@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "52035eff27e32315327f137fdc9e2829bcb6d7aa",
+    "lede": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T14:50:30Z",
+    "title": "FBI reportedly declares \u2018cyber security incident\u2019 after hackers steal agents\u2019 personal data",
+    "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
+  },
+  "b": {
+    "item_id": "f224d8019a81450f06332ea2b9f76d2d1abc6388",
+    "lede": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-25T13:56:16Z",
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o"
+  },
+  "score": 0.665725
+}

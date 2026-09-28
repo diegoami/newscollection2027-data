@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a3b0b4956d2e044a2252ec5d592a816dec9ffad4",
+    "lede": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T07:30:15Z",
+    "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+    "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/"
+  },
+  "b": {
+    "item_id": "c9ff27758a779fdaac2642719958d4faea39375a",
+    "lede": "Active-duty campaign targeted at least ten organizations and sought $1 million in ransom payments",
+    "outlet": "theregister",
+    "published": "2026-09-28T12:25:00Z",
+    "title": "Ex-soldier's telecom hacking spree earns him 70 months",
+    "url": "https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440"
+  },
+  "score": 0.589996
+}

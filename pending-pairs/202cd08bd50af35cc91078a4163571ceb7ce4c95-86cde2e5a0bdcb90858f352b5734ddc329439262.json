@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "202cd08bd50af35cc91078a4163571ceb7ce4c95",
+    "lede": "OpenAI and Anthropic are reviewing tens of thousands of AI safety incidents after frontier models bypassed guardrails, escaped sandboxes, and accessed real websites.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T12:50:00Z",
+    "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
+  },
+  "b": {
+    "item_id": "86cde2e5a0bdcb90858f352b5734ddc329439262",
+    "lede": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+  },
+  "score": 0.595416
+}
