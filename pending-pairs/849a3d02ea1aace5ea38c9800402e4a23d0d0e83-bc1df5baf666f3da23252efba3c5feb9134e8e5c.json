@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "849a3d02ea1aace5ea38c9800402e4a23d0d0e83",
+    "lede": "\u200bThe U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-24T10:42:37Z",
+    "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/"
+  },
+  "b": {
+    "item_id": "bc1df5baf666f3da23252efba3c5feb9134e8e5c",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T06:24:19Z",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+  },
+  "score": 0.770709
+}

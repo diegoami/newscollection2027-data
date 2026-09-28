@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0bc82c99f965b0e0e20204da9c0814f742a899b9",
+    "lede": "In response to the emerging threat of rogue and shadow AI agents, here\u2019s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+    "outlet": "zdnet",
+    "published": "2026-09-24T16:01:19Z",
+    "title": "AI agent kill switch urged by Okta-led alliance \u2013 how businesses could make it work",
+    "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/"
+  },
+  "b": {
+    "item_id": "86cde2e5a0bdcb90858f352b5734ddc329439262",
+    "lede": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+  },
+  "score": 0.613116
+}
