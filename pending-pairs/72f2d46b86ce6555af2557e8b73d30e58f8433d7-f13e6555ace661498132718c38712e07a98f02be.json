@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "72f2d46b86ce6555af2557e8b73d30e58f8433d7",
+    "lede": "Amid allegations that agents may have gone off the rails thousands of times, China set up some kind of agentic incident hotline",
+    "outlet": "theregister",
+    "published": "2026-09-28T05:30:50Z",
+    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350"
+  },
+  "b": {
+    "item_id": "f13e6555ace661498132718c38712e07a98f02be",
+    "lede": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents",
+    "outlet": "theguardian",
+    "published": "2026-09-27T01:10:21Z",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+  },
+  "score": 0.593593
+}
