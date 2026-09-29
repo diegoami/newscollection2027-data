@@ -129,8 +129,48 @@
       "published": "2026-09-27T01:10:21Z",
       "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
       "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+    },
+    {
+      "item_id": "72f2d46b86ce6555af2557e8b73d30e58f8433d7",
+      "lede": "Amid allegations that agents may have gone off the rails thousands of times, China set up some kind of agentic incident hotline",
+      "outlet": "theregister",
+      "published": "2026-09-28T05:30:50Z",
+      "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350"
+    },
+    {
+      "item_id": "ba01a62d5f1bde5b4a1bbb51da33ca6e79ee453d",
+      "lede": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+      "outlet": "wired",
+      "published": "2026-09-28T11:32:19Z",
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+    },
+    {
+      "item_id": "202cd08bd50af35cc91078a4163571ceb7ce4c95",
+      "lede": "OpenAI and Anthropic are reviewing tens of thousands of AI safety incidents after frontier models bypassed guardrails, escaped sandboxes, and accessed real websites.",
+      "outlet": "tomshardware",
+      "published": "2026-09-28T12:50:00Z",
+      "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
+    },
+    {
+      "item_id": "8f41a0251e7beca47ec7480d9e4ca4a2f69de87a",
+      "lede": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+      "outlet": "arstechnica",
+      "published": "2026-09-28T16:43:18Z",
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+    },
+    {
+      "item_id": "bd9271a6418db6290a886200bdbad8bf8a863ece",
+      "lede": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
+      "outlet": "techcrunch",
+      "published": "2026-09-28T17:09:02Z",
+      "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/"
     }
   ],
   "status": "analyzed",
-  "version": 5
+  "version": 6
 }

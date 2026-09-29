@@ -1,0 +1,24 @@
+{
+  "anchor": "be5ce4a651a9d68ae593642b9b6c223e3d680770",
+  "id": "2026-09-28-b9d102",
+  "items": [
+    {
+      "item_id": "be5ce4a651a9d68ae593642b9b6c223e3d680770",
+      "lede": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-28T15:49:27Z",
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/"
+    },
+    {
+      "item_id": "97d48c50ae789aeaffb074249418fcdafd73ab90",
+      "lede": "Smells like more agentic ransomware, Redmond warns",
+      "outlet": "theregister",
+      "published": "2026-09-28T20:30:00Z",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

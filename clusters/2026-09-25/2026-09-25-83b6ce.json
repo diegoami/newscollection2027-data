@@ -25,8 +25,24 @@
       "published": "2026-09-25T17:04:07Z",
       "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
       "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218"
+    },
+    {
+      "item_id": "a10ff54cb99f3af880e282e68dc61e4e0c93e06a",
+      "lede": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-28T09:25:29Z",
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/"
+    },
+    {
+      "item_id": "6e0ac2f03d0d3964ae27d9e0dba55f12a99edf41",
+      "lede": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups.",
+      "outlet": "tomshardware",
+      "published": "2026-09-28T12:00:00Z",
+      "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

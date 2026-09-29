@@ -1,0 +1,32 @@
+{
+  "anchor": "2f5ef06215656984c76556ba6229393c543f8f66",
+  "id": "2026-09-28-8862ed",
+  "items": [
+    {
+      "item_id": "2f5ef06215656984c76556ba6229393c543f8f66",
+      "lede": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "outlet": "techcrunch",
+      "published": "2026-09-28T20:39:33Z",
+      "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+    },
+    {
+      "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4",
+      "lede": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-28T21:31:35Z",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+    },
+    {
+      "item_id": "d50aee851fe905ff6fb56786d027483d6cf4de13",
+      "lede": "AI pioneer Fei-Fei Li just co-founded spatial AI research company World Labs in 2024. Now it's joining AMD",
+      "outlet": "theregister",
+      "published": "2026-09-28T22:01:33Z",
+      "title": "AMD bets $8.2B that worlds matter more than words in AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

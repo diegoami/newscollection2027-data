@@ -1,0 +1,24 @@
+{
+  "anchor": "b043d9d03d29d7a8884e39862cabb6ae73ffb481",
+  "id": "2026-09-25-4823b6",
+  "items": [
+    {
+      "item_id": "b043d9d03d29d7a8884e39862cabb6ae73ffb481",
+      "lede": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+      "outlet": "techcrunch",
+      "published": "2026-09-25T17:29:46Z",
+      "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+    },
+    {
+      "item_id": "51f3f2ec27aaa07241148a11fd482163f1910965",
+      "lede": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-09-28T18:50:59Z",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
