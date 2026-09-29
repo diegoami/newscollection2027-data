@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "79b213b7598aad1423d66b9f71900a909a45a293",
+    "lede": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "outlet": "techcrunch",
+    "published": "2026-09-27T20:34:28Z",
+    "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+  },
+  "b": {
+    "item_id": "f54f473f3b66c0ae1e2fbefc155f1e1f12d7c35a",
+    "lede": "Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles.",
+    "outlet": "tomshardware",
+    "published": "2026-09-29T09:30:00Z",
+    "title": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
+    "url": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison"
+  },
+  "score": 0.592257
+}

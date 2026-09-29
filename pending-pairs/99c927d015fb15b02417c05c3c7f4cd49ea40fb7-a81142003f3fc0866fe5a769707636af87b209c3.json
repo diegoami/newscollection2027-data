@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "99c927d015fb15b02417c05c3c7f4cd49ea40fb7",
+    "lede": "A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes.",
+    "outlet": "tomshardware",
+    "published": "2026-09-29T10:50:00Z",
+    "title": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate"
+  },
+  "b": {
+    "item_id": "a81142003f3fc0866fe5a769707636af87b209c3",
+    "lede": "Intel has showcased a patent it filed in 2022 to embed MicroLEDs inside chip packaging. The company suggests this could be used for diagnostic testing, customized lighting on chip surfaces, but perhaps more importantly, an alternative integration for co-packaged optics",
+    "outlet": "tomshardware",
+    "published": "2026-09-29T10:30:00Z",
+    "title": "Intel patent embeds MicroLEDs in chip packaging \u2014 technology may enable embedded optical interconnects through TGVs",
+    "url": "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs"
+  },
+  "score": 0.762678
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "90cc429476bc780b44226c87458b01192fa261b1",
+    "lede": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-29T02:29:25Z",
+    "title": "OpenAI scraps rollout of new model over safety concerns",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko"
+  },
+  "b": {
+    "item_id": "a0f4ea73d942977059da70d59f8c72e6876f3afd",
+    "lede": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+    "outlet": "wired",
+    "published": "2026-09-29T10:36:22Z",
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
+  },
+  "score": 0.680062
+}
