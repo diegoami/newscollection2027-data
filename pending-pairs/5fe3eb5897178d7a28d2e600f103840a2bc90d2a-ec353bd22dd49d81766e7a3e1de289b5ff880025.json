@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5fe3eb5897178d7a28d2e600f103840a2bc90d2a",
+    "lede": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-26T15:50:38Z",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/"
+  },
+  "b": {
+    "item_id": "ec353bd22dd49d81766e7a3e1de289b5ff880025",
+    "lede": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T17:37:40Z",
+    "title": "Windows 11 2026 Update released, here's everything you need to know",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/"
+  },
+  "score": 0.613774
+}

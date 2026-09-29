@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "572dce99347eb8d444446d5270b2c3295cf96632",
+    "lede": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T17:17:15Z",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
+  },
+  "b": {
+    "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+    "lede": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  },
+  "score": 0.600893
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+    "lede": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  },
+  "b": {
+    "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068",
+    "lede": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T16:52:38Z",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+  },
+  "score": 0.626752
+}
