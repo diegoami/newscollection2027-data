@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
+    "lede": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T13:25:21Z",
+    "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+    "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/"
+  },
+  "b": {
+    "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+    "lede": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+    "outlet": "zdnet",
+    "published": "2026-09-28T20:39:56Z",
+    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
+  },
+  "score": 0.77696
+}

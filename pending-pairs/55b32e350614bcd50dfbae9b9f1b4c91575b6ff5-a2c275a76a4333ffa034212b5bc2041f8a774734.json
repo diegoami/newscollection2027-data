@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "55b32e350614bcd50dfbae9b9f1b4c91575b6ff5",
+    "lede": "Similar performance, security tradeoffs also seen in current public models.",
+    "outlet": "arstechnica",
+    "published": "2026-09-29T14:22:31Z",
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+  },
+  "b": {
+    "item_id": "a2c275a76a4333ffa034212b5bc2041f8a774734",
+    "lede": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don\u2019t and neither should you Business live \u2013 latest updates OpenAI is scrapping the release of a next-generation \u2060AI model after researchers raised safety concerns \u2060during internal",
+    "outlet": "theguardian",
+    "published": "2026-09-29T07:15:54Z",
+    "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped"
+  },
+  "score": 0.617034
+}

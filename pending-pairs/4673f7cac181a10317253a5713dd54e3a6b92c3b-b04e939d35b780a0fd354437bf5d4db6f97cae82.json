@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4673f7cac181a10317253a5713dd54e3a6b92c3b",
+    "lede": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T11:48:27Z",
+    "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+  },
+  "b": {
+    "item_id": "b04e939d35b780a0fd354437bf5d4db6f97cae82",
+    "lede": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+    "outlet": "arstechnica",
+    "published": "2026-09-29T14:10:00Z",
+    "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+  },
+  "score": 0.60873
+}
