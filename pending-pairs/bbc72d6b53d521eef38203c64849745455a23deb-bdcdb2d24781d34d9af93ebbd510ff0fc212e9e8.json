@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bbc72d6b53d521eef38203c64849745455a23deb",
+    "lede": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T09:04:06Z",
+    "title": "Kiteworks patches critical flaw, brings customer systems online",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/"
+  },
+  "b": {
+    "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+    "lede": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-25T21:41:07Z",
+    "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/"
+  },
+  "score": 0.64816
+}
