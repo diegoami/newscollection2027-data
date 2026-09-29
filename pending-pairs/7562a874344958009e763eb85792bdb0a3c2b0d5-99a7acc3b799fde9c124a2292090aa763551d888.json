@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+    "lede": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  },
+  "b": {
+    "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
+    "lede": "Sam Altman spoke in San Francisco during OpenAI\u2019s yearly event for tech developers.",
+    "outlet": "bbc-technology",
+    "published": "2026-09-29T19:17:43Z",
+    "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+    "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo"
+  },
+  "score": 0.604815
+}

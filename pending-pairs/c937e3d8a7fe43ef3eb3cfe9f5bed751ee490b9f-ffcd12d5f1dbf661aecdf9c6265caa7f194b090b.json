@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c937e3d8a7fe43ef3eb3cfe9f5bed751ee490b9f",
+    "lede": "ChatGPT is coming to Slack and Microsoft Teams too.",
+    "outlet": "engadget",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "ChatGPT Space is a shared hub for work projects and personal AI agents",
+    "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/"
+  },
+  "b": {
+    "item_id": "ffcd12d5f1dbf661aecdf9c6265caa7f194b090b",
+    "lede": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+    "outlet": "zdnet",
+    "published": "2026-09-29T17:58:37Z",
+    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+    "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/"
+  },
+  "score": 0.767148
+}

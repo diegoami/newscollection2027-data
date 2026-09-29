@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82020db9c5642ec8832d11400f7ccc17a14ebfce",
+    "lede": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+    "outlet": "theregister",
+    "published": "2026-09-29T17:49:45Z",
+    "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+    "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+  },
+  "b": {
+    "item_id": "bc1df5baf666f3da23252efba3c5feb9134e8e5c",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T06:24:19Z",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+  },
+  "score": 0.651866
+}

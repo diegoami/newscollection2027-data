@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "44db897d4935fdb77c40477fc139088e6c7f9392",
+    "lede": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-27T16:02:37Z",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+  },
+  "b": {
+    "item_id": "7255110665bf355ddd275e58cc367a4b765b7c1b",
+    "lede": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T18:37:12Z",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+  },
+  "score": 0.749674
+}

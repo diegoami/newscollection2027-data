@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b6f078daefc5deb8e813bd344d79cd05d290cd65",
+    "lede": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T17:45:51Z",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/"
+  },
+  "b": {
+    "item_id": "ffcd12d5f1dbf661aecdf9c6265caa7f194b090b",
+    "lede": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+    "outlet": "zdnet",
+    "published": "2026-09-29T17:58:37Z",
+    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+    "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/"
+  },
+  "score": 0.595421
+}

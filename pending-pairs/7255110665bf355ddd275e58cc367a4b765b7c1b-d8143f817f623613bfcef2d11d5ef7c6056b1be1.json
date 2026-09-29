@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7255110665bf355ddd275e58cc367a4b765b7c1b",
+    "lede": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T18:37:12Z",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+  },
+  "b": {
+    "item_id": "d8143f817f623613bfcef2d11d5ef7c6056b1be1",
+    "lede": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-26T19:03:34Z",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
+  },
+  "score": 0.578206
+}

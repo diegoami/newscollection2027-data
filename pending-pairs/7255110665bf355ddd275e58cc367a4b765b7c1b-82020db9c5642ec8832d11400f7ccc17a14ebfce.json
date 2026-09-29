@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7255110665bf355ddd275e58cc367a4b765b7c1b",
+    "lede": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T18:37:12Z",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+  },
+  "b": {
+    "item_id": "82020db9c5642ec8832d11400f7ccc17a14ebfce",
+    "lede": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+    "outlet": "theregister",
+    "published": "2026-09-29T17:49:45Z",
+    "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+    "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+  },
+  "score": 0.625932
+}

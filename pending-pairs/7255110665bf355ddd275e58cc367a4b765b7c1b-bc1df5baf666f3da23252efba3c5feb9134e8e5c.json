@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7255110665bf355ddd275e58cc367a4b765b7c1b",
+    "lede": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T18:37:12Z",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+  },
+  "b": {
+    "item_id": "bc1df5baf666f3da23252efba3c5feb9134e8e5c",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T06:24:19Z",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+  },
+  "score": 0.750065
+}

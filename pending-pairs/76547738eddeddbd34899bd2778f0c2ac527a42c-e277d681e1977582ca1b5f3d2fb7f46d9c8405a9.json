@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "76547738eddeddbd34899bd2778f0c2ac527a42c",
+    "lede": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T20:59:39Z",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/"
+  },
+  "b": {
+    "item_id": "e277d681e1977582ca1b5f3d2fb7f46d9c8405a9",
+    "lede": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+  },
+  "score": 0.601482
+}
