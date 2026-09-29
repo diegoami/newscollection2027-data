@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9216b3cefcee5299694207a79ab23946f73c680a",
+    "lede": "SpaceX is gearing up for a monumental flight today that's sure to be closely watched by Amazon. If successful, SpaceX will deploy its first Starlink V3 satellites, which tout meaningful upgrades to the ever-expanding Starlink constellation. The 26 satellites will be riding atop Starship, which SpaceX will also attempt to deploy into Earth orbit for [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T12:09:17Z",
+    "title": "SpaceX preps next-gen Starlink as Amazon\u2019s competitor stalls",
+    "url": "https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo"
+  },
+  "b": {
+    "item_id": "efaa436d2d8902a191729f77dea08af06e8ae11c",
+    "lede": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+    "outlet": "arstechnica",
+    "published": "2026-09-28T21:26:19Z",
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
+  },
+  "score": 0.742784
+}

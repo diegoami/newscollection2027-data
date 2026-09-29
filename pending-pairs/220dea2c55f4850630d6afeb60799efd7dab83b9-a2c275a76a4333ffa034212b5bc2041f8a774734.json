@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "220dea2c55f4850630d6afeb60799efd7dab83b9",
+    "lede": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T23:39:20Z",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+  },
+  "b": {
+    "item_id": "a2c275a76a4333ffa034212b5bc2041f8a774734",
+    "lede": "GPT-6.1 Astra showed deceptive behavior and tried to use external tools despite knowing it would be unsafe OpenAI is scrapping the release of GPT-6.1 Astra, a next-generation \u2060AI model planned for an October debut, over safety concerns raised by researchers \u2060during internal testing, the \u2060Wall \u200bStreet Journal reported on Monday. The model, expected to appear in ChatGPT and \u2060Codex, was",
+    "outlet": "theguardian",
+    "published": "2026-09-28T23:02:28Z",
+    "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped"
+  },
+  "score": 0.579494
+}

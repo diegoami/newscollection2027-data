@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "efaa436d2d8902a191729f77dea08af06e8ae11c",
+    "lede": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+    "outlet": "arstechnica",
+    "published": "2026-09-28T21:26:19Z",
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
+  },
+  "b": {
+    "item_id": "fb71d6fb90bb1b4f491dcbd3c4811964b5607de2",
+    "lede": "...with some small hiccups along the way.",
+    "outlet": "engadget",
+    "published": "2026-09-28T17:14:21Z",
+    "title": "SpaceX's latest Starship mission reached low-Earth orbit",
+    "url": "https://www.engadget.com/2270992/spacexs-latest-starship-mission-reached-low-earth-orbit/"
+  },
+  "score": 0.71607
+}
