@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "141534a4cffe2af16013cb99774702092a0b4e95",
+    "lede": "The administration wants America.gov to be the main portal for federal services.",
+    "outlet": "engadget",
+    "published": "2026-09-29T18:43:58Z",
+    "title": "There's now an official US government AI chatbot",
+    "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/"
+  },
+  "b": {
+    "item_id": "a416f5c8b5231e54d1de9280cdaf7b825119711a",
+    "lede": "Gemini, Grok now serving as front door to federal resources on unfinished, poorly designed website",
+    "outlet": "theregister",
+    "published": "2026-09-29T20:14:32Z",
+    "title": "Trump launches America.gov with AI chatbots at its core",
+    "url": "https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907"
+  },
+  "score": 0.670141
+}

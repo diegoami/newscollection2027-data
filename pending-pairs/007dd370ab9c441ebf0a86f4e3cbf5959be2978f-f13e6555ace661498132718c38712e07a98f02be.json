@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f",
+    "lede": "Company\u2019s product comes weeks after Meta introduced its own artificially intelligent agent Muse Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company debuted a whole new suite of AI tools. During its annual showcase for developers in San Francisco on Tuesday, Sam Altman, OpenAI\u2019s CEO, enthusiastically unveiled",
+    "outlet": "theguardian",
+    "published": "2026-09-29T21:25:33Z",
+    "title": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns"
+  },
+  "b": {
+    "item_id": "f13e6555ace661498132718c38712e07a98f02be",
+    "lede": "Decision follows disclosures that OpenAI agents searching government websites had acted in unexpected ways OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount. The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents",
+    "outlet": "theguardian",
+    "published": "2026-09-27T01:10:21Z",
+    "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+    "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue"
+  },
+  "score": 0.654876
+}
