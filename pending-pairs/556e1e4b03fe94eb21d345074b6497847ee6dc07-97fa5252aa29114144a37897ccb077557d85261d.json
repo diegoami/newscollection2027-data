@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "556e1e4b03fe94eb21d345074b6497847ee6dc07",
+    "lede": "So much for Gemini 3.5 Pro.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T20:11:08Z",
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+  },
+  "b": {
+    "item_id": "97fa5252aa29114144a37897ccb077557d85261d",
+    "lede": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T20:41:41Z",
+    "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+  },
+  "score": 0.590209
+}

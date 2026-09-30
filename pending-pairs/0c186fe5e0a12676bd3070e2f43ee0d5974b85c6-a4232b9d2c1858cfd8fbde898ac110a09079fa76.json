@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c186fe5e0a12676bd3070e2f43ee0d5974b85c6",
+    "lede": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T20:44:48Z",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/"
+  },
+  "b": {
+    "item_id": "a4232b9d2c1858cfd8fbde898ac110a09079fa76",
+    "lede": "Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file",
+    "outlet": "theregister",
+    "published": "2026-09-29T14:30:00Z",
+    "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
+    "url": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721"
+  },
+  "score": 0.610607
+}

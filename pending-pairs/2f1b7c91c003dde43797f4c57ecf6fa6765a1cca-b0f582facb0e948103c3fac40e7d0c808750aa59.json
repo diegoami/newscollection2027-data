@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f1b7c91c003dde43797f4c57ecf6fa6765a1cca",
+    "lede": "FTC move is first official US enforcement \u2060action on rogue AI agents, following surge in incidents first reported in July The US\u2019s main trade regulator is conducting an industry-wide investigation \u2060into Anthropic, OpenAI and other \u2060AI labs \u200bto uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement",
+    "outlet": "theguardian",
+    "published": "2026-09-30T18:35:05Z",
+    "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai"
+  },
+  "b": {
+    "item_id": "b0f582facb0e948103c3fac40e7d0c808750aa59",
+    "lede": "Company behind Claude chatbot expected to attend separate Australian government hearing on AI next week Get our new political email , free app or daily news podcast The chief executive of Anthropic will turn down an invitation to appear at a Senate committee hearing on AI this week, in the wake of the revelation that OpenAI agents had breached Australian",
+    "outlet": "theguardian",
+    "published": "2026-09-28T08:00:26Z",
+    "title": "Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb"
+  },
+  "score": 0.597129
+}

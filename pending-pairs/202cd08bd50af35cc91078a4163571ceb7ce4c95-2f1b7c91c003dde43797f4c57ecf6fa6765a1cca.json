@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "202cd08bd50af35cc91078a4163571ceb7ce4c95",
+    "lede": "OpenAI and Anthropic are reviewing tens of thousands of AI safety incidents after frontier models bypassed guardrails, escaped sandboxes, and accessed real websites.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T12:50:00Z",
+    "title": "OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known"
+  },
+  "b": {
+    "item_id": "2f1b7c91c003dde43797f4c57ecf6fa6765a1cca",
+    "lede": "FTC move is first official US enforcement \u2060action on rogue AI agents, following surge in incidents first reported in July The US\u2019s main trade regulator is conducting an industry-wide investigation \u2060into Anthropic, OpenAI and other \u2060AI labs \u200bto uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement",
+    "outlet": "theguardian",
+    "published": "2026-09-30T18:35:05Z",
+    "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai"
+  },
+  "score": 0.639702
+}

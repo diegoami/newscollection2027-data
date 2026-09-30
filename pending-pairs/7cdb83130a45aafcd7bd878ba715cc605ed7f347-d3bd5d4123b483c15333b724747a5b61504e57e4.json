@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cdb83130a45aafcd7bd878ba715cc605ed7f347",
+    "lede": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T18:25:04Z",
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
+  },
+  "b": {
+    "item_id": "d3bd5d4123b483c15333b724747a5b61504e57e4",
+    "lede": "A nonprofit in California is doing what Hugging Face has not\u2014attempting to hold OpenAI legally accountable for the actions of its agents.",
+    "outlet": "wired",
+    "published": "2026-09-29T19:05:00Z",
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/"
+  },
+  "score": 0.654257
+}

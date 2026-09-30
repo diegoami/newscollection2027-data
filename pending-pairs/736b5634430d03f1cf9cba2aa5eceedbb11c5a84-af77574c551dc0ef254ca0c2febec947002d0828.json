@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "736b5634430d03f1cf9cba2aa5eceedbb11c5a84",
+    "lede": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T19:49:15Z",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+  },
+  "b": {
+    "item_id": "af77574c551dc0ef254ca0c2febec947002d0828",
+    "lede": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T15:39:19Z",
+    "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+    "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/"
+  },
+  "score": 0.695478
+}

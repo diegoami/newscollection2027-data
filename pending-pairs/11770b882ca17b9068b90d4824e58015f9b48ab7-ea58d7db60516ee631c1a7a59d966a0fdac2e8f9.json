@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11770b882ca17b9068b90d4824e58015f9b48ab7",
+    "lede": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T14:42:58Z",
+    "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+    "url": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/"
+  },
+  "b": {
+    "item_id": "ea58d7db60516ee631c1a7a59d966a0fdac2e8f9",
+    "lede": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T19:19:40Z",
+    "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+    "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/"
+  },
+  "score": 0.683584
+}

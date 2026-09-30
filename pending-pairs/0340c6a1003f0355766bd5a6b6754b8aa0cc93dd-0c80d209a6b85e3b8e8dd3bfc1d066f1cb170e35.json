@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0340c6a1003f0355766bd5a6b6754b8aa0cc93dd",
+    "lede": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both\u2014and I suspect you will too.",
+    "outlet": "wired",
+    "published": "2026-09-30T19:30:00Z",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/"
+  },
+  "b": {
+    "item_id": "0c80d209a6b85e3b8e8dd3bfc1d066f1cb170e35",
+    "lede": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T17:29:50Z",
+    "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+  },
+  "score": 0.587123
+}

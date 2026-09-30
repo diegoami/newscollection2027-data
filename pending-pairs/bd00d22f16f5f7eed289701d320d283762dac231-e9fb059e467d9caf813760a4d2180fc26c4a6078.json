@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bd00d22f16f5f7eed289701d320d283762dac231",
+    "lede": "Reddit says it's fighting \"automated abuse.\"",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T19:53:33Z",
+    "title": "Reddit is putting more limits on Old.Reddit.com",
+    "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/"
+  },
+  "b": {
+    "item_id": "e9fb059e467d9caf813760a4d2180fc26c4a6078",
+    "lede": "The Old Reddit is dying; the new Reddit struggles to avoid scraping.",
+    "outlet": "engadget",
+    "published": "2026-09-30T17:49:56Z",
+    "title": "Reddit imposes new restrictions on Old Reddit",
+    "url": "https://www.engadget.com/2273661/reddit-imposes-new-restrictions-on-old-reddit/"
+  },
+  "score": 0.837463
+}

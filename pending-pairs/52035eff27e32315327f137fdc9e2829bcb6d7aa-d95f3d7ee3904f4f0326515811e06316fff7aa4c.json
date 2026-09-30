@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "52035eff27e32315327f137fdc9e2829bcb6d7aa",
+    "lede": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T14:50:30Z",
+    "title": "FBI reportedly declares \u2018cyber security incident\u2019 after hackers steal agents\u2019 personal data",
+    "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/"
+  },
+  "b": {
+    "item_id": "d95f3d7ee3904f4f0326515811e06316fff7aa4c",
+    "lede": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T19:29:08Z",
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+  },
+  "score": 0.642254
+}

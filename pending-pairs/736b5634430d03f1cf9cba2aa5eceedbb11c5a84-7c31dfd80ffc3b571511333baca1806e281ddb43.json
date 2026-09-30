@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "736b5634430d03f1cf9cba2aa5eceedbb11c5a84",
+    "lede": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T19:49:15Z",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+  },
+  "b": {
+    "item_id": "7c31dfd80ffc3b571511333baca1806e281ddb43",
+    "lede": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T14:46:40Z",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.585225
+}
