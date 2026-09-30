@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1eb6183d721b63e029368ddfeef29653214a0525",
+    "lede": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress \u2026 but as the models have had this surge forward in capability, and we see [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T00:19:13Z",
+    "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+  },
+  "b": {
+    "item_id": "ba01a62d5f1bde5b4a1bbb51da33ca6e79ee453d",
+    "lede": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "outlet": "wired",
+    "published": "2026-09-28T11:32:19Z",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
+  },
+  "score": 0.573245
+}
