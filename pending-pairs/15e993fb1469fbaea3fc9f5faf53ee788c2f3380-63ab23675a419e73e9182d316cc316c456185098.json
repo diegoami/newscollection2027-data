@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15e993fb1469fbaea3fc9f5faf53ee788c2f3380",
+    "lede": "An experimental emulator makes it possible to play Nintendo Switch games on a jailbroken PS5, with a variety of games having been tested.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T15:20:00Z",
+    "title": "You can now play Nintendo Switch games on a jailbroken PS5",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda"
+  },
+  "b": {
+    "item_id": "63ab23675a419e73e9182d316cc316c456185098",
+    "lede": "A new jailbreak supports firmware 7.00 through 13.60, including on the PS5 Pro. But some game updates may already require a newer firmware, breaking the jailbreak.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T16:20:00Z",
+    "title": "New PS5 Relapse jailbreak enables homebrew and Switch emulation but is hamstrung by rapidly-changing firmware revisions",
+    "url": "https://www.tomshardware.com/video-games/playstation/new-ps5-relapse-jailbreak-enables-homebrew-and-switch-emulation-but-is-hamstrung-by-rapidly-changing-firmware-revisions-jailbreak-unlocks-firmware-13-60-but-newer-games-already-demand-firmware-14-00"
+  },
+  "score": 0.596973
+}

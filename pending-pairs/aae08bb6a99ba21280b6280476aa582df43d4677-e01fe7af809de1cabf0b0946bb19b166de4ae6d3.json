@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aae08bb6a99ba21280b6280476aa582df43d4677",
+    "lede": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T21:30:08Z",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
+  },
+  "b": {
+    "item_id": "e01fe7af809de1cabf0b0946bb19b166de4ae6d3",
+    "lede": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
+    "outlet": "zdnet",
+    "published": "2026-09-30T15:45:00Z",
+    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+    "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/"
+  },
+  "score": 0.580481
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b02666adfcfc3bcd65905b10095c6f4a6b35e185",
+    "lede": "SharpEmu\u2019s latest release can run six tested PS5 games at 60 FPS, with 12 of 55 titles now reaching gameplay state, as developers improve shader translation and Vulkan support.",
+    "outlet": "tomshardware",
+    "published": "2026-09-27T12:40:00Z",
+    "title": "PS5 emulator successfully runs six titles at a playable 60 FPS",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support"
+  },
+  "b": {
+    "item_id": "cd65c6a89bd8814305cf9978f5578d34f45a74f0",
+    "lede": "An experimental PS5 emulator has been shown running the brand-new Marvel's Wolverine game on a PC, with gameplay working for the first time.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T17:00:00Z",
+    "title": "Marvel's Wolverine reaches gameplay with KytyPS5 emulator",
+    "url": "https://www.tomshardware.com/video-games/playstation/marvels-wolverine-reaches-gameplay-with-kytyps5-emulator-ps5-exclusive-joins-ghost-of-yotei-in-reaching-gameplay-performance-still-in-single-digits"
+  },
+  "score": 0.584173
+}

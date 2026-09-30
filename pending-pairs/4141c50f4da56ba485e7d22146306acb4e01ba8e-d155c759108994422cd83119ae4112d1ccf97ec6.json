@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4141c50f4da56ba485e7d22146306acb4e01ba8e",
+    "lede": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T16:00:24Z",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+  },
+  "b": {
+    "item_id": "d155c759108994422cd83119ae4112d1ccf97ec6",
+    "lede": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T13:00:00Z",
+    "title": "You can text DoorDash\u2019s AI bot to \u2018order my usual\u2019 and it will figure the rest out",
+    "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability"
+  },
+  "score": 0.67467
+}

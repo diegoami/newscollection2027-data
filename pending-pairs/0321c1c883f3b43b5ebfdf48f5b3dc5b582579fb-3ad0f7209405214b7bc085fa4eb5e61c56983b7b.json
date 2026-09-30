@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0321c1c883f3b43b5ebfdf48f5b3dc5b582579fb",
+    "lede": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T16:00:00Z",
+    "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
+    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture"
+  },
+  "b": {
+    "item_id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
+    "lede": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T13:25:21Z",
+    "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+    "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/"
+  },
+  "score": 0.602189
+}

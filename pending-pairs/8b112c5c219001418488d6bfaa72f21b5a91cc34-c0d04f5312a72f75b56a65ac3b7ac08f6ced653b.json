@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8b112c5c219001418488d6bfaa72f21b5a91cc34",
+    "lede": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T17:45:00Z",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+  },
+  "b": {
+    "item_id": "c0d04f5312a72f75b56a65ac3b7ac08f6ced653b",
+    "lede": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the company says that you'll have to be logged in and have [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T17:45:00Z",
+    "title": "Reddit says it has to cut back access to \u2018Old Reddit\u2019 because of AI bots",
+    "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping"
+  },
+  "score": 0.689644
+}

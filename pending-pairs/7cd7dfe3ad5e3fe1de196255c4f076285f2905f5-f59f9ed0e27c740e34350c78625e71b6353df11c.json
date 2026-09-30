@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cd7dfe3ad5e3fe1de196255c4f076285f2905f5",
+    "lede": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T14:08:21Z",
+    "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns"
+  },
+  "b": {
+    "item_id": "f59f9ed0e27c740e34350c78625e71b6353df11c",
+    "lede": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T16:24:23Z",
+    "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+  },
+  "score": 0.581385
+}

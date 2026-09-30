@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0321c1c883f3b43b5ebfdf48f5b3dc5b582579fb",
+    "lede": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T16:00:00Z",
+    "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
+    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture"
+  },
+  "b": {
+    "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+    "lede": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+    "outlet": "zdnet",
+    "published": "2026-09-28T20:39:56Z",
+    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
+  },
+  "score": 0.57847
+}

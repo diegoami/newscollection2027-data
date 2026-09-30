@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e034ac321e4af1fe1ef70514da3317d6c2660748",
+    "lede": "The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he received an enthusiastic and immediate response. \u201cYep still available!\u201d wrote Matt Robb. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-09-29T13:58:36Z",
+    "title": "Meta\u2019s AI agent Muse gives out user\u2019s home address without permission, sending buyer to his house",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address"
+  },
+  "b": {
+    "item_id": "f59f9ed0e27c740e34350c78625e71b6353df11c",
+    "lede": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T16:24:23Z",
+    "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+  },
+  "score": 0.571669
+}

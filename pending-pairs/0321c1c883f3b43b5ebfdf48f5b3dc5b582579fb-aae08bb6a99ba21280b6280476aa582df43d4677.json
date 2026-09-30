@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0321c1c883f3b43b5ebfdf48f5b3dc5b582579fb",
+    "lede": "A new update to Lux Optics' anti-algorithm Halide camera app for the iPhone and iPad adds two new photography looks and support for the variable aperture on the new iPhone 18 Pro's main camera. Halide isn't the first alternative to the native iOS camera app to add support for the new feature, but it offers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T16:00:00Z",
+    "title": "The Halide camera app now offers full control of the iPhone 18 Pro\u2019s aperture",
+    "url": "https://www.theverge.com/tech/1002642/halide-ios-camera-app-update-iphone-18-pro-max-variable-aperture"
+  },
+  "b": {
+    "item_id": "aae08bb6a99ba21280b6280476aa582df43d4677",
+    "lede": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T21:30:08Z",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
+  },
+  "score": 0.581698
+}

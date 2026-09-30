@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e01fe7af809de1cabf0b0946bb19b166de4ae6d3",
+    "lede": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
+    "outlet": "zdnet",
+    "published": "2026-09-30T15:45:00Z",
+    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+    "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/"
+  },
+  "b": {
+    "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+    "lede": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+    "outlet": "zdnet",
+    "published": "2026-09-28T20:39:56Z",
+    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
+  },
+  "score": 0.610049
+}

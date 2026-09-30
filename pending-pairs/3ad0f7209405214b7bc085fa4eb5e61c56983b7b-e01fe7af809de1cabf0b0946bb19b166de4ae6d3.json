@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
+    "lede": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T13:25:21Z",
+    "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+    "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/"
+  },
+  "b": {
+    "item_id": "e01fe7af809de1cabf0b0946bb19b166de4ae6d3",
+    "lede": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
+    "outlet": "zdnet",
+    "published": "2026-09-30T15:45:00Z",
+    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+    "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/"
+  },
+  "score": 0.653777
+}

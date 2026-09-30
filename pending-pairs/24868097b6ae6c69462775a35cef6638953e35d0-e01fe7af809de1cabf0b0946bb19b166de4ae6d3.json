@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "24868097b6ae6c69462775a35cef6638953e35d0",
+    "lede": "Why you should update your iPhone 18 Pro to iOS 27.0.1.",
+    "outlet": "engadget",
+    "published": "2026-09-29T20:51:37Z",
+    "title": "Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues",
+    "url": "https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/"
+  },
+  "b": {
+    "item_id": "e01fe7af809de1cabf0b0946bb19b166de4ae6d3",
+    "lede": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
+    "outlet": "zdnet",
+    "published": "2026-09-30T15:45:00Z",
+    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+    "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/"
+  },
+  "score": 0.670463
+}
