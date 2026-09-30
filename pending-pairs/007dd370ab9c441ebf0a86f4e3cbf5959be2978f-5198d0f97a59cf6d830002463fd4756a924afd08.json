@@ -8,12 +8,12 @@
     "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns"
   },
   "b": {
-    "item_id": "fa45a29570c32d230e345cbed6341f9b552bfdcd",
-    "lede": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [\u2026]",
-    "outlet": "theverge",
-    "published": "2026-09-28T13:36:06Z",
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
-    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+    "item_id": "5198d0f97a59cf6d830002463fd4756a924afd08",
+    "lede": "OpenAI says AI-assisted Jalape\u00f1o chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T10:59:59Z",
+    "title": "\u2018This is how AI should be used\u2019 \u2014 OpenAI head of hardware breaks down the AI-assisted design of its Jalape\u00f1o ASIC",
+    "url": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic"
   },
-  "score": 0.5789
+  "score": 0.577374
 }

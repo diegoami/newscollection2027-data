@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5198d0f97a59cf6d830002463fd4756a924afd08",
+    "lede": "OpenAI says AI-assisted Jalape\u00f1o chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T10:59:59Z",
+    "title": "\u2018This is how AI should be used\u2019 \u2014 OpenAI head of hardware breaks down the AI-assisted design of its Jalape\u00f1o ASIC",
+    "url": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic"
+  },
+  "b": {
+    "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+    "lede": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-29T17:15:00Z",
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+  },
+  "score": 0.580506
+}
