@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c31dfd80ffc3b571511333baca1806e281ddb43",
+    "lede": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T14:46:40Z",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "afb00ef61d1d11c8588bdebf9772892843195472",
+    "lede": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T07:33:12Z",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/"
+  },
+  "score": 0.579536
+}

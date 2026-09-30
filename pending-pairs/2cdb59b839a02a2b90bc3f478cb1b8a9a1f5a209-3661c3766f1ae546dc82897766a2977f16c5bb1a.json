@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2cdb59b839a02a2b90bc3f478cb1b8a9a1f5a209",
+    "lede": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T12:20:00Z",
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+  },
+  "b": {
+    "item_id": "3661c3766f1ae546dc82897766a2977f16c5bb1a",
+    "lede": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
+    "outlet": "tomshardware",
+    "published": "2026-09-28T16:35:00Z",
+    "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
+  },
+  "score": 0.678702
+}

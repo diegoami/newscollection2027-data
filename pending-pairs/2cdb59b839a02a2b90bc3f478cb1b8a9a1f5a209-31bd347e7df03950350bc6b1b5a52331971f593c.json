@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2cdb59b839a02a2b90bc3f478cb1b8a9a1f5a209",
+    "lede": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T12:20:00Z",
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+  },
+  "b": {
+    "item_id": "31bd347e7df03950350bc6b1b5a52331971f593c",
+    "lede": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T15:29:21Z",
+    "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+    "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+  },
+  "score": 0.585918
+}

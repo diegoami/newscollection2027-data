@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2cdb59b839a02a2b90bc3f478cb1b8a9a1f5a209",
+    "lede": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T12:20:00Z",
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+  },
+  "b": {
+    "item_id": "488734a957d4c900ffb3090159d2da5ada08a4d4",
+    "lede": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
+    "outlet": "tomshardware",
+    "published": "2026-09-29T12:40:00Z",
+    "title": "Silicon is starting to design silicon \u2014 how AI is being used in chipmaking, from EDA tools to OpenAI's Jalape\u00f1o and beyond",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond"
+  },
+  "score": 0.638764
+}

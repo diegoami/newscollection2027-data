@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2cdb59b839a02a2b90bc3f478cb1b8a9a1f5a209",
+    "lede": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T12:20:00Z",
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+  },
+  "b": {
+    "item_id": "bb026ab8e20b69c93cfb4d2b6bc4d89d935872d2",
+    "lede": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue. The company announced a $150bn stock buyback the same day. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-09-28T15:32:57Z",
+    "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+    "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback"
+  },
+  "score": 0.570287
+}

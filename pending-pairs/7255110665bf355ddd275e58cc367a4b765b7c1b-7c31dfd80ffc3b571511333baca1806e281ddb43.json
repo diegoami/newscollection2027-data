@@ -8,12 +8,12 @@
     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
   },
   "b": {
-    "item_id": "82020db9c5642ec8832d11400f7ccc17a14ebfce",
-    "lede": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
-    "outlet": "theregister",
-    "published": "2026-09-29T17:49:45Z",
-    "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
-    "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+    "item_id": "7c31dfd80ffc3b571511333baca1806e281ddb43",
+    "lede": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T14:46:40Z",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
   },
-  "score": 0.625932
+  "score": 0.627617
 }

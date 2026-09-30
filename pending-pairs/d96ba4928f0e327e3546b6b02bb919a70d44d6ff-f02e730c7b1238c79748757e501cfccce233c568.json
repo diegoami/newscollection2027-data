@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d96ba4928f0e327e3546b6b02bb919a70d44d6ff",
+    "lede": "Your next coworker might well be an AI agent\u2014and will require a whole new model of workplace interactions.",
+    "outlet": "wired",
+    "published": "2026-09-28T10:00:00Z",
+    "title": "AI Agents Are About to Flood the Workforce. No One\u2019s Ready for It",
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"
+  },
+  "b": {
+    "item_id": "f02e730c7b1238c79748757e501cfccce233c568",
+    "lede": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T14:01:11Z",
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+    "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/"
+  },
+  "score": 0.572525
+}
