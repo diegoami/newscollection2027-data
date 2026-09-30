@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-09-29-2cf83e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Trump administration launches America.gov AI chatbot portal",
+  "summary": "The Trump administration launched America.gov, envisioned as the main AI chatbot portal for federal services, powered by Gemini and Grok. One report describes the site as unfinished and poorly designed, a critical framing not found in other coverage.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Trump administration launched America.gov as an official US government AI chatbot portal for federal services.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "141534a4cffe2af16013cb99774702092a0b4e95",
+          "quote": "There's now an official US government AI chatbot"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "141534a4cffe2af16013cb99774702092a0b4e95",
+          "quote": "The administration wants America.gov to be the main portal for federal services."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a416f5c8b5231e54d1de9280cdaf7b825119711a",
+          "quote": "Trump launches America.gov with AI chatbots at its core"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The site uses Gemini and Grok chatbots as the front door to federal resources.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "a416f5c8b5231e54d1de9280cdaf7b825119711a",
+          "quote": "Gemini, Grok now serving as front door to federal resources on unfinished, poorly designed website"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet characterizes the new site as unfinished and poorly designed, a critical framing not present in the other's neutral description.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "a416f5c8b5231e54d1de9280cdaf7b825119711a",
+          "quote": "Gemini, Grok now serving as front door to federal resources on unfinished, poorly designed website"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "141534a4cffe2af16013cb99774702092a0b4e95",
+          "quote": "The administration wants America.gov to be the main portal for federal services."
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

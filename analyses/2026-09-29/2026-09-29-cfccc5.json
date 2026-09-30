@@ -1,0 +1,132 @@
+{
+  "cluster_id": "2026-09-29-cfccc5",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "OpenAI launches always-on 'Dots' agents to rival Meta's Muse",
+  "summary": "At its DevDay keynote in San Francisco, OpenAI unveiled Dots, always-on AI agents powered by its GPT-6 Astra model that work across connected apps in the background, positioned as an answer to Meta's Muse. The launch came less than a day after OpenAI said it was scrapping a new model over safety concerns; one report described Dots as a rebrand of OpenAI's agents rather than a new launch.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI launched 'Dots,' an always-on AI agent positioned as its answer to Meta's Muse.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "04e15d4b0a7690294e5d696256ec550677e35e56",
+          "quote": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Dots was announced during OpenAI's DevDay keynote in San Francisco, delivered by CEO Sam Altman.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
+          "quote": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Dots can operate across connected apps in the background, pursuing goals continuously with minimal oversight while learning user preferences.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "can \"do nearly anything\" across connected apps in the background while learning your preferences over time."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "572dce99347eb8d444446d5270b2c3295cf96632",
+          "quote": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Dots is powered by OpenAI's GPT-6 Astra model.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "The company's capable GPT-6 Astra model powers"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The announcement came less than 24 hours after OpenAI said it would scrap a new model's launch over safety concerns.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f",
+          "quote": "Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company debuted a whole new suite of AI tools."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The launch was also described as a rebrand of OpenAI's agents, alongside the delay of its new model.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
+          "quote": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "The agents were presented with cute, disarming graphics.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "ad13c79b8a8a3b10115994ee7316575353dfcbb0",
+          "quote": "OpenAI tries disarming AI angst with cute graphics and always-on agents"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "04e15d4b0a7690294e5d696256ec550677e35e56",
+          "quote": "These cute agents are designed to connect to your apps and tackle multistep tasks."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet frames Dots as a rebrand of OpenAI's existing agents, while others describe it as a new product launch.",
+      "quotes": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
+          "quote": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "OpenAI launches Dots, its Muse competitor"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c6"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

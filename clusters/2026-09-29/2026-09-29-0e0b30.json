@@ -1,0 +1,32 @@
+{
+  "anchor": "1e986ba4691c5d8e1c56dc651c7bb3e1e694417d",
+  "id": "2026-09-29-0e0b30",
+  "items": [
+    {
+      "item_id": "1e986ba4691c5d8e1c56dc651c7bb3e1e694417d",
+      "lede": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
+      "outlet": "wired",
+      "published": "2026-09-29T01:00:00Z",
+      "title": "Nothing\u2019s New Headphone (1) Pro Are Made for the Studio",
+      "url": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/"
+    },
+    {
+      "item_id": "49c8b8118427610bd655b58212465f40e72dab9a",
+      "lede": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-29T01:00:00Z",
+      "title": "Nothing\u2019s new flagship Headphone 1 Pro put you in the studio",
+      "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review"
+    },
+    {
+      "item_id": "3295598ccdeb207664abfd1fd306d9dc01f26b76",
+      "lede": "Nothing's new 'pro' headphones feature a flat EQ, bucking the trend of custom equalizers.",
+      "outlet": "engadget",
+      "published": "2026-09-29T10:29:41Z",
+      "title": "Nothing's flagship $399 Headphone 1 Pro actually have some professional features",
+      "url": "https://www.engadget.com/2271675/nothing-headphone-1-pro/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

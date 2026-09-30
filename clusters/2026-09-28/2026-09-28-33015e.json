@@ -1,0 +1,24 @@
+{
+  "anchor": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+  "id": "2026-09-28-33015e",
+  "items": [
+    {
+      "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+      "lede": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+      "outlet": "zdnet",
+      "published": "2026-09-28T20:39:56Z",
+      "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
+    },
+    {
+      "item_id": "24868097b6ae6c69462775a35cef6638953e35d0",
+      "lede": "Why you should update your iPhone 18 Pro to iOS 27.0.1.",
+      "outlet": "engadget",
+      "published": "2026-09-29T20:51:37Z",
+      "title": "Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues",
+      "url": "https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

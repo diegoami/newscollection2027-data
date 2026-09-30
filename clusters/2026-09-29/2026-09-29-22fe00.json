@@ -1,0 +1,64 @@
+{
+  "anchor": "a54b0644eac77f891a20123fe0015d696d320535",
+  "id": "2026-09-29-22fe00",
+  "items": [
+    {
+      "item_id": "a54b0644eac77f891a20123fe0015d696d320535",
+      "lede": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity.",
+      "outlet": "techcrunch",
+      "published": "2026-09-29T05:13:43Z",
+      "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+    },
+    {
+      "item_id": "aa63e744c3690d5b01f41f68d0e1f643946820af",
+      "lede": "Despite a $2 trillion valuation ahead of its IPO, Anthropic hasn't been a money-spinning operation so far.",
+      "outlet": "engadget",
+      "published": "2026-09-29T09:59:57Z",
+      "title": "Anthropic lost $8 billion last year and said its AI could destroy humanity",
+      "url": "https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/"
+    },
+    {
+      "item_id": "c2e171abcf8dbd6026193986974f134937ba40b5",
+      "lede": "Reported admission to investors of AI\u2019s \u2018self-preserving behaviours\u2019 comes as company prepares for a potential $2tn flotation Anthropic is telling investors that advanced AI could pose \u201ccatastrophic or existential risks to humanity\u201d, according to reports, as it prepares for a potential $2tn (\u00a31.5tn) flotation. The warning inside the startup\u2019s IPO prospectus, which has yet to be made public, was reported",
+      "outlet": "theguardian",
+      "published": "2026-09-29T10:17:58Z",
+      "title": "Anthropic \u2018warns of existential AI risks to humanity\u2019 in IPO document",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude"
+    },
+    {
+      "item_id": "4673f7cac181a10317253a5713dd54e3a6b92c3b",
+      "lede": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-29T11:48:27Z",
+      "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat"
+    },
+    {
+      "item_id": "899c77caa9d76973827300aac5b91619c8ba3e9b",
+      "lede": "Just wait until you hear the bad news",
+      "outlet": "theregister",
+      "published": "2026-09-29T12:53:13Z",
+      "title": "Leaked IPO docs: Anthropic tempts investors with existential risk warning",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763"
+    },
+    {
+      "item_id": "c39b11c935db6806760083dafd3ecdcf6736fc92",
+      "lede": "Anthropic serves a dire warning in its IPO prospectus, saying how a rogue model could lead to the end of humanity and, consequentially, its business. Nevertheless, investors are still hoping for a $2-trillion valuation once the company goes public.",
+      "outlet": "tomshardware",
+      "published": "2026-09-29T13:30:00Z",
+      "title": "Anthropic lists \u2018existential risks to humanity\u2019 as one of its risk factors in IPO prospectus",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut"
+    },
+    {
+      "item_id": "b04e939d35b780a0fd354437bf5d4db6f97cae82",
+      "lede": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "outlet": "arstechnica",
+      "published": "2026-09-29T14:10:00Z",
+      "title": "Anthropic\u2019s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

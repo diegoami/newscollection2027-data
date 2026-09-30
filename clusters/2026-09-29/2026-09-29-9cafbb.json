@@ -1,0 +1,24 @@
+{
+  "anchor": "48a9436394d48ce19abc9efeb6245f800024dfe1",
+  "id": "2026-09-29-9cafbb",
+  "items": [
+    {
+      "item_id": "48a9436394d48ce19abc9efeb6245f800024dfe1",
+      "lede": "Between the cars and their companion apps, you\u2019re exposed to a lot of trackers.",
+      "outlet": "arstechnica",
+      "published": "2026-09-29T14:49:44Z",
+      "title": "This study looks at how and with whom connected cars share your data",
+      "url": "https://arstechnica.com/cars/2026/09/connected-car-data-privacy-is-still-abysmal-study-finds/"
+    },
+    {
+      "item_id": "8f289d0766df24d6f68e9f3029c4c989fac664dc",
+      "lede": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+      "outlet": "techcrunch",
+      "published": "2026-09-29T22:18:35Z",
+      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

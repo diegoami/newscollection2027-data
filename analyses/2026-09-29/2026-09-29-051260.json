@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-09-29-051260",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Oura postpones $2.2B IPO citing market uncertainty",
+  "summary": "Smart-ring maker Oura postponed its planned $2.2 billion IPO, citing market uncertainty even though it said demand remained strong. The delay will push back plans for IPO proceeds for both the company and its shareholders, as the broader IPO market cooled in the third quarter after a solid start to the year.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Oura postponed its planned $2.2 billion IPO, citing market uncertainty.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6d9b6862c126238890f18ce7bfe4ae012b6f02c0",
+          "quote": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "537504999ce66037f8944507c8c6b9a8876f727a",
+          "quote": "Smart ring maker Oura puts off initial public offering due to market ‘uncertainty’"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The postponement will delay plans for IPO proceeds for both the company and its shareholders.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6d9b6862c126238890f18ce7bfe4ae012b6f02c0",
+          "quote": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Oura said it was delaying despite strong demand, as the broader IPO market cooled in the third quarter.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "537504999ce66037f8944507c8c6b9a8876f727a",
+          "quote": "Oura said it’s delaying the stock market float “despite strong demand”."
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "537504999ce66037f8944507c8c6b9a8876f727a",
+          "quote": "Researchers say the IPO market was off to a solid start but tailed off in the third quarter"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

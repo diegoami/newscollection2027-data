@@ -1,1 +1,77 @@
-{"cluster_id": "2026-09-28-645baf", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-29T02:30:00Z", "headline": "Google confirms ChromeOS phase-out by 2034 for Googlebook OS", "summary": "Google confirmed ChromeOS support will phase out in 2034 as it transitions to a new Googlebook OS, with some existing Chromebook devices able to switch to the new system. One outlet frames the confirmation as only \"seemingly\" official, while others report it as a firm confirmation.", "claims": [{"id": "c1", "statement": "Google confirmed ChromeOS support will phase out in 2034 as it transitions to a new Googlebook OS.", "sources": [{"outlet": "tomshardware", "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff", "quote": "Google confirmed ChromeOS updates will phase out in 2034 as the company transitions to Googlebook OS and new laptops."}, {"outlet": "engadget", "item_id": "89eaf42553ba36d6cbb1396e33492941aa3e4c8a", "quote": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS"}]}, {"id": "c2", "statement": "Some existing Chromebook devices will be able to switch to the new operating system.", "sources": [{"outlet": "engadget", "item_id": "89eaf42553ba36d6cbb1396e33492941aa3e4c8a", "quote": "Some recent Chromebook devices will be able to switch to the new operating system."}]}, {"id": "c3", "statement": "For some devices, this cuts short ChromeOS's usual 10-year support lifetime.", "sources": [{"outlet": "tomshardware", "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff", "quote": "10-year support lifetime cut short for some devices"}]}], "discrepancies": [{"kind": "framing", "severity": "low", "explanation": "One outlet frames the ChromeOS phase-out as only 'seemingly' confirmed, while others state it as a firm confirmation.", "quotes": [{"outlet": "arstechnica", "item_id": "70e2a9fc6d33026409d45876ac223e668e5d2806", "quote": "Google seemingly confirms plans to kill ChromeOS in 2034"}, {"outlet": "tomshardware", "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff", "quote": "Google confirmed ChromeOS updates will phase out in 2034"}], "claim_ids": ["c1"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-09-28-645baf",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Google to end ChromeOS support in 2034, shift to Googlebook OS",
+  "summary": "Google confirmed ChromeOS support will end in 2034 as the company transitions to a new Googlebook operating system, with some recent Chromebooks able to switch over. The Register frames this as ending support two years early, after eight years rather than the expected decade, while Ars Technica describes the plan as only seemingly confirmed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google confirmed ChromeOS will be phased out in 2034 as it transitions to Googlebook OS.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff",
+          "quote": "Google confirmed ChromeOS updates will phase out in 2034 as the company transitions to Googlebook OS and new laptops."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "89eaf42553ba36d6cbb1396e33492941aa3e4c8a",
+          "quote": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "This cuts short the originally expected support lifetime, to eight years instead of a decade.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff",
+          "quote": "10-year support lifetime cut short for some devices"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "87be46c6f9247b1d2b53162af94c6f983ca7d224",
+          "quote": "Rise of the Googlebook means ChromeOS users get eight years' support, not a decade"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Some recent Chromebook devices will be able to switch to the new operating system.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "89eaf42553ba36d6cbb1396e33492941aa3e4c8a",
+          "quote": "Some recent Chromebook devices will be able to switch to the new operating system."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet frames Google's plan as only 'seemingly' confirmed, while others report it as a firm confirmation.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "70e2a9fc6d33026409d45876ac223e668e5d2806",
+          "quote": "Google seemingly confirms plans to kill ChromeOS in 2034"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "869304d50d24210adc54c0c5eaf81cd40050a9ff",
+          "quote": "Google confirmed ChromeOS updates will phase out in 2034 as the company transitions to Googlebook OS and new laptops."
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

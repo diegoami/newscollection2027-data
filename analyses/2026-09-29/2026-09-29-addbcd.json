@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-09-29-addbcd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "OpenAI holds DevDay 2026 keynote with Sam Altman in San Francisco",
+  "summary": "OpenAI hosted its annual DevDay 2026 event in San Francisco on September 29th, with CEO Sam Altman delivering a live keynote covering ChatGPT and Codex announcements. The company teased more than 20 launches, with Altman saying 'we have found a new thing.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI held its annual DevDay 2026 event in San Francisco on September 29th, with CEO Sam Altman delivering a live keynote.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3dd1d5cb42b5e831d40cfb643bb18090c7d5ca6e",
+          "quote": "CEO Sam Altman is expected to take the stage today."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "0d5fc586f5910cabf6d7de6ac00fbbe028624745",
+          "quote": "The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "OpenAI teased more than 20 launches, with Altman saying the company had 'found a new thing.'",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "0d5fc586f5910cabf6d7de6ac00fbbe028624745",
+          "quote": "The company is teasing “20+ launches” with Altman saying that “we have found a new thing,”"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

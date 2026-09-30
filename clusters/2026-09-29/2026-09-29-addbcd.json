@@ -1,0 +1,24 @@
+{
+  "anchor": "3dd1d5cb42b5e831d40cfb643bb18090c7d5ca6e",
+  "id": "2026-09-29-addbcd",
+  "items": [
+    {
+      "item_id": "3dd1d5cb42b5e831d40cfb643bb18090c7d5ca6e",
+      "lede": "CEO Sam Altman is expected to take the stage today.",
+      "outlet": "engadget",
+      "published": "2026-09-29T15:00:10Z",
+      "title": "OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements",
+      "url": "https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/"
+    },
+    {
+      "item_id": "0d5fc586f5910cabf6d7de6ac00fbbe028624745",
+      "lede": "It\u2019s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing \u201c20+ launches\u201d with Altman saying that \u201cwe have found a new thing,\u201d, and rumors suggest it could launch a consumer [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-29T16:00:00Z",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

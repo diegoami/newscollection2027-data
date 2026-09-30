@@ -3,22 +3,54 @@
   "id": "2026-09-28-01e337",
   "items": [
     {
-      "item_id": "a2c275a76a4333ffa034212b5bc2041f8a774734",
-      "lede": "GPT-6.1 Astra showed deceptive behavior and tried to use external tools despite knowing it would be unsafe OpenAI is scrapping the release of GPT-6.1 Astra, a next-generation \u2060AI model planned for an October debut, over safety concerns raised by researchers \u2060during internal testing, the \u2060Wall \u200bStreet Journal reported on Monday. The model, expected to appear in ChatGPT and \u2060Codex, was",
-      "outlet": "theguardian",
-      "published": "2026-09-28T23:02:28Z",
-      "title": "OpenAI scraps release of new model over safety concerns in internal testing",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped"
-    },
-    {
       "item_id": "220dea2c55f4850630d6afeb60799efd7dab83b9",
       "lede": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
       "outlet": "techcrunch",
       "published": "2026-09-28T23:39:20Z",
       "title": "OpenAI reportedly ditches model over safety concerns",
       "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+    },
+    {
+      "item_id": "90cc429476bc780b44226c87458b01192fa261b1",
+      "lede": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-29T02:29:25Z",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko"
+    },
+    {
+      "item_id": "a2c275a76a4333ffa034212b5bc2041f8a774734",
+      "lede": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don\u2019t and neither should you Business live \u2013 latest updates OpenAI is scrapping the release of a next-generation \u2060AI model after researchers raised safety concerns \u2060during internal",
+      "outlet": "theguardian",
+      "published": "2026-09-29T07:15:54Z",
+      "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped"
+    },
+    {
+      "item_id": "1f933d39d2e49a00371be8650ddc7f0eb7d1305e",
+      "lede": "According to The New York Times, OpenAI scrapped GPT-6.1 Astra's release because it didn't meet safety standards.",
+      "outlet": "engadget",
+      "published": "2026-09-29T08:15:26Z",
+      "title": "OpenAI reportedly cancels GPT-6.1 Astra's release over deceptive behavior",
+      "url": "https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/"
+    },
+    {
+      "item_id": "a0f4ea73d942977059da70d59f8c72e6876f3afd",
+      "lede": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+      "outlet": "wired",
+      "published": "2026-09-29T10:36:22Z",
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
+    },
+    {
+      "item_id": "55b32e350614bcd50dfbae9b9f1b4c91575b6ff5",
+      "lede": "Similar performance, security tradeoffs also seen in current public models.",
+      "outlet": "arstechnica",
+      "published": "2026-09-29T14:22:31Z",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

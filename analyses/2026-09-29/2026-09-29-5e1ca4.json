@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-09-29-5e1ca4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Apple patches CoreGraphics zero-day exploited in targeted attacks",
+  "summary": "Apple patched a CoreGraphics zero-day vulnerability, spotted by Meta, that had been exploited in extremely sophisticated targeted attacks against specific individuals running iOS 26. The flaw could let attackers achieve arbitrary code execution via a maliciously crafted file, and Apple is urging users still on iOS 26 to update.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple patched a CoreGraphics zero-day vulnerability that had been exploited in targeted attacks on iOS devices.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "afb00ef61d1d11c8588bdebf9772892843195472",
+          "quote": "Apple patches CoreGraphics zero-day flaw exploited in attacks"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a4232b9d2c1858cfd8fbde898ac110a09079fa76",
+          "quote": "Apple patches CoreGraphics zero-day already exploited in targeted attacks"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The flaw was used in extremely sophisticated targeted attacks.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "afb00ef61d1d11c8588bdebf9772892843195472",
+          "quote": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Apple said the bug was used to attack specific targeted individuals running iOS 26, which most Apple customers still use.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
+          "quote": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The flaw was spotted by Meta and could allow attackers arbitrary code execution via a maliciously crafted file.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "a4232b9d2c1858cfd8fbde898ac110a09079fa76",
+          "quote": "Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

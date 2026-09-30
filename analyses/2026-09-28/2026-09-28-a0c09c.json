@@ -1,0 +1,117 @@
+{
+  "cluster_id": "2026-09-28-a0c09c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Dutch police arrest ShinyHunters suspect; FBI warns other members",
+  "summary": "Dutch police arrested a 24-year-old Amsterdam man on September 15th in connection with the ShinyHunters hacking group, which has claimed attacks on Ticketmaster, Rockstar Games and the FBI. Reports describe flashbangs used in the raid, plans to murder two people found on his laptop, and the FBI calling him an alleged leader — though the group itself denies any connection to him.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Dutch police confirmed the arrest of a 24-year-old Amsterdam man in connection with ShinyHunters.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "9b2769919d577d6893ce66e5c92b4ea900cb9775",
+          "quote": "Dutch police confirm arrest in ShinyHunters hacking investigation"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "26e2ef13dbf26321cd450ecfdabb041017eb1974",
+          "quote": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The suspect was arrested on September 15th, days before the group's most recent claimed activity.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "26e2ef13dbf26321cd450ecfdabb041017eb1974",
+          "quote": "state that they arrested the suspect on September 15th - just days before the hacking group claimed to"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "ShinyHunters previously claimed responsibility for attacks on Ticketmaster, Rockstar Games and, more recently, the FBI.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "26e2ef13dbf26321cd450ecfdabb041017eb1974",
+          "quote": "the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Flashbangs were reportedly deployed during the arrest operation, and the group denies any connection to the suspect.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "8bb58f96a04299e3b3b813fa6a514dab36af0b3d",
+          "quote": "Flashbangs reportedly deployed during operation as crime group denies any connection to suspect"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The suspect reportedly had plans on his laptop to organize the murder of two people.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "cbc20ec61d8d4369febcc5fcd941ec3ae633545b",
+          "quote": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The FBI described the arrested man as one of ShinyHunters' alleged leaders and warned other members to turn themselves in.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "269e738f0981750fd77ae376e7c7bcc0a6d3529f",
+          "quote": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders."
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "The FBI separately warned ShinyHunters members that it knows how to find them.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b513f59d09898c70f0767f250be22b1c0e62715f",
+          "quote": "FBI to ShinyHunters: 'We know how to find you'"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "high",
+      "explanation": "One report says the ShinyHunters group denies any connection to the arrested suspect, while other outlets describe the arrest as being of a ShinyHunters member or alleged leader.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "8bb58f96a04299e3b3b813fa6a514dab36af0b3d",
+          "quote": "Flashbangs reportedly deployed during operation as crime group denies any connection to suspect"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "269e738f0981750fd77ae376e7c7bcc0a6d3529f",
+          "quote": "described as one of the group's alleged leaders"
+        }
+      ],
+      "claim_ids": [
+        "c4",
+        "c6"
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

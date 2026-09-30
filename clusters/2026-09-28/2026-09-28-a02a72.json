@@ -33,8 +33,16 @@
       "published": "2026-09-28T21:26:19Z",
       "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
       "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
+    },
+    {
+      "item_id": "d452065a3de0dfc8193770f49614d7c2cdc7e7cb",
+      "lede": "SpaceX deployed 26 Starlink V3 satellites before bringing its planned ten-hour flight home after three",
+      "outlet": "theregister",
+      "published": "2026-09-29T12:01:00Z",
+      "title": "Starship finally makes orbit but engine trouble cuts the victory lap short",
+      "url": "https://www.theregister.com/offbeat/2026/09/29/starship-finally-makes-orbit-but-engine-trouble-cuts-the-victory-lap-short/5299708"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

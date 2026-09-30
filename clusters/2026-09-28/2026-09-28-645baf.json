@@ -25,8 +25,16 @@
       "published": "2026-09-28T19:36:57Z",
       "title": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS",
       "url": "https://www.engadget.com/2271249/google-will-support-chromeos-until-2034-as-it-shifts-to-googlebook-os/"
+    },
+    {
+      "item_id": "87be46c6f9247b1d2b53162af94c6f983ca7d224",
+      "lede": "Rise of the Googlebook means ChromeOS users get eight years' support, not a decade",
+      "outlet": "theregister",
+      "published": "2026-09-29T04:55:35Z",
+      "title": "Google ending ChromeOS support two years early",
+      "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

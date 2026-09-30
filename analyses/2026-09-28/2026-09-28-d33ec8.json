@@ -1,1 +1,72 @@
-{"cluster_id": "2026-09-28-d33ec8", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-29T02:30:00Z", "headline": "Meta launches enterprise AI platform, hires MongoDB CEO", "summary": "Meta launched a new enterprise AI platform and business, aiming to sell its Muse technology stack, including Meta Business Agent, Muse API and Muse Code, to other companies. Meta hired the MongoDB CEO to lead the new initiative. One outlet frames the move as an effort to justify Meta's AI spending.", "claims": [{"id": "c1", "statement": "Meta launched a new enterprise AI platform and business selling its AI products and services to other companies.", "sources": [{"outlet": "techcrunch", "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068", "quote": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"}, {"outlet": "engadget", "item_id": "3d9ae01995f45639df81918b0e9ff7ba48ed448c", "quote": "Meta wants to sell its AI products and services to other companies."}]}, {"id": "c2", "statement": "Meta hired the MongoDB CEO to lead the new enterprise initiative.", "sources": [{"outlet": "techcrunch", "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068", "quote": "hires MongoDB CEO to lead new initiative"}]}, {"id": "c3", "statement": "The platform includes Meta's Muse technology stack, including Meta Business Agent, Muse API and Muse Code.", "sources": [{"outlet": "techcrunch", "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068", "quote": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."}]}], "discrepancies": [{"kind": "framing", "severity": "low", "explanation": "One outlet frames the launch as an effort to justify Meta's AI spending, a characterization not present in the other's more neutral report.", "quotes": [{"outlet": "engadget", "item_id": "3d9ae01995f45639df81918b0e9ff7ba48ed448c", "quote": "Meta is starting an enterprise business to justify its massive AI spending"}, {"outlet": "techcrunch", "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068", "quote": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"}], "claim_ids": ["c1"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-09-28-d33ec8",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Meta launches enterprise AI push, expands Muse to small businesses",
+  "summary": "Meta launched a new enterprise AI business, hiring a MongoDB CEO to lead an initiative bringing Muse, Meta Business Agent and other tools to companies and developers. As part of the push, Meta also expanded a version of Muse for small businesses, letting owners connect ad accounts and analytics to find new customers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta launched a new enterprise AI platform and hired a MongoDB CEO to lead the initiative.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068",
+          "quote": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The initiative brings Meta's full AI stack, including Muse and Muse API/Code, to businesses and developers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "80f86534580d63e604f66d1a8c7d47f9e37aa068",
+          "quote": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Meta wants to sell its AI products and services to other companies to help justify its AI spending.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3d9ae01995f45639df81918b0e9ff7ba48ed448c",
+          "quote": "Meta is starting an enterprise business to justify its massive AI spending"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3d9ae01995f45639df81918b0e9ff7ba48ed448c",
+          "quote": "Meta wants to sell its AI products and services to other companies."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Meta expanded its Muse AI agent to small businesses, where it can connect to ad accounts and analytics and help owners find customers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "16c4b876e19df62bcdcb09d989ebc9d69bb644ab",
+          "quote": "Meta is expanding its AI agent Muse to small businesses"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "16c4b876e19df62bcdcb09d989ebc9d69bb644ab",
+          "quote": "The tech giant says the agent can help owners run their business and find new customers."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "df8c03bbaec04c2f064dc1d12e06e3d081a45075",
+          "quote": "The agent can now connect to ad accounts and analytics for Instagram and Facebook."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

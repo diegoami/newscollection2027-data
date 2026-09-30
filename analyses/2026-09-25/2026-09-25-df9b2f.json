@@ -1,62 +1,89 @@
 {
   "cluster_id": "2026-09-25-df9b2f",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-09-26T02:40:17Z",
-  "headline": "Kiteworks urges customers to shut down servers over threat",
-  "summary": "Kiteworks is urging customers worldwide to temporarily shut down their servers for a six-hour window on Saturday, after receiving what it calls a 'credible threat' from law enforcement warning of an imminent cyberattack tied to potential zero-day vulnerabilities.",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Kiteworks urges shutdown over cyberattack threat, then patches flaw",
+  "summary": "Kiteworks asked customers worldwide to temporarily shut down servers after receiving a threat warning described as either a credible law-enforcement tip or a potential zero-day attack risk. Days later, the company said it had patched the underlying critical vulnerability and restored customer systems.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Kiteworks is urging customers to temporarily shut down their servers due to an imminent cyberattack threat",
+      "statement": "Kiteworks urged customers to shut down their servers amid an imminent cyberattack threat.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
-          "quote": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack"
+          "quote": "urges customers to shut down their servers amid ‘imminent’ threat of cyberattack"
         },
         {
           "outlet": "bleepingcomputer",
           "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
-          "quote": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks"
+          "quote": "urges 6-hour server shutdown over potential zero-day attacks"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The shutdown is planned for a six-hour window on Saturday",
+      "statement": "Kiteworks said it received a credible threat from law enforcement about an imminent attack.",
       "sources": [
         {
-          "outlet": "bleepingcomputer",
-          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
-          "quote": "to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]"
+          "outlet": "techcrunch",
+          "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
+          "quote": "received a \"credible threat\" from law enforcement about an imminent attack."
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "Kiteworks said it received a 'credible threat' from law enforcement warning of the attack",
+      "statement": "The requested shutdown was a six-hour window on Saturday, prompted by threat intelligence.",
       "sources": [
         {
-          "outlet": "techcrunch",
-          "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
-          "quote": "said it received a \"credible threat\" from law enforcement about an imminent attack."
+          "outlet": "bleepingcomputer",
+          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+          "quote": "temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack."
         }
       ]
     },
     {
       "id": "c4",
-      "statement": "The threat is linked to potential zero-day vulnerabilities",
+      "statement": "Kiteworks later said it had patched the critical vulnerability and restored customer systems.",
       "sources": [
         {
           "outlet": "bleepingcomputer",
-          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
-          "quote": "over potential zero-day attacks"
+          "item_id": "bbc72d6b53d521eef38203c64849745455a23deb",
+          "quote": "Kiteworks patches critical flaw, brings customer systems online"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "bbc72d6b53d521eef38203c64849745455a23deb",
+          "quote": "has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability."
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet attributes the warning to a law-enforcement-sourced credible threat, while another frames it as a potential zero-day attack risk.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "066b079084bc64e1a3443676216ef2f81779e426",
+          "quote": "received a \"credible threat\" from law enforcement about an imminent attack."
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "bdcdb2d24781d34d9af93ebbd510ff0fc212e9e8",
+          "quote": "urges 6-hour server shutdown over potential zero-day attacks"
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c2"
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

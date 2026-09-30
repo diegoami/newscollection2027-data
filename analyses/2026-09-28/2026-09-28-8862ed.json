@@ -1,1 +1,73 @@
-{"cluster_id": "2026-09-28-8862ed", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-09-29T02:30:00Z", "headline": "AMD to acquire Fei-Fei Li's World Labs for $8.2 billion", "summary": "AMD is acquiring World Labs, the AI research lab co-founded by Fei-Fei Li, for approximately $8.2 billion in an all-stock deal. Li will join AMD as executive vice president and chief scientist. World Labs launched in 2024 and was valued at $1 billion within months.", "claims": [{"id": "c1", "statement": "AMD is acquiring World Labs, the AI research lab co-founded by Fei-Fei Li, for about $8.2 billion.", "sources": [{"outlet": "theverge", "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4", "quote": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion."}]}, {"id": "c2", "statement": "Fei-Fei Li will join AMD as executive vice president and chief scientist.", "sources": [{"outlet": "techcrunch", "item_id": "2f5ef06215656984c76556ba6229393c543f8f66", "quote": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."}]}, {"id": "c3", "statement": "World Labs launched in 2024 and was valued at $1 billion within months.", "sources": [{"outlet": "theverge", "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4", "quote": "World Labs launched in 2024 and was valued at $1 billion in a matter of months."}, {"outlet": "theregister", "item_id": "d50aee851fe905ff6fb56786d027483d6cf4de13", "quote": "AI pioneer Fei-Fei Li just co-founded spatial AI research company World Labs in 2024."}]}, {"id": "c4", "statement": "The deal is structured as an all-stock transaction.", "sources": [{"outlet": "theverge", "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4", "quote": "in an all-stock deal worth approximately $8.2 billion"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-28-8862ed",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "AMD to acquire Fei-Fei Li's World Labs for $8.2 billion",
+  "summary": "AMD is acquiring World Labs, the AI startup co-founded by researcher Fei-Fei Li, in an all-stock deal worth about $8.2 billion expected to close by year's end. Li will join AMD as executive vice president and chief scientist. World Labs launched in 2024 and was valued at $1 billion within months, and the deal is seen as AMD's answer to Nvidia in AI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "AMD is acquiring World Labs, the AI startup co-founded by Fei-Fei Li, for about $8.2 billion.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2f5ef06215656984c76556ba6229393c543f8f66",
+          "quote": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4",
+          "quote": "in an all-stock deal worth approximately $8.2 billion."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Fei-Fei Li will join AMD as executive vice president and chief scientist.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2f5ef06215656984c76556ba6229393c543f8f66",
+          "quote": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "World Labs launched in 2024 and was valued at $1 billion within months.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "227c6ab559343ea9f4c5f2f470f0872b04fd7aa4",
+          "quote": "World Labs launched in 2024 and was valued at $1 billion in a matter of months."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The deal is expected to close by the end of the year.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "088b2b332c11975994d9c8f6d3c2e693277d6642",
+          "quote": "The deal, which is expected to close by year's end, is worth $8.2 billion."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The acquisition is seen as AMD upping its competition against Nvidia in AI.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "088b2b332c11975994d9c8f6d3c2e693277d6642",
+          "quote": "AMD acquires World Labs AI startup, upping the ante against Nvidia"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-09-28-33015e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-09-30T02:30:00Z",
+  "headline": "Apple releases iOS 27.0.1, fixing Face ID and freezing bugs",
+  "summary": "Apple released iOS 27.0.1, the first update to iOS 27, fixing a bug that caused the iPhone 18 Pro and Pro Max to freeze or restart when using Face ID. Engadget also reports the update addresses touchscreen issues.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple released iOS 27.0.1, the first update to iOS 27.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+          "quote": "The first update to iOS 27 squashes a bug"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The update fixes a bug causing the iPhone 18 Pro and Pro Max to freeze or restart when using Face ID.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "e6cde0b75b83a99039bc830d63fc728671de1e04",
+          "quote": "squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "24868097b6ae6c69462775a35cef6638953e35d0",
+          "quote": "fixes for Face ID and touchscreen issues"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
