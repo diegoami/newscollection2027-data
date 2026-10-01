@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4600d25857009117b69ca5e938a7ea9fe3e5f902",
+    "lede": "One of iOS 27's coolest security features didn't make headlines, but it could stop you from falling for a scam.",
+    "outlet": "engadget",
+    "published": "2026-09-29T18:00:00Z",
+    "title": "Apple's new iPhone and iPad security feature can protect you from scammers",
+    "url": "https://www.engadget.com/2271157/apple-iphone-ipad-impersonator-risk-detection-new-security-feature/"
+  },
+  "b": {
+    "item_id": "b23cd57a1f6aec64db95024dd1a92f3a736b1aa0",
+    "lede": "A training video reportedly demonstrates how police can evade an Apple security feature.",
+    "outlet": "engadget",
+    "published": "2026-10-01T20:43:15Z",
+    "title": "Police may have new ways to access data on locked iPhones",
+    "url": "https://www.engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones/"
+  },
+  "score": 0.576738
+}

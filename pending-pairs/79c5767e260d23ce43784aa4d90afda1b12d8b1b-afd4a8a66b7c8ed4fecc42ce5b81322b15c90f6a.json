@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "79c5767e260d23ce43784aa4d90afda1b12d8b1b",
+    "lede": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [\u2026]",
+    "outlet": "techcrunch",
+    "published": "2026-09-28T18:31:23Z",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+  },
+  "b": {
+    "item_id": "afd4a8a66b7c8ed4fecc42ce5b81322b15c90f6a",
+    "lede": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T20:52:50Z",
+    "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+    "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/"
+  },
+  "score": 0.579419
+}
