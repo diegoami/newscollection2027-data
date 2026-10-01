@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7255110665bf355ddd275e58cc367a4b765b7c1b",
+    "lede": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T18:37:12Z",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+  },
+  "b": {
+    "item_id": "df906286a3c44c251f924cb6dc769213f5bfef47",
+    "lede": "Attackers were probing the mail server flaw weeks before it had a CVE to its name",
+    "outlet": "theregister",
+    "published": "2026-10-01T14:44:00Z",
+    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
+    "url": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543"
+  },
+  "score": 0.583896
+}

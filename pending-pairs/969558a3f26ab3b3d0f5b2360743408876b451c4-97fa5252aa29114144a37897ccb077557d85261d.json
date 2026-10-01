@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "969558a3f26ab3b3d0f5b2360743408876b451c4",
+    "lede": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing.",
+    "outlet": "engadget",
+    "published": "2026-10-01T09:26:30Z",
+    "title": "Google's first Gemini 4 model is 'Argon'",
+    "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/"
+  },
+  "b": {
+    "item_id": "97fa5252aa29114144a37897ccb077557d85261d",
+    "lede": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T20:41:41Z",
+    "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+  },
+  "score": 0.683326
+}

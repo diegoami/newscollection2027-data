@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7627b64443e10e0d8938aa75b673ac143846704a",
+    "lede": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-28T18:45:00Z",
+    "title": "OpenAI\u2019s AI agents need to catch up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent"
+  },
+  "b": {
+    "item_id": "7cd7f5bf9e1bd4f0151502978c1451c4950515b6",
+    "lede": "Nvidia\u2019s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T14:30:00Z",
+    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
+  },
+  "score": 0.57117
+}

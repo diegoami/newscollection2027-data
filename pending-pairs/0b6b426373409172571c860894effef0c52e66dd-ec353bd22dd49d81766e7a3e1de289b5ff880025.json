@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b6b426373409172571c860894effef0c52e66dd",
+    "lede": "Annual update installed. You're up to date, so nothing seems to have changed. Wait a minute...",
+    "outlet": "theregister",
+    "published": "2026-10-01T15:31:00Z",
+    "title": "Microsoft makes Windows settings backup the default in 26H2",
+    "url": "https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552"
+  },
+  "b": {
+    "item_id": "ec353bd22dd49d81766e7a3e1de289b5ff880025",
+    "lede": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T17:37:40Z",
+    "title": "Windows 11 2026 Update released, here's everything you need to know",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/"
+  },
+  "score": 0.716936
+}

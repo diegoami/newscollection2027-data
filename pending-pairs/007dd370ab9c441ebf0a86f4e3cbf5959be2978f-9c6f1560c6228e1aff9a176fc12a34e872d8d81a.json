@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f",
+    "lede": "Company\u2019s product comes weeks after Meta introduced its own artificially intelligent agent Muse Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns, the company debuted a whole new suite of AI tools. During its annual showcase for developers in San Francisco on Tuesday, Sam Altman, OpenAI\u2019s CEO, enthusiastically unveiled",
+    "outlet": "theguardian",
+    "published": "2026-09-29T21:25:33Z",
+    "title": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
+    "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns"
+  },
+  "b": {
+    "item_id": "9c6f1560c6228e1aff9a176fc12a34e872d8d81a",
+    "lede": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-01T14:36:50Z",
+    "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+  },
+  "score": 0.697591
+}

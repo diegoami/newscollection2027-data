@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2be59ecee0ce4c211045411c84ca78a0e665e0da",
+    "lede": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "outlet": "techcrunch",
+    "published": "2026-10-01T14:00:00Z",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/"
+  },
+  "b": {
+    "item_id": "aae08bb6a99ba21280b6280476aa582df43d4677",
+    "lede": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T21:30:08Z",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
+  },
+  "score": 0.589987
+}

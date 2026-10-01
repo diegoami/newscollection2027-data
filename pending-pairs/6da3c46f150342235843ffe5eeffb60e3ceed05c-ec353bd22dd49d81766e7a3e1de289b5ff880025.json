@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6da3c46f150342235843ffe5eeffb60e3ceed05c",
+    "lede": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T11:14:28Z",
+    "title": "Microsoft enables Windows settings backup by default for orgs",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/"
+  },
+  "b": {
+    "item_id": "ec353bd22dd49d81766e7a3e1de289b5ff880025",
+    "lede": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T17:37:40Z",
+    "title": "Windows 11 2026 Update released, here's everything you need to know",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/"
+  },
+  "score": 0.607542
+}

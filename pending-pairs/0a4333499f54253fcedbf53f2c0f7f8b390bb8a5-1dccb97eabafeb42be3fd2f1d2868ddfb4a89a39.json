@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0a4333499f54253fcedbf53f2c0f7f8b390bb8a5",
+    "lede": "SPONSORED FEATURE: HPE and NVIDIA help organizations apply accelerated computing, software, enterprise infrastructure, networking, control plane, and services to the workloads and business outcomes that matter most.",
+    "outlet": "theregister",
+    "published": "2026-10-01T15:00:00Z",
+    "title": "Build the right AI factory for your needs: partner for success",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/01/sponsored-build-the-right-ai-factory-for-your-needs-partner-for-success/5300143"
+  },
+  "b": {
+    "item_id": "1dccb97eabafeb42be3fd2f1d2868ddfb4a89a39",
+    "lede": "AI companies are able to improve their models by submitting users' conversations as training data. Opting out is easy, you just need to know where to look.",
+    "outlet": "engadget",
+    "published": "2026-09-28T15:15:00Z",
+    "title": "How to stop AI companies from training on your data",
+    "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data/"
+  },
+  "score": 0.575708
+}

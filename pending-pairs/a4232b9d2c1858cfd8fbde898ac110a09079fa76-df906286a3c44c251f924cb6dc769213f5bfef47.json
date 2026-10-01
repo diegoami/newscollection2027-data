@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a4232b9d2c1858cfd8fbde898ac110a09079fa76",
+    "lede": "Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file",
+    "outlet": "theregister",
+    "published": "2026-09-29T14:30:00Z",
+    "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
+    "url": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721"
+  },
+  "b": {
+    "item_id": "df906286a3c44c251f924cb6dc769213f5bfef47",
+    "lede": "Attackers were probing the mail server flaw weeks before it had a CVE to its name",
+    "outlet": "theregister",
+    "published": "2026-10-01T14:44:00Z",
+    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
+    "url": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543"
+  },
+  "score": 0.619856
+}

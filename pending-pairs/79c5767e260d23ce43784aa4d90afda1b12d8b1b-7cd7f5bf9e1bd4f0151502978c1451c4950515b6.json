@@ -1,13 +1,5 @@
 {
   "a": {
-    "item_id": "3661c3766f1ae546dc82897766a2977f16c5bb1a",
-    "lede": "Synopsys unveiled seven AgentEngineer agents on its new Autopilot platform, with general availability planned for the end of 2026.",
-    "outlet": "tomshardware",
-    "published": "2026-09-28T16:35:00Z",
-    "title": "Synopsys debuts Autopilot platform for developing chips autonomously using AI",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
-  },
-  "b": {
     "item_id": "79c5767e260d23ce43784aa4d90afda1b12d8b1b",
     "lede": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [\u2026]",
     "outlet": "techcrunch",
@@ -15,5 +7,13 @@
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
   },
-  "score": 0.573672
+  "b": {
+    "item_id": "7cd7f5bf9e1bd4f0151502978c1451c4950515b6",
+    "lede": "Nvidia\u2019s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T14:30:00Z",
+    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
+  },
+  "score": 0.73244
 }

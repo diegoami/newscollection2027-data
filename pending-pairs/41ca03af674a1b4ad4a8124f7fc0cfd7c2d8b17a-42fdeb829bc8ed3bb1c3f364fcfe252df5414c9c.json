@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "41ca03af674a1b4ad4a8124f7fc0cfd7c2d8b17a",
+    "lede": "Glow Security finds more than 13,000 publicly accessible images that expose corporate development work",
+    "outlet": "theregister",
+    "published": "2026-09-29T16:00:00Z",
+    "title": "AI models keep posting screenshots showing sensitive data from inside tech companies",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640"
+  },
+  "b": {
+    "item_id": "42fdeb829bc8ed3bb1c3f364fcfe252df5414c9c",
+    "lede": "AI agents have been quietly uploading internal screenshots from over 300 companies to public GitHub repos, some of which contain sensitive information.",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T11:30:00Z",
+    "title": "AI agents inadvertently leak 13,000+ internal screenshots from organizations",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier-ai-lab"
+  },
+  "score": 0.61898
+}

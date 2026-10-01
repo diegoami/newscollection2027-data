@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cd7f5bf9e1bd4f0151502978c1451c4950515b6",
+    "lede": "Nvidia\u2019s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T14:30:00Z",
+    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
+  },
+  "b": {
+    "item_id": "86cde2e5a0bdcb90858f352b5734ddc329439262",
+    "lede": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "outlet": "wired",
+    "published": "2026-09-28T09:00:00Z",
+    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+  },
+  "score": 0.757076
+}

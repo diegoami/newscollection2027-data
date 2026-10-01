@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "42fdeb829bc8ed3bb1c3f364fcfe252df5414c9c",
+    "lede": "AI agents have been quietly uploading internal screenshots from over 300 companies to public GitHub repos, some of which contain sensitive information.",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T11:30:00Z",
+    "title": "AI agents inadvertently leak 13,000+ internal screenshots from organizations",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/ai-agents-inadvertently-leak-13-000-internal-screenshots-from-organizations-list-of-companies-includes-fortune-500-and-a-frontier-ai-lab"
+  },
+  "b": {
+    "item_id": "9c9742ebbf4e85dc3d733f70cd243ae187c22144",
+    "lede": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T18:08:34Z",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
+  },
+  "score": 0.592784
+}

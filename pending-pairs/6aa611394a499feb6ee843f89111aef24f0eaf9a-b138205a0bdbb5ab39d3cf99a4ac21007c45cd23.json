@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6aa611394a499feb6ee843f89111aef24f0eaf9a",
+    "lede": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T09:44:28Z",
+    "title": "Hackers stole Pentagon personnel records of over 3 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
+  },
+  "b": {
+    "item_id": "b138205a0bdbb5ab39d3cf99a4ac21007c45cd23",
+    "lede": "Hackers have breached the U.S. Department of Defense's information systems. The Pentagon says that it has already secured the source of the leak, but the records of millions of DoD personnel are now in the wild.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T10:30:00Z",
+    "title": "Pentagon gets pwned as breach exposes sensitive data on nearly three million military and civilian personnel",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records"
+  },
+  "score": 0.791786
+}

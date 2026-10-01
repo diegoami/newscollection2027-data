@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2fb22e5ca7e262beeac5ce1fb2d529d3664054c8",
+    "lede": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T13:51:08Z",
+    "title": "Kiteworks patches max severity code injection vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/"
+  },
+  "b": {
+    "item_id": "bbc72d6b53d521eef38203c64849745455a23deb",
+    "lede": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T09:04:06Z",
+    "title": "Kiteworks patches critical flaw, brings customer systems online",
+    "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/"
+  },
+  "score": 0.688199
+}

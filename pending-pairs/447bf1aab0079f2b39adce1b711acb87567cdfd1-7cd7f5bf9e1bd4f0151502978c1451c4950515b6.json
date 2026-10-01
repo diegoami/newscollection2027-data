@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "447bf1aab0079f2b39adce1b711acb87567cdfd1",
+    "lede": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T18:35:00Z",
+    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/"
+  },
+  "b": {
+    "item_id": "7cd7f5bf9e1bd4f0151502978c1451c4950515b6",
+    "lede": "Nvidia\u2019s new Open Agent Safety Platform combines OpenShell sandboxing with BlueField-powered Sentry hardware to monitor and rapidly quarantine rogue AI agents",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T14:30:00Z",
+    "title": "Nvidia launches Open Agent Safety Platform to physically restrain rogue AI agents",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds"
+  },
+  "score": 0.681495
+}

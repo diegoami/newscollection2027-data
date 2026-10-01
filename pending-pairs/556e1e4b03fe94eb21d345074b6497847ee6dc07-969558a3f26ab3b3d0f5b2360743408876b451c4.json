@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "556e1e4b03fe94eb21d345074b6497847ee6dc07",
+    "lede": "So much for Gemini 3.5 Pro.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T20:11:08Z",
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+  },
+  "b": {
+    "item_id": "969558a3f26ab3b3d0f5b2360743408876b451c4",
+    "lede": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing.",
+    "outlet": "engadget",
+    "published": "2026-10-01T09:26:30Z",
+    "title": "Google's first Gemini 4 model is 'Argon'",
+    "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/"
+  },
+  "score": 0.643001
+}

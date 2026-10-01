@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "afb00ef61d1d11c8588bdebf9772892843195472",
+    "lede": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T07:33:12Z",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "df906286a3c44c251f924cb6dc769213f5bfef47",
+    "lede": "Attackers were probing the mail server flaw weeks before it had a CVE to its name",
+    "outlet": "theregister",
+    "published": "2026-10-01T14:44:00Z",
+    "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
+    "url": "https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543"
+  },
+  "score": 0.583342
+}
