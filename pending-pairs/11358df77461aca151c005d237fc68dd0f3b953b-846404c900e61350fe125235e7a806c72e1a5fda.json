@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11358df77461aca151c005d237fc68dd0f3b953b",
+    "lede": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulations Governor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance. The laws ban employers from using the technology to predict a worker\u2019s emotional state by using their biometric data, require employers",
+    "outlet": "theguardian",
+    "published": "2026-10-01T00:17:56Z",
+    "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat"
+  },
+  "b": {
+    "item_id": "846404c900e61350fe125235e7a806c72e1a5fda",
+    "lede": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T18:47:01Z",
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+  },
+  "score": 0.592532
+}
