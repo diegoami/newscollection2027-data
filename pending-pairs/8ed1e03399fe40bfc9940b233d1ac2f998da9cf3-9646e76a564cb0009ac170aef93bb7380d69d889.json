@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8ed1e03399fe40bfc9940b233d1ac2f998da9cf3",
+    "lede": "Microsoft broke its own cloud but isn\u2019t sure how",
+    "outlet": "theregister",
+    "published": "2026-09-30T23:54:57Z",
+    "title": "Azure maintenance mess disrupts hybrid clouds, VPNs, cloudy VMware services",
+    "url": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupts-hybrid-clouds-vpns-cloudy-vmware-services/5300333"
+  },
+  "b": {
+    "item_id": "9646e76a564cb0009ac170aef93bb7380d69d889",
+    "lede": "Microsoft broke its own cloud but isn\u2019t sure how",
+    "outlet": "theregister",
+    "published": "2026-09-30T23:54:57Z",
+    "title": "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services",
+    "url": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupted-hybrid-clouds-vpns-cloudy-vmware-services/5300333"
+  },
+  "score": 0.98865
+}
