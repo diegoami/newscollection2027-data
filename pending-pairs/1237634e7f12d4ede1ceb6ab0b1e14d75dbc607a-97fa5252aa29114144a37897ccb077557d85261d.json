@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1237634e7f12d4ede1ceb6ab0b1e14d75dbc607a",
+    "lede": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T23:43:07Z",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+  },
+  "b": {
+    "item_id": "97fa5252aa29114144a37897ccb077557d85261d",
+    "lede": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-09-30T20:41:41Z",
+    "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+  },
+  "score": 0.734388
+}
