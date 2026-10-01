@@ -1,0 +1,24 @@
+{
+  "anchor": "54857cbfe76e1f5c71d3ee902ab995fbf8050b74",
+  "id": "2026-09-30-a54187",
+  "items": [
+    {
+      "item_id": "54857cbfe76e1f5c71d3ee902ab995fbf8050b74",
+      "lede": "The rental service is getting more social and more AI.",
+      "outlet": "engadget",
+      "published": "2026-09-30T12:00:00Z",
+      "title": "Airbnb is adding a personalized map and other discovery tools",
+      "url": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/"
+    },
+    {
+      "item_id": "ff26d4a382ed168a974a2573e8306fafdcecac5c",
+      "lede": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+      "outlet": "techcrunch",
+      "published": "2026-09-30T12:00:00Z",
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

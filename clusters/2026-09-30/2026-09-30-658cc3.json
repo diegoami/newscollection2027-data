@@ -1,0 +1,24 @@
+{
+  "anchor": "66cf3fca4ff1585ed7af69a35fe9a5a70ce9d6c0",
+  "id": "2026-09-30-658cc3",
+  "items": [
+    {
+      "item_id": "66cf3fca4ff1585ed7af69a35fe9a5a70ce9d6c0",
+      "lede": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "outlet": "techcrunch",
+      "published": "2026-09-30T04:08:00Z",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/"
+    },
+    {
+      "item_id": "8ebf27899e7e2e92551e0955fa754f9ed556596e",
+      "lede": "Apple Pay is now available in India, but it only supports cards by Axis Bank for now.",
+      "outlet": "engadget",
+      "published": "2026-09-30T10:30:18Z",
+      "title": "Apple Pay finally arrives in India on a limited basis",
+      "url": "https://www.engadget.com/2272991/apple-pay-arrives-india/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

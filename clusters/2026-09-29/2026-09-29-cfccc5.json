@@ -27,14 +27,6 @@
       "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/"
     },
     {
-      "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
-      "lede": "Sam Altman spoke in San Francisco during OpenAI\u2019s yearly event for tech developers.",
-      "outlet": "bbc-technology",
-      "published": "2026-09-29T19:17:43Z",
-      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo"
-    },
-    {
       "item_id": "ad13c79b8a8a3b10115994ee7316575353dfcbb0",
       "lede": "It's not OpenClaw. It's dots",
       "outlet": "theregister",
@@ -49,8 +41,24 @@
       "published": "2026-09-29T21:25:33Z",
       "title": "OpenAI announces \u2018dots\u2019 agent after scrapping launch of new AI model over safety concerns",
       "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns"
+    },
+    {
+      "item_id": "1eb6183d721b63e029368ddfeef29653214a0525",
+      "lede": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress \u2026 but as the models have had this surge forward in capability, and we see [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-30T00:19:13Z",
+      "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+    },
+    {
+      "item_id": "99a7acc3b799fde9c124a2292090aa763551d888",
+      "lede": "Sam Altman spoke in San Francisco during OpenAI\u2019s annual event for tech developers.",
+      "outlet": "bbc-technology",
+      "published": "2026-09-30T05:18:13Z",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "url": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

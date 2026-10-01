@@ -1,0 +1,24 @@
+{
+  "anchor": "9d35c805fb61ef2935d3db29c0024f1c492bcd38",
+  "id": "2026-09-29-945d16",
+  "items": [
+    {
+      "item_id": "9d35c805fb61ef2935d3db29c0024f1c492bcd38",
+      "lede": "Freedom of information request finds six-month trial cost \u00a3320,000, used almost 100 police hours and led to just one \u2013 incorrect \u2013 alert A six-month trial of live facial recognition (LFR) technology in London\u2019s railway stations that cost more than \u00a3320,000 and almost 100 hours of police officers\u2019 time led to one false match against a watchlist of suspects and",
+      "outlet": "theguardian",
+      "published": "2026-09-29T09:48:29Z",
+      "title": "Trial of live facial recognition in London stations leads to a false positive and no arrests",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive"
+    },
+    {
+      "item_id": "5ade7d303754aba6ddbea983ba3712aaeb2d6673",
+      "lede": "British Transport Police\u2019s six-month facial recognition pilot produced one alert, and it was a false positive",
+      "outlet": "theregister",
+      "published": "2026-09-30T08:30:00Z",
+      "title": "UK rail cops' \u00a3320K face-scanning spree nets zero matches",
+      "url": "https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

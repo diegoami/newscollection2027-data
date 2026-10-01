@@ -17,8 +17,16 @@
       "published": "2026-09-29T20:16:45Z",
       "title": "Mozilla deploys a new-look Firefox across desktop and mobile",
       "url": "https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/"
+    },
+    {
+      "item_id": "f6f69050640e10f0ef0f0d2532c321c06389df10",
+      "lede": "Yet another new version of Firefox, with a significant reskin",
+      "outlet": "theregister",
+      "published": "2026-09-30T13:44:00Z",
+      "title": "Firefox 157: Could bold new look be just what Mozilla needs?*",
+      "url": "https://www.theregister.com/software/2026/09/30/firefox-157-could-bold-new-look-be-just-what-mozilla-needs/5300059"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

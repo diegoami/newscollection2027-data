@@ -33,8 +33,16 @@
       "published": "2026-09-29T21:14:49Z",
       "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
       "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+    },
+    {
+      "item_id": "e0d545386cc116575ef551b1dc5972911bd30830",
+      "lede": "AMD has agreed agreed to buy generative AI world model developer World Labs for $8.2 billion in stock. Legendary CEO and co-founder Fei-Fei Li will join the company as an executive vice president and chief scientist.",
+      "outlet": "tomshardware",
+      "published": "2026-09-30T09:30:00Z",
+      "title": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

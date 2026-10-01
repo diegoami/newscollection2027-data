@@ -1,0 +1,24 @@
+{
+  "anchor": "445d1099f6799085254ca8e865e841e4a403c66e",
+  "id": "2026-09-30-6a4236",
+  "items": [
+    {
+      "item_id": "445d1099f6799085254ca8e865e841e4a403c66e",
+      "lede": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-30T14:51:49Z",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "item_id": "c1c0d3f819474c8d26f99fc9783e2dd5c8f9635c",
+      "lede": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+      "outlet": "arstechnica",
+      "published": "2026-09-30T16:03:48Z",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

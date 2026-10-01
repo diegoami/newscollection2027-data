@@ -1,0 +1,24 @@
+{
+  "anchor": "01043272167cec4710bf755e6798e26acd3bf9d8",
+  "id": "2026-09-28-131552",
+  "items": [
+    {
+      "item_id": "01043272167cec4710bf755e6798e26acd3bf9d8",
+      "lede": "Teenager cracks open Microsoft database with 17 trillion total rows and 25,000 user accounts \u2014 lack of JWT token validation yields a fruitful trove",
+      "outlet": "tomshardware",
+      "published": "2026-09-28T11:00:00Z",
+      "title": "Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty"
+    },
+    {
+      "item_id": "e60d9fc4f3119305cc84f9e3e3cd4956eae8ce45",
+      "lede": "It's 2 am. Do you know what your teen is doing?",
+      "outlet": "theregister",
+      "published": "2026-09-30T18:29:41Z",
+      "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows",
+      "url": "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

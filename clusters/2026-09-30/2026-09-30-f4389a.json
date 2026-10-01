@@ -1,0 +1,24 @@
+{
+  "anchor": "21956dd45103dd9b6dd652d81c6cf23339baece6",
+  "id": "2026-09-30-f4389a",
+  "items": [
+    {
+      "item_id": "21956dd45103dd9b6dd652d81c6cf23339baece6",
+      "lede": "Meta's Muse AI agent has been accused of ignoring user permissions and accessing forbidden personal user data on an iPhone and Mac, including iMessages.",
+      "outlet": "tomshardware",
+      "published": "2026-09-30T14:00:00Z",
+      "title": "Meta's Muse AI agent accused of ignoring user permissions and accessing forbidden personal user data",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-muse-ai-agent-accused-of-accessing-sensitive-user-data-on-iphone-and-mac-without-permission-agent-shocks-reporter-by-referring-to-confidential-messages-it-wasnt-granted-access-to"
+    },
+    {
+      "item_id": "f59f9ed0e27c740e34350c78625e71b6353df11c",
+      "lede": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+      "outlet": "techcrunch",
+      "published": "2026-09-30T16:24:23Z",
+      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
