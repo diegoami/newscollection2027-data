@@ -17,8 +17,16 @@
       "published": "2026-09-30T19:29:08Z",
       "title": "Hackers stole millions of US military personnel records during months-long data breach",
       "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+    },
+    {
+      "item_id": "6aa611394a499feb6ee843f89111aef24f0eaf9a",
+      "lede": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-01T09:44:28Z",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

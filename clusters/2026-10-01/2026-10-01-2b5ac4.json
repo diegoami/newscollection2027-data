@@ -1,0 +1,24 @@
+{
+  "anchor": "6da3c46f150342235843ffe5eeffb60e3ceed05c",
+  "id": "2026-10-01-2b5ac4",
+  "items": [
+    {
+      "item_id": "6da3c46f150342235843ffe5eeffb60e3ceed05c",
+      "lede": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-01T11:14:28Z",
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/"
+    },
+    {
+      "item_id": "0b6b426373409172571c860894effef0c52e66dd",
+      "lede": "Annual update installed. You're up to date, so nothing seems to have changed. Wait a minute...",
+      "outlet": "theregister",
+      "published": "2026-10-01T15:31:00Z",
+      "title": "Microsoft makes Windows settings backup the default in 26H2",
+      "url": "https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

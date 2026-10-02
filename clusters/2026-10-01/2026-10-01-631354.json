@@ -1,0 +1,24 @@
+{
+  "anchor": "b258844837ab06376248c294172180f26a802c9d",
+  "id": "2026-10-01-631354",
+  "items": [
+    {
+      "item_id": "b258844837ab06376248c294172180f26a802c9d",
+      "lede": "The base Galaxy S26 with 256GB of storage costs nearly $1,000 after Samsung raised prices in the US by $100 or more, Phone Arena reports. The Galaxy S26 and S26 Plus were already $100 more expensive than their S25 predecessors when they launched earlier this year, which Samsung said RAM price hikes were partly to [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-01T13:17:16Z",
+      "title": "Samsung raised prices on the Galaxy S26 by $100",
+      "url": "https://www.theverge.com/tech/1003328/samsung-s26-price-hikes-us"
+    },
+    {
+      "item_id": "d441ee25af9e8a6e6ec1ed1a96cc5bf2b29b69f9",
+      "lede": "RAMageddon comes for us all.",
+      "outlet": "engadget",
+      "published": "2026-10-01T15:53:58Z",
+      "title": "Samsung suddenly jacks up the prices of Galaxy S26 phones",
+      "url": "https://www.engadget.com/2274612/samsung-suddenly-jacks-up-the-prices-of-galaxy-s26-phones/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

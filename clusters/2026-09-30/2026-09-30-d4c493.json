@@ -25,8 +25,24 @@
       "published": "2026-09-30T23:43:07Z",
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+    },
+    {
+      "item_id": "969558a3f26ab3b3d0f5b2360743408876b451c4",
+      "lede": "Google trained Gemini 4 Argon to be highly capable in knowledge work, cybersecurity defense and creative writing.",
+      "outlet": "engadget",
+      "published": "2026-10-01T09:26:30Z",
+      "title": "Google's first Gemini 4 model is 'Argon'",
+      "url": "https://www.engadget.com/2274263/google-gemini-4-model-argon/"
+    },
+    {
+      "item_id": "99595575b961f4c2fd65b2922772180d2428000c",
+      "lede": "Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers Google on Wednesday said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers. \u201cSafely releasing frontier capabilities at this",
+      "outlet": "theguardian",
+      "published": "2026-10-01T16:47:29Z",
+      "title": "Google rolls out new Gemini AI model but restricts access over safety concerns",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

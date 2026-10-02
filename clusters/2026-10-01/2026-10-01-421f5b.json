@@ -1,0 +1,24 @@
+{
+  "anchor": "65395eb363b4f98c5908590cee92ceb32676612d",
+  "id": "2026-10-01-421f5b",
+  "items": [
+    {
+      "item_id": "65395eb363b4f98c5908590cee92ceb32676612d",
+      "lede": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your \u201cbrain battery\u201d needs a recharge.",
+      "outlet": "wired",
+      "published": "2026-10-01T11:00:00Z",
+      "title": "Exclusive: Neurable\u2019s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
+      "url": "https://www.wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus/"
+    },
+    {
+      "item_id": "3e4393e29f5ac460f32a94d1dcda5574c6c99629",
+      "lede": "Neurable is launching a new pair of EEG-equipped headphones to keep an eye on your brainwaves while you work, rest and play.",
+      "outlet": "engadget",
+      "published": "2026-10-01T13:00:00Z",
+      "title": "Neurable launches its newest brain-scanning headphones",
+      "url": "https://www.engadget.com/2271652/neurable-one-eeg-headphones/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
