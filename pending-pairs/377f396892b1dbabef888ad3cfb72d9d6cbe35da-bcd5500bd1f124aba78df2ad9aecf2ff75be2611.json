@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "377f396892b1dbabef888ad3cfb72d9d6cbe35da",
+    "lede": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T19:01:40Z",
+    "title": "Frontline Education breach exposes school district employee data",
+    "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
+  },
+  "b": {
+    "item_id": "bcd5500bd1f124aba78df2ad9aecf2ff75be2611",
+    "lede": "Chained Zammad flaws enabled session hijacking, code execution, and root escalation in seconds",
+    "outlet": "theregister",
+    "published": "2026-10-01T21:26:42Z",
+    "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
+  },
+  "score": 0.575912
+}

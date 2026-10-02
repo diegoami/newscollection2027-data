@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c2c94c06b8ec439e3f0c7fa392e3f284e7482baa",
+    "lede": "While the focus has been on AI agents\u2019 hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting\u2014and vulnerable\u2014target.",
+    "outlet": "wired",
+    "published": "2026-10-02T09:45:00Z",
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+  },
+  "b": {
+    "item_id": "e148a12b4219ef6ae4791a78e29fe4715ac60c12",
+    "lede": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-02T20:08:40Z",
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  },
+  "score": 0.570566
+}

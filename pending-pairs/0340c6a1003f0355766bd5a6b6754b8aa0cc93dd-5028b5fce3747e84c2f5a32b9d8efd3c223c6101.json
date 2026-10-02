@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0340c6a1003f0355766bd5a6b6754b8aa0cc93dd",
+    "lede": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both\u2014and I suspect you will too.",
+    "outlet": "wired",
+    "published": "2026-09-30T19:30:00Z",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/"
+  },
+  "b": {
+    "item_id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
+    "lede": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-02T18:00:00Z",
+    "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+  },
+  "score": 0.597975
+}

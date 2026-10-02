@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5001029ee2dba64280b9ef6e4bacb00caefc49ae",
+    "lede": "US officials have reportedly highlighted gaps in NVIDIA's due diligence over smuggling.",
+    "outlet": "engadget",
+    "published": "2026-10-02T14:02:14Z",
+    "title": "NVIDIA's smuggling problem is getting worse",
+    "url": "https://www.engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse/"
+  },
+  "b": {
+    "item_id": "d3db30efe56f6be934fdd4c61645d5de5942b26f",
+    "lede": "Nvidia\u2019s chip-smuggling problem won\u2019t go away as arrests continue.",
+    "outlet": "arstechnica",
+    "published": "2026-10-02T18:39:36Z",
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+  },
+  "score": 0.638025
+}

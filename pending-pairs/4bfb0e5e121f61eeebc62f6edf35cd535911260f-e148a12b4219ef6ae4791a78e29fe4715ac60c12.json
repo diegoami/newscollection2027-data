@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4bfb0e5e121f61eeebc62f6edf35cd535911260f",
+    "lede": "There's an increasingly high cost to convenience.",
+    "outlet": "engadget",
+    "published": "2026-10-02T19:22:06Z",
+    "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+    "url": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/"
+  },
+  "b": {
+    "item_id": "e148a12b4219ef6ae4791a78e29fe4715ac60c12",
+    "lede": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-02T20:08:40Z",
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  },
+  "score": 0.652218
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "dce43d9a0129d89c271b1b2774978d8ca8b686f3",
+    "lede": "The Mac Studio can run frontier-level AI language models locally. It\u2019s only a preview of what\u2019s to come.",
+    "outlet": "wired",
+    "published": "2026-10-01T10:00:00Z",
+    "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+    "url": "https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/"
+  },
+  "b": {
+    "item_id": "e148a12b4219ef6ae4791a78e29fe4715ac60c12",
+    "lede": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-02T20:08:40Z",
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  },
+  "score": 0.597605
+}

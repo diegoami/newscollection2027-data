@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "377f396892b1dbabef888ad3cfb72d9d6cbe35da",
+    "lede": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T19:01:40Z",
+    "title": "Frontline Education breach exposes school district employee data",
+    "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
+  },
+  "b": {
+    "item_id": "d95f3d7ee3904f4f0326515811e06316fff7aa4c",
+    "lede": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+    "outlet": "techcrunch",
+    "published": "2026-09-30T19:29:08Z",
+    "title": "Hackers stole millions of US military personnel records during months-long data breach",
+    "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/"
+  },
+  "score": 0.582992
+}
