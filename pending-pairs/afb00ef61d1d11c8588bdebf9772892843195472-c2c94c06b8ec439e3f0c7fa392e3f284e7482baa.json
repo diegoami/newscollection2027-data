@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "afb00ef61d1d11c8588bdebf9772892843195472",
+    "lede": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T07:33:12Z",
+    "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "c2c94c06b8ec439e3f0c7fa392e3f284e7482baa",
+    "lede": "While the focus has been on AI agents\u2019 hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting\u2014and vulnerable\u2014target.",
+    "outlet": "wired",
+    "published": "2026-10-02T09:45:00Z",
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+  },
+  "score": 0.638286
+}
