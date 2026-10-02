@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bcd5500bd1f124aba78df2ad9aecf2ff75be2611",
+    "lede": "Chained Zammad flaws enabled session hijacking, code execution, and root escalation in seconds",
+    "outlet": "theregister",
+    "published": "2026-10-01T21:26:42Z",
+    "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+    "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
+  },
+  "b": {
+    "item_id": "c97ff75e84c28b08311499dbafd8a8448bac11be",
+    "lede": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-28T14:00:10Z",
+    "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+    "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/"
+  },
+  "score": 0.581349
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c186fe5e0a12676bd3070e2f43ee0d5974b85c6",
+    "lede": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "outlet": "arstechnica",
+    "published": "2026-09-30T20:44:48Z",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/"
+  },
+  "b": {
+    "item_id": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+    "lede": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T22:42:49Z",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+  },
+  "score": 0.579096
+}

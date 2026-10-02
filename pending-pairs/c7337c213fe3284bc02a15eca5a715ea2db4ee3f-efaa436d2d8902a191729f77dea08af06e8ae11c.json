@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c7337c213fe3284bc02a15eca5a715ea2db4ee3f",
+    "lede": "If SpaceX can launch 1,800 Starships, and researchers nail gnarly networking, design and formation flying problems,",
+    "outlet": "theregister",
+    "published": "2026-10-02T02:08:45Z",
+    "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
+    "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721"
+  },
+  "b": {
+    "item_id": "efaa436d2d8902a191729f77dea08af06e8ae11c",
+    "lede": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+    "outlet": "arstechnica",
+    "published": "2026-09-28T21:26:19Z",
+    "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+    "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/"
+  },
+  "score": 0.626671
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "28cb725c57a098f1b378df40571a9411deaaf738",
+    "lede": "You can't make this stuff up.",
+    "outlet": "engadget",
+    "published": "2026-10-01T22:05:43Z",
+    "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+    "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/"
+  },
+  "b": {
+    "item_id": "fbc7283f1ec7f081d54e56440fae1fec03be4f65",
+    "lede": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-02T01:34:56Z",
+    "title": "OpenAI fires workers for mishandling 'sensitive information'",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo"
+  },
+  "score": 0.668338
+}

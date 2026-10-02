@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2badf9642d906ac6c3868d6e2d15152798d36213",
+    "lede": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "outlet": "techcrunch",
+    "published": "2026-10-01T18:14:42Z",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+  },
+  "b": {
+    "item_id": "fbc7283f1ec7f081d54e56440fae1fec03be4f65",
+    "lede": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-02T01:34:56Z",
+    "title": "OpenAI fires workers for mishandling 'sensitive information'",
+    "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo"
+  },
+  "score": 0.661818
+}

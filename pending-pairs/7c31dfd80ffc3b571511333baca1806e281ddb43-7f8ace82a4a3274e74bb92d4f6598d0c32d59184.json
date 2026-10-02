@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c31dfd80ffc3b571511333baca1806e281ddb43",
+    "lede": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T14:46:40Z",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+    "lede": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T22:42:49Z",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+  },
+  "score": 0.614617
+}
