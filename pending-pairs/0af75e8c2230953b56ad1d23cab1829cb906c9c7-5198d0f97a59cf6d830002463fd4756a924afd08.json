@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0af75e8c2230953b56ad1d23cab1829cb906c9c7",
+    "lede": "OpenAI chose to pair rack-scale deployments of its Jalape\u00f1o ASIC with AMD EPYC Turin CPUs, not the wave of high-performance agentic chips like Arm\u2019s AGI or Nvidia\u2019s Vera.",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T12:40:00Z",
+    "title": "OpenAI\u2019s Jalape\u00f1o ASICs are deployed alongside AMD EPYC \u2018Turin\u2019 CPUs as hosts, not Nvidia's Vera",
+    "url": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level"
+  },
+  "b": {
+    "item_id": "5198d0f97a59cf6d830002463fd4756a924afd08",
+    "lede": "OpenAI says AI-assisted Jalape\u00f1o chip design \"established a new baseline\" for the industry, and there is already a lot of interest from others to learn how the company pulled it off.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T10:59:59Z",
+    "title": "\u2018This is how AI should be used\u2019 \u2014 OpenAI head of hardware breaks down the AI-assisted design of its Jalape\u00f1o ASIC",
+    "url": "https://www.tomshardware.com/tech-industry/asics/this-is-how-ai-should-be-used-openai-head-of-hardware-breaks-down-the-ai-assisted-design-of-its-jalapeno-asic"
+  },
+  "score": 0.573438
+}

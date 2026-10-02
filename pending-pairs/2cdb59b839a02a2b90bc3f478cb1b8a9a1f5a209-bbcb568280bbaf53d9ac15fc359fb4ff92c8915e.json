@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2cdb59b839a02a2b90bc3f478cb1b8a9a1f5a209",
+    "lede": "Cadence, Synopsys, and Siemens all offer agentic AI for chip design, largely built on Nvidia's stack, with varying claims of autonomy.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T12:20:00Z",
+    "title": "The state of agentic AI in chip design tools in 2026",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+  },
+  "b": {
+    "item_id": "bbcb568280bbaf53d9ac15fc359fb4ff92c8915e",
+    "lede": "Amazon and chip design tool maker Synopsys have inked a multi-year partnership worth over a billion dollars. As part of the arrangement, Amazon will license Synopsys' chip designs and its design tools to create and optimize new AI chips. Synopsys will adopt Amazon Bedrock to build and deploy AI agents, and adopt AWS computing and storage services, while optimizing its",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T13:50:00Z",
+    "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
+    "url": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities"
+  },
+  "score": 0.690849
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "488734a957d4c900ffb3090159d2da5ada08a4d4",
+    "lede": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
+    "outlet": "tomshardware",
+    "published": "2026-09-29T12:40:00Z",
+    "title": "Silicon is starting to design silicon \u2014 how AI is being used in chipmaking, from EDA tools to OpenAI's Jalape\u00f1o and beyond",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond"
+  },
+  "b": {
+    "item_id": "bbcb568280bbaf53d9ac15fc359fb4ff92c8915e",
+    "lede": "Amazon and chip design tool maker Synopsys have inked a multi-year partnership worth over a billion dollars. As part of the arrangement, Amazon will license Synopsys' chip designs and its design tools to create and optimize new AI chips. Synopsys will adopt Amazon Bedrock to build and deploy AI agents, and adopt AWS computing and storage services, while optimizing its",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T13:50:00Z",
+    "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
+    "url": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities"
+  },
+  "score": 0.60938
+}

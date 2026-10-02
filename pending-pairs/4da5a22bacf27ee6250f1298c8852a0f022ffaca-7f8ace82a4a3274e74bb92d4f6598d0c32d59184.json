@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4da5a22bacf27ee6250f1298c8852a0f022ffaca",
+    "lede": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T16:20:05Z",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+  },
+  "b": {
+    "item_id": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+    "lede": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T22:42:49Z",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+  },
+  "score": 0.656949
+}

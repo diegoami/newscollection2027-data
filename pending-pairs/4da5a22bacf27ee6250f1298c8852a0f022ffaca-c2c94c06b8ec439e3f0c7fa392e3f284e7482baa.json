@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4da5a22bacf27ee6250f1298c8852a0f022ffaca",
+    "lede": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T16:20:05Z",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+  },
+  "b": {
+    "item_id": "c2c94c06b8ec439e3f0c7fa392e3f284e7482baa",
+    "lede": "While the focus has been on AI agents\u2019 hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting\u2014and vulnerable\u2014target.",
+    "outlet": "wired",
+    "published": "2026-10-02T09:45:00Z",
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+  },
+  "score": 0.636364
+}

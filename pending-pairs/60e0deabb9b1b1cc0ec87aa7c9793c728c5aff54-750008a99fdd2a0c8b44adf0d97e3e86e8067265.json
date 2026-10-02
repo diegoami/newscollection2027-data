@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+    "lede": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T13:00:00Z",
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less"
+  },
+  "b": {
+    "item_id": "750008a99fdd2a0c8b44adf0d97e3e86e8067265",
+    "lede": "Gears of War: E-Day is the first game to implement Unreal Engine's MegaLights technology, allowing for hundreds of dynamic ray-traced light sources in a scene. We put it to the test on 43 graphics cards to see what this next-gen feature demands across three generations of GPUs from Nvidia, AMD, and Intel.",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T13:00:00Z",
+    "title": "Gears of War: E-Day PC graphics performance tested",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/gears-of-war-e-day-pc-graphics-performance-tested-43-gpus-take-us-back-to-the-start-of-an-iconic-saga"
+  },
+  "score": 0.584699
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3af86a4f04c86bfb63f0fc49155e2c37d00df535",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-30T15:49:29Z",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/"
+  },
+  "b": {
+    "item_id": "4da5a22bacf27ee6250f1298c8852a0f022ffaca",
+    "lede": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T16:20:05Z",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+  },
+  "score": 0.610437
+}

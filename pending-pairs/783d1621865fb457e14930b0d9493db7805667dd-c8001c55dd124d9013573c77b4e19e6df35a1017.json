@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "783d1621865fb457e14930b0d9493db7805667dd",
+    "lede": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T14:00:10Z",
+    "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+    "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/"
+  },
+  "b": {
+    "item_id": "c8001c55dd124d9013573c77b4e19e6df35a1017",
+    "lede": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T14:01:11Z",
+    "title": "Catch threats before they escalate with real-time Identity Telemetry",
+    "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/"
+  },
+  "score": 0.586504
+}

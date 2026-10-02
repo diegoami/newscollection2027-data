@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8bc4a5a3f1752fb0fc9696bd222ba23ae2e151b2",
+    "lede": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T14:10:00Z",
+    "title": "Sony brings AI-powered upscaling to the standard PS5",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd"
+  },
+  "b": {
+    "item_id": "b876f6aadd1b8c1cfc4cc473db28c8ab4381d0c1",
+    "lede": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-01T16:53:39Z",
+    "title": "Sony brings AI graphics upscaling to the regular PS5",
+    "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr"
+  },
+  "score": 0.784864
+}
