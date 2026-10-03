@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "21956dd45103dd9b6dd652d81c6cf23339baece6",
+    "lede": "Meta's Muse AI agent has been accused of ignoring user permissions and accessing forbidden personal user data on an iPhone and Mac, including iMessages.",
+    "outlet": "tomshardware",
+    "published": "2026-09-30T14:00:00Z",
+    "title": "Meta's Muse AI agent accused of ignoring user permissions and accessing forbidden personal user data",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/metas-muse-ai-agent-accused-of-accessing-sensitive-user-data-on-iphone-and-mac-without-permission-agent-shocks-reporter-by-referring-to-confidential-messages-it-wasnt-granted-access-to"
+  },
+  "b": {
+    "item_id": "6ee8ae0821d338b723f59152367193818d46c716",
+    "lede": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "outlet": "arstechnica",
+    "published": "2026-10-02T23:03:16Z",
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+  },
+  "score": 0.607941
+}

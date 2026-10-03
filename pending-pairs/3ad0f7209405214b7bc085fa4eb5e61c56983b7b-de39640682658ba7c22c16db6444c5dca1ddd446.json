@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ad0f7209405214b7bc085fa4eb5e61c56983b7b",
+    "lede": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+    "outlet": "techcrunch",
+    "published": "2026-09-29T13:25:21Z",
+    "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+    "url": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/"
+  },
+  "b": {
+    "item_id": "de39640682658ba7c22c16db6444c5dca1ddd446",
+    "lede": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+    "outlet": "zdnet",
+    "published": "2026-10-03T01:43:56Z",
+    "title": "iPhone 18 Pro Max can\u2019t call or text on AT&T? Apple will replace it for free",
+    "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/"
+  },
+  "score": 0.633232
+}
