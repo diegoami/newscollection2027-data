@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "48401df91fc35b05855ba5cd95db42deab5dfc1b",
+    "lede": "California's new rule will penalize robotaxi companies if their vehicles block first responders for more than 30 minutes.",
+    "outlet": "engadget",
+    "published": "2026-10-03T13:19:19Z",
+    "title": "California will fine robotaxi companies if their vehicles block first responders",
+    "url": "https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/"
+  },
+  "b": {
+    "item_id": "7f60e1034f6d98d5b92262c738a6af2c236e3f50",
+    "lede": "A new California law places new rules on autonomous vehicles operators",
+    "outlet": "techcrunch",
+    "published": "2026-10-02T00:57:57Z",
+    "title": "Robotaxi operators will face fines for blocking first responders",
+    "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
+  },
+  "score": 0.782863
+}

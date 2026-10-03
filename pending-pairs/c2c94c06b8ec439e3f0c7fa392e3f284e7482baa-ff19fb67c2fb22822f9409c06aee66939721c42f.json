@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c2c94c06b8ec439e3f0c7fa392e3f284e7482baa",
+    "lede": "While the focus has been on AI agents\u2019 hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting\u2014and vulnerable\u2014target.",
+    "outlet": "wired",
+    "published": "2026-10-02T09:45:00Z",
+    "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+  },
+  "b": {
+    "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f",
+    "lede": "Google suspends product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) over an influx of invalid AI-driven reports.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T12:00:00Z",
+    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop submissions",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
+  },
+  "score": 0.579935
+}

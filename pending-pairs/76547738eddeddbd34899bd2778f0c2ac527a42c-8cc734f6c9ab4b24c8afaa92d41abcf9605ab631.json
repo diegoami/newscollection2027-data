@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "76547738eddeddbd34899bd2778f0c2ac527a42c",
+    "lede": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-09-29T20:59:39Z",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/"
+  },
+  "b": {
+    "item_id": "8cc734f6c9ab4b24c8afaa92d41abcf9605ab631",
+    "lede": "Until routers on Asus\u2019s 3.0.0.6_102 firmware are updated, the company says not to import untrusted VPN files.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T12:30:00Z",
+    "title": "Malicious VPN config files can let attackers run commands on Asus routers",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-vpn-config-files-can-let-attackers-run-commands-on-asus-routers-companys-patch-also-fixes-a-bug-that-lets-a-logged-in-attacker-switch-on-telnet-with-root-access"
+  },
+  "score": 0.574651
+}

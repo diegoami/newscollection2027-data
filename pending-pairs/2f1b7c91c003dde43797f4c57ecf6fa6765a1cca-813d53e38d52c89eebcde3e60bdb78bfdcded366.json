@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f1b7c91c003dde43797f4c57ecf6fa6765a1cca",
+    "lede": "FTC move is first official US enforcement \u2060action on rogue AI agents, following surge in incidents first reported in July The US\u2019s main trade regulator is conducting an industry-wide investigation \u2060into Anthropic, OpenAI and other \u2060AI labs \u200bto uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement",
+    "outlet": "theguardian",
+    "published": "2026-09-30T18:35:05Z",
+    "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
+    "url": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai"
+  },
+  "b": {
+    "item_id": "813d53e38d52c89eebcde3e60bdb78bfdcded366",
+    "lede": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet whether the company has broken any rules or regulations, Bonta said that developers are responsible for the models they build and should be held legally accountable if",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T11:15:00Z",
+    "title": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility"
+  },
+  "score": 0.571455
+}
