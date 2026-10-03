@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-10-01-1f6358",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Trump's 'Super Intelligence' rebrand sparks surge in Slovenia's .si domains",
+  "summary": "Both outlets report that demand for Slovenia's .si domain names has become unprecedented after President Trump's executive order renaming artificial intelligence as 'Super Intelligence,' which shares its SI initials with the Slovenian domain suffix.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Trump's executive order renaming AI 'Super Intelligence' (SI) has caused unprecedented demand for Slovenia's .si domain names.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "84df70c5eea2fc66c169e171fff468d12388dd1f",
+          "quote": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "25be8601d34033e7d846137ef9370b0be9a8eafb",
+          "quote": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

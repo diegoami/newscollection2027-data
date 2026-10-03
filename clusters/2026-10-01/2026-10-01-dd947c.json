@@ -1,0 +1,24 @@
+{
+  "anchor": "1127730e1ab91d57cd41939a5d65848ba7b37310",
+  "id": "2026-10-01-dd947c",
+  "items": [
+    {
+      "item_id": "1127730e1ab91d57cd41939a5d65848ba7b37310",
+      "lede": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-01T14:25:14Z",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/"
+    },
+    {
+      "item_id": "dd70ca0a31c20c9a5c2a126cc8c6c6b89180bd9c",
+      "lede": "Operation KillSwitch takes over leak site holding at least 110 TB of stolen data",
+      "outlet": "theregister",
+      "published": "2026-10-02T11:43:35Z",
+      "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-01-dd947c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Police dismantle KillSec ransomware gang, arrest three including alleged teen leader",
+  "summary": "An international operation called KillSwitch seized the KillSec ransomware gang's data leak site and servers, arresting three people and identifying a 16-year-old as the group's alleged administrator. The Register reports the seized site held at least 110 TB of stolen data.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "An international police operation dismantled the KillSec ransomware gang, seizing its leak site and servers and arresting three people, including an alleged 16-year-old administrator.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "1127730e1ab91d57cd41939a5d65848ba7b37310",
+          "quote": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "dd70ca0a31c20c9a5c2a126cc8c6c6b89180bd9c",
+          "quote": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The seized leak site held at least 110 TB of stolen data.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "dd70ca0a31c20c9a5c2a126cc8c6c6b89180bd9c",
+          "quote": "Operation KillSwitch takes over leak site holding at least 110 TB of stolen data"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

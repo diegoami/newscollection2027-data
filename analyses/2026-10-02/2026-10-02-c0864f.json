@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-02-c0864f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "California CEO arrested over $300M Nvidia chip smuggling to China",
+  "summary": "US authorities arrested a California tech CEO, identified as Greg Lui, accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore using false paperwork. He faces up to 20 years in prison.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "US authorities arrested a California CEO, identified as Greg Lui, for allegedly smuggling more than $300 million worth of Nvidia-powered servers to China.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "81163c4956343906074cffa0420c0763b22b7f1f",
+          "quote": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to conceal their final destination"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d3db30efe56f6be934fdd4c61645d5de5942b26f",
+          "quote": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "1dfc011b61602f7ecf341609146558de3938c2c7",
+          "quote": "Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then China"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The CEO faces up to 20 years in prison, and allegedly routed the shipments through Malaysia and Singapore.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "81163c4956343906074cffa0420c0763b22b7f1f",
+          "quote": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

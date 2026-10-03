@@ -1,0 +1,32 @@
+{
+  "anchor": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
+  "id": "2026-10-02-d157a0",
+  "items": [
+    {
+      "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
+      "lede": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wanted a name that would give the combined company an identity of its own while allowing Paramount and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-02T13:42:36Z",
+      "title": "Paramount\u2019s Warner Bros. megamerger will just be called Skydance",
+      "url": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name"
+    },
+    {
+      "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3",
+      "lede": "The roughly $110 billion deal is expected to close October 6.",
+      "outlet": "techcrunch",
+      "published": "2026-10-02T15:53:50Z",
+      "title": "Paramount and Warner Bros. Discovery to become Skydance",
+      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/"
+    },
+    {
+      "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81",
+      "lede": "Paramount Skydance CEO David Ellison announced the new name in a social media post.",
+      "outlet": "engadget",
+      "published": "2026-10-02T16:16:02Z",
+      "title": "Soon-to-be merged Paramount and Warner Bros. will be known as Skydance going forward",
+      "url": "https://www.engadget.com/2275866/soon-to-be-merged-paramount-and-warner-bros-will-be-known-as-skydance-going-forward/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

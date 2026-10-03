@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-01-b6515c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Apple reportedly developing a smart camera that skips video recording",
+  "summary": "Apple is reportedly developing a smart home security camera that uses AI to analyze activity and give text descriptions of events instead of recording video, as part of a rumored new Apple smart home ecosystem.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is reportedly developing a smart home security camera that uses AI to describe events in text instead of recording video.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8a4a8c806cfcf5dc1d31dd80bfeeef53478465ba",
+          "quote": "Apple’s reportedly developing a smart home camera that doesn’t record video"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c7703b9394873e4eeadf6c5af88a3e511d2859c6",
+          "quote": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c7703b9394873e4eeadf6c5af88a3e511d2859c6",
+          "quote": "The device will apparently use AI to analyze activity in your home without actually filming it."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The camera is reportedly part of a new Apple smart home ecosystem.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8a4a8c806cfcf5dc1d31dd80bfeeef53478465ba",
+          "quote": "Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

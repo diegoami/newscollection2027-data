@@ -65,8 +65,24 @@
       "published": "2026-10-01T14:36:50Z",
       "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+    },
+    {
+      "item_id": "9c4b190c0c51fe4f0e3f26d8e8056573818283bf",
+      "lede": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-02T15:47:05Z",
+      "title": "Dots get up in Muse\u2019s business",
+      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast"
+    },
+    {
+      "item_id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
+      "lede": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-02T18:00:00Z",
+      "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

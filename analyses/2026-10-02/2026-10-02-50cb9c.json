@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-02-50cb9c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Tesla's Q3 deliveries fall from record but beat estimates",
+  "summary": "Tesla delivered more than 486,000 EVs in the third quarter, down from last year's record set amid expiring tax credits, but still beat Wall Street's estimates. The Verge reports Tesla produced a total of 464,391 vehicles in the quarter.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Tesla's Q3 deliveries were down from last year's record but beat Wall Street estimates.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8307617d3175b3d262b71dfd611b9cd20f3b18ed",
+          "quote": "Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. But the company still beat estimates from Wall Street, suggesting that it's recovery was still on track."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "752a07db75983eac64b91fd8601056dfd12852e1",
+          "quote": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Tesla produced a total of 464,391 vehicles in the quarter.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8307617d3175b3d262b71dfd611b9cd20f3b18ed",
+          "quote": "Tesla said that it produced a total of 464,391"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

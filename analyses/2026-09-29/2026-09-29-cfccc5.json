@@ -1,1 +1,88 @@
-{"cluster_id": "2026-09-29-cfccc5", "cluster_version": 3, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-02T02:30:00Z", "headline": "OpenAI launches always-on Dots agent at DevDay as Meta Muse rival", "summary": "OpenAI unveiled Dots, an always-on AI agent that works continuously in the background, at its DevDay conference as a response to Meta's fast-growing Muse platform. The launch came within a day of OpenAI shelving a planned model release over safety concerns, and followed Sam Altman's comment that OpenAI won't go public until its models are proven safe.", "claims": [{"id": "c1", "statement": "OpenAI announced an always-on AI agent called Dots at its DevDay event, positioned as a rival to Meta's Muse.", "sources": [{"outlet": "wired", "item_id": "04e15d4b0a7690294e5d696256ec550677e35e56", "quote": "Dots Are Always-On AI Agents"}, {"outlet": "theverge", "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5", "quote": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots."}, {"outlet": "techcrunch", "item_id": "572dce99347eb8d444446d5270b2c3295cf96632", "quote": "OpenAI launches Dots, its bubbly agentic avatar"}, {"outlet": "theguardian", "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f", "quote": "product comes weeks after Meta introduced its own artificially intelligent agent Muse"}, {"outlet": "bbc-technology", "item_id": "99a7acc3b799fde9c124a2292090aa763551d888", "quote": "OpenAI unveils AI assistant 'dots'"}, {"outlet": "theverge", "item_id": "9c6f1560c6228e1aff9a176fc12a34e872d8d81a", "quote": "announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra"}]}, {"id": "c2", "statement": "Dots are designed to run continuously in the background, pursuing tasks across connected apps with minimal oversight.", "sources": [{"outlet": "techcrunch", "item_id": "572dce99347eb8d444446d5270b2c3295cf96632", "quote": "pursuing user-defined goals continuously in the background with minimal oversight"}, {"outlet": "theverge", "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5", "quote": "always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time"}]}, {"id": "c3", "statement": "The Dots launch came within a day of OpenAI saying it was scrapping the release of a new AI model over safety concerns.", "sources": [{"outlet": "theguardian", "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f", "quote": "Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model over safety concerns"}, {"outlet": "bbc-technology", "item_id": "99a7acc3b799fde9c124a2292090aa763551d888", "quote": "while safety worries delay new model"}]}, {"id": "c4", "statement": "Sam Altman said OpenAI won't go public until its models are judged safe.", "sources": [{"outlet": "theverge", "item_id": "1eb6183d721b63e029368ddfeef29653214a0525", "quote": "Sam Altman says OpenAI won’t go public until its models are safe"}]}, {"id": "c5", "statement": "Commentary described Dots using playful or cute visual branding.", "sources": [{"outlet": "wired", "item_id": "04e15d4b0a7690294e5d696256ec550677e35e56", "quote": "These cute agents are designed to connect to your apps and tackle multistep tasks."}, {"outlet": "theregister", "item_id": "ad13c79b8a8a3b10115994ee7316575353dfcbb0", "quote": "disarming AI angst with cute graphics and always-on agents"}]}, {"id": "c6", "statement": "Meta's Muse agent platform has already seen early, fast-growing success, prompting OpenAI's response.", "sources": [{"outlet": "theverge", "item_id": "9c6f1560c6228e1aff9a176fc12a34e872d8d81a", "quote": "whose Muse AI agent platform has seen early runaway success"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-09-29-cfccc5",
+  "cluster_version": 4,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "OpenAI launches Dots, an always-on AI agent rivaling Meta's Muse",
+  "summary": "OpenAI unveiled Dots, an always-on AI agent platform powered by its GPT-6 Astra model, at its DevDay event, positioning it against Meta's Muse. CEO Sam Altman also said OpenAI won't go public until its models are safe. A later hands-on report describes Dots as a business-first product costing at least $100 a month, while other outlets differ on tone: some call it cute and disarming, others say it feels like enterprise workplace software rather than approachable like Muse.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI unveiled Dots, an always-on AI agent platform, at its DevDay event as a rival to Meta's Muse.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "04e15d4b0a7690294e5d696256ec550677e35e56",
+          "quote": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7562a874344958009e763eb85792bdb0a3c2b0d5",
+          "quote": "OpenAI launches Dots, its Muse competitor"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "007dd370ab9c441ebf0a86f4e3cbf5959be2978f",
+          "quote": "During its annual showcase for developers in San Francisco on Tuesday, Sam Altman, OpenAI’s CEO, enthusiastically unveiled"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Dots is powered by OpenAI's GPT-6 Astra model.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "9c6f1560c6228e1aff9a176fc12a34e872d8d81a",
+          "quote": "announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Dots is a business-focused product costing a minimum of $100 per month.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "9c4b190c0c51fe4f0e3f26d8e8056573818283bf",
+          "quote": "Dots is a business-first product - for now, at least - costing a minimum of $100 per month."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Sam Altman said OpenAI will not go public until its models are safe.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1eb6183d721b63e029368ddfeef29653214a0525",
+          "quote": "Sam Altman says OpenAI won’t go public until its models are safe"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Outlets differ on Dots' character: one calls it disarming and cute, another says it feels like enterprise workplace software rather than approachable like Muse.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "ad13c79b8a8a3b10115994ee7316575353dfcbb0",
+          "quote": "OpenAI tries disarming AI angst with cute graphics and always-on agents"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "5028b5fce3747e84c2f5a32b9d8efd3c223c6101",
+          "quote": "unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

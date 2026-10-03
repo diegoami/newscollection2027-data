@@ -51,6 +51,7 @@
       "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-09-29-ad3381",
   "version": 1
 }

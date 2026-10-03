@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-01-2a8912",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Florida county finds unpermitted Flock cameras with unknown owners",
+  "summary": "A Florida county discovered at least 11 unpermitted Flock surveillance cameras whose owners could not be identified. Engadget reports the county thought it had 52 Flock cameras but found many more that were unaccounted for and unpermitted.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A Florida county found at least 11 unpermitted Flock surveillance cameras whose owners could not be identified.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "2b987e463d752cc67a56e7fbae284bb11b4fc86c",
+          "quote": "Florida cops say they don't know who owns 11 unpermitted Flock cameras"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "05bc26798e528528392d021a4cde1cd416a8b2a3",
+          "quote": "Florida county finds 11 unpermitted Flock cameras with unidentified owners"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "St. Lucie County thought it had 52 Flock cameras but found many more that were unaccounted for.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "05bc26798e528528392d021a4cde1cd416a8b2a3",
+          "quote": "St. Lucie County thought it had 52 Flock cameras, but found many more that were unaccounted for and unpermitted."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

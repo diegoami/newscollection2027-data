@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-01-b613ba",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Google launches first datacenter chip into orbit for space data centers",
+  "summary": "Google launched its first advanced chip into orbit as part of research into space-based data centers, finding that SpaceX's Starship would need to launch roughly 1,800 times to make the concept feasible.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google launched its first advanced chip into orbit as part of research into space-based data centers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0f3d660d2157acea379b43fa24a485ebde5e5086",
+          "quote": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "c7337c213fe3284bc02a15eca5a715ea2db4ee3f",
+          "quote": "Google launches first datacenter satellite and research that finds orbiting bit barns can work"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Google's research suggests SpaceX's Starship would need to launch 1,800 times to make space data centers feasible.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0f3d660d2157acea379b43fa24a485ebde5e5086",
+          "quote": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "c7337c213fe3284bc02a15eca5a715ea2db4ee3f",
+          "quote": "If SpaceX can launch 1,800 Starships, and researchers nail gnarly networking, design and formation flying problems,"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-01-4e2b0c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "ChatGPT adds virtual clothing try-on feature",
+  "summary": "OpenAI rolled out a ChatGPT feature that lets users virtually try on clothing and accessories using their own photos, generated with OpenAI's latest model, and save favorites for later.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI added a ChatGPT feature letting users virtually try on clothing and accessories using their own photos.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "280d0a9a74fa163fb2d54ce1423d917f4f88e5a7",
+          "quote": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "05995418800561c28272861696150272c4e86d3f",
+          "quote": "ChatGPT can now help you virtually try on clothes"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users can save clothes they like to a Favorites library for later.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "05995418800561c28272861696150272c4e86d3f",
+          "quote": "Images are generated with OpenAI's latest model and you can save clothes you like for later."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

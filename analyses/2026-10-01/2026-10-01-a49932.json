@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-01-a49932",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Lyft settles driver misclassification lawsuit for $272.5 million",
+  "summary": "Lyft agreed to pay $272.5 million to settle a landmark lawsuit over how it classified its drivers. ArsTechnica reports critics say workers are still owed far more than the settlement provides.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Lyft agreed to pay $272.5 million to settle a lawsuit over how it classified drivers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "67f82d3372e30b8b50338dd6ca6f25d4036c54d0",
+          "quote": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "37af281425d03200cbf75685b7c7767b23cc0732",
+          "quote": "Lyft settles landmark driver misclassification lawsuit for $272.5M"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Critics say drivers are still owed far more than the settlement provides.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "37af281425d03200cbf75685b7c7767b23cc0732",
+          "quote": "Critics say workers are still owed far more."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

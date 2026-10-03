@@ -17,8 +17,16 @@
       "published": "2026-10-01T17:00:21Z",
       "title": "Sony brings AI upscaling to the base PS5",
       "url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/"
+    },
+    {
+      "item_id": "8bc4a5a3f1752fb0fc9696bd222ba23ae2e151b2",
+      "lede": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
+      "outlet": "tomshardware",
+      "published": "2026-10-02T14:10:00Z",
+      "title": "Sony brings AI-powered upscaling to the standard PS5",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

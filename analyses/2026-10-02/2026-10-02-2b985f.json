@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-02-2b985f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Nvidia debuts $4,999 64GB DGX Spark amid memory crunch",
+  "summary": "Nvidia introduced a cheaper 64GB version of its DGX Spark AI workstation starting at $4,999, while the existing 128GB version's price jumped to $6,950, nearly 75% above its launch price, amid a memory crunch.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nvidia introduced a 64GB version of its DGX Spark AI workstation starting at $4,999.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+          "quote": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "906343624e376d29d61a7567ff9cadc706982f95",
+          "quote": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The 128GB version's price jumped to $6,950, nearly 75% above its launch price.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "906343624e376d29d61a7567ff9cadc706982f95",
+          "quote": "Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

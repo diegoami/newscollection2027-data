@@ -1,0 +1,24 @@
+{
+  "anchor": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+  "id": "2026-10-02-2b985f",
+  "items": [
+    {
+      "item_id": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+      "lede": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+      "outlet": "tomshardware",
+      "published": "2026-10-02T13:00:00Z",
+      "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less"
+    },
+    {
+      "item_id": "906343624e376d29d61a7567ff9cadc706982f95",
+      "lede": "Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price",
+      "outlet": "theregister",
+      "published": "2026-10-02T13:00:00Z",
+      "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+      "url": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

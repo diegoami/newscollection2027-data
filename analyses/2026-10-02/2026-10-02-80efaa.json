@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-02-80efaa",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Meta open-sources code for building Muse AI gadgets",
+  "summary": "Meta open-sourced code that lets people build their own gadgets featuring its Muse AI agent, and also created its own smart home device, the Muse Home Link.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta open-sourced code letting people build their own Muse AI gadgets.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "866452a048073069efa83fa329306708afbe956f",
+          "quote": "Meta wants people to build their own Muse gadgets, too"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c0a74765cc53d7bd62464407a196ced079bf1514",
+          "quote": "Meta open sources code to let you make Muse AI gadgets"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta also created its own smart home device, the Muse Home Link.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "866452a048073069efa83fa329306708afbe956f",
+          "quote": "The company also created its own smart home device, the Muse Home Link"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

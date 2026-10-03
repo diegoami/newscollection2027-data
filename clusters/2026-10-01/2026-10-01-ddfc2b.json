@@ -1,0 +1,24 @@
+{
+  "anchor": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+  "id": "2026-10-01-ddfc2b",
+  "items": [
+    {
+      "item_id": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+      "lede": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-01T22:42:49Z",
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+    },
+    {
+      "item_id": "4878496c92ee9b673014961fc92ec89675885566",
+      "lede": "No login required, exploitation underway, and some admins are still waiting for patches",
+      "outlet": "theregister",
+      "published": "2026-10-02T10:53:49Z",
+      "title": "Fortinet sounds the alarm over actively exploited FortiMail zero-day",
+      "url": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

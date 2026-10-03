@@ -19,6 +19,14 @@
       "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko"
     },
     {
+      "item_id": "2104d195eeaa747cb637da3cf1b34d806aef903a",
+      "lede": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-09-30T12:24:32Z",
+      "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs"
+    },
+    {
       "item_id": "7fee5206245f13438093532f95d1dd13e114750d",
       "lede": "President Donald Trump issued an executive order directing all federal agencies to stop using the term 'artificial intelligence' and instead call it 'Super Intelligence.' The president said that the new term will solve AI's branding issue and that it 'more appropriately captures the promise, potential, and rapidly advancing capabilities of these technologies.'",
       "outlet": "tomshardware",
@@ -27,14 +35,62 @@
       "url": "https://www.tomshardware.com/tech-industry/policy/trump-tells-federal-agencies-to-use-the-term-super-intelligence-instead-of-artificial-intelligence-president-insists-that-ai-is-only-suffering-from-a-branding-problem"
     },
     {
+      "item_id": "c40803f1cbdc1035206084231b0481e22d1d73ed",
+      "lede": "Pledge signed by President Trump and top AI leaders misspells the United States.",
+      "outlet": "techcrunch",
+      "published": "2026-09-30T14:50:55Z",
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/"
+    },
+    {
+      "item_id": "275408c25e28023673dbb0cca1528dfb5674a26e",
+      "lede": "Donald Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AI The White House misspelled \u201cUnited States\u201d under the signature of Donald Trump on an accord he signed with AI executives on Tuesday. At the bottom of the accord on \u201cSuper Intelligence\u201d, the term Trump has used to rebrand artificial intelligence, the",
+      "outlet": "theguardian",
+      "published": "2026-09-30T16:11:58Z",
+      "title": "\u2018President of the Unites States\u2019: White House\u2019s AI accord includes spelling error",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error"
+    },
+    {
       "item_id": "b3707029996ac4053575df2c4e72ec4ff4ac91ac",
       "lede": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [\u2026]",
       "outlet": "theverge",
       "published": "2026-09-30T17:15:49Z",
       "title": "Here\u2019s what AI leaders are saying about Trump\u2019s new safety plan",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments"
+    },
+    {
+      "item_id": "98c1ebee90bd01501a4945fae68ba9c9ef587baf",
+      "lede": "The heads of the biggest AI labs \u2014 Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia \u2014 went to Washington and signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely. Trump says that it's the best way to move forward with AI as it balances progress with safety.",
+      "outlet": "tomshardware",
+      "published": "2026-09-30T17:27:37Z",
+      "title": "Top AI tech executives promise to \u2018self-police\u2019 AI development",
+      "url": "https://www.tomshardware.com/tech-industry/policy/top-ai-tech-executives-promise-to-self-police-ai-development-nvidia-anthropic-openai-and-more-pledge-ai-labs-will-take-steps-to-build-a-positive-future"
+    },
+    {
+      "item_id": "846404c900e61350fe125235e7a806c72e1a5fda",
+      "lede": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+      "outlet": "arstechnica",
+      "published": "2026-09-30T18:47:01Z",
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+    },
+    {
+      "item_id": "da90560c54ac446e5bc9e82b7d1e04cc84bacd55",
+      "lede": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It\u2019s unclear how much that matters.",
+      "outlet": "wired",
+      "published": "2026-09-30T20:30:09Z",
+      "title": "Trump\u2019s AI Safety \u2018Accord\u2019 Is a Fancy Pinky-Swear",
+      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/"
+    },
+    {
+      "item_id": "fcd1b322a9ec5b0c04ddf7ed2c36785a2f4ba6a9",
+      "lede": "This week, the White House got nearly every major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014 to sign an AI safety pledge that President Donald Trump called \u201cmorally binding.\u201d Trump also signed an executive order officially rebranding AI as \u201csuper intelligence,\u201d and meanwhile, Meta and OpenAI are putting friendlier faces on",
+      "outlet": "techcrunch",
+      "published": "2026-10-02T17:48:16Z",
+      "title": "It\u2019s not AI anymore, it\u2019s \u2018super intelligence\u2019 (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

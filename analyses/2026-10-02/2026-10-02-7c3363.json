@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-02-7c3363",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Rivian sets Q3 sales record on strength of the R2",
+  "summary": "Rivian set a new quarterly sales record, with deliveries up roughly 45% year-over-year on the strength of its R2 model. The Verge reports the company produced 19,751 vehicles and delivered 19,248, an 85% year-over-year jump in production.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Rivian set a new Q3 sales record, with deliveries up roughly 45% year-over-year, driven by the R2.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "cddf45be080dd0a607f8fbf3e173e770b9408b03",
+          "quote": "Rivian’s R2 just helped it set a new sales record"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "cddf45be080dd0a607f8fbf3e173e770b9408b03",
+          "quote": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Rivian reported 19,751 vehicles produced and 19,248 delivered, an 85% year-over-year increase in production.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "5757ff7bee5ecc5c31bec3f9e35d7c097a6e53d3",
+          "quote": "The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

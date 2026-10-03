@@ -1,0 +1,24 @@
+{
+  "anchor": "0f3d660d2157acea379b43fa24a485ebde5e5086",
+  "id": "2026-10-01-b613ba",
+  "items": [
+    {
+      "item_id": "0f3d660d2157acea379b43fa24a485ebde5e5086",
+      "lede": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "outlet": "techcrunch",
+      "published": "2026-10-01T19:18:03Z",
+      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+    },
+    {
+      "item_id": "c7337c213fe3284bc02a15eca5a715ea2db4ee3f",
+      "lede": "If SpaceX can launch 1,800 Starships, and researchers nail gnarly networking, design and formation flying problems,",
+      "outlet": "theregister",
+      "published": "2026-10-02T02:08:45Z",
+      "title": "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
+      "url": "https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

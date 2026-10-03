@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-10-01-0c92af",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "OpenAI fires three safety researchers over information sharing",
+  "summary": "OpenAI fired three safety researchers after an internal investigation found they mishandled sensitive company information by sharing it with an outside AI evaluation group.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI fired three safety researchers after an investigation found they mishandled sensitive company information by sharing it with an outside AI safety group.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2badf9642d906ac6c3868d6e2d15152798d36213",
+          "quote": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "28cb725c57a098f1b378df40571a9411deaaf738",
+          "quote": "OpenAI fires three employees who allegedly shared info with an external AI safety group"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "fbc7283f1ec7f081d54e56440fae1fec03be4f65",
+          "quote": "The former employees were investigated for sharing data with an outside AI evaluation group."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

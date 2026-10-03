@@ -1,0 +1,65 @@
+{
+  "agent_seconds": 734.02,
+  "counts": {
+    "analyses_total": 205,
+    "analyses_written": 24,
+    "clusters": 212,
+    "judgments": 2234,
+    "pending": 0,
+    "rejected": 7,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-10-03",
+  "duration_seconds": 777.69,
+  "finished_at": "2026-10-03T02:25:43Z",
+  "note": "1 stale pre-existing analysis (2026-09-30-96f086) rejected: its cluster was superseded by today's merge into 2026-09-29-ad3381, which has a fresh valid analysis.",
+  "started_at": "2026-10-03T02:12:45Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.572
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 41.483
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.144
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.563
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.169
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.236
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.015
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.202
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.286
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "2104d195eeaa747cb637da3cf1b34d806aef903a",
+            "outlet": "theverge",
+            "quote": "The accord, officially titled the Joint Commitment on Frontier Responsibilities"
+          },
+          {
+            "item_id": "98c1ebee90bd01501a4945fae68ba9c9ef587baf",
+            "outlet": "tomshardware",
+            "quote": "signed the 'Joint Commitment on Frontier Responsibilities,' promising to develop their own models safely"
+          },
+          {
+            "item_id": "846404c900e61350fe125235e7a806c72e1a5fda",
+            "outlet": "arstechnica",
+            "quote": "hinges on Big Tech pals policing themselves"
+          },
+          {
+            "item_id": "da90560c54ac446e5bc9e82b7d1e04cc84bacd55",
+            "outlet": "wired",
+            "quote": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards"
+          }
+        ],
+        "statement": "Tech executives signed a voluntary AI safety accord, the Joint Commitment on Frontier Responsibilities, agreeing to self-police their AI development."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "c40803f1cbdc1035206084231b0481e22d1d73ed",
+            "outlet": "techcrunch",
+            "quote": "Pledge signed by President Trump and top AI leaders misspells the United States"
+          },
+          {
+            "item_id": "275408c25e28023673dbb0cca1528dfb5674a26e",
+            "outlet": "theguardian",
+            "quote": "\u2018President of the Unites States\u2019: White House\u2019s AI accord includes spelling error"
+          }
+        ],
+        "statement": "The signed accord document misspelled 'United States.'"
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "275408c25e28023673dbb0cca1528dfb5674a26e",
+            "outlet": "theguardian",
+            "quote": "Donald Trump and six tech executives voluntarily signed the document"
+          }
+        ],
+        "statement": "Six tech executives voluntarily signed the document."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "98c1ebee90bd01501a4945fae68ba9c9ef587baf",
+            "outlet": "tomshardware",
+            "quote": "The heads of the biggest AI labs \u2014 Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia \u2014 went to Washington and signed"
+          }
+        ],
+        "statement": "Tom's Hardware names the signatories as the heads of Google, Anthropic, Meta, OpenAI, SpaceXAI, and Nvidia."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "846404c900e61350fe125235e7a806c72e1a5fda",
+            "outlet": "arstechnica",
+            "quote": "Trump gets dozens of AI firms to agree to voluntary safety tests"
+          }
+        ],
+        "statement": "Ars Technica reports Trump got dozens of AI firms to agree to voluntary safety tests."
+      }
+    ],
+    "cluster_id": "2026-09-30-96f086",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1",
+          "c3",
+          "c5"
+        ],
+        "explanation": "Outlets differ on how many companies are involved: the Guardian and Wired cite six signatories, while Ars Technica says Trump got 'dozens of AI firms' to agree to voluntary safety tests.",
+        "kind": "number",
+        "quotes": [
+          {
+            "item_id": "275408c25e28023673dbb0cca1528dfb5674a26e",
+            "outlet": "theguardian",
+            "quote": "Donald Trump and six tech executives voluntarily signed the document"
+          },
+          {
+            "item_id": "846404c900e61350fe125235e7a806c72e1a5fda",
+            "outlet": "arstechnica",
+            "quote": "Trump gets dozens of AI firms to agree to voluntary safety tests"
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Wired frames the accord skeptically as a gesture of unclear impact, while the Verge presents it as a detailed self-regulation deal.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "da90560c54ac446e5bc9e82b7d1e04cc84bacd55",
+            "outlet": "wired",
+            "quote": "Trump\u2019s AI Safety \u2018Accord\u2019 Is a Fancy Pinky-Swear"
+          },
+          {
+            "item_id": "2104d195eeaa747cb637da3cf1b34d806aef903a",
+            "outlet": "theverge",
+            "quote": "We now have the full details of the \"morally binding\" AI safety deal"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-01T02:29:26Z",
+    "headline": "Trump unveils AI self-policing accord; signed pledge misspells 'United States'",
+    "model": "claude-sonnet-5",
+    "summary": "Tech executives signed a voluntary AI safety accord, the Joint Commitment on Frontier Responsibilities, agreeing to self-police their AI development; the signed document misspelled 'United States.' Outlets differ on scale, citing six signatories or dozens of firms, and in tone, from detailed reporting to skepticism about the pledge's impact."
+  },
+  "cluster_id": "2026-09-30-96f086",
+  "problems": [
+    "cluster: 2026-09-30-96f086 is superseded by 2026-09-29-ad3381; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-10-03T02:25:13Z"
+}

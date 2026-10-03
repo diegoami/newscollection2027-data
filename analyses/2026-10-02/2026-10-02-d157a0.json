@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-02-d157a0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-03T02:30:00Z",
+  "headline": "Paramount-Warner Bros. merger to be named Skydance",
+  "summary": "Paramount's roughly $110 billion merger with Warner Bros. Discovery, expected to close around October 6, will be renamed Skydance, CEO David Ellison announced in a social media post.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Paramount's merger with Warner Bros. Discovery will be called Skydance once it completes.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
+          "quote": "Paramount’s Warner Bros. megamerger will just be called Skydance"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3",
+          "quote": "Paramount and Warner Bros. Discovery to become Skydance"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81",
+          "quote": "Soon-to-be merged Paramount and Warner Bros. will be known as Skydance going forward"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The roughly $110 billion deal is expected to close around October 6.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
+          "quote": "when it completes its $110 billion merger with Warner Bros. Discovery next week"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3",
+          "quote": "The roughly $110 billion deal is expected to close October 6."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "CEO David Ellison announced the new name in a social media post.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81",
+          "quote": "Paramount Skydance CEO David Ellison announced the new name in a social media post."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

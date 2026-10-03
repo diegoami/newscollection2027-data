@@ -1,0 +1,24 @@
+{
+  "anchor": "8b06b06da173fc49e522b4748bb2067dd8cba1cc",
+  "id": "2026-10-01-d24bd2",
+  "items": [
+    {
+      "item_id": "8b06b06da173fc49e522b4748bb2067dd8cba1cc",
+      "lede": "State attorney general issues subpoena to OpenAI as \u200bpart of broader inquiry into potential security vulnerabilities California\u2019s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup \u2060as \u200bpart of a broader inquiry into potential cybersecurity vulnerabilities and incidents related \u2060to its AI models, his office said on Thursday. Last month, Rob Bonta announced that",
+      "outlet": "theguardian",
+      "published": "2026-10-01T19:01:55Z",
+      "title": "California issues investigative subpoena to OpenAI over rogue agents\u2019 hacking",
+      "url": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack"
+    },
+    {
+      "item_id": "e4935424e751c4c60d30ca5e3aa80a8c24a63722",
+      "lede": "Plus: Attorneys-general say investigators should have direct access to AI companies' records when things go wrong",
+      "outlet": "theregister",
+      "published": "2026-10-02T14:34:00Z",
+      "title": "OpenAI's wandering AI agents earn it a California subpoena",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
