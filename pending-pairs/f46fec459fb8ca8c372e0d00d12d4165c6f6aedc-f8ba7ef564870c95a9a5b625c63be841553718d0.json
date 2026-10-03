@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "f46fec459fb8ca8c372e0d00d12d4165c6f6aedc",
+    "lede": "The company announced it has stopped using secret agreements with county officials and acknowledged that community backlash is leading to data center moratoriums across the country.",
+    "outlet": "wired",
+    "published": "2026-10-02T11:47:58Z",
+    "title": "Amazon Says It\u2019s No Longer Using NDAs for Data Centers",
+    "url": "https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/"
+  },
+  "b": {
+    "item_id": "f8ba7ef564870c95a9a5b625c63be841553718d0",
+    "lede": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-03T18:43:57Z",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+  },
+  "score": 0.675904
+}

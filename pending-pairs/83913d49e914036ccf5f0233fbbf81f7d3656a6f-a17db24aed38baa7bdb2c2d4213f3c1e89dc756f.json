@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f",
+    "lede": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not \u201cbeing nearly careful enough\u201d about developing the technology. David Robinson, who led the writing of safety reports that accompanied the ChatGPT developer\u2019s product",
+    "outlet": "theguardian",
+    "published": "2026-10-03T19:41:21Z",
+    "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+  },
+  "b": {
+    "item_id": "a17db24aed38baa7bdb2c2d4213f3c1e89dc756f",
+    "lede": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "outlet": "techcrunch",
+    "published": "2026-10-03T16:30:01Z",
+    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+  },
+  "score": 0.643583
+}

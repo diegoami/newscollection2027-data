@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c8ca51977d2506a36fb547eb5f9e2695b75553ff",
+    "lede": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "outlet": "wired",
+    "published": "2026-10-03T18:00:00Z",
+    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
+  },
+  "b": {
+    "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056",
+    "lede": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+    "outlet": "arstechnica",
+    "published": "2026-10-02T14:52:16Z",
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+    "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
+  },
+  "score": 0.658616
+}

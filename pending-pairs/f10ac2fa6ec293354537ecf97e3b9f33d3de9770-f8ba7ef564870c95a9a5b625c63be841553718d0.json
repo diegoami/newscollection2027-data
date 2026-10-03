@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "f10ac2fa6ec293354537ecf97e3b9f33d3de9770",
+    "lede": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+    "outlet": "arstechnica",
+    "published": "2026-10-02T20:30:27Z",
+    "title": "Amazon\u2019s $1B plan to combat data center backlash draws more backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+  },
+  "b": {
+    "item_id": "f8ba7ef564870c95a9a5b625c63be841553718d0",
+    "lede": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-03T18:43:57Z",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+  },
+  "score": 0.688852
+}
