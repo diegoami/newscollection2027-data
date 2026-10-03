@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71f68485047e901d5aa1ee7051707117c49213a3",
+    "lede": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-03T23:12:34Z",
+    "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+  },
+  "b": {
+    "item_id": "c2e280cb224968cc6746dbdbffff3b4d1e7e4250",
+    "lede": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-01T19:47:51Z",
+    "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+  },
+  "score": 0.621478
+}

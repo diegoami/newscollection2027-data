@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71f68485047e901d5aa1ee7051707117c49213a3",
+    "lede": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-03T23:12:34Z",
+    "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+  },
+  "b": {
+    "item_id": "e148a12b4219ef6ae4791a78e29fe4715ac60c12",
+    "lede": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-02T20:08:40Z",
+    "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+  },
+  "score": 0.627126
+}
