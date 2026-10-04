@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5058e2f27caa8c2c8496a6acf5fb556b3446fbcc",
+    "lede": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-04T21:58:01Z",
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "7f8ace82a4a3274e74bb92d4f6598d0c32d59184",
+    "lede": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-01T22:42:49Z",
+    "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+  },
+  "score": 0.642962
+}

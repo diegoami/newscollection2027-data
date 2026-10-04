@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "8d79547844fb8fc61420a12de2316a3828793d37",
-    "lede": "The iPhone 18 Pro doesn't have a super long list of improvements, but these upgrades are still worth a try.",
+    "item_id": "4ead23db967677212b717f3d614e94d065e971e7",
+    "lede": "The iPhone Duo lacks a few features we're used to seeing on other iPhones.",
     "outlet": "engadget",
-    "published": "2026-10-04T18:45:00Z",
-    "title": "Five iPhone 18 Pro features you'll want to try the second you unbox it",
-    "url": "https://www.engadget.com/2274578/iphone-18-pro-feature-try-when-unboxed/"
+    "published": "2026-10-04T22:45:00Z",
+    "title": "The popular Apple features you won't be getting with the iPhone Duo",
+    "url": "https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/"
   },
   "b": {
     "item_id": "de39640682658ba7c22c16db6444c5dca1ddd446",
@@ -15,5 +15,5 @@
     "title": "iPhone 18 Pro Max can\u2019t call or text on AT&T? Apple will replace it for free",
     "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/"
   },
-  "score": 0.624766
+  "score": 0.601164
 }
