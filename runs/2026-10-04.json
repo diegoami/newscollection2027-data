@@ -1,0 +1,65 @@
+{
+  "agent_seconds": 496.782,
+  "counts": {
+    "analyses_total": 210,
+    "analyses_written": 12,
+    "clusters": 218,
+    "judgments": 2295,
+    "pending": 0,
+    "rejected": 8,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-10-04",
+  "duration_seconds": 518.276,
+  "finished_at": "2026-10-04T02:22:20Z",
+  "note": "1 analysis left in rejected/: cluster 2026-10-02-da5cd8 was superseded by a merge into 2026-09-30-f4389a during tonight's clustering; its prior analysis is stale history, and f4389a already carries a valid current analysis covering the same story.",
+  "started_at": "2026-10-04T02:13:42Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.543
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 18.762
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.178
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.987
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.403
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.017
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.232
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.018
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.354
+    }
+  ]
+}

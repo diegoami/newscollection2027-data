@@ -1,0 +1,32 @@
+{
+  "anchor": "9756d2a0176b4565e87e9aa13b2172570223823d",
+  "id": "2026-10-02-5592c6",
+  "items": [
+    {
+      "item_id": "9756d2a0176b4565e87e9aa13b2172570223823d",
+      "lede": "Some iPhone 18 Pro Max users can\u2019t call or text. AT&T is telling them to update immediately.",
+      "outlet": "zdnet",
+      "published": "2026-10-02T19:40:38Z",
+      "title": "iPhone 18 Pro Max stuck in SOS mode? Try AT&T\u2019s urgent fix ASAP",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-call-text-sos-issue-update-fix/"
+    },
+    {
+      "item_id": "de39640682658ba7c22c16db6444c5dca1ddd446",
+      "lede": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+      "outlet": "zdnet",
+      "published": "2026-10-03T01:43:56Z",
+      "title": "iPhone 18 Pro Max can\u2019t call or text on AT&T? Apple will replace it for free",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/"
+    },
+    {
+      "item_id": "d73faba70d812e3ab0ded38943570e9499d5543a",
+      "lede": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.",
+      "outlet": "engadget",
+      "published": "2026-10-03T02:10:16Z",
+      "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+      "url": "https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

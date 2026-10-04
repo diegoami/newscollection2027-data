@@ -1,0 +1,41 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "8931b830d8ddf5c9c3537ecf99244c15bcc95d33",
+            "outlet": "techcrunch",
+            "quote": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier."
+          },
+          {
+            "item_id": "4bfb0e5e121f61eeebc62f6edf35cd535911260f",
+            "outlet": "engadget",
+            "quote": "Apple sounds the alarm on AI agents and 'Full Disk Access'"
+          },
+          {
+            "item_id": "e148a12b4219ef6ae4791a78e29fe4715ac60c12",
+            "outlet": "theverge",
+            "quote": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk"
+          }
+        ],
+        "statement": "Apple is tightening macOS's Full Disk Access controls, citing increased risk from AI agents with broad access to files, messages and data."
+      }
+    ],
+    "cluster_id": "2026-10-02-da5cd8",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-03T02:30:00Z",
+    "headline": "Apple tightens macOS disk access controls over AI agent risks",
+    "model": "claude-sonnet-5",
+    "summary": "Apple said it will add new controls around macOS's Full Disk Access permission, warning that increasingly capable AI agents make broad access to users' files, messages, mail, and browsing history riskier."
+  },
+  "cluster_id": "2026-10-02-da5cd8",
+  "problems": [
+    "cluster: 2026-10-02-da5cd8 is superseded by 2026-09-30-f4389a; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-10-04T02:21:47Z"
+}

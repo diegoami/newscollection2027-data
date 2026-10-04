@@ -27,6 +27,7 @@
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-09-30-f4389a",
   "version": 1
 }

@@ -17,8 +17,16 @@
       "published": "2026-10-02T14:34:00Z",
       "title": "OpenAI's wandering AI agents earn it a California subpoena",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850"
+    },
+    {
+      "item_id": "813d53e38d52c89eebcde3e60bdb78bfdcded366",
+      "lede": "California state Attorney General Rob Bonta issued a subpoena to OpenAI, compelling it to submit information on the hacking incidents that its models have been involved in. While the investigators haven't determined yet whether the company has broken any rules or regulations, Bonta said that developers are responsible for the models they build and should be held legally accountable if",
+      "outlet": "tomshardware",
+      "published": "2026-10-03T11:15:00Z",
+      "title": "California subpoenas OpenAI over rogue AI agents conducting hacking attacks",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

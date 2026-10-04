@@ -25,8 +25,16 @@
       "published": "2026-10-02T15:00:13Z",
       "title": "OpenAI\u2019s Medicare attack has exposed Australia\u2019s \u2018tech debt\u2019. Fixing it could bring a big bill for taxpayers",
       "url": "https://www.theguardian.com/australia-news/2026/oct/03/openais-medicare-attack-has-exposed-australias-tech-debt-fixing-it-could-bring-a-big-bill-for-taxpayers"
+    },
+    {
+      "item_id": "8f8890a08a5f9a1ffd5b3f8a4235dc1f45257655",
+      "lede": "Company says it is reviewing 50 petabytes of data after its agents accessed websites including Medicare without authorisation Get our breaking news email , free app or daily news podcast OpenAI says its review in response to the Medicare and Hugging Face agent attacks is costing the company more than US$500,000 per day, as it deploys AI to examine data",
+      "outlet": "theguardian",
+      "published": "2026-10-03T05:39:22Z",
+      "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }
