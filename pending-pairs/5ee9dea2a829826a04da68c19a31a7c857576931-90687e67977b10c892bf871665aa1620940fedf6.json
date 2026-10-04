@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5ee9dea2a829826a04da68c19a31a7c857576931",
+    "lede": "When one gamer's prebuilt PC had a GPU and power cables burn up, they didn't know where to turn: the system builder or the GPU manufacturer. It turned into a headache of differing policies and warranties.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T11:40:00Z",
+    "title": "$5,245 prebuilt RTX 5090 PC's connectors melt after sitting boxed for a year",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables"
+  },
+  "b": {
+    "item_id": "90687e67977b10c892bf871665aa1620940fedf6",
+    "lede": "Reddit user u/DallasGrave shared a fix for his RTX 5090, one of the best graphics cards, whose 12VHPWR connector was overheating, along with an image of a module screwed onto the back of his GPU.",
+    "outlet": "tomshardware",
+    "published": "2026-10-04T14:50:00Z",
+    "title": "Modder 'fixes' melting RTX 5090 power connectors with custom distributor",
+    "url": "https://www.tomshardware.com/pc-components/gpus/modder-fixes-melting-rtx-5090-power-connectors-with-custom-distributor-dual-8-pin-mod-peaks-at-just-40c-during-a-48-hour-550w-stress-test"
+  },
+  "score": 0.580145
+}

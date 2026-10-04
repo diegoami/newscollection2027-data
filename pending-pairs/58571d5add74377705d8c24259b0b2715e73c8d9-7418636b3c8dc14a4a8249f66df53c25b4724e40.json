@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "58571d5add74377705d8c24259b0b2715e73c8d9",
+    "lede": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+    "outlet": "arstechnica",
+    "published": "2026-10-02T21:19:05Z",
+    "title": "Someone got Doom in an SQL database",
+    "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
+  },
+  "b": {
+    "item_id": "7418636b3c8dc14a4a8249f66df53c25b4724e40",
+    "lede": "Database expert runs Doom in SQL again \u2014 full-featured SQLDoom is the sequel to embryonic DoomQL",
+    "outlet": "tomshardware",
+    "published": "2026-10-04T14:00:00Z",
+    "title": "Database expert runs Doom in SQL with just 5,900 lines of code",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/database-expert-runs-doom-in-sql-with-just-5-900-lines-of-code-1-300-line-graphical-renderer-spans-89-different-tables-full-featured-sqldoom-is-the-sequel-to-embryonic-doomql"
+  },
+  "score": 0.64628
+}
