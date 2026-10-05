@@ -1,0 +1,24 @@
+{
+  "anchor": "f115856b66c6f0fd846dd434d3e24528207a3696",
+  "id": "2026-10-02-90b415",
+  "items": [
+    {
+      "item_id": "f115856b66c6f0fd846dd434d3e24528207a3696",
+      "lede": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago while introducing the puck-shaped pod replacements called AltaRounds that wrap pressed coffee grounds in a plant-based coating [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-02T14:29:05Z",
+      "title": "Keurig\u2019s new machine uses plastic-free compressed coffee pucks",
+      "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder"
+    },
+    {
+      "item_id": "0af6a69ae804d9b7d71c4279060817239b2c47f4",
+      "lede": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
+      "outlet": "wired",
+      "published": "2026-10-04T09:30:00Z",
+      "title": "Keurig Alta First-Look: No More Plastic K-Cups",
+      "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

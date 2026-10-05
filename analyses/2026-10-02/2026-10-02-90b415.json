@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-02-90b415",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-05T02:19:56Z",
+  "headline": "Keurig unveils plastic-free Alta coffee pod machine",
+  "summary": "Keurig's new single-serve machine uses plastic- and aluminum-free coffee pods, called AltaRounds, instead of traditional K-Cups. The design was first shown two years ago. One outlet notes the pods are compostable; another says the price is steep.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Keurig introduced a new single-serve machine that uses plastic-free coffee pods instead of the K-Cup.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "f115856b66c6f0fd846dd434d3e24528207a3696", "quote": "plastic-free compressed coffee pucks"},
+        {"outlet": "wired", "item_id": "0af6a69ae804d9b7d71c4279060817239b2c47f4", "quote": "No More Plastic K-Cups"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new pod, called AltaRounds, was first shown off two years ago.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "f115856b66c6f0fd846dd434d3e24528207a3696", "quote": "puck-shaped pod replacements called AltaRounds"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The machine's price is steep.",
+      "sources": [
+        {"outlet": "wired", "item_id": "0af6a69ae804d9b7d71c4279060817239b2c47f4", "quote": "the price is steep"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

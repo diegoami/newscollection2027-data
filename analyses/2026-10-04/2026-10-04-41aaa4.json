@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-04-41aaa4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-05T02:19:56Z",
+  "headline": "Trump creates 'Super Intelligence Force' and names an AI czar",
+  "summary": "Trump announced a new task force called the Super Intelligence Force, described as his latest response to the AI safety debate, and put an AI czar in charge of it. Separately, intelligence chief Jay Clayton was named the new White House AI czar.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Trump created a new task force called the Super Intelligence Force, a response to the AI safety debate.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "8aaa4b741173b837390a898b4660ed1a6a31a647", "quote": "Trump's latest response to the debate over AI safety"},
+        {"outlet": "engadget", "item_id": "d55a75f3f113a3641b1f5b226ea8d04afb9cdab1", "quote": "newly created 'Super Intelligence Force'"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Trump named Jay Clayton, the director of national intelligence, as the new White House AI czar.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9dcbaaab940e582d8863774c9bbb7f05f6e509a9", "quote": "intelligence chief Jay Clayton as new White House AI czar"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Super Intelligence Force now has someone put in charge of it, an AI czar.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "d55a75f3f113a3641b1f5b226ea8d04afb9cdab1", "quote": "there's actually someone in charge of it"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

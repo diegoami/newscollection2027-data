@@ -1,0 +1,32 @@
+{
+  "anchor": "9dcbaaab940e582d8863774c9bbb7f05f6e509a9",
+  "id": "2026-10-04-41aaa4",
+  "items": [
+    {
+      "item_id": "9dcbaaab940e582d8863774c9bbb7f05f6e509a9",
+      "lede": "Calyton said AI was a \u2018gamechanger\u2019 but it also posed \u2018a threat\u2019 during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence , to serve also as the new White House AI czar. Clayton, who leads the US\u2019s 18 intelligence agencies , previously served as the top federal prosecutor in Manhattan and",
+      "outlet": "theguardian",
+      "published": "2026-10-04T13:44:50Z",
+      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar"
+    },
+    {
+      "item_id": "8aaa4b741173b837390a898b4660ed1a6a31a647",
+      "lede": "This new task force is Trump's latest response to the debate over AI safety.",
+      "outlet": "techcrunch",
+      "published": "2026-10-04T15:15:10Z",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+    },
+    {
+      "item_id": "d55a75f3f113a3641b1f5b226ea8d04afb9cdab1",
+      "lede": "That's really what it's called and there's actually someone in charge of it.",
+      "outlet": "engadget",
+      "published": "2026-10-04T16:29:26Z",
+      "title": "Trump announces an AI czar for his newly created 'Super Intelligence Force'",
+      "url": "https://www.engadget.com/2276762/trump-announces-an-ai-czar-for-his-newly-created-super-intelligence-force/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
