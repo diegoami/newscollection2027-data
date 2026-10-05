@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a9a516b69cc2f899e78c99f38fe53348815d013",
+    "lede": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded Tegra X1+ processor, 3GB of RAM, and 16GB of storage, it sold for $199.99. But [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-05T15:43:13Z",
+    "title": "Nvidia\u2019s Shield TV Pro just got a $100 price hike",
+    "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase"
+  },
+  "b": {
+    "item_id": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+    "lede": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T13:00:00Z",
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less"
+  },
+  "score": 0.60241
+}

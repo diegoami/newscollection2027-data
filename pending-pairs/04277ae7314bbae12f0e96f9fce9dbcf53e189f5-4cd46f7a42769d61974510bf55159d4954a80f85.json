@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04277ae7314bbae12f0e96f9fce9dbcf53e189f5",
+    "lede": "The tool can free up over 12GB of storage.",
+    "outlet": "arstechnica",
+    "published": "2026-10-05T19:14:44Z",
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/"
+  },
+  "b": {
+    "item_id": "4cd46f7a42769d61974510bf55159d4954a80f85",
+    "lede": "Meet RemoveMacAI",
+    "outlet": "theregister",
+    "published": "2026-10-05T19:24:19Z",
+    "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213"
+  },
+  "score": 0.667895
+}

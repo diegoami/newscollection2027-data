@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+    "lede": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+    "outlet": "techcrunch",
+    "published": "2026-10-05T14:58:42Z",
+    "title": "Hackers steal 8 million citizens\u2019 records from Danish government database",
+    "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/"
+  },
+  "b": {
+    "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612",
+    "lede": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T15:21:10Z",
+    "title": "Denmark population registry data breach affects 8.8 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/"
+  },
+  "score": 0.724857
+}

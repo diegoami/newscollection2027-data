@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9b68a7ce089b76f8d52ba46bd2c20f4e601a2b49",
+    "lede": "Display ads, what a concept.",
+    "outlet": "engadget",
+    "published": "2026-10-05T14:38:31Z",
+    "title": "OpenAI is testing more ads in ChatGPT",
+    "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/"
+  },
+  "b": {
+    "item_id": "eb4335e023ec3e4506f9b3a27d0025356609ed5a",
+    "lede": "Want to generate an image with ChatGPT? Then prepare for ads if you're in the US",
+    "outlet": "theregister",
+    "published": "2026-10-05T15:54:45Z",
+    "title": "OpenAI to flood your eyeballs with visual ads",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152"
+  },
+  "score": 0.733983
+}

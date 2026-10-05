@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "147c18911f6f23ad8a826b7293ee8e1d6238c76a",
+    "lede": "Android app compatibility on Googlebooks may not be as smooth as previously stated.",
+    "outlet": "engadget",
+    "published": "2026-10-05T12:38:55Z",
+    "title": "Google admits some 'complex' Android apps run poorly on Intel Googlebooks",
+    "url": "https://www.engadget.com/2277034/google-admits-some-complex-android-apps-run-poorly-on-intel-googlebooks/"
+  },
+  "b": {
+    "item_id": "cec994a385a752467295047773f96e0f06eb368c",
+    "lede": "Some Android apps not optimized for x86-64 may have trouble running on Intel Googlebooks.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T15:53:44Z",
+    "title": "Intel's Googlebooks might not run some Android apps as well as Qualcomm's",
+    "url": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/intels-googlebooks-might-not-run-some-android-apps-as-well-as-qualcomms-google-says-this-is-because-android-apps-were-designed-for-arm-chips"
+  },
+  "score": 0.818596
+}

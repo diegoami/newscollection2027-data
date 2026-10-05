@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "335aeeb6b42193b1ed7b75f403a8e139dc96fc55",
+    "lede": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-03T14:35:20Z",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
+  },
+  "b": {
+    "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612",
+    "lede": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T15:21:10Z",
+    "title": "Denmark population registry data breach affects 8.8 million people",
+    "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/"
+  },
+  "score": 0.65157
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4e1c2d3dedbab3134eceace18f4ee3b1df385701",
+    "lede": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-05T15:14:24Z",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+  },
+  "b": {
+    "item_id": "9b68a7ce089b76f8d52ba46bd2c20f4e601a2b49",
+    "lede": "Display ads, what a concept.",
+    "outlet": "engadget",
+    "published": "2026-10-05T14:38:31Z",
+    "title": "OpenAI is testing more ads in ChatGPT",
+    "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/"
+  },
+  "score": 0.657171
+}

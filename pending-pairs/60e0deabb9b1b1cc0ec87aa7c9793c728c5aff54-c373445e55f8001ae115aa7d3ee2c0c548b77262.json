@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60e0deabb9b1b1cc0ec87aa7c9793c728c5aff54",
+    "lede": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+    "outlet": "tomshardware",
+    "published": "2026-10-02T13:00:00Z",
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less"
+  },
+  "b": {
+    "item_id": "c373445e55f8001ae115aa7d3ee2c0c548b77262",
+    "lede": "MSI's Codex Z2C is on sale for $999 and comes with a Ryzen 7 8700F and a GeForce RTX 5060 Ti 8GB.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T19:28:28Z",
+    "title": "Nvidia RTX 5060 Ti gaming PC hits $999 with 8-core Ryzen CPU, 16GB RAM, and 1TB PCIe 4.0 SSD \u2014 $600 instant savings on a complete 1080p powerhouse",
+    "url": "https://www.tomshardware.com/pc-components/nvidia-rtx-5060-ti-gaming-pc-hits-usd999-with-8-core-ryzen-cpu-16gb-ram-and-1tb-pcie-4-0-ssd-usd600-instant-savings-on-a-complete-1080p-powerhouse"
+  },
+  "score": 0.582235
+}

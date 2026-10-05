@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fa5dc076168ce1e57d769014e4fe78a0c3a4766",
+    "lede": "Tencent is reportedly renting 100,000 AI chips from Oracle data centers in Southeast Asia for about $7 billion over five years.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T13:20:00Z",
+    "title": "Tencent scores 100,000 offshore AI chip deal with Oracle for $7 billion despite climbing prices",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates"
+  },
+  "b": {
+    "item_id": "38fe3006946793ac57d7c2caa7cf7fb207f007d0",
+    "lede": "AWS CEO Matt Garman said in a company blog post that it will allocate $1 billion over five years to key issues that data center communities raised, including education, workforce pathways, energy affordability, and more. This amounts to grants of $200 million annually, even as the company allocates $220 billion on data center infrastructure for 2026.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T10:50:00Z",
+    "title": "Amazon promises to spend $1 billion on communities close to its data centers, but critics push back",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments"
+  },
+  "score": 0.644147
+}

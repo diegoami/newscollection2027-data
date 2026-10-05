@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c1bad441fd92017abae40f2cd59a091527b9d702",
+    "lede": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T10:28:45Z",
+    "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+  },
+  "b": {
+    "item_id": "eb4335e023ec3e4506f9b3a27d0025356609ed5a",
+    "lede": "Want to generate an image with ChatGPT? Then prepare for ads if you're in the US",
+    "outlet": "theregister",
+    "published": "2026-10-05T15:54:45Z",
+    "title": "OpenAI to flood your eyeballs with visual ads",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152"
+  },
+  "score": 0.823024
+}

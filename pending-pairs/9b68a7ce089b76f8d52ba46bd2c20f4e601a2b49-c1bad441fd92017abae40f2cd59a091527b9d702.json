@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9b68a7ce089b76f8d52ba46bd2c20f4e601a2b49",
+    "lede": "Display ads, what a concept.",
+    "outlet": "engadget",
+    "published": "2026-10-05T14:38:31Z",
+    "title": "OpenAI is testing more ads in ChatGPT",
+    "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/"
+  },
+  "b": {
+    "item_id": "c1bad441fd92017abae40f2cd59a091527b9d702",
+    "lede": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T10:28:45Z",
+    "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+  },
+  "score": 0.815932
+}

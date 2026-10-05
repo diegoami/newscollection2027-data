@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "179f36c2e73f25619cd38bf38b7dd5978f35f6d2",
+    "lede": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T14:53:06Z",
+    "title": "New Dell System Update flaw lets hackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/"
+  },
+  "b": {
+    "item_id": "4da5a22bacf27ee6250f1298c8852a0f022ffaca",
+    "lede": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-02T16:20:05Z",
+    "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/"
+  },
+  "score": 0.58091
+}
