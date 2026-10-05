@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e941fb26f710c56d3f4b382082ab6be76b2b0a9",
+    "lede": "David Robinson argues that Silicon Valley lacks the wisdom on how to handle AI safely and urges the industry to seek outside experts to help build a culture that prioritizes it.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T11:50:00Z",
+    "title": "Former OpenAI safety employee says company\u2019s safety culture is broken \u2014 exits company after failed kill switch and July HuggingFace hack",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-openai-safety-employee-says-companys-safety-culture-is-broken-exits-company-after-failed-kill-switch-and-july-huggingface-hack"
+  },
+  "b": {
+    "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f",
+    "lede": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not \u201cbeing nearly careful enough\u201d about developing the technology. David Robinson, who led the writing of safety reports that accompanied the ChatGPT developer\u2019s product",
+    "outlet": "theguardian",
+    "published": "2026-10-04T07:48:54Z",
+    "title": "OpenAI safety leader quits, warning AI company\u2019s culture is \u2018broken\u2019",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+  },
+  "score": 0.688589
+}

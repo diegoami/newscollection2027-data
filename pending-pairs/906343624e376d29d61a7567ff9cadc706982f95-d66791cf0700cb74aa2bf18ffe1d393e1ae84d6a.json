@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "906343624e376d29d61a7567ff9cadc706982f95",
+    "lede": "Meanwhile 128 GB version jumps to $6,950, nearly 75% above its launch price",
+    "outlet": "theregister",
+    "published": "2026-10-02T13:00:00Z",
+    "title": "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+    "url": "https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622"
+  },
+  "b": {
+    "item_id": "d66791cf0700cb74aa2bf18ffe1d393e1ae84d6a",
+    "lede": "The September 2026 Steam Survey showed a surprising result despite extreme RAM pricing.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T13:00:00Z",
+    "title": "32GB dethrones 16GB as top RAM capacity in gaming rigs despite memory shortage",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/32gb-ram-config-hits-top-spot-on-steam-survey-despite-memory-chip-shortage-amd-closing-in-on-intel-at-more-than-48-percent-share"
+  },
+  "score": 0.588549
+}

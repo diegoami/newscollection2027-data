@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "147c18911f6f23ad8a826b7293ee8e1d6238c76a",
+    "lede": "Android app compatibility on Googlebooks may not be as smooth as previously stated.",
+    "outlet": "engadget",
+    "published": "2026-10-05T12:38:55Z",
+    "title": "Google admits some 'complex' Android apps run poorly on Intel Googlebooks",
+    "url": "https://www.engadget.com/2277034/google-admits-some-complex-android-apps-run-poorly-on-intel-googlebooks/"
+  },
+  "b": {
+    "item_id": "7345a0d7fe0d865d1b5758f3f337e727c93e5a9c",
+    "lede": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-05T10:58:22Z",
+    "title": "Google admits not every Android app runs great on Intel Googlebooks",
+    "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance"
+  },
+  "score": 0.885144
+}

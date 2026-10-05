@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "f66e772a68098b639d27d3ad1f2d118e16df899c",
+    "lede": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T08:27:46Z",
+    "title": "Google halts open-source bug bounty program amid AI spam surge",
+    "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/"
+  },
+  "b": {
+    "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f",
+    "lede": "Google suspends product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) over an influx of invalid AI-driven reports.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T12:00:00Z",
+    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop submissions",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
+  },
+  "score": 0.887878
+}
