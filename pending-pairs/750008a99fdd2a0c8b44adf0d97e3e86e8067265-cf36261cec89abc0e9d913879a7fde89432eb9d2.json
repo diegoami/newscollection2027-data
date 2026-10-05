@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "750008a99fdd2a0c8b44adf0d97e3e86e8067265",
+    "lede": "Gears of War: E-Day is the first game to implement Unreal Engine's MegaLights technology, allowing for hundreds of dynamic ray-traced light sources in a scene. We put it to the test on 43 graphics cards to see what this next-gen feature demands across three generations of GPUs from Nvidia, AMD, and Intel.",
+    "outlet": "tomshardware",
+    "published": "2026-10-01T13:00:00Z",
+    "title": "Gears of War: E-Day PC graphics performance tested",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/gears-of-war-e-day-pc-graphics-performance-tested-43-gpus-take-us-back-to-the-start-of-an-iconic-saga"
+  },
+  "b": {
+    "item_id": "cf36261cec89abc0e9d913879a7fde89432eb9d2",
+    "lede": "Graphics chips could draw but not compute, until the Xbox arrived.",
+    "outlet": "engadget",
+    "published": "2026-10-05T00:00:00Z",
+    "title": "How did retro consoles handle graphics before modern GPUs?",
+    "url": "https://www.engadget.com/2274743/how-retro-consoles-handled-graphics-before-modern-gpu/"
+  },
+  "score": 0.601085
+}

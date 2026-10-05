@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c84b492b133aa59be298ec60f3d3d25cb5408453",
+    "lede": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-05T02:32:21Z",
+    "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+    "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo"
+  },
+  "b": {
+    "item_id": "fcd1b322a9ec5b0c04ddf7ed2c36785a2f4ba6a9",
+    "lede": "This week, the White House got nearly every major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014 to sign an AI safety pledge that President Donald Trump called \u201cmorally binding.\u201d Trump also signed an executive order officially rebranding AI as \u201csuper intelligence,\u201d and meanwhile, Meta and OpenAI are putting friendlier faces on",
+    "outlet": "techcrunch",
+    "published": "2026-10-02T17:48:16Z",
+    "title": "It\u2019s not AI anymore, it\u2019s \u2018super intelligence\u2019 (according to the White House)",
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/"
+  },
+  "score": 0.616995
+}
