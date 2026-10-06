@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2b6a1a3793ab31d31fff94a40b3bc9a78f4555a0",
+    "lede": "During a joint parliamentary hearing on artificial intelligence, Anthropic\u2019s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government systems. However, Orr acknowledges Anthropic has limited visibility into customer usage due to standard \u2018zero data retention\u2019 policies Anthropic tells AI inquiry it \u2018never tried to dictate\u2019 Australian copyright rules",
+    "outlet": "theguardian",
+    "published": "2026-10-06T04:52:12Z",
+    "title": "Anthropic says AI agents didn\u2019t breach Australian government websites \u2013 video",
+    "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video"
+  },
+  "b": {
+    "item_id": "964c991e5a592619eaf5c3e5f6c282799c7e4046",
+    "lede": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-05T16:13:21Z",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o"
+  },
+  "score": 0.576907
+}

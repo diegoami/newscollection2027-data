@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b4f17ac5916ee5a85d879da8b4e3ee6a9447503d",
+    "lede": "Wikimedia says it's \"deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
+    "outlet": "engadget",
+    "published": "2026-10-05T19:55:11Z",
+    "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+    "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/"
+  },
+  "b": {
+    "item_id": "c9c765ca7e8fbba563f5097961a08ed3ab814c0e",
+    "lede": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-06T11:31:48Z",
+    "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+    "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
+  },
+  "score": 0.793185
+}

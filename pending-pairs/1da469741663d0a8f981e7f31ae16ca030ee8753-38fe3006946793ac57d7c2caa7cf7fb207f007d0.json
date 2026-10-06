@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1da469741663d0a8f981e7f31ae16ca030ee8753",
+    "lede": "Census Bureau data shows U.S. data center construction spending hit a record $85 billion annual rate in August, up 73% in a year.",
+    "outlet": "tomshardware",
+    "published": "2026-10-06T12:00:00Z",
+    "title": "Data center construction spending hits record $85 billion annual pace",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/spending-on-u-s-data-center-buildings-hits-record-usd85-billion-annual-pace-up-73-percent-in-a-year-and-census-doesnt-count-the-servers-and-racks-inside"
+  },
+  "b": {
+    "item_id": "38fe3006946793ac57d7c2caa7cf7fb207f007d0",
+    "lede": "AWS CEO Matt Garman said in a company blog post that it will allocate $1 billion over five years to key issues that data center communities raised, including education, workforce pathways, energy affordability, and more. This amounts to grants of $200 million annually, even as the company allocates $220 billion on data center infrastructure for 2026.",
+    "outlet": "tomshardware",
+    "published": "2026-10-03T10:50:00Z",
+    "title": "Amazon promises to spend $1 billion on communities close to its data centers, but critics push back",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments"
+  },
+  "score": 0.60253
+}

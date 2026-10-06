@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+    "lede": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+    "outlet": "techcrunch",
+    "published": "2026-10-05T14:58:42Z",
+    "title": "Hackers steal 8 million citizens\u2019 records from Danish government database",
+    "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/"
+  },
+  "b": {
+    "item_id": "604124be3b4aa73775d51100cdd271582c6953d9",
+    "lede": "Abuse of private firm's access exposed 8.8M records, including those of people who had died or moved abroad",
+    "outlet": "theregister",
+    "published": "2026-10-06T11:46:48Z",
+    "title": "Denmark's ID register spills more people's details than the country has residents",
+    "url": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307"
+  },
+  "score": 0.671708
+}

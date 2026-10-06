@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2b6a1a3793ab31d31fff94a40b3bc9a78f4555a0",
+    "lede": "During a joint parliamentary hearing on artificial intelligence, Anthropic\u2019s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government systems. However, Orr acknowledges Anthropic has limited visibility into customer usage due to standard \u2018zero data retention\u2019 policies Anthropic tells AI inquiry it \u2018never tried to dictate\u2019 Australian copyright rules",
+    "outlet": "theguardian",
+    "published": "2026-10-06T04:52:12Z",
+    "title": "Anthropic says AI agents didn\u2019t breach Australian government websites \u2013 video",
+    "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video"
+  },
+  "b": {
+    "item_id": "9c966f73f01bad7a35dcc3c36af74a54e2045157",
+    "lede": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-04T10:53:21Z",
+    "title": "Anthropic asks Claude users to share voice data for AI model training",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/"
+  },
+  "score": 0.663681
+}

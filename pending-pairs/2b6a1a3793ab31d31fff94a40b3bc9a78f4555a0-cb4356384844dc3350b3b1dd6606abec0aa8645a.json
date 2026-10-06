@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2b6a1a3793ab31d31fff94a40b3bc9a78f4555a0",
+    "lede": "During a joint parliamentary hearing on artificial intelligence, Anthropic\u2019s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government systems. However, Orr acknowledges Anthropic has limited visibility into customer usage due to standard \u2018zero data retention\u2019 policies Anthropic tells AI inquiry it \u2018never tried to dictate\u2019 Australian copyright rules",
+    "outlet": "theguardian",
+    "published": "2026-10-06T04:52:12Z",
+    "title": "Anthropic says AI agents didn\u2019t breach Australian government websites \u2013 video",
+    "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video"
+  },
+  "b": {
+    "item_id": "cb4356384844dc3350b3b1dd6606abec0aa8645a",
+    "lede": "Anthropic tells inquiry it \u2018never tried to dictate\u2019 Australian copyright rules as the ABC says copyright laws do not need changing Get our breaking news email , free app or daily news podcast OpenAI has used an appearance before a parliamentary inquiry on AI to apologise again to Australia about the hack on Medicare last month, as media and entertainment",
+    "outlet": "theguardian",
+    "published": "2026-10-06T00:53:48Z",
+    "title": "OpenAI has \u2018work to do to rebuild trust\u2019 in Australia, executive tells AI inquiry",
+    "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon"
+  },
+  "score": 0.651807
+}

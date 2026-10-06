@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8f8890a08a5f9a1ffd5b3f8a4235dc1f45257655",
+    "lede": "Company says it is reviewing 50 petabytes of data after its agents accessed websites including Medicare without authorisation Get our breaking news email , free app or daily news podcast OpenAI says its review in response to the Medicare and Hugging Face agent attacks is costing the company more than US$500,000 per day, as it deploys AI to examine data",
+    "outlet": "theguardian",
+    "published": "2026-10-03T05:39:22Z",
+    "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"
+  },
+  "b": {
+    "item_id": "cb4356384844dc3350b3b1dd6606abec0aa8645a",
+    "lede": "Anthropic tells inquiry it \u2018never tried to dictate\u2019 Australian copyright rules as the ABC says copyright laws do not need changing Get our breaking news email , free app or daily news podcast OpenAI has used an appearance before a parliamentary inquiry on AI to apologise again to Australia about the hack on Medicare last month, as media and entertainment",
+    "outlet": "theguardian",
+    "published": "2026-10-06T00:53:48Z",
+    "title": "OpenAI has \u2018work to do to rebuild trust\u2019 in Australia, executive tells AI inquiry",
+    "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon"
+  },
+  "score": 0.595274
+}

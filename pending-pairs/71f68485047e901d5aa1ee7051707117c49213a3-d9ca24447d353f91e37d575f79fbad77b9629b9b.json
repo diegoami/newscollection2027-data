@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71f68485047e901d5aa1ee7051707117c49213a3",
+    "lede": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-03T23:12:34Z",
+    "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+  },
+  "b": {
+    "item_id": "d9ca24447d353f91e37d575f79fbad77b9629b9b",
+    "lede": "Free Gemini users are losing access to Google's Flash and Pro AI models.",
+    "outlet": "engadget",
+    "published": "2026-10-06T11:22:53Z",
+    "title": "Google removes free access to Gemini Flash and Pro on October 9",
+    "url": "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/"
+  },
+  "score": 0.60928
+}
