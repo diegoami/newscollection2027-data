@@ -1,39 +1,31 @@
 {
   "cluster_id": "2026-10-03-fc619d",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-05T02:19:56Z",
-  "headline": "Google freezes open-source bug bounty program over AI slop",
-  "summary": "Google suspended its Open Source Software Vulnerability Reward Program after a rise in invalid, AI-generated vulnerability reports. One outlet describes the freeze as specific to that program, while another frames it as bug bounty programs generally being overwhelmed by AI submissions.",
+  "generated_at": "2026-10-06T02:50:00Z",
+  "headline": "Google freezes open-source bug bounty program amid flood of AI-generated submissions",
+  "summary": "Google has suspended submissions to its Open Source Software Vulnerability Reward Program after being flooded with invalid, AI-generated vulnerability reports, which outlets describe as 'AI slop' overwhelming the bug bounty program.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Google froze its open-source bug bounty program after a rise in AI-generated submissions.",
+      "statement": "Google suspended its Open Source Software Vulnerability Reward Program (OSS VRP) submissions.",
       "sources": [
-        {"outlet": "tomshardware", "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f", "quote": "freezes open-source bug bounty program"},
-        {"outlet": "techcrunch", "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6", "quote": "froze its open source bug bounty program"}
+        {"outlet": "tomshardware", "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f", "quote": "Google freezes open-source bug bounty program"},
+        {"outlet": "techcrunch", "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6", "quote": "Google froze its open source bug bounty program"},
+        {"outlet": "bleepingcomputer", "item_id": "f66e772a68098b639d27d3ad1f2d118e16df899c", "quote": "Google halts open-source bug bounty program"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The frozen program is Google's Open Source Software Vulnerability Reward Program (OSS VRP).",
+      "statement": "The suspension is due to a flood of invalid or AI-generated submissions.",
       "sources": [
-        {"outlet": "tomshardware", "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f", "quote": "Open Source Software Vulnerability Reward Program (OSS VRP)"}
+        {"outlet": "tomshardware", "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f", "quote": "amid flood of invalid AI slop submissions"},
+        {"outlet": "techcrunch", "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6", "quote": "due to a ‘significant rise’ in AI submissions"},
+        {"outlet": "bleepingcomputer", "item_id": "f66e772a68098b639d27d3ad1f2d118e16df899c", "quote": "amid AI spam surge"}
       ]
     }
   ],
-  "discrepancies": [
-    {
-      "kind": "framing",
-      "severity": "low",
-      "claim_ids": ["c1", "c2"],
-      "explanation": "tomshardware's lede frames the freeze as specific to Google's one program, while techcrunch's lede frames it as bug bounty programs generally being overwhelmed.",
-      "quotes": [
-        {"outlet": "tomshardware", "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f", "quote": "Open Source Software Vulnerability Reward Program (OSS VRP)"},
-        {"outlet": "techcrunch", "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6", "quote": "overwhelming bug bounty programs"}
-      ]
-    }
-  ],
-  "agreement": "partial"
+  "discrepancies": [],
+  "agreement": "full"
 }

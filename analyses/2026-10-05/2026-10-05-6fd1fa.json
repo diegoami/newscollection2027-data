@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-05-6fd1fa",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:50:00Z",
+  "headline": "Data breach exposes millions of Danish citizens' personal records",
+  "summary": "Hackers breached Denmark's population registry, exposing names, addresses and ID numbers for people living abroad and the deceased. Outlets differ on the scale, reporting the breach affected either 8 million or approximately 8.8 million people.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers breached a Danish government population database, exposing personal records.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3ba42053195a306a332840865a30eb398de920c7", "quote": "Hackers steal 8 million citizens’ records from Danish government database"},
+        {"outlet": "bleepingcomputer", "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612", "quote": "Denmark population registry data breach affects 8.8 million people"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Exposed data includes names, addresses and state-issued ID numbers.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3ba42053195a306a332840865a30eb398de920c7", "quote": "the breach of names, addresses, and state-issued ID numbers affects 8 million people"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The breach affects both people living abroad and deceased individuals.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3ba42053195a306a332840865a30eb398de920c7", "quote": "including people living abroad and the deceased"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": ["c1"],
+      "explanation": "Outlets give different totals for how many people's records were exposed in the breach.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "3ba42053195a306a332840865a30eb398de920c7", "quote": "affects 8 million people"},
+        {"outlet": "bleepingcomputer", "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612", "quote": "approximately 8.8 million registered individuals"}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

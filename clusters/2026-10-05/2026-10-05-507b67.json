@@ -1,0 +1,24 @@
+{
+  "anchor": "e3d6a6e5d9a351b0a9ff129756e4bb78748ed0aa",
+  "id": "2026-10-05-507b67",
+  "items": [
+    {
+      "item_id": "e3d6a6e5d9a351b0a9ff129756e4bb78748ed0aa",
+      "lede": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-05T19:05:19Z",
+      "title": "Wikipedia operator says OpenAI\u2019s \u2018rogue\u2019 bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
+    },
+    {
+      "item_id": "b4f17ac5916ee5a85d879da8b4e3ee6a9447503d",
+      "lede": "Wikimedia says it's \"deeply concerned about the impact of 'rogue' AI agents on platforms like ours.",
+      "outlet": "engadget",
+      "published": "2026-10-05T19:55:11Z",
+      "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+      "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

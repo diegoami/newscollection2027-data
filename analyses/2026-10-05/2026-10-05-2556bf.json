@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-05-2556bf",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "Open-source tool removes Apple Intelligence from macOS 27, frees 12GB",
+  "summary": "A new open-source command-line tool called RemoveMacAI quickly strips Apple Intelligence features from macOS 27, freeing up more than 12GB of storage on affected Macs.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A command-line, open-source tool removes Apple Intelligence from macOS 27.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "04277ae7314bbae12f0e96f9fce9dbcf53e189f5", "quote": "Command-line tool quickly removes Apple Intelligence from macOS 27"},
+        {"outlet": "theregister", "item_id": "4cd46f7a42769d61974510bf55159d4954a80f85", "quote": "Get rid of Apple's AI bloatware"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The tool can free up over 12GB of storage.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "04277ae7314bbae12f0e96f9fce9dbcf53e189f5", "quote": "The tool can free up over 12GB of storage"},
+        {"outlet": "theregister", "item_id": "4cd46f7a42769d61974510bf55159d4954a80f85", "quote": "reclaim 12 GB of storage with this open source tool"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The tool is named RemoveMacAI.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "4cd46f7a42769d61974510bf55159d4954a80f85", "quote": "Meet RemoveMacAI"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

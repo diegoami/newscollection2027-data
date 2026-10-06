@@ -1,1 +1,47 @@
-{"cluster_id": "2026-10-02-5eed24", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-04T02:20:06Z", "headline": "AI memory shortage pushes 7-year-old Nvidia Shield TV price up $100", "summary": "The Nvidia Shield TV Pro, launched in 2019, now retails for $299.99, roughly a 50% increase. Coverage attributes the price hike to an AI-driven shortage of memory components, which has pushed up prices across devices that use it.", "claims": [{"id": "c1", "statement": "The Nvidia Shield TV Pro's price rose by about $100, to $299.99.", "sources": [{"outlet": "arstechnica", "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056", "quote": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI"}, {"outlet": "arstechnica", "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056", "quote": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99."}, {"outlet": "wired", "item_id": "c8ca51977d2506a36fb547eb5f9e2695b75553ff", "quote": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike"}]}, {"id": "c2", "statement": "The increase amounts to roughly a 50% price hike.", "sources": [{"outlet": "tomshardware", "item_id": "9f1ecdc42572908fe35ee9d6003e699902151d2f", "quote": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage"}]}, {"id": "c3", "statement": "The price hike is attributed to an AI-driven memory shortage.", "sources": [{"outlet": "tomshardware", "item_id": "9f1ecdc42572908fe35ee9d6003e699902151d2f", "quote": "driven by AI memory shortage"}, {"outlet": "wired", "item_id": "c8ca51977d2506a36fb547eb5f9e2695b75553ff", "quote": "The price of anything with memory is skyrocketing thanks to AI."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-02-5eed24",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "Nvidia Shield TV Pro price rises $100 to $299.99 amid AI memory shortage",
+  "summary": "The seven-year-old Nvidia Shield TV Pro's price rose $100, from $199.99 to $299.99, which outlets attribute to an AI-driven memory shortage pushing up component costs across streaming devices and other electronics.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Nvidia Shield TV Pro's price increased by $100 to $299.99.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056", "quote": "is now $100 more expensive due to AI"},
+        {"outlet": "wired", "item_id": "c8ca51977d2506a36fb547eb5f9e2695b75553ff", "quote": "It Just Got a $100 Price Hike"},
+        {"outlet": "theverge", "item_id": "2a9a516b69cc2f899e78c99f38fe53348815d013", "quote": "just got a $100 price hike"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The device now retails for $299.99.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056", "quote": "the Nvidia Shield TV Pro now retails for $299.99"},
+        {"outlet": "tomshardware", "item_id": "9f1ecdc42572908fe35ee9d6003e699902151d2f", "quote": "its $299.99 price tag"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The price increase is attributed to an AI-driven memory shortage.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "9f1ecdc42572908fe35ee9d6003e699902151d2f", "quote": "50% price hike driven by AI memory shortage"},
+        {"outlet": "wired", "item_id": "c8ca51977d2506a36fb547eb5f9e2695b75553ff", "quote": "The price of anything with memory is skyrocketing thanks to AI"},
+        {"outlet": "theverge", "item_id": "2a9a516b69cc2f899e78c99f38fe53348815d013", "quote": "the memory shortage that has seen prices increase dramatically"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Shield TV Pro originally launched about seven years ago for $199.99.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "2a9a516b69cc2f899e78c99f38fe53348815d013", "quote": "it sold for $199.99"},
+        {"outlet": "arstechnica", "item_id": "d3446779ff0f63d44ff453ddb8ae101c6082d056", "quote": "Initially launched in 2019"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

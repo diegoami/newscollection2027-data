@@ -1,58 +1,35 @@
 {
   "cluster_id": "2026-10-02-d157a0",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-03T02:30:00Z",
-  "headline": "Paramount-Warner Bros. merger to be named Skydance",
-  "summary": "Paramount's roughly $110 billion merger with Warner Bros. Discovery, expected to close around October 6, will be renamed Skydance, CEO David Ellison announced in a social media post.",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "Paramount-WBD merger becomes Skydance as CNN's chief executive remains",
+  "summary": "Paramount and Warner Bros. Discovery's roughly $110 billion merger will be named Skydance, the companies announced. CNN CEO Mark Thompson will remain head of the news network once the acquisition closes.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Paramount's merger with Warner Bros. Discovery will be called Skydance once it completes.",
+      "statement": "The merged Paramount-Warner Bros. Discovery company will be named Skydance.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
-          "quote": "Paramount’s Warner Bros. megamerger will just be called Skydance"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3",
-          "quote": "Paramount and Warner Bros. Discovery to become Skydance"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81",
-          "quote": "Soon-to-be merged Paramount and Warner Bros. will be known as Skydance going forward"
-        }
+        {"outlet": "theverge", "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10", "quote": "will just be called Skydance"},
+        {"outlet": "techcrunch", "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3", "quote": "Paramount and Warner Bros. Discovery to become Skydance"},
+        {"outlet": "engadget", "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81", "quote": "will be known as Skydance going forward"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The roughly $110 billion deal is expected to close around October 6.",
+      "statement": "The merger is valued at roughly $110 billion.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10",
-          "quote": "when it completes its $110 billion merger with Warner Bros. Discovery next week"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3",
-          "quote": "The roughly $110 billion deal is expected to close October 6."
-        }
+        {"outlet": "theverge", "item_id": "fe398ce24e9da145b5dfef2f80a0816cccaead10", "quote": "its $110 billion merger with Warner Bros. Discovery"},
+        {"outlet": "techcrunch", "item_id": "30a598ac210852e2e09ce56417d15d8c119d1ae3", "quote": "The roughly $110 billion deal"},
+        {"outlet": "theverge", "item_id": "855ad2cbc94a50e2338999ec93e4ee95ad3041fc", "quote": "Paramount's $110 billion Warner Bros. Discovery acquisition"}
       ]
     },
     {
       "id": "c3",
-      "statement": "CEO David Ellison announced the new name in a social media post.",
+      "statement": "CNN CEO Mark Thompson will remain in his role after the merger closes.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "ee6891a705e0dbe024a13ec204e2b6ba9bc30a81",
-          "quote": "Paramount Skydance CEO David Ellison announced the new name in a social media post."
-        }
+        {"outlet": "theverge", "item_id": "855ad2cbc94a50e2338999ec93e4ee95ad3041fc", "quote": "CNN CEO Mark Thompson will remain at the head of the news network"}
       ]
     }
   ],

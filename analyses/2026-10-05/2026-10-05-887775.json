@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-05-887775",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "Google admits some Android apps run poorly on Intel-based Googlebooks",
+  "summary": "Google has acknowledged that some Android apps, those not optimized for Intel's x86-64 architecture, run poorly or have issues on its Intel-based Googlebook laptops, despite previously emphasizing full Play Store library access on the Android-based devices.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google acknowledged that some Android apps run poorly or have issues on Intel-based Googlebooks.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "7345a0d7fe0d865d1b5758f3f337e727c93e5a9c", "quote": "admits not every Android app runs great on Intel Googlebooks"},
+        {"outlet": "engadget", "item_id": "147c18911f6f23ad8a826b7293ee8e1d6238c76a", "quote": "admits some 'complex' Android apps run poorly on Intel Googlebooks"},
+        {"outlet": "tomshardware", "item_id": "cec994a385a752467295047773f96e0f06eb368c", "quote": "might not run some Android apps as well as Qualcomm's"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The compatibility issue stems from apps not optimized for Intel's x86-64 architecture.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "cec994a385a752467295047773f96e0f06eb368c", "quote": "Some Android apps not optimized for x86-64 may have trouble running on Intel Googlebooks"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Google had previously said Googlebooks give owners access to the entire Play Store library.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "7345a0d7fe0d865d1b5758f3f337e727c93e5a9c", "quote": "Google has emphasized that the Android-based Googlebooks give owners access to the"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

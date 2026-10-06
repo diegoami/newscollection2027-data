@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-04-b896df",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "Leaked images show new Fitbit Edge succeeding the Fitbit Charge line",
+  "summary": "Leaked images reveal an upcoming Fitbit Edge that appears to replace the Fitbit Charge line, last updated in 2023, featuring a screen and colors resembling the Pixel 11.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Images leaked showing the upcoming Fitbit Edge.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "07ce6b550ecfc572a54ecf2296ecb784576b9d10", "quote": "The new Fitbit Edge leaks"},
+        {"outlet": "engadget", "item_id": "709c97fea2b0e8ad9c45969b1975d01db25d308d", "quote": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Fitbit Edge appears to be a successor to the Fitbit Charge line.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "07ce6b550ecfc572a54ecf2296ecb784576b9d10", "quote": "it appears to be a successor to the midrange Charge line"},
+        {"outlet": "engadget", "item_id": "709c97fea2b0e8ad9c45969b1975d01db25d308d", "quote": "looks like a replacement for the Fitbit Charge last seen in 2023"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The leaked device shows Pixel 11-style colors and a screen.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "709c97fea2b0e8ad9c45969b1975d01db25d308d", "quote": "with a screen and Pixel 11 colors"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

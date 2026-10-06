@@ -1,0 +1,62 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f",
+            "outlet": "tomshardware",
+            "quote": "Google freezes open-source bug bounty program"
+          },
+          {
+            "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6",
+            "outlet": "techcrunch",
+            "quote": "Google froze its open source bug bounty program"
+          },
+          {
+            "item_id": "f66e772a68098b639d27d3ad1f2d118e16df899c",
+            "outlet": "bleepingcomputer",
+            "quote": "Google halts open-source bug bounty program"
+          }
+        ],
+        "statement": "Google suspended its Open Source Software Vulnerability Reward Program (OSS VRP) submissions."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "ff19fb67c2fb22822f9409c06aee66939721c42f",
+            "outlet": "tomshardware",
+            "quote": "amid flood of invalid AI slop submissions"
+          },
+          {
+            "item_id": "00aaae6618c7519602af7dea735b87d0d3da7ba6",
+            "outlet": "techcrunch",
+            "quote": "due to a 'significant rise' in AI submissions"
+          },
+          {
+            "item_id": "f66e772a68098b639d27d3ad1f2d118e16df899c",
+            "outlet": "bleepingcomputer",
+            "quote": "amid AI spam surge"
+          }
+        ],
+        "statement": "The suspension is due to a flood of invalid or AI-generated submissions."
+      }
+    ],
+    "cluster_id": "2026-10-03-fc619d",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-10-06T02:40:00Z",
+    "headline": "Google freezes open-source bug bounty program amid flood of AI-generated submissions",
+    "model": "claude-sonnet-5",
+    "summary": "Google has suspended submissions to its Open Source Software Vulnerability Reward Program after being flooded with invalid, AI-generated vulnerability reports, which outlets describe as 'AI slop' overwhelming the bug bounty program."
+  },
+  "cluster_id": "2026-10-03-fc619d",
+  "problems": [
+    "quote: not verbatim in techcrunch 00aaae6618c7519602af7dea735b87d0d3da7ba6's title or lede: \"due to a 'significant rise' in AI submissions\""
+  ],
+  "rejected_at": "2026-10-06T02:29:31Z"
+}

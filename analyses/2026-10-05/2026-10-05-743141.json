@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-05-743141",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "OpenAI rolls out visual ads appearing during ChatGPT image generation in the US",
+  "summary": "OpenAI is testing a new visual ad format that shows sponsored products and services on screen when users generate images in ChatGPT, starting in the US later this month. The company first introduced ChatGPT ads in February; outlets differ on whether this format has already launched or is still rolling out.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI is adding a new visual ad format that appears during ChatGPT image generation.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "c1bad441fd92017abae40f2cd59a091527b9d702", "quote": "will show visual ads in ChatGPT while you generate images"},
+        {"outlet": "techcrunch", "item_id": "4e1c2d3dedbab3134eceace18f4ee3b1df385701", "quote": "launches visual ads that appear alongside image generation results"},
+        {"outlet": "theverge", "item_id": "ec6a33d8c1604062e67d566bbe5c04a00281ba04", "quote": "will put images of sponsored products and services on your screen"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The ads will begin testing in the US later this month.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ec6a33d8c1604062e67d566bbe5c04a00281ba04", "quote": "which OpenAI will begin testing in the US later this month"},
+        {"outlet": "techcrunch", "item_id": "4e1c2d3dedbab3134eceace18f4ee3b1df385701", "quote": "will begin to appear later this month in the U.S. only for now"},
+        {"outlet": "theregister", "item_id": "eb4335e023ec3e4506f9b3a27d0025356609ed5a", "quote": "prepare for ads if you're in the US"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "OpenAI first introduced ads in ChatGPT in February.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ec6a33d8c1604062e67d566bbe5c04a00281ba04", "quote": "The company first brought ads to ChatGPT in February"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The ads will feature products and services from an initial group of test advertisers.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "4e1c2d3dedbab3134eceace18f4ee3b1df385701", "quote": "will feature products and services from an initial test group of advertisers"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "Outlets differ on whether the ad format has already launched or is still being tested and rolled out.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "4e1c2d3dedbab3134eceace18f4ee3b1df385701", "quote": "launches visual ads"},
+        {"outlet": "engadget", "item_id": "9b68a7ce089b76f8d52ba46bd2c20f4e601a2b49", "quote": "is testing more ads in ChatGPT"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

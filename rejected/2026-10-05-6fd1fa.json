@@ -1,0 +1,79 @@
+{
+  "analysis": {
+    "agreement": "conflicting",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+            "outlet": "techcrunch",
+            "quote": "Hackers steal 8 million citizens' records from Danish government database"
+          },
+          {
+            "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612",
+            "outlet": "bleepingcomputer",
+            "quote": "Denmark population registry data breach affects 8.8 million people"
+          }
+        ],
+        "statement": "Hackers breached a Danish government population database, exposing personal records."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+            "outlet": "techcrunch",
+            "quote": "the breach of names, addresses, and state-issued ID numbers affects 8 million people"
+          }
+        ],
+        "statement": "Exposed data includes names, addresses and state-issued ID numbers."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+            "outlet": "techcrunch",
+            "quote": "including people living abroad and the deceased"
+          }
+        ],
+        "statement": "The breach affects both people living abroad and deceased individuals."
+      }
+    ],
+    "cluster_id": "2026-10-05-6fd1fa",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Outlets give different totals for how many people's records were exposed in the breach.",
+        "kind": "number",
+        "quotes": [
+          {
+            "item_id": "3ba42053195a306a332840865a30eb398de920c7",
+            "outlet": "techcrunch",
+            "quote": "affects 8 million people"
+          },
+          {
+            "item_id": "7ebb9ff569ae8ee020a0f8eb64f8fae6404a5612",
+            "outlet": "bleepingcomputer",
+            "quote": "approximately 8.8 million registered individuals"
+          }
+        ],
+        "severity": "high"
+      }
+    ],
+    "generated_at": "2026-10-06T02:40:00Z",
+    "headline": "Data breach exposes millions of Danish citizens' personal records",
+    "model": "claude-sonnet-5",
+    "summary": "Hackers breached Denmark's population registry, exposing names, addresses and ID numbers for people living abroad and the deceased. Outlets differ on the scale, reporting the breach affected either 8 million or approximately 8.8 million people."
+  },
+  "cluster_id": "2026-10-05-6fd1fa",
+  "problems": [
+    "quote: not verbatim in techcrunch 3ba42053195a306a332840865a30eb398de920c7's title or lede: \"Hackers steal 8 million citizens' records from Danish government database\""
+  ],
+  "rejected_at": "2026-10-06T02:29:31Z"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "07ce6b550ecfc572a54ecf2296ecb784576b9d10",
+  "id": "2026-10-04-b896df",
+  "items": [
+    {
+      "item_id": "07ce6b550ecfc572a54ecf2296ecb784576b9d10",
+      "lede": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-04T21:02:09Z",
+      "title": "The new Fitbit Edge leaks",
+      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks"
+    },
+    {
+      "item_id": "709c97fea2b0e8ad9c45969b1975d01db25d308d",
+      "lede": "The upcoming Fitbit Edge looks like a replacement for the Fitbit Charge last seen in 2023.",
+      "outlet": "engadget",
+      "published": "2026-10-05T08:18:13Z",
+      "title": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
+      "url": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,1 +1,44 @@
-{"cluster_id": "2026-10-03-8795bc", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-04T02:20:06Z", "headline": "OpenAI safety employee resigns, warns company culture is broken", "summary": "David Robinson, who wrote OpenAI's safety reports, resigned this week and spoke out in an editorial in The Atlantic, warning that the company's culture is broken and that it isn't being careful enough about AI risk. Coverage notes Robinson fits a familiar pattern of AI-company employees who issue warnings while resigning from their jobs.", "claims": [{"id": "c1", "statement": "David Robinson, who wrote OpenAI's safety reports, has resigned from the company.", "sources": [{"outlet": "theverge", "item_id": "91c2390ce603b2e9cae996744deb8751df70c722", "quote": "This week, he resigned from his position"}, {"outlet": "theguardian", "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f", "quote": "David Robinson, who led the writing of safety reports that accompanied the ChatGPT developer’s product"}]}, {"id": "c2", "statement": "Robinson warns that OpenAI's culture is broken and the company isn't being careful enough.", "sources": [{"outlet": "techcrunch", "item_id": "a17db24aed38baa7bdb2c2d4213f3c1e89dc756f", "quote": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"}, {"outlet": "theguardian", "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f", "quote": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’"}, {"outlet": "theguardian", "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f", "quote": "warning that its culture was broken"}]}, {"id": "c3", "statement": "Robinson aired his concerns in an editorial published in The Atlantic.", "sources": [{"outlet": "theverge", "item_id": "91c2390ce603b2e9cae996744deb8751df70c722", "quote": "he resigned from his position and is now speaking out in an editorial in The Atlantic"}]}, {"id": "c4", "statement": "TechCrunch notes Robinson fits a familiar pattern of employees warning about AI risk while resigning.", "sources": [{"outlet": "techcrunch", "item_id": "a17db24aed38baa7bdb2c2d4213f3c1e89dc756f", "quote": "an employee at a leading AI company who issues a dire warning while resigning from their job."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-03-8795bc",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-06T02:40:00Z",
+  "headline": "OpenAI safety employee David Robinson resigns, calls company culture 'broken'",
+  "summary": "David Robinson, who wrote OpenAI's safety reports for major model releases, has resigned, saying the company's culture is 'broken' and that AI firms are not being careful enough. He cites a failed kill switch and a July HuggingFace hack, and urges the industry to bring in outside experts.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "David Robinson, an OpenAI employee who wrote the company's safety reports, has resigned.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "91c2390ce603b2e9cae996744deb8751df70c722", "quote": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI"},
+        {"outlet": "theguardian", "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f", "quote": "David Robinson, who led the writing of safety reports that accompanied the ChatGPT developer’s product"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Robinson says OpenAI's culture is 'broken.'",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "a17db24aed38baa7bdb2c2d4213f3c1e89dc756f", "quote": "claiming the company’s ‘culture is broken’"},
+        {"outlet": "theguardian", "item_id": "83913d49e914036ccf5f0233fbbf81f7d3656a6f", "quote": "warning AI company’s culture is ‘broken’"},
+        {"outlet": "tomshardware", "item_id": "0e941fb26f710c56d3f4b382082ab6be76b2b0a9", "quote": "says company’s safety culture is broken"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Robinson resigned after a failed kill switch and the July HuggingFace hack.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "0e941fb26f710c56d3f4b382082ab6be76b2b0a9", "quote": "exits company after failed kill switch and July HuggingFace hack"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Robinson urges the AI industry to bring in outside experts.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "0e941fb26f710c56d3f4b382082ab6be76b2b0a9", "quote": "urges the industry to seek outside experts to help build a culture that prioritizes it"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
