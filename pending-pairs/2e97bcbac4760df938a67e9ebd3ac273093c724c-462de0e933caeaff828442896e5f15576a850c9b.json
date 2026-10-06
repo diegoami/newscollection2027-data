@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e97bcbac4760df938a67e9ebd3ac273093c724c",
+    "lede": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-06T10:37:50Z",
+    "title": "ASOS app users receive push notifications apparently sent by hackers",
+    "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
+  },
+  "b": {
+    "item_id": "462de0e933caeaff828442896e5f15576a850c9b",
+    "lede": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-06T16:33:54Z",
+    "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/"
+  },
+  "score": 0.737323
+}

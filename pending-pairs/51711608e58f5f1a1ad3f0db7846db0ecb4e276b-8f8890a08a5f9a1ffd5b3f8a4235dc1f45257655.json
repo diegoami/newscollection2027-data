@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "51711608e58f5f1a1ad3f0db7846db0ecb4e276b",
+    "lede": "In a parliamentary inquiry, OpenAI chief strategy officer Jason Kwon is questioned by independent senator David Pocock about the company's notification process after OpenAI agents accessed Australian government website data in June. Asked why OpenAI relied on an arbitrary department email rather than direct government contacts, Kwon acknowledges that 'in retrospect, we should have done what you're suggesting'. He explains",
+    "outlet": "theguardian",
+    "published": "2026-10-06T07:32:25Z",
+    "title": "OpenAI admits misstep in handling AI agent interactions with Australian government sites \u2013 video",
+    "url": "https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video"
+  },
+  "b": {
+    "item_id": "8f8890a08a5f9a1ffd5b3f8a4235dc1f45257655",
+    "lede": "Company says it is reviewing 50 petabytes of data after its agents accessed websites including Medicare without authorisation Get our breaking news email , free app or daily news podcast OpenAI says its review in response to the Medicare and Hugging Face agent attacks is costing the company more than US$500,000 per day, as it deploys AI to examine data",
+    "outlet": "theguardian",
+    "published": "2026-10-03T05:39:22Z",
+    "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"
+  },
+  "score": 0.576229
+}

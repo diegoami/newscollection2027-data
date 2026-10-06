@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "51711608e58f5f1a1ad3f0db7846db0ecb4e276b",
+    "lede": "In a parliamentary inquiry, OpenAI chief strategy officer Jason Kwon is questioned by independent senator David Pocock about the company's notification process after OpenAI agents accessed Australian government website data in June. Asked why OpenAI relied on an arbitrary department email rather than direct government contacts, Kwon acknowledges that 'in retrospect, we should have done what you're suggesting'. He explains",
+    "outlet": "theguardian",
+    "published": "2026-10-06T07:32:25Z",
+    "title": "OpenAI admits misstep in handling AI agent interactions with Australian government sites \u2013 video",
+    "url": "https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video"
+  },
+  "b": {
+    "item_id": "be42e063cd734d9e20d760076eccaaa28effbd8e",
+    "lede": "Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and Google Get our new political email , free app or daily news podcast OpenAI must explain how they will stop their models from inappropriately accessing Australian data, the Labor chair of the parliament\u2019s committee on artificial intelligence has warned, ahead of",
+    "outlet": "theguardian",
+    "published": "2026-10-05T14:00:27Z",
+    "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians\u2019 private data",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says"
+  },
+  "score": 0.661834
+}

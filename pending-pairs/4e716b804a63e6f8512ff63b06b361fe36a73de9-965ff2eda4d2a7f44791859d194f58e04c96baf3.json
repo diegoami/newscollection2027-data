@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
+    "lede": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
+    "outlet": "theregister",
+    "published": "2026-10-06T11:51:36Z",
+    "title": "Asos app delivers a data leak threat instead of fast fashion",
+    "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332"
+  },
+  "b": {
+    "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+    "lede": "The attackers sent a push notification to Asos shoppers announcing their activity.",
+    "outlet": "engadget",
+    "published": "2026-10-06T18:04:56Z",
+    "title": "Asos hit by extortion hack that may have compromised some customer data",
+    "url": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/"
+  },
+  "score": 0.619924
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0cc575ea09b99212103f101b89ae4b40c0a7babb",
+    "lede": "There's some solid free software that can help you keep tabs on your computer's health.",
+    "outlet": "engadget",
+    "published": "2026-10-03T18:45:00Z",
+    "title": "How to check the temperature of your PC's CPU",
+    "url": "https://www.engadget.com/2273462/how-to-check-cpu-temperature/"
+  },
+  "b": {
+    "item_id": "e25f3af3c14d7af9eb8f4e338c14827964c4c2a0",
+    "lede": "PC benchmarks let you figure out exactly how your GPU, CPU and other components are performing so you don't have to guess.",
+    "outlet": "engadget",
+    "published": "2026-10-06T13:15:00Z",
+    "title": "4 simple benchmarks to test your PC's performance",
+    "url": "https://www.engadget.com/2277106/simple-benchmark-test-pc-performance/"
+  },
+  "score": 0.582461
+}

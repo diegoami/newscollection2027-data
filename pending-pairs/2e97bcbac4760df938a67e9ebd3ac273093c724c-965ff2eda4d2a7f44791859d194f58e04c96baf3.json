@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e97bcbac4760df938a67e9ebd3ac273093c724c",
+    "lede": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-06T10:37:50Z",
+    "title": "ASOS app users receive push notifications apparently sent by hackers",
+    "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o"
+  },
+  "b": {
+    "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+    "lede": "The attackers sent a push notification to Asos shoppers announcing their activity.",
+    "outlet": "engadget",
+    "published": "2026-10-06T18:04:56Z",
+    "title": "Asos hit by extortion hack that may have compromised some customer data",
+    "url": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/"
+  },
+  "score": 0.618407
+}

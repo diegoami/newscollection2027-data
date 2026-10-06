@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19eca8890bba3d0061020355a74d0cb4a28c32c8",
+    "lede": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
+    "outlet": "arstechnica",
+    "published": "2026-10-06T16:15:50Z",
+    "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+    "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/"
+  },
+  "b": {
+    "item_id": "da2a06c74e8e1a0fde2550a84534494dcbea19da",
+    "lede": "Your Android device will only receive updates for so long, and it might have already left its support period without you realizing.",
+    "outlet": "engadget",
+    "published": "2026-10-06T16:15:00Z",
+    "title": "How to check if your Android phone is still getting security updates",
+    "url": "https://www.engadget.com/2277410/android-phone-how-to-check-security-updates/"
+  },
+  "score": 0.620798
+}
