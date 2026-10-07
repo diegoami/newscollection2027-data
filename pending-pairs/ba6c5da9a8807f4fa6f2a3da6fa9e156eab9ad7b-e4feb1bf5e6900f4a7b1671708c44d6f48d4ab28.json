@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ba6c5da9a8807f4fa6f2a3da6fa9e156eab9ad7b",
+    "lede": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of \u2014 including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-05T19:28:59Z",
+    "title": "All the drama around AI\u2019s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+  },
+  "b": {
+    "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28",
+    "lede": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-06T23:26:38Z",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+  },
+  "score": 0.578989
+}

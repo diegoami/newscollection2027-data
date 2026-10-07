@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11669444bfa3fd7b7a9f62319825a481ccb2bb47",
+    "lede": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+    "outlet": "arstechnica",
+    "published": "2026-10-06T20:50:32Z",
+    "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+  },
+  "b": {
+    "item_id": "3834f9a9135aa85816681e59de4a4fac026ee6b0",
+    "lede": "This move is to comply with the EU's new AI transparency rules.",
+    "outlet": "engadget",
+    "published": "2026-10-05T18:55:40Z",
+    "title": "OpenAI will add a digital watermark to text and code generated in the EU",
+    "url": "https://www.engadget.com/2277866/openai-will-add-a-digital-watermark-to-text-and-code-generated-in-the-eu/"
+  },
+  "score": 0.571444
+}

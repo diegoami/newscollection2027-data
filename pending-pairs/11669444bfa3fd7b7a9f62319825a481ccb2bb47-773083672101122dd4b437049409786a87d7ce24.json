@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11669444bfa3fd7b7a9f62319825a481ccb2bb47",
+    "lede": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+    "outlet": "arstechnica",
+    "published": "2026-10-06T20:50:32Z",
+    "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+  },
+  "b": {
+    "item_id": "773083672101122dd4b437049409786a87d7ce24",
+    "lede": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-05T18:08:39Z",
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+  },
+  "score": 0.638799
+}
