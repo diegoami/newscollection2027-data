@@ -1,0 +1,32 @@
+{
+  "anchor": "9a3bbb8ad0c07156f5c2a7be4dd1e60af14c47bc",
+  "id": "2026-10-06-cdd922",
+  "items": [
+    {
+      "item_id": "9a3bbb8ad0c07156f5c2a7be4dd1e60af14c47bc",
+      "lede": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+      "outlet": "techcrunch",
+      "published": "2026-10-06T13:57:32Z",
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/"
+    },
+    {
+      "item_id": "8fead59db776b5f3829fb23349f6a7f324f14951",
+      "lede": "New media empire will be known as Skydance, with CEO David Ellision calling it a 'historic day.'",
+      "outlet": "engadget",
+      "published": "2026-10-06T14:30:04Z",
+      "title": "Controversial $110 billion mega-merger of Paramount and Warner Bros. finally closes",
+      "url": "https://www.engadget.com/2278715/paramount-warner-bros-mega-merger-finally-closes/"
+    },
+    {
+      "item_id": "7bac83ddcb0e48e51c36b6c95aaf6710d388a06e",
+      "lede": "Paramount now owns Warner Bros. as last-ditch effort to stop $111B merger fails.",
+      "outlet": "arstechnica",
+      "published": "2026-10-06T17:33:44Z",
+      "title": "Paramount completes $111B Warner merger, creating \u201cSkydance\u201d behemoth",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

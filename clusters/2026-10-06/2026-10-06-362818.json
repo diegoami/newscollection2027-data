@@ -1,0 +1,24 @@
+{
+  "anchor": "b3490da4d435d53c2bf2b1d56537f1a6d3a21b2d",
+  "id": "2026-10-06-362818",
+  "items": [
+    {
+      "item_id": "b3490da4d435d53c2bf2b1d56537f1a6d3a21b2d",
+      "lede": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear power plant operator in the US. The power purchase agreement is meant to guarantee the revenue [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-06T20:32:10Z",
+      "title": "Google\u2019s power-hungry data centers crave nuclear energy",
+      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation"
+    },
+    {
+      "item_id": "50bfa1d705fa28e50081f14a5863d0012515c379",
+      "lede": "Upgraded turbines, generators, and digital controls are expected to unlock an addition 890MW of capacity",
+      "outlet": "theregister",
+      "published": "2026-10-06T23:08:31Z",
+      "title": "Google teams with nuclear power giant to give reactors a tune-up",
+      "url": "https://www.theregister.com/systems/2026/10/07/google-teams-with-nuclear-power-giant-to-give-reactors-a-tune-up/5301498"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

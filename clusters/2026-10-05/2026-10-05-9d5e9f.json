@@ -1,0 +1,24 @@
+{
+  "anchor": "68acfff98094cf604922b2a22c06de004deceb39",
+  "id": "2026-10-05-9d5e9f",
+  "items": [
+    {
+      "item_id": "68acfff98094cf604922b2a22c06de004deceb39",
+      "lede": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-05T14:22:12Z",
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/"
+    },
+    {
+      "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda",
+      "lede": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks.",
+      "outlet": "tomshardware",
+      "published": "2026-10-06T12:15:00Z",
+      "title": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

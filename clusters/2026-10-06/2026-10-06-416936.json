@@ -1,0 +1,24 @@
+{
+  "anchor": "d9ca24447d353f91e37d575f79fbad77b9629b9b",
+  "id": "2026-10-06-416936",
+  "items": [
+    {
+      "item_id": "d9ca24447d353f91e37d575f79fbad77b9629b9b",
+      "lede": "Free Gemini users are losing access to Google's Flash and Pro AI models.",
+      "outlet": "engadget",
+      "published": "2026-10-06T11:22:53Z",
+      "title": "Google removes free access to Gemini Flash and Pro on October 9",
+      "url": "https://www.engadget.com/2278504/google-removes-free-access-gemini-flash-pro-october-9/"
+    },
+    {
+      "item_id": "a3f12691586b2a31617e335d84e13068d633af0f",
+      "lede": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+      "outlet": "zdnet",
+      "published": "2026-10-06T18:00:57Z",
+      "title": "Use Gemini for free? You\u2019ll soon be limited to its weakest AI model",
+      "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

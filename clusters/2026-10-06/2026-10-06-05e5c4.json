@@ -1,0 +1,24 @@
+{
+  "anchor": "a13f55b8cdd25a3af303426eea9ebbb101739189",
+  "id": "2026-10-06-05e5c4",
+  "items": [
+    {
+      "item_id": "a13f55b8cdd25a3af303426eea9ebbb101739189",
+      "lede": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-06T09:04:02Z",
+      "title": "Ofcom investigates Meta over Instagram Instants feature",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro"
+    },
+    {
+      "item_id": "fa3e4b59e59db44abf842711caaca2dc9742eb94",
+      "lede": "Watchdog examining whether company carried out adequate risk assessment as required by Online Safety Act Mark Zuckerberg\u2019s Meta is under investigation for a potential breach of the UK\u2019s digital safety laws after launching a Snapchat-style feature on Instagram. The UK\u2019s communications watchdog, Ofcom, is investigating whether the $1.9tn (\u00a31.4tn) company infringed the Online Safety Act (OSA) by failing to carry",
+      "outlet": "theguardian",
+      "published": "2026-10-06T10:15:31Z",
+      "title": "Ofcom investigates Meta over Instagram Instants safety checks",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "953b3368282d901396a3a5a63940b4b867642742",
+  "id": "2026-10-06-9137b0",
+  "items": [
+    {
+      "item_id": "953b3368282d901396a3a5a63940b4b867642742",
+      "lede": "Please don't name it ParaMax.",
+      "outlet": "engadget",
+      "published": "2026-10-06T18:31:46Z",
+      "title": "Skydance will combine HBO Max and Paramount+ into a single streaming service",
+      "url": "https://www.engadget.com/2279192/skydance-will-combine-hbo-max-and-paramount-into-a-single-streaming-service/"
+    },
+    {
+      "item_id": "0bd4ec4ad1002c725e7741a44e6f31d5c2062e10",
+      "lede": "A combined service could lead to higher prices.",
+      "outlet": "arstechnica",
+      "published": "2026-10-06T20:32:12Z",
+      "title": "HBO Max, Paramount+, and Discovery+ \"will unify into a single service\u201d",
+      "url": "https://arstechnica.com/gadgets/2026/10/hbo-max-paramount-and-discovery-will-unify-into-a-single-service/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

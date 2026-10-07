@@ -1,0 +1,24 @@
+{
+  "anchor": "ad0e3c5ad72d82e090e8a32aa60124a01950952c",
+  "id": "2026-10-06-95eb5a",
+  "items": [
+    {
+      "item_id": "ad0e3c5ad72d82e090e8a32aa60124a01950952c",
+      "lede": "Amazon is reportedly paying up to $25 million a year for exclusive global rights to the ceremony.",
+      "outlet": "engadget",
+      "published": "2026-10-06T14:26:50Z",
+      "title": "The Emmy Awards are moving to Prime Video in 2027",
+      "url": "https://www.engadget.com/2278708/the-emmy-awards-are-moving-to-prime-video-in-2027/"
+    },
+    {
+      "item_id": "b096d43492a096088d86b939bc781430191ea3a6",
+      "lede": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "outlet": "techcrunch",
+      "published": "2026-10-06T14:37:31Z",
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
