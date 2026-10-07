@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+    "lede": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T12:49:01Z",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+  },
+  "b": {
+    "item_id": "ac27d72d618e7534f3871be6fd8ffcf2a00eb343",
+    "lede": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T20:20:05Z",
+    "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/"
+  },
+  "score": 0.583082
+}

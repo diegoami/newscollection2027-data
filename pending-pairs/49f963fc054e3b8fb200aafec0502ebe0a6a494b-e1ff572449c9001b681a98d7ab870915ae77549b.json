@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49f963fc054e3b8fb200aafec0502ebe0a6a494b",
+    "lede": "Oh lawd it is coming ... to Hugging Face later this month",
+    "outlet": "theregister",
+    "published": "2026-10-06T18:03:25Z",
+    "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443"
+  },
+  "b": {
+    "item_id": "e1ff572449c9001b681a98d7ab870915ae77549b",
+    "lede": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+    "outlet": "arstechnica",
+    "published": "2026-10-07T14:12:37Z",
+    "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+    "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+  },
+  "score": 0.581914
+}

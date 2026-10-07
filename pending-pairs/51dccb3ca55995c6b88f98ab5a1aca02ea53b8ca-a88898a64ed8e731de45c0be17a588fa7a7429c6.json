@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "51dccb3ca55995c6b88f98ab5a1aca02ea53b8ca",
+    "lede": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T09:37:56Z",
+    "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/"
+  },
+  "b": {
+    "item_id": "a88898a64ed8e731de45c0be17a588fa7a7429c6",
+    "lede": "Microsoft's Copilot search redesign arrives this fall.",
+    "outlet": "engadget",
+    "published": "2026-10-07T17:47:14Z",
+    "title": "Microsoft may have finally fixed Windows search by turning it into a chatbot",
+    "url": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/"
+  },
+  "score": 0.576196
+}

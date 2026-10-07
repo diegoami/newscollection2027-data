@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "179f36c2e73f25619cd38bf38b7dd5978f35f6d2",
+    "lede": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T14:53:06Z",
+    "title": "New Dell System Update flaw lets hackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/"
+  },
+  "b": {
+    "item_id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+    "lede": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T12:49:01Z",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+  },
+  "score": 0.584381
+}

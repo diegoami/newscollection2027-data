@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c7dd462aa5ae2f1c64e93cb7e350085ea4fbe9f",
+    "lede": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T18:01:20Z",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+  },
+  "b": {
+    "item_id": "cc2ada94db4481ff6ef35fdf0a244a0ccbeecfad",
+    "lede": "The company is highlighting agentic AI features for Windows.",
+    "outlet": "engadget",
+    "published": "2026-10-07T17:41:41Z",
+    "title": "Everything announced at Microsoft's Windows and Surface event",
+    "url": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/"
+  },
+  "score": 0.641693
+}

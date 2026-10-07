@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421",
+    "lede": "Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren\u2019t accessible to broader field of mathematicians OpenAI has astounded mathematicians after releasing hundreds of new mathematical findings on Tuesday. The company published over 370 mathematical results across a variety of topics such as algebra, theoretical computer science and mathematical logic, showcasing what some of",
+    "outlet": "theguardian",
+    "published": "2026-10-07T15:40:51Z",
+    "title": "OpenAI\u2019s release of mathematical findings draws concerns from experts",
+    "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns"
+  },
+  "b": {
+    "item_id": "d9fc5de402524b0ff56a553e7d2932697deb8594",
+    "lede": "The company said that most results were produced in a response to a single prompt given to a single AI agent.",
+    "outlet": "engadget",
+    "published": "2026-10-07T13:08:45Z",
+    "title": "OpenAI just posted hundreds more results on major math problems",
+    "url": "https://www.engadget.com/2279815/openai-just-posted-hundreds-more-results-on-major-math-problems/"
+  },
+  "score": 0.58553
+}

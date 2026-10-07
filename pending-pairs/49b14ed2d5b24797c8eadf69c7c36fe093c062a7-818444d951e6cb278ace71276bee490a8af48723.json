@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+    "lede": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T12:49:01Z",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+  },
+  "b": {
+    "item_id": "818444d951e6cb278ace71276bee490a8af48723",
+    "lede": "Tells users \u2018action required\u2019 \u2013 but maybe don\u2019t make that action a Jira ticket, because it has this bug",
+    "outlet": "theregister",
+    "published": "2026-10-06T04:20:00Z",
+    "title": "Atlassian warns of critical file access flaw in its datacenter products",
+    "url": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284"
+  },
+  "score": 0.584864
+}

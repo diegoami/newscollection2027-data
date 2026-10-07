@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b16b3c0355f6e9417cb9c8991fefbf25bf93f4ee",
+    "lede": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
+    "outlet": "engadget",
+    "published": "2026-10-07T14:00:00Z",
+    "title": "Google's AI detection website is now available",
+    "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"
+  },
+  "b": {
+    "item_id": "e4ccf311f643de16590a4256c75039c794f09c91",
+    "lede": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T14:00:00Z",
+    "title": "Google\u2019s new SynthID website can identify AI-generated media",
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+  },
+  "score": 0.708372
+}

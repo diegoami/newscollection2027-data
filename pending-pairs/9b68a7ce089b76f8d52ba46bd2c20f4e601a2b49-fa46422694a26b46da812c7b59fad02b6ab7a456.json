@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9b68a7ce089b76f8d52ba46bd2c20f4e601a2b49",
+    "lede": "Display ads, what a concept.",
+    "outlet": "engadget",
+    "published": "2026-10-05T14:38:31Z",
+    "title": "OpenAI is testing more ads in ChatGPT",
+    "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/"
+  },
+  "b": {
+    "item_id": "fa46422694a26b46da812c7b59fad02b6ab7a456",
+    "lede": "OpenAI is updating ChatGPT for all users with an \u201cIntelligent UI\u201d that\u2019s more visual\u2014generating interactive elements as part of the chatbot\u2019s outputs.",
+    "outlet": "wired",
+    "published": "2026-10-07T18:00:00Z",
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/"
+  },
+  "score": 0.638031
+}

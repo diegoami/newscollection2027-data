@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3cb4f9fad5ad58185c441c0075af6cee48922e15",
+    "lede": "Google launches an AI-powered game creation platform called Playground.",
+    "outlet": "engadget",
+    "published": "2026-10-07T12:00:00Z",
+    "title": "Google's experimental Playground platform uses AI to create games for you",
+    "url": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/"
+  },
+  "b": {
+    "item_id": "3dcafb3a31cf9e467c587d3833e869e545bcda5d",
+    "lede": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T14:36:23Z",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+  },
+  "score": 0.866276
+}

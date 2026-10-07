@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3cb4f9fad5ad58185c441c0075af6cee48922e15",
+    "lede": "Google launches an AI-powered game creation platform called Playground.",
+    "outlet": "engadget",
+    "published": "2026-10-07T12:00:00Z",
+    "title": "Google's experimental Playground platform uses AI to create games for you",
+    "url": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/"
+  },
+  "b": {
+    "item_id": "b16b3c0355f6e9417cb9c8991fefbf25bf93f4ee",
+    "lede": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
+    "outlet": "engadget",
+    "published": "2026-10-07T14:00:00Z",
+    "title": "Google's AI detection website is now available",
+    "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"
+  },
+  "score": 0.574598
+}

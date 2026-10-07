@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "622d42420ad4b4927f6fc98b6b889a14c8a039df",
+    "lede": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "outlet": "techcrunch",
+    "published": "2026-10-05T14:35:09Z",
+    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/"
+  },
+  "b": {
+    "item_id": "ccc9aded67447822ad934a84a5ea2bbe006d801a",
+    "lede": "Researchers say AI agents on Tencent Cloud used urlquery.net to pull entrance data from Alibaba\u2019s Amap, with 1,810 scans in one day.",
+    "outlet": "tomshardware",
+    "published": "2026-10-07T11:40:00Z",
+    "title": "AI agent fleet likely from Chinese firm Tencent pulled data from rival Alibaba\u2019s maps, researchers say",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-fleet-likely-from-chinese-firm-tencent-pulled-data-from-rival-alibabas-maps-researchers-say-1-810-scans-in-one-day-some-runs-labeled-themselves-claude"
+  },
+  "score": 0.735806
+}

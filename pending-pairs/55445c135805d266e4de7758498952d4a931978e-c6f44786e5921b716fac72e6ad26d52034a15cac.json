@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "55445c135805d266e4de7758498952d4a931978e",
+    "lede": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T15:44:22Z",
+    "title": "Microsoft Outlook to block MSIX attachments starting November",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
+  },
+  "b": {
+    "item_id": "c6f44786e5921b716fac72e6ad26d52034a15cac",
+    "lede": "You didn't really want to be sending around .msix and .msixbundle files, did you?",
+    "outlet": "theregister",
+    "published": "2026-10-06T15:06:00Z",
+    "title": "Microsoft extends the Outlook naughty step with two more file types",
+    "url": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350"
+  },
+  "score": 0.742038
+}

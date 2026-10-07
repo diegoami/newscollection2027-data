@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b16b3c0355f6e9417cb9c8991fefbf25bf93f4ee",
+    "lede": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
+    "outlet": "engadget",
+    "published": "2026-10-07T14:00:00Z",
+    "title": "Google's AI detection website is now available",
+    "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"
+  },
+  "b": {
+    "item_id": "eba1d42227099159052a62536c849629333534dd",
+    "lede": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+    "outlet": "arstechnica",
+    "published": "2026-10-07T14:00:08Z",
+    "title": "Google rolls out improved SynthID AI content detector, now available globally",
+    "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+  },
+  "score": 0.854921
+}
