@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "179f36c2e73f25619cd38bf38b7dd5978f35f6d2",
+    "lede": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-05T14:53:06Z",
+    "title": "New Dell System Update flaw lets hackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/"
+  },
+  "b": {
+    "item_id": "ec58741183e9e0f05cdad0b8a0a10935cc868dfe",
+    "lede": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T15:26:33Z",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
+  },
+  "score": 0.624606
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+    "lede": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T12:49:01Z",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+  },
+  "b": {
+    "item_id": "ec58741183e9e0f05cdad0b8a0a10935cc868dfe",
+    "lede": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T15:26:33Z",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
+  },
+  "score": 0.583424
+}

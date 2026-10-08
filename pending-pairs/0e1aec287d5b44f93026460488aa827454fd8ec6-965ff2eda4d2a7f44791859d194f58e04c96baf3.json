@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e1aec287d5b44f93026460488aa827454fd8ec6",
+    "lede": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T11:42:46Z",
+    "title": "ASOS links data breach to social engineering attack, credential theft",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/"
+  },
+  "b": {
+    "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+    "lede": "The attackers sent a push notification to Asos shoppers announcing their activity.",
+    "outlet": "engadget",
+    "published": "2026-10-06T18:04:56Z",
+    "title": "Asos hit by extortion hack that may have compromised some customer data",
+    "url": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/"
+  },
+  "score": 0.616213
+}

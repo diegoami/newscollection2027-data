@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6e4822f6702393acbe94e15d3ab9706ac4426d11",
+    "lede": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T18:10:55Z",
+    "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
+  },
+  "b": {
+    "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28",
+    "lede": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-06T23:26:38Z",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+  },
+  "score": 0.603928
+}

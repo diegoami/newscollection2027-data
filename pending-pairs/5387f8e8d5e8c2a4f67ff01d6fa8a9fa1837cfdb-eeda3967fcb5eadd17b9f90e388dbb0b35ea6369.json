@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5387f8e8d5e8c2a4f67ff01d6fa8a9fa1837cfdb",
+    "lede": "Full-stack safety solution for physical AI is being used by robotics companies.",
+    "outlet": "arstechnica",
+    "published": "2026-10-08T11:15:33Z",
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+  },
+  "b": {
+    "item_id": "eeda3967fcb5eadd17b9f90e388dbb0b35ea6369",
+    "lede": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T23:36:57Z",
+    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+    "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+  },
+  "score": 0.628886
+}

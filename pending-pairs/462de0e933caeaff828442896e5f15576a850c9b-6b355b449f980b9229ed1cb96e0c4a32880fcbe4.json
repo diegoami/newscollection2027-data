@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "462de0e933caeaff828442896e5f15576a850c9b",
+    "lede": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-06T16:33:54Z",
+    "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/"
+  },
+  "b": {
+    "item_id": "6b355b449f980b9229ed1cb96e0c4a32880fcbe4",
+    "lede": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T15:01:15Z",
+    "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+    "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/"
+  },
+  "score": 0.850198
+}

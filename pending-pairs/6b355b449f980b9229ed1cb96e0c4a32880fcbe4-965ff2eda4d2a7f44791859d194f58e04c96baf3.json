@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6b355b449f980b9229ed1cb96e0c4a32880fcbe4",
+    "lede": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T15:01:15Z",
+    "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+    "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/"
+  },
+  "b": {
+    "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+    "lede": "The attackers sent a push notification to Asos shoppers announcing their activity.",
+    "outlet": "engadget",
+    "published": "2026-10-06T18:04:56Z",
+    "title": "Asos hit by extortion hack that may have compromised some customer data",
+    "url": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/"
+  },
+  "score": 0.716652
+}

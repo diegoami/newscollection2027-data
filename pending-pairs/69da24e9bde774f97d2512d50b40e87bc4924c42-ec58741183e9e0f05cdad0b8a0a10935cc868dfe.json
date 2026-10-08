@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "69da24e9bde774f97d2512d50b40e87bc4924c42",
+    "lede": "Cisco's Dialog feature promises to turn \"fragmented interactions into continuous customer relationships.\"",
+    "outlet": "engadget",
+    "published": "2026-10-07T14:00:00Z",
+    "title": "Cisco is bringing a new agentic framework to its Webex enterprise platform",
+    "url": "https://www.engadget.com/2278872/cisco-is-bringing-a-new-agentic-framework-to-its-webex-enterprise-platform/"
+  },
+  "b": {
+    "item_id": "ec58741183e9e0f05cdad0b8a0a10935cc868dfe",
+    "lede": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T15:26:33Z",
+    "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/"
+  },
+  "score": 0.575929
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1454ba5df953246f8d39f052bf0fabcf3c1dd9da",
+    "lede": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia\u2019s new RTX Spark chip and up to 128GB of unified memory \u2013 and it\u2019s priced for power users.",
+    "outlet": "zdnet",
+    "published": "2026-10-08T04:21:00Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+    "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/"
+  },
+  "b": {
+    "item_id": "f26ebd939369b3a33ed4b7c5cc684109a355c5cf",
+    "lede": "Poverty-spec model starts at $2,599 with 24 GB of RAM and 512GB of storage with 128 GB models topping $5,899",
+    "outlet": "theregister",
+    "published": "2026-10-07T19:57:45Z",
+    "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
+    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722"
+  },
+  "score": 0.710697
+}

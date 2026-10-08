@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e1aec287d5b44f93026460488aa827454fd8ec6",
+    "lede": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T11:42:46Z",
+    "title": "ASOS links data breach to social engineering attack, credential theft",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/"
+  },
+  "b": {
+    "item_id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
+    "lede": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
+    "outlet": "theregister",
+    "published": "2026-10-06T11:51:36Z",
+    "title": "Asos app delivers a data leak threat instead of fast fashion",
+    "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332"
+  },
+  "score": 0.579723
+}
