@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5b44d5e4c84e5df9652a6500996cb20f6b95ebb",
+    "lede": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that\u2019s powered by Nvidia\u2019s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T18:42:22Z",
+    "title": "Everything announced at Microsoft\u2019s Surface Laptop Ultra event",
+    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+  },
+  "b": {
+    "item_id": "c373445e55f8001ae115aa7d3ee2c0c548b77262",
+    "lede": "MSI's Codex Z2C is on sale for $999 and comes with a Ryzen 7 8700F and a GeForce RTX 5060 Ti 8GB.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T19:28:28Z",
+    "title": "Nvidia RTX 5060 Ti gaming PC hits $999 with 8-core Ryzen CPU, 16GB RAM, and 1TB PCIe 4.0 SSD \u2014 $600 instant savings on a complete 1080p powerhouse",
+    "url": "https://www.tomshardware.com/pc-components/nvidia-rtx-5060-ti-gaming-pc-hits-usd999-with-8-core-ryzen-cpu-16gb-ram-and-1tb-pcie-4-0-ssd-usd600-instant-savings-on-a-complete-1080p-powerhouse"
+  },
+  "score": 0.672452
+}

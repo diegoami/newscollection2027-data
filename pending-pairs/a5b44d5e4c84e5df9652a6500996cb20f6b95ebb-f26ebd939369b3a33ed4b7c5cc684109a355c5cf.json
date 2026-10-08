@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5b44d5e4c84e5df9652a6500996cb20f6b95ebb",
+    "lede": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that\u2019s powered by Nvidia\u2019s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T18:42:22Z",
+    "title": "Everything announced at Microsoft\u2019s Surface Laptop Ultra event",
+    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+  },
+  "b": {
+    "item_id": "f26ebd939369b3a33ed4b7c5cc684109a355c5cf",
+    "lede": "Poverty-spec model starts at $2,599 with 24 GB of RAM and 512GB of storage with 128 GB models topping $5,899",
+    "outlet": "theregister",
+    "published": "2026-10-07T19:57:45Z",
+    "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
+    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722"
+  },
+  "score": 0.727031
+}

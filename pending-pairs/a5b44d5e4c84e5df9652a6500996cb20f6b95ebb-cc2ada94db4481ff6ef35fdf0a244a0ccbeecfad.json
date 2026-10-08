@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5b44d5e4c84e5df9652a6500996cb20f6b95ebb",
+    "lede": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that\u2019s powered by Nvidia\u2019s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T18:42:22Z",
+    "title": "Everything announced at Microsoft\u2019s Surface Laptop Ultra event",
+    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+  },
+  "b": {
+    "item_id": "cc2ada94db4481ff6ef35fdf0a244a0ccbeecfad",
+    "lede": "The company is highlighting agentic AI features for Windows.",
+    "outlet": "engadget",
+    "published": "2026-10-07T17:41:41Z",
+    "title": "Everything announced at Microsoft's Windows and Surface event",
+    "url": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/"
+  },
+  "score": 0.616862
+}

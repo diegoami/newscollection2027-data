@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09299f670c927f915183b186d1832d2e0bbbf42b",
+    "lede": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T20:22:37Z",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  "b": {
+    "item_id": "f26ebd939369b3a33ed4b7c5cc684109a355c5cf",
+    "lede": "Poverty-spec model starts at $2,599 with 24 GB of RAM and 512GB of storage with 128 GB models topping $5,899",
+    "outlet": "theregister",
+    "published": "2026-10-07T19:57:45Z",
+    "title": "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra",
+    "url": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722"
+  },
+  "score": 0.630582
+}

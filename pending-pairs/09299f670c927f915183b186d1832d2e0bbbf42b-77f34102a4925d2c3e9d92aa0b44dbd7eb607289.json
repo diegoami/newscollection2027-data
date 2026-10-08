@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09299f670c927f915183b186d1832d2e0bbbf42b",
+    "lede": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T20:22:37Z",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  "b": {
+    "item_id": "77f34102a4925d2c3e9d92aa0b44dbd7eb607289",
+    "lede": "Retro techie retrofits Nvidia Windows XP 32-bit drivers with Pascal card support and improved DisplayPort and HDMI support for contemporary displays",
+    "outlet": "tomshardware",
+    "published": "2026-10-04T14:25:00Z",
+    "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/modder-brings-nvidia-pascal-gpu-support-to-windows-xp-32-bit-modded-drivers-unlock-better-displayport-and-hdmi-support-for-modern-monitors"
+  },
+  "score": 0.614059
+}

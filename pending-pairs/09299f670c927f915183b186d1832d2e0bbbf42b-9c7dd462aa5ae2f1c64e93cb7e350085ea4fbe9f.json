@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09299f670c927f915183b186d1832d2e0bbbf42b",
+    "lede": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T20:22:37Z",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  "b": {
+    "item_id": "9c7dd462aa5ae2f1c64e93cb7e350085ea4fbe9f",
+    "lede": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T18:01:20Z",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+  },
+  "score": 0.574485
+}

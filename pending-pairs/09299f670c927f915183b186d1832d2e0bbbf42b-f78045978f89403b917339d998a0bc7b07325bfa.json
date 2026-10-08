@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09299f670c927f915183b186d1832d2e0bbbf42b",
+    "lede": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T20:22:37Z",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  "b": {
+    "item_id": "f78045978f89403b917339d998a0bc7b07325bfa",
+    "lede": "Microsoft is finally sharing details about its first builder-class PC.",
+    "outlet": "engadget",
+    "published": "2026-10-07T17:42:35Z",
+    "title": "Here's everything we know about Microsoft's Surface Laptop Ultra",
+    "url": "https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/"
+  },
+  "score": 0.616221
+}

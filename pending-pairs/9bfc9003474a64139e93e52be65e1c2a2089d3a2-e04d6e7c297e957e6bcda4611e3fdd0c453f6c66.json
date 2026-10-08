@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9bfc9003474a64139e93e52be65e1c2a2089d3a2",
+    "lede": "Trusted brand impersonation without the usual browser certificate warnings spells trouble",
+    "outlet": "theregister",
+    "published": "2026-10-07T19:38:06Z",
+    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+    "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718"
+  },
+  "b": {
+    "item_id": "e04d6e7c297e957e6bcda4611e3fdd0c453f6c66",
+    "lede": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T20:50:13Z",
+    "title": "Hackers hijack Google domains after breaching ccTLD registries",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/"
+  },
+  "score": 0.625661
+}

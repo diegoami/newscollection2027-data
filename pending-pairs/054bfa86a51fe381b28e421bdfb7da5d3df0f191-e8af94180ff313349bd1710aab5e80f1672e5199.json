@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+    "lede": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T23:04:37Z",
+    "title": "Ransomware recovery CEO charged over secret ransom payments",
+    "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
+  },
+  "b": {
+    "item_id": "e8af94180ff313349bd1710aab5e80f1672e5199",
+    "lede": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T10:27:52Z",
+    "title": "Advantest confirms personal information stolen in ransomware attack",
+    "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
+  },
+  "score": 0.621695
+}

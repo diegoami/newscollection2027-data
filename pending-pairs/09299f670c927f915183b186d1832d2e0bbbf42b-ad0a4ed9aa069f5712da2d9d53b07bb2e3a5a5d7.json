@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09299f670c927f915183b186d1832d2e0bbbf42b",
+    "lede": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-10-07T20:22:37Z",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+  },
+  "b": {
+    "item_id": "ad0a4ed9aa069f5712da2d9d53b07bb2e3a5a5d7",
+    "lede": "Microsoft's Surface Laptop Ultra is now available for pre-order. The company revealed some new Windows 11 features, a new magnetic USB Type-C port, and that the system will work with \"hundreds\" of video games.",
+    "outlet": "tomshardware",
+    "published": "2026-10-07T18:07:54Z",
+    "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark",
+    "url": "https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai"
+  },
+  "score": 0.706619
+}
