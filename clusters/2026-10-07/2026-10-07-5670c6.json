@@ -1,0 +1,32 @@
+{
+  "anchor": "f81ac359aaf43f7680a08ffad69ac44a7f141664",
+  "id": "2026-10-07-5670c6",
+  "items": [
+    {
+      "item_id": "f81ac359aaf43f7680a08ffad69ac44a7f141664",
+      "lede": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-07T09:00:00Z",
+      "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+    },
+    {
+      "item_id": "69c1beaf03675dd4f6c88fb930c1e381d9cf3b92",
+      "lede": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "outlet": "techcrunch",
+      "published": "2026-10-07T18:15:28Z",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
+    },
+    {
+      "item_id": "7ead27bb5c71fa8bb5b78315d74404219cee5d0a",
+      "lede": "The research found that important guardrails for teens using ChatGPT often failed.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-07T20:34:17Z",
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

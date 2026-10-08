@@ -25,8 +25,16 @@
       "published": "2026-10-06T22:53:09Z",
       "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
       "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+    },
+    {
+      "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98",
+      "lede": "These include a lock, a thermostat and a temperature sensor.",
+      "outlet": "engadget",
+      "published": "2026-10-07T15:42:39Z",
+      "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up",
+      "url": "https://www.engadget.com/2280076/we-now-have-images-of-the-smart-home-products-that-apple-and-lg-are-reportedly-cooking-up/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

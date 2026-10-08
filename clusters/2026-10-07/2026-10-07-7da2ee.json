@@ -1,0 +1,24 @@
+{
+  "anchor": "ccdbc3d08bf42bd5a5b0440e211660e67c53f7de",
+  "id": "2026-10-07-7da2ee",
+  "items": [
+    {
+      "item_id": "ccdbc3d08bf42bd5a5b0440e211660e67c53f7de",
+      "lede": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-07T10:35:15Z",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/"
+    },
+    {
+      "item_id": "2943f19100563cde98ed28632c0f229d7c9dc3eb",
+      "lede": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+      "outlet": "arstechnica",
+      "published": "2026-10-07T17:57:39Z",
+      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

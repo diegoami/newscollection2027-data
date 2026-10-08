@@ -1,0 +1,24 @@
+{
+  "anchor": "2d9c395cb16476831010f5d7874c4788f5c678cc",
+  "id": "2026-10-07-8ee506",
+  "items": [
+    {
+      "item_id": "2d9c395cb16476831010f5d7874c4788f5c678cc",
+      "lede": "Tens of thousands more victims and more ransomware groups getting in on the act",
+      "outlet": "theregister",
+      "published": "2026-10-07T10:52:09Z",
+      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+      "url": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
+    },
+    {
+      "item_id": "3022a6138a862b67a9566d91d8083069982072f3",
+      "lede": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-07T21:28:54Z",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

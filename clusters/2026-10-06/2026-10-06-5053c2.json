@@ -1,0 +1,32 @@
+{
+  "anchor": "e25a9486006cc914210a939ee97f51ce1a309487",
+  "id": "2026-10-06-5053c2",
+  "items": [
+    {
+      "item_id": "e25a9486006cc914210a939ee97f51ce1a309487",
+      "lede": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it\u2019s \u201cstill in the race\u201d to build frontier-level artificial intelligence.",
+      "outlet": "wired",
+      "published": "2026-10-06T13:15:23Z",
+      "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
+      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/"
+    },
+    {
+      "item_id": "49f963fc054e3b8fb200aafec0502ebe0a6a494b",
+      "lede": "Oh lawd it is coming ... to Hugging Face later this month",
+      "outlet": "theregister",
+      "published": "2026-10-06T18:03:25Z",
+      "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443"
+    },
+    {
+      "item_id": "e1ff572449c9001b681a98d7ab870915ae77549b",
+      "lede": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "outlet": "arstechnica",
+      "published": "2026-10-07T14:12:37Z",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

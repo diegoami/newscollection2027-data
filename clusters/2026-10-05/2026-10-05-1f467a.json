@@ -1,0 +1,24 @@
+{
+  "anchor": "8059555356edb2518dec32ed608731c6d2ee77e2",
+  "id": "2026-10-05-1f467a",
+  "items": [
+    {
+      "item_id": "8059555356edb2518dec32ed608731c6d2ee77e2",
+      "lede": "The entire field of optogenetics traces back to light-seeking algae.",
+      "outlet": "arstechnica",
+      "published": "2026-10-05T17:59:27Z",
+      "title": "Controlling the brain with light earns a physiology Nobel",
+      "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/"
+    },
+    {
+      "item_id": "7d0827e4fd28ded8f6e2a3606c63acb3c63dd43f",
+      "lede": "Optogenetics revolutionized neuroscience, but its origins come from an entirely brainless organism\u2014an alga.",
+      "outlet": "wired",
+      "published": "2026-10-07T20:40:00Z",
+      "title": "The Science Behind the Nobel-Winning Technology That Controls Neurons With Light",
+      "url": "https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

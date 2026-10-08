@@ -1,0 +1,32 @@
+{
+  "anchor": "c32202c411c44cc6fc894adf2b8a97ad4914a916",
+  "id": "2026-10-05-04bea6",
+  "items": [
+    {
+      "item_id": "c32202c411c44cc6fc894adf2b8a97ad4914a916",
+      "lede": "Google\u2019s latest data center construction project in Finland is being investigated after the company representing the search giant reportedly cleared over 300 hectares of forest before obtaining a mandatory environmental impact assessment.",
+      "outlet": "tomshardware",
+      "published": "2026-10-05T12:15:37Z",
+      "title": "Google AI data center project investigated after 420 football fields of Finnish forest demolished",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/google-ai-data-center-project-investigated-after-420-football-fields-of-finnish-forest-razed-trees-were-removed-before-a-mandatory-environmental-impact-assessment-say-reports"
+    },
+    {
+      "item_id": "f8d97287ac46a14ac47479c02746d2f2bf631f86",
+      "lede": "The order affecting two planned data centres follows concerns over forest clearance.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-06T17:15:46Z",
+      "title": "Finland orders halt to work on two Google data centres",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o"
+    },
+    {
+      "item_id": "1a24ba621aea0bb983578815c6bd5830082f31a4",
+      "lede": "Order on two construction sites comes after Google failed to carry out environmental impact assessments Google has been ordered to temporarily stop work on two datacentres in Finland after failing to do the necessary environmental impact assessments on its construction sites. The planned datacentres in Muhos and Kajanni are part of a \u20ac13bn (\u00a311bn) project across multiple sites in northern",
+      "outlet": "theguardian",
+      "published": "2026-10-06T18:02:56Z",
+      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
