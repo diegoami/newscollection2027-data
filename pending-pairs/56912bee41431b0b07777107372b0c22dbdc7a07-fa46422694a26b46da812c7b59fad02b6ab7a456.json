@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "56912bee41431b0b07777107372b0c22dbdc7a07",
+    "lede": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses.",
+    "outlet": "engadget",
+    "published": "2026-10-08T08:45:16Z",
+    "title": "GPT-6 is coming to all tiers of ChatGPT",
+    "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/"
+  },
+  "b": {
+    "item_id": "fa46422694a26b46da812c7b59fad02b6ab7a456",
+    "lede": "OpenAI is updating ChatGPT for all users with an \u201cIntelligent UI\u201d that\u2019s more visual\u2014generating interactive elements as part of the chatbot\u2019s outputs.",
+    "outlet": "wired",
+    "published": "2026-10-07T18:00:00Z",
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/"
+  },
+  "score": 0.673932
+}

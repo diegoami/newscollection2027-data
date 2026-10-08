@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+    "lede": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T23:04:37Z",
+    "title": "Ransomware recovery CEO charged over secret ransom payments",
+    "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
+  },
+  "b": {
+    "item_id": "ccf9fc3320ad4b7808d617ac89d77a0e1c01acfd",
+    "lede": "The owner knew a guy...",
+    "outlet": "theregister",
+    "published": "2026-10-08T08:15:00Z",
+    "title": "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+    "url": "https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757"
+  },
+  "score": 0.590849
+}

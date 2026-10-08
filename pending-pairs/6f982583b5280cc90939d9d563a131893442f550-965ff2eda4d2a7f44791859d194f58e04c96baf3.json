@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6f982583b5280cc90939d9d563a131893442f550",
+    "lede": "Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-08T09:45:28Z",
+    "title": "Asos warns customers about full extent of data breach after BBC contacted by hackers",
+    "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo"
+  },
+  "b": {
+    "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+    "lede": "The attackers sent a push notification to Asos shoppers announcing their activity.",
+    "outlet": "engadget",
+    "published": "2026-10-06T18:04:56Z",
+    "title": "Asos hit by extortion hack that may have compromised some customer data",
+    "url": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/"
+  },
+  "score": 0.579304
+}

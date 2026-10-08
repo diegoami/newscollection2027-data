@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "56912bee41431b0b07777107372b0c22dbdc7a07",
+    "lede": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses.",
+    "outlet": "engadget",
+    "published": "2026-10-08T08:45:16Z",
+    "title": "GPT-6 is coming to all tiers of ChatGPT",
+    "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/"
+  },
+  "b": {
+    "item_id": "876648c3358ff5ffa771aff52fecdedbf9951736",
+    "lede": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-07T19:10:42Z",
+    "title": "ChatGPT\u2019s \u2018Intelligent UI\u2019 update fills its responses with pictures, charts, and buttons",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+  },
+  "score": 0.681323
+}

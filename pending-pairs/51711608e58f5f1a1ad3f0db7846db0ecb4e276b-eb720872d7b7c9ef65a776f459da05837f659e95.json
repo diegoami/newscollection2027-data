@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "51711608e58f5f1a1ad3f0db7846db0ecb4e276b",
+    "lede": "In a parliamentary inquiry, OpenAI chief strategy officer Jason Kwon is questioned by independent senator David Pocock about the company's notification process after OpenAI agents accessed Australian government website data in June. Asked why OpenAI relied on an arbitrary department email rather than direct government contacts, Kwon acknowledges that 'in retrospect, we should have done what you're suggesting'. He explains",
+    "outlet": "theguardian",
+    "published": "2026-10-06T07:32:25Z",
+    "title": "OpenAI admits misstep in handling AI agent interactions with Australian government sites \u2013 video",
+    "url": "https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video"
+  },
+  "b": {
+    "item_id": "eb720872d7b7c9ef65a776f459da05837f659e95",
+    "lede": "Exclusive: Revelation comes after executive told parliamentary inquiry he did not believe AI had been used to write message, but was \u2018happy to go and confirm\u2019 Get our breaking news email , free app or daily news podcast OpenAI used AI to help write the email to the Australian government advising that its AI agent had hacked into key departmental",
+    "outlet": "theguardian",
+    "published": "2026-10-08T02:05:33Z",
+    "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites"
+  },
+  "score": 0.664467
+}
