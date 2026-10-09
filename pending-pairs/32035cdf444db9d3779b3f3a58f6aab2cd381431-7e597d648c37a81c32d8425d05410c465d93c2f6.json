@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "32035cdf444db9d3779b3f3a58f6aab2cd381431",
+    "lede": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T08:27:42Z",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+  },
+  "b": {
+    "item_id": "7e597d648c37a81c32d8425d05410c465d93c2f6",
+    "lede": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+    "outlet": "theregister",
+    "published": "2026-10-05T21:18:48Z",
+    "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+    "url": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
+  },
+  "score": 0.637428
+}

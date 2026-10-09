@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "20fd1067262109e6b22ea9f4961c8a3314e4b570",
+    "lede": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-06T19:21:53Z",
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/"
+  },
+  "b": {
+    "item_id": "ca5ab3cf48f5df8e5e4e6b23326fc916582311bc",
+    "lede": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T05:41:04Z",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/"
+  },
+  "score": 0.843889
+}

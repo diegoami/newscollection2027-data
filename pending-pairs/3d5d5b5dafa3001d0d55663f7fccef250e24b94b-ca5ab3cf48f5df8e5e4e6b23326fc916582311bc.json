@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d5d5b5dafa3001d0d55663f7fccef250e24b94b",
+    "lede": "\u200b\u200b\u200bOn the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T06:32:16Z",
+    "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/"
+  },
+  "b": {
+    "item_id": "ca5ab3cf48f5df8e5e4e6b23326fc916582311bc",
+    "lede": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T05:41:04Z",
+    "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/"
+  },
+  "score": 0.766712
+}

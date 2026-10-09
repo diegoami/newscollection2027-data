@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49be3bd074162bd8b3111ef994a83e90c70cbf0d",
+    "lede": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees.",
+    "outlet": "engadget",
+    "published": "2026-10-09T08:25:18Z",
+    "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+    "url": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/"
+  },
+  "b": {
+    "item_id": "7dc4c6c890d004965ebc0ffa538187aefe9dd3aa",
+    "lede": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-09T09:30:49Z",
+    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+    "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo"
+  },
+  "score": 0.68587
+}

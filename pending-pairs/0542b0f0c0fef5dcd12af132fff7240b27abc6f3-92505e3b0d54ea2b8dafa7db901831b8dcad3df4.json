@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0542b0f0c0fef5dcd12af132fff7240b27abc6f3",
+    "lede": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T18:16:24Z",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+  },
+  "b": {
+    "item_id": "92505e3b0d54ea2b8dafa7db901831b8dcad3df4",
+    "lede": "A spokesperson behind the tech company\u2019s AI chatbot has not yet specified what counts as abusive or cruel content Anthropic has barred users from exhibiting \u201csustained and needless abusive or cruel behavior\u201d toward its models, as the company\u2019s leaders continue to ponder machine consciousness. The Verge first reported the change in policy. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-10-09T01:25:42Z",
+    "title": "Anthropic bans users from \u2018needless abusive or cruel behavior\u2019 towards Claude",
+    "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude"
+  },
+  "score": 0.587504
+}

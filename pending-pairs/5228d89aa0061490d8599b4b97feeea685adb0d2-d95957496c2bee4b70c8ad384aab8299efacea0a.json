@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5228d89aa0061490d8599b4b97feeea685adb0d2",
+    "lede": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+    "outlet": "tomshardware",
+    "published": "2026-10-08T13:46:56Z",
+    "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike"
+  },
+  "b": {
+    "item_id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+    "lede": "Putin this cloud region back into operation might not be possible, says Yandex",
+    "outlet": "theregister",
+    "published": "2026-10-09T00:08:52Z",
+    "title": "Ukrainian drone attack takes out Russian datacenter",
+    "url": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+  },
+  "score": 0.669347
+}
