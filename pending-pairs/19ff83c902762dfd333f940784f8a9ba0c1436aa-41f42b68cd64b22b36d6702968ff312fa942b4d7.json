@@ -1,11 +1,11 @@
 {
   "a": {
-    "item_id": "04db534cf440c9c46d50ca2af6bbd95aa17af862",
-    "lede": "Amazon has launched three new tablets that come with Alexa+.",
+    "item_id": "19ff83c902762dfd333f940784f8a9ba0c1436aa",
+    "lede": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
     "outlet": "engadget",
-    "published": "2026-10-08T13:00:00Z",
-    "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-    "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/"
+    "published": "2026-10-08T21:40:59Z",
+    "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+    "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/"
   },
   "b": {
     "item_id": "41f42b68cd64b22b36d6702968ff312fa942b4d7",
@@ -15,5 +15,5 @@
     "title": "Amazon's new Alexa tablets will have full access to Google Play",
     "url": "https://www.engadget.com/2280936/amazon-alexa-tablets-access-google-play/"
   },
-  "score": 0.798713
+  "score": 0.659761
 }

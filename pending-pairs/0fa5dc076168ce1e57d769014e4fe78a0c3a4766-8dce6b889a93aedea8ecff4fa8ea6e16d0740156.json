@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fa5dc076168ce1e57d769014e4fe78a0c3a4766",
+    "lede": "Tencent is reportedly renting 100,000 AI chips from Oracle data centers in Southeast Asia for about $7 billion over five years.",
+    "outlet": "tomshardware",
+    "published": "2026-10-05T13:20:00Z",
+    "title": "Tencent scores 100,000 offshore AI chip deal with Oracle for $7 billion despite climbing prices",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/tencent-scores-100-000-offshore-ai-chip-deal-with-oracle-for-usd7-billion-despite-climbing-prices-per-hour-costs-estimated-to-be-43-percent-under-standard-h100-rental-rates"
+  },
+  "b": {
+    "item_id": "8dce6b889a93aedea8ecff4fa8ea6e16d0740156",
+    "lede": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T18:19:42Z",
+    "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+  },
+  "score": 0.623027
+}

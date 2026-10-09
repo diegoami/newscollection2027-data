@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e1aec287d5b44f93026460488aa827454fd8ec6",
+    "lede": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T11:42:46Z",
+    "title": "ASOS links data breach to social engineering attack, credential theft",
+    "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/"
+  },
+  "b": {
+    "item_id": "290af517c244057778844167419bd31a5e6be666",
+    "lede": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T21:42:51Z",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+  },
+  "score": 0.593228
+}

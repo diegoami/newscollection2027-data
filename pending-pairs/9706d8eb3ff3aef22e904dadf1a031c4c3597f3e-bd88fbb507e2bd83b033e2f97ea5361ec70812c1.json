@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9706d8eb3ff3aef22e904dadf1a031c4c3597f3e",
+    "lede": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters",
+    "outlet": "theregister",
+    "published": "2026-10-08T17:22:32Z",
+    "title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
+    "url": "https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061"
+  },
+  "b": {
+    "item_id": "bd88fbb507e2bd83b033e2f97ea5361ec70812c1",
+    "lede": "GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies.",
+    "outlet": "tomshardware",
+    "published": "2026-10-08T18:23:28Z",
+    "title": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US \u2014 Five-year agreement valued at $2 billion",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion"
+  },
+  "score": 0.740525
+}

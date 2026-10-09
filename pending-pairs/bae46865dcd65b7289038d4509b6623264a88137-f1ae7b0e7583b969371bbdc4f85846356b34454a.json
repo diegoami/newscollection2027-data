@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bae46865dcd65b7289038d4509b6623264a88137",
+    "lede": "Hang on. How about not chucking tens of thousands more satellites into space?",
+    "outlet": "theregister",
+    "published": "2026-10-07T16:29:00Z",
+    "title": "Starlink's plan to avoid orbital near-misses: Ephemeris sharing",
+    "url": "https://www.theregister.com/offbeat/2026/10/07/starlinks-plan-to-avoid-orbital-near-misses-ephemeris-sharing/5301650"
+  },
+  "b": {
+    "item_id": "f1ae7b0e7583b969371bbdc4f85846356b34454a",
+    "lede": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+    "outlet": "arstechnica",
+    "published": "2026-10-08T21:37:32Z",
+    "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+    "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+  },
+  "score": 0.628678
+}
