@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "603a1798959edc672e7031a14c4c3333b4e6c32c",
+    "lede": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-09T12:34:27Z",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo"
+  },
+  "b": {
+    "item_id": "c4dbc55062468abf8a4c99a43394ebe547d3a864",
+    "lede": "The company is also tightening its election policy ahead of the midterms.",
+    "outlet": "engadget",
+    "published": "2026-10-08T21:17:24Z",
+    "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+    "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/"
+  },
+  "score": 0.727351
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "20b164c89d6db3ada807e9714616ef1bf89cd510",
+    "lede": "Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T12:32:16Z",
+    "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "f28cb86dc647b9505d45f76f389cbe9a60734bab",
+    "lede": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T11:37:07Z",
+    "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/"
+  },
+  "score": 0.743975
+}

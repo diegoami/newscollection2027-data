@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33924d46bb14454feacfd40886dd0bc5e5c9666e",
+    "lede": "New usage policy cracks down on cruelty to chatbot, alongside slightly more pressing matters of weapons development, surveillance, and election interference",
+    "outlet": "theregister",
+    "published": "2026-10-09T10:42:00Z",
+    "title": "Anthropic asks users to stop being mean to Claude",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218"
+  },
+  "b": {
+    "item_id": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+    "lede": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-08T17:00:00Z",
+    "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+  },
+  "score": 0.662603
+}

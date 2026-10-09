@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b6135084e8f1f169ac7b767ae4e3945eeca2f48",
+    "lede": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong into the smart home, the actual strategy appears to be almost always the same. All these companies believe AI assistants and agents [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-09T15:10:12Z",
+    "title": "The AI is in the computer",
+    "url": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast"
+  },
+  "b": {
+    "item_id": "e9412c80c28c7ff9794c6168e79e3f2381fa0cc5",
+    "lede": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T16:00:00Z",
+    "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+  },
+  "score": 0.585022
+}

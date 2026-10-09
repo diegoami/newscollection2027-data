@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "32035cdf444db9d3779b3f3a58f6aab2cd381431",
+    "lede": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T08:27:42Z",
+    "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+    "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/"
+  },
+  "b": {
+    "item_id": "6cef4003f8059c631c7f60a10780929ee5bce1d9",
+    "lede": "No word on exploitation status, but a 9.5 severity score suggests time is of the essence",
+    "outlet": "theregister",
+    "published": "2026-10-09T11:43:00Z",
+    "title": "Citrix gives NetScaler admins another critical reason to patch",
+    "url": "https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212"
+  },
+  "score": 0.694568
+}

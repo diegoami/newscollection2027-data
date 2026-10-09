@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "603a1798959edc672e7031a14c4c3333b4e6c32c",
+    "lede": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-09T12:34:27Z",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo"
+  },
+  "b": {
+    "item_id": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+    "lede": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-08T17:00:00Z",
+    "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+  },
+  "score": 0.663808
+}

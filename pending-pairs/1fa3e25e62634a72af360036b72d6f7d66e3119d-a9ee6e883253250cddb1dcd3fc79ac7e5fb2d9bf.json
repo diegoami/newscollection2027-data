@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fa3e25e62634a72af360036b72d6f7d66e3119d",
+    "lede": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T14:01:11Z",
+    "title": "How to keep AI agents within their permissions",
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
+  },
+  "b": {
+    "item_id": "a9ee6e883253250cddb1dcd3fc79ac7e5fb2d9bf",
+    "lede": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "outlet": "techcrunch",
+    "published": "2026-10-06T19:56:50Z",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+  },
+  "score": 0.612345
+}

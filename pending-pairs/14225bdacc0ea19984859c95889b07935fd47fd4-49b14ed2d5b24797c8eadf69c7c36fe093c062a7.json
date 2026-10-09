@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14225bdacc0ea19984859c95889b07935fd47fd4",
+    "lede": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T17:17:23Z",
+    "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+    "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/"
+  },
+  "b": {
+    "item_id": "49b14ed2d5b24797c8eadf69c7c36fe093c062a7",
+    "lede": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T12:49:01Z",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+  },
+  "score": 0.574148
+}

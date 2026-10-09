@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3a6ac94ae25f98777d725f60609c830207a609bf",
+    "lede": "What Microsoft giveth, Microsoft taketh away, again and again",
+    "outlet": "theregister",
+    "published": "2026-10-09T16:14:17Z",
+    "title": "Microsoft 365 subscribers set to lose up to 4TB of OneDrive storage",
+    "url": "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4tb-of-onedrive-storage/5302380"
+  },
+  "b": {
+    "item_id": "55445c135805d266e4de7758498952d4a931978e",
+    "lede": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-07T15:44:22Z",
+    "title": "Microsoft Outlook to block MSIX attachments starting November",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
+  },
+  "score": 0.592568
+}

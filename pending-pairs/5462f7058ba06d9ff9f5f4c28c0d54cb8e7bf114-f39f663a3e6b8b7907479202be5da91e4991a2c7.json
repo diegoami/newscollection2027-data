@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5462f7058ba06d9ff9f5f4c28c0d54cb8e7bf114",
+    "lede": "Strands Box is the latest open source AI control tool from the cloud giant; like its predecessors, it promises tighter reins on autonomous agents",
+    "outlet": "theregister",
+    "published": "2026-10-07T17:42:06Z",
+    "title": "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687"
+  },
+  "b": {
+    "item_id": "f39f663a3e6b8b7907479202be5da91e4991a2c7",
+    "lede": "Analysts welcome Fusion Claw's tighter controls but warn of early adoption and cloud lock-in",
+    "outlet": "theregister",
+    "published": "2026-10-09T14:44:00Z",
+    "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270"
+  },
+  "score": 0.612567
+}

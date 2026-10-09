@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "946da772f58f6d76e7fff2f43760d8407b6ebdf0",
+    "lede": "SPONSORED POST: Why training AI across multiple sites is creating a new networking challenge",
+    "outlet": "theregister",
+    "published": "2026-10-07T15:00:00Z",
+    "title": "When one datacenter is no longer enough",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/07/sponsored-when-one-datacenter-is-no-longer-enough/5301030"
+  },
+  "b": {
+    "item_id": "cde9edff10dcf739eab10c33d0e28784102e82d7",
+    "lede": "SPONSORED FEATURE: While linking the GPUs in a datacenter is a challenge, coordinating thousands of them to work efficiently over hundreds of kilometers presents a new set of difficulties.",
+    "outlet": "theregister",
+    "published": "2026-10-09T15:00:00Z",
+    "title": "Growing pains: how distributed AI training changes the network between datacenters",
+    "url": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554"
+  },
+  "score": 0.693394
+}

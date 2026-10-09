@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "506da5a2e0fd5241d9de1a929e4b03bdfba85fe7",
+    "lede": "PC shipments for the third quarter of 2026 drop by 15.8 million units, with Lenovo, HP, and Dell being hit the hardest. Memory chip manufacturers estimate that the situation will not improve until 2028 or 2029, even as Acer believes that PC prices will decline by late 2027.",
+    "outlet": "tomshardware",
+    "published": "2026-10-09T11:10:05Z",
+    "title": "PC shipments tumble over 20% in 3Q26 as chip shortages bite",
+    "url": "https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year"
+  },
+  "b": {
+    "item_id": "b08bd5352fa4959ec178b821fa2a42e5904210a3",
+    "lede": "Gigabyte confirms BIOS support for upcoming Intel LGA 1700 processors on B760 and H610 motherboards, with the rumored Raptor Lake Next lineup expected in early 2027 to support both DDR4 and DDR5 memory.",
+    "outlet": "tomshardware",
+    "published": "2026-10-09T13:43:01Z",
+    "title": "Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027",
+    "url": "https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory"
+  },
+  "score": 0.57422
+}

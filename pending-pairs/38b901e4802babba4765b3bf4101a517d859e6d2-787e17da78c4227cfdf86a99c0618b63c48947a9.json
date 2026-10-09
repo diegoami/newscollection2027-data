@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "38b901e4802babba4765b3bf4101a517d859e6d2",
+    "lede": "When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress. You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay, forming the foundation for Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-09T17:00:00Z",
+    "title": "Microsoft tries to spark new life into Windows",
+    "url": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"
+  },
+  "b": {
+    "item_id": "787e17da78c4227cfdf86a99c0618b63c48947a9",
+    "lede": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T10:12:24Z",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+  },
+  "score": 0.626784
+}

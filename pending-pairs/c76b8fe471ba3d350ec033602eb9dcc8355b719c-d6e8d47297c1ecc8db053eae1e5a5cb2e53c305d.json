@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c76b8fe471ba3d350ec033602eb9dcc8355b719c",
+    "lede": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+    "outlet": "arstechnica",
+    "published": "2026-10-09T13:14:33Z",
+    "title": "Microsoft barred from sponsoring foreign workers for US residency",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+  },
+  "b": {
+    "item_id": "d6e8d47297c1ecc8db053eae1e5a5cb2e53c305d",
+    "lede": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Vance claimed the permanent labor certification program - intended for use when there aren't \"sufficient\" US [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-08T16:57:27Z",
+    "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
+    "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance"
+  },
+  "score": 0.66794
+}

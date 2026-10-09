@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "394e1dfae3e2eff6282a8eec678a68d134893214",
+    "lede": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+    "outlet": "engadget",
+    "published": "2026-10-08T18:23:00Z",
+    "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+    "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/"
+  },
+  "b": {
+    "item_id": "c76b8fe471ba3d350ec033602eb9dcc8355b719c",
+    "lede": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+    "outlet": "arstechnica",
+    "published": "2026-10-09T13:14:33Z",
+    "title": "Microsoft barred from sponsoring foreign workers for US residency",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+  },
+  "score": 0.654215
+}

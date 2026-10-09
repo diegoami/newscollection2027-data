@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "450ba5103ce368c5a636547d1188ba7155b1f5f2",
+    "lede": "Low-band frequencies can reach devices inside buildings, while 2 GHz orbiters could extend coverage beyond cell towers",
+    "outlet": "theregister",
+    "published": "2026-10-09T15:55:31Z",
+    "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "url": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393"
+  },
+  "b": {
+    "item_id": "f31ce6f5b0bf404a4779c4bcf19ed36a03d97a40",
+    "lede": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to work through cellular networks without the need for a carrier plan. The connectivity was included as part [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-08T17:40:05Z",
+    "title": "Older Pixel watches are losing free cellular access to several safety features",
+    "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending"
+  },
+  "score": 0.577082
+}
