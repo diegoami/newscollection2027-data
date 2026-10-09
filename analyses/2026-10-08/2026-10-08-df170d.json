@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-08-df170d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Forza Horizon 6's PS5 launch delayed to January 2027",
+  "summary": "Playground Games delayed Forza Horizon 6's PS5 launch to January 26th, 2027, pushing back a release previously expected in 2026. The game's first expansion will also arrive early next year.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Forza Horizon 6 on PS5 is now officially launching January 26th, 2027.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "252642b4600b0a182984fd92992805db500f52d4",
+          "quote": "Forza Horizon 6 is being delayed on PS5 to January 2027"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "252642b4600b0a182984fd92992805db500f52d4",
+          "quote": "Forza Horizon 6 is now officially debuting on January 26th, 2027"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Engadget confirms the PS5 version is coming January 26.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e6457d7081a81e34b674b2314ddda7626290a6f4",
+          "quote": "Forza Horizon 6 is coming to PS5 on January 26"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The racing game's first expansion will also be available early next year.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e6457d7081a81e34b674b2314ddda7626290a6f4",
+          "quote": "The racing game's first expansion will also be available early next year."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -33,8 +33,16 @@
       "published": "2026-10-07T15:40:51Z",
       "title": "OpenAI\u2019s release of mathematical findings draws concerns from experts",
       "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns"
+    },
+    {
+      "item_id": "6e4822f6702393acbe94e15d3ab9706ac4426d11",
+      "lede": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "outlet": "techcrunch",
+      "published": "2026-10-08T18:10:55Z",
+      "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

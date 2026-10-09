@@ -1,0 +1,32 @@
+{
+  "anchor": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+  "id": "2026-10-08-d2af90",
+  "items": [
+    {
+      "item_id": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+      "lede": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T17:00:00Z",
+      "title": "Anthropic bans \u2018abusive or cruel behavior\u2019 toward Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+    },
+    {
+      "item_id": "0542b0f0c0fef5dcd12af132fff7240b27abc6f3",
+      "lede": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+      "outlet": "techcrunch",
+      "published": "2026-10-08T18:16:24Z",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+    },
+    {
+      "item_id": "c4dbc55062468abf8a4c99a43394ebe547d3a864",
+      "lede": "The company is also tightening its election policy ahead of the midterms.",
+      "outlet": "engadget",
+      "published": "2026-10-08T21:17:24Z",
+      "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+      "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

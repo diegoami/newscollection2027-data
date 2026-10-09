@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-06-1fe21d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Neutrino physicist wins 2026 Nobel Prize in Physics",
+  "summary": "Francis Halzen won the 2026 Nobel Prize in Physics for leading development of the IceCube Neutrino Observatory. A companion piece quotes an IceCube researcher explaining the prize-winning neutrino-detection technology used under the Antarctic ice.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Francis Halzen won the 2026 Nobel Physics Prize for leading development of the IceCube Neutrino Observatory.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "63acdfec310474b4bc9921f67a4b038a9a8c77e7",
+          "quote": "Neutrino physicist wins 2026 Nobel Physics Prize"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "63acdfec310474b4bc9921f67a4b038a9a8c77e7",
+          "quote": "Francis Halzen of University of Wisconsin-Madison led development of IceCube Neutrino Observatory."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "An IceCube researcher explains the prize-winning technology used to detect cosmic neutrinos under the Antarctic ice.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "65bf362c34be2197a582e994595f6392e366a60f",
+          "quote": "who breaks down why researchers are looking for the cosmic particles under the Antarctic ice"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,1 +1,88 @@
-{"cluster_id": "2026-10-06-744d33", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-08T03:00:00Z", "headline": "Apple reportedly partners with LG on new smart home device lineup", "summary": "Apple is reportedly working with LG, per a Bloomberg report, on a lineup of LG-branded smart home devices including a lock, doorbell and thermostat that would integrate with Apple's rumored smart home hub. Reports differ slightly on the device list, with a later report naming a temperature sensor rather than a camera.", "claims": [{"id": "c1", "statement": "Apple is reportedly partnering with LG to develop a lineup of smart home devices.", "sources": [{"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat"}, {"outlet": "techcrunch", "item_id": "96c8a1a70fac25a19bcae7bbe15a20f53a3248ca", "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"}, {"outlet": "engadget", "item_id": "992eb095a559f3796a3e05ac16ceb3be56b9c463", "quote": "Apple reportedly worked with LG on gadgets for its upcoming smart home push"}]}, {"id": "c2", "statement": "The devices reportedly include a lock, doorbell and thermostat, among others.", "sources": [{"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "a video doorbell, thermostat, indoor camera, and more"}, {"outlet": "engadget", "item_id": "992eb095a559f3796a3e05ac16ceb3be56b9c463", "quote": "The doorbell, security cameras, thermostats and more"}, {"outlet": "engadget", "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98", "quote": "a lock, a thermostat and a temperature sensor"}]}, {"id": "c3", "statement": "The report originates from Bloomberg, and the devices would carry LG branding while integrating with Apple's rumored smart home hub.", "sources": [{"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "according to a report from Bloomberg"}, {"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "feature LG branding but integrate with the company's rumored smart home hub"}]}], "discrepancies": [{"kind": "omission", "severity": "low", "explanation": "Reports list different devices in the rumored lineup: earlier reports cite an indoor or security camera, while a later report instead names a temperature sensor and does not mention a camera.", "quotes": [{"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "a video doorbell, thermostat, indoor camera, and more"}, {"outlet": "engadget", "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98", "quote": "a lock, a thermostat and a temperature sensor"}], "claim_ids": ["c2"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-10-06-744d33",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Apple confirms October 13 smart-home launch event",
+  "summary": "Reports said Apple was partnering with LG on smart-home devices including a lock, doorbell and thermostat, rumored for an October event. Apple then officially announced an October 13 'Welcome home' event in New York, confirming the smart-home focus outlets had reported.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple was reportedly partnering with LG on smart-home devices including a lock, doorbell and thermostat.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de",
+          "quote": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "96c8a1a70fac25a19bcae7bbe15a20f53a3248ca",
+          "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The LG-branded products were expected to launch alongside Apple's own rumored smart home hub.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de",
+          "quote": "feature LG branding but integrate with the company's rumored smart home hub that's expected to launch during an event on October 13th"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Images of the rumored smart home products, including a lock, thermostat and temperature sensor, later surfaced.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98",
+          "quote": "We now have images of the smart home products that Apple and LG are reportedly cooking up"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98",
+          "quote": "These include a lock, a thermostat and a temperature sensor."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Apple officially announced an October 13 event in New York with a 'Welcome home' tagline, confirming a smart-home focus.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258",
+          "quote": "Apple announces surprise ‘Welcome home’ launch event"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258",
+          "quote": "taking place in New York on October 13th at 9AM ET"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Engadget confirmed Apple would show off new smart home devices at the October 13 event, set for 9AM ET.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "7ba1184948140aed16683c0d8870cc4b139fc62b",
+          "quote": "Apple is set to show off new smart home devices at an October 13 event"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7ba1184948140aed16683c0d8870cc4b139fc62b",
+          "quote": "The event is set for 9AM ET."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

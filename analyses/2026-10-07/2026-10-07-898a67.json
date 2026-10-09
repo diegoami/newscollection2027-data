@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-07-898a67",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Ransomware recovery CEO charged with defrauding clients",
+  "summary": "The owner of ransomware remediation company MonsterCloud was charged with secretly paying ransomware attackers for decryptors while telling clients it used proprietary recovery technology, allegedly pocketing the difference between what clients paid and what he paid attackers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The MonsterCloud owner was charged with secretly paying ransomware attackers for decryptors while claiming proprietary recovery technology.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+          "quote": "Ransomware recovery CEO charged over secret ransom payments"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+          "quote": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Prosecutors allege he charged clients more than the ransoms and pocketed the difference.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "2aed15987fdbc66ad180a4abba2545930bea309e",
+          "quote": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

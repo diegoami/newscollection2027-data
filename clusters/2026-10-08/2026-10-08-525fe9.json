@@ -1,0 +1,24 @@
+{
+  "anchor": "290af517c244057778844167419bd31a5e6be666",
+  "id": "2026-10-08-525fe9",
+  "items": [
+    {
+      "item_id": "290af517c244057778844167419bd31a5e6be666",
+      "lede": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-08T21:42:51Z",
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+    },
+    {
+      "item_id": "dab4d8e4a33fe928e4170e5dce30a0929d4097cf",
+      "lede": "Infecting devices from 2021 until the FBI stepped in",
+      "outlet": "theregister",
+      "published": "2026-10-08T21:59:00Z",
+      "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
+      "url": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

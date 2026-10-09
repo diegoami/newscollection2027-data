@@ -17,8 +17,16 @@
       "published": "2026-10-06T12:15:00Z",
       "title": "Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills"
+    },
+    {
+      "item_id": "370e2420e8a2e0d55d6495d7e465137c98be4c59",
+      "lede": "Suspected Chinese speaker used Claude Code and agentic pentesting tool ARTEX in attacks on South Korean lenders",
+      "outlet": "theregister",
+      "published": "2026-10-08T13:27:00Z",
+      "title": "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

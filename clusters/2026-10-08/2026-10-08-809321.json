@@ -1,0 +1,24 @@
+{
+  "anchor": "f31ce6f5b0bf404a4779c4bcf19ed36a03d97a40",
+  "id": "2026-10-08-809321",
+  "items": [
+    {
+      "item_id": "f31ce6f5b0bf404a4779c4bcf19ed36a03d97a40",
+      "lede": "Google announced through a short community post today that the LTE versions of the Pixel Watch 2 and 3 are losing free access to Safety Signal that allowed features like Emergency SOS, Fall Detection, and Safety Check to work through cellular networks without the need for a carrier plan. The connectivity was included as part [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T17:40:05Z",
+      "title": "Older Pixel watches are losing free cellular access to several safety features",
+      "url": "https://www.theverge.com/tech/1008145/google-pixel-watch-1-2-free-safety-signal-emergency-access-ending"
+    },
+    {
+      "item_id": "ce24525fd443af3619f6e6c8764c9221b2728099",
+      "lede": "Access to the emergency feature for LTE-connected wearables will end by December.",
+      "outlet": "engadget",
+      "published": "2026-10-08T19:16:12Z",
+      "title": "Google is doing away with Safety Signal on Pixel Watch",
+      "url": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

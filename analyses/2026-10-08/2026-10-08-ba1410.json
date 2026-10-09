@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-08-ba1410",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "New York accuses TikTok of fake child-safety features",
+  "summary": "New York alleges TikTok gave teens and children non-working 'ghost' versions of its safety features rather than real ones, part of an unsealed update to the state's 2024 lawsuit against the platform.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "New York alleges TikTok gave children and teens a placebo safety feature instead of a real one.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3f77d58663bdbddcb1013ab5d2e49724808885d3",
+          "quote": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The allegation says users were unknowingly given 'ghost' versions of TikTok's safety features rather than working versions.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "212c6ee068c7a553bca801efc14a6c180f66dfb4",
+          "quote": "unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "New York's lawsuit is one of more than two dozen state cases accusing TikTok of designing the platform to encourage addictive use among children.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3f77d58663bdbddcb1013ab5d2e49724808885d3",
+          "quote": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

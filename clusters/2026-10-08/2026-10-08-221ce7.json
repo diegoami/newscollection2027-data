@@ -1,0 +1,24 @@
+{
+  "anchor": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+  "id": "2026-10-08-221ce7",
+  "items": [
+    {
+      "item_id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+      "lede": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T20:32:21Z",
+      "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "url": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor"
+    },
+    {
+      "item_id": "2bec2183caa335630fdb0a065de0a7576e224acf",
+      "lede": "The wait to (literally) get your hands on the tech may almost be over.",
+      "outlet": "engadget",
+      "published": "2026-10-08T23:26:35Z",
+      "title": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+      "url": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

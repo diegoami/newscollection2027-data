@@ -1,0 +1,24 @@
+{
+  "anchor": "e41b77ede3a6501ff4cf188f4bdf858ef40d4d84",
+  "id": "2026-10-08-dd1ce2",
+  "items": [
+    {
+      "item_id": "e41b77ede3a6501ff4cf188f4bdf858ef40d4d84",
+      "lede": "Her team's code kept Apollo 11's landing on course when the guidance computer became overloaded",
+      "outlet": "theregister",
+      "published": "2026-10-08T14:54:00Z",
+      "title": "Margaret Hamilton, software pioneer who helped put humans on the Moon, dies at 90",
+      "url": "https://www.theregister.com/software/2026/10/08/margaret-hamilton-software-pioneer-who-helped-put-humans-on-the-moon-dies-at-90/5301988"
+    },
+    {
+      "item_id": "87023935733fbc8e0fe848151354b9c28f9648e9",
+      "lede": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+      "outlet": "arstechnica",
+      "published": "2026-10-08T20:15:53Z",
+      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

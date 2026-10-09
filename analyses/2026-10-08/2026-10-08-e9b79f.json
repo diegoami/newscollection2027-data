@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-08-e9b79f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Paramount developing a Cyberpunk 2077 film",
+  "summary": "Paramount Pictures is developing a live-action Cyberpunk 2077 film, with CD Projekt Red producing. No premiere date has been set.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Paramount Pictures is making a live-action Cyberpunk 2077 film.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "98bd8e2d4578bd0f55cac7a55a106967c43d13e2",
+          "quote": "Paramount is making a Cyberpunk 2077 film"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "98bd8e2d4578bd0f55cac7a55a106967c43d13e2",
+          "quote": "CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Paramount will develop the film while CD Projekt Red produces it.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "972dff1654026a7f78c2d5dd78bbe5fc5c4a1b4a",
+          "quote": "Paramount Pictures will develop the film and CD Projekt Red will produce."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

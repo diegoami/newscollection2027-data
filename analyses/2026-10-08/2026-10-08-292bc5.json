@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-08-292bc5",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Google brings agentic AI to Gemini for businesses",
+  "summary": "Google is turning Gemini into an AI agent for businesses that can plan and execute tasks across apps, delegate work to subagents, and get its own workplace identity with an email address, positioning it as a single universal work agent.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "47672f48bba99761e249a527d1774e0d046320fc",
+          "quote": "Google brings agentic AI to Gemini, starting with businesses"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "47672f48bba99761e249a527d1774e0d046320fc",
+          "quote": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Google Cloud is positioning Gemini as a single universal agent for work.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "c56821de847d1c957e0aba2d3633c4117ee8b275",
+          "quote": "The Chocolate Factory proposes a single universal agent for work"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

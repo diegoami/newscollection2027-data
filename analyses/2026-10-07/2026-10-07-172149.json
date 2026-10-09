@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-07-172149",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "SpaceX proposes ephemeris sharing after Starlink near-misses",
+  "summary": "SpaceX called for better orbital coordination after Starlink satellites had near-misses with other objects, with conjunctions as close as tens of meters. Starlink's plan centers on sharing ephemeris data to help avoid future close calls.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Starlink's plan to avoid orbital near-misses centers on ephemeris sharing.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "bae46865dcd65b7289038d4509b6623264a88137",
+          "quote": "Starlink's plan to avoid orbital near-misses: Ephemeris sharing"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "SpaceX called for better coordination in orbit after near-misses involving Starlink satellites.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "f1ae7b0e7583b969371bbdc4f85846356b34454a",
+          "quote": "SpaceX calls for better coordination in orbit after near-misses with Starlink"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The near-misses came within tens to hundreds of meters.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "f1ae7b0e7583b969371bbdc4f85846356b34454a",
+          "quote": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

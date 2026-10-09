@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-08-d2af90",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Anthropic bans abusive behavior toward Claude in policy update",
+  "summary": "Anthropic updated its usage policy for the first time in over a year, banning sustained abusive or cruel behavior toward Claude and addressing election interference, weapons development and surveillance, while tightening its election policy ahead of the midterms.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic's updated usage policy bans sustained and needless abusive or cruel behavior toward Claude.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+          "quote": "Anthropic bans ‘abusive or cruel behavior’ toward Claude"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ordinary frustration and criticism toward Claude are still allowed; only extreme, repeated abuse is prohibited.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0542b0f0c0fef5dcd12af132fff7240b27abc6f3",
+          "quote": "prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The policy also addresses election interference, weapons development and surveillance.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ba390530e9c6e2d74c6d957378c35d4ffd347ecd",
+          "quote": "including election interference, weapons development, surveillance, and health and financial uses"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "0542b0f0c0fef5dcd12af132fff7240b27abc6f3",
+          "quote": "election interference, deceptive campaigns, weapons software, and surveillance"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Anthropic is tightening its election policy ahead of the midterms.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c4dbc55062468abf8a4c99a43394ebe547d3a864",
+          "quote": "The company is also tightening its election policy ahead of the midterms."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

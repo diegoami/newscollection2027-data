@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-08-221ce7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Apple reportedly plans touchscreen MacBook launch this month",
+  "summary": "Apple is reportedly set to debut its first touchscreen MacBook Pro and an updated iPad Mini around October 27th, according to a Bloomberg report, roughly two weeks after Apple's smart-home-focused October 13th event.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is reportedly set to introduce a touchscreen MacBook Pro and updated iPad Mini around October 27th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+          "quote": "Apple will reportedly debut its first touchscreen MacBook in three weeks"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+          "quote": "on or around\" October 27th, Bloomberg reports"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "That reported launch would come about two weeks after Apple's October 13th smart-home-focused event.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+          "quote": "that would put the event just two weeks after the October 13th event Apple announced today"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Engadget frames the touchscreen MacBook and iPad Mini as planned for launch this month.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2bec2183caa335630fdb0a065de0a7576e224acf",
+          "quote": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

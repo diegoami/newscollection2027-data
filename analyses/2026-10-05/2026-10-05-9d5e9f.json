@@ -1,1 +1,84 @@
-{"cluster_id": "2026-10-05-9d5e9f", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-07T02:30:00Z", "headline": "South Korea probes suspected AI-powered bank cyberattacks", "summary": "South Korea's financial regulator is investigating a series of cyberattacks on banks suspected of using AI, with the president citing signs AI was used and tomshardware reporting data from about 25,000 customers was exposed.", "claims": [{"id": "c1", "statement": "South Korean authorities are investigating cyberattacks on financial institutions suspected of involving AI.", "sources": [{"outlet": "bleepingcomputer", "item_id": "68acfff98094cf604922b2a22c06de004deceb39", "quote": "South Korea probes bank breaches amid suspected AI-powered attacks"}, {"outlet": "tomshardware", "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda", "quote": "Hackers suspected of using AI agents for cyberattacks on South Korean banks"}]}, {"id": "c2", "statement": "South Korea's president told his cabinet there were signs AI was used to carry out the attacks.", "sources": [{"outlet": "tomshardware", "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda", "quote": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks."}]}, {"id": "c3", "statement": "The attacks exposed data from about 25,000 customers.", "sources": [{"outlet": "tomshardware", "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda", "quote": "exposing data from about 25,000 customers"}]}], "discrepancies": [{"kind": "omission", "severity": "low", "explanation": "tomshardware reports a specific customer-data exposure figure that bleepingcomputer's text does not mention.", "quotes": [{"outlet": "tomshardware", "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda", "quote": "exposing data from about 25,000 customers"}, {"outlet": "bleepingcomputer", "item_id": "68acfff98094cf604922b2a22c06de004deceb39", "quote": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country."}], "claim_ids": ["c3"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-10-05-9d5e9f",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "South Korea probes AI-assisted cyberattacks on banks",
+  "summary": "South Korean authorities are investigating a series of cyberattacks on financial institutions suspected of involving AI, with the president citing signs AI was used and about 25,000 customers' data exposed. CrowdStrike separately reported finding a possible attacker's CV, naming specific AI tools used in the attacks.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "South Korean authorities are investigating cyberattacks on financial institutions suspected of involving AI.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "68acfff98094cf604922b2a22c06de004deceb39",
+          "quote": "South Korea probes bank breaches amid suspected AI-powered attacks"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "South Korea's president told his cabinet there were signs AI was used to carry out the attacks.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda",
+          "quote": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The attacks exposed data from about 25,000 customers.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda",
+          "quote": "exposing data from about 25,000 customers"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "CrowdStrike reported finding a possible attacker's CV among exposed AI logs, tied to the use of Claude Code and an agentic pentesting tool called ARTEX.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "370e2420e8a2e0d55d6495d7e465137c98be4c59",
+          "quote": "CrowdStrike finds possible bank hacker's CV among exposed AI logs"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "370e2420e8a2e0d55d6495d7e465137c98be4c59",
+          "quote": "Suspected Chinese speaker used Claude Code and agentic pentesting tool ARTEX in attacks on South Korean lenders"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Only one outlet names the specific AI tools investigators tie to the attacks; the others describe the AI use only in general terms.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "370e2420e8a2e0d55d6495d7e465137c98be4c59",
+          "quote": "Suspected Chinese speaker used Claude Code and agentic pentesting tool ARTEX in attacks on South Korean lenders"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb42169063bcb0016855c3bbee875a077cd85bda",
+          "quote": "South Korean president Lee Jae Myung told his cabinet that there were signs that hackers used AI to execute the attacks on the banks."
+        }
+      ],
+      "claim_ids": [
+        "c2",
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

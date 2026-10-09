@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-08-706753",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "GlobalFoundries to make US silicon interposers for TSMC",
+  "summary": "GlobalFoundries signed a five-year, $2 billion deal to produce silicon interposers for TSMC's CoWoS advanced packaging in the US, supporting domestic production of AI and HPC accelerator chips.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "TSMC tapped GlobalFoundries to bolster US silicon interposer production in a $2 billion deal.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "9706d8eb3ff3aef22e904dadf1a031c4c3597f3e",
+          "quote": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The five-year agreement makes GlobalFoundries part of TSMC's CoWoS supply chain in the US.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "bd88fbb507e2bd83b033e2f97ea5361ec70812c1",
+          "quote": "GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "bd88fbb507e2bd83b033e2f97ea5361ec70812c1",
+          "quote": "GlobalFoundries becomes a part of TSMC's CoWoS supply chain in the U.S.: set to participate in production of leading-edge AI and HPC accelerators without investing in leading-edge process technologies."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Advanced packaging technology like this is essential to domestic production of high-performance AI datacenter semiconductors.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "9706d8eb3ff3aef22e904dadf1a031c4c3597f3e",
+          "quote": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

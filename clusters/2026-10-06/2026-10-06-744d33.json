@@ -33,8 +33,24 @@
       "published": "2026-10-07T15:42:39Z",
       "title": "We now have images of the smart home products that Apple and LG are reportedly cooking up",
       "url": "https://www.engadget.com/2280076/we-now-have-images-of-the-smart-home-products-that-apple-and-lg-are-reportedly-cooking-up/"
+    },
+    {
+      "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258",
+      "lede": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET. The company is rumored to be launching smart home-focused products this month, and the event invite hints that'll be the case: Apple is using the tagline \"Welcome home.\" At the event, Apple is rumored to announce [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T16:08:40Z",
+      "title": "Apple announces surprise \u2018Welcome home\u2019 launch event",
+      "url": "https://www.theverge.com/news/1008039/apple-smart-home-event-october-13th"
+    },
+    {
+      "item_id": "7ba1184948140aed16683c0d8870cc4b139fc62b",
+      "lede": "The event is set for 9AM ET.",
+      "outlet": "engadget",
+      "published": "2026-10-08T16:16:30Z",
+      "title": "Apple is set to show off new smart home devices at an October 13 event",
+      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

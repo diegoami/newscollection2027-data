@@ -1,1 +1,89 @@
-{"cluster_id": "2026-10-06-a5bc3d", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-08T03:00:00Z", "headline": "OpenAI's new batch of math results draws mixed reports, concern", "summary": "OpenAI released a large batch of new mathematical results, largely produced by an unreleased frontier model responding to a single prompt. Reports differ on the batch's size, ranging from over 100 to 722 manuscripts. Some experts voiced concern that OpenAI is not adequately vetting results or making them accessible to the broader mathematical community.", "claims": [{"id": "c1", "statement": "OpenAI released a large batch of new mathematical results, including solutions to long-standing problems.", "sources": [{"outlet": "theverge", "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28", "quote": "OpenAI drops another batch of mathematical breakthroughs"}, {"outlet": "engadget", "item_id": "d9fc5de402524b0ff56a553e7d2932697deb8594", "quote": "OpenAI just posted hundreds more results on major math problems"}, {"outlet": "theguardian", "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421", "quote": "OpenAI’s release of mathematical findings draws concerns from experts"}]}, {"id": "c2", "statement": "Most of the results were produced by an unreleased frontier AI model, largely from a single prompt to a single AI agent.", "sources": [{"outlet": "theverge", "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28", "quote": "produced by an unreleased frontier model"}, {"outlet": "engadget", "item_id": "d9fc5de402524b0ff56a553e7d2932697deb8594", "quote": "most results were produced in a response to a single prompt given to a single AI agent"}]}, {"id": "c3", "statement": "Some experts voiced concern that OpenAI is not adequately vetting the results or making them accessible to the broader mathematical community.", "sources": [{"outlet": "theguardian", "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421", "quote": "Leaders worry OpenAI is not doing due diligence to vet results and that AI models aren’t accessible to broader field of mathematicians"}, {"outlet": "wired", "item_id": "f2d406e0dd6fcfa1c064764b0ff7ebdb663bc9bf", "quote": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED"}]}], "discrepancies": [{"kind": "number", "severity": "high", "explanation": "Outlets give different totals for the release: Wired's pre-release estimate was over 100 solutions, while The Guardian cites over 370 results and The Verge cites 722 manuscripts.", "quotes": [{"outlet": "wired", "item_id": "f2d406e0dd6fcfa1c064764b0ff7ebdb663bc9bf", "quote": "more than 100 new solutions to unsolved problems"}, {"outlet": "theguardian", "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421", "quote": "over 370 mathematical results"}, {"outlet": "theverge", "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28", "quote": "722 manuscripts, covering 372 result families"}], "claim_ids": ["c1"]}], "agreement": "conflicting"}
+{
+  "cluster_id": "2026-10-06-a5bc3d",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "OpenAI's new math results draw praise and concern",
+  "summary": "OpenAI released another large batch of mathematical results, with one outlet citing 722 manuscripts covering 372 result families, mostly produced from a single prompt to one AI agent. Mathematicians and outlets report concern that OpenAI isn't doing enough due diligence and that the results don't yet meet the field's standards.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI released another large batch of mathematical results.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28",
+          "quote": "OpenAI drops another batch of mathematical breakthroughs"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d9fc5de402524b0ff56a553e7d2932697deb8594",
+          "quote": "OpenAI just posted hundreds more results on major math problems"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421",
+          "quote": "releasing hundreds of new mathematical findings on Tuesday"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "One report puts the batch at 722 manuscripts covering 372 result families.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e4feb1bf5e6900f4a7b1671708c44d6f48d4ab28",
+          "quote": "a batch of 722 manuscripts, covering 372 result families that group related papers"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Most of the results were produced in response to a single prompt given to one AI agent.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "d9fc5de402524b0ff56a553e7d2932697deb8594",
+          "quote": "The company said that most results were produced in a response to a single prompt given to a single AI agent."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Experts worry OpenAI isn't doing enough due diligence to vet the results.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421",
+          "quote": "OpenAI’s release of mathematical findings draws concerns from experts"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "53b46231896a0e480fce5178fc00e3b3485d3421",
+          "quote": "Leaders worry OpenAI is not doing due diligence to vet results"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "OpenAI's math solutions are reported to not yet meet the field's standards.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6e4822f6702393acbe94e15d3ab9706ac4426d11",
+          "quote": "OpenAI’s math solutions aren’t meeting the field’s standards yet"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6e4822f6702393acbe94e15d3ab9706ac4426d11",
+          "quote": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "partial",
+  "notes": "agreement is partial because outlets differ in emphasis (breakthrough vs. standards concerns), though the given texts do not directly contradict each other on any specific fact."
+}

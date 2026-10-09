@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-08-14098e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Atari 800XL returns as modernized retro computer",
+  "summary": "Retro Games Ltd is taking pre-orders for a modernized but faithful recreation of the classic 8-bit Atari 800XL home computer, now connecting via HDMI and including 25 built-in games.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Pre-orders began for a modernized, faithful recreation of the classic Atari 800XL.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "68ea0dc32a9b0111c1c00674804381f7a8161783",
+          "quote": "The Atari 800XL returns with a 'faithful' but modern Retro Games Ltd redesign"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "68ea0dc32a9b0111c1c00674804381f7a8161783",
+          "quote": "Pre-orders for the Atari-licensed THE 800XL began today. This is a modernized yet claimed to be faithful recreation of the classic 8-bit home computer, popular in the early 1980s."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The updated version connects via HDMI and comes with 25 built-in games.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "766c77ccfcceb3485276ecad84475163eb5e2c94",
+          "quote": "This updated version connects via HDMI and comes with 25 built-in games."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

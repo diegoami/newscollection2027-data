@@ -25,8 +25,16 @@
       "published": "2026-10-06T18:02:56Z",
       "title": "Google told to halt work on datacentres in Finland over environmental concerns",
       "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment"
+    },
+    {
+      "item_id": "6d99a15fdcc92a022e2a1cc22f4726b5a44efe06",
+      "lede": "Finnish authorities say they cannot conduct a proper environmental assessment after the site has already been changed.",
+      "outlet": "tomshardware",
+      "published": "2026-10-08T15:52:45Z",
+      "title": "Finland orders Google to stop work on two AI data centers over alleged deforestation",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

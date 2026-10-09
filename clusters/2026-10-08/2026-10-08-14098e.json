@@ -1,0 +1,24 @@
+{
+  "anchor": "68ea0dc32a9b0111c1c00674804381f7a8161783",
+  "id": "2026-10-08-14098e",
+  "items": [
+    {
+      "item_id": "68ea0dc32a9b0111c1c00674804381f7a8161783",
+      "lede": "Pre-orders for the Atari-licensed THE 800XL began today. This is a modernized yet claimed to be faithful recreation of the classic 8-bit home computer, popular in the early 1980s.",
+      "outlet": "tomshardware",
+      "published": "2026-10-08T16:37:20Z",
+      "title": "The Atari 800XL returns with a 'faithful' but modern Retro Games Ltd redesign",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/the-atari-800xl-returns-with-a-faithful-but-modern-retro-games-ltd-redesign-classic-8-bit-home-computer-revamp-sports-mechanical-keyboard-and-hdmi-connectivity"
+    },
+    {
+      "item_id": "766c77ccfcceb3485276ecad84475163eb5e2c94",
+      "lede": "This updated version connects via HDMI and comes with 25 built-in games.",
+      "outlet": "engadget",
+      "published": "2026-10-08T18:51:28Z",
+      "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
+      "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-10-08-edcb25",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "US suspends green-card program for Microsoft and Adobe",
+  "summary": "The Trump administration suspended Microsoft, Adobe and other firms from the PERM green-card program for skilled foreign workers, citing alleged fraud involving H-1B visas. Vice President JD Vance said Microsoft had abused the system more than any other US company.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The US suspended Microsoft, Adobe and other IT firms from the green-card program for skilled foreign workers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4b2c230c44bd040a16b7b19b2502fecafe50b7d1",
+          "quote": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Other firms suspended include Capgemini, Cognizant, HCL, Infosys, Tata and Wipro.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4b2c230c44bd040a16b7b19b2502fecafe50b7d1",
+          "quote": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The companies are accused of fraud regarding H-1B worker visas, affecting seven companies in total.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "394e1dfae3e2eff6282a8eec678a68d134893214",
+          "quote": "Seven companies have been accused of fraud regarding the H-1B worker visas."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Vice President JD Vance said no US company has abused the program more than Microsoft.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "ab39f2df731664497cf3a4c36409c02b99c438ca",
+          "quote": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The suspended permanent labor certification (PERM) program otherwise lets employers hire foreign workers who can reside permanently in the US.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d6e8d47297c1ecc8db053eae1e5a5cb2e53c305d",
+          "quote": "an immigration program that lets an employer hire foreign workers that can reside permanently in the US"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "d42839099eea678c9d072ae965e444b54ae8cdbf",
+          "quote": "U.S. suspends green card path for H-1B workers at Microsoft and Adobe — labor certification program blocked due to alleged fraud"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

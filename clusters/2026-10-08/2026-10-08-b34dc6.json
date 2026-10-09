@@ -1,0 +1,88 @@
+{
+  "anchor": "04db534cf440c9c46d50ca2af6bbd95aa17af862",
+  "id": "2026-10-08-b34dc6",
+  "items": [
+    {
+      "item_id": "04db534cf440c9c46d50ca2af6bbd95aa17af862",
+      "lede": "Amazon has launched three new tablets that come with Alexa+.",
+      "outlet": "engadget",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/"
+    },
+    {
+      "item_id": "20b7acaf81c813e215f42911a5fe6577220ca46b",
+      "lede": "Amazon's best tablet ever didn't have to work hard for the title, but a new nanomatte screen and Kindle mode sweeten the deal.",
+      "outlet": "engadget",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon Alexa Tablet 12 Pro vs Amazon Fire HD 10: What's changed, and is the upgrade worth it?",
+      "url": "https://www.engadget.com/2280791/amazon-alexa-tablet-12-pro-vs-fire-hd-10-what-changed/"
+    },
+    {
+      "item_id": "31ca1ededae04537c79f86afd82fe3562c78ead0",
+      "lede": "It's a promising tablet that starts at about $500.",
+      "outlet": "engadget",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon Alexa Tablet 12 Pro hands-on: Taking aim at the iPad Pro for less than half the price",
+      "url": "https://www.engadget.com/2280787/amazon-alexa-tablet-12-pro-hands-on/"
+    },
+    {
+      "item_id": "41f42b68cd64b22b36d6702968ff312fa942b4d7",
+      "lede": "You'll be able to access Google Play and its apps on the new Amazon Alexa tablets.",
+      "outlet": "engadget",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon's new Alexa tablets will have full access to Google Play",
+      "url": "https://www.engadget.com/2280936/amazon-alexa-tablets-access-google-play/"
+    },
+    {
+      "item_id": "73bf84b20c34279c9a4efc8245a7782097d2b01f",
+      "lede": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
+      "outlet": "techcrunch",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
+      "url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/"
+    },
+    {
+      "item_id": "8ead36e0567506d6856a43f39af802bd155da56e",
+      "lede": "The new Amazon Kids Tablets come in two sizes and can be bundled with one of two styles of case.",
+      "outlet": "engadget",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon is releasing kids' versions of its new Alexa Tablets",
+      "url": "https://www.engadget.com/2280730/amazon-is-releasing-kids-versions-of-its-new-alexa-tablets/"
+    },
+    {
+      "item_id": "9d095d7304bf2cab67bdfd9c32742e2afef8d9f6",
+      "lede": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.",
+      "outlet": "wired",
+      "published": "2026-10-08T13:00:00Z",
+      "title": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
+      "url": "https://www.wired.com/story/amazon-alexa-tablets-2026/"
+    },
+    {
+      "item_id": "30dbaa4e51a177780604151cc3c4331193fd0be3",
+      "lede": "Amazon killed its app store, so Google Play it is.",
+      "outlet": "arstechnica",
+      "published": "2026-10-08T16:32:46Z",
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/"
+    },
+    {
+      "item_id": "a8cdb7b069e3348e8df2574320a03203e6a27cc0",
+      "lede": "In an interview with Bloomberg, Amazon's head of consumer electronics, Panos Panay, confirmed the company would phase out the Fire brand in favor of Alexa Tablets. The new lineup runs proper Android, instead of the custom Fire OS, and has full access to the Play Store, which wasn't available on Fire tablets. To make matters [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T16:34:57Z",
+      "title": "Amazon is phasing out Fire Tablets because they weren\u2019t \u2018giving customers what they were asking for\u2019",
+      "url": "https://www.theverge.com/tech/1008059/amazon-phasing-out-fire-tablet-panos-panay"
+    },
+    {
+      "item_id": "19ff83c902762dfd333f940784f8a9ba0c1436aa",
+      "lede": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
+      "outlet": "engadget",
+      "published": "2026-10-08T21:40:59Z",
+      "title": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+      "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

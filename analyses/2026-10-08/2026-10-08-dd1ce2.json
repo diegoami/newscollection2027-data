@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-08-dd1ce2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Software pioneer Margaret Hamilton dies at 90",
+  "summary": "Margaret Hamilton, whose team's code kept Apollo 11's Moon landing on course, has died at 90. She also coined the term 'software engineering' and founded two software companies.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Margaret Hamilton, the software pioneer behind Apollo 11's guidance code, died at 90.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "e41b77ede3a6501ff4cf188f4bdf858ef40d4d84",
+          "quote": "Margaret Hamilton, software pioneer who helped put humans on the Moon, dies at 90"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Her team's code kept Apollo 11's landing on course when the guidance computer became overloaded.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "e41b77ede3a6501ff4cf188f4bdf858ef40d4d84",
+          "quote": "Her team's code kept Apollo 11's landing on course when the guidance computer became overloaded"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Hamilton also coined the term 'software engineering' and founded two successful software companies.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "87023935733fbc8e0fe848151354b9c28f9648e9",
+          "quote": "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

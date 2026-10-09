@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-08-525fe9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "FBI seizes domains used by Chinese state hacking tools",
+  "summary": "The FBI seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to run two hacking tools, MicroScan and FishHub, which breached critical infrastructure worldwide since 2021. Seven governments warned of the broader Chinese spying campaign.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The FBI seized seven domains used by the Flax Typhoon group's hacking tools, MicroScan and FishHub.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "290af517c244057778844167419bd31a5e6be666",
+          "quote": "FBI disrupts Chinese hacking tools used to breach critical infrastructure"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "290af517c244057778844167419bd31a5e6be666",
+          "quote": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Seven governments warned of PRC spies stealing sensitive data worldwide as part of the disruption.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "dab4d8e4a33fe928e4170e5dce30a0929d4097cf",
+          "quote": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The tools had been infecting devices since 2021 until the FBI intervened.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "dab4d8e4a33fe928e4170e5dce30a0929d4097cf",
+          "quote": "Infecting devices from 2021 until the FBI stepped in"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

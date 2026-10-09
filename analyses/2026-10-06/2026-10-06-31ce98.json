@@ -1,1 +1,110 @@
-{"cluster_id": "2026-10-06-31ce98", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-07T02:40:00Z", "headline": "ASOS hit by extortion hack via rogue push notifications", "summary": "Hackers sent unauthorized push notifications through ASOS's app claiming to have stolen customer data from its Snowflake environment; ASOS confirmed a breach, though theft of customer data remains unverified.", "claims": [{"id": "c1", "statement": "Hackers sent unauthorized 'HACKED' push notifications through the ASOS app claiming a Snowflake data compromise.", "sources": [{"outlet": "bbc-technology", "item_id": "2e97bcbac4760df938a67e9ebd3ac273093c724c", "quote": "Dozens of people appear to have received a strange message from the clothing and beauty store's app."}, {"outlet": "bleepingcomputer", "item_id": "462de0e933caeaff828442896e5f15576a850c9b", "quote": "ASOS confirms data breach after “HACKED” in-app notifications"}]}, {"id": "c2", "statement": "ASOS confirmed a data breach after the rogue notifications, which claimed customer data was stolen from its Snowflake environment.", "sources": [{"outlet": "bleepingcomputer", "item_id": "462de0e933caeaff828442896e5f15576a850c9b", "quote": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment."}]}, {"id": "c3", "statement": "Whether customer data was actually stolen remains unverified.", "sources": [{"outlet": "theregister", "item_id": "4e716b804a63e6f8512ff63b06b361fe36a73de9", "quote": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-06-31ce98",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "ASOS confirms data breach after rogue hacker notifications",
+  "summary": "Hackers sent rogue push notifications through the ASOS app claiming they had compromised its Snowflake cloud environment. ASOS confirmed a breach and later traced it to a social-engineering and credential-theft attack, warning customers that names, addresses, phone numbers, emails and customer numbers were exposed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers sent rogue push notifications through the ASOS app announcing the attack.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "2e97bcbac4760df938a67e9ebd3ac273093c724c",
+          "quote": "Dozens of people appear to have received a strange message from the clothing and beauty store's app."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "965ff2eda4d2a7f44791859d194f58e04c96baf3",
+          "quote": "The attackers sent a push notification to Asos shoppers announcing their activity."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "ASOS confirmed a data breach after the rogue notifications.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6b355b449f980b9229ed1cb96e0c4a32880fcbe4",
+          "quote": "Asos confirms breach of customer data after hackers send rogue app notification"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "462de0e933caeaff828442896e5f15576a850c9b",
+          "quote": "ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The hackers claimed to have compromised ASOS's Snowflake cloud environment.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
+          "quote": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "462de0e933caeaff828442896e5f15576a850c9b",
+          "quote": "claiming to have stolen customer data from the company's Snowflake environment"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "ASOS later linked the breach to a social-engineering attack involving credential theft.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "0e1aec287d5b44f93026460488aa827454fd8ec6",
+          "quote": "ASOS links data breach to social engineering attack, credential theft"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "0e1aec287d5b44f93026460488aa827454fd8ec6",
+          "quote": "confirming that hackers accessed some personal data"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The exposed data includes customers' names, addresses, phone numbers, emails and customer numbers.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "6f982583b5280cc90939d9d563a131893442f550",
+          "quote": "Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Early coverage described the theft claim as unverified, while later reports confirm personal customer data was actually accessed.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
+          "quote": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "6f982583b5280cc90939d9d563a131893442f550",
+          "quote": "Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals."
+        }
+      ],
+      "claim_ids": [
+        "c3",
+        "c5"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

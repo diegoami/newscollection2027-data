@@ -59,6 +59,14 @@
       "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
     },
     {
+      "item_id": "fb0ae928b7fe3536307ba60b349bafa01e45b6b7",
+      "lede": "Yes, it's just a premium laptop. But it sure looks pretty.",
+      "outlet": "engadget",
+      "published": "2026-10-07T18:43:19Z",
+      "title": "Surface Laptop Ultra hands-on: A beautiful beast powered by NVIDIA's RTX Spark",
+      "url": "https://www.engadget.com/2280417/surface-laptop-ultra-hands-on-a-beautiful-beast-powered-by-nvidias-rtx-spark/"
+    },
+    {
       "item_id": "12d3310e4ae6453375817acbed053899c4203019",
       "lede": "The first array of laptops powered by Nvidia's new RTX Spark chip are designed to compete with high-end MacBook Pros - and they've got some high-end prices to match. The flagship Surface Laptop Ultra and RTX Spark laptops from Dell, Lenovo, MSI, HP, and Asus start as low as $2,599 for configurations with an 18-core [\u2026]",
       "outlet": "theverge",
@@ -89,8 +97,24 @@
       "published": "2026-10-07T22:52:39Z",
       "title": "Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here \u2014 starting at $2,599",
       "url": "https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models"
+    },
+    {
+      "item_id": "1454ba5df953246f8d39f052bf0fabcf3c1dd9da",
+      "lede": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia\u2019s new RTX Spark chip and up to 128GB of unified memory \u2013 and it\u2019s priced for power users.",
+      "outlet": "zdnet",
+      "published": "2026-10-08T04:21:00Z",
+      "title": "Microsoft\u2019s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/"
+    },
+    {
+      "item_id": "65783989ef6eff0666aefb7864bebafa7ccc86b0",
+      "lede": "What the f?",
+      "outlet": "theregister",
+      "published": "2026-10-08T09:44:00Z",
+      "title": "Microsoft unveils 'Surace' Laptop Ultra",
+      "url": "https://www.theregister.com/offbeat/2026/10/08/microsoft-unveils-surace-laptop-ultra/5301882"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

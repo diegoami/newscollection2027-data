@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-10-07-f48503",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Teenage Engineering to stop making synthesizers",
+  "summary": "Teenage Engineering's CEO said the company plans to stop making synthesizers, including its iconic OP-1, to focus on other projects.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Teenage Engineering's CEO said the company will stop making synths.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "299d3d5a2577c3606a45d02001ce6b2b15fac943",
+          "quote": "Teenage Engineering’s CEO says it’ll stop making synths"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e730ca5cb214b3c688c5d69d494328bbb48cdd22",
+          "quote": "Teenage Engineering will stop making synths"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "That includes the company's iconic OP-1 synth.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "299d3d5a2577c3606a45d02001ce6b2b15fac943",
+          "quote": "that includes the iconic OP-1, which put the company on the map"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

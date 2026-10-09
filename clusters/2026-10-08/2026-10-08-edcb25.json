@@ -1,0 +1,56 @@
+{
+  "anchor": "4b2c230c44bd040a16b7b19b2502fecafe50b7d1",
+  "id": "2026-10-08-edcb25",
+  "items": [
+    {
+      "item_id": "4b2c230c44bd040a16b7b19b2502fecafe50b7d1",
+      "lede": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+      "outlet": "techcrunch",
+      "published": "2026-10-08T15:42:26Z",
+      "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+      "url": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/"
+    },
+    {
+      "item_id": "d6e8d47297c1ecc8db053eae1e5a5cb2e53c305d",
+      "lede": "The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Vance claimed the permanent labor certification program - intended for use when there aren't \"sufficient\" US [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-08T16:57:27Z",
+      "title": "Trump administration says Microsoft \u2018abused\u2019 worker visa program and is cutting off access",
+      "url": "https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance"
+    },
+    {
+      "item_id": "d42839099eea678c9d072ae965e444b54ae8cdbf",
+      "lede": "U.S. suspends green card path for H-1B workers at Microsoft, Adobe, and IT outsourcing companies \u2014 PERM program blocked due to alleged fraud",
+      "outlet": "tomshardware",
+      "published": "2026-10-08T17:26:07Z",
+      "title": "U.S. suspends green card path for H-1B workers at Microsoft and Adobe \u2014 labor certification program blocked due to alleged fraud",
+      "url": "https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud"
+    },
+    {
+      "item_id": "394e1dfae3e2eff6282a8eec678a68d134893214",
+      "lede": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
+      "outlet": "engadget",
+      "published": "2026-10-08T18:23:00Z",
+      "title": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
+      "url": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/"
+    },
+    {
+      "item_id": "ab39f2df731664497cf3a4c36409c02b99c438ca",
+      "lede": "\u201cThere has been no company in the United States, unfortunately, that has abused this system more than Microsoft,\u201d Vice President JD Vance said on Thursday.",
+      "outlet": "wired",
+      "published": "2026-10-08T19:11:45Z",
+      "title": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
+      "url": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/"
+    },
+    {
+      "item_id": "bca7e0dbe20ea95a8df0d451f8752342fd4925b9",
+      "lede": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-08T21:37:35Z",
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

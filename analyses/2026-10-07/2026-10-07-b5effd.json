@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-07-b5effd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-09T02:35:14Z",
+  "headline": "Microsoft overhauls Windows Search into a chatbot",
+  "summary": "Microsoft is testing a redesigned Windows Search that is faster and more capable, turning it into a Copilot-powered chatbot experience. The new search arrives this fall.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft is testing a redesigned, faster, more capable Windows Search.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "774dffdae717cac75df59a16d03b9f3efbf5b024",
+          "quote": "A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The redesign turns Windows Search into a chatbot-like Copilot search experience.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a88898a64ed8e731de45c0be17a588fa7a7429c6",
+          "quote": "Microsoft may have finally fixed Windows search by turning it into a chatbot"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Copilot search redesign arrives this fall.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a88898a64ed8e731de45c0be17a588fa7a7429c6",
+          "quote": "Microsoft's Copilot search redesign arrives this fall."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

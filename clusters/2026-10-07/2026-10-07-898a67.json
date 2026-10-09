@@ -1,0 +1,24 @@
+{
+  "anchor": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+  "id": "2026-10-07-898a67",
+  "items": [
+    {
+      "item_id": "054bfa86a51fe381b28e421bdfb7da5d3df0f191",
+      "lede": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-07T23:04:37Z",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/"
+    },
+    {
+      "item_id": "2aed15987fdbc66ad180a4abba2545930bea309e",
+      "lede": "Feds claim he charged clients more than ransoms, paid up, pocketed the difference",
+      "outlet": "theregister",
+      "published": "2026-10-08T02:29:55Z",
+      "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

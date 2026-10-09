@@ -25,8 +25,16 @@
       "published": "2026-10-07T20:34:17Z",
       "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
       "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o"
+    },
+    {
+      "item_id": "d84f51a9ad71d5c00bd05a0678b9069d40fa5280",
+      "lede": "After extensive testing, Common Sense Media found the chatbot failed in five key areas.",
+      "outlet": "engadget",
+      "published": "2026-10-08T20:36:46Z",
+      "title": "Child safety group calls ChatGPT for Teens an unacceptable risk",
+      "url": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
