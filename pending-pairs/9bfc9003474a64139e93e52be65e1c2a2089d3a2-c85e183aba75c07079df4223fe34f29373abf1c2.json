@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9bfc9003474a64139e93e52be65e1c2a2089d3a2",
+    "lede": "Trusted brand impersonation without the usual browser certificate warnings spells trouble",
+    "outlet": "theregister",
+    "published": "2026-10-07T19:38:06Z",
+    "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs",
+    "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718"
+  },
+  "b": {
+    "item_id": "c85e183aba75c07079df4223fe34f29373abf1c2",
+    "lede": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T20:31:37Z",
+    "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/"
+  },
+  "score": 0.570451
+}

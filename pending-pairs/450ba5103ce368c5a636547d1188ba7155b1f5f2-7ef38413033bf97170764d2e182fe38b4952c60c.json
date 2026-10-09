@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "450ba5103ce368c5a636547d1188ba7155b1f5f2",
+    "lede": "Low-band frequencies can reach devices inside buildings, while 2 GHz orbiters could extend coverage beyond cell towers",
+    "outlet": "theregister",
+    "published": "2026-10-09T15:55:31Z",
+    "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+    "url": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393"
+  },
+  "b": {
+    "item_id": "7ef38413033bf97170764d2e182fe38b4952c60c",
+    "lede": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+    "outlet": "arstechnica",
+    "published": "2026-10-09T18:24:39Z",
+    "title": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+    "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/"
+  },
+  "score": 0.673339
+}

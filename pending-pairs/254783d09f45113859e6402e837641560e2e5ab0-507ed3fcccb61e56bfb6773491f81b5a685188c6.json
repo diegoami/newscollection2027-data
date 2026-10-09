@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "254783d09f45113859e6402e837641560e2e5ab0",
+    "lede": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-09T21:50:00Z",
+    "title": "Decade-old RAM is making a comeback",
+    "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+  },
+  "b": {
+    "item_id": "507ed3fcccb61e56bfb6773491f81b5a685188c6",
+    "lede": "The new method allows access using standard memory semantics instead of as a block device, drastically improving performance.",
+    "outlet": "tomshardware",
+    "published": "2026-10-07T16:20:00Z",
+    "title": "New Linux tech compresses memory in RAM, as RAM, for 452x speedup",
+    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads"
+  },
+  "score": 0.593551
+}

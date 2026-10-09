@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5df45c5813134c05046eba61d2023a538cec2fb2",
+    "lede": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
+    "outlet": "arstechnica",
+    "published": "2026-10-09T22:04:07Z",
+    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+  },
+  "b": {
+    "item_id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+    "lede": "Putin this cloud region back into operation might not be possible, says Yandex",
+    "outlet": "theregister",
+    "published": "2026-10-09T00:08:52Z",
+    "title": "Ukrainian drone attack takes out Russian datacenter",
+    "url": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+  },
+  "score": 0.5709
+}

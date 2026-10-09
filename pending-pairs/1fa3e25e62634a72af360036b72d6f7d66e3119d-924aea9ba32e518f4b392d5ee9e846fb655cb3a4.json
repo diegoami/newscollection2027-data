@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fa3e25e62634a72af360036b72d6f7d66e3119d",
+    "lede": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T14:01:11Z",
+    "title": "How to keep AI agents within their permissions",
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
+  },
+  "b": {
+    "item_id": "924aea9ba32e518f4b392d5ee9e846fb655cb3a4",
+    "lede": "Tokens transmitted in metadata, weak VM isolation, and expansive permissions make hacking a lot easier",
+    "outlet": "theregister",
+    "published": "2026-10-09T19:15:48Z",
+    "title": "AWS AgentCore security undone by prompt requesting credentials",
+    "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
+  },
+  "score": 0.608133
+}

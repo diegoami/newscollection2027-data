@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6794814fc09c1a8f16e13d5268c6829e59342203",
+    "lede": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "outlet": "techcrunch",
+    "published": "2026-10-09T19:36:56Z",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+  },
+  "b": {
+    "item_id": "ff7e4723ec7bc12881580846248a6f6fbd13b59e",
+    "lede": "Thankfully, it does not seem to have diverted police resources.",
+    "outlet": "engadget",
+    "published": "2026-10-09T20:00:30Z",
+    "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+    "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/"
+  },
+  "score": 0.671644
+}
