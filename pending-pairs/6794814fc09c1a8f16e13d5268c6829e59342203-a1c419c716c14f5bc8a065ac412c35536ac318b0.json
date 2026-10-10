@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6794814fc09c1a8f16e13d5268c6829e59342203",
+    "lede": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "outlet": "techcrunch",
+    "published": "2026-10-09T19:36:56Z",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+  },
+  "b": {
+    "item_id": "a1c419c716c14f5bc8a065ac412c35536ac318b0",
+    "lede": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
+    "outlet": "engadget",
+    "published": "2026-10-10T17:49:49Z",
+    "title": "Anthropic says its AI agents tried to break into government websites",
+    "url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/"
+  },
+  "score": 0.584849
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0decde66c5ee642f4b2199f4eac556d234595585",
+    "lede": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T14:41:16Z",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+  },
+  "b": {
+    "item_id": "6794814fc09c1a8f16e13d5268c6829e59342203",
+    "lede": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "outlet": "techcrunch",
+    "published": "2026-10-09T19:36:56Z",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+  },
+  "score": 0.596142
+}
