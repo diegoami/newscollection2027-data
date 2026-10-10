@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "370e2420e8a2e0d55d6495d7e465137c98be4c59",
+    "lede": "Suspected Chinese speaker used Claude Code and agentic pentesting tool ARTEX in attacks on South Korean lenders",
+    "outlet": "theregister",
+    "published": "2026-10-08T13:27:00Z",
+    "title": "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
+    "url": "https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908"
+  },
+  "b": {
+    "item_id": "bef374d68721303c54830c4056cf0d5e24e447a6",
+    "lede": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-10T14:16:17Z",
+    "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/"
+  },
+  "score": 0.672187
+}

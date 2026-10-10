@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+    "lede": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T13:00:00Z",
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+  },
+  "b": {
+    "item_id": "e9412c80c28c7ff9794c6168e79e3f2381fa0cc5",
+    "lede": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "outlet": "techcrunch",
+    "published": "2026-10-08T16:00:00Z",
+    "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/"
+  },
+  "score": 0.606801
+}

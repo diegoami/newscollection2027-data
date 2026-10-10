@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "290af517c244057778844167419bd31a5e6be666",
+    "lede": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T21:42:51Z",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+  },
+  "b": {
+    "item_id": "5d6a58b64149d79d122f2d33aaaeb1ae95d65917",
+    "lede": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-10T15:07:54Z",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+  },
+  "score": 0.59158
+}

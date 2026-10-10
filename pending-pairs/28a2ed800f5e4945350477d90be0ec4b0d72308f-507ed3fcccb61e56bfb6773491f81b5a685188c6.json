@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "28a2ed800f5e4945350477d90be0ec4b0d72308f",
+    "lede": "RAM and ROM are two core types of memory used in every computing device, but their meanings haven't stayed the same since their inception.",
+    "outlet": "engadget",
+    "published": "2026-10-10T12:30:00Z",
+    "title": "What's the difference between RAM and ROM memory?",
+    "url": "https://www.engadget.com/2278535/ram-vs-rom-difference-between-memory-types/"
+  },
+  "b": {
+    "item_id": "507ed3fcccb61e56bfb6773491f81b5a685188c6",
+    "lede": "The new method allows access using standard memory semantics instead of as a block device, drastically improving performance.",
+    "outlet": "tomshardware",
+    "published": "2026-10-07T16:20:00Z",
+    "title": "New Linux tech compresses memory in RAM, as RAM, for 452x speedup",
+    "url": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads"
+  },
+  "score": 0.613722
+}

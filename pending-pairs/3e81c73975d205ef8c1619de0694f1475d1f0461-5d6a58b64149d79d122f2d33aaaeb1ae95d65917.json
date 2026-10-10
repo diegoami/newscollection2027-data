@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3e81c73975d205ef8c1619de0694f1475d1f0461",
+    "lede": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T17:02:29Z",
+    "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/"
+  },
+  "b": {
+    "item_id": "5d6a58b64149d79d122f2d33aaaeb1ae95d65917",
+    "lede": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-10T15:07:54Z",
+    "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+  },
+  "score": 0.734
+}
