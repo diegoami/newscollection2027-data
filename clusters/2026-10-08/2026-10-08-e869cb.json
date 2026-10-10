@@ -1,0 +1,24 @@
+{
+  "anchor": "c0e503759a5d1a555b46295ed09765e5905cae71",
+  "id": "2026-10-08-e869cb",
+  "items": [
+    {
+      "item_id": "c0e503759a5d1a555b46295ed09765e5905cae71",
+      "lede": "\"With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.\"",
+      "outlet": "engadget",
+      "published": "2026-10-08T21:50:20Z",
+      "title": "IDC: Worldwide PC shipments in Q3 fell 20 percent from last year",
+      "url": "https://www.engadget.com/2281788/idc-worldwide-pc-shipments-in-q3-fell-20-percent-from-last-year/"
+    },
+    {
+      "item_id": "417ef50af1b0286360e3ff660cee5c029e22eaed",
+      "lede": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "outlet": "arstechnica",
+      "published": "2026-10-09T18:54:52Z",
+      "title": "PC shipments fall 20.1 percent in \u201csharpest decline\u201d since Q1 2023",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

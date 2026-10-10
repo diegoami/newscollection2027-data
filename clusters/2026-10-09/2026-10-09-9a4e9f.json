@@ -1,0 +1,24 @@
+{
+  "anchor": "b08bd5352fa4959ec178b821fa2a42e5904210a3",
+  "id": "2026-10-09-9a4e9f",
+  "items": [
+    {
+      "item_id": "b08bd5352fa4959ec178b821fa2a42e5904210a3",
+      "lede": "Gigabyte confirms BIOS support for upcoming Intel LGA 1700 processors on B760 and H610 motherboards, with the rumored Raptor Lake Next lineup expected in early 2027 to support both DDR4 and DDR5 memory.",
+      "outlet": "tomshardware",
+      "published": "2026-10-09T13:43:01Z",
+      "title": "Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027",
+      "url": "https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory"
+    },
+    {
+      "item_id": "ebb9159bd7b7a1f6d3b08f7a1e9a15b49a65e40d",
+      "lede": "If you guessed the RAMpocalypse is involved...",
+      "outlet": "engadget",
+      "published": "2026-10-09T17:01:36Z",
+      "title": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory",
+      "url": "https://www.engadget.com/2282431/intel-is-reportedly-launching-new-cpus-on-old-sockets-that-support-ddr4-memory/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

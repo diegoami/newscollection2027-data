@@ -1,0 +1,24 @@
+{
+  "anchor": "0be4f33f255d63ff7485da444448ff1ee6e99396",
+  "id": "2026-10-09-4b2e91",
+  "items": [
+    {
+      "item_id": "0be4f33f255d63ff7485da444448ff1ee6e99396",
+      "lede": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-09T15:32:30Z",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo"
+    },
+    {
+      "item_id": "f11f2c288c2c95659a57045a8f4145a4e8126ca4",
+      "lede": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-09T18:06:57Z",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

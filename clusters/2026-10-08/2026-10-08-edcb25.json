@@ -49,8 +49,24 @@
       "published": "2026-10-08T21:37:35Z",
       "title": "White House blocks Microsoft from foreign worker hiring program",
       "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo"
+    },
+    {
+      "item_id": "48e99e0e88a7a7a115f577397d77c65e676202fe",
+      "lede": "As Microsoft denies alleged \u2018fraud and abuse\u2019 that sparked the tweaks",
+      "outlet": "theregister",
+      "published": "2026-10-09T03:17:29Z",
+      "title": "India\u2019s tech giants shrug off changes to USA\u2019s skilled visa program",
+      "url": "https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154"
+    },
+    {
+      "item_id": "c76b8fe471ba3d350ec033602eb9dcc8355b719c",
+      "lede": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "outlet": "arstechnica",
+      "published": "2026-10-09T13:14:33Z",
+      "title": "Microsoft barred from sponsoring foreign workers for US residency",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

@@ -1,0 +1,32 @@
+{
+  "anchor": "5228d89aa0061490d8599b4b97feeea685adb0d2",
+  "id": "2026-10-08-3b65f9",
+  "items": [
+    {
+      "item_id": "5228d89aa0061490d8599b4b97feeea685adb0d2",
+      "lede": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+      "outlet": "tomshardware",
+      "published": "2026-10-08T13:46:56Z",
+      "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike"
+    },
+    {
+      "item_id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+      "lede": "Putin this cloud region back into operation might not be possible, says Yandex",
+      "outlet": "theregister",
+      "published": "2026-10-09T00:08:52Z",
+      "title": "Ukrainian drone attack takes out Russian datacenter",
+      "url": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+    },
+    {
+      "item_id": "5df45c5813134c05046eba61d2023a538cec2fb2",
+      "lede": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
+      "outlet": "arstechnica",
+      "published": "2026-10-09T22:04:07Z",
+      "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "anchor": "c9efa01bf0436b80e4a2fa18e302de3cac71abb8",
+  "id": "2026-10-08-487cae",
+  "items": [
+    {
+      "item_id": "c9efa01bf0436b80e4a2fa18e302de3cac71abb8",
+      "lede": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
+      "outlet": "techcrunch",
+      "published": "2026-10-08T20:04:26Z",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+    },
+    {
+      "item_id": "49be3bd074162bd8b3111ef994a83e90c70cbf0d",
+      "lede": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees.",
+      "outlet": "engadget",
+      "published": "2026-10-09T08:25:18Z",
+      "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+      "url": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/"
+    },
+    {
+      "item_id": "7dc4c6c890d004965ebc0ffa538187aefe9dd3aa",
+      "lede": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-09T09:30:49Z",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo"
+    },
+    {
+      "item_id": "15717a6b7c9a1b047c70cda2f0ac956421670e2d",
+      "lede": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita \u2060Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-09T09:48:26Z",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

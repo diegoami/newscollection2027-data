@@ -1,0 +1,32 @@
+{
+  "anchor": "84b489f56ff3ca9e8415cded5f6af6218e52c552",
+  "id": "2026-10-08-bc2a6d",
+  "items": [
+    {
+      "item_id": "84b489f56ff3ca9e8415cded5f6af6218e52c552",
+      "lede": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+      "outlet": "zdnet",
+      "published": "2026-10-08T18:56:22Z",
+      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+      "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/"
+    },
+    {
+      "item_id": "8afe53ea97764073090ea97ccbf8d545b3ebc724",
+      "lede": "This effectively increases the costs for large users, although it may benefit those who have family members that don't take up much cloud storage space.",
+      "outlet": "tomshardware",
+      "published": "2026-10-09T12:51:59Z",
+      "title": "Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages",
+      "url": "https://www.tomshardware.com/software/cloud-storage/microsoft-365-slashes-storage-capacity-for-shared-accounts-amid-industry-wide-shortages-2tb-limit-to-take-effect-after-april-2027"
+    },
+    {
+      "item_id": "3a6ac94ae25f98777d725f60609c830207a609bf",
+      "lede": "What Microsoft giveth, Microsoft taketh away, again and again",
+      "outlet": "theregister",
+      "published": "2026-10-09T16:14:17Z",
+      "title": "Microsoft 365 subscribers set to lose up to 4TB of OneDrive storage",
+      "url": "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4tb-of-onedrive-storage/5302380"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

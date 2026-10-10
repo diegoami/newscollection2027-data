@@ -1,0 +1,24 @@
+{
+  "anchor": "6149627e14ff487eca12a70f7de2e0408351a2dc",
+  "id": "2026-10-09-a9588b",
+  "items": [
+    {
+      "item_id": "6149627e14ff487eca12a70f7de2e0408351a2dc",
+      "lede": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+      "outlet": "techcrunch",
+      "published": "2026-10-09T16:07:26Z",
+      "title": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/"
+    },
+    {
+      "item_id": "dee2ef38a88e43148382baf01c4b0ff983cbf7f7",
+      "lede": "The automaker has been criticized for misleading drivers with the feature\u2019s name. Now it\u2019s renaming it for European regulators.",
+      "outlet": "wired",
+      "published": "2026-10-09T20:18:15Z",
+      "title": "Tesla\u2019s \u2018Full Self-Driving\u2019 Becomes \u2018Assisted Driving\u2019 in Europe",
+      "url": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
