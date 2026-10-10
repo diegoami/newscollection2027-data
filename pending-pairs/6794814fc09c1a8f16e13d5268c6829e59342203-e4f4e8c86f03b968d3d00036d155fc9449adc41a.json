@@ -8,12 +8,12 @@
     "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
   },
   "b": {
-    "item_id": "ff7e4723ec7bc12881580846248a6f6fbd13b59e",
-    "lede": "Thankfully, it does not seem to have diverted police resources.",
-    "outlet": "engadget",
-    "published": "2026-10-09T20:00:30Z",
-    "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
-    "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/"
+    "item_id": "e4f4e8c86f03b968d3d00036d155fc9449adc41a",
+    "lede": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-10T10:06:23Z",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
   },
-  "score": 0.671643
+  "score": 0.588806
 }
