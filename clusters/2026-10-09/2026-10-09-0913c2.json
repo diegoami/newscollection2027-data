@@ -25,8 +25,40 @@
       "published": "2026-10-09T21:15:38Z",
       "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+    },
+    {
+      "item_id": "cf5de6151a45fb1f5c6399db2b389914b4b7935e",
+      "lede": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "outlet": "techcrunch",
+      "published": "2026-10-10T00:18:32Z",
+      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+    },
+    {
+      "item_id": "e4f4e8c86f03b968d3d00036d155fc9449adc41a",
+      "lede": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-10T10:06:23Z",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
+    },
+    {
+      "item_id": "0decde66c5ee642f4b2199f4eac556d234595585",
+      "lede": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-10T14:41:16Z",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+    },
+    {
+      "item_id": "a1c419c716c14f5bc8a065ac412c35536ac318b0",
+      "lede": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
+      "outlet": "engadget",
+      "published": "2026-10-10T17:49:49Z",
+      "title": "Anthropic says its AI agents tried to break into government websites",
+      "url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
