@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+    "lede": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-11T13:15:09Z",
+    "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers"
+  },
+  "b": {
+    "item_id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+    "lede": "Putin this cloud region back into operation might not be possible, says Yandex",
+    "outlet": "theregister",
+    "published": "2026-10-09T00:08:52Z",
+    "title": "Ukrainian drone attack takes out Russian datacenter",
+    "url": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+  },
+  "score": 0.660282
+}

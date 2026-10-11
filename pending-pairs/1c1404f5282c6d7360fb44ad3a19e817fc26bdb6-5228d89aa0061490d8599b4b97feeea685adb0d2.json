@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+    "lede": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-11T13:15:09Z",
+    "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers"
+  },
+  "b": {
+    "item_id": "5228d89aa0061490d8599b4b97feeea685adb0d2",
+    "lede": "No more AI training in Russia? Destiny of two Nvidia-powered Russian supercomputers is unknown as drones hit Yandex data center in Sasovo.",
+    "outlet": "tomshardware",
+    "published": "2026-10-08T13:46:56Z",
+    "title": "Ukrainian drones hit Russia's Yandex data centers housing two top supercomputers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russias-yandex-data-centers-housing-two-top-supercomputers-major-outage-follows-retaliatory-strike"
+  },
+  "score": 0.673757
+}

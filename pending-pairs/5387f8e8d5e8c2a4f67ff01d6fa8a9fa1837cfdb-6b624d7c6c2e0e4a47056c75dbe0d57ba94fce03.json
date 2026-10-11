@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5387f8e8d5e8c2a4f67ff01d6fa8a9fa1837cfdb",
+    "lede": "Full-stack safety solution for physical AI is being used by robotics companies.",
+    "outlet": "arstechnica",
+    "published": "2026-10-08T11:15:33Z",
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+  },
+  "b": {
+    "item_id": "6b624d7c6c2e0e4a47056c75dbe0d57ba94fce03",
+    "lede": "Meanwhile, AI agents move robotic arms, 'make OT device operator screens lie'",
+    "outlet": "theregister",
+    "published": "2026-10-11T11:30:00Z",
+    "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+    "url": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
+  },
+  "score": 0.615734
+}

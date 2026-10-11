@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f717943e4ac2fa82d6200927313c8f84bda30da",
+    "lede": "Knowing how long your phone will get updates is important for deciding when to upgrade.",
+    "outlet": "engadget",
+    "published": "2026-10-11T13:15:00Z",
+    "title": "What is the oldest Samsung device that still gets software updates in 2026?",
+    "url": "https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/"
+  },
+  "b": {
+    "item_id": "787e17da78c4227cfdf86a99c0618b63c48947a9",
+    "lede": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T10:12:24Z",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+  },
+  "score": 0.606514
+}

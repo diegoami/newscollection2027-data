@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+    "lede": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-11T13:15:09Z",
+    "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers"
+  },
+  "b": {
+    "item_id": "5df45c5813134c05046eba61d2023a538cec2fb2",
+    "lede": "One damaged data center has supercomputers used for training Yandex\u2019s AI model.",
+    "outlet": "arstechnica",
+    "published": "2026-10-09T22:04:07Z",
+    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+  },
+  "score": 0.621494
+}
