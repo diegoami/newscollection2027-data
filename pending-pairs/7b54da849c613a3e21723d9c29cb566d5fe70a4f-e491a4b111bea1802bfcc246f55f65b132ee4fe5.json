@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7b54da849c613a3e21723d9c29cb566d5fe70a4f",
+    "lede": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+    "outlet": "engadget",
+    "published": "2026-10-10T22:45:00Z",
+    "title": "How to lock apps on your Samsung Galaxy phone",
+    "url": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/"
+  },
+  "b": {
+    "item_id": "e491a4b111bea1802bfcc246f55f65b132ee4fe5",
+    "lede": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-08T19:20:33Z",
+    "title": "Low-cost Android phones ship with residential proxy malware",
+    "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/"
+  },
+  "score": 0.570821
+}
