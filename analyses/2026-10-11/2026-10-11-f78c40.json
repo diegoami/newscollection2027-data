@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-10-11-f78c40",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-12T02:19:18Z",
+  "headline": "Apple's next smart home hub reportedly named HomeView, Bloomberg says",
+  "summary": "Apple's upcoming smart home hub will reportedly be named 'HomeView,' according to Bloomberg's Mark Gurman, with the announcement expected Tuesday. Bloomberg also reports the device will begin shipping in November.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple's upcoming smart home hub will reportedly be named 'HomeView' and announced Tuesday, per Bloomberg's Mark Gurman.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "631a6921cbe695791b3b745db73d2d3e966094cb", "quote": "Apple's smart home hub will reportedly be called HomeView"},
+        {"outlet": "techcrunch", "item_id": "2a599db62b35d5c30955994f943510484b61a5dd", "quote": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Bloomberg reports the HomeView device will begin shipping in November.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "631a6921cbe695791b3b745db73d2d3e966094cb", "quote": "Bloomberg reported that the HomeView device will start shipping in November."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

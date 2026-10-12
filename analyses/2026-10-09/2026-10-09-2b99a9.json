@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-09-2b99a9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-12T02:19:18Z",
+  "headline": "Hobbyists build Cray-1 supercomputer replica from 30 vintage Mac Minis",
+  "summary": "A working replica of the legendary 1975 Cray-1 supercomputer has been built from 30 vintage, 'obsolete' Mac Minis. Ars Technica reports the build is displayed at Spain's Museo de Historia de la Computación as a piece of retro-styled upcycling, while Tom's Hardware reports the replica delivers 1.5 TFLOPS of compute, calling it a tribute showcasing decades of computing innovation.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A working replica of the 1975 Cray-1 supercomputer has been built using 30 vintage/obsolete Mac Minis.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8bf4a74a0b163a55cf6ed4d7d7f70e2b57cc29dc", "quote": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis"},
+        {"outlet": "tomshardware", "item_id": "360c485408a53c0e8061f3fbb60848c88510b646", "quote": "New Cray-1 supercomputer replica built with 30 vintage Mac Minis and packs 1.5 TFLOPS of compute"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ars Technica reports the replica is displayed at Spain's Museo de Historia de la Computación, styled as retro upcycling.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8bf4a74a0b163a55cf6ed4d7d7f70e2b57cc29dc", "quote": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tom's Hardware reports the replica delivers 1.5 TFLOPS of compute.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "360c485408a53c0e8061f3fbb60848c88510b646", "quote": "New Cray-1 supercomputer replica built with 30 vintage Mac Minis and packs 1.5 TFLOPS of compute"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

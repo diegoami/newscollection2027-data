@@ -1,0 +1,24 @@
+{
+  "anchor": "4be79bbc201823d63a62888534f778318b4708e2",
+  "id": "2026-10-09-9c158f",
+  "items": [
+    {
+      "item_id": "4be79bbc201823d63a62888534f778318b4708e2",
+      "lede": "The data drop includes photographs, audio, video, and astronauts\u2019 notes that will be used to study the moon and prepare for future human missions.",
+      "outlet": "wired",
+      "published": "2026-10-09T18:30:00Z",
+      "title": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public",
+      "url": "https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/"
+    },
+    {
+      "item_id": "bba8d46d59629061d4654d0a2f5fcc71bb6bcbb4",
+      "lede": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-11T15:34:40Z",
+      "title": "NASA dumped over 800GB of Artemis II data online",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

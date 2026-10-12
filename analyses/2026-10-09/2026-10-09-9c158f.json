@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-09-9c158f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-12T02:19:18Z",
+  "headline": "NASA releases trove of Artemis II photos, video and audio data to the public",
+  "summary": "NASA this week made a large trove of Artemis II mission data publicly available, including photographs, video, audio and astronauts' notes intended to support study of the Moon and future missions. The data was posted on NASA's 'Artemis II: Sights & Sounds of Science' site and includes more than 11,000 photos and videos and over 8.5 hours of audio. Outlets differ on the total size, citing nearly 1 TB and over 800GB respectively.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "NASA released a large trove of Artemis II mission data to the public this week.",
+      "sources": [
+        {"outlet": "wired", "item_id": "4be79bbc201823d63a62888534f778318b4708e2", "quote": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public"},
+        {"outlet": "theverge", "item_id": "bba8d46d59629061d4654d0a2f5fcc71bb6bcbb4", "quote": "NASA dumped over 800GB of Artemis II data online"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The release includes photographs, audio and video, and astronauts' notes, meant to support study of the Moon and preparation for future human missions.",
+      "sources": [
+        {"outlet": "wired", "item_id": "4be79bbc201823d63a62888534f778318b4708e2", "quote": "The data drop includes photographs, audio, video, and astronauts’ notes that will be used to study the moon and prepare for future human missions."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "NASA posted the data on its 'Artemis II: Sights & Sounds of Science' site, including over 11,000 photos and videos and more than 8.5 hours of audio.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "bba8d46d59629061d4654d0a2f5fcc71bb6bcbb4", "quote": "This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": ["c1"],
+      "explanation": "Wired reports the data release at nearly 1 TB while The Verge reports it at over 800GB for the same release.",
+      "quotes": [
+        {"outlet": "wired", "item_id": "4be79bbc201823d63a62888534f778318b4708e2", "quote": "NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public"},
+        {"outlet": "theverge", "item_id": "bba8d46d59629061d4654d0a2f5fcc71bb6bcbb4", "quote": "NASA dumped over 800GB of Artemis II data online"}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}
