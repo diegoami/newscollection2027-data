@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "36a81e190066e5528fd68fe305d4beaab93a6e8f",
+    "lede": "CPU-only and mixed CPU/GPU configurations due from partners in November",
+    "outlet": "theregister",
+    "published": "2026-10-12T15:51:36Z",
+    "title": "AMD unveils Helion racks for AI agents at OCP summit",
+    "url": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652"
+  },
+  "b": {
+    "item_id": "df51f421615f77584aef619af99d2beb4ed3b09e",
+    "lede": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores.",
+    "outlet": "tomshardware",
+    "published": "2026-10-12T13:00:00Z",
+    "title": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 \u2018Venice\u2019 cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations"
+  },
+  "score": 0.641766
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "40ad52af0b752a258e462a7d956bd6c50ea4aa2c",
+    "lede": "Anthropic says for the next two years, attackers will have the advantage",
+    "outlet": "theregister",
+    "published": "2026-10-08T23:57:40Z",
+    "title": "AI company moves to defend critical infrastructure and open-source projects from AI",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128"
+  },
+  "b": {
+    "item_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+    "lede": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T18:51:59Z",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+  },
+  "score": 0.590073
+}

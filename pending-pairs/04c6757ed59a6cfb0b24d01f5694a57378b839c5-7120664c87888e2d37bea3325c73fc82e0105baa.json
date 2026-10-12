@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04c6757ed59a6cfb0b24d01f5694a57378b839c5",
+    "lede": "The open-source AnyPS5 project has reached 100% GPU shader instruction coverage.",
+    "outlet": "tomshardware",
+    "published": "2026-10-10T11:30:00Z",
+    "title": "AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC",
+    "url": "https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off"
+  },
+  "b": {
+    "item_id": "7120664c87888e2d37bea3325c73fc82e0105baa",
+    "lede": "RafaelNGP released a native Xbox Game Pass app allowing Xbox Cloud Gaming on the PS5, with support for 4 controllers and 4K upscaling on the PS5 GPU.",
+    "outlet": "tomshardware",
+    "published": "2026-10-12T14:46:57Z",
+    "title": "Developer uses Claude to enable Xbox Cloud Gaming on jailbroken PS5s",
+    "url": "https://www.tomshardware.com/video-games/console-gaming/xbox-cloud-gaming-is-now-available-on-jailbroken-ps5s-allows-upscaling-to-4k-using-the-ps5-gpu"
+  },
+  "score": 0.582321
+}

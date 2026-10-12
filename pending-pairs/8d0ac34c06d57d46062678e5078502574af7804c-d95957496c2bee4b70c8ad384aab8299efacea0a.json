@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8d0ac34c06d57d46062678e5078502574af7804c",
+    "lede": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T19:23:01Z",
+    "title": "Yandex confirms service outage as users lose access to cloud files",
+    "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/"
+  },
+  "b": {
+    "item_id": "d95957496c2bee4b70c8ad384aab8299efacea0a",
+    "lede": "Putin this cloud region back into operation might not be possible, says Yandex",
+    "outlet": "theregister",
+    "published": "2026-10-09T00:08:52Z",
+    "title": "Ukrainian drone attack takes out Russian datacenter",
+    "url": "https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137"
+  },
+  "score": 0.626974
+}

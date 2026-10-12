@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cd76646a173ebffd2230641341e09445aa08390f",
+    "lede": "Xandr has three weeks to appeal the record penalty.",
+    "outlet": "engadget",
+    "published": "2026-10-12T18:34:57Z",
+    "title": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
+    "url": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/"
+  },
+  "b": {
+    "item_id": "d0137ba408daed3efe7b8f1997cbc935a8f47d7d",
+    "lede": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T20:13:52Z",
+    "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+    "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/"
+  },
+  "score": 0.735464
+}

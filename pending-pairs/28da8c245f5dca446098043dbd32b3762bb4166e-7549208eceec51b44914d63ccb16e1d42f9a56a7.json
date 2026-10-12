@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
+    "lede": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T16:27:23Z",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+  },
+  "b": {
+    "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+    "lede": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T16:36:44Z",
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+  },
+  "score": 0.831723
+}

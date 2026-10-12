@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5b0bbc20b589187eae42484548ad6132159aa7bf",
+    "lede": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-12T17:00:00Z",
+    "title": "Meta has some Wonder Full new AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+  },
+  "b": {
+    "item_id": "80d24e11891767c43331282351e952860cf84227",
+    "lede": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "outlet": "techcrunch",
+    "published": "2026-10-12T17:56:56Z",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  "score": 0.634008
+}

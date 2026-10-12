@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0decde66c5ee642f4b2199f4eac556d234595585",
+    "lede": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T14:41:16Z",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+  },
+  "b": {
+    "item_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+    "lede": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T18:51:59Z",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+  },
+  "score": 0.657028
+}

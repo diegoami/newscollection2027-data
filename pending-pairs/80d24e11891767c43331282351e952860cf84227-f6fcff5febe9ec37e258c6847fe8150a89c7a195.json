@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80d24e11891767c43331282351e952860cf84227",
+    "lede": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "outlet": "techcrunch",
+    "published": "2026-10-12T17:56:56Z",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  "b": {
+    "item_id": "f6fcff5febe9ec37e258c6847fe8150a89c7a195",
+    "lede": "The models add \"active memory\" and \"active focus\" abilities.",
+    "outlet": "engadget",
+    "published": "2026-10-12T18:51:52Z",
+    "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+    "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/"
+  },
+  "score": 0.573275
+}
