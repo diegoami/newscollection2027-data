@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+    "lede": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T13:00:00Z",
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+  },
+  "b": {
+    "item_id": "12eac3f18bd8be181323969f7683f9f86468a75e",
+    "lede": "Meta and OpenAI's new AI agents are in direct competition. Here's what each can do, what they cost and who has access.",
+    "outlet": "engadget",
+    "published": "2026-10-12T00:00:00Z",
+    "title": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+    "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/"
+  },
+  "score": 0.67125
+}
