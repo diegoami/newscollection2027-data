@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+    "lede": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T13:00:00Z",
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+  },
+  "b": {
+    "item_id": "f35a073890448086210a56d286ed4f1281adabb4",
+    "lede": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-12T13:00:00Z",
+    "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  },
+  "score": 0.584246
+}

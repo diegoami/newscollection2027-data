@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "787e17da78c4227cfdf86a99c0618b63c48947a9",
+    "lede": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T10:12:24Z",
+    "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/"
+  },
+  "b": {
+    "item_id": "fb25f61ae2914f489576cbb62d1171827a39ac74",
+    "lede": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T11:58:33Z",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+  },
+  "score": 0.699207
+}

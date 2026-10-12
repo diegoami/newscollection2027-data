@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8424fb9459d6a97419678b60a6c93b2226091198",
+    "lede": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-12T07:47:37Z",
+    "title": "AI is less regulated than milk, says Microsoft president",
+    "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo"
+  },
+  "b": {
+    "item_id": "d5338cf3ced6d241004c10d4a55ca3e62c7fbc1b",
+    "lede": "Milk can't hack companies and governments like AI definitely can, but it's still subject to more regulation.",
+    "outlet": "engadget",
+    "published": "2026-10-12T09:28:37Z",
+    "title": "Microsoft's president says AI is less regulated than a carton of milk",
+    "url": "https://www.engadget.com/2283487/microsoft-president-ai-less-regulated-than-a-carton-of-milk/"
+  },
+  "score": 0.67515
+}
