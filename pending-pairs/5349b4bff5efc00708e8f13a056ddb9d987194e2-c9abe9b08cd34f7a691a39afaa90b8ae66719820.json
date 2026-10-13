@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5349b4bff5efc00708e8f13a056ddb9d987194e2",
+    "lede": "Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram.",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T18:05:24Z",
+    "title": "Facebook is giving users more control over their algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"
+  },
+  "b": {
+    "item_id": "c9abe9b08cd34f7a691a39afaa90b8ae66719820",
+    "lede": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-13T17:01:31Z",
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+  },
+  "score": 0.712746
+}

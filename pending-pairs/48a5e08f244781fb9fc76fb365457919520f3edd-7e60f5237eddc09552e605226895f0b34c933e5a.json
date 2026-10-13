@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "48a5e08f244781fb9fc76fb365457919520f3edd",
+    "lede": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
+    "outlet": "engadget",
+    "published": "2026-10-13T17:00:00Z",
+    "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+    "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/"
+  },
+  "b": {
+    "item_id": "7e60f5237eddc09552e605226895f0b34c933e5a",
+    "lede": "Google plans to help turn those personal AI-generated apps into wide releases.",
+    "outlet": "arstechnica",
+    "published": "2026-10-13T17:00:39Z",
+    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+  },
+  "score": 0.775988
+}

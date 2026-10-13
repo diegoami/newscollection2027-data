@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ca43aef1e63668cb484179a721ddffbe2ecc8381",
+    "lede": "A cyberattack has hit supermarkets in Europe, disabling refrigerators.",
+    "outlet": "tomshardware",
+    "published": "2026-10-12T11:32:54Z",
+    "title": "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+  },
+  "b": {
+    "item_id": "fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd",
+    "lede": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
+    "outlet": "theregister",
+    "published": "2026-10-13T12:00:00Z",
+    "title": "Cyberattacks crank French supermarket refrigeration systems up to 50\u00b0C",
+    "url": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
+  },
+  "score": 0.579554
+}

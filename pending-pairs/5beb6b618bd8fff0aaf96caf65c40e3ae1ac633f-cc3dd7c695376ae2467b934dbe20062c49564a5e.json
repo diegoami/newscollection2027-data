@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5beb6b618bd8fff0aaf96caf65c40e3ae1ac633f",
+    "lede": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T13:37:19Z",
+    "title": "Apple\u2019s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+    "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
+  },
+  "b": {
+    "item_id": "cc3dd7c695376ae2467b934dbe20062c49564a5e",
+    "lede": "The brand just announced a smart lock with a manual \u2018power dial\u2019 that charges the device in case it dies.",
+    "outlet": "zdnet",
+    "published": "2026-10-10T08:15:00Z",
+    "title": "Ring\u2019s new smart lock has a manual fallback that can\u2019t lock you out \u2013 how it works",
+    "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/"
+  },
+  "score": 0.593371
+}

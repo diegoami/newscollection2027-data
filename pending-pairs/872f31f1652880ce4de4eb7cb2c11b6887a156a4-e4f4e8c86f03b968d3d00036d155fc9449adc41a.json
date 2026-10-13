@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "872f31f1652880ce4de4eb7cb2c11b6887a156a4",
+    "lede": "Anthropic took more than two months to alert cops",
+    "outlet": "theregister",
+    "published": "2026-10-13T17:18:00Z",
+    "title": "Claude submitted fake murder tip to Philly police during summertime testing",
+    "url": "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842"
+  },
+  "b": {
+    "item_id": "e4f4e8c86f03b968d3d00036d155fc9449adc41a",
+    "lede": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-10T10:06:23Z",
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
+  },
+  "score": 0.619049
+}

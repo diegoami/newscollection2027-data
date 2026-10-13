@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "08f07a5f3ca00a27899c1beecef47df64de3c0c3",
+    "lede": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-13T09:34:43Z",
+    "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+    "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko"
+  },
+  "b": {
+    "item_id": "1728782a1e6c5132f53c7c3e384e51b4257b1d00",
+    "lede": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T16:44:18Z",
+    "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+    "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/"
+  },
+  "score": 0.705332
+}

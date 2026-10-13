@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3681a811e2737c129279501ec9feeaad3c903d3c",
+    "lede": "NVIDIA's upscaling software is truly powerful when used in the right situations.",
+    "outlet": "engadget",
+    "published": "2026-10-13T18:30:00Z",
+    "title": "What is NVIDIA DLSS and how does it work?",
+    "url": "https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/"
+  },
+  "b": {
+    "item_id": "85c37b74f5b7880141613d45d58c08a1197d71dc",
+    "lede": "Nvidia has announced that DLSS 5 is now two times faster while using less VRAM.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T12:47:41Z",
+    "title": "Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-dlss-5-performance-reduces-4k-vram-usage-by-20-percent-with-latest-model-october-update-cuts-footprint-by-24-percent-to-roughly-118-million-parameters"
+  },
+  "score": 0.650101
+}

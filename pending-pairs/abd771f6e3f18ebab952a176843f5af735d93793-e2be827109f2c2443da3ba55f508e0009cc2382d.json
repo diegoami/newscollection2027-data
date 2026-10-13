@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "abd771f6e3f18ebab952a176843f5af735d93793",
+    "lede": "Local media reports three weakly protected accounts at small IT biz whose access to national register was abused",
+    "outlet": "theregister",
+    "published": "2026-10-13T11:14:00Z",
+    "title": "'123456' password linked to Denmark data breach affecting 8.8M people",
+    "url": "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726"
+  },
+  "b": {
+    "item_id": "e2be827109f2c2443da3ba55f508e0009cc2382d",
+    "lede": "The Danish Central Register of Persons (CPF) was breached through the account of an IT and data services business. The hacker claimed that one of the breached accounts was only protected by a '123456' password.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T13:30:00Z",
+    "title": "Hacker claims \u2018123456\u2019 password let them breach the Danish national registry, accessing 8.8 million records",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-claims-123456-password-let-them-breach-the-danish-national-registry-accessing-8-8-million-records-it-and-data-services-company-with-weak-passwords-linked-source-of-the-hack"
+  },
+  "score": 0.769666
+}

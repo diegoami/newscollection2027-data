@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6fe68399d92d8fe09fa26bb667be959c4cfb8f1a",
+    "lede": "A cyber-attack caused refrigeration temperatures to soar to 50C overnight on Monday across several hundred French supermarkets, with widespread food losses reported. At Intermarch\u00e9 La Haye, the attack caused fridge temperatures to reach 27C (80F), spoiling fresh and frozen food, according to store director Julien Freret. 'Today, we have a total loss of fresh and frozen,' Freret said, apologising to",
+    "outlet": "theguardian",
+    "published": "2026-10-13T02:57:06Z",
+    "title": "French supermarket director apologises after cyber-attack spoils fresh and frozen food - video",
+    "url": "https://www.theguardian.com/technology/video/2026/oct/13/french-supermarket-director-apologises-after-cyber-attack-spoils-fresh-and-frozen-food-video"
+  },
+  "b": {
+    "item_id": "fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd",
+    "lede": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
+    "outlet": "theregister",
+    "published": "2026-10-13T12:00:00Z",
+    "title": "Cyberattacks crank French supermarket refrigeration systems up to 50\u00b0C",
+    "url": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
+  },
+  "score": 0.593259
+}

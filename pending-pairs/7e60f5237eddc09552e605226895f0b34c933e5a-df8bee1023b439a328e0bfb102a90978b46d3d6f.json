@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e60f5237eddc09552e605226895f0b34c933e5a",
+    "lede": "Google plans to help turn those personal AI-generated apps into wide releases.",
+    "outlet": "arstechnica",
+    "published": "2026-10-13T17:00:39Z",
+    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+  },
+  "b": {
+    "item_id": "df8bee1023b439a328e0bfb102a90978b46d3d6f",
+    "lede": "It just got a whole lot easier to vibe code the exact Android app you need \u2013 no developer experience required.",
+    "outlet": "zdnet",
+    "published": "2026-10-13T17:00:00Z",
+    "title": "Google lets you make personal Android apps for free now \u2013 with just prompts",
+    "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+  },
+  "score": 0.693286
+}

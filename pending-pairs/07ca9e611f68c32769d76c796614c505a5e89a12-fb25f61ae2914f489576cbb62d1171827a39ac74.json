@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07ca9e611f68c32769d76c796614c505a5e89a12",
+    "lede": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T19:04:38Z",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/"
+  },
+  "b": {
+    "item_id": "fb25f61ae2914f489576cbb62d1171827a39ac74",
+    "lede": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T11:58:33Z",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+  },
+  "score": 0.806426
+}

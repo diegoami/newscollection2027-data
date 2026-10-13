@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "48a5e08f244781fb9fc76fb365457919520f3edd",
+    "lede": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
+    "outlet": "engadget",
+    "published": "2026-10-13T17:00:00Z",
+    "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+    "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/"
+  },
+  "b": {
+    "item_id": "df8bee1023b439a328e0bfb102a90978b46d3d6f",
+    "lede": "It just got a whole lot easier to vibe code the exact Android app you need \u2013 no developer experience required.",
+    "outlet": "zdnet",
+    "published": "2026-10-13T17:00:00Z",
+    "title": "Google lets you make personal Android apps for free now \u2013 with just prompts",
+    "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+  },
+  "score": 0.709219
+}

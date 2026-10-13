@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+    "lede": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T15:23:34Z",
+    "title": "Cyberattack shuts down refrigerators at French supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
+  },
+  "b": {
+    "item_id": "fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd",
+    "lede": "Stock spoiled at hundreds of stores as manufacturer says affected equipment ran outdated firmware",
+    "outlet": "theregister",
+    "published": "2026-10-13T12:00:00Z",
+    "title": "Cyberattacks crank French supermarket refrigeration systems up to 50\u00b0C",
+    "url": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
+  },
+  "score": 0.64479
+}
