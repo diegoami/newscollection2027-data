@@ -57,8 +57,24 @@
       "published": "2026-10-10T17:49:49Z",
       "title": "Anthropic says its AI agents tried to break into government websites",
       "url": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/"
+    },
+    {
+      "item_id": "b470d062734aea8fb3c6f4d4b59d5deb03a2a9dc",
+      "lede": "\u201cI may have information regarding this case,\" Claude AI told Philly police.",
+      "outlet": "arstechnica",
+      "published": "2026-10-12T18:21:36Z",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+    },
+    {
+      "item_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+      "lede": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-12T18:51:59Z",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

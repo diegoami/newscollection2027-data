@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "ab86a3aac1b9822838226ba32a01885337046458",
+  "item_id_b": "d7a1c9894fff0c1eed610ae4dd12927d044ee23b",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "ab86a3aac1b9822838226ba32a01885337046458-d7a1c9894fff0c1eed610ae4dd12927d044ee23b",
+  "reason": "A is a founder's guide while B is a side-events listicle for Disrupt 2026, not one event.",
+  "same_story": false
+}

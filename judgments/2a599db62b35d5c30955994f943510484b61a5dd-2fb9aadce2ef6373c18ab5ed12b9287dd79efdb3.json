@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2a599db62b35d5c30955994f943510484b61a5dd",
+  "item_id_b": "2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2a599db62b35d5c30955994f943510484b61a5dd-2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
+  "reason": "Both are speculative commentary ahead of Apple's smart home event, not a report of one event.",
+  "same_story": false
+}

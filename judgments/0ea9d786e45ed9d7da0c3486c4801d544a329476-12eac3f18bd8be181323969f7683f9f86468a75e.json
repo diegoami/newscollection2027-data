@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+  "item_id_b": "12eac3f18bd8be181323969f7683f9f86468a75e",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0ea9d786e45ed9d7da0c3486c4801d544a329476-12eac3f18bd8be181323969f7683f9f86468a75e",
+  "reason": "Both are comparison/opinion pieces on OpenAI Dots vs Meta Muse privacy, not reports of one identifiable event.",
+  "same_story": false
+}

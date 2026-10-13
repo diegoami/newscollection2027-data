@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-10-12-369644",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "No Man's Sky launches on iPhone and iPad as part of Indie Games Week",
+  "summary": "Hello Games' No Man's Sky is coming to iPhone and iPad, available from October 28th on devices as old as the iPhone 11, as part of the App Store's Indie Games Week. Other indie titles including Sifu, Vampire Crawlers, Dome Keeper and Little Kitty, Big City are also joining iOS.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "No Man's Sky is coming to iPhone and iPad.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c0f0d0d3f78133a3673ec515a449e77c8818f884",
+          "quote": "No Man's Sky is coming to iPhone and iPad as the App Store celebrates Indie Games Week"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "de2792450d727adff03a8d4507c8e9358939b7dd",
+          "quote": "No Man’s Sky is coming to the iPhone and iPad"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "3389ac4661cdc87fb484df8986a5e0ab21ea85c0",
+          "quote": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The iOS version will be available starting October 28th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "de2792450d727adff03a8d4507c8e9358939b7dd",
+          "quote": "will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The mobile version requires an iPhone 11 or later.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "3389ac4661cdc87fb484df8986a5e0ab21ea85c0",
+          "quote": "You can get a universe in your pocket if you have an iPhone 11 or later."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Other indie games are also coming to iOS as part of Indie Games Week.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c0f0d0d3f78133a3673ec515a449e77c8818f884",
+          "quote": "Sifu, Vampire Crawlers, Dome Keeper and Little Kitty, Big City are also hitting iOS."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

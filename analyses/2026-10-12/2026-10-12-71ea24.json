@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-12-71ea24",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "Epic reportedly delays Disney game to lean further into AI development",
+  "summary": "Epic Games reportedly delayed its Disney-licensed Marvel/Star Wars shooter so it could be developed using more AI, with developers apparently ordered to use AI for both code and asset creation, eliminating hand-written code and AI-free art.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Epic Games reportedly delayed its Disney-licensed video game so it could be made using more AI.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "be58c8a79ced4b52a317430d1b6663cfd14709e1",
+          "quote": "Epic reportedly delays its Disney video game so it can be made using more AI"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "37b5a1e81dc84f2fd2dfa4a1801fd8b52760a9bf",
+          "quote": "Epic Games reportedly pivoting to \"AI first\" game development model"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Developers were reportedly ordered to use AI for both code and asset creation, with no more hand-written code or AI-free art.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "be58c8a79ced4b52a317430d1b6663cfd14709e1",
+          "quote": "Developers were apparently ordered to use AI for both code and asset creation."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "37b5a1e81dc84f2fd2dfa4a1801fd8b52760a9bf",
+          "quote": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

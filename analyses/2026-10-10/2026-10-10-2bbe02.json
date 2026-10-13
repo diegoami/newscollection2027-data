@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-10-2bbe02",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "Ledger confirms hardware implant drained wallets via tampered reseller devices",
+  "summary": "Ledger confirmed a hardware implant in devices sold through a Southeast Asian reseller drained users' cryptocurrency wallets, and asked the reseller to pause sales while it investigates. Outlets differ on the reseller's name, spelling it 'CryptoBillis' in one report and 'CryptoBilis' in another.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ledger confirmed a hardware implant in devices from a reseller drained users' crypto wallets.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+          "quote": "users of the Ledger crypto wallet have seen their accounts drained"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
+          "quote": "were compromised with a hardware implant that drained users' cryptocurrency wallets."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ledger asked the reseller to pause sales of its wallets while it investigates.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+          "quote": "Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "The outlets spell the reseller's name differently: 'CryptoBillis' versus 'CryptoBilis'.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+          "quote": "sold by CryptoBillis"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
+          "quote": "reseller CryptoBilis"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "36f95c29c20b59bb495195aba3d8ff804594ea2f",
+  "item_id_b": "a316645db3cd7b4806fd165c33b4ddf66532df16",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "36f95c29c20b59bb495195aba3d8ff804594ea2f-a316645db3cd7b4806fd165c33b4ddf66532df16",
+  "reason": "Both report AI minister Kanishka Narayan's warning that an AI-driven cyber-attack on UK defences is likely.",
+  "same_story": true
+}

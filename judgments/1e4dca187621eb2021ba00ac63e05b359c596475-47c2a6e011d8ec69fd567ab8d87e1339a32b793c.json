@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1e4dca187621eb2021ba00ac63e05b359c596475",
+  "item_id_b": "47c2a6e011d8ec69fd567ab8d87e1339a32b793c",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1e4dca187621eb2021ba00ac63e05b359c596475-47c2a6e011d8ec69fd567ab8d87e1339a32b793c",
+  "reason": "A previews a specific Disrupt panel while B is a ticket-countdown promo post, not one event.",
+  "same_story": false
+}

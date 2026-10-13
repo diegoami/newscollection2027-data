@@ -1,0 +1,115 @@
+{
+  "cluster_id": "2026-10-12-841268",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "Google launches Fitbit Edge tracker between Fitbit Air and Pixel Watch",
+  "summary": "Google announced the Fitbit Edge, positioned between the Fitbit Air and Pixel Watch 5, along with new health features including Health Guardian and expanded automatic activity tracking. Most outlets price the tracker at $179.99, available October 27th, though one report rounds the price to $179.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google announced the Fitbit Edge, positioned between the Fitbit Air and Pixel Watch 5.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "57c9de67bce45bf0a9ebc9b59528aea5a35783cc",
+          "quote": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "e288f767d754a4d24e66c5f57efb5d226c89143e",
+          "quote": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "10a1bbb9c506a670ba60b18ff49b1156af529c2f",
+          "quote": "The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Fitbit Edge is priced at $179.99 and will be in stores starting October 27.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "076791ff6d66dafe4dbcdc188fa9722e5b408c29",
+          "quote": "The Fitbit Edge will be in stores starting October 27 for $179.99."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "e288f767d754a4d24e66c5f57efb5d226c89143e",
+          "quote": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Wired reports the price as $179.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "1488b9f640dce78cf72231ba3a5733684f27dd39",
+          "quote": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Google added new health features including Health Guardian and a new Fitbit Air band, plus expanded automatic activity tracking.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2996f5cbb99948f0f3d0369437f1661236dad125",
+          "quote": "Google brings Health Guardian to the Fitbit Air and Edge, and expands automatic activity tracking"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "2996f5cbb99948f0f3d0369437f1661236dad125",
+          "quote": "The company announced new health features for its wearables along with a new band for the Fitbit Air."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "ZDNet says the Fitbit Edge addresses a bulkiness complaint with the Pixel Watch.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "5d0668204fc6652a2cb37bddd2b30808e5159a76",
+          "quote": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "5d0668204fc6652a2cb37bddd2b30808e5159a76",
+          "quote": "Google’s watches are too dang chunky."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "low",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "explanation": "Engadget and TechCrunch give the Fitbit Edge's price as $179.99, while Wired rounds it to $179.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "076791ff6d66dafe4dbcdc188fa9722e5b408c29",
+          "quote": "The Fitbit Edge will be in stores starting October 27 for $179.99."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "1488b9f640dce78cf72231ba3a5733684f27dd39",
+          "quote": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

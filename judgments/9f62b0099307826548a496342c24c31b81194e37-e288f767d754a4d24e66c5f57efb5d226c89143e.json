@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9f62b0099307826548a496342c24c31b81194e37",
+  "item_id_b": "e288f767d754a4d24e66c5f57efb5d226c89143e",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9f62b0099307826548a496342c24c31b81194e37-e288f767d754a4d24e66c5f57efb5d226c89143e",
+  "reason": "A is a pre-launch tease, not the launch announcement B reports.",
+  "same_story": false
+}

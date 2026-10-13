@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5b0bbc20b589187eae42484548ad6132159aa7bf",
+  "item_id_b": "80d24e11891767c43331282351e952860cf84227",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5b0bbc20b589187eae42484548ad6132159aa7bf-80d24e11891767c43331282351e952860cf84227",
+  "reason": "Both report Meta's release of its Muse Wonder and Wonder Full models.",
+  "same_story": true
+}

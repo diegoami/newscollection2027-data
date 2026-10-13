@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "80d24e11891767c43331282351e952860cf84227",
+  "item_id_b": "f6fcff5febe9ec37e258c6847fe8150a89c7a195",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "80d24e11891767c43331282351e952860cf84227-f6fcff5febe9ec37e258c6847fe8150a89c7a195",
+  "reason": "Both report Meta's Muse Wonder frontier model release.",
+  "same_story": true
+}

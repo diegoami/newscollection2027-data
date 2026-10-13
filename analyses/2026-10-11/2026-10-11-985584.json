@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-11-985584",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "UK minister warns AI-driven cyberattack is likely, urges AI firms to improve safety",
+  "summary": "UK AI minister Kanishka Narayan said an AI-driven cyberattack on Britain, similar to the OpenAI breach of Australia's healthcare system, is likely. He called on companies building advanced AI to increase safety efforts, saying Britain cannot rely entirely on tech companies, and announced that government will use AI to strengthen the UK's cyber defences.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Narayan said an AI-driven cyberattack similar to the OpenAI breach of Australia's healthcare system is likely in the UK.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "a316645db3cd7b4806fd165c33b4ddf66532df16",
+          "quote": "Cyber-attack like OpenAI Medicare breach ‘seems likely’ in UK, says minister"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "36f95c29c20b59bb495195aba3d8ff804594ea2f",
+          "quote": "AI minister warns 'likely' UK's cyber defences will be breached"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Narayan called on AI firms to increase safety efforts, saying Britain cannot rely entirely on tech companies.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "bd54737b8d3a01075e0b100cdb905c65eae81feb",
+          "quote": "Companies building the most advanced AI systems must increase safety efforts, the UK’s AI minister will say"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "bd54737b8d3a01075e0b100cdb905c65eae81feb",
+          "quote": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The government will use advanced AI to strengthen the UK against cyber attacks.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "36f95c29c20b59bb495195aba3d8ff804594ea2f",
+          "quote": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

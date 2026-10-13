@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "47c2a6e011d8ec69fd567ab8d87e1339a32b793c",
+  "item_id_b": "f8d16a9366baa61f62440381575d66e633358090",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "47c2a6e011d8ec69fd567ab8d87e1339a32b793c-f8d16a9366baa61f62440381575d66e633358090",
+  "reason": "A is a ticket-countdown promo post while B previews a specific panel at Disrupt 2026, not one event.",
+  "same_story": false
+}

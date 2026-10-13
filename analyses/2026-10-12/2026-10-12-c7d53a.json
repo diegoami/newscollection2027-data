@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-12-c7d53a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "AMD unveils Helion rack design for agentic AI servers at OCP summit",
+  "summary": "AMD revealed Helion, a rack-scale reference design for agentic AI servers that can house up to 32,768 Zen 6 CPU cores, at the OCP Global Summit. CPU-only and mixed CPU/GPU configurations are due from partners in November.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "AMD unveiled Helion, a rack-scale reference design for agentic AI, at the OCP Global Summit.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "df51f421615f77584aef619af99d2beb4ed3b09e",
+          "quote": "At the OCP Global Summit, AMD revealed Helion, a rack-scale reference design for agentic AI that can house up to 32,768 Zen 6 CPU cores."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "36a81e190066e5528fd68fe305d4beaab93a6e8f",
+          "quote": "AMD unveils Helion racks for AI agents at OCP summit"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Helion can house up to 32,768 Zen 6 CPU cores.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "df51f421615f77584aef619af99d2beb4ed3b09e",
+          "quote": "AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "CPU-only and mixed CPU/GPU configurations are due from partners in November.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "36a81e190066e5528fd68fe305d4beaab93a6e8f",
+          "quote": "CPU-only and mixed CPU/GPU configurations due from partners in November"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

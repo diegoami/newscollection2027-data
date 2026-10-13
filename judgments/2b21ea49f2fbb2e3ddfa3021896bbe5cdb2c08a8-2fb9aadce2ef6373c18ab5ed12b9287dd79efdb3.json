@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8",
+  "item_id_b": "2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2b21ea49f2fbb2e3ddfa3021896bbe5cdb2c08a8-2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
+  "reason": "A is about a rumored touchscreen MacBook while B is about Apple's smart home event, different topics.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+  "item_id_b": "51ffae92aa95cef3347bed1ddb5543b00db96141",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6-51ffae92aa95cef3347bed1ddb5543b00db96141",
+  "reason": "Both report the Ukrainian drone strikes on Yandex data centers and the resulting outage.",
+  "same_story": true
+}

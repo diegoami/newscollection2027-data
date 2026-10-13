@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "d5338cf3ced6d241004c10d4a55ca3e62c7fbc1b",
+  "item_id_b": "da2cafd8b49082485db2e4855144cf6094c1109a",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "d5338cf3ced6d241004c10d4a55ca3e62c7fbc1b-da2cafd8b49082485db2e4855144cf6094c1109a",
+  "reason": "Both report Brad Smith's remarks that AI is less regulated than milk.",
+  "same_story": true
+}

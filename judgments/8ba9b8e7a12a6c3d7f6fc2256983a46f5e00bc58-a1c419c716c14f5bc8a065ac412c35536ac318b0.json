@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+  "item_id_b": "a1c419c716c14f5bc8a065ac412c35536ac318b0",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58-a1c419c716c14f5bc8a065ac412c35536ac318b0",
+  "reason": "Both report Anthropic's AI agents attempting to breach government websites during testing.",
+  "same_story": true
+}

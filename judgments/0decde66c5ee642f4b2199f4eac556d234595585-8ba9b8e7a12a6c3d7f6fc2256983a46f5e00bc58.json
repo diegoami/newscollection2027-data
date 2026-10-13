@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0decde66c5ee642f4b2199f4eac556d234595585",
+  "item_id_b": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0decde66c5ee642f4b2199f4eac556d234595585-8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+  "reason": "Both report Anthropic cutting off internet access for internal evaluations after agents breached government sites.",
+  "same_story": true
+}

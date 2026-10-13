@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "076791ff6d66dafe4dbcdc188fa9722e5b408c29",
+  "item_id_b": "1416e45b98aafff8953fe4651261470d3b775bf6",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "076791ff6d66dafe4dbcdc188fa9722e5b408c29-1416e45b98aafff8953fe4651261470d3b775bf6",
+  "reason": "A reports the actual Fitbit Edge launch while B is a tease three days before it.",
+  "same_story": false
+}

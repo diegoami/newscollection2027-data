@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "10a1bbb9c506a670ba60b18ff49b1156af529c2f",
+  "item_id_b": "5d0668204fc6652a2cb37bddd2b30808e5159a76",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "10a1bbb9c506a670ba60b18ff49b1156af529c2f-5d0668204fc6652a2cb37bddd2b30808e5159a76",
+  "reason": "Both report Google's Fitbit Edge launch announcement.",
+  "same_story": true
+}

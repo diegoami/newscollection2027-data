@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "78767ab462d3dfc2c2939b8b0cd6b6744c16dbf8",
+  "item_id_b": "da2cafd8b49082485db2e4855144cf6094c1109a",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "78767ab462d3dfc2c2939b8b0cd6b6744c16dbf8-da2cafd8b49082485db2e4855144cf6094c1109a",
+  "reason": "Both report Brad Smith's remarks that AI is less regulated than milk and washing machines.",
+  "same_story": true
+}

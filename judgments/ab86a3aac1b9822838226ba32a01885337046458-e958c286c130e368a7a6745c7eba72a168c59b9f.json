@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "ab86a3aac1b9822838226ba32a01885337046458",
+  "item_id_b": "e958c286c130e368a7a6745c7eba72a168c59b9f",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "ab86a3aac1b9822838226ba32a01885337046458-e958c286c130e368a7a6745c7eba72a168c59b9f",
+  "reason": "Both are TechCrunch's own promotional guides to Disrupt 2026 for different audiences, not one event.",
+  "same_story": false
+}

@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-12-a1d784",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "Norway fines Microsoft ad unit Xandr $9.6 million over Grindr data",
+  "summary": "Norway's data protection authority fined Microsoft-owned ad firm Xandr roughly $9.6 million (NOK 92 million) over unlawfully processing and sharing Grindr users' sensitive data, with three weeks given to appeal. One outlet frames the conduct as an allegation, while another reports the unlawful data sharing as established fact.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Norway's data protection authority fined Microsoft-owned ad firm Xandr $9.6 million (NOK 92 million) over Grindr user data.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "cd76646a173ebffd2230641341e09445aa08390f",
+          "quote": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "d0137ba408daed3efe7b8f1997cbc935a8f47d7d",
+          "quote": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Xandr has three weeks to appeal the penalty.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "cd76646a173ebffd2230641341e09445aa08390f",
+          "quote": "Xandr has three weeks to appeal the record penalty."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Engadget frames the conduct as an allegation ('allegedly misusing'), while BleepingComputer states the data sharing was unlawful as settled fact.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "cd76646a173ebffd2230641341e09445aa08390f",
+          "quote": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "d0137ba408daed3efe7b8f1997cbc935a8f47d7d",
+          "quote": "for unlawfully processing and sharing sensitive data belonging to Grindr users in the country."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

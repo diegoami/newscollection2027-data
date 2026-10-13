@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "a316645db3cd7b4806fd165c33b4ddf66532df16",
+  "item_id_b": "bd54737b8d3a01075e0b100cdb905c65eae81feb",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "a316645db3cd7b4806fd165c33b4ddf66532df16-bd54737b8d3a01075e0b100cdb905c65eae81feb",
+  "reason": "Both cover Kanishka Narayan's statement on UK cyber defences against AI threats, preview and report of the same speech.",
+  "same_story": true
+}

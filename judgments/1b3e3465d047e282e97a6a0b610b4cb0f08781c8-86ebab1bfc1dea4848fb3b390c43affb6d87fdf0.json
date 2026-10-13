@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1b3e3465d047e282e97a6a0b610b4cb0f08781c8",
+  "item_id_b": "86ebab1bfc1dea4848fb3b390c43affb6d87fdf0",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1b3e3465d047e282e97a6a0b610b4cb0f08781c8-86ebab1bfc1dea4848fb3b390c43affb6d87fdf0",
+  "reason": "Both are the same outlet's ongoing review notes on Googlebooks, not reports of one discrete event.",
+  "same_story": false
+}

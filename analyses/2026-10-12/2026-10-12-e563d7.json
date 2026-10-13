@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-10-12-e563d7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-13T02:31:33Z",
+  "headline": "Meta releases Muse Wonder and Wonder Full AI models to rival the frontier",
+  "summary": "Meta launched new Muse Wonder and Muse Wonder Full AI models, which it says can compete with the industry's best and are larger and more capable than its earlier Muse Spark model, with higher benchmark scores on tasks like coding. The new models add features intended to keep AI agents from going off the rails.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta launched Muse Wonder and Muse Wonder Full, claiming they can compete with the industry's best / frontier models.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "5b0bbc20b589187eae42484548ad6132159aa7bf",
+          "quote": "it's now launching two new models it claims can go toe-to-toe with the industry's best."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "80d24e11891767c43331282351e952860cf84227",
+          "quote": "Meta releases its first frontier model, Muse Wonder"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "f6fcff5febe9ec37e258c6847fe8150a89c7a195",
+          "quote": "Meta says it's caught up to the frontier with its latest Wonder AI models"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "af9f71cc471671257b8ef69230aad54a1ae24f14",
+          "quote": "Muse Wonder Puts Meta Back at the AI Frontier"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Wonder models are larger and more capable than Muse Spark, with higher benchmark scores on tasks like coding.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "80d24e11891767c43331282351e952860cf84227",
+          "quote": "the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new models add features intended to keep AI agents from going off the rails.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "af9f71cc471671257b8ef69230aad54a1ae24f14",
+          "quote": "includes new features to keep agents from going off the rails."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "f6fcff5febe9ec37e258c6847fe8150a89c7a195",
+          "quote": "The models add \"active memory\" and \"active focus\" abilities."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

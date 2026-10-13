@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+  "item_id_b": "ca43aef1e63668cb484179a721ddffbe2ecc8381",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522-ca43aef1e63668cb484179a721ddffbe2ecc8381",
+  "reason": "Both report the same cyberattack that remotely defrosted supermarket refrigerators in Europe.",
+  "same_story": true
+}

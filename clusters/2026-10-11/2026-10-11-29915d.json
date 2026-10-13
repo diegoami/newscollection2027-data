@@ -1,0 +1,32 @@
+{
+  "anchor": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+  "id": "2026-10-11-29915d",
+  "items": [
+    {
+      "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+      "lede": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers.",
+      "outlet": "tomshardware",
+      "published": "2026-10-11T13:15:09Z",
+      "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers"
+    },
+    {
+      "item_id": "51ffae92aa95cef3347bed1ddb5543b00db96141",
+      "lede": "Techies at 'Russia's Google' work around the clock as users await access to funds and network connectivity falls to 30% of normal",
+      "outlet": "theregister",
+      "published": "2026-10-12T13:45:00Z",
+      "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+      "url": "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577"
+    },
+    {
+      "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
+      "lede": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-12T15:43:07Z",
+      "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

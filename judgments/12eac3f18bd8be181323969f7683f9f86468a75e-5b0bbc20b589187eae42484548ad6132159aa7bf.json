@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "12eac3f18bd8be181323969f7683f9f86468a75e",
+  "item_id_b": "5b0bbc20b589187eae42484548ad6132159aa7bf",
+  "judged_at": "2026-10-13T02:21:16Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "12eac3f18bd8be181323969f7683f9f86468a75e-5b0bbc20b589187eae42484548ad6132159aa7bf",
+  "reason": "A compares existing OpenAI Dot vs Meta Muse agents while B reports Meta's new Wonder model launch, different events.",
+  "same_story": false
+}
