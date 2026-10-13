@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "85c37b74f5b7880141613d45d58c08a1197d71dc",
+    "lede": "Nvidia has announced that DLSS 5 is now two times faster while using less VRAM.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T12:47:41Z",
+    "title": "Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-doubles-dlss-5-performance-reduces-4k-vram-usage-by-20-percent-with-latest-model-october-update-cuts-footprint-by-24-percent-to-roughly-118-million-parameters"
+  },
+  "b": {
+    "item_id": "e9d21c569dd5780f6f1affa0dd79b393c5b7faf4",
+    "lede": "DLSS Multi-Frame Generation and DLSS 5 Neural Rendering can now run on hardware never intended for it, at least according to Nvidia. Now, two of the modders foundational to the release of these community advancements speak out.",
+    "outlet": "tomshardware",
+    "published": "2026-10-12T15:30:00Z",
+    "title": "Meet the modders porting ringfenced DLSS features to older GPUs",
+    "url": "https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures"
+  },
+  "score": 0.652779
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fa3e25e62634a72af360036b72d6f7d66e3119d",
+    "lede": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-09T14:01:11Z",
+    "title": "How to keep AI agents within their permissions",
+    "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
+  },
+  "b": {
+    "item_id": "aba4e20057c7a474efe9e768e59cba5cf3404fd3",
+    "lede": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T13:00:00Z",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+  },
+  "score": 0.644122
+}

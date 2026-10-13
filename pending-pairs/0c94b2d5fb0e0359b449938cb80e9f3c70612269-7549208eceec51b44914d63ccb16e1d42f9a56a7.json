@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c94b2d5fb0e0359b449938cb80e9f3c70612269",
+    "lede": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack \u2014 $71 million and counting thanks to implanted eSIM and LTE modules",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T10:30:00Z",
+    "title": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets"
+  },
+  "b": {
+    "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+    "lede": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T16:36:44Z",
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+  },
+  "score": 0.744617
+}

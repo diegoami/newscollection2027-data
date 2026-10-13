@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+    "lede": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T15:23:34Z",
+    "title": "Cyberattack shuts down refrigerators at French supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/"
+  },
+  "b": {
+    "item_id": "6fe68399d92d8fe09fa26bb667be959c4cfb8f1a",
+    "lede": "A cyber-attack caused refrigeration temperatures to soar to 50C overnight on Monday across several hundred French supermarkets, with widespread food losses reported. At Intermarch\u00e9 La Haye, the attack caused fridge temperatures to reach 27C (80F), spoiling fresh and frozen food, according to store director Julien Freret. 'Today, we have a total loss of fresh and frozen,' Freret said, apologising to",
+    "outlet": "theguardian",
+    "published": "2026-10-13T02:57:06Z",
+    "title": "French supermarket director apologises after cyber-attack spoils fresh and frozen food - video",
+    "url": "https://www.theguardian.com/technology/video/2026/oct/13/french-supermarket-director-apologises-after-cyber-attack-spoils-fresh-and-frozen-food-video"
+  },
+  "score": 0.634548
+}

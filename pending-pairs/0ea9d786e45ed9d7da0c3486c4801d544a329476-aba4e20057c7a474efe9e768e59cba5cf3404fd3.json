@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0ea9d786e45ed9d7da0c3486c4801d544a329476",
+    "lede": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-10T13:00:00Z",
+    "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+  },
+  "b": {
+    "item_id": "aba4e20057c7a474efe9e768e59cba5cf3404fd3",
+    "lede": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T13:00:00Z",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+  },
+  "score": 0.58086
+}
