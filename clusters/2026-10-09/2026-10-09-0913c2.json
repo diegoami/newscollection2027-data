@@ -73,8 +73,16 @@
       "published": "2026-10-12T18:51:59Z",
       "title": "Anthropic takes risky AI tests offline after models breach govt sites",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+    },
+    {
+      "item_id": "872f31f1652880ce4de4eb7cb2c11b6887a156a4",
+      "lede": "Anthropic took more than two months to alert cops",
+      "outlet": "theregister",
+      "published": "2026-10-13T17:18:00Z",
+      "title": "Claude submitted fake murder tip to Philly police during summertime testing",
+      "url": "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

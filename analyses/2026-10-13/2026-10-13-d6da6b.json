@@ -1,0 +1,54 @@
+{
+ "cluster_id": "2026-10-13-d6da6b",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "Character.AI files for bankruptcy, selling chatbot assets toward a Disney deal",
+ "summary": "Character.AI, one of the first major generative-AI chatbot startups, filed for bankruptcy after facing mounting scrutiny and lawsuits over its chatbots' safety. The company is selling some assets to Disney for $20 million, though outlets differ on how final that deal is: some describe it as agreed, while Ars Technica frames Disney's $20M as still just an offer.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Character.AI filed for bankruptcy.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "17822a6c9063e726b8508423c2fed3a68c47aa4a", "quote": "Character.AI files for bankruptcy"},
+    {"outlet": "techcrunch", "item_id": "54d9c64a7bcda1b490ce0ec4199b70dd1b0dc490", "quote": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Character.AI is selling some of its assets to Disney for $20 million.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "54d9c64a7bcda1b490ce0ec4199b70dd1b0dc490", "quote": "The startup will sell some of its assets to Disney for $20 million."},
+    {"outlet": "arstechnica", "item_id": "63b1605b51b19bf5324eced1107cd332345f0ec3", "quote": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech"}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Character.AI has faced mounting scrutiny and lawsuits over the safety of its chatbots.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "17822a6c9063e726b8508423c2fed3a68c47aa4a", "quote": "has faced mounting scrutiny and lawsuits over the safety of its chatbots"}
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Disney's potential deal involves chatbot tech from a company linked to a child's suicide, according to Ars Technica.",
+   "sources": [
+    {"outlet": "arstechnica", "item_id": "63b1605b51b19bf5324eced1107cd332345f0ec3", "quote": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "framing",
+   "severity": "medium",
+   "claim_ids": ["c2"],
+   "explanation": "TechCrunch describes the Disney asset sale as agreed ('will sell'), while Ars Technica frames it as still pending ('may acquire', 'offers').",
+   "quotes": [
+    {"outlet": "techcrunch", "item_id": "54d9c64a7bcda1b490ce0ec4199b70dd1b0dc490", "quote": "The startup will sell some of its assets to Disney for $20 million."},
+    {"outlet": "arstechnica", "item_id": "63b1605b51b19bf5324eced1107cd332345f0ec3", "quote": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech"}
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

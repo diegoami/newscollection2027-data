@@ -1,0 +1,28 @@
+{
+ "cluster_id": "2026-10-12-42be06",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:50:00Z",
+ "headline": "Microsoft unveils third-generation Maia AI chip for cloud inference",
+ "summary": "Microsoft announced its third-generation Maia 300 AI chip, intended as its products' primary AI inference system and designed to reduce reliance on Nvidia GPUs. The company plans a multi-gigawatt rollout of Maia accelerator racks in a 96-chip configuration promising seven times the predecessor's throughput, with production deployments due in 2027.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Microsoft announced its third-generation in-house AI chip, Maia 300, designed as the primary AI inference system for its products and services.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "f35a073890448086210a56d286ed4f1281adabb4", "quote": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Microsoft plans a multi-gigawatt rollout of next-generation Azure Maia AI accelerator racks, with a 96-chip configuration promising seven times the predecessor's token throughput and production deployments due in 2027.",
+   "sources": [
+    {"outlet": "theregister", "item_id": "b4328e8096770895528593d4f1a0f42b1967e22d", "quote": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks"},
+    {"outlet": "theregister", "item_id": "b4328e8096770895528593d4f1a0f42b1967e22d", "quote": "96-chip configuration promises seven times its predecessor's token throughput, with production deployments due in 2027"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

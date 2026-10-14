@@ -17,8 +17,16 @@
       "published": "2026-10-12T20:59:50Z",
       "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
       "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+    },
+    {
+      "item_id": "9bc4d3651076ff6263057d9128dc380f1172952e",
+      "lede": "Developers working on an unnamed Disney shooter title for Epic Games were surprised when they were ordered to use as much AI as possible in their workflows.",
+      "outlet": "tomshardware",
+      "published": "2026-10-13T11:22:26Z",
+      "title": "Epic Games reportedly delays Disney shooter title so it can pivot to AI coding",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

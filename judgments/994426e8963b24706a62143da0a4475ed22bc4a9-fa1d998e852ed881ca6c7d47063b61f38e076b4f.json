@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "994426e8963b24706a62143da0a4475ed22bc4a9",
+ "item_id_b": "fa1d998e852ed881ca6c7d47063b61f38e076b4f",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "994426e8963b24706a62143da0a4475ed22bc4a9-fa1d998e852ed881ca6c7d47063b61f38e076b4f",
+ "reason": "Both report Apple's HomeView smart display announcement at the Welcome Home event.",
+ "same_story": true
+}

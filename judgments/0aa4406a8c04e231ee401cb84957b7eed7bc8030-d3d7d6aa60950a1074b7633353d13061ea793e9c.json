@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0aa4406a8c04e231ee401cb84957b7eed7bc8030",
+ "item_id_b": "d3d7d6aa60950a1074b7633353d13061ea793e9c",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0aa4406a8c04e231ee401cb84957b7eed7bc8030-d3d7d6aa60950a1074b7633353d13061ea793e9c",
+ "reason": "Both report the Apple TV 4K refresh with new microphones and Siri AI announced at the Welcome Home event.",
+ "same_story": true
+}

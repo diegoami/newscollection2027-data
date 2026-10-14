@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "34e3643232f207a873f6e4bfee79966a1ccf548b",
+ "item_id_b": "691eac3de07f68077324d32b0ec281785cf042b6",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "34e3643232f207a873f6e4bfee79966a1ccf548b-691eac3de07f68077324d32b0ec281785cf042b6",
+ "reason": "Both report Bumble's acquisition talks and agreed deal with an online-dating consolidator.",
+ "same_story": true
+}

@@ -73,8 +73,216 @@
       "published": "2026-10-12T12:00:00Z",
       "title": "How Apple can win the smart home",
       "url": "https://www.theverge.com/tech/1009324/how-apple-can-win-the-smart-home"
+    },
+    {
+      "item_id": "612aae39447e7f5765c142e6024f110e1b72f58e",
+      "lede": "Apple\u2019s October 13th launch event \u2014 given the tagline \u201cWelcome Home\u201d \u2014 is all about its efforts for the smart home. The event was headlined by the debut of the HomeView, Apple\u2019s first smart home display. It also launched a collection of smart home devices, including cameras, thermostats, and a smart lock, in partnership with other [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T12:45:00Z",
+      "title": "All the news from Apple\u2019s \u2018Welcome Home\u2019 event",
+      "url": "https://www.theverge.com/tech/1008782/apple-welcome-home-event-news-announcements"
+    },
+    {
+      "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa",
+      "lede": "Apple is announcing the long-awaited HomePod Mini 2 with a new chip that can power Siri AI - but support for those new AI features won't be available at launch. The speaker is also getting a new sound glow feature that syncs its LED lights with a song's album art, and it can now be [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple announces the HomePod Mini 2, but it isn\u2019t ready for Siri AI at launch",
+      "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai"
+    },
+    {
+      "item_id": "12845819758f263def7a41a8e03857a48c5fb095",
+      "lede": "Apple unveiled a slate of new smart home gadgets at its aptly named \"Welcome Home\" event today, including its first (and highly anticipated) smart home hub. That flagship announcement came alongside much-needed refreshes for Apple's HomePod Mini and TV 4K devices, and a selection of new smart home and security accessories designed together with trusted [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Everything Apple launched at its \u2018Welcome Home\u2019 event",
+      "url": "https://www.theverge.com/tech/1009816/apple-smart-home-event-homeview-homepod-mini-roundup"
+    },
+    {
+      "item_id": "6a7fb2d3dfe44f5f46176ce29d6c478889e6a329",
+      "lede": "New microphones, a new remote and the new Siri AI are on the company's streaming box.",
+      "outlet": "engadget",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple refreshes the Apple TV 4K for Siri AI",
+      "url": "https://www.engadget.com/2285043/new-apple-tv-4k-with-siri-ai/"
+    },
+    {
+      "item_id": "6ac20520c68a3dd42b6f17f0efd619c4bd51c599",
+      "lede": "Two versions will be available in November for $299.",
+      "outlet": "engadget",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple unveils HomeView, the company's smart display built for Siri AI",
+      "url": "https://www.engadget.com/2285072/apple-launch-homeview-smart-display-siri-ai/"
+    },
+    {
+      "item_id": "7b425a8798192ffe78d0fffda1a33fd08a892f95",
+      "lede": "The new model arrives on October 30, but its Siri AI features are coming later.",
+      "outlet": "engadget",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple updates the HomePod mini with more audio features and new colors",
+      "url": "https://www.engadget.com/2285033/apple-homepod-mini-2-launch-siri-ai-later/"
+    },
+    {
+      "item_id": "834e333f209f576794cf47533694786511c2da84",
+      "lede": "I got an early glimpse of Apple\u2019s biggest push into the smart home in years.",
+      "outlet": "wired",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a \u2018Home Collection\u2019",
+      "url": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/"
+    },
+    {
+      "item_id": "994426e8963b24706a62143da0a4475ed22bc4a9",
+      "lede": "With customizable \u201cfaces,\u201d this 7-inch smart display is a unique hybrid between an iPhone and an Apple Watch.",
+      "outlet": "wired",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+      "url": "https://www.wired.com/story/apple-homeview-smart-display/"
+    },
+    {
+      "item_id": "b68ffad83bef1520afca976bf28db49bcec91172",
+      "lede": "Apple collaborated with LG and Schneider Electric on products that work with its HomeView display.",
+      "outlet": "engadget",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple debuts the Apple Home Collection of smart devices, including cameras, thermostats and door locks",
+      "url": "https://www.engadget.com/2285070/apple-debuts-the-apple-home-collection-of-smart-devices-including-cameras-thermostats-and-door-locks/"
+    },
+    {
+      "item_id": "d3d7d6aa60950a1074b7633353d13061ea793e9c",
+      "lede": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote. The fourth-gen Apple TV 4K, announced at Apple's Welcome Home event in New York City, is the first model to support the Siri AI [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
+      "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced"
+    },
+    {
+      "item_id": "dabd38ebc28c81965af9db63069e6d4bb6815412",
+      "lede": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use. The collection is something of a smart home starter pack, including security cameras, a video doorbell, a door lock, and two thermostats. Apple is announcing [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "The new Apple Home Collection includes a video doorbell, smart lock, and more",
+      "url": "https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced"
+    },
+    {
+      "item_id": "fa1d998e852ed881ca6c7d47063b61f38e076b4f",
+      "lede": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a speaker base for taking video calls, beautifully displaying photos, and providing information at a glance with Apple's [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:00:00Z",
+      "title": "Apple launches HomeView, its first smart display for the home",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
+    },
+    {
+      "item_id": "676dc1f05c70e4490dc672845780bf90a05dc111",
+      "lede": "All about the HomeView, Homepod mini, Apple Home Collection and more.",
+      "outlet": "engadget",
+      "published": "2026-10-13T13:05:00Z",
+      "title": "Everything announced at Apple's 'Welcome Home' event",
+      "url": "https://www.engadget.com/2285079/everything-apple-announced-home-view-homepod-mini-2-event/"
+    },
+    {
+      "item_id": "760507df63618a43d54acd37784d6bd7fe8f749f",
+      "lede": "Apple just announced its long-rumored smart home hub, the HomeView, during its \"Welcome home\" event taking place today. As part of the event, it showed a video featuring the new device, and if you want to see it for yourself, you can watch it right here. The HomeView is a 7-inch square display. It costs [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T13:14:27Z",
+      "title": "Watch Apple\u2019s reveal video for the HomeView",
+      "url": "https://www.theverge.com/tech/1008810/apple-homeview-reveal-video-watch"
+    },
+    {
+      "item_id": "252e9f7afa15c528b95d4ce55aa27fc4e4706ebe",
+      "lede": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T13:15:46Z",
+      "title": "Apple makes another push into the smart home market with HomeView",
+      "url": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/"
+    },
+    {
+      "item_id": "de48459db6d92449d37cc3d3f3d8cc0582f84628",
+      "lede": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T13:16:11Z",
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
+    },
+    {
+      "item_id": "5beb6b618bd8fff0aaf96caf65c40e3ae1ac633f",
+      "lede": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T13:37:19Z",
+      "title": "Apple\u2019s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
+    },
+    {
+      "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b",
+      "lede": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T13:38:03Z",
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/"
+    },
+    {
+      "item_id": "638280d3d7fa6d0285cfdb2479da71ac810d5bb0",
+      "lede": "As an Apple Home user, here\u2019s what stands out about Apple\u2019s new smart home hub \u2013 and what I want to test firsthand.",
+      "outlet": "zdnet",
+      "published": "2026-10-13T14:31:03Z",
+      "title": "Apple\u2019s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+      "url": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/"
+    },
+    {
+      "item_id": "f750427e7c18e14f04412f9e37d96ba0c0495a19",
+      "lede": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+      "outlet": "zdnet",
+      "published": "2026-10-13T15:28:12Z",
+      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/"
+    },
+    {
+      "item_id": "9f793ae7265cdea647c9eb739391b6a9471df9f3",
+      "lede": "It can recognize up to six users with its camera.",
+      "outlet": "arstechnica",
+      "published": "2026-10-13T15:29:17Z",
+      "title": "Apple\u2019s first smart display is the 7-inch HomeView for $299",
+      "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/"
+    },
+    {
+      "item_id": "394b7344c279677bde909f603d3aec98baac3190",
+      "lede": "Apple\u2019s \u201cWelcome Home\u201d event featured all the new smart home hardware coming to the Apple lineup.",
+      "outlet": "zdnet",
+      "published": "2026-10-13T15:37:27Z",
+      "title": "Apple\u2019s smart home event: All 7 devices, prices, and release dates",
+      "url": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/"
+    },
+    {
+      "item_id": "ff7c2ba81f866f74878fdb0a5fa34cc7783c7915",
+      "lede": "New products from Apple include the HomeView, an iPad-like device that acts as a hub for other smart home gadgets Apple on Tuesday began showing off a \u2060new round of smart home products, including an iPad-like device dubbed the HomeView, meant to hang on walls or perch on tabletops \u2060and act as a hub for other smart home devices. The",
+      "outlet": "theguardian",
+      "published": "2026-10-13T16:25:22Z",
+      "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
+    },
+    {
+      "item_id": "9f1b9170cbfef578055ea2b2d685acc6bf37f8be",
+      "lede": "Are Siri AI, a new chip and Sound Glow worth the higher price?",
+      "outlet": "engadget",
+      "published": "2026-10-13T16:27:40Z",
+      "title": "Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?",
+      "url": "https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/"
+    },
+    {
+      "item_id": "0aa4406a8c04e231ee401cb84957b7eed7bc8030",
+      "lede": "Listening to Apple's new audio features with Siri as our binge-watching companion.",
+      "outlet": "engadget",
+      "published": "2026-10-13T18:18:54Z",
+      "title": "Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI",
+      "url": "https://www.engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade/"
+    },
+    {
+      "item_id": "df6837d0018fb4edcab601206941e9b2ec34bd9f",
+      "lede": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.",
+      "outlet": "engadget",
+      "published": "2026-10-13T23:00:00Z",
+      "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
+      "url": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/"
     }
   ],
   "status": "analyzed",
-  "version": 6
+  "version": 7
 }

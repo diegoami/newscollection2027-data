@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3",
+ "item_id_b": "d281af14f183662e1a442a1aa4c192aa19e20d64",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7ec8afeed3530ddc09333f75166e0b39d0b19fb3-d281af14f183662e1a442a1aa4c192aa19e20d64",
+ "reason": "One reports Silicon Valley adopting Trump's 'superintelligence' rebrand, the other Hinton's criticism of Trump; different specific items.",
+ "same_story": false
+}

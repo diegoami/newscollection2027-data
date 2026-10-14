@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7657c901a5cbc7f70dc1f9f054898a4bbc5d56ec",
+ "item_id_b": "c9abe9b08cd34f7a691a39afaa90b8ae66719820",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7657c901a5cbc7f70dc1f9f054898a4bbc5d56ec-c9abe9b08cd34f7a691a39afaa90b8ae66719820",
+ "reason": "Both report Facebook's new feature letting users customize their feed algorithm with AI.",
+ "same_story": true
+}

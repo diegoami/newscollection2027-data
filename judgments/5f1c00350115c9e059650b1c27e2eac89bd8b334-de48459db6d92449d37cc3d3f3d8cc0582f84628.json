@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5f1c00350115c9e059650b1c27e2eac89bd8b334",
+ "item_id_b": "de48459db6d92449d37cc3d3f3d8cc0582f84628",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5f1c00350115c9e059650b1c27e2eac89bd8b334-de48459db6d92449d37cc3d3f3d8cc0582f84628",
+ "reason": "One is about older Apple TV models getting a software Siri AI update, not the new Apple TV 4K hardware launch the other reports.",
+ "same_story": false
+}

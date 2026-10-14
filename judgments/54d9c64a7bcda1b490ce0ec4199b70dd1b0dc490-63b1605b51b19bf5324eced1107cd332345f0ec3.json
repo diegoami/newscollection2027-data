@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "54d9c64a7bcda1b490ce0ec4199b70dd1b0dc490",
+ "item_id_b": "63b1605b51b19bf5324eced1107cd332345f0ec3",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "54d9c64a7bcda1b490ce0ec4199b70dd1b0dc490-63b1605b51b19bf5324eced1107cd332345f0ec3",
+ "reason": "Both report Character.AI's bankruptcy filing and the sale of its chatbot assets to Disney.",
+ "same_story": true
+}

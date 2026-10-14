@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "07a254fcb68c0319bb4cc1f74bc08948d408195b",
+ "item_id_b": "caa6203fc500b5acafe6944b81d92870c41db33c",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "07a254fcb68c0319bb4cc1f74bc08948d408195b-caa6203fc500b5acafe6944b81d92870c41db33c",
+ "reason": "Both report Google's rollout of Gemini 4 Argon in the Gemini app.",
+ "same_story": true
+}

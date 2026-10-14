@@ -1,0 +1,43 @@
+{
+ "cluster_id": "2026-10-13-702df5",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T03:00:00Z",
+ "headline": "Google Play lets anyone build and distribute AI-generated Android apps",
+ "summary": "Google is revamping Google Play for the AI era, letting anyone build and use personal, AI-generated ('vibe-coded') Android apps without publishing them to everyone, distribute them with just a Google account, and eventually turn popular personal apps into wide Play Store releases.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Google Play now lets anyone build and use private, AI-generated ('vibe-coded') Android apps without publishing them to everyone.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "303c8b8be26ff7b15e21ea6f392d5a041dbb5447", "quote": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."},
+    {"outlet": "zdnet", "item_id": "df8bee1023b439a328e0bfb102a90978b46d3d6f", "quote": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Google will let people distribute these vibe-coded apps using just a Google account.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "48a5e08f244781fb9fc76fb365457919520f3edd", "quote": "Google will let you distribute vibe-coded Android apps with just a Google account"}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Google plans to help turn personal AI-generated apps into wide releases hosted in the Play Store.",
+   "sources": [
+    {"outlet": "arstechnica", "item_id": "7e60f5237eddc09552e605226895f0b34c933e5a", "quote": "Google wants to host your personal vibe-coded apps in the Play Store"},
+    {"outlet": "arstechnica", "item_id": "7e60f5237eddc09552e605226895f0b34c933e5a", "quote": "Google plans to help turn those personal AI-generated apps into wide releases."}
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "The change is part of a broader revamp of the Play Store for the AI era, including changes to publishing and recommendations.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "48a5e08f244781fb9fc76fb365457919520f3edd", "quote": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more."}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

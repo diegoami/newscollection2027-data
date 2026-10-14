@@ -1,0 +1,24 @@
+{
+  "anchor": "39142dfeb6222c3c3cb8119fd372a3d8dbee0ca9",
+  "id": "2026-10-13-ca952b",
+  "items": [
+    {
+      "item_id": "39142dfeb6222c3c3cb8119fd372a3d8dbee0ca9",
+      "lede": "GTA 6, the biggest release of the year, will be console-only at launch, with a PC launch now expected within the first three months of 2027.",
+      "outlet": "tomshardware",
+      "published": "2026-10-13T16:22:10Z",
+      "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/gta-6-could-come-to-pc-as-early-as-q1-2027-leak-claims-january-march-launch-window-a-huge-improvement-over-18-month-gta-v-wait"
+    },
+    {
+      "item_id": "4868b9c62f60979fe52de428142f643e98bd8668",
+      "lede": "That would be a much smaller port time than GTA 5.",
+      "outlet": "engadget",
+      "published": "2026-10-13T17:27:40Z",
+      "title": "GTA 6 is reportedly coming to PC in early 2027",
+      "url": "https://www.engadget.com/2285602/gta-6-is-reportedly-coming-to-pc-in-early-2027/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

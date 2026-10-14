@@ -1,0 +1,56 @@
+{
+  "anchor": "082a179fcd5888101db60c4edc2537048d7392bf",
+  "id": "2026-10-13-1fe3c2",
+  "items": [
+    {
+      "item_id": "082a179fcd5888101db60c4edc2537048d7392bf",
+      "lede": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T20:45:25Z",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+    },
+    {
+      "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606",
+      "lede": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T20:59:11Z",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+    },
+    {
+      "item_id": "95fb8a7b09602c600cdd1b53fa377b7bb8b7563b",
+      "lede": "The company asked its AI models to figure out what the device was.",
+      "outlet": "engadget",
+      "published": "2026-10-13T21:34:17Z",
+      "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+      "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+    },
+    {
+      "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc",
+      "lede": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-13T22:33:02Z",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+    },
+    {
+      "item_id": "8471d4f78df8d3fd27306028d214c5d02b8c9414",
+      "lede": "Discovery of \u2018sophisticated\u2019 gadget adds to company\u2019s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested. In a statement on Tuesday, the San Francisco-based AI company said it discovered the \u201csophisticated",
+      "outlet": "theguardian",
+      "published": "2026-10-13T22:59:55Z",
+      "title": "OpenAI employee arrested after recording device found in office",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
+    },
+    {
+      "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee",
+      "lede": "Chatbot prompts reveal the engineer\u2019s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "outlet": "wired",
+      "published": "2026-10-13T23:17:59Z",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

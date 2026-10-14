@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0aa4406a8c04e231ee401cb84957b7eed7bc8030",
+ "item_id_b": "9f1b9170cbfef578055ea2b2d685acc6bf37f8be",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0aa4406a8c04e231ee401cb84957b7eed7bc8030-9f1b9170cbfef578055ea2b2d685acc6bf37f8be",
+ "reason": "Both report the HomePod mini 2 refresh with its new chip and SoundGlow feature announced at the Welcome Home event.",
+ "same_story": true
+}

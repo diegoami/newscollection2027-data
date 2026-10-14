@@ -1,0 +1,40 @@
+{
+  "anchor": "303c8b8be26ff7b15e21ea6f392d5a041dbb5447",
+  "id": "2026-10-13-702df5",
+  "items": [
+    {
+      "item_id": "303c8b8be26ff7b15e21ea6f392d5a041dbb5447",
+      "lede": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T17:00:00Z",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+    },
+    {
+      "item_id": "48a5e08f244781fb9fc76fb365457919520f3edd",
+      "lede": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
+      "outlet": "engadget",
+      "published": "2026-10-13T17:00:00Z",
+      "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+      "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/"
+    },
+    {
+      "item_id": "df8bee1023b439a328e0bfb102a90978b46d3d6f",
+      "lede": "It just got a whole lot easier to vibe code the exact Android app you need \u2013 no developer experience required.",
+      "outlet": "zdnet",
+      "published": "2026-10-13T17:00:00Z",
+      "title": "Google lets you make personal Android apps for free now \u2013 with just prompts",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/"
+    },
+    {
+      "item_id": "7e60f5237eddc09552e605226895f0b34c933e5a",
+      "lede": "Google plans to help turn those personal AI-generated apps into wide releases.",
+      "outlet": "arstechnica",
+      "published": "2026-10-13T17:00:39Z",
+      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

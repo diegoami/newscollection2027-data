@@ -1,0 +1,36 @@
+{
+ "cluster_id": "2026-10-13-5aaac5",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T03:00:00Z",
+ "headline": "Rivian spinoff Mind Robotics hires ex-Apple, Ford and Tesla veteran Doug Field",
+ "summary": "Rivian spinoff Mind Robotics hired Doug Field as president. Field previously worked on Apple's secretive Project Titan car effort, oversaw development of the Tesla Model 3, and was Ford's EV chief.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Rivian spinoff Mind Robotics hired Doug Field as president.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "84e0fd2e237bfa5d6be2fc8df09f02b1ebad01bf", "quote": "Rivian spinoff Mind Robotics hires Doug Field as president"},
+    {"outlet": "techcrunch", "item_id": "46770a3648867a503543bef1c01afa2cb5769a54", "quote": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Field previously worked on Apple's secretive car project, Project Titan, as a VP of special projects.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "84e0fd2e237bfa5d6be2fc8df09f02b1ebad01bf", "quote": "Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car."},
+    {"outlet": "techcrunch", "item_id": "46770a3648867a503543bef1c01afa2cb5769a54", "quote": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Field also oversaw development of the Tesla Model 3 and was Ford's EV chief.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "46770a3648867a503543bef1c01afa2cb5769a54", "quote": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

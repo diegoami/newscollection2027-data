@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
+ "item_id_b": "638280d3d7fa6d0285cfdb2479da71ac810d5bb0",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3-638280d3d7fa6d0285cfdb2479da71ac810d5bb0",
+ "reason": "One article is a pre-event rumor/preview published before Apple's Welcome Home event, not a report of the actual announcement.",
+ "same_story": false
+}

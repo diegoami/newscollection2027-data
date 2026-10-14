@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9e58dc30161bca324a01c8c14c6faae92320b086",
+ "item_id_b": "cba5d058e15250f24f5f6111c1af0f2b7403302b",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9e58dc30161bca324a01c8c14c6faae92320b086-cba5d058e15250f24f5f6111c1af0f2b7403302b",
+ "reason": "One reports the IMF's Global Financial Stability Report on AI crash risk, the other its separate World Economic Outlook report.",
+ "same_story": false
+}

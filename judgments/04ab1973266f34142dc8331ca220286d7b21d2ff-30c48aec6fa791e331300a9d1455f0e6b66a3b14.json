@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "04ab1973266f34142dc8331ca220286d7b21d2ff",
+ "item_id_b": "30c48aec6fa791e331300a9d1455f0e6b66a3b14",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "04ab1973266f34142dc8331ca220286d7b21d2ff-30c48aec6fa791e331300a9d1455f0e6b66a3b14",
+ "reason": "One is the Windows 10 patch release and the other a separate Windows 11 patch release, different updates despite the same Patch Tuesday.",
+ "same_story": false
+}

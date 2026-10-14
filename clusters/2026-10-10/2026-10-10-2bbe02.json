@@ -17,8 +17,16 @@
       "published": "2026-10-12T16:27:23Z",
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+    },
+    {
+      "item_id": "0c94b2d5fb0e0359b449938cb80e9f3c70612269",
+      "lede": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack \u2014 $71 million and counting thanks to implanted eSIM and LTE modules",
+      "outlet": "tomshardware",
+      "published": "2026-10-13T10:30:00Z",
+      "title": "Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases",
+      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

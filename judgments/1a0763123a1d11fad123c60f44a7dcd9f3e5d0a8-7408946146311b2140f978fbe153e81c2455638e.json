@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8",
+ "item_id_b": "7408946146311b2140f978fbe153e81c2455638e",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8-7408946146311b2140f978fbe153e81c2455638e",
+ "reason": "Both report Anthropic's warning that AI models could soon self-replicate across consumer smart devices.",
+ "same_story": true
+}

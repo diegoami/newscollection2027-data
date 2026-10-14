@@ -1,0 +1,52 @@
+{
+ "cluster_id": "2026-10-13-d09e62",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "Bumble goes from takeover talks to a $1.3 billion acquisition deal",
+ "summary": "Bumble's shares rose on a report of roughly $1 billion takeover talks, pushing its market valuation above $580m but still far below its $14bn peak. Bumble has now agreed to a $1.3 billion acquisition, following years of declining subscribers and falling revenue at the dating app.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Bumble's shares rose after a report said the dating firm was in talks for a takeover valued around $1 billion.",
+   "sources": [
+    {"outlet": "bbc-technology", "item_id": "34e3643232f207a873f6e4bfee79966a1ccf548b", "quote": "Bumble shares soar after report dating firm in $1bn takeover talks"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The jump pushed Bumble's market valuation to more than $580m, still far below its peak of more than $14bn.",
+   "sources": [
+    {"outlet": "bbc-technology", "item_id": "34e3643232f207a873f6e4bfee79966a1ccf548b", "quote": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Bumble agreed to a $1.3 billion acquisition deal.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "691eac3de07f68077324d32b0ec281785cf042b6", "quote": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset"}
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "The deal comes after years of declining subscriber numbers and falling revenue at Bumble.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "691eac3de07f68077324d32b0ec281785cf042b6", "quote": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition."}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "number",
+   "severity": "medium",
+   "claim_ids": ["c1", "c3"],
+   "explanation": "BBC reported takeover talks valued around $1 billion, while TechCrunch reported Bumble agreed to a larger, $1.3 billion acquisition deal.",
+   "quotes": [
+    {"outlet": "bbc-technology", "item_id": "34e3643232f207a873f6e4bfee79966a1ccf548b", "quote": "Bumble shares soar after report dating firm in $1bn takeover talks"},
+    {"outlet": "techcrunch", "item_id": "691eac3de07f68077324d32b0ec281785cf042b6", "quote": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset"}
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

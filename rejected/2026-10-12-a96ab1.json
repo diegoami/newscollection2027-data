@@ -1,0 +1,68 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ca43aef1e63668cb484179a721ddffbe2ecc8381",
+            "outlet": "tomshardware",
+            "quote": "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting"
+          },
+          {
+            "item_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+            "outlet": "bleepingcomputer",
+            "quote": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight"
+          }
+        ],
+        "statement": "A cyberattack caused supermarket refrigerators to defrost by remotely activating automatic defrosting."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+            "outlet": "bleepingcomputer",
+            "quote": "in a cyberattack that reportedly targeted Danfoss refrigeration controllers."
+          }
+        ],
+        "statement": "The attack reportedly targeted Danfoss refrigeration controllers."
+      }
+    ],
+    "cluster_id": "2026-10-12-a96ab1",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Tom's Hardware describes the attack as hitting supermarkets across Europe, while BleepingComputer's report is specific to French supermarket chains.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "ca43aef1e63668cb484179a721ddffbe2ecc8381",
+            "outlet": "tomshardware",
+            "quote": "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting"
+          },
+          {
+            "item_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+            "outlet": "bleepingcomputer",
+            "quote": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-13T02:31:33Z",
+    "headline": "Cyberattack remotely defrosts supermarket refrigerators, targeting Danfoss controllers",
+    "model": "claude-sonnet-5",
+    "summary": "A cyberattack disabled supermarket refrigerators by remotely triggering automatic defrosting, reportedly targeting Danfoss refrigeration controllers. One outlet describes the attack as hitting supermarkets across Europe, while another reports it specifically struck multiple French supermarket chains."
+  },
+  "cluster_id": "2026-10-12-a96ab1",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-10-14T02:35:17Z"
+}

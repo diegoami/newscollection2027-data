@@ -1,0 +1,28 @@
+{
+ "cluster_id": "2026-10-13-2d0ddc",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+ "summary": "SpaceXSI announced a new bundled subscription that combines X Premium with AI tools Grok, Grok Bot and Cursor. Plans for the new X Subscription range from $8 to $200 per month.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "SpaceXSI announced a new bundled subscription combining X Premium, Grok, and Cursor.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "95ac42c3d56bd7b867010186ac6eddde3ccc1e0b", "quote": "SpaceXSI has announced a new subscription scheme that gives you access to Grok, Grok Bot, Cursor and X Premium."},
+    {"outlet": "techcrunch", "item_id": "ca06a4e7439a553a43c47b90b25a89d86069ce9f", "quote": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The new subscription offers plans ranging from $8 to $200 per month.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "ca06a4e7439a553a43c47b90b25a89d86069ce9f", "quote": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

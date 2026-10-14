@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0c94b2d5fb0e0359b449938cb80e9f3c70612269",
+ "item_id_b": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0c94b2d5fb0e0359b449938cb80e9f3c70612269-7549208eceec51b44914d63ccb16e1d42f9a56a7",
+ "reason": "Both report the Ledger hardware-wallet supply-chain tampering that let attackers drain crypto from compromised devices.",
+ "same_story": true
+}

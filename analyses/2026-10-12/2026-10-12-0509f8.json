@@ -1,0 +1,35 @@
+{
+ "cluster_id": "2026-10-12-0509f8",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:50:00Z",
+ "headline": "Abu Dhabi partners with Ultrahuman on smart-ring health data and biological-age model",
+ "summary": "Smart-ring maker Ultrahuman is partnering with the Abu Dhabi government to roll out its biological-age model across the UAE, with both sides spending the next two years on research and clinical validation. Abu Dhabi also wants to incorporate Ultrahuman's wearables data into its public health app.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Ultrahuman will roll out its biological-age model across the UAE in partnership with Abu Dhabi.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "7a20cda74467a6cc0c6673361f349f587bab080e", "quote": "Smart ring maker Ultrahuman to roll out biological-age model across UAE"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Ultrahuman and Abu Dhabi will spend the next two years on research and clinical validation of the model.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "7a20cda74467a6cc0c6673361f349f587bab080e", "quote": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The Abu Dhabi government wants to incorporate Ultrahuman's wearables data into its public health app.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "d1d0b2e0be2dee0ffd914af542ea41663119c581", "quote": "The Abu Dhabi government wants to incorporate wearables data into its public health app."},
+    {"outlet": "engadget", "item_id": "d1d0b2e0be2dee0ffd914af542ea41663119c581", "quote": "Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "48a5e08f244781fb9fc76fb365457919520f3edd",
+ "item_id_b": "7e60f5237eddc09552e605226895f0b34c933e5a",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "48a5e08f244781fb9fc76fb365457919520f3edd-7e60f5237eddc09552e605226895f0b34c933e5a",
+ "reason": "Both report Google Play's change letting people build and distribute personal AI-generated Android apps.",
+ "same_story": true
+}

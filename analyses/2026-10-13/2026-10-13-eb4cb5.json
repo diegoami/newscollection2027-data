@@ -1,0 +1,29 @@
+{
+ "cluster_id": "2026-10-13-eb4cb5",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "IMF warns an AI stock crash could threaten global financial stability",
+ "summary": "The IMF warned that a crash in high AI-sector valuations could ripple across global markets and threaten world financial stability, citing mounting debt, government borrowing and cyberattacks as compounding risks.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "The IMF warned that a crash in AI stock valuations could threaten world financial stability.",
+   "sources": [
+    {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "Threat of AI share crash puts world financial stability at risk, says IMF"},
+    {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "AI bubble could burst and take global economy with it, IMF warns"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The IMF's warning cited high AI-sector valuations and debt, alongside concerns about government borrowing and cyberattacks.",
+   "sources": [
+    {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks"},
+    {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

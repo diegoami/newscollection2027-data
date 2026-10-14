@@ -1,93 +1,110 @@
 {
-  "cluster_id": "2026-10-06-744d33",
-  "cluster_version": 6,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-13T02:31:33Z",
-  "headline": "Apple plans October 13 'Welcome Home' event, reportedly partnering with LG on smart home gear",
-  "summary": "Apple is reportedly partnering with LG on smart home devices including a lock, doorbell, thermostat and camera, and has announced a 'Welcome Home' launch event in New York on October 13th. Outlets expect the event to include a new smart home hub, refreshed Apple TV and HomePod Mini, and possibly a new platform called homeOS.",
-  "claims": [
-    {
-      "id": "c1",
-      "statement": "Apple is reportedly partnering with LG on smart home devices such as a lock, doorbell, thermostat and camera.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de",
-          "quote": "Apple is collaborating with LG on a new lineup of smart home devices"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "96c8a1a70fac25a19bcae7bbe15a20f53a3248ca",
-          "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "992eb095a559f3796a3e05ac16ceb3be56b9c463",
-          "quote": "The doorbell, security cameras, thermostats and more could be announced next week."
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Apple announced a 'Welcome Home' launch event for October 13th in New York.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258",
-          "quote": "Apple announces surprise ‘Welcome home’ launch event"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "7ba1184948140aed16683c0d8870cc4b139fc62b",
-          "quote": "Apple is set to show off new smart home devices at an October 13 event"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "2fb9aadce2ef6373c18ab5ed12b9287dd79efdb3",
-          "quote": "This week, Apple is hosting its first-ever dedicated smart home event."
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "Leaked images showed a lock, thermostat and temperature sensor among the rumored products.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "561638201db5e4358c3bc7e28f2506ee4904be98",
-          "quote": "These include a lock, a thermostat and a temperature sensor."
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "Expectations for the event include a new smart home hub and refreshed Apple TV and HomePod Mini.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "a1747b83ea7164bef0d787f0ee4d3ab7546042d0",
-          "quote": "We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub."
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "1d6a14230a08a970c8a5aee7f96fbbb54a8ef4ee",
-          "quote": "The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories."
-        }
-      ]
-    },
-    {
-      "id": "c5",
-      "statement": "Apple may debut a new platform called homeOS at the event.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "a1747b83ea7164bef0d787f0ee4d3ab7546042d0",
-          "quote": "We could also see the debut of a new platform called homeOS"
-        }
-      ]
-    }
-  ],
-  "discrepancies": [],
-  "agreement": "full"
+ "cluster_id": "2026-10-06-744d33",
+ "cluster_version": 7,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:40:00Z",
+ "headline": "Apple's 'Welcome Home' event launches HomeView, refreshed Apple TV 4K and HomePod mini",
+ "summary": "At its October 13 'Welcome Home' event, Apple launched the $299 HomeView smart display, a refreshed Apple TV 4K with hands-free Siri microphones, an updated $149 HomePod mini, and the Apple Home Collection of smart-home accessories made with LG and Schneider Electric, after earlier reports named only LG. Outlets disagree on whether the HomePod mini's Siri AI works at launch or arrives later.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Apple hosted a 'Welcome Home' smart-home event in New York on October 13.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258", "quote": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET."},
+    {"outlet": "theverge", "item_id": "612aae39447e7f5765c142e6024f110e1b72f58e", "quote": "Apple’s October 13th launch event — given the tagline “Welcome Home” — is all about its efforts for the smart home."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Apple unveiled HomeView, a 7-inch smart display that acts as a smart-home hub, priced at $299.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "6ac20520c68a3dd42b6f17f0efd619c4bd51c599", "quote": "Two versions will be available in November for $299."},
+    {"outlet": "arstechnica", "item_id": "9f793ae7265cdea647c9eb739391b6a9471df9f3", "quote": "Apple’s first smart display is the 7-inch HomeView for $299"}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Apple refreshed the Apple TV 4K with far-field microphones for hands-free Siri and Find My support in the remote.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "d3d7d6aa60950a1074b7633353d13061ea793e9c", "quote": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote."},
+    {"outlet": "engadget", "item_id": "6a7fb2d3dfe44f5f46176ce29d6c478889e6a329", "quote": "New microphones, a new remote and the new Siri AI are on the company's streaming box."}
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "The new Apple TV 4K costs $299 and will be available November 13.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "de48459db6d92449d37cc3d3f3d8cc0582f84628", "quote": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13."}
+   ]
+  },
+  {
+   "id": "c5",
+   "statement": "The new Apple TV 4K costs about $100 more than the 2022 model it replaces.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "df6837d0018fb4edcab601206941e9b2ec34bd9f", "quote": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?"}
+   ]
+  },
+  {
+   "id": "c6",
+   "statement": "Apple refreshed the HomePod mini with a new chip and a 'SoundGlow' visual feature, priced at $149 and available starting October 30.",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b", "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."}
+   ]
+  },
+  {
+   "id": "c7",
+   "statement": "The HomePod mini's Siri AI features are not available at launch and are coming later.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa", "quote": "Apple announces the HomePod Mini 2, but it isn’t ready for Siri AI at launch"},
+    {"outlet": "engadget", "item_id": "7b425a8798192ffe78d0fffda1a33fd08a892f95", "quote": "The new model arrives on October 30, but its Siri AI features are coming later."}
+   ]
+  },
+  {
+   "id": "c8",
+   "statement": "TechCrunch described the new HomePod mini as launching 'with Siri AI.'",
+   "sources": [
+    {"outlet": "techcrunch", "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b", "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."}
+   ]
+  },
+  {
+   "id": "c9",
+   "statement": "Apple launched the Apple Home Collection, smart-home accessories including cameras, thermostats and door locks, made with LG and Schneider Electric.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "dabd38ebc28c81965af9db63069e6d4bb6815412", "quote": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use."},
+    {"outlet": "engadget", "item_id": "b68ffad83bef1520afca976bf28db49bcec91172", "quote": "Apple collaborated with LG and Schneider Electric on products that work with its HomeView display."}
+   ]
+  },
+  {
+   "id": "c10",
+   "statement": "Before the event, reports said Apple was partnering with LG alone on the new smart-home accessories.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de", "quote": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat"},
+    {"outlet": "techcrunch", "item_id": "96c8a1a70fac25a19bcae7bbe15a20f53a3248ca", "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "contradiction",
+   "severity": "high",
+   "claim_ids": ["c7", "c8"],
+   "explanation": "TechCrunch's lede frames the HomePod mini as launching 'with Siri AI,' while The Verge and Engadget state its Siri AI features are not ready at launch.",
+   "quotes": [
+    {"outlet": "techcrunch", "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b", "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."},
+    {"outlet": "theverge", "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa", "quote": "Apple announces the HomePod Mini 2, but it isn’t ready for Siri AI at launch"}
+   ]
+  },
+  {
+   "kind": "omission",
+   "severity": "low",
+   "claim_ids": ["c9", "c10"],
+   "explanation": "Reports before the event named LG as Apple's only hardware partner, but the actual Home Collection launch credited both LG Electronics and Schneider Electric.",
+   "quotes": [
+    {"outlet": "techcrunch", "item_id": "96c8a1a70fac25a19bcae7bbe15a20f53a3248ca", "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"},
+    {"outlet": "theverge", "item_id": "dabd38ebc28c81965af9db63069e6d4bb6815412", "quote": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use."}
+   ]
+  }
+ ],
+ "agreement": "conflicting"
 }

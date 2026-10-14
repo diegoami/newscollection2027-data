@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "083eb6d9e76f3ec8f7e00b4c5255943f70a1252c",
+ "item_id_b": "47c2a6e011d8ec69fd567ab8d87e1339a32b793c",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "083eb6d9e76f3ec8f7e00b4c5255943f70a1252c-47c2a6e011d8ec69fd567ab8d87e1339a32b793c",
+ "reason": "Both are TechCrunch's own recurring promotional reminders about Disrupt 2026 ticket sales, not a report of one identifiable news event.",
+ "same_story": false
+}

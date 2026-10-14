@@ -1,0 +1,36 @@
+{
+ "cluster_id": "2026-10-13-9e4321",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T03:00:00Z",
+ "headline": "Facebook launches 'Your Algorithm' tool to let users customize their feed",
+ "summary": "Meta launched 'Your Algorithm' on Facebook, a feature already used on Instagram that lets users directly add and manage topics they want to see in their feed and Reels by marking items 'interested' or 'not interested.' Meta says updates take effect right away, though control over the feed is limited to reasonable requests.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Meta launched 'Your Algorithm,' a feature letting Facebook users add and manage topics they want to see in their feed and Reels, after first launching it on Instagram.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "c9abe9b08cd34f7a691a39afaa90b8ae66719820", "quote": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels."},
+    {"outlet": "techcrunch", "item_id": "5349b4bff5efc00708e8f13a056ddb9d987194e2", "quote": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Users can tune recommendations by marking topics 'interested' or 'not interested,' and Meta says recommendations respond right away.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "c9abe9b08cd34f7a691a39afaa90b8ae66719820", "quote": "Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Users have some, but not unlimited, control over what they see in their feed.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "7657c901a5cbc7f70dc1f9f054898a4bbc5d56ec", "quote": "Within reason, of course."},
+    {"outlet": "engadget", "item_id": "7657c901a5cbc7f70dc1f9f054898a4bbc5d56ec", "quote": "Don't like your Facebook feed? Meta wants to know what you want to see instead"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

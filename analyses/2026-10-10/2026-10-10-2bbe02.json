@@ -1,61 +1,35 @@
 {
-  "cluster_id": "2026-10-10-2bbe02",
-  "cluster_version": 1,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-13T02:31:33Z",
-  "headline": "Ledger confirms hardware implant drained wallets via tampered reseller devices",
-  "summary": "Ledger confirmed a hardware implant in devices sold through a Southeast Asian reseller drained users' cryptocurrency wallets, and asked the reseller to pause sales while it investigates. Outlets differ on the reseller's name, spelling it 'CryptoBillis' in one report and 'CryptoBilis' in another.",
-  "claims": [
-    {
-      "id": "c1",
-      "statement": "Ledger confirmed a hardware implant in devices from a reseller drained users' crypto wallets.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
-          "quote": "users of the Ledger crypto wallet have seen their accounts drained"
-        },
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
-          "quote": "were compromised with a hardware implant that drained users' cryptocurrency wallets."
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Ledger asked the reseller to pause sales of its wallets while it investigates.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
-          "quote": "Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation."
-        }
-      ]
-    }
-  ],
-  "discrepancies": [
-    {
-      "kind": "attribution",
-      "severity": "low",
-      "claim_ids": [
-        "c1"
-      ],
-      "explanation": "The outlets spell the reseller's name differently: 'CryptoBillis' versus 'CryptoBilis'.",
-      "quotes": [
-        {
-          "outlet": "theverge",
-          "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7",
-          "quote": "sold by CryptoBillis"
-        },
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
-          "quote": "reseller CryptoBilis"
-        }
-      ]
-    }
-  ],
-  "agreement": "partial"
+ "cluster_id": "2026-10-10-2bbe02",
+ "cluster_version": 2,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:50:00Z",
+ "headline": "Tampered Ledger hardware wallets sold through reseller drain users' crypto",
+ "summary": "Ledger confirmed that hardware crypto wallets distributed through a Southeast Asian reseller were compromised with an implanted chip that drained users' cryptocurrency. The implants used eSIM and LTE modules to steal recovery phrases, with more than $71 million stolen so far in an ongoing supply-chain attack; Ledger asked the reseller to pause sales while it investigates.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Ledger hardware wallets sold through a Southeast Asian reseller were tampered with a hidden hardware implant that drained users' cryptocurrency.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7", "quote": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis."},
+    {"outlet": "bleepingcomputer", "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e", "quote": "Ledger confirms spy chip implant behind wallet crypto thefts"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Ledger confirmed the tampering and asked the reseller to pause sales while it conducts an investigation.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "7549208eceec51b44914d63ccb16e1d42f9a56a7", "quote": "Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The implanted eSIM and LTE modules were used to steal crypto recovery phrases, with more than $71 million stolen so far in an ongoing supply-chain attack.",
+   "sources": [
+    {"outlet": "tomshardware", "item_id": "0c94b2d5fb0e0359b449938cb80e9f3c70612269", "quote": "Store-bought Ledger hardware crypto wallets in Southeast Asia and Europe compromised in ongoing supply chain attack — $71 million and counting thanks to implanted eSIM and LTE modules"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
 }

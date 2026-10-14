@@ -1,0 +1,24 @@
+{
+  "anchor": "7a20cda74467a6cc0c6673361f349f587bab080e",
+  "id": "2026-10-12-0509f8",
+  "items": [
+    {
+      "item_id": "7a20cda74467a6cc0c6673361f349f587bab080e",
+      "lede": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+      "outlet": "techcrunch",
+      "published": "2026-10-12T14:09:34Z",
+      "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+      "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
+    },
+    {
+      "item_id": "d1d0b2e0be2dee0ffd914af542ea41663119c581",
+      "lede": "The Abu Dhabi government wants to incorporate wearables data into its public health app.",
+      "outlet": "engadget",
+      "published": "2026-10-13T09:21:57Z",
+      "title": "Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app",
+      "url": "https://www.engadget.com/2284956/ultrahuman-abu-dhabi-partnership/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

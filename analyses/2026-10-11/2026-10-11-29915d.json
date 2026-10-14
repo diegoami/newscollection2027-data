@@ -1,78 +1,56 @@
 {
-  "cluster_id": "2026-10-11-29915d",
-  "cluster_version": 1,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-13T02:31:33Z",
-  "headline": "Outlets split on whether Yandex drone strikes caused Russian bot-traffic collapse",
-  "summary": "Ukrainian drone strikes on Yandex data centers knocked cloud and payment services offline, with network connectivity reported at about 30% of normal. One outlet reported that bot traffic collapsed because of the strikes, while another said the outage probably was not actually behind the drop in Russian bot activity.",
-  "claims": [
-    {
-      "id": "c1",
-      "statement": "Ukrainian drone strikes on Yandex data centers caused a dramatic fall in Russian bot traffic.",
-      "sources": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
-          "quote": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers."
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Network connectivity at Yandex fell to about 30% of normal, with cloud and payments offline.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "51ffae92aa95cef3347bed1ddb5543b00db96141",
-          "quote": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"
-        },
-        {
-          "outlet": "theregister",
-          "item_id": "51ffae92aa95cef3347bed1ddb5543b00db96141",
-          "quote": "network connectivity falls to 30% of normal"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The apparent bot-traffic 'blitz' from the outage is probably not the kind of bot activity associated with Russia.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
-          "quote": "The Yandex outage probably didn’t blitz Russian bots"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
-          "quote": "but in reality it's probably not the kind of bot activity most people associate with Russia"
-        }
-      ]
-    }
-  ],
-  "discrepancies": [
-    {
-      "kind": "contradiction",
-      "severity": "high",
-      "claim_ids": [
-        "c1",
-        "c3"
-      ],
-      "explanation": "Tom's Hardware attributes the bot-traffic collapse directly to the drone strikes, while The Verge says the outage probably isn't why bot activity dropped.",
-      "quotes": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
-          "quote": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers."
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
-          "quote": "The Yandex outage probably didn’t blitz Russian bots"
-        }
-      ]
-    }
-  ],
-  "agreement": "conflicting"
+ "cluster_id": "2026-10-11-29915d",
+ "cluster_version": 2,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:50:00Z",
+ "headline": "Outlets split on whether Ukraine's Yandex strikes actually curbed Russian bots",
+ "summary": "Ukrainian drone strikes knocked out several Yandex data centers, disrupting cloud services and payments. One outlet reported Russian bot traffic nearly eliminated as a result, but another found the outage probably didn't reduce the bot activity associated with Russia, and reported Russian bot farms still trolling days later despite a presidential claim that the strikes hurt disinformation efforts.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Ukrainian drone strikes knocked out multiple Yandex data centers, taking Russian cloud and payment services offline.",
+   "sources": [
+    {"outlet": "theregister", "item_id": "51ffae92aa95cef3347bed1ddb5543b00db96141", "quote": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"},
+    {"outlet": "theregister", "item_id": "51ffae92aa95cef3347bed1ddb5543b00db96141", "quote": "Techies at 'Russia's Google' work around the clock as users await access to funds and network connectivity falls to 30% of normal"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Tom's Hardware reported that Russian bot traffic was nearly eliminated / fell dramatically after the strikes.",
+   "sources": [
+    {"outlet": "tomshardware", "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6", "quote": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers"},
+    {"outlet": "tomshardware", "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6", "quote": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The Verge reported the Yandex outage probably did not actually reduce the kind of bot activity most people associate with Russia.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5", "quote": "The Yandex outage probably didn’t blitz Russian bots"},
+    {"outlet": "theverge", "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5", "quote": "but in reality it's probably not the kind of bot activity most people associate with Russia"}
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Russian bot farms were still active days after the drone strikes, despite a claim from Zelenskyy that the campaign hurt Russia's disinformation efforts.",
+   "sources": [
+    {"outlet": "theverge", "item_id": "4556d38e1ee4ac275120a993910042fcb94a7c3b", "quote": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"},
+    {"outlet": "theverge", "item_id": "4556d38e1ee4ac275120a993910042fcb94a7c3b", "quote": "President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts."}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "contradiction",
+   "severity": "high",
+   "claim_ids": ["c2", "c4"],
+   "explanation": "Tom's Hardware reported Russian bot traffic nearly eliminated by the drone strikes, while The Verge reported Russian bot farms are still trolling days later.",
+   "quotes": [
+    {"outlet": "tomshardware", "item_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6", "quote": "Russian bot traffic falls dramatically as Ukraine takes out several Yandex data centers."},
+    {"outlet": "theverge", "item_id": "4556d38e1ee4ac275120a993910042fcb94a7c3b", "quote": "Russian bot farms are still trolling, even after Ukraine’s drone strikes on Yandex"}
+   ]
+  }
+ ],
+ "agreement": "conflicting"
 }

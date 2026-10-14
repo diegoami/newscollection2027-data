@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7a20cda74467a6cc0c6673361f349f587bab080e",
+ "item_id_b": "d1d0b2e0be2dee0ffd914af542ea41663119c581",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7a20cda74467a6cc0c6673361f349f587bab080e-d1d0b2e0be2dee0ffd914af542ea41663119c581",
+ "reason": "Both report Abu Dhabi's partnership with Ultrahuman to use its smart-ring tech in a public health app.",
+ "same_story": true
+}

@@ -1,0 +1,35 @@
+{
+ "cluster_id": "2026-10-13-8e6785",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "Weak '123456' password tied to breach of Denmark's national registry",
+ "summary": "A hacker breached Denmark's Central Register of Persons, accessing 8.8 million records, through a weakly secured account at a small IT and data services business. The hacker claimed one of the compromised accounts was protected only by the password '123456'; local media reported three weakly protected accounts at the firm were abused.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "A hacker breached the Danish national population registry (CPF), accessing 8.8 million records, via a weakly protected account at a small IT and data services business.",
+   "sources": [
+    {"outlet": "theregister", "item_id": "abd771f6e3f18ebab952a176843f5af735d93793", "quote": "'123456' password linked to Denmark data breach affecting 8.8M people"},
+    {"outlet": "tomshardware", "item_id": "e2be827109f2c2443da3ba55f508e0009cc2382d", "quote": "The Danish Central Register of Persons (CPF) was breached through the account of an IT and data services business."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The hacker claimed one of the breached accounts was protected only by the password '123456'.",
+   "sources": [
+    {"outlet": "tomshardware", "item_id": "e2be827109f2c2443da3ba55f508e0009cc2382d", "quote": "The hacker claimed that one of the breached accounts was only protected by a '123456' password."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Local media reported three weakly protected accounts at the IT business were abused.",
+   "sources": [
+    {"outlet": "theregister", "item_id": "abd771f6e3f18ebab952a176843f5af735d93793", "quote": "Local media reports three weakly protected accounts at small IT biz whose access to national register was abused"}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

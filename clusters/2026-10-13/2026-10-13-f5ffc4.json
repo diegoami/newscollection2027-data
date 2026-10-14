@@ -1,0 +1,24 @@
+{
+  "anchor": "07a254fcb68c0319bb4cc1f74bc08948d408195b",
+  "id": "2026-10-13-f5ffc4",
+  "items": [
+    {
+      "item_id": "07a254fcb68c0319bb4cc1f74bc08948d408195b",
+      "lede": "Google has rolled out Gemini 4 Argon to more users.",
+      "outlet": "engadget",
+      "published": "2026-10-13T16:00:00Z",
+      "title": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search",
+      "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/"
+    },
+    {
+      "item_id": "caa6203fc500b5acafe6944b81d92870c41db33c",
+      "lede": "Developers will get 50 percent discounted API rates through November.",
+      "outlet": "arstechnica",
+      "published": "2026-10-13T16:00:02Z",
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

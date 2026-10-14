@@ -1,0 +1,28 @@
+{
+ "cluster_id": "2026-10-12-b551a2",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:50:00Z",
+ "headline": "Wargame simulation finds solar geoengineering could spark a geopolitical arms race",
+ "summary": "A first-of-its-kind simulation wargamed solar geoengineering and found that letting geopolitics drive the decision could go badly: the technology could buy humanity time against climate change, but could also trigger a dangerous new arms race between nations.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "A first-of-its-kind simulation wargamed solar geoengineering and explored how geopolitics would shape the outcome.",
+   "sources": [
+    {"outlet": "wired", "item_id": "f8e145330e841dc8eb60927761f8cc2d9b60ea18", "quote": "A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel."},
+    {"outlet": "arstechnica", "item_id": "1acd025aeb34750ab021b9fe9bc0300bd04b3672", "quote": "Solar geoengineering simulation shows what happens when geopolitics takes over."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Solar geoengineering could buy time against climate change, but could also trigger a dangerous new arms race.",
+   "sources": [
+    {"outlet": "wired", "item_id": "f8e145330e841dc8eb60927761f8cc2d9b60ea18", "quote": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race."}
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

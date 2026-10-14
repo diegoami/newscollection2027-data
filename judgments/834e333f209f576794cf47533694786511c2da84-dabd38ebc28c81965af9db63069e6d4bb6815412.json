@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "834e333f209f576794cf47533694786511c2da84",
+ "item_id_b": "dabd38ebc28c81965af9db63069e6d4bb6815412",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "834e333f209f576794cf47533694786511c2da84-dabd38ebc28c81965af9db63069e6d4bb6815412",
+ "reason": "Both report Apple's new Home Collection partner devices (locks, thermostats, doorbells) from the Welcome Home event.",
+ "same_story": true
+}

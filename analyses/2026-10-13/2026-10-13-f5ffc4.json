@@ -1,0 +1,46 @@
+{
+ "cluster_id": "2026-10-13-f5ffc4",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T03:00:00Z",
+ "headline": "Gemini 4 Argon rolls out to more users, though some access requires payment",
+ "summary": "Google rolled out Gemini 4 Argon in the Gemini app and AI Mode in Search to more users. One report said the Gemini app and Antigravity rollout is available only to paying users, with developers getting a 50 percent discount on API rates through November.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Google rolled out Gemini 4 Argon in the Gemini app and AI Mode in Search to more users.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "07a254fcb68c0319bb4cc1f74bc08948d408195b", "quote": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search"},
+    {"outlet": "engadget", "item_id": "07a254fcb68c0319bb4cc1f74bc08948d408195b", "quote": "Google has rolled out Gemini 4 Argon to more users."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Ars Technica reported that Gemini 4 Argon's rollout in the Gemini app and Antigravity is available only to paying users.",
+   "sources": [
+    {"outlet": "arstechnica", "item_id": "caa6203fc500b5acafe6944b81d92870c41db33c", "quote": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay"}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Developers get a 50 percent discount on API rates through November.",
+   "sources": [
+    {"outlet": "arstechnica", "item_id": "caa6203fc500b5acafe6944b81d92870c41db33c", "quote": "Developers will get 50 percent discounted API rates through November."}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "framing",
+   "severity": "medium",
+   "claim_ids": ["c1", "c2"],
+   "explanation": "Engadget reports Gemini 4 Argon rolling out broadly to more users, while Ars Technica says the rollout in the Gemini app and Antigravity is available only to paying users.",
+   "quotes": [
+    {"outlet": "engadget", "item_id": "07a254fcb68c0319bb4cc1f74bc08948d408195b", "quote": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search"},
+    {"outlet": "arstechnica", "item_id": "caa6203fc500b5acafe6944b81d92870c41db33c", "quote": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay"}
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

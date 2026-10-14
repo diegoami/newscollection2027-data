@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "b4328e8096770895528593d4f1a0f42b1967e22d",
+ "item_id_b": "f35a073890448086210a56d286ed4f1281adabb4",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "b4328e8096770895528593d4f1a0f42b1967e22d-f35a073890448086210a56d286ed4f1281adabb4",
+ "reason": "Both report Microsoft's third-generation Maia AI accelerator chip announcement.",
+ "same_story": true
+}

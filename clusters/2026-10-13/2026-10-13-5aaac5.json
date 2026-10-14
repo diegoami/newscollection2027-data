@@ -1,0 +1,24 @@
+{
+  "anchor": "84e0fd2e237bfa5d6be2fc8df09f02b1ebad01bf",
+  "id": "2026-10-13-5aaac5",
+  "items": [
+    {
+      "item_id": "84e0fd2e237bfa5d6be2fc8df09f02b1ebad01bf",
+      "lede": "Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-13T18:30:00Z",
+      "title": "Rivian spinoff Mind Robotics hires Doug Field as president",
+      "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple"
+    },
+    {
+      "item_id": "46770a3648867a503543bef1c01afa2cb5769a54",
+      "lede": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
+      "outlet": "techcrunch",
+      "published": "2026-10-13T18:30:03Z",
+      "title": "Rivian\u2019s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

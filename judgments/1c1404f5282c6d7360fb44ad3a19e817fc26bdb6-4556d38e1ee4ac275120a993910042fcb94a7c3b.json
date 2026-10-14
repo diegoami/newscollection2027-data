@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6",
+ "item_id_b": "4556d38e1ee4ac275120a993910042fcb94a7c3b",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1c1404f5282c6d7360fb44ad3a19e817fc26bdb6-4556d38e1ee4ac275120a993910042fcb94a7c3b",
+ "reason": "Both report the effect of Ukraine's drone strikes on Yandex's data centers and Russian bot traffic.",
+ "same_story": true
+}

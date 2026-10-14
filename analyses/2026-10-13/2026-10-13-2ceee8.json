@@ -1,0 +1,46 @@
+{
+ "cluster_id": "2026-10-13-2ceee8",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T03:00:00Z",
+ "headline": "Discovery+ raises prices up to 20% a week after Skydance merger",
+ "summary": "Discovery+ raised its prices by up to 20 percent about a week after the Skydance merger. One report framed the timing skeptically, while another said the higher prices are said to be unrelated to the merger.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Discovery+ raised its prices by up to 20 percent, about a week after the Skydance merger.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "31370b96dfe734802edf61a0e332a3bf21543c50", "quote": "Discovery+ gets a price bump just a week after the Skydance merger"},
+    {"outlet": "arstechnica", "item_id": "282555699f36f0731e924b892a44c7e2251c2c8c", "quote": "Skydance’s Discovery+ prices increase by up to 20 percent"}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The price increase is said to be unrelated to the Skydance merger.",
+   "sources": [
+    {"outlet": "arstechnica", "item_id": "282555699f36f0731e924b892a44c7e2251c2c8c", "quote": "The higher prices are said to be unrelated to the Skydance merger."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Engadget's framing was skeptical about the timing coinciding with the Skydance merger.",
+   "sources": [
+    {"outlet": "engadget", "item_id": "31370b96dfe734802edf61a0e332a3bf21543c50", "quote": "Who could have possibly seen this coming."}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "attribution",
+   "severity": "medium",
+   "claim_ids": ["c2", "c3"],
+   "explanation": "Engadget's sarcastic framing implies the price bump is linked to the Skydance merger's timing, while Ars Technica reports the higher prices are said to be unrelated to the merger.",
+   "quotes": [
+    {"outlet": "engadget", "item_id": "31370b96dfe734802edf61a0e332a3bf21543c50", "quote": "Who could have possibly seen this coming."},
+    {"outlet": "arstechnica", "item_id": "282555699f36f0731e924b892a44c7e2251c2c8c", "quote": "The higher prices are said to be unrelated to the Skydance merger."}
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

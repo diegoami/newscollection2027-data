@@ -1,0 +1,46 @@
+{
+ "cluster_id": "2026-10-13-635869",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-14T02:55:00Z",
+ "headline": "TFG London cyberattack disrupts Phase Eight, Hobbs and Whistles retail systems",
+ "summary": "TFG London, which owns fashion retailers Phase Eight, Hobbs and Whistles, confirmed a cybersecurity incident that disrupted its IT systems and apologized to customers. One report's headline named only Phase Eight and Hobbs as affected, while another also named Whistles. Separately, H&M is investigating an unrelated hacking claim.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "TFG London, owner of Phase Eight and Hobbs, confirmed a cybersecurity incident and apologized to customers for the disruption.",
+   "sources": [
+    {"outlet": "bbc-technology", "item_id": "08f07a5f3ca00a27899c1beecef47df64de3c0c3", "quote": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim"},
+    {"outlet": "bbc-technology", "item_id": "08f07a5f3ca00a27899c1beecef47df64de3c0c3", "quote": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday."}
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The cybersecurity incident impacted IT systems used by the Phase Eight, Hobbs, and Whistles fashion brands.",
+   "sources": [
+    {"outlet": "bleepingcomputer", "item_id": "1728782a1e6c5132f53c7c3e384e51b4257b1d00", "quote": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands."}
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "H&M is separately investigating a different hacking claim.",
+   "sources": [
+    {"outlet": "bbc-technology", "item_id": "08f07a5f3ca00a27899c1beecef47df64de3c0c3", "quote": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim"}
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "omission",
+   "severity": "low",
+   "claim_ids": ["c1", "c2"],
+   "explanation": "BBC's headline names only Phase Eight and Hobbs as the TFG London brands hit, while BleepingComputer's lede also names Whistles among the affected brands.",
+   "quotes": [
+    {"outlet": "bbc-technology", "item_id": "08f07a5f3ca00a27899c1beecef47df64de3c0c3", "quote": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim"},
+    {"outlet": "bleepingcomputer", "item_id": "1728782a1e6c5132f53c7c3e384e51b4257b1d00", "quote": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands."}
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

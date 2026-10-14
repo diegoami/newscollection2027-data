@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522",
+ "item_id_b": "fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd",
+ "judged_at": "2026-10-14T02:30:00Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5ae29bf7b51ae6e43f9c0d2fb5d8197248f68522-fe7fa2faa2f6084d54cdc92c1bbc74d19e1b69cd",
+ "reason": "Both report the cyberattack that disabled refrigeration at French/European supermarkets.",
+ "same_story": true
+}
