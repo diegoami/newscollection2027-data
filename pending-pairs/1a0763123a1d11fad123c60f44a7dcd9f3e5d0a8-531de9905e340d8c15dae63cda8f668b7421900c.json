@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8",
+    "lede": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T21:16:34Z",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+  },
+  "b": {
+    "item_id": "531de9905e340d8c15dae63cda8f668b7421900c",
+    "lede": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
+    "outlet": "theregister",
+    "published": "2026-10-13T16:49:00Z",
+    "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866"
+  },
+  "score": 0.773375
+}

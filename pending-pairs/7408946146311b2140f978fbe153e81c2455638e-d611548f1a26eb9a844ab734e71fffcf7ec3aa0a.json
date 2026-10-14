@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7408946146311b2140f978fbe153e81c2455638e",
+    "lede": "Anthropic\u2019s paper establishes conceptual model capabilities, but doesn\u2019t quite demonstrate a real threat until models improve further.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T14:00:00Z",
+    "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves"
+  },
+  "b": {
+    "item_id": "d611548f1a26eb9a844ab734e71fffcf7ec3aa0a",
+    "lede": "Researchers say \u2018AI worms\u2019 could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become \u201cself-replicating\u201d and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners. Once this happens, the company said, the models could power themselves within these devices without the need",
+    "outlet": "theguardian",
+    "published": "2026-10-13T20:55:04Z",
+    "title": "AI in your oven? Anthropic warns models \u2018months away\u2019 from self-replication on smart devices",
+    "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
+  },
+  "score": 0.643597
+}

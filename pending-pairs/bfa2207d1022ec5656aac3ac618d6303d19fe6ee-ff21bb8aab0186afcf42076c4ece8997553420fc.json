@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee",
+    "lede": "Chatbot prompts reveal the engineer\u2019s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "outlet": "wired",
+    "published": "2026-10-13T23:17:59Z",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+  },
+  "b": {
+    "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc",
+    "lede": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T22:33:02Z",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+  },
+  "score": 0.672492
+}

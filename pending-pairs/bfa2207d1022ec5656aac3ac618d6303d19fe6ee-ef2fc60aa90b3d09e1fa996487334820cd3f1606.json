@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee",
+    "lede": "Chatbot prompts reveal the engineer\u2019s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "outlet": "wired",
+    "published": "2026-10-13T23:17:59Z",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+  },
+  "b": {
+    "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606",
+    "lede": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T20:59:11Z",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+  },
+  "score": 0.627091
+}

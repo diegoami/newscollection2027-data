@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8",
+    "lede": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T21:16:34Z",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+  },
+  "b": {
+    "item_id": "f35a073890448086210a56d286ed4f1281adabb4",
+    "lede": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-12T13:00:00Z",
+    "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+  },
+  "score": 0.590011
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8471d4f78df8d3fd27306028d214c5d02b8c9414",
+    "lede": "Discovery of \u2018sophisticated\u2019 gadget adds to company\u2019s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested. In a statement on Tuesday, the San Francisco-based AI company said it discovered the \u201csophisticated",
+    "outlet": "theguardian",
+    "published": "2026-10-13T22:59:55Z",
+    "title": "OpenAI employee arrested after recording device found in office",
+    "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
+  },
+  "b": {
+    "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606",
+    "lede": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T20:59:11Z",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+  },
+  "score": 0.62134
+}

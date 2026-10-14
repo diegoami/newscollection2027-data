@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606",
+    "lede": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company\u2019s super intelligence technology.\"",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T20:59:11Z",
+    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+    "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
+  },
+  "b": {
+    "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc",
+    "lede": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T22:33:02Z",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+  },
+  "score": 0.706208
+}

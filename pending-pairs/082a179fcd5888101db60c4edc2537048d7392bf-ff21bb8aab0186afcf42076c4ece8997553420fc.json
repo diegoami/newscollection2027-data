@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "082a179fcd5888101db60c4edc2537048d7392bf",
+    "lede": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-13T20:45:25Z",
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+  },
+  "b": {
+    "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc",
+    "lede": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T22:33:02Z",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+  },
+  "score": 0.7082
+}

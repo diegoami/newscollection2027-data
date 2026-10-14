@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a0763123a1d11fad123c60f44a7dcd9f3e5d0a8",
+    "lede": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T21:16:34Z",
+    "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/"
+  },
+  "b": {
+    "item_id": "7408946146311b2140f978fbe153e81c2455638e",
+    "lede": "Anthropic\u2019s paper establishes conceptual model capabilities, but doesn\u2019t quite demonstrate a real threat until models improve further.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T14:00:00Z",
+    "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves"
+  },
+  "score": 0.685561
+}

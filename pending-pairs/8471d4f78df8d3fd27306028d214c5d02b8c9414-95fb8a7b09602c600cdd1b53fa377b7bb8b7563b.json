@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8471d4f78df8d3fd27306028d214c5d02b8c9414",
+    "lede": "Discovery of \u2018sophisticated\u2019 gadget adds to company\u2019s list of privacy concerns after hackings by rogue agents OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested. In a statement on Tuesday, the San Francisco-based AI company said it discovered the \u201csophisticated",
+    "outlet": "theguardian",
+    "published": "2026-10-13T22:59:55Z",
+    "title": "OpenAI employee arrested after recording device found in office",
+    "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
+  },
+  "b": {
+    "item_id": "95fb8a7b09602c600cdd1b53fa377b7bb8b7563b",
+    "lede": "The company asked its AI models to figure out what the device was.",
+    "outlet": "engadget",
+    "published": "2026-10-13T21:34:17Z",
+    "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+    "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/"
+  },
+  "score": 0.710905
+}

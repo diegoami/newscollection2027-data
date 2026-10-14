@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "175a7df5c5ccb15a1c29c521d08ce1ea120b8f40",
+    "lede": "GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T13:09:09Z",
+    "title": "GitLab warns of max severity code execution vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+  },
+  "b": {
+    "item_id": "5d5d52d490fee0faf62bd4c6e9a61606c28e237f",
+    "lede": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T21:33:26Z",
+    "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+    "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/"
+  },
+  "score": 0.584229
+}
