@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0aa13b1d83699b9d0751d20943a6e5477943b596",
+    "lede": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T10:48:09Z",
+    "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/"
+  },
+  "b": {
+    "item_id": "ade229847add2d2fe5472cd63f72c8e6d94ab915",
+    "lede": "'Learn More' shortcut to local setup reportedly patched server-side, leaving users with more involved workarounds",
+    "outlet": "theregister",
+    "published": "2026-10-12T14:56:11Z",
+    "title": "Windows 11's easiest account bypass gets the Microsoft boot",
+    "url": "https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643"
+  },
+  "score": 0.607755
+}

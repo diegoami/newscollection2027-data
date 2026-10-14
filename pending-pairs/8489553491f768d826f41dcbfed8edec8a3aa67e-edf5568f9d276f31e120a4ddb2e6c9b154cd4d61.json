@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8489553491f768d826f41dcbfed8edec8a3aa67e",
+    "lede": "The company unites resources from disparate macOS devices",
+    "outlet": "theregister",
+    "published": "2026-10-13T19:16:53Z",
+    "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891"
+  },
+  "b": {
+    "item_id": "edf5568f9d276f31e120a4ddb2e6c9b154cd4d61",
+    "lede": "Apple researchers describe Minions, an internal system that runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce.",
+    "outlet": "tomshardware",
+    "published": "2026-10-14T11:15:00Z",
+    "title": "Apple researchers turn idle Macs into a virtual GPU cloud with \u2018Minions\u2019",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training"
+  },
+  "score": 0.610717
+}

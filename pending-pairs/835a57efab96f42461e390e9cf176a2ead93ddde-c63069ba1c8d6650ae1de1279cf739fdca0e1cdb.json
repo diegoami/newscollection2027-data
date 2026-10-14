@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T12:58:07Z",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+  },
+  "b": {
+    "item_id": "c63069ba1c8d6650ae1de1279cf739fdca0e1cdb",
+    "lede": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T15:45:50Z",
+    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.787997
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10473f3057765a0fa3ec7dcb9fb0a0e8e6a14962",
+    "lede": "Ledger is reviewing chain-of-custody practices and anti-tamper protections after modified hardware wallets sold through a third party were allegedly fitted with LTE implants that captured recovery phrases and enabled $93 million in crypto theft.",
+    "outlet": "tomshardware",
+    "published": "2026-10-14T10:50:00Z",
+    "title": "After a $93 million crypto hardware-wallet supply chain attack, Ledger to review sales and anti-tamper policies",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ledger-to-review-sales-and-anti-tamper-policies-after-usd93-million-hardware-wallet-supply-chain-attack-rogue-lte-implants-reportedly-stole-users-recovery-phrases"
+  },
+  "b": {
+    "item_id": "28da8c245f5dca446098043dbd32b3762bb4166e",
+    "lede": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T16:27:23Z",
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+  },
+  "score": 0.739071
+}

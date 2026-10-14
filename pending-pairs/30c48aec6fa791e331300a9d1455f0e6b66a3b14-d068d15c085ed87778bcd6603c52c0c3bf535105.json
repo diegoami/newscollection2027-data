@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "30c48aec6fa791e331300a9d1455f0e6b66a3b14",
+    "lede": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T17:49:38Z",
+    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/"
+  },
+  "b": {
+    "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105",
+    "lede": "This month\u2019s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
+    "outlet": "zdnet",
+    "published": "2026-10-14T13:59:59Z",
+    "title": "Windows update patches a whopping 1,400 security bugs \u2013 including 2 zero days",
+    "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/"
+  },
+  "score": 0.662844
+}

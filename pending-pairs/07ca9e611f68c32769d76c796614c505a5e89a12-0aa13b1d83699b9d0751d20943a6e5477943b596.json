@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07ca9e611f68c32769d76c796614c505a5e89a12",
+    "lede": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T19:04:38Z",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/"
+  },
+  "b": {
+    "item_id": "0aa13b1d83699b9d0751d20943a6e5477943b596",
+    "lede": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T10:48:09Z",
+    "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/"
+  },
+  "score": 0.647179
+}

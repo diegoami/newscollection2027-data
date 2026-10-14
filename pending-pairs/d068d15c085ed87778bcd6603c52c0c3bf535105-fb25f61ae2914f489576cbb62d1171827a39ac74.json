@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105",
+    "lede": "This month\u2019s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
+    "outlet": "zdnet",
+    "published": "2026-10-14T13:59:59Z",
+    "title": "Windows update patches a whopping 1,400 security bugs \u2013 including 2 zero days",
+    "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/"
+  },
+  "b": {
+    "item_id": "fb25f61ae2914f489576cbb62d1171827a39ac74",
+    "lede": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T11:58:33Z",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+  },
+  "score": 0.678706
+}

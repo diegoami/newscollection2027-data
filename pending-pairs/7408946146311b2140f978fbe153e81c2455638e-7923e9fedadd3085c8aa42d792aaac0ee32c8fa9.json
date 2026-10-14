@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7408946146311b2140f978fbe153e81c2455638e",
+    "lede": "Anthropic\u2019s paper establishes conceptual model capabilities, but doesn\u2019t quite demonstrate a real threat until models improve further.",
+    "outlet": "tomshardware",
+    "published": "2026-10-13T14:00:00Z",
+    "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves"
+  },
+  "b": {
+    "item_id": "7923e9fedadd3085c8aa42d792aaac0ee32c8fa9",
+    "lede": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "outlet": "arstechnica",
+    "published": "2026-10-14T12:55:06Z",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+  },
+  "score": 0.657972
+}

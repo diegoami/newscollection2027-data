@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bb52b360a8a5742439fbcd603a03efc91e498977",
+    "lede": "\u201cI am a terrorist, and I intend to cause mass harm,\u201d wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "outlet": "wired",
+    "published": "2026-10-14T09:00:00Z",
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
+  },
+  "b": {
+    "item_id": "c194659e100ef98319bbf66d29b6ac6c059a51a4",
+    "lede": "From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and injuring four others. For many, it was a wake up call about the threats to reproductive care",
+    "outlet": "theguardian",
+    "published": "2026-10-14T10:00:03Z",
+    "title": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism"
+  },
+  "score": 0.621816
+}
