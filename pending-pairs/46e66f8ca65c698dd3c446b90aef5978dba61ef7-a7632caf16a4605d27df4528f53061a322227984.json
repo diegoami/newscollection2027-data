@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "46e66f8ca65c698dd3c446b90aef5978dba61ef7",
+    "lede": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T14:01:11Z",
+    "title": "The MFA Gaps Attackers are Still Exploiting",
+    "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/"
+  },
+  "b": {
+    "item_id": "a7632caf16a4605d27df4528f53061a322227984",
+    "lede": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T17:29:14Z",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+  },
+  "score": 0.592055
+}

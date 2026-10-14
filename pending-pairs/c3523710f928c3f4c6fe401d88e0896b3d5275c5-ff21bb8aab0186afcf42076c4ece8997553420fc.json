@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5",
+    "lede": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+    "outlet": "arstechnica",
+    "published": "2026-10-14T16:41:49Z",
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+  },
+  "b": {
+    "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc",
+    "lede": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T22:33:02Z",
+    "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+  },
+  "score": 0.573665
+}

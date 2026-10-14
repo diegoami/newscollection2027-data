@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a7632caf16a4605d27df4528f53061a322227984",
+    "lede": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T17:29:14Z",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+  },
+  "b": {
+    "item_id": "c63069ba1c8d6650ae1de1279cf739fdca0e1cdb",
+    "lede": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T15:45:50Z",
+    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.669579
+}

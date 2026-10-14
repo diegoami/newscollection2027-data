@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T12:58:07Z",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+  },
+  "b": {
+    "item_id": "a7632caf16a4605d27df4528f53061a322227984",
+    "lede": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T17:29:14Z",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+  },
+  "score": 0.673266
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105",
+    "lede": "This month\u2019s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
+    "outlet": "zdnet",
+    "published": "2026-10-14T13:59:59Z",
+    "title": "Windows update patches a whopping 1,400 security bugs \u2013 including 2 zero days",
+    "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/"
+  },
+  "b": {
+    "item_id": "fac7cd6e29f5b58e54653525d3458960537cdb36",
+    "lede": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T14:27:01Z",
+    "title": "Microsoft fixes VPN issues caused by September Windows updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/"
+  },
+  "score": 0.573447
+}
