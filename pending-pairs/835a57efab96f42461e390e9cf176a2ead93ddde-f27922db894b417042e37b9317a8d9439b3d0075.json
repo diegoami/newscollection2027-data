@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T12:58:07Z",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+  },
+  "b": {
+    "item_id": "f27922db894b417042e37b9317a8d9439b3d0075",
+    "lede": "Both Switchzilla and CISA sound the alarm",
+    "outlet": "theregister",
+    "published": "2026-10-14T21:40:29Z",
+    "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+    "url": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168"
+  },
+  "score": 0.571356
+}

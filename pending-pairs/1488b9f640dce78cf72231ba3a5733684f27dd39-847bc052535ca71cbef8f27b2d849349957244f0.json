@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1488b9f640dce78cf72231ba3a5733684f27dd39",
+    "lede": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
+    "outlet": "wired",
+    "published": "2026-10-12T13:00:00Z",
+    "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+    "url": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/"
+  },
+  "b": {
+    "item_id": "847bc052535ca71cbef8f27b2d849349957244f0",
+    "lede": "Google's latest wearable seems like a Fitbit Air with a screen, but the two actually have less in common than you might think.",
+    "outlet": "engadget",
+    "published": "2026-10-14T20:13:18Z",
+    "title": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
+    "url": "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/"
+  },
+  "score": 0.591773
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f",
+    "lede": "Vendor promises fix for separate privilege-escalation flaw in the coming weeks",
+    "outlet": "theregister",
+    "published": "2026-10-14T17:15:00Z",
+    "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
+    "url": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095"
+  },
+  "b": {
+    "item_id": "c63069ba1c8d6650ae1de1279cf739fdca0e1cdb",
+    "lede": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T15:45:50Z",
+    "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.696065
+}
