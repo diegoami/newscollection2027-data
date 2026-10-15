@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1cc24ddce8a425aa046cf46d148c5529734a792e",
+    "lede": "FTC may fine AI firms on par with companies that delay data breach reports.",
+    "outlet": "arstechnica",
+    "published": "2026-10-15T15:43:24Z",
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+  },
+  "b": {
+    "item_id": "c59fa35a64ebcd846bd71602068c11c96290af92",
+    "lede": "The FTC is investigating possible consumer harms at two major AI companies.",
+    "outlet": "engadget",
+    "published": "2026-10-15T19:28:53Z",
+    "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
+    "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/"
+  },
+  "score": 0.66275
+}

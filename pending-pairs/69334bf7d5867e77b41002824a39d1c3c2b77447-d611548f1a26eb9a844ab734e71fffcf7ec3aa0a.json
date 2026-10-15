@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "69334bf7d5867e77b41002824a39d1c3c2b77447",
+    "lede": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "outlet": "techcrunch",
+    "published": "2026-10-15T19:55:25Z",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+  },
+  "b": {
+    "item_id": "d611548f1a26eb9a844ab734e71fffcf7ec3aa0a",
+    "lede": "Researchers say \u2018AI worms\u2019 could soon infiltrate internet-connected devices amid calls for increased guardrails Anthropic is warning that some of its artificial intelligence models could soon become \u201cself-replicating\u201d and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners. Once this happens, the company said, the models could power themselves within these devices without the need",
+    "outlet": "theguardian",
+    "published": "2026-10-13T20:55:04Z",
+    "title": "AI in your oven? Anthropic warns models \u2018months away\u2019 from self-replication on smart devices",
+    "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
+  },
+  "score": 0.576305
+}

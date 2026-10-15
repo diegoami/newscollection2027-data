@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894",
+    "lede": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+    "outlet": "arstechnica",
+    "published": "2026-10-15T20:32:41Z",
+    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+  },
+  "b": {
+    "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502",
+    "lede": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks.",
+    "outlet": "engadget",
+    "published": "2026-10-15T12:50:29Z",
+    "title": "CitizenLab details new spyware triggered by online advertising",
+    "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/"
+  },
+  "score": 0.591521
+}
