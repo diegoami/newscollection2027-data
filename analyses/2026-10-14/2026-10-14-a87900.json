@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-10-14-a87900",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Cisco patches root-privilege zero-day in Secure Email Gateway",
+  "summary": "Cisco patched an actively exploited zero-day in its Secure Email Gateway that let remote, unauthenticated attackers execute commands with root privileges, with both Cisco and CISA warning about the flaw.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Cisco patched an actively exploited zero-day in its Secure Email Gateway allowing remote unauthenticated attackers to execute commands with root privileges.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "a7632caf16a4605d27df4528f53061a322227984", "quote": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges"},
+        {"outlet": "theregister", "item_id": "f27922db894b417042e37b9317a8d9439b3d0075", "quote": "Cisco make-me-root email bug exploited as a 0-day by unknown crims"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Both Cisco and CISA issued warnings about the flaw.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "f27922db894b417042e37b9317a8d9439b3d0075", "quote": "Both Switchzilla and CISA sound the alarm"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

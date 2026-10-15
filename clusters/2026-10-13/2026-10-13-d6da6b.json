@@ -25,8 +25,16 @@
       "published": "2026-10-13T18:23:33Z",
       "title": "Disney offers $20M for Character.AI\u2019s scandal-plagued chatbot tech",
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
+    },
+    {
+      "item_id": "738aed8dcc6e54fbd0502166c103c03f2b6bd746",
+      "lede": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-14T18:47:54Z",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users\u2019 data?",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

@@ -49,8 +49,32 @@
       "published": "2026-10-13T23:17:59Z",
       "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
       "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+    },
+    {
+      "item_id": "9e2f99d5676a34217af7860afb1e7bfc368e8a1a",
+      "lede": "An OpenAI engineer has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications and is facing up to five years in prison plus a $250,000 fine.",
+      "outlet": "tomshardware",
+      "published": "2026-10-14T11:48:41Z",
+      "title": "Saudi OpenAI engineer arrested for allegedly planting $14 recording device in company office",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/saudi-openai-engineer-arrested-for-allegedly-planting-usd14-recording-device-in-company-office-cheap-microcontroller-was-meant-to-secretly-capture-sensitive-communications-about-the-companys-super-intelligence-technology"
+    },
+    {
+      "item_id": "8a8b230a3f8795b51931f26b81deb456705304bf",
+      "lede": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-14T15:54:04Z",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo"
+    },
+    {
+      "item_id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5",
+      "lede": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "outlet": "arstechnica",
+      "published": "2026-10-14T16:41:49Z",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

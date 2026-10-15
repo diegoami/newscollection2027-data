@@ -1,0 +1,24 @@
+{
+  "anchor": "4e5ca708cf936662be72b3028224cdb8c63ed76b",
+  "id": "2026-10-12-3c872a",
+  "items": [
+    {
+      "item_id": "4e5ca708cf936662be72b3028224cdb8c63ed76b",
+      "lede": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-12T13:00:00Z",
+      "title": "CMF\u2019s first wireless speakers look like musical milk cartons",
+      "url": "https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize"
+    },
+    {
+      "item_id": "640a4569ab47598b78ced4653df699d933ec383d",
+      "lede": "Nothing's sister company CMF announced some playful bluetooth speakers that can be paired together and even work with Auracast.",
+      "outlet": "engadget",
+      "published": "2026-10-14T12:00:00Z",
+      "title": "CMF's first portable speakers are shaped like milk cartons and pair together",
+      "url": "https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

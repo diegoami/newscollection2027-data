@@ -1,56 +1,99 @@
 {
- "cluster_id": "2026-10-13-1fe3c2",
- "cluster_version": 1,
- "backend": "claude_code",
- "model": "claude-sonnet-5",
- "generated_at": "2026-10-14T03:00:00Z",
- "headline": "OpenAI employee arrested after hidden recording device found in office",
- "summary": "An OpenAI engineer, identified as Abdulrahman Alfozan, was arrested after the company found a hidden recording device in its offices and referred the matter to the FBI. The FBI's director said the scheme aimed to capture sensitive communications about the company's 'super intelligence' technology; OpenAI used its own AI models to help identify the device, and chatbot prompts allegedly reveal the engineer's efforts to set it up in a room used by executives.",
- "claims": [
-  {
-   "id": "c1",
-   "statement": "An OpenAI employee was arrested after a hidden recording device was found in the company's offices.",
-   "sources": [
-    {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices."},
-    {"outlet": "bleepingcomputer", "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc", "quote": "OpenAI engineer arrested for allegedly planting spy device in office"}
-   ]
-  },
-  {
-   "id": "c2",
-   "statement": "The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national.",
-   "sources": [
-    {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national."}
-   ]
-  },
-  {
-   "id": "c3",
-   "statement": "FBI Director Kash Patel said the scheme was meant to capture sensitive communications about the company's 'super intelligence' technology.",
-   "sources": [
-    {"outlet": "techcrunch", "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606", "quote": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\""}
-   ]
-  },
-  {
-   "id": "c4",
-   "statement": "OpenAI said it found the device and referred the matter to the FBI.",
-   "sources": [
-    {"outlet": "theguardian", "item_id": "8471d4f78df8d3fd27306028d214c5d02b8c9414", "quote": "OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI."}
-   ]
-  },
-  {
-   "id": "c5",
-   "statement": "OpenAI asked its own AI models to help figure out what the device was.",
-   "sources": [
-    {"outlet": "engadget", "item_id": "95fb8a7b09602c600cdd1b53fa377b7bb8b7563b", "quote": "The company asked its AI models to figure out what the device was."}
-   ]
-  },
-  {
-   "id": "c6",
-   "statement": "Chatbot prompts allegedly reveal the engineer's efforts to set up the device in a room used by high-level executives.",
-   "sources": [
-    {"outlet": "wired", "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee", "quote": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives."}
-   ]
-  }
- ],
- "discrepancies": [],
- "agreement": "full"
+  "cluster_id": "2026-10-13-1fe3c2",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "OpenAI engineer arrested for allegedly planting hidden recording device at office",
+  "summary": "OpenAI said it found a hidden recording device, concealed in toilet paper, in a meeting room used by top executives, and referred the matter to the FBI. A Saudi national engineer, identified as Abdulrahman Alfozan, was arrested and charged with intercepting oral communications, facing up to five years in prison and a $250,000 fine. The FBI said the device aimed to capture sensitive superintelligence-related communications.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "An OpenAI engineer, identified as Abdulrahman Alfozan, a Saudi national, was arrested for allegedly planting a hidden recording device in a conference room.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national"},
+        {"outlet": "bleepingcomputer", "item_id": "ff21bb8aab0186afcf42076c4ece8997553420fc", "quote": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "OpenAI said it discovered a hidden recording device in one of its offices and referred the matter to the FBI.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "the company said it discovered a \"sophisticated recording device\" hidden in one of its offices"},
+        {"outlet": "theguardian", "item_id": "8471d4f78df8d3fd27306028d214c5d02b8c9414", "quote": "OpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "FBI director Kash Patel said the scheme aimed to capture sensitive communications about the company's superintelligence technology.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "ef2fc60aa90b3d09e1fa996487334820cd3f1606", "quote": "the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\""}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The device was found in a meeting room used by top executives.",
+      "sources": [
+        {"outlet": "wired", "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee", "quote": "one was found in a meeting room used by high-level executives"},
+        {"outlet": "arstechnica", "item_id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5", "quote": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The recording device was hidden inside toilet paper.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5", "quote": "Recording device hidden in toilet paper"},
+        {"outlet": "bbc-technology", "item_id": "8a8b230a3f8795b51931f26b81deb456705304bf", "quote": "Toilet paper and secret recorders"}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The engineer is charged with using or endeavoring to use a device to intercept oral communications, facing up to five years in prison and a $250,000 fine.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "charged with using or endeavoring to use a device to intercept oral communications"},
+        {"outlet": "tomshardware", "item_id": "9e2f99d5676a34217af7860afb1e7bfc368e8a1a", "quote": "is facing up to five years in prison plus a $250,000 fine"}
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "OpenAI asked its AI models to help figure out what the device was.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "95fb8a7b09602c600cdd1b53fa377b7bb8b7563b", "quote": "The company asked its AI models to figure out what the device was"}
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "Chatbot prompts allegedly reveal the engineer's efforts to set up the covert listening device.",
+      "sources": [
+        {"outlet": "wired", "item_id": "bfa2207d1022ec5656aac3ac618d6303d19fe6ee", "quote": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device"}
+      ]
+    },
+    {
+      "id": "c9",
+      "statement": "The recording device reportedly cost $14.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "9e2f99d5676a34217af7860afb1e7bfc368e8a1a", "quote": "Saudi OpenAI engineer arrested for allegedly planting $14 recording device in company office"}
+      ]
+    },
+    {
+      "id": "c10",
+      "statement": "Alfozan had worked at OpenAI for more than a year before his arrest.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "8a8b230a3f8795b51931f26b81deb456705304bf", "quote": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": ["c6"],
+      "explanation": "Ars Technica characterizes the case as foreign espionage charges, while other outlets describe only the device-interception charge filed against the engineer.",
+      "quotes": [
+        {"outlet": "arstechnica", "item_id": "c3523710f928c3f4c6fe401d88e0896b3d5275c5", "quote": "as FBI lobs foreign spy charges"},
+        {"outlet": "theverge", "item_id": "082a179fcd5888101db60c4edc2537048d7392bf", "quote": "charged with using or endeavoring to use a device to intercept oral communications"}
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

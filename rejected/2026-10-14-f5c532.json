@@ -1,0 +1,100 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
+            "outlet": "theverge",
+            "quote": "the refresh was \"vibe coded.\""
+          },
+          {
+            "item_id": "36797008a08f61528c4c505c7e250d11b0a8c537",
+            "outlet": "tomshardware",
+            "quote": "which the company says it vibe coded"
+          },
+          {
+            "item_id": "2af446043d102e5442fc024b1a9a3debf02a7f69",
+            "outlet": "arstechnica",
+            "quote": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam"
+          }
+        ],
+        "statement": "Epic released a redesigned Epic Games Launcher in preview, which the company says it 'vibe coded.'"
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "36797008a08f61528c4c505c7e250d11b0a8c537",
+            "outlet": "tomshardware",
+            "quote": "claims it starts 46% faster than Steam"
+          },
+          {
+            "item_id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
+            "outlet": "theverge",
+            "quote": "the new version is \"way faster\""
+          }
+        ],
+        "statement": "Epic claims the new launcher starts 46% faster than Steam."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "37c39d71527e2e7c6ce4c94debc3f56d3976b303",
+            "outlet": "theverge",
+            "quote": "Epic is bringing Fortnite to Linux"
+          },
+          {
+            "item_id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
+            "outlet": "theverge",
+            "quote": "now supports Linux"
+          }
+        ],
+        "statement": "The new launcher supports Linux for the first time, and Epic is working to bring Fortnite there too."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "2af446043d102e5442fc024b1a9a3debf02a7f69",
+            "outlet": "arstechnica",
+            "quote": "the new \"Preview\" app \"will have some bugs,\" Epic warns"
+          }
+        ],
+        "statement": "Epic warns the new preview app will have some bugs."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "36797008a08f61528c4c505c7e250d11b0a8c537",
+            "outlet": "tomshardware",
+            "quote": "because \"programming is hard\""
+          },
+          {
+            "item_id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
+            "outlet": "theverge",
+            "quote": "\"Programming is hard,\" Epic says"
+          }
+        ],
+        "statement": "Epic justified vibe-coding the launcher by saying 'programming is hard.'"
+      }
+    ],
+    "cluster_id": "2026-10-14-f5c532",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-15T02:30:54Z",
+    "headline": "Epic's new 'vibe coded' launcher claims to be faster and adds Linux support",
+    "model": "claude-sonnet-5",
+    "summary": "Epic released a redesigned Epic Games Launcher in preview, which it says was 'vibe coded' because 'programming is hard.' The company claims the new launcher starts 46% faster than Steam and now supports Linux for the first time, with Epic working to bring Fortnite there too, though it warns the preview app will have some bugs."
+  },
+  "cluster_id": "2026-10-14-f5c532",
+  "problems": [
+    "quote: not verbatim in tomshardware 36797008a08f61528c4c505c7e250d11b0a8c537's title or lede: 'because \"programming is hard\"'"
+  ],
+  "rejected_at": "2026-10-15T02:38:00Z"
+}

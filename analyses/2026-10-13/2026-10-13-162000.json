@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-10-13-162000",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Apple's 'Minions' system pools idle Mac GPUs for AI tasks",
+  "summary": "Apple researchers built a system called Minions that unites GPU resources from disparate macOS devices, running AI inference jobs on idle Apple Silicon Macs when dedicated GPUs are scarce.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple built a system called Minions that pools GPU resources from multiple Mac devices for AI tasks.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "8489553491f768d826f41dcbfed8edec8a3aa67e", "quote": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"},
+        {"outlet": "theregister", "item_id": "8489553491f768d826f41dcbfed8edec8a3aa67e", "quote": "The company unites resources from disparate macOS devices"},
+        {"outlet": "tomshardware", "item_id": "edf5568f9d276f31e120a4ddb2e6c9b154cd4d61", "quote": "Apple researchers turn idle Macs into a virtual GPU cloud with ‘Minions’"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Minions runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "edf5568f9d276f31e120a4ddb2e6c9b154cd4d61", "quote": "runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

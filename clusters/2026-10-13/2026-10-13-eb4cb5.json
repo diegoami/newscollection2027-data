@@ -17,8 +17,16 @@
       "published": "2026-10-13T12:44:00Z",
       "title": "AI bubble could burst and take global economy with it, IMF warns",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781"
+    },
+    {
+      "item_id": "d91629dca25ed37afcacf86dfc34f160c479a04a",
+      "lede": "The International Monetary Fund has produced a report examining how financing for the global AI buildout could result in contagion should the industry fail to produce its promised profits.",
+      "outlet": "tomshardware",
+      "published": "2026-10-14T11:35:00Z",
+      "title": "AI sector wipeout risks global financial contagion, IMF report warns",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/the-imf-highlights-how-a-financial-wipeout-in-the-ai-sector-could-become-a-global-contagion-agency-report-shines-light-on-circular-economics-and-leveraged-loans"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

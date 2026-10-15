@@ -1,0 +1,50 @@
+{
+  "cluster_id": "2026-10-14-8dbb03",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Hands-on previews find Zelda: Ocarina of Time Switch 2 remake surprisingly scary",
+  "summary": "Hands-on previews of Nintendo's Switch 2 remake of The Legend of Zelda: Ocarina of Time found more than a visual glow-up: Hyrule has been prettified with a newly orchestrated soundtrack, and gameplay changes make the 1998 classic feel remarkably modern, while some previews found it surprisingly terrifying in its new 4K visuals.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nintendo is remaking The Legend of Zelda: Ocarina of Time for the Switch 2.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9d85843f34d257339392aabb9a0b7911b89b401c", "quote": "With its upcoming remake for the Switch 2"},
+        {"outlet": "theguardian", "item_id": "0a6f84d89444e4a33f9854cbb62c62478a54c9d4", "quote": "a hands-on demo of Nintendo’s Switch 2 remake of a 1998 game-changer"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The remake includes more than visual upgrades, with gameplay changes as well.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "75183daaf5661645f75618b90d2d6de5877895c7", "quote": "Link is getting a lot more than just a visual glow up"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The visuals and soundtrack have been overhauled: Hyrule has been prettified and the soundtrack newly orchestrated.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "0a6f84d89444e4a33f9854cbb62c62478a54c9d4", "quote": "The kingdom of Hyrule has been prettified, the soundtrack is newly orchestrated"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The remake preserves the timelessness of the 1998 original while reengineering it with changes.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9d85843f34d257339392aabb9a0b7911b89b401c", "quote": "the best thing about The Legend of Zelda: Ocarina of Time: its timelessness"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Previewers found the remake surprisingly scary in its new visuals.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9d85843f34d257339392aabb9a0b7911b89b401c", "quote": "feels remarkably modern — and surprisingly terrifying"},
+        {"outlet": "theguardian", "item_id": "0a6f84d89444e4a33f9854cbb62c62478a54c9d4", "quote": "Link faces his scariest challenge yet: the 4K era"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

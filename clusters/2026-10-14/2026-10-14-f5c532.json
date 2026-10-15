@@ -1,0 +1,48 @@
+{
+  "anchor": "37c39d71527e2e7c6ce4c94debc3f56d3976b303",
+  "id": "2026-10-14-f5c532",
+  "items": [
+    {
+      "item_id": "37c39d71527e2e7c6ce4c94debc3f56d3976b303",
+      "lede": "Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part of the reason Fortnite hasn't been available on Linux [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-14T13:54:58Z",
+      "title": "Epic is bringing Fortnite to Linux",
+      "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat"
+    },
+    {
+      "item_id": "08495a955cc82e8dbd1d08ecb89853154fcc66c6",
+      "lede": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\" \"Programming is hard,\" Epic says in [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-14T13:55:02Z",
+      "title": "Epic\u2019s new games launcher is \u2018vibe coded\u2019",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux"
+    },
+    {
+      "item_id": "36797008a08f61528c4c505c7e250d11b0a8c537",
+      "lede": "Epic Games has introduced a redesigned launcher into preview, which the company says it vibe coded because \"programming is hard.\"",
+      "outlet": "tomshardware",
+      "published": "2026-10-14T15:44:45Z",
+      "title": "Epic Games vibe codes new launcher because 'programming is hard,' claims it starts 46% faster than Steam",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/epic-games-vibe-codes-new-launcher-because-programming-is-hard-starts-46-percent-faster-than-steam-preview-is-available-now-but-not-recommended-for-competitive-players"
+    },
+    {
+      "item_id": "7f4d6eb951492d43020ba76084c364df8677e967",
+      "lede": "Gross, Tim. Gross.",
+      "outlet": "engadget",
+      "published": "2026-10-14T16:46:59Z",
+      "title": "Epic thinks you'll love its new vibe coded game launcher",
+      "url": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/"
+    },
+    {
+      "item_id": "2af446043d102e5442fc024b1a9a3debf02a7f69",
+      "lede": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "outlet": "arstechnica",
+      "published": "2026-10-14T21:15:56Z",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

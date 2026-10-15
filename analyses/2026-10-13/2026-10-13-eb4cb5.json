@@ -1,29 +1,45 @@
 {
- "cluster_id": "2026-10-13-eb4cb5",
- "cluster_version": 1,
- "backend": "claude_code",
- "model": "claude-sonnet-5",
- "generated_at": "2026-10-14T02:55:00Z",
- "headline": "IMF warns an AI stock crash could threaten global financial stability",
- "summary": "The IMF warned that a crash in high AI-sector valuations could ripple across global markets and threaten world financial stability, citing mounting debt, government borrowing and cyberattacks as compounding risks.",
- "claims": [
-  {
-   "id": "c1",
-   "statement": "The IMF warned that a crash in AI stock valuations could threaten world financial stability.",
-   "sources": [
-    {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "Threat of AI share crash puts world financial stability at risk, says IMF"},
-    {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "AI bubble could burst and take global economy with it, IMF warns"}
-   ]
-  },
-  {
-   "id": "c2",
-   "statement": "The IMF's warning cited high AI-sector valuations and debt, alongside concerns about government borrowing and cyberattacks.",
-   "sources": [
-    {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks"},
-    {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "Financial watchdog fears AI spending bust could rattle markets, with mounting debt and cyberattacks adding to the headache"}
-   ]
-  }
- ],
- "discrepancies": [],
- "agreement": "full"
+  "cluster_id": "2026-10-13-eb4cb5",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "IMF warns an AI bubble could threaten global financial stability",
+  "summary": "The IMF warned that a crash in AI-related valuations could ripple across markets and threaten global financial stability, citing high valuations, mounting debt, and cyberattacks as risk factors. Its report examines how financing behind the global AI buildout could trigger contagion if the industry fails to deliver the profits it has promised.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The IMF warned that a crash in AI-related share prices or spending could threaten global financial stability.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "Threat of AI share crash puts world financial stability at risk, says IMF"},
+        {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "AI bubble could burst and take global economy with it, IMF warns"},
+        {"outlet": "tomshardware", "item_id": "d91629dca25ed37afcacf86dfc34f160c479a04a", "quote": "AI sector wipeout risks global financial contagion, IMF report warns"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "High valuations and mounting debt in the AI sector are cited as risk factors.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "High valuations and debt put sector in danger"},
+        {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "mounting debt and cyberattacks adding to the headache"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Cyberattacks are also cited as a contributing risk factor.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9e58dc30161bca324a01c8c14c6faae92320b086", "quote": "warns on government borrowing and cyber-attacks"},
+        {"outlet": "theregister", "item_id": "a4da65a2a25654392397502b33cb24d882440c67", "quote": "cyberattacks adding to the headache"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The report examines how AI-buildout financing could cause global contagion if the industry fails to deliver promised profits.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "d91629dca25ed37afcacf86dfc34f160c479a04a", "quote": "could result in contagion should the industry fail to produce its promised profits"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
 }

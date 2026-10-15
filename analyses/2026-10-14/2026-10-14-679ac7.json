@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-10-14-679ac7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Qualcomm wins verdict against Arm but collects just $2 in damages",
+  "summary": "A federal jury found that Arm breached its agreement with Qualcomm and ruled in Qualcomm's favor on several issues, though it sided with Arm on others. Despite winning, Qualcomm was awarded just $2 in damages, and the legal battle between the two chip companies is set to continue.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A jury found Arm breached its agreement with Qualcomm and interfered with its business, ruling in Qualcomm's favor on these issues.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "743542342d00e49da8d7cae49357348ecd7a4da3", "quote": "A jury found that Arm breached its agreement with Qualcomm and interfered with its business"},
+        {"outlet": "tomshardware", "item_id": "99db7249632b68b441769e4a821fa3651cc87750", "quote": "rules in favor of Qualcomm in other cases"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Arm only has to pay $2 in damages.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "743542342d00e49da8d7cae49357348ecd7a4da3", "quote": "but Arm only has to pay $2 in damages"},
+        {"outlet": "tomshardware", "item_id": "99db7249632b68b441769e4a821fa3651cc87750", "quote": "but gets just $2"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The jury sided with Arm on select issues as well.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "99db7249632b68b441769e4a821fa3651cc87750", "quote": "A federal jury sides with Arm on select issues"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The legal battle between Qualcomm and Arm is set to continue.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "99db7249632b68b441769e4a821fa3651cc87750", "quote": "The legal battle set to continue"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

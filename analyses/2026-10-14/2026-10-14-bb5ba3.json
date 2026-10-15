@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-10-14-bb5ba3",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Deezer will let listeners filter out AI-generated music",
+  "summary": "Deezer announced a new toggle that lets listeners filter out AI-generated music entirely, with the feature set to roll out by the end of the year.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Deezer will let users filter out AI-generated music.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9c18b5e1b4bfcb8e69dbf2eb34becdc39d55bff3", "quote": "Deezer will soon let you filter out AI-generated music"},
+        {"outlet": "engadget", "item_id": "3b143a78afdde0db7ad0be7b380f0bb4e755fbe3", "quote": "Deezer will let listeners completely filter out AI music"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new toggle will roll out by the end of the year.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9c18b5e1b4bfcb8e69dbf2eb34becdc39d55bff3", "quote": "the new toggle will be rolled out by the end of the year"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

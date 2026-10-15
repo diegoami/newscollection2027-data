@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-12-3c872a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "CMF unveils its first portable Bluetooth speakers, shaped like milk cartons",
+  "summary": "CMF, the budget-focused brand that Nothing created and is spinning off into an India-based subsidiary, announced its first portable Bluetooth speakers, the CMF Speaker Series. The milk-carton-shaped speakers can be paired together and work with Auracast, continuing the affordable, distinctively designed approach of earlier CMF products like the Headphone Pro.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "CMF announced its first portable Bluetooth speakers, the CMF Speaker Series.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "4e5ca708cf936662be72b3028224cdb8c63ed76b", "quote": "The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created"},
+        {"outlet": "engadget", "item_id": "640a4569ab47598b78ced4653df699d933ec383d", "quote": "Nothing's sister company CMF announced some playful bluetooth speakers"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The speakers can be paired together and support Auracast.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "640a4569ab47598b78ced4653df699d933ec383d", "quote": "can be paired together and even work with Auracast"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "CMF is in the process of being spun off into an India-based standalone subsidiary.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "4e5ca708cf936662be72b3028224cdb8c63ed76b", "quote": "is in the process of spinning off into an India-based standalone subsidiary"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

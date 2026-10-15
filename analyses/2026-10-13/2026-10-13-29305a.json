@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-10-13-29305a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Ivanti patches Connect Secure zero-day after in-the-wild exploitation, CISA warns",
+  "summary": "Ivanti warned that a zero-day vulnerability in its Connect Secure remote access gateway was being actively exploited, with CISA urging admins to patch immediately given attacks dating to at least October 1st. Ivanti has since released a patch for the flaw and says a fix for a separate privilege-escalation bug is coming in the next few weeks.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ivanti's Connect Secure remote access gateway had a zero-day vulnerability being actively exploited in attacks.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "c63069ba1c8d6650ae1de1279cf739fdca0e1cdb", "quote": "immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway"},
+        {"outlet": "bleepingcomputer", "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde", "quote": "Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st"},
+        {"outlet": "theregister", "item_id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f", "quote": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "CISA urged security teams to immediately patch the flaw.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde", "quote": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ivanti has released a patch for the Connect Secure zero-day.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f", "quote": "Ivanti patches Connect Secure zero-day"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Ivanti promised a fix for a separate privilege-escalation flaw in the coming weeks.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f", "quote": "Vendor promises fix for separate privilege-escalation flaw in the coming weeks"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "afadf2423701a7eaa2e60018bb07ac918edde906",
+  "id": "2026-10-11-ccda80",
+  "items": [
+    {
+      "item_id": "afadf2423701a7eaa2e60018bb07ac918edde906",
+      "lede": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
+      "outlet": "engadget",
+      "published": "2026-10-11T18:54:38Z",
+      "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
+      "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/"
+    },
+    {
+      "item_id": "a85aaa3f10be5d3ceda76b90297ccc6de61f292a",
+      "lede": "Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-14T17:13:27Z",
+      "title": "Anbernic\u2019s next dual-screen handheld could replace your aging Nintendo 3DS",
+      "url": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

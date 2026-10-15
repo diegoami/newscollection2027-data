@@ -1,0 +1,24 @@
+{
+  "anchor": "743542342d00e49da8d7cae49357348ecd7a4da3",
+  "id": "2026-10-14-679ac7",
+  "items": [
+    {
+      "item_id": "743542342d00e49da8d7cae49357348ecd7a4da3",
+      "lede": "A jury found that Arm breached its agreement with Qualcomm and interfered with its business, but Arm only has to pay $2 in damages.",
+      "outlet": "engadget",
+      "published": "2026-10-14T09:42:14Z",
+      "title": "Qualcomm wins lawsuit against Arm but will only receive two bucks",
+      "url": "https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/"
+    },
+    {
+      "item_id": "99db7249632b68b441769e4a821fa3651cc87750",
+      "lede": "A federal jury sides with Arm on select issues, rules in favor of Qualcomm in other cases. The legal battle set to continue.",
+      "outlet": "tomshardware",
+      "published": "2026-10-14T12:10:00Z",
+      "title": "Qualcomm wins architecture breach verdict against Arm but gets just $2",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-wins-architecture-breach-verdict-against-arm-but-gets-just-usd2-judge-could-still-suspend-royalty-fees-for-five-years"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-14-dc9dd3",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "Tesla's long-delayed Roadster finally nears its production debut",
+  "summary": "Nearly a decade after Elon Musk's surprise announcement, the Tesla Roadster is finally making its production-ready debut, billed as one of the fastest cars ever made. The overdue hypercar arrives into an EV market that has grown skeptical of electric hypercars.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Tesla Roadster is finally making its production-ready debut, nearly a decade after it was first announced.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2f3d36282faba34e5d363beb9bd9947c5fe2fa9a", "quote": "Nine years after its reveal, the overdue Roadster is set to debut on Thursday"},
+        {"outlet": "theverge", "item_id": "7eb9f09ef2969b2270b92253e9fc370ad24b6f42", "quote": "the Tesla Roadster is finally making its production-ready debut"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Roadster debuts into an EV market that has grown skeptical of electric hypercars.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2f3d36282faba34e5d363beb9bd9947c5fe2fa9a", "quote": "to an EV market that has grown skeptical of electric hypercars"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Roadster is billed as one of the fastest cars ever made.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "7eb9f09ef2969b2270b92253e9fc370ad24b6f42", "quote": "a car that's supposed to be one of the fastest ever made"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

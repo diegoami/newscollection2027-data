@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-14-6cd7ad",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-15T02:30:54Z",
+  "headline": "OpenAI accuses ex-employee of leaking product plans to Apple leadership",
+  "summary": "OpenAI filed a new accusation claiming a former employee who joined Apple took more than 100 files about its unreleased product plans, sent them to a personal account, and later presented them to senior Apple leadership. The allegation surfaced hours before OpenAI and Apple were due in court, delaying the hearing.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "524e699ebac35a597cd559c2beb235aebd04f009", "quote": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple"},
+        {"outlet": "theguardian", "item_id": "1f115fdf8c92e828a39a39245a69350e7be9ca3a", "quote": "sent more than 100 files about an unreleased product to a personal ⁠account"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The employee allegedly sent the files to a personal account and later presented them to senior Apple leadership.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "524e699ebac35a597cd559c2beb235aebd04f009", "quote": "sending this information to a personal account and then presenting it to Apple leadership"},
+        {"outlet": "theguardian", "item_id": "1f115fdf8c92e828a39a39245a69350e7be9ca3a", "quote": "made a presentation ​about the unreleased product to senior Apple leadership"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The allegation emerged in a new filing hours before Apple and OpenAI were due to face off in court, delaying the hearing.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "1f115fdf8c92e828a39a39245a69350e7be9ca3a", "quote": "Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
