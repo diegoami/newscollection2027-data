@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fb0e66b69df910332d9c1540c623639aa81906b",
+    "lede": "Ukraine's strikes on Russian data centers have caused legitimate bot traffic to go down, but malicious bots remain operational.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T12:28:24Z",
+    "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in",
+    "url": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts"
+  },
+  "b": {
+    "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
+    "lede": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-12T15:43:07Z",
+    "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
+    "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk"
+  },
+  "score": 0.6912
+}

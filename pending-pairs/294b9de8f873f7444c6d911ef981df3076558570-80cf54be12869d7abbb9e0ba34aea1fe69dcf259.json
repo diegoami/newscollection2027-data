@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "294b9de8f873f7444c6d911ef981df3076558570",
+    "lede": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the \"result is a Windows experience that's up to 20 percent more responsive.\" Microsoft has made improvements to Start, File Explorer, Search, Edge, and other [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T13:41:00Z",
+    "title": "Microsoft says Windows 11 is now \u2018more responsive\u2019 and runs better on 8GB of RAM",
+    "url": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements"
+  },
+  "b": {
+    "item_id": "80cf54be12869d7abbb9e0ba34aea1fe69dcf259",
+    "lede": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T13:18:36Z",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/"
+  },
+  "score": 0.585671
+}

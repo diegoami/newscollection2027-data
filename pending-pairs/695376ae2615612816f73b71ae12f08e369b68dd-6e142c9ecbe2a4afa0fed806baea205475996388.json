@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+    "lede": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+    "outlet": "wired",
+    "published": "2026-10-15T10:00:00Z",
+    "title": "\u2018Nightmare Scenario\u2019: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+    "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/"
+  },
+  "b": {
+    "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+    "lede": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+    "outlet": "techcrunch",
+    "published": "2026-10-15T10:00:00Z",
+    "title": "Citizen Lab says governments are abusing online ads to hack people with \u2018zero-click\u2019 spyware",
+    "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+  },
+  "score": 0.652107
+}

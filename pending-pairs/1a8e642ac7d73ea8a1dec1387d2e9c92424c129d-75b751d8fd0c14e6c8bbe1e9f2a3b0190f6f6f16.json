@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a8e642ac7d73ea8a1dec1387d2e9c92424c129d",
+    "lede": "Get an RTX 5060 gaming laptop for just $1,400.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T10:15:53Z",
+    "title": "Save 30% on this ASUS ROG Gaming laptop with RTX 5060 \u2014 $600 discount makes this hefty machine just $1,399",
+    "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-30-percent-on-this-asus-rog-gaming-laptop-with-rtx-5060-usd600-discount-makes-this-hefty-machine-just-usd1-399"
+  },
+  "b": {
+    "item_id": "75b751d8fd0c14e6c8bbe1e9f2a3b0190f6f6f16",
+    "lede": "A Reddit user bought a nine-GPU Nvidia P106-100 mining rig with 54GB of VRAM for $35 and ran Qwen3.6-35B-A3B on it locally.",
+    "outlet": "tomshardware",
+    "published": "2026-10-12T10:00:00Z",
+    "title": "Reddit user pays $35 for a crypto mining rig left in a garage and gets 54GB of VRAM at 65 cents per GB",
+    "url": "https://www.tomshardware.com/pc-components/gpus/reddit-user-pays-usd35-for-a-crypto-mining-rig-left-in-a-garage-and-gets-54gb-of-vram-at-65-cents-per-gb-the-first-test-for-2017-era-gpus-a-35b-parameter-ai-model-running-locally-at-over-30-tokens-per-second"
+  },
+  "score": 0.635325
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fb0e66b69df910332d9c1540c623639aa81906b",
+    "lede": "Ukraine's strikes on Russian data centers have caused legitimate bot traffic to go down, but malicious bots remain operational.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T12:28:24Z",
+    "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in",
+    "url": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts"
+  },
+  "b": {
+    "item_id": "4556d38e1ee4ac275120a993910042fcb94a7c3b",
+    "lede": "Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. \"It suddenly became a little easier to breathe on many social platforms,\" Zelenskyy said Monday. \"There was less hate, less division, and fewer provocations.\" Zelenskyy isn't the first to assert that the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-13T18:31:31Z",
+    "title": "Russian bot farms are still trolling, even after Ukraine\u2019s drone strikes on Yandex",
+    "url": "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"
+  },
+  "score": 0.627554
+}

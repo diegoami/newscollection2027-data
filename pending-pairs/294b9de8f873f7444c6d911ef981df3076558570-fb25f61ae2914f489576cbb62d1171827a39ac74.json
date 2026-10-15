@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "294b9de8f873f7444c6d911ef981df3076558570",
+    "lede": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the \"result is a Windows experience that's up to 20 percent more responsive.\" Microsoft has made improvements to Start, File Explorer, Search, Edge, and other [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T13:41:00Z",
+    "title": "Microsoft says Windows 11 is now \u2018more responsive\u2019 and runs better on 8GB of RAM",
+    "url": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements"
+  },
+  "b": {
+    "item_id": "fb25f61ae2914f489576cbb62d1171827a39ac74",
+    "lede": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T11:58:33Z",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+  },
+  "score": 0.642203
+}

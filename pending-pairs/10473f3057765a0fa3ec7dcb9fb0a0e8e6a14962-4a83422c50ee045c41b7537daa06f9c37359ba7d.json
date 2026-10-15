@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10473f3057765a0fa3ec7dcb9fb0a0e8e6a14962",
+    "lede": "Ledger is reviewing chain-of-custody practices and anti-tamper protections after modified hardware wallets sold through a third party were allegedly fitted with LTE implants that captured recovery phrases and enabled $93 million in crypto theft.",
+    "outlet": "tomshardware",
+    "published": "2026-10-14T10:50:00Z",
+    "title": "After a $93 million crypto hardware-wallet supply chain attack, Ledger to review sales and anti-tamper policies",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ledger-to-review-sales-and-anti-tamper-policies-after-usd93-million-hardware-wallet-supply-chain-attack-rogue-lte-implants-reportedly-stole-users-recovery-phrases"
+  },
+  "b": {
+    "item_id": "4a83422c50ee045c41b7537daa06f9c37359ba7d",
+    "lede": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T12:00:00Z",
+    "title": "Ledger\u2019s new hardware wallet is an Android phone without the phone",
+    "url": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android"
+  },
+  "score": 0.593178
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80cf54be12869d7abbb9e0ba34aea1fe69dcf259",
+    "lede": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T13:18:36Z",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/"
+  },
+  "b": {
+    "item_id": "fb25f61ae2914f489576cbb62d1171827a39ac74",
+    "lede": "Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T11:58:33Z",
+    "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/"
+  },
+  "score": 0.640175
+}

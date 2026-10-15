@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "29c0497e63ec9f824d50ab2a90f24b9e3a447b04",
+    "lede": "Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.",
+    "outlet": "engadget",
+    "published": "2026-10-15T12:00:00Z",
+    "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
+    "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/"
+  },
+  "b": {
+    "item_id": "c34472c71df59cb86bd61c020faa3abbec9e4b22",
+    "lede": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
+    "outlet": "engadget",
+    "published": "2026-10-15T13:00:00Z",
+    "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+    "url": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/"
+  },
+  "score": 0.647509
+}

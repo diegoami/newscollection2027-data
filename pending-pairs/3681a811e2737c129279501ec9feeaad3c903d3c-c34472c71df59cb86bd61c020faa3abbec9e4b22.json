@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3681a811e2737c129279501ec9feeaad3c903d3c",
+    "lede": "NVIDIA's upscaling software is truly powerful when used in the right situations.",
+    "outlet": "engadget",
+    "published": "2026-10-13T18:30:00Z",
+    "title": "What is NVIDIA DLSS and how does it work?",
+    "url": "https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/"
+  },
+  "b": {
+    "item_id": "c34472c71df59cb86bd61c020faa3abbec9e4b22",
+    "lede": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
+    "outlet": "engadget",
+    "published": "2026-10-15T13:00:00Z",
+    "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+    "url": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/"
+  },
+  "score": 0.598911
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4797cf0536943db966cbef1c694d335d5120714a",
+    "lede": "Nearly 50 years of data caught up in breach, with probation service records also among the haul",
+    "outlet": "theregister",
+    "published": "2026-10-15T11:23:06Z",
+    "title": "Legal Aid Agency hackers made off with records dating back to 1978",
+    "url": "https://www.theregister.com/security/2026/10/15/legal-aid-agency-hackers-made-off-with-records-dating-back-to-1978/5303243"
+  },
+  "b": {
+    "item_id": "9d7e0c21485d6346e291697c5ff34d65d712642f",
+    "lede": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T08:06:47Z",
+    "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+    "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/"
+  },
+  "score": 0.692887
+}

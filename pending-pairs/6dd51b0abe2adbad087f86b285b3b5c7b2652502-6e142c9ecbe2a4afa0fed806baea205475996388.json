@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502",
+    "lede": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks.",
+    "outlet": "engadget",
+    "published": "2026-10-15T12:50:29Z",
+    "title": "CitizenLab details new spyware triggered by online advertising",
+    "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/"
+  },
+  "b": {
+    "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+    "lede": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+    "outlet": "techcrunch",
+    "published": "2026-10-15T10:00:00Z",
+    "title": "Citizen Lab says governments are abusing online ads to hack people with \u2018zero-click\u2019 spyware",
+    "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+  },
+  "score": 0.663075
+}
