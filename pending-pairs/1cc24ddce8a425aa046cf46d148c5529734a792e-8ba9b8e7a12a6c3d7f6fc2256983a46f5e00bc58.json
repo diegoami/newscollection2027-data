@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1cc24ddce8a425aa046cf46d148c5529734a792e",
+    "lede": "FTC may fine AI firms on par with companies that delay data breach reports.",
+    "outlet": "arstechnica",
+    "published": "2026-10-15T15:43:24Z",
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+  },
+  "b": {
+    "item_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+    "lede": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T18:51:59Z",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+  },
+  "score": 0.578754
+}

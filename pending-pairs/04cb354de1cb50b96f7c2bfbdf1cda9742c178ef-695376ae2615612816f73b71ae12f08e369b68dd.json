@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef",
+    "lede": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval",
+    "outlet": "theregister",
+    "published": "2026-10-15T14:31:27Z",
+    "title": "Spyware vendors found a way to make targeted ads even worse",
+    "url": "https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334"
+  },
+  "b": {
+    "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+    "lede": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+    "outlet": "wired",
+    "published": "2026-10-15T10:00:00Z",
+    "title": "\u2018Nightmare Scenario\u2019: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+    "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/"
+  },
+  "score": 0.692293
+}

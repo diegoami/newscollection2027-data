@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b391494f3723eea93ae79c480114e85795f4c84",
+    "lede": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+    "outlet": "arstechnica",
+    "published": "2026-10-15T16:57:24Z",
+    "title": "Neutron's first launch slips again amid trouble with carbon composites",
+    "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/"
+  },
+  "b": {
+    "item_id": "b33b0a78c9ebe3075f00c2a4c273236ebbbfaebd",
+    "lede": "Carbon composite woes cause another delay for Peter Beck's Hungry Hippo",
+    "outlet": "theregister",
+    "published": "2026-10-15T12:15:00Z",
+    "title": "Rocket Lab pushes back first Neutron launch to 2027",
+    "url": "https://www.theregister.com/science/2026/10/15/rocket-lab-pushes-back-first-neutron-launch-to-2027/5303224"
+  },
+  "score": 0.635678
+}

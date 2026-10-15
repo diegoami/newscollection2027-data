@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "29c0497e63ec9f824d50ab2a90f24b9e3a447b04",
+    "lede": "Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.",
+    "outlet": "engadget",
+    "published": "2026-10-15T12:00:00Z",
+    "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
+    "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/"
+  },
+  "b": {
+    "item_id": "a759e00012d7e3b615389d18dedb8593822dd63d",
+    "lede": "Micro Center has reclassified Nvidia GeForce RTX 5090 graphics cards as 'Not Carried,' and almost all units are out of stock at its stores.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T15:37:41Z",
+    "title": "Nvidia RTX 5090 disappears from Micro Center amid rumors of a production halt",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes"
+  },
+  "score": 0.585254
+}

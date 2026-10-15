@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+    "lede": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T18:15:36Z",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+  },
+  "b": {
+    "item_id": "edf5568f9d276f31e120a4ddb2e6c9b154cd4d61",
+    "lede": "Apple researchers describe Minions, an internal system that runs AI inference jobs on idle Apple Silicon Macs when GPUs are scarce.",
+    "outlet": "tomshardware",
+    "published": "2026-10-14T11:15:00Z",
+    "title": "Apple researchers turn idle Macs into a virtual GPU cloud with \u2018Minions\u2019",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training"
+  },
+  "score": 0.573898
+}
