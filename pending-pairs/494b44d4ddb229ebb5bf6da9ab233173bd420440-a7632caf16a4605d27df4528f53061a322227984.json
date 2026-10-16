@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "494b44d4ddb229ebb5bf6da9ab233173bd420440",
+    "lede": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T06:18:08Z",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August",
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+  },
+  "b": {
+    "item_id": "a7632caf16a4605d27df4528f53061a322227984",
+    "lede": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T17:29:14Z",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/"
+  },
+  "score": 0.64426
+}

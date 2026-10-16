@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "494b44d4ddb229ebb5bf6da9ab233173bd420440",
+    "lede": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T06:18:08Z",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August",
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+  },
+  "b": {
+    "item_id": "6051d8ed862c2daf34ecd90086dfa2965ce5d68f",
+    "lede": "Vendor promises fix for separate privilege-escalation flaw in the coming weeks",
+    "outlet": "theregister",
+    "published": "2026-10-14T17:15:00Z",
+    "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
+    "url": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095"
+  },
+  "score": 0.641019
+}
