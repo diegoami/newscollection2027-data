@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07ca9e611f68c32769d76c796614c505a5e89a12",
+    "lede": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T19:04:38Z",
+    "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/"
+  },
+  "b": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "score": 0.645903
+}

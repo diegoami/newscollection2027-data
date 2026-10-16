@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3799d463233f8997a4d2d855400a2592d78239ad",
+    "lede": "The ChatGPT browser extension lets you compare information from your open tabs.",
+    "outlet": "engadget",
+    "published": "2026-10-16T10:06:15Z",
+    "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
+    "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/"
+  },
+  "b": {
+    "item_id": "924ca13842a36839441700a8b7f7ba4202fe7f7d",
+    "lede": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T22:43:23Z",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+  },
+  "score": 0.910167
+}

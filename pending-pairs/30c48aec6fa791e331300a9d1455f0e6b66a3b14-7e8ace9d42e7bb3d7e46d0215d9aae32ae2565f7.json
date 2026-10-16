@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "30c48aec6fa791e331300a9d1455f0e6b66a3b14",
+    "lede": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T17:49:38Z",
+    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/"
+  },
+  "b": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "score": 0.643699
+}

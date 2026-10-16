@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a106cb757f5bd2cc56a21a2e883742666dab4af",
+    "lede": "Meta says Muse excels at \u2018multi-step reasoning\u2019 and \u2018complex software engineering\u2019 as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers. Muse Spark Open \u201cis the most capable US open-weight model to date,\u201d Meta\u2019s chief of AI",
+    "outlet": "theguardian",
+    "published": "2026-10-16T00:34:28Z",
+    "title": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model",
+    "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model"
+  },
+  "b": {
+    "item_id": "80d24e11891767c43331282351e952860cf84227",
+    "lede": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "outlet": "techcrunch",
+    "published": "2026-10-12T17:56:56Z",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+  },
+  "score": 0.625585
+}

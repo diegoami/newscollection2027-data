@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04ab1973266f34142dc8331ca220286d7b21d2ff",
+    "lede": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T19:47:30Z",
+    "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/"
+  },
+  "b": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "score": 0.742919
+}

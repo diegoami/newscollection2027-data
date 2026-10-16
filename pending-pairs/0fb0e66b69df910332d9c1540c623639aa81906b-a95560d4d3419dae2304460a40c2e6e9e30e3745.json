@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fb0e66b69df910332d9c1540c623639aa81906b",
+    "lede": "Ukraine's strikes on Russian data centers have caused legitimate bot traffic to go down, but malicious bots remain operational.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T12:28:24Z",
+    "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in",
+    "url": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-ukraine-strikes-yandex-data-centers-and-auto-migration-kicks-in-cloudflare-tracks-170-million-automated-attacks-shifting-to-alternate-cloud-hosts"
+  },
+  "b": {
+    "item_id": "a95560d4d3419dae2304460a40c2e6e9e30e3745",
+    "lede": "After Ukrainian long-range strike drones targeted Russian data centers, various Russian digital services and apps went down or faced severe disruption. There's even some suggestion that online bot activity may be down, but not by as much as initial reports claimed.",
+    "outlet": "tomshardware",
+    "published": "2026-10-16T10:15:00Z",
+    "title": "Ukrainian drones hit Russian data centers, disrupting Russian apps and services",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russian-data-centers-disrupting-russian-apps-and-services-attacks-highlight-the-fragility-of-the-countrys-digital-services"
+  },
+  "score": 0.689565
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "b": {
+    "item_id": "80cf54be12869d7abbb9e0ba34aea1fe69dcf259",
+    "lede": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T13:18:36Z",
+    "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/"
+  },
+  "score": 0.587147
+}

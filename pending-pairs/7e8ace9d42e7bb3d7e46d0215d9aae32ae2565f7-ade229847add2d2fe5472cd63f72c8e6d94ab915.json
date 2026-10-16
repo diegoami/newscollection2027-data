@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "b": {
+    "item_id": "ade229847add2d2fe5472cd63f72c8e6d94ab915",
+    "lede": "'Learn More' shortcut to local setup reportedly patched server-side, leaving users with more involved workarounds",
+    "outlet": "theregister",
+    "published": "2026-10-12T14:56:11Z",
+    "title": "Windows 11's easiest account bypass gets the Microsoft boot",
+    "url": "https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643"
+  },
+  "score": 0.587608
+}

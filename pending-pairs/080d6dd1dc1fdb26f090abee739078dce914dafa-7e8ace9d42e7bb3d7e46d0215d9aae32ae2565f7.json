@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "080d6dd1dc1fdb26f090abee739078dce914dafa",
+    "lede": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T09:10:20Z",
+    "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/"
+  },
+  "b": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "score": 0.630885
+}

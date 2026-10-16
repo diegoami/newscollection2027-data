@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f3a6247486aec67fa4d397b1f929f8c98dca2c5",
+    "lede": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-12T15:43:07Z",
+    "title": "The Yandex outage probably didn\u2019t blitz Russian bots",
+    "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk"
+  },
+  "b": {
+    "item_id": "a95560d4d3419dae2304460a40c2e6e9e30e3745",
+    "lede": "After Ukrainian long-range strike drones targeted Russian data centers, various Russian digital services and apps went down or faced severe disruption. There's even some suggestion that online bot activity may be down, but not by as much as initial reports claimed.",
+    "outlet": "tomshardware",
+    "published": "2026-10-16T10:15:00Z",
+    "title": "Ukrainian drones hit Russian data centers, disrupting Russian apps and services",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drones-hit-russian-data-centers-disrupting-russian-apps-and-services-attacks-highlight-the-fragility-of-the-countrys-digital-services"
+  },
+  "score": 0.703757
+}

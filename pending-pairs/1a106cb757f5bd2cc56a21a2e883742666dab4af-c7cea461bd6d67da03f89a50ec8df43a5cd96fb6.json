@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a106cb757f5bd2cc56a21a2e883742666dab4af",
+    "lede": "Meta says Muse excels at \u2018multi-step reasoning\u2019 and \u2018complex software engineering\u2019 as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers. Muse Spark Open \u201cis the most capable US open-weight model to date,\u201d Meta\u2019s chief of AI",
+    "outlet": "theguardian",
+    "published": "2026-10-16T00:34:28Z",
+    "title": "Meta releases Muse Spark Open, a new \u2018open-weight\u2019 AI model",
+    "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model"
+  },
+  "b": {
+    "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+    "lede": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T18:15:36Z",
+    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+  },
+  "score": 0.749894
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "294b9de8f873f7444c6d911ef981df3076558570",
+    "lede": "Earlier this year Microsoft laid out a plan to fix Windows 11, with a focus on performance, reliability, and the overall OS experience. After months of fixes, Microsoft now says the \"result is a Windows experience that's up to 20 percent more responsive.\" Microsoft has made improvements to Start, File Explorer, Search, Edge, and other [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-15T13:41:00Z",
+    "title": "Microsoft says Windows 11 is now \u2018more responsive\u2019 and runs better on 8GB of RAM",
+    "url": "https://www.theverge.com/news/1011891/microsoft-windows-11-speed-memory-improvements"
+  },
+  "b": {
+    "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+    "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T08:44:22Z",
+    "title": "Microsoft: October Windows update may break Smart App Control",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
+  },
+  "score": 0.669411
+}

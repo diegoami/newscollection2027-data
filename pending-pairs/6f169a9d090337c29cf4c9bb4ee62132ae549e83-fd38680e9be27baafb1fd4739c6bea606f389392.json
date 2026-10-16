@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6f169a9d090337c29cf4c9bb4ee62132ae549e83",
+    "lede": "The move is a turning point in the developer\u2019s relationship with AI and Linux.",
+    "outlet": "zdnet",
+    "published": "2026-10-13T17:30:46Z",
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/"
+  },
+  "b": {
+    "item_id": "fd38680e9be27baafb1fd4739c6bea606f389392",
+    "lede": "Linus Torvalds posts his first LLM-assisted patch to the Linux kernel \u2014 after issuing clear pro-AI directives, the bossman makes use of AI tooling himself",
+    "outlet": "tomshardware",
+    "published": "2026-10-16T10:30:00Z",
+    "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself"
+  },
+  "score": 0.758256
+}
