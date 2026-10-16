@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894",
+    "lede": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+    "outlet": "arstechnica",
+    "published": "2026-10-15T20:32:41Z",
+    "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+    "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+  },
+  "b": {
+    "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51",
+    "lede": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T17:20:03Z",
+    "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
+  },
+  "score": 0.716079
+}

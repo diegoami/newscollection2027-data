@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d6f16cf09a8486c7ec9ecf469d58c02fd93a4ce",
+    "lede": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-16T15:00:00Z",
+    "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+  },
+  "b": {
+    "item_id": "c34472c71df59cb86bd61c020faa3abbec9e4b22",
+    "lede": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
+    "outlet": "engadget",
+    "published": "2026-10-15T13:00:00Z",
+    "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+    "url": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/"
+  },
+  "score": 0.706154
+}

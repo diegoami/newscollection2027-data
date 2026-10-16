@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18",
+    "lede": "Discover-Tech\u2019s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow \u201czero-click\u201d spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it",
+    "outlet": "theguardian",
+    "published": "2026-10-15T12:15:22Z",
+    "title": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say",
+    "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+  },
+  "b": {
+    "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51",
+    "lede": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T17:20:03Z",
+    "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
+  },
+  "score": 0.630291
+}

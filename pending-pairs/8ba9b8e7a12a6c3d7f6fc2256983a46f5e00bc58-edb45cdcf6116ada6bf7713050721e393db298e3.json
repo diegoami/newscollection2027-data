@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8ba9b8e7a12a6c3d7f6fc2256983a46f5e00bc58",
+    "lede": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-12T18:51:59Z",
+    "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+    "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+  },
+  "b": {
+    "item_id": "edb45cdcf6116ada6bf7713050721e393db298e3",
+    "lede": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+    "outlet": "zdnet",
+    "published": "2026-10-16T17:10:27Z",
+    "title": "Anthropic gives third-party auditors \u2019employee-like access\u2019 in AI industry first",
+    "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/"
+  },
+  "score": 0.604706
+}

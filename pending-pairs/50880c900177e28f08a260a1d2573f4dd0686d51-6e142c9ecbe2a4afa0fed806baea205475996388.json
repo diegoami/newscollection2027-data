@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51",
+    "lede": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T17:20:03Z",
+    "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+    "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
+  },
+  "b": {
+    "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+    "lede": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+    "outlet": "techcrunch",
+    "published": "2026-10-15T10:00:00Z",
+    "title": "Citizen Lab says governments are abusing online ads to hack people with \u2018zero-click\u2019 spyware",
+    "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+  },
+  "score": 0.660131
+}
