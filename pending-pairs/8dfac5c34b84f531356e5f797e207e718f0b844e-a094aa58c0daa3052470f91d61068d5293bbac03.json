@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8dfac5c34b84f531356e5f797e207e718f0b844e",
+    "lede": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T20:00:59Z",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+  },
+  "b": {
+    "item_id": "a094aa58c0daa3052470f91d61068d5293bbac03",
+    "lede": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T20:25:04Z",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+  },
+  "score": 0.666427
+}

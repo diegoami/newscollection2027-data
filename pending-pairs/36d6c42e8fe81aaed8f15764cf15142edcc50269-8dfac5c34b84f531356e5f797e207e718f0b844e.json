@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "36d6c42e8fe81aaed8f15764cf15142edcc50269",
+    "lede": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-13T13:51:02Z",
+    "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/"
+  },
+  "b": {
+    "item_id": "8dfac5c34b84f531356e5f797e207e718f0b844e",
+    "lede": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T20:00:59Z",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+  },
+  "score": 0.574364
+}

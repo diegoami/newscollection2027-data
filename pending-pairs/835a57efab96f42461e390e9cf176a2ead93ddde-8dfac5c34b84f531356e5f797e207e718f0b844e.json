@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "835a57efab96f42461e390e9cf176a2ead93ddde",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-14T12:58:07Z",
+    "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/"
+  },
+  "b": {
+    "item_id": "8dfac5c34b84f531356e5f797e207e718f0b844e",
+    "lede": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T20:00:59Z",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+  },
+  "score": 0.577361
+}

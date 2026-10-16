@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "303c8b8be26ff7b15e21ea6f392d5a041dbb5447",
+    "lede": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "outlet": "techcrunch",
+    "published": "2026-10-13T17:00:00Z",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+  },
+  "b": {
+    "item_id": "cb4458cafd2f99b53242f35f5ab0bacf65be5c31",
+    "lede": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-16T22:51:22Z",
+    "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+  },
+  "score": 0.6078
+}
