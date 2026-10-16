@@ -1,0 +1,24 @@
+{
+  "anchor": "5e0b0a3722c798e3fe10788a12147ead6c36f785",
+  "id": "2026-10-14-4c7224",
+  "items": [
+    {
+      "item_id": "5e0b0a3722c798e3fe10788a12147ead6c36f785",
+      "lede": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen.",
+      "outlet": "engadget",
+      "published": "2026-10-14T16:00:00Z",
+      "title": "Android will use Gemini to warn you about scammy messages",
+      "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/"
+    },
+    {
+      "item_id": "6c8051f534fec6ac4af3cdc55bb2fed2dbaf655e",
+      "lede": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-15T19:48:43Z",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

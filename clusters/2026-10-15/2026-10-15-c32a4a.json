@@ -1,0 +1,24 @@
+{
+  "anchor": "00b9e4087573b03b5460a3930f782dadb563451c",
+  "id": "2026-10-15-c32a4a",
+  "items": [
+    {
+      "item_id": "00b9e4087573b03b5460a3930f782dadb563451c",
+      "lede": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "outlet": "techcrunch",
+      "published": "2026-10-15T18:56:46Z",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+    },
+    {
+      "item_id": "2c7772f8550aecf775e71ba47c2a53b5e8be6f78",
+      "lede": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-15T19:57:16Z",
+      "title": "Bluesky\u2019s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

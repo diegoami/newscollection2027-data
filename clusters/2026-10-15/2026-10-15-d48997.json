@@ -1,0 +1,56 @@
+{
+  "anchor": "695376ae2615612816f73b71ae12f08e369b68dd",
+  "id": "2026-10-15-d48997",
+  "items": [
+    {
+      "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+      "lede": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.",
+      "outlet": "wired",
+      "published": "2026-10-15T10:00:00Z",
+      "title": "\u2018Nightmare Scenario\u2019: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+      "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/"
+    },
+    {
+      "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+      "lede": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+      "outlet": "techcrunch",
+      "published": "2026-10-15T10:00:00Z",
+      "title": "Citizen Lab says governments are abusing online ads to hack people with \u2018zero-click\u2019 spyware",
+      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+    },
+    {
+      "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18",
+      "lede": "Discover-Tech\u2019s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of Toronto An Israeli advertising agency has been serving millions of online adverts that allow \u201czero-click\u201d spyware to be used against targets, researchers at a Canadian university have said . Citizen Lab, a digital investigations research unit at the University of Toronto, said it",
+      "outlet": "theguardian",
+      "published": "2026-10-15T12:15:22Z",
+      "title": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+    },
+    {
+      "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502",
+      "lede": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks.",
+      "outlet": "engadget",
+      "published": "2026-10-15T12:50:29Z",
+      "title": "CitizenLab details new spyware triggered by online advertising",
+      "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/"
+    },
+    {
+      "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef",
+      "lede": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval",
+      "outlet": "theregister",
+      "published": "2026-10-15T14:31:27Z",
+      "title": "Spyware vendors found a way to make targeted ads even worse",
+      "url": "https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334"
+    },
+    {
+      "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894",
+      "lede": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
+      "outlet": "arstechnica",
+      "published": "2026-10-15T20:32:41Z",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -17,8 +17,16 @@
       "published": "2026-10-14T20:31:15Z",
       "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
       "url": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit"
+    },
+    {
+      "item_id": "eb781d1081185ec40a2a397045846039d49ab318",
+      "lede": "ChatGPT maker turns tables in Apple's trade secrets lawsuit, claiming confidential hardware plans made their way back to Cupertino",
+      "outlet": "theregister",
+      "published": "2026-10-15T11:46:00Z",
+      "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

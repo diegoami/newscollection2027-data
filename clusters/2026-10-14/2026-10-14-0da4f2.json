@@ -25,8 +25,16 @@
       "published": "2026-10-14T18:23:46Z",
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+    },
+    {
+      "item_id": "a112a9fc3278612d46e261f835ed89175e922d40",
+      "lede": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "outlet": "arstechnica",
+      "published": "2026-10-15T15:12:58Z",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

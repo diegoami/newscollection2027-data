@@ -33,8 +33,16 @@
       "published": "2026-10-13T12:00:00Z",
       "title": "Cyberattacks crank French supermarket refrigeration systems up to 50\u00b0C",
       "url": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
+    },
+    {
+      "item_id": "78a2f9fd53a6aac2dd39788e7f266154e087ae8d",
+      "lede": "They tried to sound the alarm in August",
+      "outlet": "theregister",
+      "published": "2026-10-15T19:23:00Z",
+      "title": "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
+      "url": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }
