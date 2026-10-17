@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "29c0497e63ec9f824d50ab2a90f24b9e3a447b04",
+    "lede": "Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.",
+    "outlet": "engadget",
+    "published": "2026-10-15T12:00:00Z",
+    "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
+    "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/"
+  },
+  "b": {
+    "item_id": "6e4d729b446c15e9ba8a76568cb198a0dd3d495f",
+    "lede": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
+    "outlet": "theregister",
+    "published": "2026-10-16T20:31:00Z",
+    "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+    "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621"
+  },
+  "score": 0.5768
+}

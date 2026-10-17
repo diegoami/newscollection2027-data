@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07bf2c4eb28e5b2269e1ae0cb77927c1c5ba4c11",
+    "lede": "We've tested Nvidia's RTX Spark against the latest and greatest from Apple and AMD to see how Nvidia's efforts to transform the PC for the agentic AI era stack up.",
+    "outlet": "tomshardware",
+    "published": "2026-10-15T12:00:21Z",
+    "title": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
+    "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit"
+  },
+  "b": {
+    "item_id": "6e4d729b446c15e9ba8a76568cb198a0dd3d495f",
+    "lede": "El Reg digs its claws into HP's N1X-powered OmniBook Ultra 16",
+    "outlet": "theregister",
+    "published": "2026-10-16T20:31:00Z",
+    "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+    "url": "https://www.theregister.com/personal-tech/2026/10/16/benchmarked-nvidias-rtx-spark-notebook-delivers-serious-local-ai-compute-at-a-price/5303621"
+  },
+  "score": 0.667846
+}
