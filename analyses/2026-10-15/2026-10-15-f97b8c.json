@@ -1,9 +1,9 @@
 {
   "cluster_id": "2026-10-15-f97b8c",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-17T02:40:43Z",
+  "generated_at": "2026-10-17T03:00:24Z",
   "headline": "Tesla's new Roadster demo divides outlets over SpaceX rocket vs stunt-gas tech",
   "summary": "Tesla unveiled its next-generation Roadster at a Texas demo event where it drove upside down, flew briefly, and leapt over other Tesla models using thrusters, with reservations costing $250,000. Some coverage described the propulsion as SpaceX rocket thruster technology making it the world's first flying car, while other outlets said the thrusters were 50-year-old cold-gas stunt technology comparable to older missile engineering, and argued the flying feat was more showmanship than a genuine production capability.",
   "claims": [
@@ -79,6 +79,13 @@
       "statement": "One outlet argued the flying stunt was just for show rather than a genuine production feature.",
       "sources": [
         {"outlet": "theverge", "item_id": "83f3fffde75a4b9eaca8ff8e7705a36e874b08a8", "quote": "The incredible flying Tesla Roadster is just for show"}
+      ]
+    },
+    {
+      "id": "c11",
+      "statement": "One outlet said the Roadster should enter production in 2028 but cautioned against expecting that timeline to hold.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "f2b8ab9e0b4558b45f8155fe47509a0b5f016abe", "quote": "The Tesla Roadster should go into production in 2028, but don't get your hopes up"}
       ]
     }
   ],
