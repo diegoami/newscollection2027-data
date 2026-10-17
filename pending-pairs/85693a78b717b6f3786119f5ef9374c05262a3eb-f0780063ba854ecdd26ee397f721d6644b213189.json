@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "85693a78b717b6f3786119f5ef9374c05262a3eb",
+    "lede": "The leap second will be replaced by a leap hour, which will take \"several centuries\" before it must be implemented.",
+    "outlet": "tomshardware",
+    "published": "2026-10-17T12:40:00Z",
+    "title": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
+    "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking"
+  },
+  "b": {
+    "item_id": "f0780063ba854ecdd26ee397f721d6644b213189",
+    "lede": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they\u2019re dead.",
+    "outlet": "wired",
+    "published": "2026-10-16T21:31:35Z",
+    "title": "The Leap Second Is No More",
+    "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
+  },
+  "score": 0.576485
+}

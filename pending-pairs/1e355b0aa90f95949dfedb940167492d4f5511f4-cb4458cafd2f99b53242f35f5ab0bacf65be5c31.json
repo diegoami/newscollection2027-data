@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e355b0aa90f95949dfedb940167492d4f5511f4",
+    "lede": "Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery.",
+    "outlet": "engadget",
+    "published": "2026-10-17T12:35:56Z",
+    "title": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
+    "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/"
+  },
+  "b": {
+    "item_id": "cb4458cafd2f99b53242f35f5ab0bacf65be5c31",
+    "lede": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-16T22:51:22Z",
+    "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
+    "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
+  },
+  "score": 0.839713
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ac0eba5f39915c2126dfb359a39af8c6b0da8fff",
+    "lede": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: \u2026 Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-17T15:04:36Z",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+  },
+  "b": {
+    "item_id": "ad3a47861a304e90929ff5e23fc83f823638b7a6",
+    "lede": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-16T14:02:40Z",
+    "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+  },
+  "score": 0.783212
+}
