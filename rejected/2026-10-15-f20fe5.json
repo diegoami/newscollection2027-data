@@ -1,0 +1,95 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "21e3505542d990f787bcd8e4500fa151b4d4a3cc",
+            "outlet": "techcrunch",
+            "quote": "Meta launches an open-weight AI model that runs on Macs"
+          },
+          {
+            "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+            "outlet": "theverge",
+            "quote": "Meta announced the Muse Spark Open AI model today"
+          },
+          {
+            "item_id": "21e3505542d990f787bcd8e4500fa151b4d4a3cc",
+            "outlet": "techcrunch",
+            "quote": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon"
+          }
+        ],
+        "statement": "Meta launched the Muse Spark Open AI model, which runs on Mac/Apple silicon."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "04f2eea71d22d4682ceed765e67bd9d2816352b6",
+            "outlet": "engadget",
+            "quote": "Muse Spark Open is \"the most capable US open-weight model to date,\" the company says."
+          },
+          {
+            "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+            "outlet": "theverge",
+            "quote": "claiming that it's the \"most capable US open-weight model to date"
+          }
+        ],
+        "statement": "Meta says Muse Spark Open is the most capable US open-weight model to date."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+            "outlet": "theverge",
+            "quote": "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework"
+          }
+        ],
+        "statement": "The model can run on a desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "04f2eea71d22d4682ceed765e67bd9d2816352b6",
+            "outlet": "engadget",
+            "quote": "Meta built a huge open-weight AI model for Macs, but you'll need 1TB of RAM to run it"
+          }
+        ],
+        "statement": "Running the model requires 1TB of RAM."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "c7cea461bd6d67da03f89a50ec8df43a5cd96fb6",
+            "outlet": "theverge",
+            "quote": "Meta and Apple team up to make Muse AI models run better on Macs"
+          },
+          {
+            "item_id": "21e3505542d990f787bcd8e4500fa151b4d4a3cc",
+            "outlet": "techcrunch",
+            "quote": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open"
+          }
+        ],
+        "statement": "Meta and Apple collaborated on the model's launch."
+      }
+    ],
+    "cluster_id": "2026-10-15-f20fe5",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-16T03:25:00Z",
+    "headline": "Meta and Apple team up on Muse Spark Open AI model",
+    "model": "claude-sonnet-5",
+    "summary": "Meta launched its Muse Spark Open AI model, calling it the most capable US open-weight model to date, built to run locally on Apple silicon; one outlet notes it needs 1TB of RAM to run on two Mac Studios."
+  },
+  "cluster_id": "2026-10-15-f20fe5",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-10-17T02:43:41Z"
+}

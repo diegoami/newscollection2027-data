@@ -1,1 +1,37 @@
-{"cluster_id": "2026-10-14-6e86d1", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-16T02:30:00Z", "headline": "Timekeepers vote to replace the leap second", "summary": "International delegates voted to retire the leap second in favor of a leap hour that lets UTC drift from Earth's rotation, sparing computer systems frequent adjustments; the first leap hour itself is not expected for thousands of years.", "claims": [{"id": "c1", "statement": "International timekeepers were set to vote on replacing the leap second.", "sources": [{"outlet": "theregister", "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88", "quote": "Leap seconds face judgment day as time lords prepare to vote"}]}, {"id": "c2", "statement": "The vote adopted a leap hour to replace the leap second.", "sources": [{"outlet": "theguardian", "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d", "quote": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years After decades of discussion, quibbling and worrying about clocks in computer systems, the world’s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second"}]}, {"id": "c3", "statement": "The proposal lets UTC drift up to an hour from Earth's rotation, sparing computer systems frequent adjustments.", "sources": [{"outlet": "theregister", "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88", "quote": "Proposal would let UTC drift an hour from Earth's rotation, sparing computer systems awkward adjustments for centuries"}]}, {"id": "c4", "statement": "The first leap hour itself is not expected to be needed for thousands of years.", "sources": [{"outlet": "theguardian", "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d", "quote": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-14-6e86d1",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "International timekeepers vote to abolish the leap second, adopting a future leap hour",
+  "summary": "After years of debate, the world's official timekeepers voted to scrap the leap second, the periodic adjustment added to keep clocks aligned with Earth's rotation, partly to avoid infrastructure problems akin to the Y2K bug. It will eventually be replaced by a leap hour, though that adjustment is not expected to be needed for thousands of years.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The world's official timekeepers voted to abolish the leap second.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d", "quote": "the world’s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second."},
+        {"outlet": "theverge", "item_id": "6e000688217fd86798cf72d170b4ef3635844d26", "quote": "the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The leap second will eventually be replaced by a 'leap hour,' which will not be needed for thousands of years.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d", "quote": "but first leap hour not likely to happen for thousands of years"},
+        {"outlet": "theregister", "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88", "quote": "Proposal would let UTC drift an hour from Earth's rotation, sparing computer systems awkward adjustments for centuries"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The change aims to prevent infrastructure problems in computer systems similar to the Y2K bug scare.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "6e000688217fd86798cf72d170b4ef3635844d26", "quote": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare."},
+        {"outlet": "theregister", "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88", "quote": "sparing computer systems awkward adjustments for centuries"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

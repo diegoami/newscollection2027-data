@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-15-461b69",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "UK to ban pornography depicting strangulation and incest from November",
+  "summary": "The UK government announced that pornography depicting choking or strangulation and incest will be banned in England and Wales from 6 November, following a 2025 review into pornography regulation led by Baroness Gabby Bertin and sustained cross-party pressure. Campaigners welcomed the new legislation.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The UK government will ban pornography depicting choking/strangulation and incest from early November, specifically 6 November.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "964731d5d0129819da1742ecdafbe11bec706acf", "quote": "Porn showing choking or incest to be banned from early November, government says"},
+        {"outlet": "theguardian", "item_id": "98fdffb3e2a1638cd7c50267cbff94ac5eb4d7fc", "quote": "The content will be outlawed from 6 November"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The ban follows a 2025 review into pornography regulation led by Baroness Gabby Bertin.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "964731d5d0129819da1742ecdafbe11bec706acf", "quote": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"},
+        {"outlet": "theguardian", "item_id": "98fdffb3e2a1638cd7c50267cbff94ac5eb4d7fc", "quote": "follows recommendations by 2025 review into pornography regulation"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Campaigners welcomed the legislation, which followed cross-party pressure on ministers.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "98fdffb3e2a1638cd7c50267cbff94ac5eb4d7fc", "quote": "Campaigners welcome legislation which follows recommendations by 2025 review into pornography regulation"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

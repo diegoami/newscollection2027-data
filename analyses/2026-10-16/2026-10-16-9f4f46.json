@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-16-9f4f46",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Nathan Fielder's new documentary centers on Theranos fraudster Elizabeth Holmes",
+  "summary": "Comedian Nathan Fielder released a new documentary about disgraced Theranos CEO Elizabeth Holmes. Coverage framed much of the project's appeal around Fielder's own experimental comedic style, with one review describing it as exploring colliding personas that interrogate the nature of authenticity.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nathan Fielder made a new documentary about disgraced Theranos CEO Elizabeth Holmes.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9d9d7a85c19fa2f6ec54b907a57b20de01861b9e", "quote": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes"},
+        {"outlet": "wired", "item_id": "732bba2e68a92be802fc94e76d604d9bf314c6af", "quote": "yet another documentary on Theranos fraudster Elizabeth Holmes"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Much of the hype around the documentary stems from Fielder's own experimental comedic persona.",
+      "sources": [
+        {"outlet": "wired", "item_id": "732bba2e68a92be802fc94e76d604d9bf314c6af", "quote": "It has everything to do with this experimental comedian."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The documentary is described as exploring colliding personas that interrogate the nature of authenticity.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9d9d7a85c19fa2f6ec54b907a57b20de01861b9e", "quote": "has created a constellation of colliding personas that interrogate the very nature of authenticity."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

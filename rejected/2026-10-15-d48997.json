@@ -1,0 +1,143 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+            "outlet": "wired",
+            "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising."
+          },
+          {
+            "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894",
+            "outlet": "arstechnica",
+            "quote": "Targeted ads delivered 0-click exploits to install mercenary malware"
+          },
+          {
+            "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18",
+            "outlet": "theguardian",
+            "quote": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say"
+          }
+        ],
+        "statement": "Citizen Lab released evidence that zero-click mercenary spyware is being distributed via targeted/online advertising."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+            "outlet": "wired",
+            "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising"
+          },
+          {
+            "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894",
+            "outlet": "arstechnica",
+            "quote": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+          }
+        ],
+        "statement": "This is described as likely the first confirmed case of mercenary spyware delivered through targeted ads."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+            "outlet": "techcrunch",
+            "quote": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."
+          }
+        ],
+        "statement": "The spyware campaign compromised dozens of devices at media organization Al Jazeera."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502",
+            "outlet": "engadget",
+            "quote": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks."
+          }
+        ],
+        "statement": "The spyware has been dubbed 'AdFection' and infects phones and computers via global online ad networks."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18",
+            "outlet": "theguardian",
+            "quote": "Discover-Tech\u2019s Controlium software lets clients mass-profile internet users then covertly hack targets"
+          }
+        ],
+        "statement": "An Israeli company's ad/profiling software reportedly let clients mass-profile users and covertly hack targets."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef",
+            "outlet": "theregister",
+            "quote": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval"
+          }
+        ],
+        "statement": "The Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's approval."
+      }
+    ],
+    "cluster_id": "2026-10-15-d48997",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c5",
+          "c6"
+        ],
+        "explanation": "Only one outlet names the Israeli company involved (Discover-Tech, with its Controlium software); others describe it only as an unnamed adtech outfit or spyware vendor.",
+        "kind": "omission",
+        "quotes": [
+          {
+            "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18",
+            "outlet": "theguardian",
+            "quote": "Discover-Tech\u2019s Controlium software lets clients mass-profile internet users then covertly hack targets"
+          },
+          {
+            "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef",
+            "outlet": "theregister",
+            "quote": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval"
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "claim_ids": [
+          "c3"
+        ],
+        "explanation": "Only one outlet names Al Jazeera as the organization whose devices were compromised; others describe the campaign without naming a specific victim.",
+        "kind": "omission",
+        "quotes": [
+          {
+            "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388",
+            "outlet": "techcrunch",
+            "quote": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."
+          },
+          {
+            "item_id": "695376ae2615612816f73b71ae12f08e369b68dd",
+            "outlet": "wired",
+            "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising."
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-16T02:45:00Z",
+    "headline": "Citizen Lab finds spyware delivered via targeted ads",
+    "model": "claude-sonnet-5",
+    "summary": "Citizen Lab released evidence of mercenary zero-click spyware distributed through online ads, reportedly compromising Al Jazeera devices, in what outlets call the first confirmed such case; an Israeli adtech company is implicated, though only some reports name it."
+  },
+  "cluster_id": "2026-10-15-d48997",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-10-17T02:43:41Z"
+}

@@ -1,0 +1,64 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88",
+            "outlet": "theregister",
+            "quote": "Leap seconds face judgment day as time lords prepare to vote"
+          }
+        ],
+        "statement": "International timekeepers were set to vote on replacing the leap second."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d",
+            "outlet": "theguardian",
+            "quote": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years After decades of discussion, quibbling and worrying about clocks in computer systems, the world\u2019s official timekeepers have voted to replace what many viewed as a tiresome correction: the leap second"
+          }
+        ],
+        "statement": "The vote adopted a leap hour to replace the leap second."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "8ec2f28be4abf148899734d6c81b65d98cd4df88",
+            "outlet": "theregister",
+            "quote": "Proposal would let UTC drift an hour from Earth's rotation, sparing computer systems awkward adjustments for centuries"
+          }
+        ],
+        "statement": "The proposal lets UTC drift up to an hour from Earth's rotation, sparing computer systems frequent adjustments."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "3dacd47cdd3e3dd218e124ed9556429085ef294d",
+            "outlet": "theguardian",
+            "quote": "International delegates agree leap second no longer tenable, but first leap hour not likely to happen for thousands of years"
+          }
+        ],
+        "statement": "The first leap hour itself is not expected to be needed for thousands of years."
+      }
+    ],
+    "cluster_id": "2026-10-14-6e86d1",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-16T02:30:00Z",
+    "headline": "Timekeepers vote to replace the leap second",
+    "model": "claude-sonnet-5",
+    "summary": "International delegates voted to retire the leap second in favor of a leap hour that lets UTC drift from Earth's rotation, sparing computer systems frequent adjustments; the first leap hour itself is not expected for thousands of years."
+  },
+  "cluster_id": "2026-10-14-6e86d1",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-10-17T02:43:41Z"
+}

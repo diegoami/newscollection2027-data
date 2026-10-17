@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-15-b9ab20",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Over $600 million traded on Polymarket election markets after races ended",
+  "summary": "More than $600 million in Polymarket election-contract trades took place after the outcomes of elections in Ethiopia and Romania had already been decided, with one expert calling it a form of volume manipulation.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Over $600 million in Polymarket election trades took place after the race outcomes had already been decided.",
+      "sources": [
+        {"outlet": "wired", "item_id": "54fdccb897ebfdf83cbb4fe79c48e113e842c5a3", "quote": "Over $600 Million in Polymarket Election Trades Took Place After Races Ended"},
+        {"outlet": "arstechnica", "item_id": "2f33b19f817492e2e287ac934e9921aa2e0b3b2f", "quote": "Polymarket saw $600 million in election trades after the elections were over"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The trades involved contracts tied to elections in Ethiopia and Romania.",
+      "sources": [
+        {"outlet": "wired", "item_id": "54fdccb897ebfdf83cbb4fe79c48e113e842c5a3", "quote": "Contracts tied to elections in Ethiopia and Romania saw massive trading volumes after the outcomes were decided."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "An expert described the post-outcome trading as a form of volume manipulation.",
+      "sources": [
+        {"outlet": "wired", "item_id": "54fdccb897ebfdf83cbb4fe79c48e113e842c5a3", "quote": "“It’s obviously some form of volume manipulation,” one expert says."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

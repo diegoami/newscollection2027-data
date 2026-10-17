@@ -1,1 +1,70 @@
-{"cluster_id": "2026-10-15-d48997", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-16T02:45:00Z", "headline": "Citizen Lab finds spyware delivered via targeted ads", "summary": "Citizen Lab released evidence of mercenary zero-click spyware distributed through online ads, reportedly compromising Al Jazeera devices, in what outlets call the first confirmed such case; an Israeli adtech company is implicated, though only some reports name it.", "claims": [{"id": "c1", "statement": "Citizen Lab released evidence that zero-click mercenary spyware is being distributed via targeted/online advertising.", "sources": [{"outlet": "wired", "item_id": "695376ae2615612816f73b71ae12f08e369b68dd", "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising."}, {"outlet": "arstechnica", "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894", "quote": "Targeted ads delivered 0-click exploits to install mercenary malware"}, {"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say"}]}, {"id": "c2", "statement": "This is described as likely the first confirmed case of mercenary spyware delivered through targeted ads.", "sources": [{"outlet": "wired", "item_id": "695376ae2615612816f73b71ae12f08e369b68dd", "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising"}, {"outlet": "arstechnica", "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894", "quote": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."}]}, {"id": "c3", "statement": "The spyware campaign compromised dozens of devices at media organization Al Jazeera.", "sources": [{"outlet": "techcrunch", "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388", "quote": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."}]}, {"id": "c4", "statement": "The spyware has been dubbed 'AdFection' and infects phones and computers via global online ad networks.", "sources": [{"outlet": "engadget", "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502", "quote": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks."}]}, {"id": "c5", "statement": "An Israeli company's ad/profiling software reportedly let clients mass-profile users and covertly hack targets.", "sources": [{"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets"}]}, {"id": "c6", "statement": "The Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's approval.", "sources": [{"outlet": "theregister", "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef", "quote": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval"}]}], "discrepancies": [{"kind": "omission", "severity": "medium", "claim_ids": ["c5", "c6"], "explanation": "Only one outlet names the Israeli company involved (Discover-Tech, with its Controlium software); others describe it only as an unnamed adtech outfit or spyware vendor.", "quotes": [{"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets"}, {"outlet": "theregister", "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef", "quote": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval"}]}, {"kind": "omission", "severity": "low", "claim_ids": ["c3"], "explanation": "Only one outlet names Al Jazeera as the organization whose devices were compromised; others describe the campaign without naming a specific victim.", "quotes": [{"outlet": "techcrunch", "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388", "quote": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."}, {"outlet": "wired", "item_id": "695376ae2615612816f73b71ae12f08e369b68dd", "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising."}]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-10-15-d48997",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Citizen Lab exposes zero-click spyware delivered via targeted online ads",
+  "summary": "Citizen Lab researchers at the University of Toronto disclosed the first technical evidence of mercenary spyware delivered through targeted online advertising, compromising devices at Al Jazeera Media Network without any user interaction. An Israeli adtech company was implicated in enabling the delivery. Outlets differed on what to call the spyware or software involved, variously naming it AdFection, Candiru spyware, and Discover-Tech's Controlium.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Citizen Lab released the first technical evidence of mercenary spyware being distributed via online advertising.",
+      "sources": [
+        {"outlet": "wired", "item_id": "695376ae2615612816f73b71ae12f08e369b68dd", "quote": "Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising."},
+        {"outlet": "arstechnica", "item_id": "048b26c65907c94df3e72354d7c49c9c0c920894", "quote": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Devices at Al Jazeera Media Network were compromised in a zero-click attack via malicious online ads, requiring no user interaction.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6e142c9ecbe2a4afa0fed806baea205475996388", "quote": "dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads."},
+        {"outlet": "bleepingcomputer", "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51", "quote": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "An Israeli advertising/adtech company was implicated in enabling the spyware's delivery.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "An Israeli advertising agency has been serving millions of online adverts that allow “zero-click” spyware to be used against targets"},
+        {"outlet": "theregister", "item_id": "04cb354de1cb50b96f7c2bfbdf1cda9742c178ef", "quote": "Israeli adtech outfit allegedly helped spyware vendors infect phones while enjoying Google's seal of approval"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "One outlet identified the spyware as a new type dubbed 'AdFection.'",
+      "sources": [
+        {"outlet": "engadget", "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502", "quote": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks."}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Another outlet identified the spyware as Candiru spyware.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51", "quote": "Zero-click attacks used targeted ads to deliver Candiru spyware"}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Another outlet named the implicated software Discover-Tech's Controlium.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c4", "c5", "c6"],
+      "explanation": "Outlets gave different names for the spyware or software involved in the same ad-delivered campaign -- 'AdFection,' Candiru spyware, and Discover-Tech's Controlium.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "6dd51b0abe2adbad087f86b285b3b5c7b2652502", "quote": "A new type of spyware dubbed \"AdFection\" is infecting phones and computers via global online advertising networks."},
+        {"outlet": "bleepingcomputer", "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51", "quote": "Zero-click attacks used targeted ads to deliver Candiru spyware"},
+        {"outlet": "theguardian", "item_id": "2a92bb3524a8cac19e032b0ffc6fcfbb75f7be18", "quote": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

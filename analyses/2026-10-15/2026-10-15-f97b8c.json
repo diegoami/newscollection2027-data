@@ -1,0 +1,99 @@
+{
+  "cluster_id": "2026-10-15-f97b8c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Tesla's new Roadster demo divides outlets over SpaceX rocket vs stunt-gas tech",
+  "summary": "Tesla unveiled its next-generation Roadster at a Texas demo event where it drove upside down, flew briefly, and leapt over other Tesla models using thrusters, with reservations costing $250,000. Some coverage described the propulsion as SpaceX rocket thruster technology making it the world's first flying car, while other outlets said the thrusters were 50-year-old cold-gas stunt technology comparable to older missile engineering, and argued the flying feat was more showmanship than a genuine production capability.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Tesla demonstrated its next-generation Roadster at a live event in Waco, Texas.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "41d2a43ff64d857f48044f737c81d1ec579e31fd", "quote": "Tesla demonstrated its next-generation Roadster at an event in Waco, Texas"},
+        {"outlet": "wired", "item_id": "572064c2bd2b7259b27c9bc3b1e9ed2a262e8f19", "quote": "The automaker unveiled its next luxury sports car at an event in Texas."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "During the demo the Roadster drove upside down, briefly flew, and accelerated to 60mph in under a second.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "41d2a43ff64d857f48044f737c81d1ec579e31fd", "quote": "the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The car used thrusters to leap over a lineup of other Tesla vehicles at the demo.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "568aa47c4bd878edb328e32c88cf23243365963c", "quote": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Reserving the new Roadster will cost $250,000.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "3d66dbc4c9a596f902dc2a9c48bf00757d49a872", "quote": "you'll need $250,000 just to reserve it"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Musk claimed the Roadster uses technology from his aerospace company SpaceX, calling it the world's first flying car.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "8166bdb08fd4fae8e0406b73496a8d4bb23e424f", "quote": "using technology from his aerospace company SpaceX to “basically fly like a rocket”"}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Another outlet also described the Roadster's propulsion as SpaceX-powered.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "568aa47c4bd878edb328e32c88cf23243365963c", "quote": "Tesla reveals SpaceX-powered Roadster that flies and falls with style"}
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Other coverage characterized the thrusters as 50-year-old cold-gas stunt technology, not novel rocket propulsion.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "ad6a5d3e23385573bc67ee74e87a63d08152bc17", "quote": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again"},
+        {"outlet": "arstechnica", "item_id": "ad6a5d3e23385573bc67ee74e87a63d08152bc17", "quote": "compressed gas is a good way to do it."},
+        {"outlet": "engadget", "item_id": "3d66dbc4c9a596f902dc2a9c48bf00757d49a872", "quote": "cold-gas thruster option"},
+        {"outlet": "theverge", "item_id": "83f3fffde75a4b9eaca8ff8e7705a36e874b08a8", "quote": "landing via cold-gas thrusters"}
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "One outlet compared the thruster technology to decades-old Lockheed Martin missile-related engineering.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "a440d33cee21caaebcd38134ddcfaf42d931a70f", "quote": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago"}
+      ]
+    },
+    {
+      "id": "c9",
+      "statement": "The FAA is likely to have regulatory concerns about the Roadster's ability to leave the ground.",
+      "sources": [
+        {"outlet": "wired", "item_id": "fb64bec0a80c50b5216d815bca5083d8a50010c5", "quote": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground."}
+      ]
+    },
+    {
+      "id": "c10",
+      "statement": "One outlet argued the flying stunt was just for show rather than a genuine production feature.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "83f3fffde75a4b9eaca8ff8e7705a36e874b08a8", "quote": "The incredible flying Tesla Roadster is just for show"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "high",
+      "claim_ids": ["c5", "c6", "c7"],
+      "explanation": "Some outlets described the Roadster's flight as powered by SpaceX rocket thruster technology, while others characterized the thrusters as 50-year-old cold-gas stunt technology rather than novel rocket propulsion.",
+      "quotes": [
+        {"outlet": "theguardian", "item_id": "8166bdb08fd4fae8e0406b73496a8d4bb23e424f", "quote": "using technology from his aerospace company SpaceX to “basically fly like a rocket”"},
+        {"outlet": "techcrunch", "item_id": "568aa47c4bd878edb328e32c88cf23243365963c", "quote": "Tesla reveals SpaceX-powered Roadster that flies and falls with style"},
+        {"outlet": "arstechnica", "item_id": "ad6a5d3e23385573bc67ee74e87a63d08152bc17", "quote": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again"}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-10-16-b96b04",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Apple's $2,000 iPhone Duo pre-orders open and immediately push into 2027",
+  "summary": "Apple opened pre-orders for its $2,000 iPhone Duo, the company's first folding iPhone, at 8AM ET. Within an hour, delivery estimates had already slipped to late January, a new wait-time record for Apple, even though the foldable is slated to launch in stores on October 23rd.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple's $2,000 iPhone Duo, its first folding iPhone, went on pre-order at 8AM ET.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "499d98db9d613eccdca2c4339fa8a71d8c884dc3", "quote": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET"},
+        {"outlet": "theverge", "item_id": "ee4ef01f0dc5efabd9ed3a9fa0a60736a4e796e0", "quote": "Apple opened preorders for it at 8AM ET on Friday"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Within an hour, delivery estimates had already slipped to late January, a new wait-time record for Apple.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ee4ef01f0dc5efabd9ed3a9fa0a60736a4e796e0", "quote": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday."},
+        {"outlet": "zdnet", "item_id": "e80a3a34f2af189756abedb04eb14943e39e1729", "quote": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The iPhone Duo is slated to launch in stores on October 23rd.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ee4ef01f0dc5efabd9ed3a9fa0a60736a4e796e0", "quote": "The foldable is slated to launch in stores on October 23rd"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -49,8 +49,16 @@
       "published": "2026-10-15T20:32:41Z",
       "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
       "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+    },
+    {
+      "item_id": "50880c900177e28f08a260a1d2573f4dd0686d51",
+      "lede": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-16T17:20:03Z",
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

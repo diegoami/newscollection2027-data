@@ -1,6 +1,6 @@
 {
   "analysis": {
-    "agreement": "conflicting",
+    "agreement": "partial",
     "backend": "claude_code",
     "claims": [
       {
@@ -9,15 +9,15 @@
           {
             "item_id": "d6002154797b609f63c1a952fb9375c9df4c2258",
             "outlet": "theverge",
-            "quote": "Apple has just announced a new October event, taking place in New York on October 13th at 9AM ET."
+            "quote": "taking place in New York on October 13th at 9AM ET."
           },
           {
-            "item_id": "612aae39447e7f5765c142e6024f110e1b72f58e",
-            "outlet": "theverge",
-            "quote": "Apple\u2019s October 13th launch event \u2014 given the tagline \u201cWelcome Home\u201d \u2014 is all about its efforts for the smart home."
+            "item_id": "7ba1184948140aed16683c0d8870cc4b139fc62b",
+            "outlet": "engadget",
+            "quote": "Apple is set to show off new smart home devices at an October 13 event"
           }
         ],
-        "statement": "Apple hosted a 'Welcome Home' smart-home event in New York on October 13."
+        "statement": "Apple held a smart-home-focused launch event, tagged 'Welcome Home,' in New York on October 13th."
       },
       {
         "id": "c2",
@@ -30,67 +30,55 @@
           {
             "item_id": "9f793ae7265cdea647c9eb739391b6a9471df9f3",
             "outlet": "arstechnica",
-            "quote": "Apple\u2019s first smart display is the 7-inch HomeView for $299"
+            "quote": "the 7-inch HomeView for $299"
+          },
+          {
+            "item_id": "638280d3d7fa6d0285cfdb2479da71ac810d5bb0",
+            "outlet": "zdnet",
+            "quote": "$299 HomeView smart hub is here"
           }
         ],
-        "statement": "Apple unveiled HomeView, a 7-inch smart display that acts as a smart-home hub, priced at $299."
+        "statement": "Apple launched HomeView, its first smart home hub/display, priced at $299."
       },
       {
         "id": "c3",
         "sources": [
           {
-            "item_id": "d3d7d6aa60950a1074b7633353d13061ea793e9c",
-            "outlet": "theverge",
-            "quote": "Apple is introducing a refreshed Apple TV 4K today with a pair of interesting new hardware features: far-field microphones to talk to Siri hands-free and Find My built into the remote."
-          },
-          {
-            "item_id": "6a7fb2d3dfe44f5f46176ce29d6c478889e6a329",
-            "outlet": "engadget",
-            "quote": "New microphones, a new remote and the new Siri AI are on the company's streaming box."
+            "item_id": "9f793ae7265cdea647c9eb739391b6a9471df9f3",
+            "outlet": "arstechnica",
+            "quote": "It can recognize up to six users with its camera."
           }
         ],
-        "statement": "Apple refreshed the Apple TV 4K with far-field microphones for hands-free Siri and Find My support in the remote."
+        "statement": "HomeView's camera can recognize up to six different users."
       },
       {
         "id": "c4",
         "sources": [
+          {
+            "item_id": "d3d7d6aa60950a1074b7633353d13061ea793e9c",
+            "outlet": "theverge",
+            "quote": "far-field microphones to talk to Siri hands-free and Find My built into the remote"
+          },
           {
             "item_id": "de48459db6d92449d37cc3d3f3d8cc0582f84628",
             "outlet": "techcrunch",
             "quote": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13."
           }
         ],
-        "statement": "The new Apple TV 4K costs $299 and will be available November 13."
+        "statement": "Apple refreshed the Apple TV 4K with far-field microphones for Siri AI, pricing it at $299 with a November 13 release."
       },
       {
         "id": "c5",
         "sources": [
           {
-            "item_id": "df6837d0018fb4edcab601206941e9b2ec34bd9f",
-            "outlet": "engadget",
-            "quote": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?"
-          }
-        ],
-        "statement": "The new Apple TV 4K costs about $100 more than the 2022 model it replaces."
-      },
-      {
-        "id": "c6",
-        "sources": [
+            "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa",
+            "outlet": "theverge",
+            "quote": "but it isn\u2019t ready for Siri AI at launch"
+          },
           {
             "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b",
             "outlet": "techcrunch",
             "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
-          }
-        ],
-        "statement": "Apple refreshed the HomePod mini with a new chip and a 'SoundGlow' visual feature, priced at $149 and available starting October 30."
-      },
-      {
-        "id": "c7",
-        "sources": [
-          {
-            "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa",
-            "outlet": "theverge",
-            "quote": "Apple announces the HomePod Mini 2, but it isn\u2019t ready for Siri AI at launch"
           },
           {
             "item_id": "7b425a8798192ffe78d0fffda1a33fd08a892f95",
@@ -98,26 +86,15 @@
             "quote": "The new model arrives on October 30, but its Siri AI features are coming later."
           }
         ],
-        "statement": "The HomePod mini's Siri AI features are not available at launch and are coming later."
+        "statement": "Apple refreshed the HomePod mini with a new chip for $149, arriving October 30, with its Siri AI features coming later rather than at launch."
       },
       {
-        "id": "c8",
-        "sources": [
-          {
-            "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b",
-            "outlet": "techcrunch",
-            "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
-          }
-        ],
-        "statement": "TechCrunch described the new HomePod mini as launching 'with Siri AI.'"
-      },
-      {
-        "id": "c9",
+        "id": "c6",
         "sources": [
           {
             "item_id": "dabd38ebc28c81965af9db63069e6d4bb6815412",
             "outlet": "theverge",
-            "quote": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use."
+            "quote": "partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection"
           },
           {
             "item_id": "b68ffad83bef1520afca976bf28db49bcec91172",
@@ -125,10 +102,10 @@
             "quote": "Apple collaborated with LG and Schneider Electric on products that work with its HomeView display."
           }
         ],
-        "statement": "Apple launched the Apple Home Collection, smart-home accessories including cameras, thermostats and door locks, made with LG and Schneider Electric."
+        "statement": "Apple launched the Home Collection, a line of smart home devices made in partnership with LG Electronics and Schneider Electric."
       },
       {
-        "id": "c10",
+        "id": "c7",
         "sources": [
           {
             "item_id": "3160a476c0a4152d783bcfa4ba87cdc984fa52de",
@@ -141,39 +118,18 @@
             "quote": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell"
           }
         ],
-        "statement": "Before the event, reports said Apple was partnering with LG alone on the new smart-home accessories."
+        "statement": "Before the event, reports said Apple was partnering with LG on a smart lock, thermostat, and doorbell."
       }
     ],
     "cluster_id": "2026-10-06-744d33",
-    "cluster_version": 7,
+    "cluster_version": 8,
     "discrepancies": [
       {
         "claim_ids": [
           "c7",
-          "c8"
+          "c6"
         ],
-        "explanation": "TechCrunch's lede frames the HomePod mini as launching 'with Siri AI,' while The Verge and Engadget state its Siri AI features are not ready at launch.",
-        "kind": "contradiction",
-        "quotes": [
-          {
-            "item_id": "7cc49f8437866574f7cd79fc69885a33a4b60a6b",
-            "outlet": "techcrunch",
-            "quote": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
-          },
-          {
-            "item_id": "05da67d9d36354cf8d7282e30b908c46432193aa",
-            "outlet": "theverge",
-            "quote": "Apple announces the HomePod Mini 2, but it isn\u2019t ready for Siri AI at launch"
-          }
-        ],
-        "severity": "high"
-      },
-      {
-        "claim_ids": [
-          "c9",
-          "c10"
-        ],
-        "explanation": "Reports before the event named LG as Apple's only hardware partner, but the actual Home Collection launch credited both LG Electronics and Schneider Electric.",
+        "explanation": "Pre-event reports credited only LG as Apple's hardware partner, while coverage of the actual Home Collection launch also credits Schneider Electric.",
         "kind": "omission",
         "quotes": [
           {
@@ -184,20 +140,20 @@
           {
             "item_id": "dabd38ebc28c81965af9db63069e6d4bb6815412",
             "outlet": "theverge",
-            "quote": "Apple has partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection, an assortment of smart home devices meant to be easy to set up and use."
+            "quote": "partnered with LG Electronics and Schneider Electric to launch the Apple Home Collection"
           }
         ],
         "severity": "low"
       }
     ],
-    "generated_at": "2026-10-14T02:40:00Z",
-    "headline": "Apple's 'Welcome Home' event launches HomeView, refreshed Apple TV 4K and HomePod mini",
+    "generated_at": "2026-10-17T02:40:43Z",
+    "headline": "Apple launches HomeView hub, Home Collection devices, and refreshed Apple TV and HomePod mini",
     "model": "claude-sonnet-5",
-    "summary": "At its October 13 'Welcome Home' event, Apple launched the $299 HomeView smart display, a refreshed Apple TV 4K with hands-free Siri microphones, an updated $149 HomePod mini, and the Apple Home Collection of smart-home accessories made with LG and Schneider Electric, after earlier reports named only LG. Outlets disagree on whether the HomePod mini's Siri AI works at launch or arrives later."
+    "summary": "At its October 13 \"Welcome Home\" event in New York, Apple introduced the HomeView smart display for $299, a Home Collection of cameras, thermostats, a smart lock, and a video doorbell made with LG Electronics and Schneider Electric, a refreshed $299 Apple TV 4K with far-field microphones and Siri AI arriving November 13, and a $149 HomePod mini 2 with a new chip arriving October 30, whose Siri AI features come later."
   },
   "cluster_id": "2026-10-06-744d33",
   "problems": [
-    "discrepancy 1: quotes span 1 outlet(s); a disagreement needs at least two"
+    "discrepancy 0: quotes span 1 outlet(s); a disagreement needs at least two"
   ],
-  "rejected_at": "2026-10-14T02:35:17Z"
+  "rejected_at": "2026-10-17T02:43:41Z"
 }

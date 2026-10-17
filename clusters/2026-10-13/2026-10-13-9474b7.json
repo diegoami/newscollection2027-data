@@ -17,8 +17,16 @@
       "published": "2026-10-14T20:16:31Z",
       "title": "Linux kernel devs drop obligatory confession of AI tool usage",
       "url": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140"
+    },
+    {
+      "item_id": "fd38680e9be27baafb1fd4739c6bea606f389392",
+      "lede": "Linus Torvalds posts his first LLM-assisted patch to the Linux kernel \u2014 after issuing clear pro-AI directives, the bossman makes use of AI tooling himself",
+      "outlet": "tomshardware",
+      "published": "2026-10-16T10:30:00Z",
+      "title": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel, synthetic test clocks 23x performance leap",
+      "url": "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-15-d96967",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Anthropic grants METR employee-level access to audit its AI practices",
+  "summary": "Anthropic gave outside researchers at METR employee-level access to its systems, giving up the right to block METR's own assessments of its risks, incidents, and practices. One report called it an industry first for third-party AI auditing, noting external evaluators play a crucial role as AI labs continue to self-regulate.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic gave METR researchers employee-level access to audit it.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "031cee9ab4e640cb96d6c663b9f73a24c2c78fb7", "quote": "Anthropic is letting METR researchers look under the hood with employee-level access"},
+        {"outlet": "zdnet", "item_id": "edb45cdcf6116ada6bf7713050721e393db298e3", "quote": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "METR will publish its own assessments of Anthropic's risks, incidents, and practices, and Anthropic gave up the right to block them.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "031cee9ab4e640cb96d6c663b9f73a24c2c78fb7", "quote": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "This move is framed as an industry first, with external evaluators seen as playing a crucial role as AI labs continue to self-regulate.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "edb45cdcf6116ada6bf7713050721e393db298e3", "quote": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

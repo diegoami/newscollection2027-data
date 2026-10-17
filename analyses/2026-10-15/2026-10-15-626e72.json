@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-15-626e72",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Valve launches Steam Achievement Sets to organize game and DLC achievements",
+  "summary": "Valve introduced Achievement Sets, a new Steam feature now in beta, that lets developers group achievements separately for a base game and its DLCs. Players still unlock achievements by playing normally; the sets change how unlocked achievements are organized and displayed afterward, preventing DLC achievements from affecting a game's 100 percent completion record.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Valve introduced Achievement Sets, a Steam feature that groups achievements separately for a base game and its DLCs.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "09b153c0766a7ce667087cfae22f49e82f25de02", "quote": "Steam can now show game achievements in separate ‘sets’"},
+        {"outlet": "engadget", "item_id": "eb61dd5761097bf2cb8b926c34c9395926326788", "quote": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Achievement Sets has launched in beta.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "eb61dd5761097bf2cb8b926c34c9395926326788", "quote": "Steam has launched Achievement Sets in beta."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Valve said players still unlock achievements by playing normally; sets only change how unlocked achievements are displayed afterward.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "09b153c0766a7ce667087cfae22f49e82f25de02", "quote": "\"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

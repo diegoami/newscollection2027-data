@@ -1,0 +1,32 @@
+{
+  "anchor": "499d98db9d613eccdca2c4339fa8a71d8c884dc3",
+  "id": "2026-10-16-b96b04",
+  "items": [
+    {
+      "item_id": "499d98db9d613eccdca2c4339fa8a71d8c884dc3",
+      "lede": "The Apple Store is down ahead of pre-orders for the first folding iPhone.",
+      "outlet": "engadget",
+      "published": "2026-10-16T09:36:05Z",
+      "title": "Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET",
+      "url": "https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/"
+    },
+    {
+      "item_id": "ee4ef01f0dc5efabd9ed3a9fa0a60736a4e796e0",
+      "lede": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-16T13:10:11Z",
+      "title": "iPhone Duo orders are already delayed into 2027",
+      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay"
+    },
+    {
+      "item_id": "e80a3a34f2af189756abedb04eb14943e39e1729",
+      "lede": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "outlet": "zdnet",
+      "published": "2026-10-16T16:44:50Z",
+      "title": "Want an iPhone Duo before 2027? Don\u2019t preorder from Apple \u2013 try this instead",
+      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

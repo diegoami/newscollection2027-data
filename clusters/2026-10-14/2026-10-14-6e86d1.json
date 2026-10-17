@@ -17,8 +17,24 @@
       "published": "2026-10-15T16:16:10Z",
       "title": "How an accelerating Earth led experts to adopt the leap hour",
       "url": "https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour"
+    },
+    {
+      "item_id": "6e000688217fd86798cf72d170b4ef3635844d26",
+      "lede": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-16T10:00:25Z",
+      "title": "Time is a-changin\u2019: say goodbye to the leap second",
+      "url": "https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change"
+    },
+    {
+      "item_id": "f0780063ba854ecdd26ee397f721d6644b213189",
+      "lede": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they\u2019re dead.",
+      "outlet": "wired",
+      "published": "2026-10-16T21:31:35Z",
+      "title": "The Leap Second Is No More",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

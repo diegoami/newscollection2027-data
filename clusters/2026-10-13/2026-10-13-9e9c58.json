@@ -41,8 +41,16 @@
       "published": "2026-10-14T13:59:59Z",
       "title": "Windows update patches a whopping 1,400 security bugs \u2013 including 2 zero days",
       "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/"
+    },
+    {
+      "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7",
+      "lede": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-16T08:44:22Z",
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

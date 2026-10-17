@@ -1,47 +1,55 @@
 {
   "cluster_id": "2026-10-13-9e9c58",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-15T02:30:54Z",
-  "headline": "Microsoft's October Patch Tuesday fixes over 1,400 flaws, ends Windows 11 24H2 support",
-  "summary": "Microsoft's October 2026 Patch Tuesday delivered Windows 11 and Windows 10 cumulative and extended-security updates, with BleepingComputer counting 1,411 flaws and 3 zero-days and ZDNet reporting about 1,400 bugs and 2 zero-days. The release also marked the first official Windows 11 26H2 update and the end of support for Windows 11 24H2 Home and Pro editions.",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "October Patch Tuesday fixes draw differing bug and zero-day counts across outlets",
+  "summary": "Microsoft's October 2026 Patch Tuesday shipped cumulative updates for Windows 11 and an extended security update for Windows 10, also marking Windows 11 24H2 Home and Pro's end of support and the first official Windows 11 26H2 update. One report said 1,411 flaws were fixed including 3 zero-days, another said 1,400 bugs and 2 zero-days. A later report said the update may break Smart App Control.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Microsoft's October 2026 Patch Tuesday addressed a record-breaking number of flaws, including multiple zero-days.",
+      "statement": "Microsoft released its October 2026 Patch Tuesday cumulative updates for Windows 11 and an extended security update for Windows 10.",
       "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "21edffe120823d4e0b6a6ef122f8139677e89327", "quote": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"},
-        {"outlet": "zdnet", "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105", "quote": "Windows update patches a whopping 1,400 security bugs – including 2 zero days"}
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Microsoft released Windows 11 cumulative updates KB5127648 and KB5126653 for multiple versions.",
-      "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "30c48aec6fa791e331300a9d1455f0e6b66a3b14", "quote": "Windows 11 KB5127648 & KB5126653 cumulative updates released"}
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "Microsoft released a Windows 10 extended security update including this month's Patch Tuesday fixes.",
-      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "30c48aec6fa791e331300a9d1455f0e6b66a3b14", "quote": "Windows 11 KB5127648 & KB5126653 cumulative updates released"},
         {"outlet": "bleepingcomputer", "item_id": "04ab1973266f34142dc8331ca220286d7b21d2ff", "quote": "Microsoft releases Windows 10 KB5126657 extended security update"}
       ]
     },
     {
-      "id": "c4",
-      "statement": "Windows 11 24H2 Home and Pro editions reached end of support and will no longer receive updates.",
+      "id": "c2",
+      "statement": "The update fixed 1,411 flaws, including 3 zero-day vulnerabilities, one actively exploited and two publicly disclosed.",
       "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "07ca9e611f68c32769d76c796614c505a5e89a12", "quote": "devices running Windows 11 24H2 Home and Pro editions have reached the end of support"},
+        {"outlet": "bleepingcomputer", "item_id": "21edffe120823d4e0b6a6ef122f8139677e89327", "quote": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"},
+        {"outlet": "bleepingcomputer", "item_id": "21edffe120823d4e0b6a6ef122f8139677e89327", "quote": "addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A separate report said the update patched 1,400 security bugs, including 2 zero-days.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105", "quote": "Windows update patches a whopping 1,400 security bugs – including 2 zero days"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Windows 11 24H2 Home and Pro editions reached end of support and will no longer receive monthly updates.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "07ca9e611f68c32769d76c796614c505a5e89a12", "quote": "devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates."},
         {"outlet": "zdnet", "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105", "quote": "the end of support for Windows 11 24H2 Home and Pro"}
       ]
     },
     {
       "id": "c5",
-      "statement": "This month's update also marked the first official update for Windows 11 26H2.",
+      "statement": "This update also marked the first official update for Windows 11 26H2.",
       "sources": [
         {"outlet": "zdnet", "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105", "quote": "This month’s update also marks the first official one for Windows 11 26H2"}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Some users may have trouble turning on Smart App Control after installing the KB5127648 update.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7e8ace9d42e7bb3d7e46d0215d9aae32ae2565f7", "quote": "some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update."}
       ]
     }
   ],
@@ -49,8 +57,8 @@
     {
       "kind": "number",
       "severity": "high",
-      "claim_ids": ["c1"],
-      "explanation": "BleepingComputer counts 1,411 flaws and 3 zero-days this Patch Tuesday, while ZDNet reports about 1,400 bugs and 2 zero-days.",
+      "claim_ids": ["c2", "c3"],
+      "explanation": "One report counted 1,411 flaws and 3 zero-days fixed in the update, while another counted 1,400 bugs and 2 zero-days.",
       "quotes": [
         {"outlet": "bleepingcomputer", "item_id": "21edffe120823d4e0b6a6ef122f8139677e89327", "quote": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days"},
         {"outlet": "zdnet", "item_id": "d068d15c085ed87778bcd6603c52c0c3bf535105", "quote": "Windows update patches a whopping 1,400 security bugs – including 2 zero days"}

@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-16-18689c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Analogue unveils upgraded Super Nt and Mega Sg retro consoles",
+  "summary": "Analogue announced upgraded versions of its Super Nt and Mega Sg retro consoles, featuring a reworked industrial design and built-in wireless connectivity for controllers and accessories, while still playing original Nintendo and Sega Genesis cartridges via an FPGA processor.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Analogue announced new, upgraded versions of its Super Nt and Mega Sg retro consoles.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "31a7c41b3b032de2d56a7ec3a03e92b78e5affde", "quote": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades"},
+        {"outlet": "engadget", "item_id": "5739cbc1ae6ebd4b96dd60ba800051a35ee0293a", "quote": "Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new versions feature a reworked industrial design and built-in wireless connectivity for controllers and accessories.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "31a7c41b3b032de2d56a7ec3a03e92b78e5affde", "quote": "a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Like the originals, the new consoles can play original Nintendo and Sega Genesis cartridges using an FPGA processor.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "31a7c41b3b032de2d56a7ec3a03e92b78e5affde", "quote": "able to play Nintendo and Sega Genesis cartridges using an FPGA processor"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

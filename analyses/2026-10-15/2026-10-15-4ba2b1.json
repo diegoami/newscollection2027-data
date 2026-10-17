@@ -1,0 +1,37 @@
+{
+  "cluster_id": "2026-10-15-4ba2b1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Reviewers say new Googlebooks laptops have good hardware but unready software",
+  "summary": "Reviews of the new Googlebooks laptops from Dell, Lenovo, and HP praised the hardware but found the Android-based OS still feels like 'Android on a PC' and needs more polish. One review also called the launch poorly timed, comparing it to Valve's Steam Machine and noting extremely limited phone support at launch.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Reviewers tested Googlebooks laptops from Dell, Lenovo, and HP, finding solid hardware but an OS not yet ready.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "3848a17d67683f94166e2f10dfce934a468ac68f", "quote": "Googlebooks from Dell, Lenovo, and HP tested: Nice hardware, but the OS isn't ready yet"},
+        {"outlet": "tomshardware", "item_id": "3848a17d67683f94166e2f10dfce934a468ac68f", "quote": "Googlebook OS needs a lot of love to feel like something other than Android on a PC."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Another review said that despite being laptops, the Googlebook experience still feels like Android and needs more work from Google.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "cd9e1401f00190c98ab37cf36e341b3abf6facbe", "quote": "Googlebook review: Android on a laptop is still Android"},
+        {"outlet": "arstechnica", "item_id": "cd9e1401f00190c98ab37cf36e341b3abf6facbe", "quote": "Android laptops are here, but Google has a lot of work ahead to make them good."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A review said the Googlebooks launch was poorly timed, comparing it to Valve's Steam Machine, and noted extremely limited phone support at launch.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "a7473225e15863968b2433da63dcb187c689e11c", "quote": "Googlebooks are as poorly timed as Valve’s Steam Machine, and may suffer a similar fate"},
+        {"outlet": "tomshardware", "item_id": "a7473225e15863968b2433da63dcb187c689e11c", "quote": "Phone support at launch is extremely limited"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

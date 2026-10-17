@@ -1,0 +1,64 @@
+{
+  "anchor": "07bf2c4eb28e5b2269e1ae0cb77927c1c5ba4c11",
+  "id": "2026-10-15-b40e3c",
+  "items": [
+    {
+      "item_id": "07bf2c4eb28e5b2269e1ae0cb77927c1c5ba4c11",
+      "lede": "We've tested Nvidia's RTX Spark against the latest and greatest from Apple and AMD to see how Nvidia's efforts to transform the PC for the agentic AI era stack up.",
+      "outlet": "tomshardware",
+      "published": "2026-10-15T12:00:21Z",
+      "title": "We tested the RTX Spark Superchip in Microsoft's Surface Laptop Ultra",
+      "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit"
+    },
+    {
+      "item_id": "c34472c71df59cb86bd61c020faa3abbec9e4b22",
+      "lede": "NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
+      "outlet": "engadget",
+      "published": "2026-10-15T13:00:00Z",
+      "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+      "url": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/"
+    },
+    {
+      "item_id": "0518bba561cf76ab7e1d719317afe38095c0d299",
+      "lede": "After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its bright display. I was trying to work out what I'd actually do with a $5,900 laptop. This isn't just any regular Windows laptop. Microsoft has teamed up [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-16T12:00:00Z",
+      "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+      "url": "https://www.theverge.com/tech/1012628/microsoft-surface-laptop-ultra-review"
+    },
+    {
+      "item_id": "2c7b70396350e653d0f30d681f79fdea77b23630",
+      "lede": "Microsoft\u2019s Surface Laptop Ultra is its most beautiful laptop ever, but using Windows on it is the same as ever. Only AI enthusiasts will get the most out of RTX Spark.",
+      "outlet": "tomshardware",
+      "published": "2026-10-16T12:00:00Z",
+      "title": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review"
+    },
+    {
+      "item_id": "e3b6e78a75bb3795e55d4891c10c26b25a914697",
+      "lede": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "outlet": "arstechnica",
+      "published": "2026-10-16T12:00:05Z",
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/"
+    },
+    {
+      "item_id": "151e8c4a6c61a31a7fba6d72c6cee8f654387919",
+      "lede": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple\u2014if only it weren't for the lack of battery life.",
+      "outlet": "wired",
+      "published": "2026-10-16T13:00:00Z",
+      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+      "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/"
+    },
+    {
+      "item_id": "3d6f16cf09a8486c7ec9ecf469d58c02fd93a4ce",
+      "lede": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-16T15:00:00Z",
+      "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

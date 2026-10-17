@@ -1,32 +1,33 @@
 {
   "cluster_id": "2026-10-13-9474b7",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-15T02:30:54Z",
-  "headline": "Linux kernel drops mandatory AI-tool disclosure as Torvalds embraces AI",
-  "summary": "Linus Torvalds is now using AI to help develop Linux kernel code, a shift described as a turning point in his relationship with AI. Kernel developers have also dropped the requirement that contributors disclose AI tool usage, though Torvalds said contributors must still understand their code regardless of which tools they use.",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Torvalds drops AI-disclosure rule and posts his first AI-assisted Linux kernel patch",
+  "summary": "Linus Torvalds began using AI tools on Linux kernel work, posting his first AI-assisted patch, which included a synthetic test showing a 23x performance leap. Separately, kernel maintainers dropped the requirement that contributors disclose AI tool use, with Torvalds saying contributors must still understand their own code regardless of the tools they use.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Linus Torvalds is now using AI to help develop Linux kernel code.",
+      "statement": "Torvalds posted his first AI-assisted patch to the Linux kernel.",
       "sources": [
         {"outlet": "zdnet", "item_id": "6f169a9d090337c29cf4c9bb4ee62132ae549e83", "quote": "Linus Torvalds is using AI to develop Linux kernel code now"},
-        {"outlet": "zdnet", "item_id": "6f169a9d090337c29cf4c9bb4ee62132ae549e83", "quote": "a turning point in the developer’s relationship with AI and Linux"}
+        {"outlet": "tomshardware", "item_id": "fd38680e9be27baafb1fd4739c6bea606f389392", "quote": "Linus Torvalds posts his first AI-assisted patch to the Linux kernel"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Linux kernel developers dropped the requirement to disclose AI tool usage when submitting code.",
+      "statement": "Kernel maintainers dropped the requirement for contributors to disclose AI tool usage, while Torvalds said contributors must still understand their own code.",
       "sources": [
-        {"outlet": "theregister", "item_id": "8981417c2e936b730f6350b0863fa18061552383", "quote": "Linux kernel devs drop obligatory confession of AI tool usage"}
+        {"outlet": "theregister", "item_id": "8981417c2e936b730f6350b0863fa18061552383", "quote": "Linux kernel devs drop obligatory confession of AI tool usage"},
+        {"outlet": "theregister", "item_id": "8981417c2e936b730f6350b0863fa18061552383", "quote": "Torvalds says contributors must understand their code, whatever tools they use"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Torvalds said contributors must understand their code regardless of what tools they use.",
+      "statement": "A synthetic test on Torvalds' AI-assisted patch showed a 23x performance leap.",
       "sources": [
-        {"outlet": "theregister", "item_id": "8981417c2e936b730f6350b0863fa18061552383", "quote": "Torvalds says contributors must understand their code, whatever tools they use"}
+        {"outlet": "tomshardware", "item_id": "fd38680e9be27baafb1fd4739c6bea606f389392", "quote": "synthetic test clocks 23x performance leap"}
       ]
     }
   ],

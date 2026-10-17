@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-16-b5c29f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-17T02:40:43Z",
+  "headline": "Activist unveils AI-generated 3D-printed gun called the WASP",
+  "summary": "Gun-rights activist Cody Wilson unveiled what he calls the first AI-made firearm, a 3D-printed .22 caliber handgun called the WASP, designed using an AI tool he calls GatGPT.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Gun-rights activist Cody Wilson unveiled what he calls the first AI-made firearm, called the WASP.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "04dd08db671b9b89129cf217cc972a9020323579", "quote": "Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP."},
+        {"outlet": "tomshardware", "item_id": "dea4283963f651c0fe9ebf8e2c409fa8bdfd2216", "quote": "A gun rights activist has unveiled the world's first AI-made 3D printed firearm."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The AI tool used to generate the gun's design is called GatGPT.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "dea4283963f651c0fe9ebf8e2c409fa8bdfd2216", "quote": "created by an 'AI that can generate guns' called GatGPT"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The gun is a 3D-printed .22 caliber handgun.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "dea4283963f651c0fe9ebf8e2c409fa8bdfd2216", "quote": ".22 caliber handgun created by an 'AI that can generate guns'"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
