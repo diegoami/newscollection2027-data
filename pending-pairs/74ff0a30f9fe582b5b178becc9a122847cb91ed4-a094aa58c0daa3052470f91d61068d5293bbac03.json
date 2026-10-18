@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
+    "lede": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-18T14:23:16Z",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+  },
+  "b": {
+    "item_id": "a094aa58c0daa3052470f91d61068d5293bbac03",
+    "lede": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T20:25:04Z",
+    "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+  },
+  "score": 0.598023
+}
