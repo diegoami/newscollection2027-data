@@ -25,8 +25,16 @@
       "published": "2026-10-15T12:00:00Z",
       "title": "Amazon\u2019s always-listening Bee wearable can now help you buy stuff",
       "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+    },
+    {
+      "item_id": "efb252cb42477de942fd237fd035c2aa58297b55",
+      "lede": "Would you like personalized shopping recommendations based on that conversation you just had?",
+      "outlet": "theregister",
+      "published": "2026-10-17T09:00:00Z",
+      "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
+      "url": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
