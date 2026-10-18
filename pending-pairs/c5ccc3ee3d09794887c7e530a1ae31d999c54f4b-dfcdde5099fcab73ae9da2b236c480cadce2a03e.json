@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c5ccc3ee3d09794887c7e530a1ae31d999c54f4b",
+    "lede": "Joining two Ethernet cables together with a coupler is rare, but when your cords are suddenly too short, there are better options to extend your network.",
+    "outlet": "engadget",
+    "published": "2026-10-18T12:15:00Z",
+    "title": "Why you might not want to join two Ethernet cables (and what you should do instead)",
+    "url": "https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead/"
+  },
+  "b": {
+    "item_id": "dfcdde5099fcab73ae9da2b236c480cadce2a03e",
+    "lede": "Understand the speeds your Ethernet cable can transmit at help you diagnose where the slowdowns on your network are happening.",
+    "outlet": "engadget",
+    "published": "2026-10-17T12:15:00Z",
+    "title": "How to check your Ethernet cable's speed",
+    "url": "https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/"
+  },
+  "score": 0.606877
+}

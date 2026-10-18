@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cbbc7a22c77672ce0349b9bd0795df338c08126",
+    "lede": "Uploading data tends to be much slower than downloading, and it turns out there's a very good explanation for it.",
+    "outlet": "engadget",
+    "published": "2026-10-18T12:30:00Z",
+    "title": "Why are internet upload speeds so much slower than download speeds?",
+    "url": "https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/"
+  },
+  "b": {
+    "item_id": "d26c8bcad37fa24dffbe7c9492927ff216e7acb5",
+    "lede": "Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.",
+    "outlet": "engadget",
+    "published": "2026-10-17T23:00:00Z",
+    "title": "Why your Wi-Fi speeds can drop in the evening, and what to do about it",
+    "url": "https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/"
+  },
+  "score": 0.606588
+}
