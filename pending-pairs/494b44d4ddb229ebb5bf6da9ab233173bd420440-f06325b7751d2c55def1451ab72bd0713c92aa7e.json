@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "494b44d4ddb229ebb5bf6da9ab233173bd420440",
+    "lede": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T06:18:08Z",
+    "title": "BeyondTrust patches zero-day exploited in attacks since August",
+    "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+  },
+  "b": {
+    "item_id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
+    "lede": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
+    "outlet": "theregister",
+    "published": "2026-10-19T18:23:40Z",
+    "title": "Security patches need patches now that attackers have AI",
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
+  },
+  "score": 0.625254
+}

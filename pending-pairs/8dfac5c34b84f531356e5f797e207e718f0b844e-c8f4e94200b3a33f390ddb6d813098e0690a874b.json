@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8dfac5c34b84f531356e5f797e207e718f0b844e",
+    "lede": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T20:00:59Z",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+  },
+  "b": {
+    "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b",
+    "lede": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T17:27:15Z",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/"
+  },
+  "score": 0.580727
+}

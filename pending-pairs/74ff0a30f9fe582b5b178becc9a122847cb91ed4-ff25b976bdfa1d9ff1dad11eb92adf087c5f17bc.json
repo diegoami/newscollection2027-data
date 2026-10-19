@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
+    "lede": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-18T14:23:16Z",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+  },
+  "b": {
+    "item_id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+    "lede": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T19:40:58Z",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+  },
+  "score": 0.648473
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43fc56afbb2752b58692f2066ff9987b432b27b4",
+    "lede": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-17T14:32:48Z",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+  },
+  "b": {
+    "item_id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
+    "lede": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
+    "outlet": "theregister",
+    "published": "2026-10-19T18:23:40Z",
+    "title": "Security patches need patches now that attackers have AI",
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
+  },
+  "score": 0.592014
+}

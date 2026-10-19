@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "292580429c9b98564247eea52ee1d0199f7e354e",
+    "lede": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-19T15:44:20Z",
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+  },
+  "b": {
+    "item_id": "beae0061db08f2ebdf91b313995a7f2d31ab092f",
+    "lede": "Partner X-energy has not built a single working reactor yet",
+    "outlet": "theregister",
+    "published": "2026-10-19T20:22:47Z",
+    "title": "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters",
+    "url": "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974"
+  },
+  "score": 0.629496
+}

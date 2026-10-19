@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "de7b0df69eea7ab9f7f7b0697434a77ab4aab58a",
+    "lede": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "outlet": "arstechnica",
+    "published": "2026-10-19T19:39:19Z",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
+  },
+  "score": 0.600171
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "039a84854fb85dd641d6936af9c43340549b490c",
+    "lede": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "outlet": "techcrunch",
+    "published": "2026-10-19T19:28:34Z",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+  },
+  "b": {
+    "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b",
+    "lede": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T17:27:15Z",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/"
+  },
+  "score": 0.804919
+}

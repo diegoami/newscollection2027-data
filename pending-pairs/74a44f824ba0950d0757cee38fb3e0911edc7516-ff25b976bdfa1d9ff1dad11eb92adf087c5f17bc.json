@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "74a44f824ba0950d0757cee38fb3e0911edc7516",
+    "lede": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-17T15:18:51Z",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
+  },
+  "b": {
+    "item_id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+    "lede": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T19:40:58Z",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+  },
+  "score": 0.570839
+}

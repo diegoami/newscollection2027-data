@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8dfac5c34b84f531356e5f797e207e718f0b844e",
+    "lede": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T20:00:59Z",
+    "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+  },
+  "b": {
+    "item_id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+    "lede": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T19:40:58Z",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+  },
+  "score": 0.597371
+}

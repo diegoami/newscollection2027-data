@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
+    "lede": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
+    "outlet": "theregister",
+    "published": "2026-10-19T18:23:40Z",
+    "title": "Security patches need patches now that attackers have AI",
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
+  },
+  "score": 0.570431
+}
