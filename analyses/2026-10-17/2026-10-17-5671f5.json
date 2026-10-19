@@ -1,1 +1,48 @@
-{"cluster_id": "2026-10-17-5671f5", "cluster_version": 1, "headline": "TikTok bans Alex Gibney's Musk documentary social media account", "summary": "TikTok banned the social media account promoting Alex Gibney's four-hour documentary about Elon Musk just ahead of its wider release. The film's distributor, Bleecker Street, was told the suspension was permanent, according to a report cited in one outlet's coverage. The documentary continues to face resistance from other social media platforms as well.", "claims": [{"id": "c1", "statement": "TikTok banned the social media/advertising account for Alex Gibney's Musk documentary ahead of its wider release.", "sources": [{"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "TikTok has banned the film's social media account from its platform"}, {"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "TikTok permanently bans ‘Musk’ documentary advertising account"}]}, {"id": "c2", "statement": "The film's distributor, Bleecker Street, was told the ban was a permanent suspension.", "sources": [{"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent"}]}, {"id": "c3", "statement": "The documentary, directed by Alex Gibney, is about Elon Musk and runs four hours.", "sources": [{"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "Alex Gibney's Musk documentary"}, {"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "A four-hour documentary about Elon Musk"}]}, {"id": "c4", "statement": "TechCrunch notes the documentary continues to face resistance from social media platforms generally.", "sources": [{"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "continues to meet resistance from social media platforms"}]}], "discrepancies": [], "agreement": "full", "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-18T02:20:00Z"}
+{
+  "cluster_id": "2026-10-17-5671f5",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-19T02:10:58Z",
+  "headline": "TikTok permanently bans Musk documentary's account ahead of wider release",
+  "summary": "TikTok banned an account tied to Alex Gibney's Musk documentary just ahead of its wider US release. Outlets differ on whether the banned account was the film's general social media presence or specifically its advertising account, and one report cites a political-content policy as the stated reason.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "TikTok banned an account associated with Alex Gibney's Musk documentary ahead of its wider release.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "TikTok has banned the film's social media account from its platform"},
+        {"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "documentary advertising account"},
+        {"outlet": "engadget", "item_id": "a242e3c01c125225866e67a58b9745f65d3e2818", "quote": "bans ads for Musk documentary before its wider US release"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "TikTok cited the documentary's political content as grounds for the ban.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "a242e3c01c125225866e67a58b9745f65d3e2818", "quote": "political content that goes against its policy"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The ban was described as permanent.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "permanent suspension"},
+        {"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "permanently bans"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet describes TikTok as banning the documentary's general social media account, while others specify it was the advertising account or its ads that were banned.",
+      "quotes": [
+        {"outlet": "theverge", "item_id": "bb38f1891d1520bfe4c101402efbcb0c03f51a81", "quote": "banned the film's social media account from its platform"},
+        {"outlet": "techcrunch", "item_id": "5c37b2406edd5a2920626203ff313044912e7545", "quote": "documentary advertising account"}
+      ],
+      "claim_ids": ["c1"]
+    }
+  ],
+  "agreement": "partial"
+}

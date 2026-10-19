@@ -1,0 +1,47 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "02dd33881573484e2c31949d4be949a21a9f8a0b",
+            "outlet": "engadget",
+            "quote": "show you where Flock cameras are"
+          },
+          {
+            "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07",
+            "outlet": "tomshardware",
+            "quote": "MapQuest's new Surveillance Layer"
+          }
+        ],
+        "statement": "MapQuest added a feature showing the locations of Flock surveillance cameras."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07",
+            "outlet": "tomshardware",
+            "quote": "could help users avoid Flock and other ALPR cameras"
+          }
+        ],
+        "statement": "The feature could help users avoid Flock and other automatic license plate reader cameras."
+      }
+    ],
+    "cluster_id": "2026-10-16-af7808",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-19T02:10:58Z",
+    "headline": "MapQuest adds layer showing locations of Flock surveillance cameras",
+    "model": "claude-sonnet-5",
+    "summary": "MapQuest launched a feature that shows where Flock surveillance cameras are located. One outlet notes the feature could help users avoid Flock and other automatic license plate reader cameras."
+  },
+  "cluster_id": "2026-10-16-af7808",
+  "problems": [
+    "quote: not verbatim in tomshardware d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07's title or lede: \"MapQuest's new Surveillance Layer\""
+  ],
+  "rejected_at": "2026-10-19T02:12:07Z"
+}

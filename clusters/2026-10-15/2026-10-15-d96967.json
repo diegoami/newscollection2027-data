@@ -17,8 +17,16 @@
       "published": "2026-10-16T17:10:27Z",
       "title": "Anthropic gives third-party auditors \u2019employee-like access\u2019 in AI industry first",
       "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/"
+    },
+    {
+      "item_id": "c82b8eb2cf968bbd36200836d68280df01a6cfa4",
+      "lede": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "outlet": "arstechnica",
+      "published": "2026-10-18T16:25:19Z",
+      "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

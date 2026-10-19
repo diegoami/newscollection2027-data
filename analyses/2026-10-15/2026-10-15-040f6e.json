@@ -1,32 +1,35 @@
 {
   "cluster_id": "2026-10-15-040f6e",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-17T02:40:43Z",
-  "headline": "New York representative proposes bill guaranteeing video game ownership rights",
-  "summary": "A New York congressman introduced a bill to guarantee video game buyers true ownership rather than just a license, following Pennsylvania's lead by requiring publishers to offer an offline mode and the ability to transfer games. Reports note the proposal still faces significant technical and legislative hurdles.",
+  "generated_at": "2026-10-19T02:10:58Z",
+  "headline": "New York representative introduces federal video game ownership bill",
+  "summary": "Rep. Ritchie Torres introduced a bill directing the FTC to require that purchased video games count as owned, not merely licensed. One outlet frames the move as New York joining Pennsylvania's protections and cites an offline-mode requirement; others describe it as a federal bill in Congress.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A New York representative, Ritchie Torres, is introducing a bill to protect video game ownership rights.",
+      "statement": "A New York representative, Ritchie Torres, introduced a bill to protect video game ownership rights.",
       "sources": [
-        {"outlet": "engadget", "item_id": "1ff6d70e7c942af530ef00e5447b437ebe190b37", "quote": "Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased."},
-        {"outlet": "tomshardware", "item_id": "1b57e911f336a7283823e57ef04a897437949b3b", "quote": "New York rep announces game ownership bill that would require consumer ownership rather than sale of licenses"}
+        {"outlet": "engadget", "item_id": "1ff6d70e7c942af530ef00e5447b437ebe190b37", "quote": "NY congressman to introduce bill protecting video game ownership"},
+        {"outlet": "tomshardware", "item_id": "1b57e911f336a7283823e57ef04a897437949b3b", "quote": "New York rep announces game ownership bill"},
+        {"outlet": "theverge", "item_id": "4bd8f13ff5d68fce2f1c2671e03736e1df236afc", "quote": "introduced the Power To The Players Act this week"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The bill would require publishers to provide an offline mode and the right to transfer games, following Pennsylvania's lead.",
+      "statement": "The bill would direct the FTC to issue regulations guaranteeing that a purchased game is owned rather than merely licensed.",
       "sources": [
-        {"outlet": "tomshardware", "item_id": "1b57e911f336a7283823e57ef04a897437949b3b", "quote": "New York joins Pennsylvania in protecting gamers' rights to own games, requiring publishers to provide an offline mode and the right to transfer games."}
+        {"outlet": "engadget", "item_id": "1ff6d70e7c942af530ef00e5447b437ebe190b37", "quote": "wants the FTC to establish regulations ensuring you can play the games you've purchased"},
+        {"outlet": "theverge", "item_id": "4bd8f13ff5d68fce2f1c2671e03736e1df236afc", "quote": "direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement"},
+        {"outlet": "arstechnica", "item_id": "9eceffc368d52bd87faad87c8183f109894d78ce", "quote": "give video game buyers \"ownership,\" not \"a license\""}
       ]
     },
     {
       "id": "c3",
-      "statement": "The bill would give buyers 'ownership' of games rather than merely 'a license.'",
+      "statement": "One outlet reports the bill would also require publishers to offer an offline mode and let players transfer their games.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "9eceffc368d52bd87faad87c8183f109894d78ce", "quote": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\""}
+        {"outlet": "tomshardware", "item_id": "1b57e911f336a7283823e57ef04a897437949b3b", "quote": "requiring publishers to provide an offline mode and the right to transfer games"}
       ]
     },
     {
@@ -37,6 +40,17 @@
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "One outlet frames the bill as New York joining Pennsylvania's state-level protections, while others describe it specifically as a federal bill introduced in the US Congress.",
+      "quotes": [
+        {"outlet": "tomshardware", "item_id": "1b57e911f336a7283823e57ef04a897437949b3b", "quote": "New York joins Pennsylvania in protecting gamers' rights to own games"},
+        {"outlet": "theverge", "item_id": "4bd8f13ff5d68fce2f1c2671e03736e1df236afc", "quote": "Video game ownership bill introduced in Congress"}
+      ],
+      "claim_ids": ["c1"]
+    }
+  ],
+  "agreement": "partial"
 }
