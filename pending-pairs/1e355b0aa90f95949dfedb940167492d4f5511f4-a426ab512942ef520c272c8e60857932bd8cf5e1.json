@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e355b0aa90f95949dfedb940167492d4f5511f4",
+    "lede": "Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery.",
+    "outlet": "engadget",
+    "published": "2026-10-17T12:35:56Z",
+    "title": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
+    "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/"
+  },
+  "b": {
+    "item_id": "a426ab512942ef520c272c8e60857932bd8cf5e1",
+    "lede": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter\u2019s Pennsylvania high school was making AI-generated pornographic material using the daughter\u2019s image. He was using an artificial intelligence image-editing app called Movely to create sexual videos from",
+    "outlet": "theguardian",
+    "published": "2026-10-19T10:00:05Z",
+    "title": "US teens can access \u2018nudify\u2019 apps despite Apple and Google\u2019s parental controls, report finds",
+    "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls"
+  },
+  "score": 0.596415
+}

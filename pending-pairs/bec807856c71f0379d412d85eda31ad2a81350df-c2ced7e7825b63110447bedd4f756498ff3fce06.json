@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bec807856c71f0379d412d85eda31ad2a81350df",
+    "lede": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-19T04:30:59Z",
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
+  },
+  "b": {
+    "item_id": "c2ced7e7825b63110447bedd4f756498ff3fce06",
+    "lede": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the \u201cpublic good\u201d, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it would commit",
+    "outlet": "theguardian",
+    "published": "2026-10-19T12:51:04Z",
+    "title": "AI firm Anthropic to commit 5% of shares to fund for \u2018public good\u2019",
+    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
+  },
+  "score": 0.779608
+}

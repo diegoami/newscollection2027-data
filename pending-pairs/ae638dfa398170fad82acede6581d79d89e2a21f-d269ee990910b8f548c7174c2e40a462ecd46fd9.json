@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ae638dfa398170fad82acede6581d79d89e2a21f",
+    "lede": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail \u2013 often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, from CCTV to keystroke monitoring, to track workers\u2019 moves and it is being accelerated by the use of AI, the",
+    "outlet": "theguardian",
+    "published": "2026-10-19T14:00:03Z",
+    "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
+    "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff"
+  },
+  "b": {
+    "item_id": "d269ee990910b8f548c7174c2e40a462ecd46fd9",
+    "lede": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-16T13:50:59Z",
+    "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+    "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/"
+  },
+  "score": 0.587489
+}
