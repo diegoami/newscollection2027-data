@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4769e42c2133ce4c2986495cfd07b030d4488ded",
+    "lede": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-18T23:24:59Z",
+    "title": "Don't fall for this - how to protect yourself from AI scams",
+    "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o"
+  },
+  "b": {
+    "item_id": "6c8051f534fec6ac4af3cdc55bb2fed2dbaf655e",
+    "lede": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-15T19:48:43Z",
+    "title": "Android gets AI defenses against messaging scams, fake calls",
+    "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/"
+  },
+  "score": 0.58384
+}
