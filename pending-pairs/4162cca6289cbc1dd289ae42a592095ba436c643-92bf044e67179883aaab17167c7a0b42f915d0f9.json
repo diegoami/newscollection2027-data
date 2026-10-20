@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4162cca6289cbc1dd289ae42a592095ba436c643",
+    "lede": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T14:19:05Z",
+    "title": "DHS bans DeepSeek products across US federal civilian agencies",
+    "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
+  },
+  "b": {
+    "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9",
+    "lede": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
+    "outlet": "engadget",
+    "published": "2026-10-19T16:59:28Z",
+    "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+    "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/"
+  },
+  "score": 0.680139
+}

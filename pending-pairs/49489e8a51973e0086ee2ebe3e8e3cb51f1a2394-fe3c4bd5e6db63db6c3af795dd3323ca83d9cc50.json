@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49489e8a51973e0086ee2ebe3e8e3cb51f1a2394",
+    "lede": "Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move money Business live \u2013 latest updates An outage at Google\u2019s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of customers unable to access or send cash at banks including Lloyds, HSBC and",
+    "outlet": "theguardian",
+    "published": "2026-10-20T09:45:39Z",
+    "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
+    "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption"
+  },
+  "b": {
+    "item_id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
+    "lede": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-20T12:09:25Z",
+    "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+    "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo"
+  },
+  "score": 0.675163
+}

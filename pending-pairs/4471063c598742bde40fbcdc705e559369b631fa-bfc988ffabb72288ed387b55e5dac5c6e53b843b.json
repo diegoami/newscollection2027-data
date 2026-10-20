@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4471063c598742bde40fbcdc705e559369b631fa",
+    "lede": "Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain\u2019s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352,",
+    "outlet": "theguardian",
+    "published": "2026-10-20T13:49:12Z",
+    "title": "Google Cloud problems: regulators push for details about outage which caused widespread disruption \u2013 latest updates",
+    "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
+  },
+  "b": {
+    "item_id": "bfc988ffabb72288ed387b55e5dac5c6e53b843b",
+    "lede": "Our dependence on internet services of a few key tech companies leaves us vulnerable to cloud failures, bugs and more, experts say It happened again. A power outage hit a datacentre in London , and things cascaded from there: multiple banking services faltered, court hearings were put on hold and patients reported temporary glitches on the NHS app. The datacentre",
+    "outlet": "theguardian",
+    "published": "2026-10-20T16:50:31Z",
+    "title": "\u2018Too big to not fail\u2019: Google outage exposes UK reliance on a handful of cloud providers",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption"
+  },
+  "score": 0.657312
+}

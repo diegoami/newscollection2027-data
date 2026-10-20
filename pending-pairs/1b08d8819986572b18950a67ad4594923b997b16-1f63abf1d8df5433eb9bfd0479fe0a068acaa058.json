@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b08d8819986572b18950a67ad4594923b997b16",
+    "lede": "Microsoft keeps 'Ask Copilot' as dedicated actions disappear between mid-November and early December",
+    "outlet": "theregister",
+    "published": "2026-10-20T16:04:00Z",
+    "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149"
+  },
+  "b": {
+    "item_id": "1f63abf1d8df5433eb9bfd0479fe0a068acaa058",
+    "lede": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T12:44:44Z",
+    "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/"
+  },
+  "score": 0.619116
+}

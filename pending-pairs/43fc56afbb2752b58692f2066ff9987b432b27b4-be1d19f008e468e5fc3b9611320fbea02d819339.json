@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43fc56afbb2752b58692f2066ff9987b432b27b4",
+    "lede": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-17T14:32:48Z",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+  },
+  "b": {
+    "item_id": "be1d19f008e468e5fc3b9611320fbea02d819339",
+    "lede": "A bug in Microsoft\u2019s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+    "outlet": "zdnet",
+    "published": "2026-10-20T14:26:05Z",
+    "title": "Latest Windows update disables key security setting \u2013 but there\u2019s a workaround",
+    "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
+  },
+  "score": 0.579835
+}
