@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8c0757d8205e262e888c198cab955ef9739fd763",
+    "lede": "Second security snafu in two years",
+    "outlet": "theregister",
+    "published": "2026-10-19T20:26:21Z",
+    "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+    "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970"
+  },
+  "b": {
+    "item_id": "9f686724487e1c0c3646e190f0bfc7bf4383d328",
+    "lede": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T11:18:35Z",
+    "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+    "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/"
+  },
+  "score": 0.713396
+}

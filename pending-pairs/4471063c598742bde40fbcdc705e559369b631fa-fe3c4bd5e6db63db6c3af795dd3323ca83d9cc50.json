@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4471063c598742bde40fbcdc705e559369b631fa",
+    "lede": "Google apologises after suffering a major Cloud outage in its London region that caused problems at banks, Revolut, and court video cameras Google cloud failure hits millions as UK courts and banks knocked offline The pound has rallied after Britain\u2019s unemployment rate fell unexpectedly this morning to 4.7%. Sterling has gained half a cent against the US dollar to $1.3352,",
+    "outlet": "theguardian",
+    "published": "2026-10-20T13:49:12Z",
+    "title": "Google Cloud problems: regulators push for details about outage which caused widespread disruption \u2013 latest updates",
+    "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates"
+  },
+  "b": {
+    "item_id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
+    "lede": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-20T12:09:25Z",
+    "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+    "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo"
+  },
+  "score": 0.714752
+}

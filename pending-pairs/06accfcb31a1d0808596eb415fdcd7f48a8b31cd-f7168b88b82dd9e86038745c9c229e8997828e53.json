@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "06accfcb31a1d0808596eb415fdcd7f48a8b31cd",
+    "lede": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T18:51:13Z",
+    "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/"
+  },
+  "b": {
+    "item_id": "f7168b88b82dd9e86038745c9c229e8997828e53",
+    "lede": "Staffing software giant calls in CrowdStrike as customers face login headaches and questions remain over possible data theft",
+    "outlet": "theregister",
+    "published": "2026-10-20T12:15:00Z",
+    "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+    "url": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114"
+  },
+  "score": 0.611511
+}

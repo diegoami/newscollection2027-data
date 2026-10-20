@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "292580429c9b98564247eea52ee1d0199f7e354e",
+    "lede": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-19T15:44:20Z",
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+  },
+  "b": {
+    "item_id": "44957f9878f9bba03c801f8a00da3c7d7d0c062a",
+    "lede": "The U.S. government is helping fund projects to bring nuclear reactors back online in an attempt to provide more energy capacity to AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-20T12:50:00Z",
+    "title": "US restarts three shut-down nuclear reactors to feed AI data centers",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors"
+  },
+  "score": 0.601794
+}

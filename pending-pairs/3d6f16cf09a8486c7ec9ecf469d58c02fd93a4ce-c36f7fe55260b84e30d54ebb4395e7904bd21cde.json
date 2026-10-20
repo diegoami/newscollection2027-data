@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d6f16cf09a8486c7ec9ecf469d58c02fd93a4ce",
+    "lede": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-16T15:00:00Z",
+    "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
+  },
+  "b": {
+    "item_id": "c36f7fe55260b84e30d54ebb4395e7904bd21cde",
+    "lede": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
+    "outlet": "tomshardware",
+    "published": "2026-10-20T11:50:00Z",
+    "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel"
+  },
+  "score": 0.656532
+}

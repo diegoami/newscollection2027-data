@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4b4f09e00694289e9dc4bccd6ed4a962d073327e",
+    "lede": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T09:46:44Z",
+    "title": "Revolut outage disrupts online banking operations worldwide",
+    "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/"
+  },
+  "b": {
+    "item_id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
+    "lede": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-20T12:09:25Z",
+    "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+    "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo"
+  },
+  "score": 0.595834
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "52f95601e1f50bb9b47adee2f71282973f92bfaa",
+    "lede": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-20T10:16:47Z",
+    "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+    "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"
+  },
+  "b": {
+    "item_id": "6e689f58716dcd5bf0184f10f46b655968c6e4ff",
+    "lede": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T14:55:23Z",
+    "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/"
+  },
+  "score": 0.574857
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15156651e22133c322f2c81bd0501bbe1053a2ea",
+    "lede": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T08:58:41Z",
+    "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
+  },
+  "b": {
+    "item_id": "4f28949e9098cbe79ac69571396119d18a4a391e",
+    "lede": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T12:16:32Z",
+    "title": "Windows Server 2025 gets support for quick machine recovery",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
+  },
+  "score": 0.613477
+}

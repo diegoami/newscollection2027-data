@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9f8a346847270b206ee35628d74c5f6b978ce567",
+    "lede": "Arm claims its AGI CPU delivers nearly 2X the modeled rack performance of AMD\u2019s EPYC 9755 across seven agentic AI workloads, using a new evaluation methodology developed with Fujitsu, Meta, and OpenAI",
+    "outlet": "tomshardware",
+    "published": "2026-10-19T11:00:00Z",
+    "title": "Arm says its AGI CPU delivers nearly 2X the performance per rack of AMD EPYC 9755 in new agentic AI CPU tests",
+    "url": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads"
+  },
+  "b": {
+    "item_id": "c36f7fe55260b84e30d54ebb4395e7904bd21cde",
+    "lede": "Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims.",
+    "outlet": "tomshardware",
+    "published": "2026-10-20T11:50:00Z",
+    "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel"
+  },
+  "score": 0.651559
+}

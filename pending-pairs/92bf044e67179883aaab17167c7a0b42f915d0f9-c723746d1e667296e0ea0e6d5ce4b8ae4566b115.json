@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9",
+    "lede": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
+    "outlet": "engadget",
+    "published": "2026-10-19T16:59:28Z",
+    "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+    "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/"
+  },
+  "b": {
+    "item_id": "c723746d1e667296e0ea0e6d5ce4b8ae4566b115",
+    "lede": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "outlet": "techcrunch",
+    "published": "2026-10-20T13:07:24Z",
+    "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+  },
+  "score": 0.669497
+}
