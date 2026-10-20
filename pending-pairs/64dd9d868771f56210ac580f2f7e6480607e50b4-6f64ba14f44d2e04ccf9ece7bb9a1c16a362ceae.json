@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "64dd9d868771f56210ac580f2f7e6480607e50b4",
+    "lede": "OpenAI has introduced a new \"locked chats\" feature to protect users' more sensitive conversations with ChatGPT.",
+    "outlet": "engadget",
+    "published": "2026-10-20T21:05:00Z",
+    "title": "ChatGPT now lets you lock sensitive chats behind a PIN",
+    "url": "https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/"
+  },
+  "b": {
+    "item_id": "6f64ba14f44d2e04ccf9ece7bb9a1c16a362ceae",
+    "lede": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "outlet": "techcrunch",
+    "published": "2026-10-20T18:36:53Z",
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
+  },
+  "score": 0.785818
+}

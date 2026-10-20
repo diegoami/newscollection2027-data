@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1935d2cf4e2ef2c32afbca05fc566dbdea2c9cd4",
+    "lede": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+    "outlet": "techcrunch",
+    "published": "2026-10-20T20:00:00Z",
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+  },
+  "b": {
+    "item_id": "8ccf13a33dab3e2b7b6c43ef7b56fdffc016aa49",
+    "lede": "In the coming months, the feature will also roll out to cars with Google built-in.",
+    "outlet": "engadget",
+    "published": "2026-10-20T20:00:00Z",
+    "title": "Google brings Gemini Personal Intelligence to Android Auto",
+    "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+  },
+  "score": 0.786464
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a45b5535790f986ce9053c9daa6042545d82c2fb",
+    "lede": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+    "outlet": "engadget",
+    "published": "2026-10-20T20:00:43Z",
+    "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+    "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/"
+  },
+  "b": {
+    "item_id": "f52190a49967b68da7ad63d8e5297c5a8a841b2d",
+    "lede": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-20T18:07:34Z",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+  },
+  "score": 0.711703
+}

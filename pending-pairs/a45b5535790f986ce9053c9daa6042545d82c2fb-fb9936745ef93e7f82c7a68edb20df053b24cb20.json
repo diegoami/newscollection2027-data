@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a45b5535790f986ce9053c9daa6042545d82c2fb",
+    "lede": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+    "outlet": "engadget",
+    "published": "2026-10-20T20:00:43Z",
+    "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+    "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/"
+  },
+  "b": {
+    "item_id": "fb9936745ef93e7f82c7a68edb20df053b24cb20",
+    "lede": "A single query is all that's required to find thousands of conversations listed by title.",
+    "outlet": "arstechnica",
+    "published": "2026-10-20T12:33:13Z",
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+  },
+  "score": 0.64771
+}
