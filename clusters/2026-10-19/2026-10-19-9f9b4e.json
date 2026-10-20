@@ -1,0 +1,24 @@
+{
+  "anchor": "1995c4060533816f1fcb999b3d001ff62fdee4c7",
+  "id": "2026-10-19-9f9b4e",
+  "items": [
+    {
+      "item_id": "1995c4060533816f1fcb999b3d001ff62fdee4c7",
+      "lede": "That's more than $10 billion in shares, or around 1% of Musk's current net worth.",
+      "outlet": "techcrunch",
+      "published": "2026-10-19T12:42:55Z",
+      "title": "Musk pledges to give \u2018every kid in America\u2019 one of his SpaceX shares",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+    },
+    {
+      "item_id": "658159bc48501ad036cd24e01ec422b6741dcd4a",
+      "lede": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-19T14:20:11Z",
+      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
+      "url": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

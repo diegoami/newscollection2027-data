@@ -1,0 +1,24 @@
+{
+  "anchor": "c08e28e17ab3caf750954d52e288ffb4c717fd27",
+  "id": "2026-10-19-f587e1",
+  "items": [
+    {
+      "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27",
+      "lede": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-19T13:58:41Z",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+    },
+    {
+      "item_id": "0618ca744b651fcacdac9491339ecd348caf50d0",
+      "lede": "A Chinese hacker reportedly used a fleet of AI agents to break into more than 100 company websites, including farm equipment maker Deers and appliance outfit SharkNinja.",
+      "outlet": "tomshardware",
+      "published": "2026-10-19T15:36:50Z",
+      "title": "A Chinese hacker used AI agents to break into more than 100 company websites",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

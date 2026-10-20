@@ -1,0 +1,85 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "cb4458cafd2f99b53242f35f5ab0bacf65be5c31",
+            "outlet": "theverge",
+            "quote": "Apple's updated App Store rules go after 'nudify' AI apps"
+          },
+          {
+            "item_id": "1e355b0aa90f95949dfedb940167492d4f5511f4",
+            "outlet": "engadget",
+            "quote": "Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery."
+          },
+          {
+            "item_id": "737ede9d9eb98db0d2a91af43e32eba1388e4f9b",
+            "outlet": "techcrunch",
+            "quote": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review"
+          }
+        ],
+        "statement": "Apple updated or tightened its App Store rules to ban AI apps that generate nonconsensual intimate ('nudify') images."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "cb4458cafd2f99b53242f35f5ab0bacf65be5c31",
+            "outlet": "theverge",
+            "quote": "The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors."
+          }
+        ],
+        "statement": "The rule change follows criticism of Apple after X users used Grok to make nonconsensual sexualized deepfakes, including of minors."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "737ede9d9eb98db0d2a91af43e32eba1388e4f9b",
+            "outlet": "techcrunch",
+            "quote": "Apple said that it will ban AI apps that don't moderate offensive content."
+          }
+        ],
+        "statement": "TechCrunch describes the policy as banning AI apps generally that fail to moderate offensive content, and apps that disguise themselves to pass App Store review."
+      }
+    ],
+    "cluster_id": "2026-10-16-7a9505",
+    "cluster_version": 2,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1",
+          "c3"
+        ],
+        "explanation": "TechCrunch's lede frames the policy as a broader ban on apps that fail to moderate offensive content, while the Verge and Engadget describe it specifically as targeting nonconsensual intimate-image apps.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "737ede9d9eb98db0d2a91af43e32eba1388e4f9b",
+            "outlet": "techcrunch",
+            "quote": "Apple said that it will ban AI apps that don't moderate offensive content."
+          },
+          {
+            "item_id": "1e355b0aa90f95949dfedb940167492d4f5511f4",
+            "outlet": "engadget",
+            "quote": "Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery."
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-20T02:12:32Z",
+    "headline": "Apple updates App Store rules to ban AI 'nudify' apps",
+    "model": "claude-sonnet-5",
+    "summary": "Apple tightened App Store rules against AI apps that generate nonconsensual intimate images, often called 'nudify' apps, following criticism over X and Grok. One report frames the policy narrowly as targeting nonconsensual deepfake generators, while another frames it as a broader crackdown on apps that fail to moderate offensive content."
+  },
+  "cluster_id": "2026-10-16-7a9505",
+  "problems": [
+    "quote: not verbatim in theverge cb4458cafd2f99b53242f35f5ab0bacf65be5c31's title or lede: \"Apple's updated App Store rules go after 'nudify' AI apps\""
+  ],
+  "rejected_at": "2026-10-20T02:16:00Z"
+}

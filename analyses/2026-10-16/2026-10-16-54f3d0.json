@@ -1,26 +1,32 @@
 {
   "cluster_id": "2026-10-16-54f3d0",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-17T02:40:43Z",
-  "headline": "Meta's new commercial terms let it use business accounts' data for AI",
-  "summary": "Meta updated its commercial terms of service in a move legal experts call an AI power grab, potentially letting the company avoid millions in AI licensing fees. Business account holders are now consenting to AI scraping of their content, with no opt-out available.",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Meta's new business TOS lets it use account data for AI training",
+  "summary": "Meta updated the terms of service for its business accounts, and legal experts say the changes let the company use that content to train AI systems without an opt-out. The update is also described as a way for Meta to avoid future AI licensing costs.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Meta streamlined its commercial terms of service in a way legal experts warn amounts to an AI power grab, potentially avoiding millions in AI licensing fees.",
+      "statement": "Meta streamlined its commercial terms of service.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "ae8741fad8038911dd747de0cf0f176d7ba1b45e", "quote": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees"},
-        {"outlet": "arstechnica", "item_id": "ae8741fad8038911dd747de0cf0f176d7ba1b45e", "quote": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab."}
+        {"outlet": "arstechnica", "item_id": "ae8741fad8038911dd747de0cf0f176d7ba1b45e", "quote": "Meta “streamlined” its commercial TOS."}
       ]
     },
     {
       "id": "c2",
-      "statement": "Under the new terms, Meta business account holders are consenting to AI scraping of their content, with no opt-out available.",
+      "statement": "Under the updated terms, Meta business account holders are consenting to AI scraping of their content with no opt-out available.",
       "sources": [
-        {"outlet": "zdnet", "item_id": "94c6103486f963debc60cd4bcd1017b0048ad022", "quote": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say"},
-        {"outlet": "zdnet", "item_id": "94c6103486f963debc60cd4bcd1017b0048ad022", "quote": "And there’s no opt-out available."}
+        {"outlet": "zdnet", "item_id": "94c6103486f963debc60cd4bcd1017b0048ad022", "quote": "You’re consenting to AI scraping now"},
+        {"outlet": "zdnet", "item_id": "94c6103486f963debc60cd4bcd1017b0048ad022", "quote": "there’s no opt-out available"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Legal experts describe the change as a significant expansion of Meta's rights over user content.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "ae8741fad8038911dd747de0cf0f176d7ba1b45e", "quote": "Legal experts warn it’s an AI power grab."}
       ]
     }
   ],

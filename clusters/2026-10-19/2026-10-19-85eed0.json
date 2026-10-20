@@ -1,0 +1,24 @@
+{
+  "anchor": "7492bc28d54713bae7d821251939cb88de2d104e",
+  "id": "2026-10-19-85eed0",
+  "items": [
+    {
+      "item_id": "7492bc28d54713bae7d821251939cb88de2d104e",
+      "lede": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-19T12:58:39Z",
+      "title": "Uber wins bid to throw out \u00a3200m black cab claims",
+      "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o"
+    },
+    {
+      "item_id": "4d20f0bbcce7c815427bae0dbb92a2e3079123b2",
+      "lede": "Black cab drivers accused ride-hailing giant of misleading London's transport regulator, but judge says they left it too late to sue",
+      "outlet": "theregister",
+      "published": "2026-10-19T14:47:24Z",
+      "title": "Uber dodges \u00a3340M cabbie lawsuit after drivers miss legal deadline",
+      "url": "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

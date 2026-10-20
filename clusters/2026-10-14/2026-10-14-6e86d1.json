@@ -41,8 +41,16 @@
       "published": "2026-10-17T12:40:00Z",
       "title": "Leap seconds being retired next year to avoid wreaking havoc on computer systems",
       "url": "https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking"
+    },
+    {
+      "item_id": "65637d5bf982e01261a10ee1a4d42ae613d0937e",
+      "lede": "Cite difficulty of updating IoT devices as major reason to stop adding time",
+      "outlet": "theregister",
+      "published": "2026-10-18T23:01:00Z",
+      "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
+      "url": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

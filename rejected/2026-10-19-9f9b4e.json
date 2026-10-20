@@ -1,0 +1,74 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "1995c4060533816f1fcb999b3d001ff62fdee4c7",
+            "outlet": "techcrunch",
+            "quote": "Musk pledges to give 'every kid in America' one of his SpaceX shares"
+          },
+          {
+            "item_id": "658159bc48501ad036cd24e01ec422b6741dcd4a",
+            "outlet": "theverge",
+            "quote": "Elon Musk promises to give one SpaceX share to every child in the US"
+          }
+        ],
+        "statement": "Elon Musk plans to give one SpaceX share to every child in the US."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "1995c4060533816f1fcb999b3d001ff62fdee4c7",
+            "outlet": "techcrunch",
+            "quote": "That's more than $10 billion in shares"
+          },
+          {
+            "item_id": "658159bc48501ad036cd24e01ec422b6741dcd4a",
+            "outlet": "theverge",
+            "quote": "Musk would be giving away about $10.5 billion worth of shares"
+          }
+        ],
+        "statement": "The total value of the giveaway is estimated at more than $10 billion."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "1995c4060533816f1fcb999b3d001ff62fdee4c7",
+            "outlet": "techcrunch",
+            "quote": "around 1% of Musk's current net worth"
+          }
+        ],
+        "statement": "TechCrunch says the value represents around 1% of Musk's current net worth."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "658159bc48501ad036cd24e01ec422b6741dcd4a",
+            "outlet": "theverge",
+            "quote": "he plans to give one of his SpaceX shares to every child in the US starting next year"
+          }
+        ],
+        "statement": "The Verge reports the plan is based on about 72 million US children and would start next year."
+      }
+    ],
+    "cluster_id": "2026-10-19-9f9b4e",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-20T02:12:32Z",
+    "headline": "Musk pledges to give every US child one SpaceX share",
+    "model": "claude-sonnet-5",
+    "summary": "Elon Musk said he plans to give one SpaceX share to every child in the US, starting next year according to one report. The shares are valued at more than $10 billion, or about 1% of Musk's net worth, based on an estimated 72 million US children."
+  },
+  "cluster_id": "2026-10-19-9f9b4e",
+  "problems": [
+    "quote: not verbatim in techcrunch 1995c4060533816f1fcb999b3d001ff62fdee4c7's title or lede: \"Musk pledges to give 'every kid in America' one of his SpaceX shares\""
+  ],
+  "rejected_at": "2026-10-20T02:16:00Z"
+}

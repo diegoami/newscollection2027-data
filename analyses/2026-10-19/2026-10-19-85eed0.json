@@ -1,0 +1,39 @@
+{
+  "cluster_id": "2026-10-19-85eed0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Uber defeats black cab drivers' lawsuit over licence claims",
+  "summary": "A UK court dismissed black cab drivers' lawsuit accusing Uber of misleading London's transport regulator about its licence, ruling the claim was filed too late. Outlets differ on the lawsuit's value, reporting it at either £200m or £340m.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Black cab drivers' claims that Uber misled London's transport regulator (TfL) over its licence were thrown out because they were filed too late.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "7492bc28d54713bae7d821251939cb88de2d104e", "quote": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late."},
+        {"outlet": "theregister", "item_id": "4d20f0bbcce7c815427bae0dbb92a2e3079123b2", "quote": "judge says they left it too late to sue"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Black cab drivers accused Uber of misleading London's transport regulator.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "4d20f0bbcce7c815427bae0dbb92a2e3079123b2", "quote": "Black cab drivers accused ride-hailing giant of misleading London's transport regulator"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": ["c1"],
+      "explanation": "Outlets give different values for the dismissed lawsuit: £200m and £340m.",
+      "quotes": [
+        {"outlet": "bbc-technology", "item_id": "7492bc28d54713bae7d821251939cb88de2d104e", "quote": "Uber wins bid to throw out £200m black cab claims"},
+        {"outlet": "theregister", "item_id": "4d20f0bbcce7c815427bae0dbb92a2e3079123b2", "quote": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline"}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

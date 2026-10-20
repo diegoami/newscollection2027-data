@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-19-25362b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "US bans DeepSeek AI from government use",
+  "summary": "The US has banned the Chinese AI model DeepSeek from government use, with one report specifying the ban covers federal civilian agencies under Homeland Security and the other describing it more broadly amid ongoing US-China tech tension. The move follows DeepSeek's release of its latest AI model.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The US banned DeepSeek AI from government use.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9", "quote": "Homeland Security bans DeepSeek use in federal civilian agencies"},
+        {"outlet": "bbc-technology", "item_id": "e11c4e750a179d58710f16601b77f58c523ff0d6", "quote": "US bans DeepSeek AI from government use as tech tension with China continues"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The decision follows closely after DeepSeek released its latest AI model.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9", "quote": "The decision comes a couple of days after the release of Deepseek's latest AI model."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "DeepSeek is described as a powerful, popular and relatively inexpensive AI model from China.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "e11c4e750a179d58710f16601b77f58c523ff0d6", "quote": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "Engadget attributes the ban specifically to the Department of Homeland Security for federal civilian agencies, while BBC describes it more broadly as a US ban on government use.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9", "quote": "Homeland Security bans DeepSeek use in federal civilian agencies"},
+        {"outlet": "bbc-technology", "item_id": "e11c4e750a179d58710f16601b77f58c523ff0d6", "quote": "US bans DeepSeek AI from government use as tech tension with China continues"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

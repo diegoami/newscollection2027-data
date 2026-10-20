@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-19-aefad0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Russian satellite closes to within miles of US radar satellite aiding Ukraine",
+  "summary": "Russia's Cosmos 2612 satellite moved from about 200 miles away to roughly three miles from ICEYE-X36, a U.S.-owned radar satellite that aids Ukraine. A second report cites an expert describing the approach as extreme proximity after the satellite closed in from hundreds of kilometers away.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Russia's Cosmos 2612 (also called Kosmos 2612) satellite maneuvered into extreme proximity with ICEYE-X36, a US-owned radar satellite used to aid Ukraine.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "cde81cce439361f1894907ef226dd95a1f373e02", "quote": "Russian military satellite closes from 200 miles to 3 miles of US radar craft aiding Ukraine"},
+        {"outlet": "arstechnica", "item_id": "fe83ce01af3ac508d8b11c9491b9e19c60975abd", "quote": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Tom's Hardware reports the satellite moved from more than 200 miles away to about three miles from ICEYE-X36.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "cde81cce439361f1894907ef226dd95a1f373e02", "quote": "Russia’s Cosmos 2612 moved from more than 200 miles to about three miles from ICEYE-X36, a U.S.-owned radar satellite."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica quotes a source describing the maneuver as closing from hundreds of kilometers away to extreme proximity.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "fe83ce01af3ac508d8b11c9491b9e19c60975abd", "quote": "Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

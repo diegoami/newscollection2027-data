@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-19-dfcee9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Ex-OpenAI worker accused of spying with alleged Saudi ties",
+  "summary": "A former OpenAI employee is accused of spying, with a folder called 'Saudi Gov Docs' found on their devices and allegations of Saudi government support, including for planting a device. US authorities reportedly fear Saudi backing could help the accused flee the charges; the Saudi government did not immediately respond to a request for comment.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A former OpenAI worker is accused of spying and of having Saudi government support.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "71a28de11a06820bbe9bf477222d7e798bd76726", "quote": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says"},
+        {"outlet": "bbc-technology", "item_id": "d37be34335120dc2768b9b8c3203beacc36cdcf6", "quote": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "US authorities fear the Saudi government will help the accused flee the spying charges.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "71a28de11a06820bbe9bf477222d7e798bd76726", "quote": "US fears Saudi government will help ex-OpenAI engineer flee spying charges."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Saudi government did not immediately respond to a request for comment.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "d37be34335120dc2768b9b8c3203beacc36cdcf6", "quote": "The Saudi government did not immediately respond to BBC requests for comment."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "Ars Technica attributes the claim about Saudi ties to FBI statements, while BBC attributes it to a court filing.",
+      "quotes": [
+        {"outlet": "arstechnica", "item_id": "71a28de11a06820bbe9bf477222d7e798bd76726", "quote": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says"},
+        {"outlet": "bbc-technology", "item_id": "d37be34335120dc2768b9b8c3203beacc36cdcf6", "quote": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

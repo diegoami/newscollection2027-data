@@ -1,25 +1,27 @@
 {
   "cluster_id": "2026-10-16-af7808",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-19T02:10:58Z",
-  "headline": "MapQuest adds layer showing locations of Flock surveillance cameras",
-  "summary": "MapQuest launched a feature that shows where Flock surveillance cameras are located. One outlet notes the feature could help users avoid Flock and other automatic license plate reader cameras.",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "MapQuest adds a layer showing Flock surveillance camera locations",
+  "summary": "MapQuest's app now displays the locations of Flock and other automated license-plate-reader cameras, letting users see nearby surveillance points. Outlets describe the feature as helping people identify or avoid these cameras while driving.",
   "claims": [
     {
       "id": "c1",
-      "statement": "MapQuest added a feature showing the locations of Flock surveillance cameras.",
+      "statement": "MapQuest added a feature showing the locations of Flock and other ALPR surveillance cameras.",
       "sources": [
-        {"outlet": "engadget", "item_id": "02dd33881573484e2c31949d4be949a21a9f8a0b", "quote": "show you where Flock cameras are"},
-        {"outlet": "tomshardware", "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07", "quote": "MapQuest’s new Surveillance Layer"}
+        {"outlet": "engadget", "item_id": "02dd33881573484e2c31949d4be949a21a9f8a0b", "quote": "MapQuest will now show you where Flock cameras are in your neighborhood"},
+        {"outlet": "tomshardware", "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07", "quote": "Flock camera locations revealed on MapQuest’s new Surveillance Layer"},
+        {"outlet": "zdnet", "item_id": "216af0db67535b60ef204479c87f7ff794fa34b7", "quote": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The feature could help users avoid Flock and other automatic license plate reader cameras.",
+      "statement": "The feature can help users avoid or stay out of sight of these cameras.",
       "sources": [
-        {"outlet": "tomshardware", "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07", "quote": "could help users avoid Flock and other ALPR cameras"}
+        {"outlet": "tomshardware", "item_id": "d7252f1b7cebef3da9a8810548c1e4f5ed7e3d07", "quote": "This new feature could help users avoid Flock and other ALPR cameras."},
+        {"outlet": "zdnet", "item_id": "216af0db67535b60ef204479c87f7ff794fa34b7", "quote": "to help you stay out of sight of surveillance cameras"}
       ]
     }
   ],

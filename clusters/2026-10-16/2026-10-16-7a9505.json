@@ -17,8 +17,16 @@
       "published": "2026-10-17T12:35:56Z",
       "title": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
       "url": "https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/"
+    },
+    {
+      "item_id": "737ede9d9eb98db0d2a91af43e32eba1388e4f9b",
+      "lede": "Apple said that it will ban AI apps that don't moderate offensive content.",
+      "outlet": "techcrunch",
+      "published": "2026-10-19T12:56:14Z",
+      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

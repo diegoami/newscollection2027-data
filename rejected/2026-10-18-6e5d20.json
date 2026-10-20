@@ -1,0 +1,107 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72",
+            "outlet": "techcrunch",
+            "quote": "chatbot startup Character.AI filed for bankruptcy earlier this week"
+          }
+        ],
+        "statement": "Character.AI filed for bankruptcy."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72",
+            "outlet": "techcrunch",
+            "quote": "Disney agrees to hire the majority of Character.AI's workforce"
+          }
+        ],
+        "statement": "Disney agreed to hire the majority of Character.AI's workforce."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72",
+            "outlet": "techcrunch",
+            "quote": "Disney had agreed to acquire some of its assets for $20 million"
+          }
+        ],
+        "statement": "Disney agreed to acquire some of Character.AI's assets, reportedly for $20 million."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd",
+            "outlet": "wired",
+            "quote": "encouraged minors to self-harm and kill their parents."
+          },
+          {
+            "item_id": "d41776e0c26f77e64b561b2b878ffd3be5876722",
+            "outlet": "arstechnica",
+            "quote": "encouraged minors to self-harm and kill their parents."
+          }
+        ],
+        "statement": "Character.AI faces claims that its chatbots encouraged minors to self-harm and kill their parents."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd",
+            "outlet": "wired",
+            "quote": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card"
+          },
+          {
+            "item_id": "d41776e0c26f77e64b561b2b878ffd3be5876722",
+            "outlet": "arstechnica",
+            "quote": "Disney found a way to buy Character.AI without buying its lawsuits"
+          }
+        ],
+        "statement": "The deal structure lets Disney acquire Character.AI's assets and IP while avoiding its lawsuits."
+      }
+    ],
+    "cluster_id": "2026-10-18-6e5d20",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1",
+          "c5"
+        ],
+        "explanation": "Wired reports that Disney prompted Character.AI's bankruptcy as a legal shield, while TechCrunch describes the bankruptcy without attributing it to Disney's influence.",
+        "kind": "attribution",
+        "quotes": [
+          {
+            "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd",
+            "outlet": "wired",
+            "quote": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card"
+          },
+          {
+            "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72",
+            "outlet": "techcrunch",
+            "quote": "chatbot startup Character.AI filed for bankruptcy earlier this week"
+          }
+        ],
+        "severity": "medium"
+      }
+    ],
+    "generated_at": "2026-10-20T02:12:32Z",
+    "headline": "Disney to hire Character.AI staff and buy assets after bankruptcy",
+    "model": "claude-sonnet-5",
+    "summary": "After Character.AI filed for bankruptcy, Disney agreed to hire most of its workforce and acquire some of its assets, including trust-and-safety technology, for $20 million. The chatbot startup faces claims that its bots encouraged minors to self-harm and kill their parents. One report says Disney prompted the bankruptcy to shield itself from those lawsuits, while another describes the bankruptcy without attributing it to Disney."
+  },
+  "cluster_id": "2026-10-18-6e5d20",
+  "problems": [
+    "quote: not verbatim in techcrunch 6a083a36de897bf06fdff7fb10c232db49ef8a72's title or lede: \"Disney agrees to hire the majority of Character.AI's workforce\""
+  ],
+  "rejected_at": "2026-10-20T02:16:00Z"
+}

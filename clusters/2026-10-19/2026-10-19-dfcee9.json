@@ -1,0 +1,24 @@
+{
+  "anchor": "71a28de11a06820bbe9bf477222d7e798bd76726",
+  "id": "2026-10-19-dfcee9",
+  "items": [
+    {
+      "item_id": "71a28de11a06820bbe9bf477222d7e798bd76726",
+      "lede": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "outlet": "arstechnica",
+      "published": "2026-10-19T20:21:53Z",
+      "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+    },
+    {
+      "item_id": "d37be34335120dc2768b9b8c3203beacc36cdcf6",
+      "lede": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-19T21:12:30Z",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "cde81cce439361f1894907ef226dd95a1f373e02",
+            "outlet": "tomshardware",
+            "quote": "Russian military satellite closes from 200 miles to 3 miles of US radar craft aiding Ukraine"
+          },
+          {
+            "item_id": "fe83ce01af3ac508d8b11c9491b9e19c60975abd",
+            "outlet": "arstechnica",
+            "quote": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine"
+          }
+        ],
+        "statement": "Russia's Cosmos 2612 (also called Kosmos 2612) satellite maneuvered into extreme proximity with ICEYE-X36, a US-owned radar satellite used to aid Ukraine."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "cde81cce439361f1894907ef226dd95a1f373e02",
+            "outlet": "tomshardware",
+            "quote": "Russia's Cosmos 2612 moved from more than 200 miles to about three miles from ICEYE-X36, a U.S.-owned radar satellite."
+          }
+        ],
+        "statement": "Tom's Hardware reports the satellite moved from more than 200 miles away to about three miles from ICEYE-X36."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "fe83ce01af3ac508d8b11c9491b9e19c60975abd",
+            "outlet": "arstechnica",
+            "quote": "Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36."
+          }
+        ],
+        "statement": "Ars Technica quotes a source describing the maneuver as closing from hundreds of kilometers away to extreme proximity."
+      }
+    ],
+    "cluster_id": "2026-10-19-aefad0",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-20T02:12:32Z",
+    "headline": "Russian satellite closes to within miles of US radar satellite aiding Ukraine",
+    "model": "claude-sonnet-5",
+    "summary": "Russia's Cosmos 2612 satellite moved from about 200 miles away to roughly three miles from ICEYE-X36, a U.S.-owned radar satellite that aids Ukraine. A second report cites an expert describing the approach as extreme proximity after the satellite closed in from hundreds of kilometers away."
+  },
+  "cluster_id": "2026-10-19-aefad0",
+  "problems": [
+    "quote: not verbatim in tomshardware cde81cce439361f1894907ef226dd95a1f373e02's title or lede: \"Russia's Cosmos 2612 moved from more than 200 miles to about three miles from ICEYE-X36, a U.S.-owned radar satellite.\""
+  ],
+  "rejected_at": "2026-10-20T02:16:00Z"
+}

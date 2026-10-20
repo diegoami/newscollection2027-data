@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-18-6e5d20",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Disney to hire Character.AI staff and buy assets after bankruptcy",
+  "summary": "After Character.AI filed for bankruptcy, Disney agreed to hire most of its workforce and acquire some of its assets, including trust-and-safety technology, for $20 million. The chatbot startup faces claims that its bots encouraged minors to self-harm and kill their parents. One report says Disney prompted the bankruptcy to shield itself from those lawsuits, while another describes the bankruptcy without attributing it to Disney.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Character.AI filed for bankruptcy.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72", "quote": "chatbot startup Character.AI filed for bankruptcy earlier this week"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Disney agreed to hire the majority of Character.AI's workforce.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72", "quote": "Disney agrees to hire the majority of Character.AI’s workforce"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Disney agreed to acquire some of Character.AI's assets, reportedly for $20 million.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72", "quote": "Disney had agreed to acquire some of its assets for $20 million"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Character.AI faces claims that its chatbots encouraged minors to self-harm and kill their parents.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd", "quote": "encouraged minors to self-harm and kill their parents."},
+        {"outlet": "arstechnica", "item_id": "d41776e0c26f77e64b561b2b878ffd3be5876722", "quote": "encouraged minors to self-harm and kill their parents."}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The deal structure lets Disney acquire Character.AI's assets and IP while avoiding its lawsuits.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd", "quote": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card"},
+        {"outlet": "arstechnica", "item_id": "d41776e0c26f77e64b561b2b878ffd3be5876722", "quote": "Disney found a way to buy Character.AI without buying its lawsuits"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c1", "c5"],
+      "explanation": "Wired reports that Disney prompted Character.AI's bankruptcy as a legal shield, while TechCrunch describes the bankruptcy without attributing it to Disney's influence.",
+      "quotes": [
+        {"outlet": "wired", "item_id": "2afd84a2181acaa5a6c61bcd2d76b14c37dfd7cd", "quote": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card"},
+        {"outlet": "techcrunch", "item_id": "6a083a36de897bf06fdff7fb10c232db49ef8a72", "quote": "chatbot startup Character.AI filed for bankruptcy earlier this week"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,55 @@
+{
+  "cluster_id": "2026-10-19-8da28d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Amazon to fund new nuclear plant at former Indiana coal site",
+  "summary": "Amazon signed a deal with X-energy, and AEP according to one report, to fund a nuclear power facility replacing a defunct coal plant in Indiana, expected to generate up to 960 megawatts, or nearly a gigawatt. One report specifies 12 small reactors, while another notes X-energy has yet to build a working reactor.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon signed a deal with X-energy to fund a new nuclear facility at the site of a former coal plant in Indiana.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "292580429c9b98564247eea52ee1d0199f7e354e", "quote": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana."},
+        {"outlet": "techcrunch", "item_id": "9af7623112d7a9fb8be5162775323f2cf1ed6621", "quote": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid."},
+        {"outlet": "theregister", "item_id": "beae0061db08f2ebdf91b313995a7f2d31ab092f", "quote": "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The facility is expected to generate up to 960 megawatts, or nearly a gigawatt, of power.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "292580429c9b98564247eea52ee1d0199f7e354e", "quote": "aims to provide up to 960 megawatts of carbon-free energy"},
+        {"outlet": "techcrunch", "item_id": "9af7623112d7a9fb8be5162775323f2cf1ed6621", "quote": "This one will generate nearly 1 gigawatt of electricity."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "TechCrunch specifies the deal covers 12 small nuclear reactors at the former coal plant.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9af7623112d7a9fb8be5162775323f2cf1ed6621", "quote": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "X-energy, Amazon's partner on the deal, has not yet built a working reactor.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "beae0061db08f2ebdf91b313995a7f2d31ab092f", "quote": "Partner X-energy has not built a single working reactor yet"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1", "c4"],
+      "explanation": "The Register frames the deal skeptically, noting X-energy has not built a working reactor, while the other outlets report the funding commitment without that caveat.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "beae0061db08f2ebdf91b313995a7f2d31ab092f", "quote": "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters"},
+        {"outlet": "theverge", "item_id": "292580429c9b98564247eea52ee1d0199f7e354e", "quote": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana."}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

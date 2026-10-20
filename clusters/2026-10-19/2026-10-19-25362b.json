@@ -1,0 +1,24 @@
+{
+  "anchor": "92bf044e67179883aaab17167c7a0b42f915d0f9",
+  "id": "2026-10-19-25362b",
+  "items": [
+    {
+      "item_id": "92bf044e67179883aaab17167c7a0b42f915d0f9",
+      "lede": "The decision comes a couple of days after the release of Deepseek's latest AI model.",
+      "outlet": "engadget",
+      "published": "2026-10-19T16:59:28Z",
+      "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+      "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/"
+    },
+    {
+      "item_id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
+      "lede": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-19T18:21:54Z",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

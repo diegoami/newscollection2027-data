@@ -1,0 +1,47 @@
+{
+  "cluster_id": "2026-10-19-6cf99e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Microsoft's October Windows Server update breaks Exchange sign-in, mail flow",
+  "summary": "Microsoft confirmed that this month's Windows Server security updates are breaking OWA sign-in and mail delivery on some Exchange Server systems, with admins reporting backed-up email queues. One report attributes the cause to the security updates themselves, another to a changed server default, and an admin described spending an entire weekend fixing affected servers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft's October Windows Server updates are causing OWA sign-in and mail delivery problems on some Exchange Server systems.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "15156651e22133c322f2c81bd0501bbe1053a2ea", "quote": "October Windows Server updates break Exchange sign-in, mail flow"},
+        {"outlet": "theregister", "item_id": "fe417fa46e08579473821bab92e3a6e8164ed852", "quote": "after Microsoft breaks Exchange Server with October updates"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft has confirmed the issue.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "15156651e22133c322f2c81bd0501bbe1053a2ea", "quote": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "An admin reported spending the entire weekend dealing with the fallout, with long email queues on busy servers.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "fe417fa46e08579473821bab92e3a6e8164ed852", "quote": "I spent all weekend on my servers"},
+        {"outlet": "theregister", "item_id": "fe417fa46e08579473821bab92e3a6e8164ed852", "quote": "OWA borked and lengthy email queues reported on busy servers"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "BleepingComputer attributes the outage to this month's security updates, while The Register describes the cause as Microsoft changing a server default setting.",
+      "quotes": [
+        {"outlet": "bleepingcomputer", "item_id": "15156651e22133c322f2c81bd0501bbe1053a2ea", "quote": "this month's Windows Server security updates are causing OWA sign-in and mail delivery issues"},
+        {"outlet": "theregister", "item_id": "fe417fa46e08579473821bab92e3a6e8164ed852", "quote": "after Microsoft tweaks a Server default"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

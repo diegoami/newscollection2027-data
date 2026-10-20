@@ -1,0 +1,70 @@
+{
+  "agent_seconds": 617.606,
+  "counts": {
+    "analyses_total": 380,
+    "analyses_written": 16,
+    "clusters": 389,
+    "judgments": 4341,
+    "pending": 0,
+    "rejected": 33,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-10-20",
+  "duration_seconds": 638.917,
+  "finished_at": "2026-10-20T02:17:54Z",
+  "note": "Jev answered 70 pairs (20 yes/41 no/9 left for judge); judge-pairs skill answered the remaining 9 (6 yes, 3 no); analyzed all 16 pending clusters (6 analyses needed one retry for apostrophe-quote mismatches).",
+  "started_at": "2026-10-20T02:07:15Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.665
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 18.649
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.236
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.66
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.392
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.011
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.288
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.029
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.021
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.36
+    }
+  ]
+}

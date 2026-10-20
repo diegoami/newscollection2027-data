@@ -1,0 +1,47 @@
+{
+  "cluster_id": "2026-10-19-f587e1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Hacker used AI agents to breach over 100 company websites",
+  "summary": "A hacker used a fleet of mostly autonomous AI agents to break into more than 100 company websites, including John Deere and SharkNinja, according to security firm Norforge and Reuters reporting. One outlet identifies the attacker as Chinese; another does not specify a nationality.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A hacker used a fleet of mostly autonomous AI agents to break into more than 100 company websites.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27", "quote": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own"},
+        {"outlet": "tomshardware", "item_id": "0618ca744b651fcacdac9491339ecd348caf50d0", "quote": "used a fleet of AI agents to break into more than 100 company websites"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Reported victims included John Deere and SharkNinja.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27", "quote": "the victims included companies like John Deere, SharkNinja, and Cummins"},
+        {"outlet": "tomshardware", "item_id": "0618ca744b651fcacdac9491339ecd348caf50d0", "quote": "including farm equipment maker Deers and appliance outfit SharkNinja"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Verge attributes the finding to AI security firm Norforge, which did not name the targets, with Reuters separately identifying the victims.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27", "quote": "according to findings from the AI security firm Norforge"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c1"],
+      "explanation": "Tom's Hardware identifies the attacker as Chinese, while The Verge's report does not specify the hacker's nationality.",
+      "quotes": [
+        {"outlet": "tomshardware", "item_id": "0618ca744b651fcacdac9491339ecd348caf50d0", "quote": "A Chinese hacker used AI agents to break into more than 100 company websites"},
+        {"outlet": "theverge", "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27", "quote": "A hacker broke into John Deere and SharkNinja with an army of AI agents"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

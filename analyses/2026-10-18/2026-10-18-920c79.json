@@ -1,0 +1,48 @@
+{
+  "cluster_id": "2026-10-18-920c79",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Anthropic to give 5% of its shares to a public benefit fund",
+  "summary": "Anthropic said it will commit 5% of its shares to a fund for the public good, ahead of an expected stock market listing. The Guardian puts the commitment's value at $48bn, a figure other reports on the announcement do not state.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic will commit 5% of its shares to a fund for the public good.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "cef1d05c75250edab10e0fb11fd8600b11da477c", "quote": "Anthropic said that it will commit 5% of its shares to the fund."},
+        {"outlet": "bbc-technology", "item_id": "bec807856c71f0379d412d85eda31ad2a81350df", "quote": "Anthropic says it will commit 5% of its shares to 'public benefit fund'"},
+        {"outlet": "theguardian", "item_id": "c2ced7e7825b63110447bedd4f756498ff3fce06", "quote": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The announcement comes as Anthropic prepares for a stock market listing.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "bec807856c71f0379d412d85eda31ad2a81350df", "quote": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."},
+        {"outlet": "theguardian", "item_id": "c2ced7e7825b63110447bedd4f756498ff3fce06", "quote": "as the company prepares for a stock market listing"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Guardian values the share commitment at $48 billion.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "c2ced7e7825b63110447bedd4f756498ff3fce06", "quote": "The $48bn giveaway"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "medium",
+      "claim_ids": ["c1", "c3"],
+      "explanation": "Only the Guardian attaches a dollar valuation ($48bn) to the share commitment; the other outlets report the 5% figure without a dollar amount.",
+      "quotes": [
+        {"outlet": "theguardian", "item_id": "c2ced7e7825b63110447bedd4f756498ff3fce06", "quote": "The $48bn giveaway"},
+        {"outlet": "techcrunch", "item_id": "cef1d05c75250edab10e0fb11fd8600b11da477c", "quote": "Anthropic said that it will commit 5% of its shares to the fund."}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,49 @@
+{
+  "cluster_id": "2026-10-19-741cd0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-20T02:12:32Z",
+  "headline": "Hackers steal API keys from AI coding tool OpenCode",
+  "summary": "Hackers breached part of OpenCode's platform, an open-source AI coding tool, stealing API keys from a small number of users and running up charges on their AI accounts. One report links the breach to AI distillation attacks; another notes that AI tools asked to review the malicious code kept refusing to look at it.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers breached OpenCode's platform and stole some users' API keys used with external providers.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b", "quote": "OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach"},
+        {"outlet": "techcrunch", "item_id": "039a84854fb85dd641d6936af9c43340549b490c", "quote": "hackers got into part of its online platform and stole some users’ API keys"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "OpenCode notified a small number of affected users.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b", "quote": "has notified a small number of users"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The stolen keys were used to run up charges on victims' AI accounts.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "039a84854fb85dd641d6936af9c43340549b490c", "quote": "running up charges on users’ AI accounts"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "TechCrunch reports that AI tools asked to investigate the malicious code kept refusing to look at it.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "039a84854fb85dd641d6936af9c43340549b490c", "quote": "the AI tools it turned to for help kept refusing to look at the malicious code"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "BleepingComputer links the breach to AI distillation attacks.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b", "quote": "OpenCode hack exposes API keys amid AI distillation attacks"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
