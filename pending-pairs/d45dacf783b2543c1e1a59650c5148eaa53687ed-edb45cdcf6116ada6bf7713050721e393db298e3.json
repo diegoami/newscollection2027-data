@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d45dacf783b2543c1e1a59650c5148eaa53687ed",
+    "lede": "The idea of embedded evaluators \u2014 in which supposedly \"neutral\" third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "outlet": "techcrunch",
+    "published": "2026-10-19T22:49:27Z",
+    "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+  },
+  "b": {
+    "item_id": "edb45cdcf6116ada6bf7713050721e393db298e3",
+    "lede": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+    "outlet": "zdnet",
+    "published": "2026-10-16T17:10:27Z",
+    "title": "Anthropic gives third-party auditors \u2019employee-like access\u2019 in AI industry first",
+    "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/"
+  },
+  "score": 0.59164
+}
