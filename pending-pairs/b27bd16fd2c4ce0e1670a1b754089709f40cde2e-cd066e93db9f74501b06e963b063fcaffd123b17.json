@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+    "lede": "All websites using PHP should update to the latest security patch.",
+    "outlet": "engadget",
+    "published": "2026-10-21T20:56:47Z",
+    "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+    "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.679247
+}

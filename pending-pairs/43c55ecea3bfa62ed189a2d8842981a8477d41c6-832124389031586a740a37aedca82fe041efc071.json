@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43c55ecea3bfa62ed189a2d8842981a8477d41c6",
+    "lede": "Google\u2019s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T16:43:12Z",
+    "title": "Chrome warns you about suspicious websites now \u2013 how to turn on Google\u2019s new scam protection",
+    "url": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/"
+  },
+  "b": {
+    "item_id": "832124389031586a740a37aedca82fe041efc071",
+    "lede": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T22:16:26Z",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+    "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+  },
+  "score": 0.685708
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5bfc4a4f82155bed1b7819c0d1502f2dbe0e66a0",
+    "lede": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "outlet": "wired",
+    "published": "2026-10-21T16:00:00Z",
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/"
+  },
+  "b": {
+    "item_id": "dc1c99f7973e826c237dab2275e42fb28b713acd",
+    "lede": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T20:27:41Z",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
+  },
+  "score": 0.682054
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9e7ff52c6deb0aa7d4959d42f72c177137179324",
+    "lede": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T19:03:28Z",
+    "title": "The internet is having a very bad cybersecurity day",
+    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
+  },
+  "b": {
+    "item_id": "c08e28e17ab3caf750954d52e288ffb4c717fd27",
+    "lede": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-19T13:58:41Z",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+  },
+  "score": 0.577712
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+    "lede": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:07:05Z",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+  },
+  "b": {
+    "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+    "lede": "All websites using PHP should update to the latest security patch.",
+    "outlet": "engadget",
+    "published": "2026-10-21T20:56:47Z",
+    "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+    "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+  },
+  "score": 0.595673
+}

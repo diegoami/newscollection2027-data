@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+    "lede": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-21T14:09:28Z",
+    "title": "Websites taken down across Europe ahead of critical cyber-security update",
+    "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o"
+  },
+  "b": {
+    "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+    "lede": "All websites using PHP should update to the latest security patch.",
+    "outlet": "engadget",
+    "published": "2026-10-21T20:56:47Z",
+    "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+    "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+  },
+  "score": 0.675143
+}

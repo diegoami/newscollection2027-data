@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "56259d9e9e192ae40370bb618aac569b4e0ec6e0",
+    "lede": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T22:06:07Z",
+    "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+    "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
+  },
+  "b": {
+    "item_id": "dd042d9ae73d229c5d0d56354ab89dbcd60e7180",
+    "lede": "Here come new rate limits.",
+    "outlet": "engadget",
+    "published": "2026-10-21T19:52:50Z",
+    "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+    "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/"
+  },
+  "score": 0.609505
+}

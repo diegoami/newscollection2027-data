@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e9fd60a700e2a4db544786ccbfab1726663ab4ba",
+    "lede": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T21:43:27Z",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+    "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/"
+  },
+  "b": {
+    "item_id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+    "lede": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T19:40:58Z",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+  },
+  "score": 0.65253
+}

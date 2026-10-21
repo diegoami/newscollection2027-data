@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0efdcaa8b19e54982c82f84c7710c4a29df20f48",
+    "lede": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T20:36:56Z",
+    "title": "PHP: The three letters that shut down sites all over the internet today",
+    "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"
+  },
+  "b": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "score": 0.616536
+}
