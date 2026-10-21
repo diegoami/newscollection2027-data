@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43fc56afbb2752b58692f2066ff9987b432b27b4",
+    "lede": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-17T14:32:48Z",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+  },
+  "b": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "score": 0.718081
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04cfd76c8ff18be390ddf617bc554bfca863073c",
+    "lede": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "outlet": "wired",
+    "published": "2026-10-21T12:35:00Z",
+    "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
+  },
+  "b": {
+    "item_id": "f52190a49967b68da7ad63d8e5297c5a8a841b2d",
+    "lede": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-20T18:07:34Z",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+  },
+  "score": 0.681817
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "7be3aef1c5db099ec2b112bfa4db08d4c7cae69f",
+    "lede": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+    "outlet": "engadget",
+    "published": "2026-10-21T11:02:54Z",
+    "title": "Two dangerous internet security issues are putting site admins on edge",
+    "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
+  },
+  "score": 0.599017
+}

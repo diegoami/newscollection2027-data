@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+    "lede": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:07:05Z",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.69887
+}

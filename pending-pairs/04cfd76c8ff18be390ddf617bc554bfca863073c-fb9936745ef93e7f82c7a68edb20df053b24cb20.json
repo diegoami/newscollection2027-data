@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04cfd76c8ff18be390ddf617bc554bfca863073c",
+    "lede": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "outlet": "wired",
+    "published": "2026-10-21T12:35:00Z",
+    "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
+  },
+  "b": {
+    "item_id": "fb9936745ef93e7f82c7a68edb20df053b24cb20",
+    "lede": "A single query is all that's required to find thousands of conversations listed by title.",
+    "outlet": "arstechnica",
+    "published": "2026-10-20T12:33:13Z",
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+  },
+  "score": 0.648635
+}

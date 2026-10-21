@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9a2f77b65b0e8cac001802eb951763a0c13665b4",
+    "lede": "It\u2019s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "outlet": "wired",
+    "published": "2026-10-21T10:30:00Z",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
+  },
+  "b": {
+    "item_id": "d09475409559ad1735caf97828fbf055cc0baeb5",
+    "lede": "Bank\u2019s chief knowledge officer says the tech could speed up economic development from centuries to decades The World Bank is urging developing countries to kickstart the creation of \u201csmall AI\u201d models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence. While Silicon Valley big tech firms are focused on ever more",
+    "outlet": "theguardian",
+    "published": "2026-10-18T10:00:56Z",
+    "title": "World Bank says \u2018small AI\u2019 could transform developing countries",
+    "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+  },
+  "score": 0.575786
+}

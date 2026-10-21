@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "b": {
+    "item_id": "e50d33e77f8a8715ed6b691a2752674cc3afbaa7",
+    "lede": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:00:00Z",
+    "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
+  },
+  "score": 0.608495
+}

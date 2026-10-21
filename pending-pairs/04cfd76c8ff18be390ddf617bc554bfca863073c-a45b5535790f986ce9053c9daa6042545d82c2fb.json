@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "04cfd76c8ff18be390ddf617bc554bfca863073c",
+    "lede": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "outlet": "wired",
+    "published": "2026-10-21T12:35:00Z",
+    "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
+  },
+  "b": {
+    "item_id": "a45b5535790f986ce9053c9daa6042545d82c2fb",
+    "lede": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+    "outlet": "engadget",
+    "published": "2026-10-20T20:00:43Z",
+    "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+    "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/"
+  },
+  "score": 0.740525
+}

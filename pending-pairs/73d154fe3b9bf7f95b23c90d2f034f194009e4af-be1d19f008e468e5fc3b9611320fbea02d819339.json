@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "73d154fe3b9bf7f95b23c90d2f034f194009e4af",
+    "lede": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T10:14:53Z",
+    "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/"
+  },
+  "b": {
+    "item_id": "be1d19f008e468e5fc3b9611320fbea02d819339",
+    "lede": "A bug in Microsoft\u2019s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+    "outlet": "zdnet",
+    "published": "2026-10-20T14:26:05Z",
+    "title": "Latest Windows update disables key security setting \u2013 but there\u2019s a workaround",
+    "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
+  },
+  "score": 0.634838
+}

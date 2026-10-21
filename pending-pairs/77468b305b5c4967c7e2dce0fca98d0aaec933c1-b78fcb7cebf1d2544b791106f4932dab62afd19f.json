@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "77468b305b5c4967c7e2dce0fca98d0aaec933c1",
+    "lede": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T13:09:26Z",
+    "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+    "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"
+  },
+  "b": {
+    "item_id": "b78fcb7cebf1d2544b791106f4932dab62afd19f",
+    "lede": "Nvidia's latest DLSS Neural Renderer, extracted from NBA 2K27 (again), is being tested on unsupported games and shows up to a 90% performance gain over the previous NR model.",
+    "outlet": "tomshardware",
+    "published": "2026-10-18T12:45:00Z",
+    "title": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+    "url": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster"
+  },
+  "score": 0.572144
+}

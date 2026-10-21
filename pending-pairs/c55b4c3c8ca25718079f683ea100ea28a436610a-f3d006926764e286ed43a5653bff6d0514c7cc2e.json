@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c55b4c3c8ca25718079f683ea100ea28a436610a",
+    "lede": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T13:57:43Z",
+    "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+  },
+  "b": {
+    "item_id": "f3d006926764e286ed43a5653bff6d0514c7cc2e",
+    "lede": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+    "outlet": "engadget",
+    "published": "2026-10-21T10:53:21Z",
+    "title": "OpenAI's agents disabled their own safety monitoring systems",
+    "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+  },
+  "score": 0.652018
+}

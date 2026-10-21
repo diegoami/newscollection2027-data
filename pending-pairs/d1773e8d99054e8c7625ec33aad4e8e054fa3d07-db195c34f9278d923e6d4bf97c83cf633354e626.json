@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d1773e8d99054e8c7625ec33aad4e8e054fa3d07",
+    "lede": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+    "outlet": "zdnet",
+    "published": "2026-10-20T20:00:00Z",
+    "title": "Gemini on Android Auto can access my photos, emails, and calendar now \u2013 why I\u2019m OK with that (mostly)",
+    "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/"
+  },
+  "b": {
+    "item_id": "db195c34f9278d923e6d4bf97c83cf633354e626",
+    "lede": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's infotainment hardware - eliminating the need for phone tethering, Bluetooth connections, or aux cables. It's the clearest sign yet [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T12:00:00Z",
+    "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+    "url": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay"
+  },
+  "score": 0.606809
+}

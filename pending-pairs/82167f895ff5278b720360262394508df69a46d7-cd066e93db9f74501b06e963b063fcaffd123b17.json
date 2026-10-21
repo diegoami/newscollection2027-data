@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.67973
+}

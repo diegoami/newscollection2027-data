@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7be3aef1c5db099ec2b112bfa4db08d4c7cae69f",
+    "lede": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+    "outlet": "engadget",
+    "published": "2026-10-21T11:02:54Z",
+    "title": "Two dangerous internet security issues are putting site admins on edge",
+    "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
+  },
+  "b": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "score": 0.625495
+}

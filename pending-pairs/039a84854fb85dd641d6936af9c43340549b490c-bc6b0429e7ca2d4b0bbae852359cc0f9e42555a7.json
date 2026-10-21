@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "039a84854fb85dd641d6936af9c43340549b490c",
+    "lede": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "outlet": "techcrunch",
+    "published": "2026-10-19T19:28:34Z",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+  },
+  "b": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "score": 0.624473
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4fd9ed523060b90db28b8c54655e3dc521bbd263",
+    "lede": "The U.S. Army is developing a program to deploy autonomous AI agents that can navigate digital and network infrastructures, identify targets, and \u201cneutralize\u201d them.",
+    "outlet": "tomshardware",
+    "published": "2026-10-20T13:30:00Z",
+    "title": "U.S. Army developing program that would deploy AI agents to autonomously seek and destroy targets in enemy digital infrastructures",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-army-reportedly-developing-program-that-would-deploy-ai-agents-to-autonomously-seek-and-destroy-targets-in-enemy-digital-infrastructures-experts-warn-echotribble-program-could-have-disastrous-consequences"
+  },
+  "b": {
+    "item_id": "90348f559293d0a2afc66fecbd771ad6fae9ecba",
+    "lede": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T11:30:00Z",
+    "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+    "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
+  },
+  "score": 0.621203
+}

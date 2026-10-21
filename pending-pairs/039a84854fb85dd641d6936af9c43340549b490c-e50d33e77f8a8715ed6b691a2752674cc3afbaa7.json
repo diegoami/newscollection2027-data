@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "039a84854fb85dd641d6936af9c43340549b490c",
+    "lede": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "outlet": "techcrunch",
+    "published": "2026-10-19T19:28:34Z",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+  },
+  "b": {
+    "item_id": "e50d33e77f8a8715ed6b691a2752674cc3afbaa7",
+    "lede": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:00:00Z",
+    "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
+  },
+  "score": 0.606504
+}

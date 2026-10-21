@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "90348f559293d0a2afc66fecbd771ad6fae9ecba",
+    "lede": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T11:30:00Z",
+    "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+    "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
+  },
+  "b": {
+    "item_id": "d88320583f8c2de091e73e8adaa3c52a1dd1b620",
+    "lede": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "outlet": "techcrunch",
+    "published": "2026-10-19T15:37:09Z",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+  },
+  "score": 0.571534
+}
