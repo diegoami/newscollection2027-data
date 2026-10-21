@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "288893f636793d08fd7bcc5e9ab0d784d1b07a38",
+    "lede": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T16:26:53Z",
+    "title": "OpenAI agents disabled safety monitoring, one lied about it",
+    "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/"
+  },
+  "b": {
+    "item_id": "da412802b058b0f5241cf2df8e2d1e23a1bc6909",
+    "lede": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T18:15:19Z",
+    "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+    "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/"
+  },
+  "score": 0.669252
+}

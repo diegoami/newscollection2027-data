@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "b": {
+    "item_id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
+    "lede": "Websites down as precaution as exploits have already been published",
+    "outlet": "theregister",
+    "published": "2026-10-21T15:08:51Z",
+    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+    "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519"
+  },
+  "score": 0.693102
+}

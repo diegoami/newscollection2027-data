@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71f0485320c6db1dca7cf069a4609276f52fe3b5",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T18:34:42Z",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+  },
+  "b": {
+    "item_id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
+    "lede": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-18T14:23:16Z",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+  },
+  "score": 0.657854
+}

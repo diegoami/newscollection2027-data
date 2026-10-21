@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7f6bb9c0aa5027ea3e8e04b3d409d89e78d9cc73",
+    "lede": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-20T22:11:34Z",
+    "title": "Google\u2019s more personalized Gemini AI is heading to your car",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+  },
+  "b": {
+    "item_id": "d17a386b14ca6d8c2ff0ed19c9d9150486b022fd",
+    "lede": "Just tap the new Gemini icon to get started.",
+    "outlet": "engadget",
+    "published": "2026-10-21T15:00:00Z",
+    "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
+    "url": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/"
+  },
+  "score": 0.675509
+}

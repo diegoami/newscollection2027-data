@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "b": {
+    "item_id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
+    "lede": "Websites down as precaution as exploits have already been published",
+    "outlet": "theregister",
+    "published": "2026-10-21T15:08:51Z",
+    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+    "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519"
+  },
+  "score": 0.691274
+}

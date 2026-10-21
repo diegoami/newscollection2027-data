@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26174453005d11ef79b9ac17825a817374214153",
+    "lede": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future \u2013 together with alarming reports of what it has gotten up to already \u2013 are being issued so quickly that even security experts have",
+    "outlet": "theguardian",
+    "published": "2026-10-18T13:30:00Z",
+    "title": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them?",
+    "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries"
+  },
+  "b": {
+    "item_id": "da412802b058b0f5241cf2df8e2d1e23a1bc6909",
+    "lede": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T18:15:19Z",
+    "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+    "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/"
+  },
+  "score": 0.575554
+}

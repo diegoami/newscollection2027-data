@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dd354d60175dd9c225ff0ea3787f7ac3823a013",
+    "lede": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:26:19Z",
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+  },
+  "b": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "score": 0.710762
+}

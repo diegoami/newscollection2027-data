@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "da412802b058b0f5241cf2df8e2d1e23a1bc6909",
+    "lede": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T18:15:19Z",
+    "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+    "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/"
+  },
+  "b": {
+    "item_id": "f3d006926764e286ed43a5653bff6d0514c7cc2e",
+    "lede": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+    "outlet": "engadget",
+    "published": "2026-10-21T10:53:21Z",
+    "title": "OpenAI's agents disabled their own safety monitoring systems",
+    "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+  },
+  "score": 0.609909
+}

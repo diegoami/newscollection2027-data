@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
+    "lede": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T20:56:43Z",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+  },
+  "b": {
+    "item_id": "1dd354d60175dd9c225ff0ea3787f7ac3823a013",
+    "lede": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:26:19Z",
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+  },
+  "score": 0.700347
+}
