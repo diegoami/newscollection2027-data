@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
+    "lede": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T20:56:43Z",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.640833
+}

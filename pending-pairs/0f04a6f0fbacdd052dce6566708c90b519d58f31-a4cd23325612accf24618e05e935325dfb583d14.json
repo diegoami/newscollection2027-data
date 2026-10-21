@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0f04a6f0fbacdd052dce6566708c90b519d58f31",
+    "lede": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T01:01:50Z",
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+    "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/"
+  },
+  "b": {
+    "item_id": "a4cd23325612accf24618e05e935325dfb583d14",
+    "lede": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T21:24:51Z",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+  },
+  "score": 0.624318
+}

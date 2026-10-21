@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43fc56afbb2752b58692f2066ff9987b432b27b4",
+    "lede": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-17T14:32:48Z",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.654593
+}
