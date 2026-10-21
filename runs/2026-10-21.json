@@ -1,0 +1,60 @@
+{
+  "agent_seconds": 1028.628,
+  "counts": {
+    "analyses_total": 404,
+    "analyses_written": 28,
+    "clusters": 413,
+    "judgments": 4459,
+    "pending": 0,
+    "rejected": 33,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-10-21",
+  "duration_seconds": 1063.171,
+  "finished_at": "2026-10-21T02:24:45Z",
+  "note": "Jev judged 93/118 pairs; Claude Code judged remaining 25 (4 no, due to review/time-gap ambiguity or distinct events). Analyzed all 28 pending clusters by hand.",
+  "started_at": "2026-10-21T02:07:01Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.933
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 31.162
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.319
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.747
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.365
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.015
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.393
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.609
+    }
+  ]
+}

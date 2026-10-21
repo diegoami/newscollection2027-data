@@ -1,0 +1,24 @@
+{
+  "anchor": "12bc0fe4a6e181222b0ead28e8406111e88c3f00",
+  "id": "2026-10-20-83e701",
+  "items": [
+    {
+      "item_id": "12bc0fe4a6e181222b0ead28e8406111e88c3f00",
+      "lede": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-20T12:29:24Z",
+      "title": "UK asks Apple to widen access to its payment tech",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o"
+    },
+    {
+      "item_id": "08d7f9946d4d94594368e2d6123f310e08f472d6",
+      "lede": "The UK is taking aim at Apple's near-monopoly on contactless NFC smartphone payments.",
+      "outlet": "engadget",
+      "published": "2026-10-20T12:42:27Z",
+      "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
+      "url": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

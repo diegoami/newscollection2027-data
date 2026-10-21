@@ -1,0 +1,24 @@
+{
+  "anchor": "a4ac5e935470c7855c9cb4845efbb342f4796a71",
+  "id": "2026-10-20-c83ed1",
+  "items": [
+    {
+      "item_id": "a4ac5e935470c7855c9cb4845efbb342f4796a71",
+      "lede": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "outlet": "arstechnica",
+      "published": "2026-10-20T21:14:33Z",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+    },
+    {
+      "item_id": "a7f2e93165816b0cd29108fd6ed4c31bf4e499a5",
+      "lede": "Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO.",
+      "outlet": "engadget",
+      "published": "2026-10-20T22:01:23Z",
+      "title": "The next Xbox might cost $1,800, report says",
+      "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

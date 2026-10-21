@@ -25,8 +25,16 @@
       "published": "2026-10-17T21:31:32Z",
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7",
+      "lede": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+      "outlet": "arstechnica",
+      "published": "2026-10-20T20:07:58Z",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

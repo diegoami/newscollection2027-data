@@ -1,0 +1,32 @@
+{
+  "anchor": "3a62b233971a0b75415bb695cd649eb483024903",
+  "id": "2026-10-20-035ce6",
+  "items": [
+    {
+      "item_id": "3a62b233971a0b75415bb695cd649eb483024903",
+      "lede": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.",
+      "outlet": "techcrunch",
+      "published": "2026-10-20T12:00:00Z",
+      "title": "Oura adds new fitness metrics to show how workouts impact your body",
+      "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/"
+    },
+    {
+      "item_id": "14bbf9f918ecf48dcfa65660b51b7d940e6c7bf2",
+      "lede": "Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity) are [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-20T20:26:04Z",
+      "title": "Oura adds two new cardiovascular health tracking features to its smart rings",
+      "url": "https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular"
+    },
+    {
+      "item_id": "7eab08b74cadf64ba5b78c1558e3bef6b18600c5",
+      "lede": "Oura has updated its smart rings with new cardio fitness-related metrics, including VO2 Max estimates.",
+      "outlet": "engadget",
+      "published": "2026-10-20T23:00:10Z",
+      "title": "Oura Ring can track new stats related to cardio fitness",
+      "url": "https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

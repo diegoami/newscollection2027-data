@@ -1,0 +1,48 @@
+{
+  "anchor": "1935d2cf4e2ef2c32afbca05fc566dbdea2c9cd4",
+  "id": "2026-10-20-fd0cbe",
+  "items": [
+    {
+      "item_id": "1935d2cf4e2ef2c32afbca05fc566dbdea2c9cd4",
+      "lede": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "outlet": "techcrunch",
+      "published": "2026-10-20T20:00:00Z",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+    },
+    {
+      "item_id": "8ccf13a33dab3e2b7b6c43ef7b56fdffc016aa49",
+      "lede": "In the coming months, the feature will also roll out to cars with Google built-in.",
+      "outlet": "engadget",
+      "published": "2026-10-20T20:00:00Z",
+      "title": "Google brings Gemini Personal Intelligence to Android Auto",
+      "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+    },
+    {
+      "item_id": "d1773e8d99054e8c7625ec33aad4e8e054fa3d07",
+      "lede": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+      "outlet": "zdnet",
+      "published": "2026-10-20T20:00:00Z",
+      "title": "Gemini on Android Auto can access my photos, emails, and calendar now \u2013 why I\u2019m OK with that (mostly)",
+      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/"
+    },
+    {
+      "item_id": "f74f11fae08faea74bf96359d3dbcdc3f5257ec2",
+      "lede": "It's probably time to audit your Gemini settings.",
+      "outlet": "arstechnica",
+      "published": "2026-10-20T20:00:33Z",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
+    },
+    {
+      "item_id": "7f6bb9c0aa5027ea3e8e04b3d409d89e78d9cc73",
+      "lede": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-20T22:11:34Z",
+      "title": "Google\u2019s more personalized Gemini AI is heading to your car",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

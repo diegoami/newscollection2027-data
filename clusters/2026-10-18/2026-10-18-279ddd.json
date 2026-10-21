@@ -1,0 +1,24 @@
+{
+  "anchor": "a257dddc2d05fd3f1905289843737f82fba75e56",
+  "id": "2026-10-18-279ddd",
+  "items": [
+    {
+      "item_id": "a257dddc2d05fd3f1905289843737f82fba75e56",
+      "lede": "Anthropic's proposal requires evaluators to report any imminent risk to the Department of Commerce within 72 hours, after which the Department must present the evidence to a federal judge and await an order.",
+      "outlet": "tomshardware",
+      "published": "2026-10-18T11:25:00Z",
+      "title": "Anthropic\u2019s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages are on the line",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+    },
+    {
+      "item_id": "d4e57614c374e23f368ed33eea237ec7376e2944",
+      "lede": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "outlet": "techcrunch",
+      "published": "2026-10-20T23:01:23Z",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -17,8 +17,32 @@
       "published": "2026-10-19T18:21:54Z",
       "title": "US bans DeepSeek AI from government use as tech tension with China continues",
       "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+    },
+    {
+      "item_id": "5ecb5ba802c4747dd1a5865b183dfae7c3ff4f19",
+      "lede": "Use of tools \u2018may result in the transfer of sensitive data\u2019 to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on",
+      "outlet": "theguardian",
+      "published": "2026-10-20T12:33:27Z",
+      "title": "US bans use of China\u2019s DeepSeek AI tools by government agencies",
+      "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies"
+    },
+    {
+      "item_id": "c723746d1e667296e0ea0e6d5ce4b8ae4566b115",
+      "lede": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "outlet": "techcrunch",
+      "published": "2026-10-20T13:07:24Z",
+      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+    },
+    {
+      "item_id": "4162cca6289cbc1dd289ae42a592095ba436c643",
+      "lede": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-20T14:19:05Z",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

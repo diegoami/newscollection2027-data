@@ -1,0 +1,24 @@
+{
+  "anchor": "3ea687477c012778e49df10d8146dca07ad30982",
+  "id": "2026-10-19-ee3df6",
+  "items": [
+    {
+      "item_id": "3ea687477c012778e49df10d8146dca07ad30982",
+      "lede": "Four Gemini 4 Argon agents beat Minecraft's Ender Dragon with no human intervention by sharing tips, threats and mistakes.",
+      "outlet": "engadget",
+      "published": "2026-10-19T09:19:19Z",
+      "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+      "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/"
+    },
+    {
+      "item_id": "1bbde338effd317375420d12fd38202126600b67",
+      "lede": "Google DeepMind researchers say four Gemini 4 Argon agents beat Minecraft in 27 hours, writing 2,783 programs with no human help.",
+      "outlet": "tomshardware",
+      "published": "2026-10-20T10:25:00Z",
+      "title": "Google DeepMind claims four AI agents beat Minecraft in 27 hours by writing 2,783 programs of their own",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

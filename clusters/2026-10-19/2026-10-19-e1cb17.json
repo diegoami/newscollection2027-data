@@ -17,8 +17,16 @@
       "published": "2026-10-19T16:09:26Z",
       "title": "Apple is set to hold another product event on October 28",
       "url": "https://www.engadget.com/2290401/apple-pro-and-tell-event-october-28-announcement/"
+    },
+    {
+      "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
+      "lede": "From the first touchscreen MacBook to an OLED iPad mini, here's everything Apple is expected to announce next week.",
+      "outlet": "engadget",
+      "published": "2026-10-20T22:00:00Z",
+      "title": "What to expect at Apple's 'Pro and Tell' event on October 28",
+      "url": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

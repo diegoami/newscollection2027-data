@@ -1,0 +1,24 @@
+{
+  "anchor": "1c4e4b700bd84f78f07f5d70874d03436adc4c1b",
+  "id": "2026-10-20-b89beb",
+  "items": [
+    {
+      "item_id": "1c4e4b700bd84f78f07f5d70874d03436adc4c1b",
+      "lede": "OpenAI says its models now come with better COBOL capabilities.",
+      "outlet": "engadget",
+      "published": "2026-10-20T12:01:59Z",
+      "title": "OpenAI says its models can help banks migrate from old COBOL programs",
+      "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/"
+    },
+    {
+      "item_id": "2bcaf37a740b174ea5714202aeec0fde4d043f7f",
+      "lede": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-20T18:11:03Z",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
