@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
+    "lede": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being \u201cbroadly exploited\u201d across the internet.",
+    "outlet": "wired",
+    "published": "2026-10-22T02:24:17Z",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.681157
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
+    "lede": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being \u201cbroadly exploited\u201d across the internet.",
+    "outlet": "wired",
+    "published": "2026-10-22T02:24:17Z",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+  },
+  "b": {
+    "item_id": "71f0485320c6db1dca7cf069a4609276f52fe3b5",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T18:34:42Z",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+  },
+  "score": 0.570262
+}
