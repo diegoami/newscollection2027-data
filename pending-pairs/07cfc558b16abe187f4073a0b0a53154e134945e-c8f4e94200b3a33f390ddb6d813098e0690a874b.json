@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07cfc558b16abe187f4073a0b0a53154e134945e",
+    "lede": "Leaked private keys for eight CA certificates let any attacker impersonate any domain \u2014 billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
+    "outlet": "tomshardware",
+    "published": "2026-10-22T13:14:20Z",
+    "title": "Leaked private keys for eight CA certificates let any attacker impersonate any domain",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately"
+  },
+  "b": {
+    "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b",
+    "lede": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T17:27:15Z",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/"
+  },
+  "score": 0.609685
+}

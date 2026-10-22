@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dd354d60175dd9c225ff0ea3787f7ac3823a013",
+    "lede": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:26:19Z",
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+  },
+  "b": {
+    "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
+    "lede": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T13:09:12Z",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+  },
+  "score": 0.5788
+}

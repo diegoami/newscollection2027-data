@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
+    "lede": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being \u201cbroadly exploited\u201d across the internet.",
+    "outlet": "wired",
+    "published": "2026-10-22T02:24:17Z",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+  },
+  "b": {
+    "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
+    "lede": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T13:09:12Z",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+  },
+  "score": 0.688519
+}

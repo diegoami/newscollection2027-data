@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
+    "lede": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-18T14:23:16Z",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+  },
+  "b": {
+    "item_id": "92b876190d73445477955c656066649eddf5afaa",
+    "lede": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T14:02:12Z",
+    "title": "Machine speed attacks require machine speed detection and response",
+    "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/"
+  },
+  "score": 0.570856
+}

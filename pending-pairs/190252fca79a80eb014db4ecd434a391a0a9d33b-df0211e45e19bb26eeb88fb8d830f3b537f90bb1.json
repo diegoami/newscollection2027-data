@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "190252fca79a80eb014db4ecd434a391a0a9d33b",
+    "lede": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T08:36:24Z",
+    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/"
+  },
+  "b": {
+    "item_id": "df0211e45e19bb26eeb88fb8d830f3b537f90bb1",
+    "lede": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T08:27:11Z",
+    "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+    "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/"
+  },
+  "score": 0.629827
+}

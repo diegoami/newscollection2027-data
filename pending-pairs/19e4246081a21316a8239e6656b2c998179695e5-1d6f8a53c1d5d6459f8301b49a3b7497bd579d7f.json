@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
+    "lede": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being \u201cbroadly exploited\u201d across the internet.",
+    "outlet": "wired",
+    "published": "2026-10-22T02:24:17Z",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+  },
+  "b": {
+    "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
+    "lede": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
+    "outlet": "tomshardware",
+    "published": "2026-10-22T10:30:00Z",
+    "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks"
+  },
+  "score": 0.571408
+}

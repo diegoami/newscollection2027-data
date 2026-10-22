@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0f812922fb34579df9f51a12bac586ee9e76983c",
+    "lede": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T11:41:48Z",
+    "title": "GitLab warns of new max severity code execution vulnerability",
+    "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/"
+  },
+  "b": {
+    "item_id": "74ff0a30f9fe582b5b178becc9a122847cb91ed4",
+    "lede": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-18T14:23:16Z",
+    "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+  },
+  "score": 0.611535
+}

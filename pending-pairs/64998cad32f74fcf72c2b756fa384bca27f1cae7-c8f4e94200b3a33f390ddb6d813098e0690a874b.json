@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "64998cad32f74fcf72c2b756fa384bca27f1cae7",
+    "lede": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+    "outlet": "techcrunch",
+    "published": "2026-10-22T14:03:00Z",
+    "title": "Developer platform Railway urges \u2018all users\u2019 to revoke secret keys after cyberattack",
+    "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/"
+  },
+  "b": {
+    "item_id": "c8f4e94200b3a33f390ddb6d813098e0690a874b",
+    "lede": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T17:27:15Z",
+    "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/"
+  },
+  "score": 0.57345
+}

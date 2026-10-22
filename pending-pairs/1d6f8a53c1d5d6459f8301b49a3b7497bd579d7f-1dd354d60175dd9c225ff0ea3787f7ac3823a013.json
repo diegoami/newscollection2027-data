@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
+    "lede": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes.",
+    "outlet": "tomshardware",
+    "published": "2026-10-22T10:30:00Z",
+    "title": "OpenAI says ChatGPT Sol helped uncover critical PHP flaws that could affect 70% of websites",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/openai-says-gpt-5-6-sol-helped-uncover-critical-php-flaws-that-could-affect-70-percent-of-websites-ai-assisted-researchers-turned-two-year-old-bug-that-stumped-human-developers-into-working-exploits-in-two-weeks"
+  },
+  "b": {
+    "item_id": "1dd354d60175dd9c225ff0ea3787f7ac3823a013",
+    "lede": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "outlet": "wired",
+    "published": "2026-10-21T14:26:19Z",
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+  },
+  "score": 0.662168
+}

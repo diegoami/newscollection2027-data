@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "633b64365941d14caf1d1e581e630d17874a75d8",
+    "lede": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-22T13:00:00Z",
+    "title": "1Password lets AI agents use your passwords without seeing them",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+  },
+  "b": {
+    "item_id": "d7e9ab232a68b4c3f420555c148cd05baa7a39a6",
+    "lede": "If you're willing to let AI book or buy things on your behalf, 1Password just made that easier.",
+    "outlet": "engadget",
+    "published": "2026-10-22T13:00:00Z",
+    "title": "1Password will let you hand your data security over to your preferred AI agent",
+    "url": "https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/"
+  },
+  "score": 0.774973
+}

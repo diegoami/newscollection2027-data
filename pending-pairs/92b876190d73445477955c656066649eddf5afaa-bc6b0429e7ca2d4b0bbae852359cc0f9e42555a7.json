@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "92b876190d73445477955c656066649eddf5afaa",
+    "lede": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T14:02:12Z",
+    "title": "Machine speed attacks require machine speed detection and response",
+    "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/"
+  },
+  "b": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "score": 0.68678
+}

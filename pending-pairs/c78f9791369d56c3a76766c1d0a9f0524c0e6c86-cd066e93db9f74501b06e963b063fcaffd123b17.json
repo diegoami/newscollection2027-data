@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
+    "lede": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T13:09:12Z",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.582712
+}
