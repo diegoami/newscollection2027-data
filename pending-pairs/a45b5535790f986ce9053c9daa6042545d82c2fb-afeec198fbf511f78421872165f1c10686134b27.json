@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a45b5535790f986ce9053c9daa6042545d82c2fb",
+    "lede": "Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.",
+    "outlet": "engadget",
+    "published": "2026-10-20T20:00:43Z",
+    "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+    "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/"
+  },
+  "b": {
+    "item_id": "afeec198fbf511f78421872165f1c10686134b27",
+    "lede": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-22T20:24:04Z",
+    "title": "Meta turns Muse sharing back on",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
+  },
+  "score": 0.612547
+}

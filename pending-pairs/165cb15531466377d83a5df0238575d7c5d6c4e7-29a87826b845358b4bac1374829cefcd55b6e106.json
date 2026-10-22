@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7",
+    "lede": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+    "outlet": "arstechnica",
+    "published": "2026-10-20T20:07:58Z",
+    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
+  },
+  "b": {
+    "item_id": "29a87826b845358b4bac1374829cefcd55b6e106",
+    "lede": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-22T20:32:05Z",
+    "title": "Meta\u2019s AI could still scrape news sites, legal experts say",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+  },
+  "score": 0.58657
+}

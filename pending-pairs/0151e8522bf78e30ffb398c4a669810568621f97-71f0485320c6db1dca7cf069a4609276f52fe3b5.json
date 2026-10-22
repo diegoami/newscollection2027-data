@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0151e8522bf78e30ffb398c4a669810568621f97",
+    "lede": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T19:12:51Z",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+  },
+  "b": {
+    "item_id": "71f0485320c6db1dca7cf069a4609276f52fe3b5",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T18:34:42Z",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+  },
+  "score": 0.571525
+}

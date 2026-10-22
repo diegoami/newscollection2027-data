@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "b": {
+    "item_id": "f2b6d976076c898250381e1a8824bbd590e5d545",
+    "lede": "\u201cAdversaries are clearly spending time (and tokens) on this bug,\u201d researcher says.",
+    "outlet": "theregister",
+    "published": "2026-10-22T20:37:52Z",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+  },
+  "score": 0.580748
+}

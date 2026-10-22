@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0151e8522bf78e30ffb398c4a669810568621f97",
+    "lede": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T19:12:51Z",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+  },
+  "b": {
+    "item_id": "ff25b976bdfa1d9ff1dad11eb92adf087c5f17bc",
+    "lede": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T19:40:58Z",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+  },
+  "score": 0.672201
+}

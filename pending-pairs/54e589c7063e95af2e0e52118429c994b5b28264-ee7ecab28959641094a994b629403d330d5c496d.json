@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "54e589c7063e95af2e0e52118429c994b5b28264",
+    "lede": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T13:51:00Z",
+    "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+    "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/"
+  },
+  "b": {
+    "item_id": "ee7ecab28959641094a994b629403d330d5c496d",
+    "lede": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "outlet": "techcrunch",
+    "published": "2026-10-22T19:07:09Z",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+  },
+  "score": 0.614806
+}

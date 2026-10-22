@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0151e8522bf78e30ffb398c4a669810568621f97",
+    "lede": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T19:12:51Z",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+  },
+  "b": {
+    "item_id": "3371acd3dcb3c1699d1142a0dff1e5802218d320",
+    "lede": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T20:31:48Z",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
+  },
+  "score": 0.636867
+}

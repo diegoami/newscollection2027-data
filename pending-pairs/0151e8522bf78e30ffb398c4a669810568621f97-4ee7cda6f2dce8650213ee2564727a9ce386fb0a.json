@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0151e8522bf78e30ffb398c4a669810568621f97",
+    "lede": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T19:12:51Z",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+  },
+  "b": {
+    "item_id": "4ee7cda6f2dce8650213ee2564727a9ce386fb0a",
+    "lede": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T11:31:22Z",
+    "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+    "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/"
+  },
+  "score": 0.607631
+}
