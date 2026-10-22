@@ -1,0 +1,89 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "af06f2feb7abec764500248d79743e7157f8538f",
+            "outlet": "bbc-technology",
+            "quote": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit"
+          },
+          {
+            "item_id": "b9aeb77ac64c2e483ed6eb32d6f426dfa96c1b83",
+            "outlet": "engadget",
+            "quote": "Judge tosses sexual abuse lawsuit from Sam Altman's sister"
+          },
+          {
+            "item_id": "6559d9cb2b558fefb9eb0a9fe56a5e9da670c1c2",
+            "outlet": "theverge",
+            "quote": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood."
+          }
+        ],
+        "statement": "A judge dismissed the sexual abuse lawsuit Ann Altman filed against her brother, OpenAI CEO Sam Altman."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "af06f2feb7abec764500248d79743e7157f8538f",
+            "outlet": "bbc-technology",
+            "quote": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+          },
+          {
+            "item_id": "6559d9cb2b558fefb9eb0a9fe56a5e9da670c1c2",
+            "outlet": "theverge",
+            "quote": "the judge wrote that over the last year, Ann had failed to appear for an independent medical examination or"
+          }
+        ],
+        "statement": "The lawsuit was dismissed after Ann Altman failed to attend a court-ordered independent medical examination."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "6559d9cb2b558fefb9eb0a9fe56a5e9da670c1c2",
+            "outlet": "theverge",
+            "quote": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood."
+          }
+        ],
+        "statement": "The case was dismissed by US District Judge Zachary Bluestone."
+      }
+    ],
+    "cluster_id": "2026-10-20-9d52e6",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Engadget spells the plaintiff's name 'Anne Altman,' while the BBC and The Verge spell it 'Ann Altman.'",
+        "kind": "attribution",
+        "quotes": [
+          {
+            "item_id": "b9aeb77ac64c2e483ed6eb32d6f426dfa96c1b83",
+            "outlet": "engadget",
+            "quote": "A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam."
+          },
+          {
+            "item_id": "6559d9cb2b558fefb9eb0a9fe56a5e9da670c1c2",
+            "outlet": "theverge",
+            "quote": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood."
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-21T02:45:00Z",
+    "headline": "Judge dismisses lawsuit from OpenAI CEO Sam Altman's sister",
+    "model": "claude-sonnet-5",
+    "summary": "A US judge dismissed a sexual abuse lawsuit that Sam Altman's sister had filed against the OpenAI CEO, after she failed to attend a court-ordered independent medical examination. The Verge identifies the judge as Zachary Bluestone; outlets differ on whether her name is spelled Ann or Anne Altman."
+  },
+  "cluster_id": "2026-10-20-9d52e6",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-10-22T02:15:39Z"
+}

@@ -1,0 +1,40 @@
+{
+  "anchor": "f3d006926764e286ed43a5653bff6d0514c7cc2e",
+  "id": "2026-10-21-2b75d7",
+  "items": [
+    {
+      "item_id": "f3d006926764e286ed43a5653bff6d0514c7cc2e",
+      "lede": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+      "outlet": "engadget",
+      "published": "2026-10-21T10:53:21Z",
+      "title": "OpenAI's agents disabled their own safety monitoring systems",
+      "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/"
+    },
+    {
+      "item_id": "c55b4c3c8ca25718079f683ea100ea28a436610a",
+      "lede": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-21T13:57:43Z",
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+    },
+    {
+      "item_id": "288893f636793d08fd7bcc5e9ab0d784d1b07a38",
+      "lede": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T16:26:53Z",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/"
+    },
+    {
+      "item_id": "da412802b058b0f5241cf2df8e2d1e23a1bc6909",
+      "lede": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+      "outlet": "zdnet",
+      "published": "2026-10-21T18:15:19Z",
+      "title": "OpenAI\u2019s most powerful AI models turned off safety monitoring \u2013 then lied about it",
+      "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

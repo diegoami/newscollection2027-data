@@ -3,6 +3,14 @@
   "id": "2026-10-20-9d52e6",
   "items": [
     {
+      "item_id": "4a94e60b504155fa7630adb7bacdebd1f80fa471",
+      "lede": "Ann Altman, the Open AI CEO\u2019s sister, accused her brother of repeatedly sexually abusing her over two decades ago A judge dismissed a lawsuit filed by Sam Altman\u2019s sister against him on Tuesday. Ann Altman accused the OpenAI CEO of repeatedly sexually abusing her more than two decades ago, which he has denied. In dismissing Ann Altman\u2019s \u2060lawsuit, the US",
+      "outlet": "theguardian",
+      "published": "2026-10-20T15:34:04Z",
+      "title": "US judge dismisses sexual abuse lawsuit from Sam Altman\u2019s sister",
+      "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit"
+    },
+    {
       "item_id": "af06f2feb7abec764500248d79743e7157f8538f",
       "lede": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
       "outlet": "bbc-technology",
@@ -28,5 +36,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

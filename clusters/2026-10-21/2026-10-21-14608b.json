@@ -1,0 +1,24 @@
+{
+  "anchor": "5765f068d39ac41c03c1de883a150bc152509cb8",
+  "id": "2026-10-21-14608b",
+  "items": [
+    {
+      "item_id": "5765f068d39ac41c03c1de883a150bc152509cb8",
+      "lede": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-21T14:00:00Z",
+      "title": "Blink brings 4K to its low-cost security camera lineup",
+      "url": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch"
+    },
+    {
+      "item_id": "82f2f30c73ef570210a33d5ae1d19c18097e67f8",
+      "lede": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
+      "outlet": "zdnet",
+      "published": "2026-10-21T14:01:31Z",
+      "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+      "url": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

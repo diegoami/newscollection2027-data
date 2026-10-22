@@ -1,0 +1,88 @@
+{
+  "anchor": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
+  "id": "2026-10-20-c0da64",
+  "items": [
+    {
+      "item_id": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
+      "lede": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-20T20:56:43Z",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+    },
+    {
+      "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+      "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "outlet": "arstechnica",
+      "published": "2026-10-21T02:12:18Z",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+    },
+    {
+      "item_id": "7be3aef1c5db099ec2b112bfa4db08d4c7cae69f",
+      "lede": "The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.",
+      "outlet": "engadget",
+      "published": "2026-10-21T11:02:54Z",
+      "title": "Two dangerous internet security issues are putting site admins on edge",
+      "url": "https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/"
+    },
+    {
+      "item_id": "82167f895ff5278b720360262394508df69a46d7",
+      "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-21T11:49:17Z",
+      "title": "A critical PHP vulnerability may take websites down today",
+      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+    },
+    {
+      "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+      "lede": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T14:07:05Z",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+    },
+    {
+      "item_id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+      "lede": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-21T14:09:28Z",
+      "title": "Websites taken down across Europe ahead of critical cyber-security update",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o"
+    },
+    {
+      "item_id": "1dd354d60175dd9c225ff0ea3787f7ac3823a013",
+      "lede": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+      "outlet": "wired",
+      "published": "2026-10-21T14:26:19Z",
+      "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/"
+    },
+    {
+      "item_id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
+      "lede": "Websites down as precaution as exploits have already been published",
+      "outlet": "theregister",
+      "published": "2026-10-21T15:08:51Z",
+      "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+      "url": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519"
+    },
+    {
+      "item_id": "0efdcaa8b19e54982c82f84c7710c4a29df20f48",
+      "lede": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-21T20:36:56Z",
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"
+    },
+    {
+      "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+      "lede": "All websites using PHP should update to the latest security patch.",
+      "outlet": "engadget",
+      "published": "2026-10-21T20:56:47Z",
+      "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+      "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

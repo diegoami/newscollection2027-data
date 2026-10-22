@@ -1,0 +1,24 @@
+{
+  "anchor": "f969c08c1200afa6c714b16137e4dcb28ed51c33",
+  "id": "2026-10-20-19aad6",
+  "items": [
+    {
+      "item_id": "f969c08c1200afa6c714b16137e4dcb28ed51c33",
+      "lede": "Let they who are without sin throw a stone and miss the greenhouse entirely",
+      "outlet": "theregister",
+      "published": "2026-10-20T11:30:00Z",
+      "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
+      "url": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063"
+    },
+    {
+      "item_id": "73d154fe3b9bf7f95b23c90d2f034f194009e4af",
+      "lede": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T10:14:53Z",
+      "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

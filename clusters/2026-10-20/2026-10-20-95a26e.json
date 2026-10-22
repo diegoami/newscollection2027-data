@@ -1,0 +1,24 @@
+{
+  "anchor": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2",
+  "id": "2026-10-20-95a26e",
+  "items": [
+    {
+      "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2",
+      "lede": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service",
+      "outlet": "theregister",
+      "published": "2026-10-20T22:57:44Z",
+      "title": "Indian certification authority eMudhra\u2019s private keys compromised \u2013 one of them was the number \u20184\u2019",
+      "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
+    },
+    {
+      "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f",
+      "lede": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T00:46:42Z",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

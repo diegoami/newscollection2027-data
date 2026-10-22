@@ -1,0 +1,24 @@
+{
+  "anchor": "de7b0df69eea7ab9f7f7b0697434a77ab4aab58a",
+  "id": "2026-10-19-50acfd",
+  "items": [
+    {
+      "item_id": "de7b0df69eea7ab9f7f7b0697434a77ab4aab58a",
+      "lede": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "outlet": "arstechnica",
+      "published": "2026-10-19T19:39:19Z",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
+    },
+    {
+      "item_id": "71f0485320c6db1dca7cf069a4609276f52fe3b5",
+      "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T18:34:42Z",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

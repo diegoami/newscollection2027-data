@@ -1,0 +1,32 @@
+{
+  "anchor": "1e486f4799d25f6db165db7c1db7ef8673c5267b",
+  "id": "2026-10-21-f6e57d",
+  "items": [
+    {
+      "item_id": "1e486f4799d25f6db165db7c1db7ef8673c5267b",
+      "lede": "Jensen Huang's Nvidia GTC keynote speech in Berlin was disrupted by a Greenpeace protest on Wednesday.",
+      "outlet": "tomshardware",
+      "published": "2026-10-21T09:57:06Z",
+      "title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones",
+      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-nvidia-gtc-keynote-disrupted-by-greenpeace-protest-over-chips-in-russian-drones-what-are-you-doing-about-that-heckler-demands-before-being-thrown-out"
+    },
+    {
+      "item_id": "3d7ad7a9f222fde896028494db639ae2386565f0",
+      "lede": "Containerized datacenters, androids, and telecoms all feature in Berlin keynote interrupted by environmental protesters",
+      "outlet": "theregister",
+      "published": "2026-10-21T15:00:00Z",
+      "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472"
+    },
+    {
+      "item_id": "a6d54c880e97ddcf5de87b32e5a75c38ec62357b",
+      "lede": "At Nvidia\u2019s GTC in Berlin, Huang unveiled the company\u2019s new plug-in data center\u2014the DSX Pod\u2014as the key to unlocking Europe\u2019s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "outlet": "wired",
+      "published": "2026-10-21T15:02:15Z",
+      "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

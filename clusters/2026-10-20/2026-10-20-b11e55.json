@@ -1,0 +1,32 @@
+{
+  "anchor": "6d10231109923b5d88887a1b666465506e62bf11",
+  "id": "2026-10-20-b11e55",
+  "items": [
+    {
+      "item_id": "6d10231109923b5d88887a1b666465506e62bf11",
+      "lede": "Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-20T17:00:00Z",
+      "title": "Chrome will now show a warning before you visit \u2018suspicious\u2019 sites",
+      "url": "https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning"
+    },
+    {
+      "item_id": "43c55ecea3bfa62ed189a2d8842981a8477d41c6",
+      "lede": "Google\u2019s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.",
+      "outlet": "zdnet",
+      "published": "2026-10-21T16:43:12Z",
+      "title": "Chrome warns you about suspicious websites now \u2013 how to turn on Google\u2019s new scam protection",
+      "url": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/"
+    },
+    {
+      "item_id": "832124389031586a740a37aedca82fe041efc071",
+      "lede": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-21T22:16:26Z",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

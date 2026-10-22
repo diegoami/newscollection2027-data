@@ -1,0 +1,40 @@
+{
+  "anchor": "5d41f3374c717eac8f8e51870c303f2cd4d6bdab",
+  "id": "2026-10-21-98e276",
+  "items": [
+    {
+      "item_id": "5d41f3374c717eac8f8e51870c303f2cd4d6bdab",
+      "lede": "Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy, which starts with reservations booked on or after November 20th, says hosts can't ask guests to \"complete tasks that require significant effort or [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-21T19:54:00Z",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update"
+    },
+    {
+      "item_id": "486d0ae198c82d2e6e2aa1b0aedb6252b461cfb2",
+      "lede": "Some hosts are threatening to strike, while others are plotting ways around Airbnb\u2019s new restrictions. Guests, meanwhile, are celebrating.",
+      "outlet": "wired",
+      "published": "2026-10-21T21:57:22Z",
+      "title": "Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores",
+      "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+    },
+    {
+      "item_id": "537577c68fcbda3cae73c8fec9c5e45fdd454e33",
+      "lede": "Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.",
+      "outlet": "engadget",
+      "published": "2026-10-21T22:04:32Z",
+      "title": "Airbnb bans hosts from making you do the dishes",
+      "url": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/"
+    },
+    {
+      "item_id": "0b29e87ee50a881748544d539bcd102675cadfc2",
+      "lede": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "outlet": "techcrunch",
+      "published": "2026-10-21T22:16:05Z",
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

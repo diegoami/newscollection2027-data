@@ -17,8 +17,16 @@
       "published": "2026-10-20T17:11:26Z",
       "title": "Spotify is dancing around its AI 'slop and spam' problem",
       "url": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/"
+    },
+    {
+      "item_id": "d0766c037e0874d79ce10054a7f8eaa44d5db6ae",
+      "lede": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won\u2019t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading...",
+      "outlet": "theguardian",
+      "published": "2026-10-21T13:22:51Z",
+      "title": "As fans reject AI-generated music, even boosters are drawing the line",
+      "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
