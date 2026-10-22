@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2",
+    "lede": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service",
+    "outlet": "theregister",
+    "published": "2026-10-20T22:57:44Z",
+    "title": "Indian certification authority eMudhra\u2019s private keys compromised \u2013 one of them was the number \u20184\u2019",
+    "url": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
+  },
+  "b": {
+    "item_id": "659ed8527f5282facdae3a2c53aba302b43e513c",
+    "lede": "Says it passed audits and made just a minor mystery error",
+    "outlet": "theregister",
+    "published": "2026-10-22T06:38:14Z",
+    "title": "Certification authority eMudhra defends its laughably weak private keys",
+    "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
+  },
+  "score": 0.588073
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
+    "lede": "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web. Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily as",
+    "outlet": "theguardian",
+    "published": "2026-10-22T00:39:15Z",
+    "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+    "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world"
+  },
+  "b": {
+    "item_id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+    "lede": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-21T14:09:28Z",
+    "title": "Websites taken down across Europe ahead of critical cyber-security update",
+    "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o"
+  },
+  "score": 0.606255
+}

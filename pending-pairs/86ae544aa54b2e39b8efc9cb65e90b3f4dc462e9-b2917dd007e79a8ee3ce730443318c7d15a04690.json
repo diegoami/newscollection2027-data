@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "86ae544aa54b2e39b8efc9cb65e90b3f4dc462e9",
+    "lede": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T06:58:38Z",
+    "title": "UK working to identify exposure after global cyber-security warning",
+    "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o"
+  },
+  "b": {
+    "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
+    "lede": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T06:24:59Z",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
+  },
+  "score": 0.6111
+}

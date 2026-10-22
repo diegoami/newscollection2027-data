@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "659ed8527f5282facdae3a2c53aba302b43e513c",
+    "lede": "Says it passed audits and made just a minor mystery error",
+    "outlet": "theregister",
+    "published": "2026-10-22T06:38:14Z",
+    "title": "Certification authority eMudhra defends its laughably weak private keys",
+    "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
+  },
+  "b": {
+    "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f",
+    "lede": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T00:46:42Z",
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+    "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/"
+  },
+  "score": 0.581379
+}

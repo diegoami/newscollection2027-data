@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0efdcaa8b19e54982c82f84c7710c4a29df20f48",
+    "lede": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T20:36:56Z",
+    "title": "PHP: The three letters that shut down sites all over the internet today",
+    "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"
+  },
+  "b": {
+    "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
+    "lede": "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sites Websites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web. Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily as",
+    "outlet": "theguardian",
+    "published": "2026-10-22T00:39:15Z",
+    "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+    "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world"
+  },
+  "score": 0.577582
+}
