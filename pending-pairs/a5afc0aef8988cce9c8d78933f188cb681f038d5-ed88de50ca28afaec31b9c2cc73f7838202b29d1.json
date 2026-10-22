@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+    "lede": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:07:05Z",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.601987
+}

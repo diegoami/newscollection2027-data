@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93c844a35d415e95f3220c778745f7371e71a522",
+    "lede": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-22T16:47:17Z",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+  },
+  "b": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "score": 0.577961
+}

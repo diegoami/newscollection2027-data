@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9e7ff52c6deb0aa7d4959d42f72c177137179324",
+    "lede": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T19:03:28Z",
+    "title": "The internet is having a very bad cybersecurity day",
+    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.680028
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "5d4f96d6acc675d55ed0ac3bc7524299065af4e8",
+    "lede": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T17:18:22Z",
+    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/"
+  },
+  "score": 0.583365
+}

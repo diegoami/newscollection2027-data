@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18ac8acf35383b2647bde9f9f81c880005715349",
+    "lede": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here\u2019s what\u2019s new for mousing.",
+    "outlet": "zdnet",
+    "published": "2026-10-22T15:17:56Z",
+    "title": "The latest PowerToys gives your mouse 2 new tricks for free \u2013 how to use them",
+    "url": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/"
+  },
+  "b": {
+    "item_id": "ba8deb36fe9d954ac1b5d9e63af53ac436cfe403",
+    "lede": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T12:20:34Z",
+    "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/"
+  },
+  "score": 0.610368
+}

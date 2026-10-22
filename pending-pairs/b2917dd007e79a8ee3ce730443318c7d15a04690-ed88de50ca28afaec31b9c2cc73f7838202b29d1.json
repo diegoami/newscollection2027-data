@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
+    "lede": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T06:24:59Z",
+    "title": "What is PHP and why did it spark a global cyber-security scramble?",
+    "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.627156
+}

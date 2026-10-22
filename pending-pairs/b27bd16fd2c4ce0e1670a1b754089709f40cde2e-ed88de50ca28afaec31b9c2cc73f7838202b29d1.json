@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+    "lede": "All websites using PHP should update to the latest security patch.",
+    "outlet": "engadget",
+    "published": "2026-10-21T20:56:47Z",
+    "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+    "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.656654
+}

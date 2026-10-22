@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
+    "lede": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns globally ? Websites around the world have been hit by millions of attempts to exploit",
+    "outlet": "theguardian",
+    "published": "2026-10-22T16:42:54Z",
+    "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+  },
+  "b": {
+    "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+    "lede": "All websites using PHP should update to the latest security patch.",
+    "outlet": "engadget",
+    "published": "2026-10-21T20:56:47Z",
+    "title": "Government websites in the EU and Canada taken offline over PHP vulnerability",
+    "url": "https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/"
+  },
+  "score": 0.715963
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59b0e474cfa72377e1ff4d0f7b24389f1285d037",
+    "lede": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-19T13:49:24Z",
+    "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.620547
+}
