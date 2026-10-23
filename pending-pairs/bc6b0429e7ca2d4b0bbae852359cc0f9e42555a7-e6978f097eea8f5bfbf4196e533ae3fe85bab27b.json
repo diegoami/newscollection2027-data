@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "b": {
+    "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+    "lede": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019 Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. \u201cI no longer think we\u2019re going to be",
+    "outlet": "theguardian",
+    "published": "2026-10-23T18:48:48Z",
+    "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
+  },
+  "score": 0.578053
+}

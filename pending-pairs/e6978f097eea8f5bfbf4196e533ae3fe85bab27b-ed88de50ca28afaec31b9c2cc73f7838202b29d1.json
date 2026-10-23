@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+    "lede": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019 Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. \u201cI no longer think we\u2019re going to be",
+    "outlet": "theguardian",
+    "published": "2026-10-23T18:48:48Z",
+    "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.606266
+}

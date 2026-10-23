@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "760735bdaacd1366720268cfacd56e872be209bd",
+    "lede": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+    "outlet": "engadget",
+    "published": "2026-10-23T22:37:02Z",
+    "title": "OpenAI says it's cutting off internet access for frontier model training",
+    "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/"
+  },
+  "b": {
+    "item_id": "f9113fa394af665d9a884ec84e1384cce3233098",
+    "lede": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T21:11:07Z",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  "score": 0.731706
+}

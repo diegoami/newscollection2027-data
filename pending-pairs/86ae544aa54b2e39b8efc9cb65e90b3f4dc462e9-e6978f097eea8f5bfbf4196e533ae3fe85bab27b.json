@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "86ae544aa54b2e39b8efc9cb65e90b3f4dc462e9",
+    "lede": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T06:58:38Z",
+    "title": "UK working to identify exposure after global cyber-security warning",
+    "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o"
+  },
+  "b": {
+    "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+    "lede": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019 Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. \u201cI no longer think we\u2019re going to be",
+    "outlet": "theguardian",
+    "published": "2026-10-23T18:48:48Z",
+    "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
+  },
+  "score": 0.632078
+}

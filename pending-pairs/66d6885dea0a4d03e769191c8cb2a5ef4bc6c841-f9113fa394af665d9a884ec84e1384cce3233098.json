@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
+    "lede": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T17:59:12Z",
+    "title": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+  },
+  "b": {
+    "item_id": "f9113fa394af665d9a884ec84e1384cce3233098",
+    "lede": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T21:11:07Z",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  "score": 0.597709
+}

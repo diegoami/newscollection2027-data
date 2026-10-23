@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
+    "lede": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-22T13:09:12Z",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+  },
+  "b": {
+    "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+    "lede": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019 Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. \u201cI no longer think we\u2019re going to be",
+    "outlet": "theguardian",
+    "published": "2026-10-23T18:48:48Z",
+    "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
+  },
+  "score": 0.607753
+}
