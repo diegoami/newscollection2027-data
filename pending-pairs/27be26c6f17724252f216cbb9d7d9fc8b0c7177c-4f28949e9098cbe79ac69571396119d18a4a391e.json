@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27be26c6f17724252f216cbb9d7d9fc8b0c7177c",
+    "lede": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T17:05:07Z",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/"
+  },
+  "b": {
+    "item_id": "4f28949e9098cbe79ac69571396119d18a4a391e",
+    "lede": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-20T12:16:32Z",
+    "title": "Windows Server 2025 gets support for quick machine recovery",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
+  },
+  "score": 0.70749
+}

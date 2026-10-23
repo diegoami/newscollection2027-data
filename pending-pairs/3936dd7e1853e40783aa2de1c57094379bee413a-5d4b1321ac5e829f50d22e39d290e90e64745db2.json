@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
+    "lede": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+    "outlet": "zdnet",
+    "published": "2026-10-23T15:09:47Z",
+    "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
+    "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/"
+  },
+  "b": {
+    "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
+    "lede": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T15:38:05Z",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+  },
+  "score": 0.661497
+}

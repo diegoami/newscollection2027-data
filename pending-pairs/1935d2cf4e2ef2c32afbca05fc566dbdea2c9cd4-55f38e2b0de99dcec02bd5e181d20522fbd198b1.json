@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1935d2cf4e2ef2c32afbca05fc566dbdea2c9cd4",
+    "lede": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+    "outlet": "techcrunch",
+    "published": "2026-10-20T20:00:00Z",
+    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+    "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+  },
+  "b": {
+    "item_id": "55f38e2b0de99dcec02bd5e181d20522fbd198b1",
+    "lede": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T16:52:55Z",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+  },
+  "score": 0.680039
+}

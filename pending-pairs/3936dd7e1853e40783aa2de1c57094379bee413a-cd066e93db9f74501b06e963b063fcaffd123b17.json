@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
+    "lede": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+    "outlet": "zdnet",
+    "published": "2026-10-23T15:09:47Z",
+    "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
+    "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/"
+  },
+  "b": {
+    "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
+    "lede": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "outlet": "arstechnica",
+    "published": "2026-10-21T02:12:18Z",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  },
+  "score": 0.654882
+}

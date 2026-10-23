@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
+    "lede": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T15:38:05Z",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+  },
+  "b": {
+    "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+    "lede": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:07:05Z",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+  },
+  "score": 0.629971
+}

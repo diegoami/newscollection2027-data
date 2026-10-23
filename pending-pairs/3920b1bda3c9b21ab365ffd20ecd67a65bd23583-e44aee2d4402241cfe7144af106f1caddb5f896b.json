@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3920b1bda3c9b21ab365ffd20ecd67a65bd23583",
+    "lede": "Intel is concerned that the sweeping ban on foreign-made robots means that it could not update or maintain its fleet of AGVs.",
+    "outlet": "tomshardware",
+    "published": "2026-10-20T11:45:01Z",
+    "title": "Intel asks FCC for waiver to buy foreign robots",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban"
+  },
+  "b": {
+    "item_id": "e44aee2d4402241cfe7144af106f1caddb5f896b",
+    "lede": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+    "outlet": "arstechnica",
+    "published": "2026-10-23T17:18:31Z",
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+  },
+  "score": 0.722108
+}

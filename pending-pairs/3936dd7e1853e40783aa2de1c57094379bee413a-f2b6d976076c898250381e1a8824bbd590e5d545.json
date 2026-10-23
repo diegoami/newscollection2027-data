@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
+    "lede": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+    "outlet": "zdnet",
+    "published": "2026-10-23T15:09:47Z",
+    "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
+    "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/"
+  },
+  "b": {
+    "item_id": "f2b6d976076c898250381e1a8824bbd590e5d545",
+    "lede": "\u201cAdversaries are clearly spending time (and tokens) on this bug,\u201d researcher says.",
+    "outlet": "theregister",
+    "published": "2026-10-22T20:37:52Z",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+  },
+  "score": 0.576801
+}

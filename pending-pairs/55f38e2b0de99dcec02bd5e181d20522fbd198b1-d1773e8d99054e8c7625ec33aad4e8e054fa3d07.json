@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "55f38e2b0de99dcec02bd5e181d20522fbd198b1",
+    "lede": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T16:52:55Z",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+  },
+  "b": {
+    "item_id": "d1773e8d99054e8c7625ec33aad4e8e054fa3d07",
+    "lede": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+    "outlet": "zdnet",
+    "published": "2026-10-20T20:00:00Z",
+    "title": "Gemini on Android Auto can access my photos, emails, and calendar now \u2013 why I\u2019m OK with that (mostly)",
+    "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/"
+  },
+  "score": 0.661964
+}
