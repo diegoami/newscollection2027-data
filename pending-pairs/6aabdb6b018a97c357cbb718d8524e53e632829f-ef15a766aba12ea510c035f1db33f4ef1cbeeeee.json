@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6aabdb6b018a97c357cbb718d8524e53e632829f",
+    "lede": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+    "outlet": "tomshardware",
+    "published": "2026-10-23T12:15:00Z",
+    "title": "FCC issues first bans under new chip-level rule",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm"
+  },
+  "b": {
+    "item_id": "ef15a766aba12ea510c035f1db33f4ef1cbeeeee",
+    "lede": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-22T20:23:48Z",
+    "title": "The FCC is beginning to block gadgets with \u2018foreign surveillance chips\u2019",
+    "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole"
+  },
+  "score": 0.589748
+}

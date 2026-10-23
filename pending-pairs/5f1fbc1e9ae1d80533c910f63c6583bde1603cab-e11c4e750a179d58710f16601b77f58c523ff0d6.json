@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5f1fbc1e9ae1d80533c910f63c6583bde1603cab",
+    "lede": "Deepseek 4.1 Flash 1017 drives cost-per-task further down still \u2014 open-weight model is fit for agentic workloads and exceedingly cheap to run",
+    "outlet": "tomshardware",
+    "published": "2026-10-23T12:00:00Z",
+    "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors"
+  },
+  "b": {
+    "item_id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
+    "lede": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-19T18:21:54Z",
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+  },
+  "score": 0.644394
+}

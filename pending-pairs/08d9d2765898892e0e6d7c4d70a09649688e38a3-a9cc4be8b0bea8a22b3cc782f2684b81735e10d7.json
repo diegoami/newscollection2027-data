@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "08d9d2765898892e0e6d7c4d70a09649688e38a3",
+    "lede": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there's no way to tell if the moves they make are legitimate or not.",
+    "outlet": "tomshardware",
+    "published": "2026-10-23T11:30:00Z",
+    "title": "US banks scramble to restrict AI agent activity",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy"
+  },
+  "b": {
+    "item_id": "a9cc4be8b0bea8a22b3cc782f2684b81735e10d7",
+    "lede": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T19:30:00Z",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+  },
+  "score": 0.57892
+}
