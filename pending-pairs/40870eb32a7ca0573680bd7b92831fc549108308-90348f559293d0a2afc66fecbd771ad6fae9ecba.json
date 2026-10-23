@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "40870eb32a7ca0573680bd7b92831fc549108308",
+    "lede": "Four projects for facilitating AI agents move under vendor-neutral governance",
+    "outlet": "theregister",
+    "published": "2026-10-23T07:29:00Z",
+    "title": "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912"
+  },
+  "b": {
+    "item_id": "90348f559293d0a2afc66fecbd771ad6fae9ecba",
+    "lede": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+    "outlet": "zdnet",
+    "published": "2026-10-21T11:30:00Z",
+    "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+    "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/"
+  },
+  "score": 0.603186
+}
