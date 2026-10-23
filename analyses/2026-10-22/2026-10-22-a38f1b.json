@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-10-22-a38f1b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Insta360 launches a cheaper wireless mic with color E Ink screens",
+  "summary": "Insta360 launched a new, less expensive wireless mic that adds expandable storage and color E Ink screens while skipping some features of its pricier Mic Pro system.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Insta360 launched a new, cheaper wireless mic.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "d4814aa3f0c5cfd48b6b7796c86313784cf52114", "quote": "Insta360 has a new wireless mic that combines some features of its existing 'pro' mics with a cheaper price."},
+        {"outlet": "theverge", "item_id": "ffe1c5aa2b52fb2156ab612e41527a645ddee0a0", "quote": "Insta360 launches a cheaper version of its wireless mics with color screens"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new mic adds expandable storage.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "d4814aa3f0c5cfd48b6b7796c86313784cf52114", "quote": "Insta360 adds expandable storage to its new e-ink wireless mics"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new mic has color screens.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ffe1c5aa2b52fb2156ab612e41527a645ddee0a0", "quote": "with color screens"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The new mic skips some features of the pricier Mic Pro system.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "ffe1c5aa2b52fb2156ab612e41527a645ddee0a0", "quote": "a cheaper alternative that skips a few features many content creators might not miss"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

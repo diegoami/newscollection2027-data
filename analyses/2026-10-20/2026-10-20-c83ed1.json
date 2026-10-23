@@ -1,1 +1,53 @@
-{"cluster_id": "2026-10-20-c83ed1", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-21T02:45:00Z", "headline": "Next Xbox could cost up to $1,800, Microsoft reportedly projects", "summary": "Microsoft is reportedly projecting a price of $1,200 to $1,800 for its next-generation Xbox, Project Helix, targeting a 2028 release, according to details from a profile with Xbox's CEO. The company is also said to be planning its own gaming handheld for release next year.", "claims": [{"id": "c1", "statement": "Microsoft reportedly projects its next-gen Xbox could cost between $1,200 and $1,800, targeting a 2028 release.", "sources": [{"outlet": "arstechnica", "item_id": "a4ac5e935470c7855c9cb4845efbb342f4796a71", "quote": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix"}, {"outlet": "engadget", "item_id": "a7f2e93165816b0cd29108fd6ed4c31bf4e499a5", "quote": "The next Xbox might cost $1,800, report says"}, {"outlet": "engadget", "item_id": "a7f2e93165816b0cd29108fd6ed4c31bf4e499a5", "quote": "Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO."}]}, {"id": "c2", "statement": "Microsoft is also reportedly planning its own gaming handheld for release next year.", "sources": [{"outlet": "arstechnica", "item_id": "a4ac5e935470c7855c9cb4845efbb342f4796a71", "quote": "Xbox maker is also apparently planning its own gaming handheld for next year."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-20-c83ed1",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:25:00Z",
+  "headline": "Reports: next-gen Xbox could cost up to $1,800 at 2028 launch",
+  "summary": "Multiple reports say Microsoft's next Xbox, due in 2028, could cost between $1,200 and $1,800. Outlets differ on whether the figure traces to a Fortune report or a profile interview with Xbox's CEO, and one report says Microsoft is also planning a gaming handheld.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Reports project Microsoft's next-gen Xbox to cost between $1,200 and $1,800 when it launches in 2028.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "a4ac5e935470c7855c9cb4845efbb342f4796a71", "quote": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix"},
+        {"outlet": "theverge", "item_id": "d4932dc2fe4f8d9983d5a753b7c00c1ab9a2ea24", "quote": "the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Verge attributes the price report to Fortune, citing Microsoft insiders.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d4932dc2fe4f8d9983d5a753b7c00c1ab9a2ea24", "quote": "Fortune dropped a bombshell report on the future of gaming this week."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Engadget attributes the price detail to a profile interview with Xbox's CEO.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "a7f2e93165816b0cd29108fd6ed4c31bf4e499a5", "quote": "according to details reported in a profile with Xbox's CEO"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Microsoft is also reportedly planning its own gaming handheld for release next year.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "a4ac5e935470c7855c9cb4845efbb342f4796a71", "quote": "Xbox maker is also apparently planning its own gaming handheld for next year."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c1"],
+      "explanation": "Outlets attribute the price report differently: the Verge credits a Fortune report citing Microsoft insiders, while Engadget attributes the detail to a profile interview with Xbox's CEO.",
+      "quotes": [
+        {"outlet": "theverge", "item_id": "d4932dc2fe4f8d9983d5a753b7c00c1ab9a2ea24", "quote": "Fortune dropped a bombshell report on the future of gaming this week."},
+        {"outlet": "engadget", "item_id": "a7f2e93165816b0cd29108fd6ed4c31bf4e499a5", "quote": "according to details reported in a profile with Xbox's CEO"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

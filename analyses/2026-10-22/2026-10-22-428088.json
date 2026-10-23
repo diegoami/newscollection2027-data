@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-22-428088",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Atari VCS software store to close in February 2027",
+  "summary": "Atari is retiring its VCS platform by shutting down the console's software store in February 2027, ending a console marked by years of delays and name changes.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Atari is shutting down the Atari VCS platform's software store in February 2027.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "ecbbc5069327a90eb1c7239e7d527c7c48a50c04", "quote": "the closure of its software store in February 2027"},
+        {"outlet": "theverge", "item_id": "729d2384799bd7239f0bd183c1c543d1335e545f", "quote": "On February 1st, 2027, the Atari VCS software store is shutting down"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The VCS is ending after years marked by delays and name changes.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "729d2384799bd7239f0bd183c1c543d1335e545f", "quote": "a decade long saga of delays, name changes"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Atari VCS runs on a Linux-based AMD APU.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "ecbbc5069327a90eb1c7239e7d527c7c48a50c04", "quote": "Linux-based AMD APU-powered machine"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,1 +1,93 @@
-{"cluster_id": "2026-10-21-2275e1", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-22T03:30:00Z", "headline": "EA shuts down BioWare, cancels next Mass Effect", "summary": "EA is shutting down BioWare, the studio behind Mass Effect, Dragon Age and Knights of the Old Republic, and has canceled the next Mass Effect game amid layoffs of 400 staff.", "claims": [{"id": "c1", "statement": "EA is shutting down BioWare, the studio behind Mass Effect, Dragon Age and Knights of the Old Republic.", "sources": [{"outlet": "theverge", "item_id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5", "quote": "EA is shutting down BioWare"}, {"outlet": "theverge", "item_id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5", "quote": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement."}, {"outlet": "arstechnica", "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d", "quote": "RIP BioWare: EA shuts down storied RPG studio after over three decades"}]}, {"id": "c2", "statement": "EA has canceled the next Mass Effect game that was in development.", "sources": [{"outlet": "theverge", "item_id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5", "quote": "Alongside the closure, Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works, according to an announcement sent"}, {"outlet": "arstechnica", "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d", "quote": "Next Mass Effect project canceled as parent company lays off 400."}]}, {"id": "c3", "statement": "The closure is tied to parent company EA laying off 400 employees.", "sources": [{"outlet": "arstechnica", "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d", "quote": "Next Mass Effect project canceled as parent company lays off 400."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-21-2275e1",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "EA shuts down BioWare, cancels next Mass Effect game",
+  "summary": "Electronic Arts is closing BioWare, the studio behind Mass Effect and Dragon Age, after more than 30 years, canceling the next Mass Effect game that was in early development and cutting about 400 jobs. A trailer apparently depicting the canceled project later leaked online.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "EA is shutting down BioWare, the studio behind Mass Effect and Dragon Age.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5",
+          "quote": "EA is shutting down BioWare"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d",
+          "quote": "EA shuts down storied RPG studio after over three decades"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "6f56a06af939ffa2abf45275b5f3b362207c6d42",
+          "quote": "EA is closing BioWare, the studio behind Mass Effect and Dragon Age"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "EA canceled the next Mass Effect game that was in early development.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5",
+          "quote": "Electronic Arts has chosen not to continue development on the next Mass Effect game that was in the works"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d",
+          "quote": "Next Mass Effect project canceled"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "6f56a06af939ffa2abf45275b5f3b362207c6d42",
+          "quote": "deciding not to move forward with early development of the next Mass Effect"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The closure also includes BioWare's Edmonton studio.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "6f56a06af939ffa2abf45275b5f3b362207c6d42",
+          "quote": "and its Edmonton studio"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The shutdown comes with EA's parent company laying off about 400 employees.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec2684f4715d697614ae7c5b67d4ac42e3f8298d",
+          "quote": "parent company lays off 400"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "A trailer apparently depicting the canceled Mass Effect game leaked online after the shutdown.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ceb12c6f197ae28dc86df9d76d4cf5e26e1d5c42",
+          "quote": "Mass Effect 5 trailer leaks following BioWare shutdown"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "ceb12c6f197ae28dc86df9d76d4cf5e26e1d5c42",
+          "quote": "a trailer apparently representing the game was published on Reddit today"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

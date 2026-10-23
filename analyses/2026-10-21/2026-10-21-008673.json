@@ -1,1 +1,77 @@
-{"cluster_id": "2026-10-21-008673", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-22T03:45:00Z", "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case", "summary": "A New Mexico court ordered Meta to pay $25 billion in a case tied to the decade-old Cambridge Analytica scandal and a trial over its data privacy practices.", "claims": [{"id": "c1", "statement": "Meta was ordered to pay $25 billion in a case tied to the Cambridge Analytica scandal.", "sources": [{"outlet": "techcrunch", "item_id": "2521ababe3b6914c2a3d4d7be2186dde10831e2e", "quote": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal"}, {"outlet": "engadget", "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9", "quote": "Meta ordered to cough up $25 billion in New Mexico privacy case"}, {"outlet": "engadget", "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9", "quote": "The case stemmed from the nearly decade-old Cambridge Analytica scandal."}]}, {"id": "c2", "statement": "The case was decided in New Mexico.", "sources": [{"outlet": "engadget", "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9", "quote": "Meta ordered to cough up $25 billion in New Mexico privacy case"}]}, {"id": "c3", "statement": "The payout relates to a trial over Meta's data privacy practices.", "sources": [{"outlet": "techcrunch", "item_id": "2521ababe3b6914c2a3d4d7be2186dde10831e2e", "quote": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-21-008673",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "Meta ordered to pay $25bn in Cambridge Analytica privacy case",
+  "summary": "A New Mexico court ordered Meta to pay $25 billion after a jury found the company misled consumers in a case tied to the decade-old Cambridge Analytica data-privacy scandal.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta was ordered to pay $25 billion in a privacy case tied to the Cambridge Analytica scandal.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2521ababe3b6914c2a3d4d7be2186dde10831e2e",
+          "quote": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9",
+          "quote": "Meta ordered to cough up $25 billion in New Mexico privacy case"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "bc3f63f707cf56d23d140730890ea790e81b7065",
+          "quote": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The case was decided in New Mexico.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9",
+          "quote": "New Mexico privacy case"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "bc3f63f707cf56d23d140730890ea790e81b7065",
+          "quote": "A judge in New Mexico ordered Meta Platforms to pay $25bn"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The case stems from the decade-old Cambridge Analytica data-privacy scandal.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "bab647f3d89361ecdacfc7680d5d0a6274ffc1a9",
+          "quote": "The case stemmed from the nearly decade-old Cambridge Analytica scandal."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "2521ababe3b6914c2a3d4d7be2186dde10831e2e",
+          "quote": "Cambridge Analytica scandal"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "A jury found that Meta misled consumers.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "bc3f63f707cf56d23d140730890ea790e81b7065",
+          "quote": "a jury found the company had misled consumers"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

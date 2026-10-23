@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-20-ac373a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:25:00Z",
+  "headline": "Reviews praise new Nintendo Switch Sports Resort as a Wii Sports revival",
+  "summary": "Two reviews of Nintendo's new Switch Sports Resort describe it favorably as a worthy successor to Wii Sports, noting a generous mix of sport-themed games and calling Wii Sports historically Nintendo's best-selling software.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Both reviews describe the new Switch Sports Resort favorably as a return to the Wii Sports style of game.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d26628235640ac44e369fa84df8352b1ac7622f5", "quote": "Wii Sports is back on the Switch 2, and it rules"},
+        {"outlet": "theguardian", "item_id": "83b13900da634766fcb1c54a944ca8b29455d77f", "quote": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Wii Sports was historically the best-selling software Nintendo has made.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d26628235640ac44e369fa84df8352b1ac7622f5", "quote": "It's the best-selling piece of software the company has ever made"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new game offers a generous selection of sport-themed games with a holiday feel.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "83b13900da634766fcb1c54a944ca8b29455d77f", "quote": "Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

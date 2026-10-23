@@ -33,8 +33,16 @@
       "published": "2026-10-21T12:35:00Z",
       "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
       "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/"
+    },
+    {
+      "item_id": "afeec198fbf511f78421872165f1c10686134b27",
+      "lede": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-22T20:24:04Z",
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

@@ -1,0 +1,44 @@
+{
+  "cluster_id": "2026-10-22-48d9ab",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Amazon renames Kindle Unlimited to Kindle+ with AI audiobooks",
+  "summary": "Amazon rebranded Kindle Unlimited as Kindle+ (Kindle Plus), keeping unlimited access to its ebook catalog while adding a larger, AI-narrated audiobook selection.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon has renamed Kindle Unlimited to Kindle+ (also styled Kindle Plus).",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "2406dcb299163c3482a9a829295bd6e8cf988975", "quote": "Amazon’s Kindle Unlimited is now Kindle+"},
+        {"outlet": "theverge", "item_id": "16d868d4397040a8aaa06da7938e719e417a323b", "quote": "Amazon renames Kindle Unlimited to Kindle Plus"},
+        {"outlet": "engadget", "item_id": "9329b4363162df9e61e8561e04d05cc2b595b6fb", "quote": "Amazon rebrands Kindle Unlimited to Kindle+"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The rebrand includes AI-narrated audiobooks via a Virtual Voice feature.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "2406dcb299163c3482a9a829295bd6e8cf988975", "quote": "the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The service continues to offer unlimited ebooks, comics and magazines for $11.99 a month.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "16d868d4397040a8aaa06da7938e719e417a323b", "quote": "will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The service now includes a larger selection of audiobooks.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "9329b4363162df9e61e8561e04d05cc2b595b6fb", "quote": "now includes a larger selection of audiobooks"},
+        {"outlet": "theverge", "item_id": "16d868d4397040a8aaa06da7938e719e417a323b", "quote": "expands access to audiobooks"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -33,8 +33,16 @@
       "published": "2026-10-20T20:07:58Z",
       "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/"
+    },
+    {
+      "item_id": "29a87826b845358b4bac1374829cefcd55b6e106",
+      "lede": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-22T20:32:05Z",
+      "title": "Meta\u2019s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

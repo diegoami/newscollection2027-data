@@ -1,0 +1,83 @@
+{
+  "cluster_id": "2026-10-21-2853ed",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "Tesla starts Optimus production while quarterly profit falls",
+  "summary": "Tesla began early production of its Optimus humanoid robot in Fremont, California, as announced on its Q3 earnings call, even as quarterly profit fell 43% on flat revenue and rising expenses. Musk said the robot's hands, safety, reliability, durability and AI still need work.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Tesla began production of its Optimus humanoid robot.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6ec4c467ad3bd5bddd3c59d59b18f5cd51323842",
+          "quote": "Tesla starts Optimus robot production in California"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d169c474a1aa3f36864418095a00bfbe2052ef85",
+          "quote": "the company had begun early production of its humanoid robot on its high-volume line in Fremont, California"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Tesla's quarterly profit fell 43%.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6ec4c467ad3bd5bddd3c59d59b18f5cd51323842",
+          "quote": "profit falls 43%"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tesla's revenue was flat while its expenses rose sharply.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6ec4c467ad3bd5bddd3c59d59b18f5cd51323842",
+          "quote": "Tesla's revenue was flat and its expenses skyrocketed"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Musk said parts of Optimus still need work, including its hands, safety, reliability, durability and AI.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d169c474a1aa3f36864418095a00bfbe2052ef85",
+          "quote": "the robot's hands, its safety, reliability, and durability, and the artificial intelligence needed to make it a productive tool"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "TechCrunch frames Optimus's production start against a 43% profit drop, while The Verge frames the same milestone as not yet ready given unresolved hardware and safety work.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6ec4c467ad3bd5bddd3c59d59b18f5cd51323842",
+          "quote": "profit falls 43%"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d169c474a1aa3f36864418095a00bfbe2052ef85",
+          "quote": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

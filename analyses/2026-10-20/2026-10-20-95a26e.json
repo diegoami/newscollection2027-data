@@ -1,1 +1,60 @@
-{"cluster_id": "2026-10-20-95a26e", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-22T03:15:00Z", "headline": "Browsers block eMudhra certificates after weak key compromise", "summary": "Certificate authority eMudhra revoked eight intermediate certificates after researchers found their private keys were so weak they could be recovered and used to forge trusted certificates, prompting Mozilla, Google and Apple to block them.", "claims": [{"id": "c1", "statement": "Certificate authority eMudhra's private keys were compromised, letting anyone forge trusted certificates for legitimate websites.", "sources": [{"outlet": "theregister", "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2", "quote": "Massive clean-up job under way because this mess makes it possible to impersonate any website or service"}, {"outlet": "bleepingcomputer", "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f", "quote": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites."}]}, {"id": "c2", "statement": "eMudhra revoked eight compromised intermediate certificates.", "sources": [{"outlet": "bleepingcomputer", "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f", "quote": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites."}]}, {"id": "c3", "statement": "One of the compromised private keys was reportedly just the number '4'.", "sources": [{"outlet": "theregister", "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2", "quote": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’"}]}, {"id": "c4", "statement": "Mozilla, Google and Apple are blocking the compromised eMudhra certificates.", "sources": [{"outlet": "bleepingcomputer", "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f", "quote": "Mozilla, Google, Apple block compromised eMudhra CA certificates"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-10-20-95a26e",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:25:00Z",
+  "headline": "Weak eMudhra CA private keys let attackers impersonate websites, browsers respond",
+  "summary": "Researchers found eMudhra's private keys for eight CA certificates were so weak they could be recovered and used to impersonate any website; major browsers blocked the compromised certificates. eMudhra says it passed audits and calls the issue a minor error, at odds with the severity described elsewhere.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Weak private keys for eight eMudhra CA certificates could let attackers impersonate any website.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "07cfc558b16abe187f4073a0b0a53154e134945e", "quote": "Leaked private keys for eight CA certificates let any attacker impersonate any domain"},
+        {"outlet": "theregister", "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2", "quote": "makes it possible to impersonate any website or service"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Major browser makers, including Mozilla, Google and Apple, blocked the compromised eMudhra certificates.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f", "quote": "Mozilla, Google, Apple block compromised eMudhra CA certificates"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "eMudhra revoked eight compromised intermediate certificates after researchers found the private keys were easily recoverable.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7a020fdc3830831946dc20f71e2cce2e9c22464f", "quote": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "eMudhra said it passed audits and attributed the issue to a minor error.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "659ed8527f5282facdae3a2c53aba302b43e513c", "quote": "Says it passed audits and made just a minor mystery error"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "One of the compromised private keys was reportedly just the number 4.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "5a3c7b1661d3653e0d7368706c6fc25b6867bce2", "quote": "one of them was the number ‘4’"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": ["c1", "c4"],
+      "explanation": "eMudhra characterizes the key weakness as a minor error after passing audits, while other coverage describes the flaw as severe enough to let attackers impersonate any domain.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "659ed8527f5282facdae3a2c53aba302b43e513c", "quote": "Says it passed audits and made just a minor mystery error"},
+        {"outlet": "tomshardware", "item_id": "07cfc558b16abe187f4073a0b0a53154e134945e", "quote": "let any attacker impersonate any domain"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

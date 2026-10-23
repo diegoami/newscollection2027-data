@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-10-21-e02cd2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "Anthropic launches Claude Duet agent app via waitlist",
+  "summary": "Anthropic introduced Claude Duet, a new AI agent positioned against Meta's Muse and OpenAI's Dots. Access currently runs through a waitlist, open to US subscribers on Anthropic's Pro and Max plans.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic introduced a new agent product called Claude Duet.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2c06e7ecf1a0dfc6eb3810d69f649563b1321a66",
+          "quote": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6aa970c38b499724be2ca515400a49e8500dbfb6",
+          "quote": "Claude Duet app is Anthropic’s bet on agents"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Access to Claude Duet is currently through a waitlist.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2c06e7ecf1a0dfc6eb3810d69f649563b1321a66",
+          "quote": "can join a waitlist to try the company's new agent"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6aa970c38b499724be2ca515400a49e8500dbfb6",
+          "quote": "Claude Duet is available through waitlist for Pro and Max plan users"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The waitlist is open to Anthropic subscribers in the US.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2c06e7ecf1a0dfc6eb3810d69f649563b1321a66",
+          "quote": "Anthropic subscribers in the US can join a waitlist"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The waitlist is for Anthropic's Pro and Max plan users.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6aa970c38b499724be2ca515400a49e8500dbfb6",
+          "quote": "available through waitlist for Pro and Max plan users"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

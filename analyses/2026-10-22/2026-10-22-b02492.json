@@ -1,0 +1,88 @@
+{
+  "cluster_id": "2026-10-22-b02492",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "Tesla plans to start selling Cybercab robotaxis by year end",
+  "summary": "Tesla says it will begin selling its driverless, steering-wheel-less Cybercab before the end of the year and expand the rollout to more US cities, even as federal regulators review the vehicle's safety and Tesla withholds its paid-ride numbers. Reports differ on whether the buyers are individual customers or other transport companies.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Tesla plans to begin selling or rolling out its Cybercab robotaxi before the end of the year.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "78609f95fabc3911c532667eb7face97d36a2787",
+          "quote": "Tesla says it will start selling Cybercabs by end of year"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e6dedf24d970c48db6f2605e5a92942c43d38359",
+          "quote": "Tesla plans to start selling Cybercabs by the end of the year"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "01da00a78737e364ee501c9834564f7055ff25e2",
+          "quote": "to roll out the gold two-seater robotaxis to other U.S. cities this year"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Federal regulators are investigating whether the Cybercab meets vehicle safety standards.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "78609f95fabc3911c532667eb7face97d36a2787",
+          "quote": "federal regulators investigate whether the vehicle meets vehicle safety standards"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Cybercab is a gold-hued, autonomous two-seater without a steering wheel or other traditional controls.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "78609f95fabc3911c532667eb7face97d36a2787",
+          "quote": "The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Tesla has not disclosed how many paid Cybercab rides it has provided so far.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "01da00a78737e364ee501c9834564f7055ff25e2",
+          "quote": "it goes mum on the number of paid rides"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "TechCrunch describes Tesla selling the Cybercab directly to customers, while Engadget describes Tesla selling it to other transport companies rather than individual buyers.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "78609f95fabc3911c532667eb7face97d36a2787",
+          "quote": "selling its Cybercab to customers by the end of the year"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e6dedf24d970c48db6f2605e5a92942c43d38359",
+          "quote": "Tesla wants to sell Cybercabs to other transport companies before the year ends."
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

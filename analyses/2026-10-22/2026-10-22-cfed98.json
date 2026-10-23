@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-10-22-cfed98",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Canva releases its first AI image generation model",
+  "summary": "Canva released its first in-house image generation model, Canva Craft, which plans a design in two stages before generating an image and is positioned against models from OpenAI, Microsoft and Google.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Canva released its first in-house image generation model, called Canva Craft.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "afbb328c263f52ce8eb1ed296a1223513e2845a4", "quote": "Canva releases its first image generation model"},
+        {"outlet": "theverge", "item_id": "1437b0ebe886b61e82f65e5e5a08469becc78ba5", "quote": "The model, called Canva Craft"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The model uses a two-stage architecture that plans a design before generating the image.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1437b0ebe886b61e82f65e5e5a08469becc78ba5", "quote": "uses a two-stage architecture that allows it to plan a design before generating an image"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The model is being made available to all users and promises better performance at lower cost.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "afbb328c263f52ce8eb1ed296a1223513e2845a4", "quote": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The model competes directly with image models from OpenAI, Microsoft, and Google.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1437b0ebe886b61e82f65e5e5a08469becc78ba5", "quote": "competes directly with those from OpenAI, Microsoft, and Google"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

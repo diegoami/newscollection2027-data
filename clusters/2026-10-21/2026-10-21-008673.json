@@ -17,8 +17,16 @@
       "published": "2026-10-21T20:43:17Z",
       "title": "Meta ordered to cough up $25 billion in New Mexico privacy case",
       "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
+    },
+    {
+      "item_id": "bc3f63f707cf56d23d140730890ea790e81b7065",
+      "lede": "Jury had found Meta misled consumers after Trump\u2019s 2016 presidential campaign obtained user data without consent A judge in New Mexico ordered Meta Platforms to pay $25bn on \u2060Wednesday after a jury found the company had misled consumers in a case arising from allegations that a political consulting firm involved in Donald Trump \u2019s 2016 presidential campaign obtained data from",
+      "outlet": "theguardian",
+      "published": "2026-10-21T23:33:34Z",
+      "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
+      "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

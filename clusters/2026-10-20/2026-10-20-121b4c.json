@@ -1,0 +1,24 @@
+{
+  "anchor": "52f95601e1f50bb9b47adee2f71282973f92bfaa",
+  "id": "2026-10-20-121b4c",
+  "items": [
+    {
+      "item_id": "52f95601e1f50bb9b47adee2f71282973f92bfaa",
+      "lede": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-20T10:16:47Z",
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download"
+    },
+    {
+      "item_id": "f2b419b97981d8b326b6bfd9280dab6b30665e86",
+      "lede": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
+      "outlet": "wired",
+      "published": "2026-10-22T20:05:51Z",
+      "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
+      "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

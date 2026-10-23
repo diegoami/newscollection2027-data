@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-10-20-8732d0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:25:00Z",
+  "headline": "Reviewers say new Googlebook laptops have good hardware but flawed software",
+  "summary": "Reviews of Google's new Googlebook laptops, which combine ChromeOS and Android, praise the hardware but describe the software as unfinished, citing bugs and limited app support across both reviewed outlets.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The new Googlebook laptops, which combine ChromeOS and Android, have been praised for their hardware.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "1999d6793357e2dd12f312acc3721063aefbe255", "quote": "combine ChromeOS with Android"},
+        {"outlet": "theverge", "item_id": "e80d8229f3e7036f62e32c262316806178c82f89", "quote": "has great hardware."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Reviewers say the software is not ready, citing bugs and weak app support.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "1999d6793357e2dd12f312acc3721063aefbe255", "quote": "woefully underbaked"},
+        {"outlet": "theverge", "item_id": "e80d8229f3e7036f62e32c262316806178c82f89", "quote": "filled with annoying bugs and lackluster app support"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

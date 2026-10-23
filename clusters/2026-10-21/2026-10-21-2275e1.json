@@ -17,8 +17,24 @@
       "published": "2026-10-21T19:12:16Z",
       "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
       "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/"
+    },
+    {
+      "item_id": "6f56a06af939ffa2abf45275b5f3b362207c6d42",
+      "lede": "EA is closing BioWare and its Edmonton studio after deciding not to move forward with early development of the next Mass Effect.",
+      "outlet": "tomshardware",
+      "published": "2026-10-22T11:30:00Z",
+      "title": "EA is closing BioWare, the studio behind Mass Effect and Dragon Age, after more than 30 years",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/ea-is-closing-bioware-the-studio-behind-mass-effect-and-dragon-age-after-more-than-30-years-early-development-of-the-next-mass-effect-game-killed"
+    },
+    {
+      "item_id": "ceb12c6f197ae28dc86df9d76d4cf5e26e1d5c42",
+      "lede": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-22T18:14:24Z",
+      "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
+      "url": "https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

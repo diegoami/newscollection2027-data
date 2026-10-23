@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-22-61663e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "GitLab patches max-severity remote code execution flaw",
+  "summary": "GitLab released patches for a maximum-severity vulnerability in its Regular Expression Compiler that could let remote attackers run arbitrary code, affecting releases spanning 12 years. The vendor strongly recommends upgrading as soon as possible.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "GitLab released patches for a maximum-severity remote-code-execution vulnerability.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "0f812922fb34579df9f51a12bac586ee9e76983c",
+          "quote": "GitLab warns of new max severity code execution vulnerability"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "0f075004a55aa8407ce597e1af9ed3f816b84577",
+          "quote": "Max-severity GitLab bug allows remote code execution over 12 years of releases"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The flaw is in GitLab's Regular Expression Compiler and could let remote attackers run arbitrary code.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "0f812922fb34579df9f51a12bac586ee9e76983c",
+          "quote": "a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The bug affects GitLab releases spanning 12 years.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "0f075004a55aa8407ce597e1af9ed3f816b84577",
+          "quote": "over 12 years of releases"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "GitLab's vendor strongly recommends upgrading to a fixed version as soon as possible.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "0f075004a55aa8407ce597e1af9ed3f816b84577",
+          "quote": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

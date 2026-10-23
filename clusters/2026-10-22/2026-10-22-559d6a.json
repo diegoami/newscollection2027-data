@@ -1,0 +1,32 @@
+{
+  "anchor": "914a6f5b3ff68efb0610138401d09575e9c18527",
+  "id": "2026-10-22-559d6a",
+  "items": [
+    {
+      "item_id": "914a6f5b3ff68efb0610138401d09575e9c18527",
+      "lede": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+      "outlet": "techcrunch",
+      "published": "2026-10-22T15:24:32Z",
+      "title": "Spotify confirms Family Plan crackdown, but calls it a \u2018routine improvement\u2019",
+      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/"
+    },
+    {
+      "item_id": "fd185b7600c7e0137a0a5bbde1d49bb0b96f6120",
+      "lede": "Spotify is trying to make some Premium Family members prove they live at the same address.",
+      "outlet": "engadget",
+      "published": "2026-10-22T20:19:19Z",
+      "title": "Spotify's Family plan QR code could cost you Premium access",
+      "url": "https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/"
+    },
+    {
+      "item_id": "660b474c48dc071c493060641f4e1f66eea92085",
+      "lede": "Spotify co-CEO Alex Norstr\u00f6m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the \"crackdown,\" he called it a [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-22T23:02:43Z",
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

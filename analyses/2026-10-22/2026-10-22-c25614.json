@@ -1,0 +1,48 @@
+{
+  "cluster_id": "2026-10-22-c25614",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Military dog startup Warhound emerges with $200 million",
+  "summary": "Warhound emerged from stealth with $200 million in funding to genetically engineer working dogs for military and law enforcement use, equipped with body armor, though outlets differ on who founded the company.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Warhound emerged from stealth with $200 million in funding to genetically engineer working dogs.",
+      "sources": [
+        {"outlet": "wired", "item_id": "be059f72c96af761f6daa4523ecb83e2296fcdd1", "quote": "Warhound came out of stealth on Wednesday with $200 million in funding"},
+        {"outlet": "techcrunch", "item_id": "e7817df0f1c161394a1dbb1078727363f8391b1e", "quote": "Warhound raises $200M to engineer war dogs"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The dogs are intended for military and law enforcement use, equipped with body armor.",
+      "sources": [
+        {"outlet": "wired", "item_id": "be059f72c96af761f6daa4523ecb83e2296fcdd1", "quote": "advanced body armor"},
+        {"outlet": "techcrunch", "item_id": "e7817df0f1c161394a1dbb1078727363f8391b1e", "quote": "genetically engineer dogs for military and law enforcement"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Outlets differ on who founded Warhound.",
+      "sources": [
+        {"outlet": "wired", "item_id": "be059f72c96af761f6daa4523ecb83e2296fcdd1", "quote": "Palmer Luckey Made a Genetically Modified Military Dog Startup"},
+        {"outlet": "techcrunch", "item_id": "e7817df0f1c161394a1dbb1078727363f8391b1e", "quote": "the brainchild of Ben Lamm and Palmer Luckey"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c3"],
+      "explanation": "Wired's headline credits only Palmer Luckey with founding Warhound, while TechCrunch credits both Ben Lamm and Palmer Luckey.",
+      "quotes": [
+        {"outlet": "wired", "item_id": "be059f72c96af761f6daa4523ecb83e2296fcdd1", "quote": "Palmer Luckey Made a Genetically Modified Military Dog Startup"},
+        {"outlet": "techcrunch", "item_id": "e7817df0f1c161394a1dbb1078727363f8391b1e", "quote": "the brainchild of Ben Lamm and Palmer Luckey"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

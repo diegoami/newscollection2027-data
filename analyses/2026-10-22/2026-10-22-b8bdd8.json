@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-10-22-b8bdd8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "2027 BMW iX5 offers 450 miles of range, fast charging",
+  "summary": "Reviewers tested the new 2027 BMW iX5 electric SUV, both highlighting roughly 450 miles of range and fast charging, with one noting the EV's doors can close themselves.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The 2027 BMW iX5 offers about 450 miles of range on a charge.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "46437b407226013f839f0978de605a625d213552", "quote": "will do over 450 miles on a charge"},
+        {"outlet": "arstechnica", "item_id": "8da04463c64c5c540f1f0c353bec9d99bad11ea1", "quote": "450 miles of range are among the reasons"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The iX5 supports 460 kW charging.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8da04463c64c5c540f1f0c353bec9d99bad11ea1", "quote": "460 kW charging"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The iX5 can close its own doors.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "46437b407226013f839f0978de605a625d213552", "quote": "even close its own doors"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "BMW is offering the new X5 in both gas and electric (iX5) versions.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8da04463c64c5c540f1f0c353bec9d99bad11ea1", "quote": "BMW goes both ways with new 2027 X5 and iX5"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

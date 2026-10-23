@@ -1,0 +1,24 @@
+{
+  "anchor": "d4814aa3f0c5cfd48b6b7796c86313784cf52114",
+  "id": "2026-10-22-a38f1b",
+  "items": [
+    {
+      "item_id": "d4814aa3f0c5cfd48b6b7796c86313784cf52114",
+      "lede": "Insta360 has a new wireless mic that combines some features of its existing 'pro' mics with a cheaper price.",
+      "outlet": "engadget",
+      "published": "2026-10-22T13:00:00Z",
+      "title": "Insta360 adds expandable storage to its new e-ink wireless mics",
+      "url": "https://www.engadget.com/2283528/insta360-adds-expandable-storage-to-its-e-ink-wireless-mics/"
+    },
+    {
+      "item_id": "ffe1c5aa2b52fb2156ab612e41527a645ddee0a0",
+      "lede": "Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a cheaper alternative that skips a few features many content creators might not miss. The new Insta360 Mic sits between the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-22T13:00:00Z",
+      "title": "Insta360 launches a cheaper version of its wireless mics with color screens",
+      "url": "https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-22-ca17f8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "Microsoft says its AI tool beats doctors on diagnosis",
+  "summary": "Microsoft says its AI diagnostic tool outperforms doctors on hard cases, citing a Science study, though one outlet notes most gains may come from the underlying AI models rather than Microsoft's own system.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft says its AI diagnostic tool outperforms doctors.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "98a7f3683d8fe8db9372829be9ecc7fa11fd949a", "quote": "Microsoft says its AI tool is better than doctors at diagnosing conditions"},
+        {"outlet": "techcrunch", "item_id": "4baf690dfb57b3c5a6969303ab753e98b8a5b25a", "quote": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft claims the tool can diagnose conditions far more accurately than human doctors.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "98a7f3683d8fe8db9372829be9ecc7fa11fd949a", "quote": "diagnose conditions up to four times more accurately than human"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The claim is based on a study published in the journal Science.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "4baf690dfb57b3c5a6969303ab753e98b8a5b25a", "quote": "according to a study in Science"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "TechCrunch attributes most of the diagnostic improvement to the underlying AI models rather than Microsoft's own system, a caveat the Verge report does not include.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "4baf690dfb57b3c5a6969303ab753e98b8a5b25a", "quote": "most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself"},
+        {"outlet": "theverge", "item_id": "98a7f3683d8fe8db9372829be9ecc7fa11fd949a", "quote": "it is finally here"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-21-cde4ff",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:19:03Z",
+  "headline": "Microsoft adds two new mouse tools to PowerToys",
+  "summary": "Microsoft released PowerToys 0.102, adding two new mouse utilities alongside new command-line tools and Command Palette improvements; the free Windows utility suite now includes more than 30 tools in total.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft's PowerToys update adds two new mouse tools.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "ba8deb36fe9d954ac1b5d9e63af53ac436cfe403",
+          "quote": "adds CursorHide, Button Lock mouse tools"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "18ac8acf35383b2647bde9f9f81c880005715349",
+          "quote": "gives your mouse 2 new tricks for free"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The release is PowerToys version 0.102.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "ba8deb36fe9d954ac1b5d9e63af53ac436cfe403",
+          "quote": "PowerToys 0.102"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The update also adds new command-line tools and Command Palette improvements.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "ba8deb36fe9d954ac1b5d9e63af53ac436cfe403",
+          "quote": "new command-line tools, and Command Palette improvements"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "PowerToys now includes more than 30 tools in total.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "18ac8acf35383b2647bde9f9f81c880005715349",
+          "quote": "With more than 30 tools"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

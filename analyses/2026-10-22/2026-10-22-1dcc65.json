@@ -1,0 +1,60 @@
+{
+  "cluster_id": "2026-10-22-1dcc65",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-23T02:16:02Z",
+  "headline": "1Password lets AI agents sign into accounts without seeing passwords",
+  "summary": "1Password launched a feature letting AI agents log into a user's accounts and complete tasks like booking or buying, while keeping passwords hidden and still requiring user approval for sign-ins.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "1Password introduced a feature letting AI agents sign into accounts without the agent seeing the password.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "633b64365941d14caf1d1e581e630d17874a75d8", "quote": "1Password lets AI agents use your passwords without seeing them"},
+        {"outlet": "techcrunch", "item_id": "ee7ecab28959641094a994b629403d330d5c496d", "quote": "1Password launches a way for AI agents to log in on your behalf without seeing your password"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users must still approve each AI agent sign-in request.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "633b64365941d14caf1d1e581e630d17874a75d8", "quote": "you'll still need to grant approval for sign-in requests"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The feature is named 1Password for Agents.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "633b64365941d14caf1d1e581e630d17874a75d8", "quote": "The aptly named 1Password for Agents"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The feature can let AI agents book or buy things on a user's behalf.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "d7e9ab232a68b4c3f420555c148cd05baa7a39a6", "quote": "let AI book or buy things on your behalf"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The feature protects account credentials while letting agents log in.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "ee7ecab28959641094a994b629403d330d5c496d", "quote": "still protecting the private credentials that secure those accounts"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "Engadget's headline frames the feature as handing data security to AI agents, while Verge and TechCrunch frame it as keeping passwords hidden from those agents.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "d7e9ab232a68b4c3f420555c148cd05baa7a39a6", "quote": "hand your data security over to your preferred AI agent"},
+        {"outlet": "theverge", "item_id": "633b64365941d14caf1d1e581e630d17874a75d8", "quote": "use your passwords without seeing them"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
