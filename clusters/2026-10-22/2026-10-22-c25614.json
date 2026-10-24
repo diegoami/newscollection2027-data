@@ -17,8 +17,24 @@
       "published": "2026-10-22T23:15:00Z",
       "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
       "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/"
+    },
+    {
+      "item_id": "b25f8b18d389a59dfb0b0e5941e41f7fe486be03",
+      "lede": "Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.",
+      "outlet": "engadget",
+      "published": "2026-10-23T09:01:01Z",
+      "title": "A startup called Warhound is genetically engineering dogs for the military",
+      "url": "https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/"
+    },
+    {
+      "item_id": "10b1e6c4d14e0a80cfa28186766a37e957ebc83e",
+      "lede": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-23T10:58:03Z",
+      "title": "Startup equips genetically enhanced dogs with Palmer Luckey\u2019s military tech",
+      "url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

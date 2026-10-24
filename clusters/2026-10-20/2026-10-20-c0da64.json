@@ -99,14 +99,6 @@
       "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
     },
     {
-      "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
-      "lede": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "outlet": "bbc-technology",
-      "published": "2026-10-22T06:24:59Z",
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
-    },
-    {
       "item_id": "86ae544aa54b2e39b8efc9cb65e90b3f4dc462e9",
       "lede": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
       "outlet": "bbc-technology",
@@ -169,8 +161,48 @@
       "published": "2026-10-22T20:37:52Z",
       "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
       "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+    },
+    {
+      "item_id": "a16499f23ad16d293aa4a8576feb330cefbf05ec",
+      "lede": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-23T12:00:25Z",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo"
+    },
+    {
+      "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
+      "lede": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-23T12:24:17Z",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
+    },
+    {
+      "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
+      "lede": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+      "outlet": "zdnet",
+      "published": "2026-10-23T15:09:47Z",
+      "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
+      "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/"
+    },
+    {
+      "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
+      "lede": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-23T15:38:05Z",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+    },
+    {
+      "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+      "lede": "After discovery of severe bug in the PHP programming language, executives warn of \u2018vulnerability tsunami\u2019 Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. \u201cI no longer think we\u2019re going to be",
+      "outlet": "theguardian",
+      "published": "2026-10-23T18:48:48Z",
+      "title": "\u2018Black October\u2019: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

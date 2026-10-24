@@ -41,8 +41,16 @@
       "published": "2026-10-22T20:32:05Z",
       "title": "Meta\u2019s AI could still scrape news sites, legal experts say",
       "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"
+    },
+    {
+      "item_id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
+      "lede": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-23T14:47:41Z",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }
