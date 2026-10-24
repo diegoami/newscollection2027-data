@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
+    "lede": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns globally ? Websites around the world have been hit by millions of attempts to exploit",
+    "outlet": "theguardian",
+    "published": "2026-10-22T16:42:54Z",
+    "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+  },
+  "b": {
+    "item_id": "772b89f0c953c0a3aeb8fbfbf3323b240e9079c8",
+    "lede": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
+    "outlet": "techcrunch",
+    "published": "2026-10-24T15:30:00Z",
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+  },
+  "score": 0.616311
+}

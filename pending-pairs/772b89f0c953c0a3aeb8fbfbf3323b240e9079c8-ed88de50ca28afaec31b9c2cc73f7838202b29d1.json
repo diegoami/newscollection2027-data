@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "772b89f0c953c0a3aeb8fbfbf3323b240e9079c8",
+    "lede": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet \u2014 and it's unlikely to be the last major software scare.",
+    "outlet": "techcrunch",
+    "published": "2026-10-24T15:30:00Z",
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+  },
+  "b": {
+    "item_id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
+    "lede": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-22T17:12:51Z",
+    "title": "Race to update services' computer systems after cyber-security flaw found",
+    "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o"
+  },
+  "score": 0.641733
+}

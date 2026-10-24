@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "47234b822080ed0734f54459ef78ec2bc2f1f293",
+    "lede": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+    "outlet": "arstechnica",
+    "published": "2026-10-22T22:25:33Z",
+    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/"
+  },
+  "b": {
+    "item_id": "a6ce31709924c3c2651258b5f733c17c511b6122",
+    "lede": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-24T14:17:32Z",
+    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+  },
+  "score": 0.57249
+}
