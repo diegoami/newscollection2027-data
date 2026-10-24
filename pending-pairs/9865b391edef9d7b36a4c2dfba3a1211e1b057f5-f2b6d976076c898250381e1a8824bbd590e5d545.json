@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "b": {
+    "item_id": "f2b6d976076c898250381e1a8824bbd590e5d545",
+    "lede": "\u201cAdversaries are clearly spending time (and tokens) on this bug,\u201d researcher says.",
+    "outlet": "theregister",
+    "published": "2026-10-22T20:37:52Z",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+  },
+  "score": 0.573439
+}

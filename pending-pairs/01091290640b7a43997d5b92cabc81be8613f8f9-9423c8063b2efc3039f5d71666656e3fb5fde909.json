@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01091290640b7a43997d5b92cabc81be8613f8f9",
+    "lede": "The vaccine is personalized to a patient\u2019s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+    "outlet": "wired",
+    "published": "2026-10-24T11:30:00Z",
+    "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+    "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/"
+  },
+  "b": {
+    "item_id": "9423c8063b2efc3039f5d71666656e3fb5fde909",
+    "lede": "Markers released top-line results today after previously reporting the trial succeeded.",
+    "outlet": "arstechnica",
+    "published": "2026-10-22T22:12:19Z",
+    "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+    "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/"
+  },
+  "score": 0.69195
+}

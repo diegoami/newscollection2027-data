@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
+    "lede": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T15:38:05Z",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+  },
+  "b": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "score": 0.576209
+}

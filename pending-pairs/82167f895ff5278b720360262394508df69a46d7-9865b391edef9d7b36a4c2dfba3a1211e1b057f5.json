@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82167f895ff5278b720360262394508df69a46d7",
+    "lede": "Security patches for the PHP programming language, widely used to build websites and web apps, are expected to roll out today, with the goal of fixing two critical vulnerabilities that could wreak havoc on the internet if left unchecked. In an advisory published on Tuesday, PHP developers said the vulnerabilities have a severity rating of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T11:49:17Z",
+    "title": "A critical PHP vulnerability may take websites down today",
+    "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress"
+  },
+  "b": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "score": 0.624415
+}

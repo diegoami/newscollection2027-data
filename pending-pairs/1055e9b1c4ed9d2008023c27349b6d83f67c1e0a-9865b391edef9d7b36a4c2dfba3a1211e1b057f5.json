@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
+    "lede": "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch fault Tell us: have you been affected by the PHP code flaw? What is PHP, and how bad is the computer language flaw causing website shutdowns globally ? Websites around the world have been hit by millions of attempts to exploit",
+    "outlet": "theguardian",
+    "published": "2026-10-22T16:42:54Z",
+    "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+    "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw"
+  },
+  "b": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "score": 0.613177
+}

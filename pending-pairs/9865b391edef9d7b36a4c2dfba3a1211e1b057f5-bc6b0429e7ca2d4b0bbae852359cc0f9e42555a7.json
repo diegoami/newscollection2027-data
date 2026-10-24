@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "b": {
+    "item_id": "bc6b0429e7ca2d4b0bbae852359cc0f9e42555a7",
+    "lede": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-21T14:00:10Z",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+  },
+  "score": 0.641738
+}

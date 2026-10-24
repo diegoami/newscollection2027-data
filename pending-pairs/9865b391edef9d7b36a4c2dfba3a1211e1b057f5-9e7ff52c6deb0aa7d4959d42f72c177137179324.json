@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+    "lede": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "outlet": "wired",
+    "published": "2026-10-24T12:00:00Z",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+  },
+  "b": {
+    "item_id": "9e7ff52c6deb0aa7d4959d42f72c177137179324",
+    "lede": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+    "outlet": "techcrunch",
+    "published": "2026-10-21T19:03:28Z",
+    "title": "The internet is having a very bad cybersecurity day",
+    "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/"
+  },
+  "score": 0.625636
+}
