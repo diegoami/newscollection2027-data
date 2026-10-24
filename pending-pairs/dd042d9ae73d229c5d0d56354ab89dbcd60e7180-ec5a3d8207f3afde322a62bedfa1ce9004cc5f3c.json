@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "dd042d9ae73d229c5d0d56354ab89dbcd60e7180",
+    "lede": "Here come new rate limits.",
+    "outlet": "engadget",
+    "published": "2026-10-21T19:52:50Z",
+    "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+    "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/"
+  },
+  "b": {
+    "item_id": "ec5a3d8207f3afde322a62bedfa1ce9004cc5f3c",
+    "lede": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
+    "outlet": "engadget",
+    "published": "2026-10-24T18:00:00Z",
+    "title": "Xbox Game Pass could let you pick which features you pay for",
+    "url": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/"
+  },
+  "score": 0.69835
+}
