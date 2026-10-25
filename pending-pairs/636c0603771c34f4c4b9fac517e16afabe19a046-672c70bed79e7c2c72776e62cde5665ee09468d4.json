@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "636c0603771c34f4c4b9fac517e16afabe19a046",
+    "lede": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+    "outlet": "engadget",
+    "published": "2026-10-24T22:45:00Z",
+    "title": "What kind of cooling system do EV batteries use and how does it work?",
+    "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/"
+  },
+  "b": {
+    "item_id": "672c70bed79e7c2c72776e62cde5665ee09468d4",
+    "lede": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+    "outlet": "engadget",
+    "published": "2026-10-24T23:00:00Z",
+    "title": "Why your EV battery still loses charge while it's parked",
+    "url": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/"
+  },
+  "score": 0.65176
+}
