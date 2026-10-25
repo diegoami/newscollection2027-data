@@ -1,0 +1,24 @@
+{
+  "anchor": "b0a9bad81a50e0d64d454e5b28c4dbf6068a61ad",
+  "id": "2026-10-24-d725cb",
+  "items": [
+    {
+      "item_id": "b0a9bad81a50e0d64d454e5b28c4dbf6068a61ad",
+      "lede": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-24T00:05:45Z",
+      "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
+    },
+    {
+      "item_id": "e910113655ec85770a65ee92a9b883f1fdd83322",
+      "lede": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
+      "outlet": "engadget",
+      "published": "2026-10-24T16:11:53Z",
+      "title": "The UK is investing $134 million into an AI Biosecurity Lab",
+      "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

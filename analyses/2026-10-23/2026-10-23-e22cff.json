@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-23-e22cff",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "New study proposes cause for Mars's mysterious 1,000-mile cloud",
+  "summary": "A new study offers a possible explanation for the 1,000-mile cloud on Mars that has puzzled astronomers since its 2018 discovery, suggesting it may involve ice-forming physics never before observed in nature.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A new study/model offers a possible explanation for the mysterious 1,000-mile cloud on Mars.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "36351863bdc6832f06eeeab088bf845dc733d917",
+          "quote": "Now, a new study offers a possible cause for its appearance."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "7e7984ce45f70d7a0879e73e8ae94c5cdcfa63c3",
+          "quote": "A new model suggests Mars may host ice-forming physics never directly observed before."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The cloud has puzzled astronomers since it was first discovered in 2018.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "36351863bdc6832f06eeeab088bf845dc733d917",
+          "quote": "The cloud has baffled astronomers since its discovery in 2018."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The phenomenon may involve ice-forming physics never before seen or observed.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "7e7984ce45f70d7a0879e73e8ae94c5cdcfa63c3",
+          "quote": "physics never seen in nature"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "36351863bdc6832f06eeeab088bf845dc733d917",
+          "quote": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

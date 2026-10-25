@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-22-3db92a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "Personalized mRNA vaccine cuts melanoma recurrence in Phase 3 trial",
+  "summary": "Moderna and Merck said their personalized mRNA cancer vaccine, tailored to each patient's own tumor, cut melanoma death and recurrence by about 40 to 42 percent in a Phase 3 trial, following earlier reports that the trial had succeeded.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A personalized mRNA cancer vaccine from Moderna and Merck reduced melanoma recurrence/death in a Phase 3 trial.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "9423c8063b2efc3039f5d71666656e3fb5fde909",
+          "quote": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "01091290640b7a43997d5b92cabc81be8613f8f9",
+          "quote": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The vaccine is personalized to each patient's own tumor.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "01091290640b7a43997d5b92cabc81be8613f8f9",
+          "quote": "The vaccine is personalized to a patient’s tumor"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The results come from a Phase 3 trial, after the trial had previously been reported a success.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "01091290640b7a43997d5b92cabc81be8613f8f9",
+          "quote": "results from the Phase 3 trial"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "9423c8063b2efc3039f5d71666656e3fb5fde909",
+          "quote": "Markers released top-line results today after previously reporting the trial succeeded."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

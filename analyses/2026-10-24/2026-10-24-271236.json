@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-24-271236",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "Blue Planet III keeps rough footage to prove it isn't AI-made",
+  "summary": "BBC's Blue Planet III deliberately includes cloudier, less polished, \"more organic\" shots to assure viewers its animals are real rather than AI-generated, a shift from earlier series known for crystal-clear footage, since overly polished imagery is now seen as a possible sign of AI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "BBC's Blue Planet III deliberately keeps less-polished, \"more organic\" footage to show it isn't AI-generated.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
+          "quote": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
+          "quote": "Blue Planet III is keeping the rough edges in the age of AI"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Earlier Blue Planet series were known for very polished, crystal-clear footage.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
+          "quote": "Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Overly polished, seamless footage is now seen as a potential giveaway of AI generation.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
+          "quote": "one dead giveaway of AI is when things look too polished and seamless"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

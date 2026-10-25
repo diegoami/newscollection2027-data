@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-22-d8456f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "Capcom confirms breach of CAPCOM ID affecting 11.7 million accounts",
+  "summary": "Capcom confirmed hackers breached its CAPCOM ID membership service, exposing more than 11.7 million customer email addresses and associated information. The service remains available, though users may now see more phishing attempts.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Capcom confirmed a data breach of its CAPCOM ID membership service affecting about 11.7 million accounts.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "177124c993da18451bf24c1749ecf727b5d63e34",
+          "quote": "Capcom confirms data breach affecting 11.7 million accounts"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "1e26ab7b0513cefe680a9930e9170730c9b5ec6b",
+          "quote": "Capcom confirms data breach that affected 11.7 million users"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The breach exposed customer email addresses and associated information.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "177124c993da18451bf24c1749ecf727b5d63e34",
+          "quote": "exposing more than 11.7 million customer email addresses and associated information"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "CAPCOM ID remains available for use, though users may see more phishing attempts.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "1e26ab7b0513cefe680a9930e9170730c9b5ec6b",
+          "quote": "Capcom ID is still available to use, but users may see more phishing scam emails."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

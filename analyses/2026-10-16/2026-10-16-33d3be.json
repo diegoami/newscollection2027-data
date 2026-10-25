@@ -1,1 +1,126 @@
-{"cluster_id": "2026-10-16-33d3be", "cluster_version": 4, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-10-24T02:40:00Z", "headline": "Meta edits AI-scraping terms repeatedly amid backlash, then delays enforcement", "summary": "Meta's new business terms initially appeared to let it scrape content, including news sites, to train AI. After publisher backlash, Meta removed some of that language, but a spokesperson said its actual crawling had not changed, legal experts said scraping was still possible, and Meta ultimately delayed enforcement of the terms.", "claims": [{"id": "c1", "statement": "Meta's new commercial terms appeared to let it crawl and scrape content from sites \"associated\" with businesses on its platforms, including news publishers, to train AI.", "sources": [{"outlet": "theverge", "item_id": "ad3a47861a304e90929ff5e23fc83f823638b7a6", "quote": "Meta’s new terms may allow it to train AI on news sites for free"}]}, {"id": "c2", "statement": "After backlash, Meta updated its terms again to remove language suggesting it could scrape news-site content to train its AI.", "sources": [{"outlet": "theverge", "item_id": "ac0eba5f39915c2126dfb359a39af8c6b0da8fff", "quote": "Meta removes language that may have allowed it to scrape news sites"}, {"outlet": "techcrunch", "item_id": "568162b981af24933665905cfd42cb49690232da", "quote": "Meta removes language that raised scraping and AI training concerns"}, {"outlet": "arstechnica", "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7", "quote": "Meta drops the word \"train\" from its commercial TOS after AI backlash"}]}, {"id": "c3", "statement": "A Meta spokesperson said the updated terms did not reflect any change in how Meta actually crawls the web.", "sources": [{"outlet": "techcrunch", "item_id": "568162b981af24933665905cfd42cb49690232da", "quote": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."}]}, {"id": "c4", "statement": "Meta's revised terms still do not add language committing to respect robots.txt.", "sources": [{"outlet": "arstechnica", "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7", "quote": "Meta changes AI scraping policy but won’t add language respecting robots.txt."}]}, {"id": "c5", "statement": "Legal experts say Meta's AI could still scrape news sites despite the revised terms.", "sources": [{"outlet": "theverge", "item_id": "29a87826b845358b4bac1374829cefcd55b6e106", "quote": "Meta’s AI could still scrape news sites, legal experts say"}]}, {"id": "c6", "statement": "Meta delayed enforcement of its new business terms after publishers raised concerns the terms could allow AI scraping of news sites.", "sources": [{"outlet": "theverge", "item_id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0", "quote": "Meta delays new business terms after publisher pushback on AI scraping"}]}], "discrepancies": [{"kind": "framing", "severity": "medium", "explanation": "The Verge frames Meta's edit as walking back scraping-enabling language, while Meta's own spokesperson says nothing about its crawling practice actually changed.", "claim_ids": ["c2", "c3"], "quotes": [{"outlet": "theverge", "item_id": "ac0eba5f39915c2126dfb359a39af8c6b0da8fff", "quote": "Meta removes language that may have allowed it to scrape news sites"}, {"outlet": "techcrunch", "item_id": "568162b981af24933665905cfd42cb49690232da", "quote": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."}]}, {"kind": "framing", "severity": "medium", "explanation": "Ars Technica frames the edit as Meta changing its scraping policy, while legal experts cited by The Verge say the underlying scraping permission remains.", "claim_ids": ["c2", "c5"], "quotes": [{"outlet": "arstechnica", "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7", "quote": "Meta drops the word \"train\" from its commercial TOS after AI backlash"}, {"outlet": "theverge", "item_id": "29a87826b845358b4bac1374829cefcd55b6e106", "quote": "Meta’s AI could still scrape news sites, legal experts say"}]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-10-16-33d3be",
+  "cluster_version": 5,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "Meta delays new business terms after backlash over AI content scraping",
+  "summary": "Meta revised and then delayed enforcement of new business terms, after backlash over language that could let it scrape content from sites linked to businesses on its platforms, including news publishers, to train AI. A spokesperson said the revisions don't change how Meta crawls the web; legal experts say the changes still fall short. Outlets differ on whether the targeted content is framed as news sites' or business accounts'.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta's new business terms, taking effect soon, could let it scrape content from sites \"associated\" with businesses on its platforms, including news publishers.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ad3a47861a304e90929ff5e23fc83f823638b7a6",
+          "quote": "Meta’s new terms may allow it to train AI on news sites for free"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "After backlash, Meta removed language from its terms suggesting it could scrape news sites to train AI.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ac0eba5f39915c2126dfb359a39af8c6b0da8fff",
+          "quote": "Meta removes language that may have allowed it to scrape news sites"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "568162b981af24933665905cfd42cb49690232da",
+          "quote": "Meta removes language that raised scraping and AI training concerns"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7",
+          "quote": "Meta drops the word \"train\" from its commercial TOS after AI backlash"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A Meta spokesperson said the updated terms did not reflect a change in how Meta crawls the web.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "568162b981af24933665905cfd42cb49690232da",
+          "quote": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Legal experts said the revised terms still don't do enough to stop Meta scraping news sites.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "29a87826b845358b4bac1374829cefcd55b6e106",
+          "quote": "legal experts say these changes aren't enough to address their concerns"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Meta delayed enforcement of its new business terms after publisher pushback over AI scraping.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
+          "quote": "Meta delays new business terms after publisher pushback on AI scraping"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c763d1d4d2ac7e2e7ee7c2e2d7051f2c14fceadb",
+          "quote": "Meta is delaying its controversial new business terms amid scraping concerns"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The delayed terms are now set to take effect on November 20th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
+          "quote": "the terms will go into effect on November 20th"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Meta's updated policy still does not add language committing to respect robots.txt.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "165cb15531466377d83a5df0238575d7c5d6c4e7",
+          "quote": "Meta changes AI scraping policy but won’t add language respecting robots.txt."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c5"
+      ],
+      "explanation": "Outlets differ on what content the delayed terms target: Engadget frames it as business accounts' content, The Verge as news sites' content.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "c763d1d4d2ac7e2e7ee7c2e2d7051f2c14fceadb",
+          "quote": "scrape business accounts' content for AI training"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d34a3f37bdd35ae5bfe0e93e40e73e39984f96a0",
+          "quote": "scrape news sites for AI training"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

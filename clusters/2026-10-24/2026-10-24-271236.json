@@ -1,0 +1,24 @@
+{
+  "anchor": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
+  "id": "2026-10-24-271236",
+  "items": [
+    {
+      "item_id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
+      "lede": "BBC series deliberately uses \u2018more organic\u2019 shots to assure viewers animals are not AI-generated, producers say The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is \u201cauthentic\u201d, its producers have said. Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years",
+      "outlet": "theguardian",
+      "published": "2026-10-24T08:32:56Z",
+      "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+      "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom"
+    },
+    {
+      "item_id": "0509c80e85fbace7ed3821b6d0607b79bcb957d4",
+      "lede": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-24T21:29:12Z",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

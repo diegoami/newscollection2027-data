@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-24-d725cb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-25T02:30:00Z",
+  "headline": "UK to fund AI Biosecurity Lab to detect threats and aid vaccines",
+  "summary": "The UK is investing in a new AI Biosecurity Lab, to be unveiled by the chancellor as part of Wednesday's Budget, that will help detect biological threats and develop vaccines using AI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The UK is investing in a new AI Biosecurity Lab.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "b0a9bad81a50e0d64d454e5b28c4dbf6068a61ad",
+          "quote": "UK to invest £100m in 'world first' AI Biosecurity Lab"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e910113655ec85770a65ee92a9b883f1fdd83322",
+          "quote": "The UK is investing $134 million into an AI Biosecurity Lab"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The lab will help detect biological threats and develop vaccines using AI.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e910113655ec85770a65ee92a9b883f1fdd83322",
+          "quote": "which will help it detect biological threats and develop vaccines with AI"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The chancellor is set to unveil the AI spending as part of the UK's defences in the Budget.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "b0a9bad81a50e0d64d454e5b28c4dbf6068a61ad",
+          "quote": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

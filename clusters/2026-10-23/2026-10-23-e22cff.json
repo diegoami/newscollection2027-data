@@ -1,0 +1,24 @@
+{
+  "anchor": "36351863bdc6832f06eeeab088bf845dc733d917",
+  "id": "2026-10-23-e22cff",
+  "items": [
+    {
+      "item_id": "36351863bdc6832f06eeeab088bf845dc733d917",
+      "lede": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
+      "outlet": "wired",
+      "published": "2026-10-23T09:00:00Z",
+      "title": "The \u2018Exotic Physics\u2019 Behind a Mysterious 1,000-Mile Cloud on Mars",
+      "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/"
+    },
+    {
+      "item_id": "7e7984ce45f70d7a0879e73e8ae94c5cdcfa63c3",
+      "lede": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "outlet": "arstechnica",
+      "published": "2026-10-24T11:50:28Z",
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "5c98085c7b76485ec17b3cd11476c9731c37c745",
+  "id": "2026-10-21-47691d",
+  "items": [
+    {
+      "item_id": "5c98085c7b76485ec17b3cd11476c9731c37c745",
+      "lede": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+      "outlet": "arstechnica",
+      "published": "2026-10-21T18:35:38Z",
+      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/"
+    },
+    {
+      "item_id": "9355f9f27997f86bf209bd598fa68580a39a8d2c",
+      "lede": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "outlet": "techcrunch",
+      "published": "2026-10-24T20:46:34Z",
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
