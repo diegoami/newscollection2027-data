@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cc1177265c129d5d4d997c77d0c340aac486e725",
+    "lede": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+    "outlet": "tomshardware",
+    "published": "2026-10-25T10:30:00Z",
+    "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch"
+  },
+  "b": {
+    "item_id": "eaa3fbf80042951ca996d82560b814a61a7170a0",
+    "lede": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-21T22:33:44Z",
+    "title": "Data centers could erase decades of air quality gains",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
+  },
+  "score": 0.585035
+}
