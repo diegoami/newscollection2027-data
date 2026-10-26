@@ -1,0 +1,50 @@
+{
+  "agent_seconds": 91.926,
+  "counts": {
+    "analyses_total": 455,
+    "analyses_written": 0,
+    "clusters": 464,
+    "judgments": 5076,
+    "pending": 0,
+    "rejected": 36,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-10-26",
+  "duration_seconds": 105.586,
+  "finished_at": "2026-10-26T02:09:01Z",
+  "note": "jev judged 29, judge-pairs skill judged 7 (3 yes, 4 no); 0 clusters pending analysis",
+  "started_at": "2026-10-26T02:07:15Z",
+  "status": "empty",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.626
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 11.01
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.46
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.967
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.58
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.017
+    }
+  ]
+}
