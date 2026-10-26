@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c90835b2305c769cd7a1173a47f9ea478db5e6f5",
+    "lede": "Valve practically just flipped a switch to give gamers the ability to read optical drives directly from the Steam Frame.",
+    "outlet": "tomshardware",
+    "published": "2026-10-24T12:06:43Z",
+    "title": "Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes",
+    "url": "https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum"
+  },
+  "b": {
+    "item_id": "e7e9f24027016d3c986cd92e8f61d5aabcac3f95",
+    "lede": "Throaty Mumbo turns his NES into a Windows-like desktop using an FPGA cartridge emulating an old Intel CPU, complete with a CD drive and internet capabilities, all without tearing the NES apart.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T11:20:00Z",
+    "title": "Modder turns NES into a Windows-like desktop with original hardware",
+    "url": "https://www.tomshardware.com/video-games/retro-gaming/modder-turns-nes-into-a-windows-like-desktop-with-original-hardware-emulates-a-full-retro-experience-with-a-cd-drive-and-slow-internet"
+  },
+  "score": 0.574136
+}

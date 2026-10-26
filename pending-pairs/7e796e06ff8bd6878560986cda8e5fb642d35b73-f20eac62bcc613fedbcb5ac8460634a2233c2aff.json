@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e796e06ff8bd6878560986cda8e5fb642d35b73",
+    "lede": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "outlet": "techcrunch",
+    "published": "2026-10-26T14:25:43Z",
+    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+  },
+  "b": {
+    "item_id": "f20eac62bcc613fedbcb5ac8460634a2233c2aff",
+    "lede": "The new tablet stats at $699.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:16:56Z",
+    "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+    "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+  },
+  "score": 0.741639
+}

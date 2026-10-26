@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "310e7eb05a3a8bbb0216d05934ca01e3e79a611a",
+    "lede": "Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:15:09Z",
+    "title": "Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
+    "url": "https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/"
+  },
+  "b": {
+    "item_id": "da114e8ce7c535666ca1e4e4afd539dfe1b64d8a",
+    "lede": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-25T21:40:27Z",
+    "title": "iFixit\u2019s look inside the iPhone Duo may explain those broken screens and hinges",
+    "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+  },
+  "score": 0.625206
+}

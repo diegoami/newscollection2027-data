@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5453dea1679244d25905c1e81ecf1c549226405b",
+    "lede": "Linux kernel modules lift Nvidia\u2019s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T11:00:00Z",
+    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent"
+  },
+  "b": {
+    "item_id": "caf487fe56f74a6268a2cf473b39f660184f81c3",
+    "lede": "The Acer Predator Helios Neo 16S AI combines a 240 Hz QHD+ OLED display with Intel\u2019s 24-core Core Ultra 9 processor and Nvidia RTX 5070 Ti graphics, and Best Buy is offering discounts of up to $800.",
+    "outlet": "tomshardware",
+    "published": "2026-10-24T13:58:40Z",
+    "title": "Save up to $800 on Acer\u2019s ultra-slim RTX 5070 Ti gaming laptop \u2014 pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400",
+    "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400"
+  },
+  "score": 0.607848
+}

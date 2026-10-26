@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "178c42b4d7f0694c747bdee9c012f27a2ac9d3bb",
+    "lede": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-26T15:27:54Z",
+    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+    "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+  },
+  "b": {
+    "item_id": "320353a94d7a0ffb1930333263832cf63142def3",
+    "lede": "Anthropic claims AI will shift how work gets done and labor demand \u2013 but some experts are skeptical of the vision Last year, the Anthropic CEO, Dario Amodei, warned that artificial intelligence could eliminate half of entry-level white-collar jobs and that in six months it would be writing 90% of code . Neither of those predictions came to pass. Now,",
+    "outlet": "theguardian",
+    "published": "2026-10-23T14:00:28Z",
+    "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+    "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
+  },
+  "score": 0.583239
+}
