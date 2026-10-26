@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+    "lede": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
+    "outlet": "theregister",
+    "published": "2026-10-26T17:58:00Z",
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+    "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+  },
+  "b": {
+    "item_id": "bf934ab50d5af619cdf9171a9496a0414526d3f3",
+    "lede": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T15:28:11Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+    "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update"
+  },
+  "score": 0.606731
+}

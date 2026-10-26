@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0071b63359c1bc7366a5b31176157bc56b71ee20",
+    "lede": "Impacted users can contact AppleCare for a replacement.",
+    "outlet": "engadget",
+    "published": "2026-10-26T18:52:02Z",
+    "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
+    "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/"
+  },
+  "b": {
+    "item_id": "ec2a619f2f91a3070d21b83a0cf1d849f2032eca",
+    "lede": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T16:51:49Z",
+    "title": "Some iPhone Duo screens are already failing",
+    "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+  },
+  "score": 0.601099
+}

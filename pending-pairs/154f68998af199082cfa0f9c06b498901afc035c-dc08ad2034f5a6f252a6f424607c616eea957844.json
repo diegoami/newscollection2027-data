@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
+    "lede": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-26T20:46:49Z",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+  },
+  "b": {
+    "item_id": "dc08ad2034f5a6f252a6f424607c616eea957844",
+    "lede": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-25T13:00:00Z",
+    "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
+  },
+  "score": 0.603175
+}

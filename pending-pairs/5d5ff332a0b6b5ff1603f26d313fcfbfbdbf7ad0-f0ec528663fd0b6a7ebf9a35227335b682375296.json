@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+    "lede": "Included is the ability to limit which applications Siri can directly access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T20:04:16Z",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  "b": {
+    "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
+    "lede": "iOS 27.2 is the first major update for the current OS. Here\u2019s what\u2019s inside and what happened to iOS 27.1.",
+    "outlet": "zdnet",
+    "published": "2026-10-26T20:52:35Z",
+    "title": "Apple\u2019s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+    "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/"
+  },
+  "score": 0.715851
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
+    "lede": "Apple has rolled out software updates for all its platforms today.",
+    "outlet": "engadget",
+    "published": "2026-10-26T19:47:56Z",
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/"
+  },
+  "b": {
+    "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+    "lede": "Included is the ability to limit which applications Siri can directly access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T20:04:16Z",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  "score": 0.682275
+}

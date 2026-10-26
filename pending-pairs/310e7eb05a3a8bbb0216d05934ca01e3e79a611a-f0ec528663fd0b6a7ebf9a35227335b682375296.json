@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "310e7eb05a3a8bbb0216d05934ca01e3e79a611a",
+    "lede": "Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:15:09Z",
+    "title": "Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
+    "url": "https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/"
+  },
+  "b": {
+    "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
+    "lede": "iOS 27.2 is the first major update for the current OS. Here\u2019s what\u2019s inside and what happened to iOS 27.1.",
+    "outlet": "zdnet",
+    "published": "2026-10-26T20:52:35Z",
+    "title": "Apple\u2019s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+    "url": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/"
+  },
+  "score": 0.604507
+}

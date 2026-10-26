@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "310e7eb05a3a8bbb0216d05934ca01e3e79a611a",
+    "lede": "Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:15:09Z",
+    "title": "Apple will reportedly run diagnostics on returned iPhones without opening the packaging",
+    "url": "https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/"
+  },
+  "b": {
+    "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+    "lede": "Included is the ability to limit which applications Siri can directly access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T20:04:16Z",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  "score": 0.584758
+}

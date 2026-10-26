@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
+    "lede": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
+    "outlet": "zdnet",
+    "published": "2026-10-23T15:09:47Z",
+    "title": "PHP2Shell: Haven\u2019t patched yet? Take these steps now to mitigate",
+    "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/"
+  },
+  "b": {
+    "item_id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+    "lede": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours",
+    "outlet": "theregister",
+    "published": "2026-10-26T16:14:00Z",
+    "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+    "url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429"
+  },
+  "score": 0.588093
+}

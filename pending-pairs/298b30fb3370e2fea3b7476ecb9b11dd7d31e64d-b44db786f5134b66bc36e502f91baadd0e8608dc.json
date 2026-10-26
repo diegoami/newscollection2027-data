@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "298b30fb3370e2fea3b7476ecb9b11dd7d31e64d",
+    "lede": "The HomeView won't have its own App Store, but there's another method for using compatible third-party apps on the display.",
+    "outlet": "engadget",
+    "published": "2026-10-26T16:15:00Z",
+    "title": "How do apps on the HomeView work, and what does CarPlay have to do with it?",
+    "url": "https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it/"
+  },
+  "b": {
+    "item_id": "b44db786f5134b66bc36e502f91baadd0e8608dc",
+    "lede": "Your phone's most honest app doesn't even have a home screen icon.",
+    "outlet": "engadget",
+    "published": "2026-10-26T12:45:00Z",
+    "title": "The built-in Android phone app most users never bother to use (but should)",
+    "url": "https://www.engadget.com/2294291/built-in-android-phone-app-most-users-never-use/"
+  },
+  "score": 0.646819
+}
