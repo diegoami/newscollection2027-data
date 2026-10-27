@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-25-8b3d3a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Report says AI financial payoff is concentrated in the Magnificent Seven",
+  "summary": "A new comparison finds that revenue-per-employee gains from AI have gone almost entirely to the Magnificent Seven technology companies, while the rest of the S&P 500 sees little to no financial benefit, according to analysis attributed to private-equity firm Apollo.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Revenue per employee at the Magnificent Seven has outpaced the rest of the S&P 500.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "882157f1ccf27a202935f124e484dd60bed61efd",
+          "quote": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The comparison highlights a growing divide between Big Tech and the rest of corporate America.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "882157f1ccf27a202935f124e484dd60bed61efd",
+          "quote": "growing divide in fortunes between America"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Apollo's analysis says the AI payoff is strictly limited to Big Tech.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b4f37ed55a9f7eb7ed46b95417d0fa7ae7e62d87",
+          "quote": "AI payoff strictly limited to Big Tech"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The rest of the S&P 500 sees no benefit from the AI boom, per the analysis.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b4f37ed55a9f7eb7ed46b95417d0fa7ae7e62d87",
+          "quote": "the rest of the S&P 500 see no benefit, claims Apollo"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

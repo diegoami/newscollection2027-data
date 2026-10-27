@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-26-b1244f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Microsoft offers buyouts to around 60,000 employees to cut costs",
+  "summary": "Microsoft is offering voluntary buyouts to roughly 60,000 employees, more than a quarter of its global workforce, as part of its latest effort to cut costs and rework its workforce.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft is offering buyouts to around 60,000 employees.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6724ba58888dbe91c0b650fe43600be679790a6c",
+          "quote": "Microsoft offers buyouts to around 60,000 employees"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The buyout offers are part of Microsoft's latest effort to cut costs and rework its workforce.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6724ba58888dbe91c0b650fe43600be679790a6c",
+          "quote": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The buyouts are reportedly voluntary and aimed at trimming costs.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "be8696cbbf8cbb22c21de16a15d1d98895cbaa60",
+          "quote": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The 60,000 employees represent over a quarter of Microsoft's global workforce.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "be8696cbbf8cbb22c21de16a15d1d98895cbaa60",
+          "quote": "That's over a quarter of the company's global workforce."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

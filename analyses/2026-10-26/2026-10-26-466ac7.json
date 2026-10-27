@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-26-466ac7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Instagram rolls out 90-minute longform videos for TV viewing",
+  "summary": "Instagram is experimenting with longform video again, rolling out videos up to 90 minutes long for watching on TV, a move outlets say could let the platform challenge YouTube.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Instagram wants users to watch 90-minute videos on their TV.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "9ff19066829baa4497593be41397363bc255bafe",
+          "quote": "Instagram wants you to watch 90-minute videos on your TV"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Instagram is experimenting with longform video again.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "9ff19066829baa4497593be41397363bc255bafe",
+          "quote": "Instagram is experimenting with longform video again."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Instagram is rolling out longform videos of up to 90 minutes.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3a26775a7ff108509b5241f5b588ab288a39b80a",
+          "quote": "Instagram rolls out long form videos of up to 90 minutes"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The move gives Instagram an opportunity to challenge YouTube.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3a26775a7ff108509b5241f5b588ab288a39b80a",
+          "quote": "the platform has an opportunity to challenge YouTube if it plays its cards right"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

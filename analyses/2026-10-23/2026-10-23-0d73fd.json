@@ -1,0 +1,198 @@
+{
+  "cluster_id": "2026-10-23-0d73fd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "iPhone Duo screens crack as hinge issues emerge; Apple acknowledges and offers repairs",
+  "summary": "Early iPhone Duo units are developing cracked inner screens, with reports pointing to the hinge and folding display. Teardowns by iFixit and an independent investigator point to hinge- and dust-related causes, while Apple has acknowledged an issue affecting a small number of units and is offering AppleCare replacements for those affected.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A few early iPhone Duo units already have broken screens.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "48ee0a6d76f8799539a13454001a8809569b93f5",
+          "quote": "a few units already have broken screens."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Some users report the hinge catching and cracking the screen within hours of use.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b77e72f00b20d00e3917f07a2d6362eb1a683f80",
+          "quote": "the hinge seems to catch on something, then audibly crack and break the screen"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "iFixit's teardown examined the folding display for potential causes of the cracking.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "1fab884d126db17c761d7a0f5d3fcf13a8cdd718",
+          "quote": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "da114e8ce7c535666ca1e4e4afd539dfe1b64d8a",
+          "quote": "may explain those broken screens and hinges"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "iFixit gave the iPhone Duo a 5/10 repairability score.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "da114e8ce7c535666ca1e4e4afd539dfe1b64d8a",
+          "quote": "gave it a 5/10 repairability score"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "iFixit's teardown found that dust affecting the hinge is a concern for repairability.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6ac1d64ada21ae7daba46df543ce91b518dbda5d",
+          "quote": "it all hinges on dust"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Users have reported a wave of cracked-screen issues.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "f1afb9656e72716b5461599b37faa2ee87b79592",
+          "quote": "users report a wave of cracked-screen issues"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "ZDNet reports first-hand accounts suggesting a bad batch of hinges.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "defb18462ab13fbae357a449b8415a532221c08e",
+          "quote": "suggesting a bad batch of hinges"
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "Ars Technica reports that Apple's hinge design is apparently damaging some screens.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec2a619f2f91a3070d21b83a0cf1d849f2032eca",
+          "quote": "hinge is apparently damaging some iPhone Duo screens"
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "statement": "Apple acknowledged it is aware of an issue affecting the inner display on a small number of units.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7adce899d2ab9918217d4e45900bc3edd31888ec",
+          "quote": "an issue impacting the inner display"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7adce899d2ab9918217d4e45900bc3edd31888ec",
+          "quote": "small number of iPhone Duo units"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "statement": "Apple is directing affected users to AppleCare for a replacement.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "0071b63359c1bc7366a5b31176157bc56b71ee20",
+          "quote": "Impacted users can contact AppleCare for a replacement."
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "statement": "A small number of early adopters have complained of screens cracking.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "9665c1e519607412d0888a4703c4d9c1214dd656",
+          "quote": "have complained of screens cracking"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "statement": "Reports of the cracking are widespread on social media and the iPhone Duo subreddit.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b77e72f00b20d00e3917f07a2d6362eb1a683f80",
+          "quote": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": [
+        "c5",
+        "c7"
+      ],
+      "explanation": "Outlets differ on the root cause: one points to a bad batch of defective hinges, another to dust getting into the hinge design itself.",
+      "quotes": [
+        {
+          "outlet": "zdnet",
+          "item_id": "defb18462ab13fbae357a449b8415a532221c08e",
+          "quote": "suggesting a bad batch of hinges"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "6ac1d64ada21ae7daba46df543ce91b518dbda5d",
+          "quote": "it all hinges on dust"
+        }
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c9",
+        "c6"
+      ],
+      "explanation": "Apple's statement frames the issue as affecting a small number of units, while another outlet describes a wave of cracked-screen complaints.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "7adce899d2ab9918217d4e45900bc3edd31888ec",
+          "quote": "small number of iPhone Duo units"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "f1afb9656e72716b5461599b37faa2ee87b79592",
+          "quote": "users report a wave of cracked-screen issues"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

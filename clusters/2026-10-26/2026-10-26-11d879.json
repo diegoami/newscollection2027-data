@@ -1,0 +1,104 @@
+{
+  "anchor": "d6c62b3447491c16ee6a0fcbb212b7c669d93ec7",
+  "id": "2026-10-26-11d879",
+  "items": [
+    {
+      "item_id": "d6c62b3447491c16ee6a0fcbb212b7c669d93ec7",
+      "lede": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of its financial viability Anthropic has publicly filed for a stock market listing, one of the largest debuts in history. The company\u2019s float on the US market is likely to be a high-water mark in the multitrillion-dollar AI boom and a test",
+      "outlet": "theguardian",
+      "published": "2026-10-26T13:12:59Z",
+      "title": "Anthropic files for US stock market listing with valuation of more than $1.5tn",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+    },
+    {
+      "item_id": "a0064ee100f0c0b355dbc1ef528501eaec2d63bb",
+      "lede": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T13:32:49Z",
+      "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+    },
+    {
+      "item_id": "fe7b686de00a7a45d7bb76c5f2273484e88b8713",
+      "lede": "The company may be valued as high as $2 trillion.",
+      "outlet": "engadget",
+      "published": "2026-10-26T13:41:26Z",
+      "title": "Anthropic files to go public",
+      "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/"
+    },
+    {
+      "item_id": "2c43c284058f6166c85e6678380d868607b140bd",
+      "lede": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "outlet": "techcrunch",
+      "published": "2026-10-26T14:35:22Z",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+    },
+    {
+      "item_id": "ad4aca2b15a915a5ae5a1c3a879ff5cc605247d1",
+      "lede": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company\u2019s financials, risk factors, and views on the future of AI.",
+      "outlet": "wired",
+      "published": "2026-10-26T14:50:47Z",
+      "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/"
+    },
+    {
+      "item_id": "178c42b4d7f0694c747bdee9c012f27a2ac9d3bb",
+      "lede": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-26T15:27:54Z",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+    },
+    {
+      "item_id": "5ecfeeaf9cec8d86d755a50883475c10ad5a3188",
+      "lede": "Anthropic thinks \u201cclosing the loop\u201d is the best path to AI triumph\u2014and a recipe for \u201cexistential\u201d threats to humanity.",
+      "outlet": "wired",
+      "published": "2026-10-26T16:01:55Z",
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/"
+    },
+    {
+      "item_id": "0c7a0e584035924b10db63b2a5fa89e6beb4df3d",
+      "lede": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+      "outlet": "techcrunch",
+      "published": "2026-10-26T16:49:42Z",
+      "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+    },
+    {
+      "item_id": "4a8f41d180d7e40825d460eedb6270df28fec672",
+      "lede": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T17:10:23Z",
+      "title": "Five weird details from Anthropic\u2019s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details"
+    },
+    {
+      "item_id": "a73085d1e7d542ef0864527061366947c2a68a00",
+      "lede": "Anthropic\u2019s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-26T19:57:23Z",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"
+    },
+    {
+      "item_id": "e663e24339fad134efb0f2cb8d17ee9a1c010df0",
+      "lede": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details. \u201cAnthropic owes investors more information,\u201d one analyst tells WIRED.",
+      "outlet": "wired",
+      "published": "2026-10-26T21:27:15Z",
+      "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/"
+    },
+    {
+      "item_id": "96b9f45bb2e6d93364f685f5f6b70b86e32af8a2",
+      "lede": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T21:45:31Z",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

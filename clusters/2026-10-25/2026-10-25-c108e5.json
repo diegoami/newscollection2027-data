@@ -1,0 +1,24 @@
+{
+  "anchor": "d3990852490cd50b88c4aafc54f7fe834c253409",
+  "id": "2026-10-25-c108e5",
+  "items": [
+    {
+      "item_id": "d3990852490cd50b88c4aafc54f7fe834c253409",
+      "lede": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can\u2019t Help Falling in Love The owners of Elvis Presley \u2019s music catalogue are suing artificial intelligence ( AI ) company Anthropic for allegedly using Presley\u2019s songs to train their models without permission. Authentic Brands Group, the licensing organization that has ownership of both",
+      "outlet": "theguardian",
+      "published": "2026-10-25T18:25:59Z",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
+    },
+    {
+      "item_id": "400f2dcadce29b810392e5b8fc501d3171d2d5cc",
+      "lede": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+      "outlet": "engadget",
+      "published": "2026-10-26T11:23:48Z",
+      "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+      "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

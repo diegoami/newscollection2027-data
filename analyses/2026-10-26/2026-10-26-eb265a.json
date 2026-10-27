@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-26-eb265a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Microsoft rushes emergency .NET patches for critical Brotli flaw",
+  "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability in the Brotli compression library, also tracked as HTTP2Shell, which could let attackers corrupt memory and access sensitive data. Microsoft joins a growing list of software maintainers scrambling to patch the compression flaw.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft released emergency .NET updates for a critical vulnerability also tracked as HTTP2Shell.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b",
+          "quote": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The HTTP2Shell flaw is in Brotli, the C decoder library built into Node.js.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
+          "quote": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The flaw could let attackers corrupt memory and access sensitive data.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
+          "quote": "could allow attackers to corrupt memory and access sensitive data"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Microsoft joins a growing list of software maintainers scrambling to patch the compression flaw.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+          "quote": "Redmond joins growing list of software maintainers scrambling to patch compression flaw"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,79 @@
+{
+  "cluster_id": "2026-10-25-9b8016",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Reddit's r/opensource subreddit bans AI-made projects and non-English speakers",
+  "summary": "The r/opensource subreddit's moderators introduced new submission rules banning AI-built, AI-focused and AI-using projects, while also excluding non-English speakers, solo developers and fledgling projects. The rules impose requirements on project age and contributors and have sparked backlash, including over how the policy conflicts with Linux's acceptance of disclosed AI-assisted code.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "r/opensource's moderators posted new rules banning projects that use AI.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b366ba776fde8cd439808b29755999dca5c694ae",
+          "quote": "banned projects that use AI"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new rules also exclude non-English speakers.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b366ba776fde8cd439808b29755999dca5c694ae",
+          "quote": "non-English speakers and more"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The rules bar AI-built, AI-focused and AI-using projects, announced October 24.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b8a102558476413f19eff0140cff5b82a94336df",
+          "quote": "barred AI-built, AI-focused, and AI-using projects under new rules announced October 24"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The crackdown imposes strict requirements on project age and contributors.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b8a102558476413f19eff0140cff5b82a94336df",
+          "quote": "imposes strict requirements on project age and contributors"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The restrictions on non-English speakers have sparked backlash.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b8a102558476413f19eff0140cff5b82a94336df",
+          "quote": "restrictions on non-English speakers have sparked further backlash"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The new rules also shut out solo developers and fledgling projects.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "d80b90a04fbd45a8d9aa0c53141cfb37e19a0952",
+          "quote": "shut out solo developers, fledgling projects, and anyone who doesn't speak English"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

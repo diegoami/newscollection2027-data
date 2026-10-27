@@ -1,0 +1,48 @@
+{
+  "anchor": "a010e5c203ad163a62b55ff17294183f76c169f3",
+  "id": "2026-10-26-753b62",
+  "items": [
+    {
+      "item_id": "a010e5c203ad163a62b55ff17294183f76c169f3",
+      "lede": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and lighter than [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T13:05:03Z",
+      "title": "Apple updates the iPad Mini with a larger OLED display",
+      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce"
+    },
+    {
+      "item_id": "f20eac62bcc613fedbcb5ac8460634a2233c2aff",
+      "lede": "The new tablet stats at $699.",
+      "outlet": "engadget",
+      "published": "2026-10-26T13:16:56Z",
+      "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+      "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+    },
+    {
+      "item_id": "7e796e06ff8bd6878560986cda8e5fb642d35b73",
+      "lede": "The new iPad mini features a thinner and lighter design than its predecessor.",
+      "outlet": "techcrunch",
+      "published": "2026-10-26T14:25:43Z",
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+    },
+    {
+      "item_id": "154603b2646e548a0d6d0c7f5c3713cbb6c6535e",
+      "lede": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It\u2019s already on my shopping list.",
+      "outlet": "zdnet",
+      "published": "2026-10-26T16:25:16Z",
+      "title": "Apple\u2019s new OLED iPad Mini is the upgrade I\u2019ve been waiting for \u2013 here\u2019s why",
+      "url": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/"
+    },
+    {
+      "item_id": "668d9a95d516ffd26f5ed82f41c6125164fbda91",
+      "lede": "Apple claims this is the most significant update ever for the iPad mini line.",
+      "outlet": "arstechnica",
+      "published": "2026-10-26T19:04:40Z",
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

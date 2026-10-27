@@ -1,0 +1,96 @@
+{
+  "anchor": "48ee0a6d76f8799539a13454001a8809569b93f5",
+  "id": "2026-10-23-0d73fd",
+  "items": [
+    {
+      "item_id": "48ee0a6d76f8799539a13454001a8809569b93f5",
+      "lede": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-23T16:37:03Z",
+      "title": "The first broken iPhone Duos are here",
+      "url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen"
+    },
+    {
+      "item_id": "b77e72f00b20d00e3917f07a2d6362eb1a683f80",
+      "lede": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-25T20:16:19Z",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen"
+    },
+    {
+      "item_id": "da114e8ce7c535666ca1e4e4afd539dfe1b64d8a",
+      "lede": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-25T21:40:27Z",
+      "title": "iFixit\u2019s look inside the iPhone Duo may explain those broken screens and hinges",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+    },
+    {
+      "item_id": "1fab884d126db17c761d7a0f5d3fcf13a8cdd718",
+      "lede": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.",
+      "outlet": "engadget",
+      "published": "2026-10-26T09:31:44Z",
+      "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+      "url": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/"
+    },
+    {
+      "item_id": "6ac1d64ada21ae7daba46df543ce91b518dbda5d",
+      "lede": "Battery replacement gets the thumbs up, but it all hinges on dust. A conventional phone might be better bet for home repairers",
+      "outlet": "theregister",
+      "published": "2026-10-26T11:43:00Z",
+      "title": "iFixit dismantles Apple's Duo: 'You'd better baby that screen'",
+      "url": "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296"
+    },
+    {
+      "item_id": "f1afb9656e72716b5461599b37faa2ee87b79592",
+      "lede": "The repair company iFixit released its repairability rating for Apple\u2019s very first foldable iPhone. It comes as users report a wave of cracked-screen issues.",
+      "outlet": "wired",
+      "published": "2026-10-26T13:00:00Z",
+      "title": "Some iPhone Duo Models Are Breaking. iFixit\u2019s Teardown Might Explain Why",
+      "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/"
+    },
+    {
+      "item_id": "defb18462ab13fbae357a449b8415a532221c08e",
+      "lede": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here\u2019s what to do if your Duo screen fails.",
+      "outlet": "zdnet",
+      "published": "2026-10-26T15:56:38Z",
+      "title": "iPhone Duo screens are already cracking: What buyers need to know",
+      "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/"
+    },
+    {
+      "item_id": "ec2a619f2f91a3070d21b83a0cf1d849f2032eca",
+      "lede": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+      "outlet": "arstechnica",
+      "published": "2026-10-26T16:51:49Z",
+      "title": "Some iPhone Duo screens are already failing",
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
+    },
+    {
+      "item_id": "7adce899d2ab9918217d4e45900bc3edd31888ec",
+      "lede": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T17:28:07Z",
+      "title": "Apple acknowledges iPhone Duo display \u2018issue\u2019 after reports of cracked screens",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+    },
+    {
+      "item_id": "0071b63359c1bc7366a5b31176157bc56b71ee20",
+      "lede": "Impacted users can contact AppleCare for a replacement.",
+      "outlet": "engadget",
+      "published": "2026-10-26T18:52:02Z",
+      "title": "Apple responds to reports of the iPhone Duo's inner display cracking",
+      "url": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/"
+    },
+    {
+      "item_id": "9665c1e519607412d0888a4703c4d9c1214dd656",
+      "lede": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
+      "outlet": "techcrunch",
+      "published": "2026-10-26T19:22:40Z",
+      "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+      "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-25-c108e5",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "Elvis Presley's estate sues Anthropic over AI training on his songs",
+  "summary": "Authentic Brands Group, which owns Elvis Presley's music catalogue, is suing Anthropic, alleging the AI company used 274 of Presley's songs to train its models without permission.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Authentic Brands Group is suing Anthropic over the alleged use of 274 Elvis Presley songs to train AI models.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "d3990852490cd50b88c4aafc54f7fe834c253409",
+          "quote": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The suit alleges Anthropic infringed on rights to Presley's songs, including \"Can't Help Falling in Love.\"",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "d3990852490cd50b88c4aafc54f7fe834c253409",
+          "quote": "AI company infringed on rights of songs by the King"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Anthropic is alleged to have used Presley's songs to train its models without permission.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "d3990852490cd50b88c4aafc54f7fe834c253409",
+          "quote": "to train their models without permission"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The suit centers on a single music artist, Elvis Presley.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "400f2dcadce29b810392e5b8fc501d3171d2d5cc",
+          "quote": "centers around a single music artist from decades past: Elvis."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "882157f1ccf27a202935f124e484dd60bed61efd",
+  "id": "2026-10-25-8b3d3a",
+  "items": [
+    {
+      "item_id": "882157f1ccf27a202935f124e484dd60bed61efd",
+      "lede": "Revenue per employee at the Magnificent Seven has outpaced the S&P 493, and a new comparison highlights the growing divide in fortunes between America\u2019s largest technology companies and the rest of the S&P 500.",
+      "outlet": "tomshardware",
+      "published": "2026-10-25T15:25:40Z",
+      "title": "Big Tech is cashing in on AI while the rest of corporate America sees no financial returns",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins"
+    },
+    {
+      "item_id": "b4f37ed55a9f7eb7ed46b95417d0fa7ae7e62d87",
+      "lede": "The Magnificent Seven are galloping off with the profits, while the rest of the S&P 500 see no benefit, claims Apollo",
+      "outlet": "theregister",
+      "published": "2026-10-26T13:59:00Z",
+      "title": "Private equity giant: AI payoff strictly limited to Big Tech",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

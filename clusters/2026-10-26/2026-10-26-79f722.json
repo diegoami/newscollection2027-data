@@ -1,0 +1,24 @@
+{
+  "anchor": "dd439739b716f89947d89596cd0c8742637010e8",
+  "id": "2026-10-26-79f722",
+  "items": [
+    {
+      "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+      "lede": "The \u201cSteal My Bitcoin\u201d challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+      "outlet": "tomshardware",
+      "published": "2026-10-26T10:30:00Z",
+      "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy"
+    },
+    {
+      "item_id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+      "lede": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours",
+      "outlet": "theregister",
+      "published": "2026-10-26T16:14:00Z",
+      "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+      "url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

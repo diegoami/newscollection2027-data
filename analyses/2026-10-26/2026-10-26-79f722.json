@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-10-26-79f722",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-27T02:20:00Z",
+  "headline": "UK pentester claims Bitcoin bounty in PHP2Shell capture-the-flag challenge",
+  "summary": "A \"Steal My Bitcoin\" challenge offering a bounty to anyone who could breach a deliberately vulnerable PHP website using the disclosed PHP2Shell flaws has been won: a UK pentester known as 'killa' claimed the $2,000 Bitcoin prize, beating the challenge in around three hours.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The \"Steal My Bitcoin\" challenge offered a bounty to breach a vulnerable PHP website using the PHP2Shell flaws.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+          "quote": "challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "No successful claim had been confirmed prior to this one.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+          "quote": "no successful claim has been confirmed"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A UK pentester known as 'killa' claimed the $2,000 Bitcoin prize.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+          "quote": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The challenge was beaten in around three hours.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+          "quote": "beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
