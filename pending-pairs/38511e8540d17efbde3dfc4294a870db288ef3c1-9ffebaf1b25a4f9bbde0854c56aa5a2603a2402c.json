@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "38511e8540d17efbde3dfc4294a870db288ef3c1",
+    "lede": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+    "outlet": "engadget",
+    "published": "2026-10-27T08:18:16Z",
+    "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+    "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+  },
+  "b": {
+    "item_id": "9ffebaf1b25a4f9bbde0854c56aa5a2603a2402c",
+    "lede": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T17:08:08Z",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+  },
+  "score": 0.6287
+}

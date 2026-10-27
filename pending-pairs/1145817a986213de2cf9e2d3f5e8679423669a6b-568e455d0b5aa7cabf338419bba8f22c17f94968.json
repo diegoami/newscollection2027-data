@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
+    "lede": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
+    "outlet": "theregister",
+    "published": "2026-10-27T17:47:07Z",
+    "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
+    "url": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797"
+  },
+  "b": {
+    "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+    "lede": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:25:11Z",
+    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+  },
+  "score": 0.685974
+}

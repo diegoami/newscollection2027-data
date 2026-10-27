@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71d9cb2bf3e5ef867fc7df6dea524995e0b59531",
+    "lede": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+    "outlet": "arstechnica",
+    "published": "2026-10-27T20:25:55Z",
+    "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+    "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+  },
+  "b": {
+    "item_id": "a6ce31709924c3c2651258b5f733c17c511b6122",
+    "lede": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-24T14:17:32Z",
+    "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+    "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+  },
+  "score": 0.585283
+}
