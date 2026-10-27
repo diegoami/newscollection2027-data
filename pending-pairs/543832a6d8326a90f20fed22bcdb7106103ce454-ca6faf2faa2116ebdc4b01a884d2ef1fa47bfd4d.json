@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "543832a6d8326a90f20fed22bcdb7106103ce454",
+    "lede": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T01:12:21Z",
+    "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
+  },
+  "b": {
+    "item_id": "ca6faf2faa2116ebdc4b01a884d2ef1fa47bfd4d",
+    "lede": "But there's not much evidence this is anything more than echoes of unsanitized training data",
+    "outlet": "theregister",
+    "published": "2026-10-26T21:27:37Z",
+    "title": "Alibaba's Qwen AI caught trying to contact server in China",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561"
+  },
+  "score": 0.586446
+}
