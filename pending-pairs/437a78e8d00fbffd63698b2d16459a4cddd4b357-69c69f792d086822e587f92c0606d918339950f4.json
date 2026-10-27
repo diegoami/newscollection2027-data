@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+    "lede": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:54:51Z",
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+  },
+  "b": {
+    "item_id": "69c69f792d086822e587f92c0606d918339950f4",
+    "lede": "Apple has added a host of battery-management features to the iPhone over the years.",
+    "outlet": "engadget",
+    "published": "2026-10-24T13:45:00Z",
+    "title": "How to get better iPhone battery life without closing any apps",
+    "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/"
+  },
+  "score": 0.670899
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "201a6bfc4c9c82a0f6543ea2c1ee039aa403185a",
+    "lede": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T20:55:05Z",
+    "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
+  },
+  "b": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "score": 0.571178
+}

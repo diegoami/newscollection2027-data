@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "12e5bdb8a8e882a12e8d8150f16744829387c252",
+    "lede": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller.",
+    "outlet": "tomshardware",
+    "published": "2026-10-27T13:34:43Z",
+    "title": "Keybytes \u2018truly modular keyboard\u2019 starts with one key and is assembled like Legos",
+    "url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keybytes-truly-modular-keyboard-starts-with-one-key-and-is-assembled-like-legos-each-magnetic-key-module-has-its-own-risc-v-microcontroller-for-the-ultimate-in-customizability"
+  },
+  "b": {
+    "item_id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+    "lede": "Every key is its own module, and its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build",
+    "outlet": "theregister",
+    "published": "2026-10-26T17:25:00Z",
+    "title": "Open source keyboard lets you swap parts like magnetic Lego bricks",
+    "url": "https://www.theregister.com/offbeat/2026/10/26/open-source-keyboard-lets-you-swap-parts-like-magnetic-lego-bricks/5305470"
+  },
+  "score": 0.625848
+}

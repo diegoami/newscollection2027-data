@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "b": {
+    "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+    "lede": "The \u201cSteal My Bitcoin\u201d challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T10:30:00Z",
+    "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+    "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy"
+  },
+  "score": 0.606647
+}

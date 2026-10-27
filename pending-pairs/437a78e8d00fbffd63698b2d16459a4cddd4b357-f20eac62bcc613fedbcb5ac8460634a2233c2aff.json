@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+    "lede": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:54:51Z",
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+  },
+  "b": {
+    "item_id": "f20eac62bcc613fedbcb5ac8460634a2233c2aff",
+    "lede": "The new tablet stats at $699.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:16:56Z",
+    "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+    "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+  },
+  "score": 0.627442
+}

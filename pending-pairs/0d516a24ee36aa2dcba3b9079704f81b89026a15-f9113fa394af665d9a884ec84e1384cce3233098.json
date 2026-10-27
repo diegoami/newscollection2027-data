@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0d516a24ee36aa2dcba3b9079704f81b89026a15",
+    "lede": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-27T13:50:51Z",
+    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+  },
+  "b": {
+    "item_id": "f9113fa394af665d9a884ec84e1384cce3233098",
+    "lede": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T21:11:07Z",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+  },
+  "score": 0.589124
+}

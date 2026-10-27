@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
+    "lede": "Apple has rolled out software updates for all its platforms today.",
+    "outlet": "engadget",
+    "published": "2026-10-26T19:47:56Z",
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/"
+  },
+  "b": {
+    "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+    "lede": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:54:51Z",
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+  },
+  "score": 0.818583
+}

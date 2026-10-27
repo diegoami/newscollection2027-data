@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+    "lede": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:54:51Z",
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+  },
+  "b": {
+    "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+    "lede": "Included is the ability to limit which applications Siri can directly access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T20:04:16Z",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  "score": 0.750821
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18137863896126e00e9c49c510b5f7efeb160788",
+    "lede": "\u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T10:36:12Z",
+    "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/"
+  },
+  "b": {
+    "item_id": "7b773f060dcd296a09202e0c388fa23b17f76f9b",
+    "lede": "Apple\u2019s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+    "outlet": "zdnet",
+    "published": "2026-10-27T16:09:01Z",
+    "title": "The new iPad Mini\u2019s best upgrade has nothing to do with its flashy OLED screen",
+    "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/"
+  },
+  "score": 0.593796
+}

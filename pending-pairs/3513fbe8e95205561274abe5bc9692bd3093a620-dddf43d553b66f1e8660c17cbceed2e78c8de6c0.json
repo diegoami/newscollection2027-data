@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3513fbe8e95205561274abe5bc9692bd3093a620",
+    "lede": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-27T16:00:00Z",
+    "title": "Google\u2019s next Genie AI model generates more realistic experiences",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+  },
+  "b": {
+    "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+    "lede": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T16:30:57Z",
+    "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+  },
+  "score": 0.81868
+}

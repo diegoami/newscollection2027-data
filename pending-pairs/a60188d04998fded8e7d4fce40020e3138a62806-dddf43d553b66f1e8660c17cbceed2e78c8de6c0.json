@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a60188d04998fded8e7d4fce40020e3138a62806",
+    "lede": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+    "outlet": "arstechnica",
+    "published": "2026-10-27T16:00:22Z",
+    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/"
+  },
+  "b": {
+    "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+    "lede": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T16:30:57Z",
+    "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+  },
+  "score": 0.704972
+}

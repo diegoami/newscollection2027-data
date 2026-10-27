@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+    "lede": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:25:11Z",
+    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+  },
+  "b": {
+    "item_id": "69c69f792d086822e587f92c0606d918339950f4",
+    "lede": "Apple has added a host of battery-management features to the iPhone over the years.",
+    "outlet": "engadget",
+    "published": "2026-10-24T13:45:00Z",
+    "title": "How to get better iPhone battery life without closing any apps",
+    "url": "https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/"
+  },
+  "score": 0.604071
+}

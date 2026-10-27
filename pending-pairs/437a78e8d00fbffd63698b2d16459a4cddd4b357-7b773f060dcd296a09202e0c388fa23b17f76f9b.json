@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+    "lede": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:54:51Z",
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/"
+  },
+  "b": {
+    "item_id": "7b773f060dcd296a09202e0c388fa23b17f76f9b",
+    "lede": "Apple\u2019s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
+    "outlet": "zdnet",
+    "published": "2026-10-27T16:09:01Z",
+    "title": "The new iPad Mini\u2019s best upgrade has nothing to do with its flashy OLED screen",
+    "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/"
+  },
+  "score": 0.619382
+}

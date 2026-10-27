@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6c930674e3dc0d820d7d106bc238f3bc37e87fd1",
+    "lede": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:32:57Z",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+  },
+  "b": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "score": 0.572197
+}

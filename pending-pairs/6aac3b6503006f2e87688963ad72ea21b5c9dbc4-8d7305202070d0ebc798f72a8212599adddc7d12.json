@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
+    "lede": "Both critical PHP flaws land on the agency\u2019s exploited list as infosec pros confirm hackers are getting working shells",
+    "outlet": "theregister",
+    "published": "2026-10-27T14:45:00Z",
+    "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+    "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+  },
+  "b": {
+    "item_id": "8d7305202070d0ebc798f72a8212599adddc7d12",
+    "lede": "Jaydip Modhwadia beats challenge designed to test real-world exploitability of PHP2Shell in around 3 hours",
+    "outlet": "theregister",
+    "published": "2026-10-26T16:14:00Z",
+    "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+    "url": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429"
+  },
+  "score": 0.594184
+}

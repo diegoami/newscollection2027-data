@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+    "lede": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:25:11Z",
+    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+  },
+  "b": {
+    "item_id": "713e614a44cc556020d557ce591d9fbb254e01fc",
+    "lede": "The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.",
+    "outlet": "engadget",
+    "published": "2026-10-24T14:00:00Z",
+    "title": "The MacBook Neo uses an iPhone chip, and it's just good enough",
+    "url": "https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/"
+  },
+  "score": 0.603557
+}

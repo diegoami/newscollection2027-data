@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4b38edd6123c947de4ce7e784b819bff6479888a",
+    "lede": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T09:25:50Z",
+    "title": "Energy giant ENGIE discloses data breach affecting customers",
+    "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/"
+  },
+  "b": {
+    "item_id": "6c930674e3dc0d820d7d106bc238f3bc37e87fd1",
+    "lede": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T13:32:57Z",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/"
+  },
+  "score": 0.603695
+}

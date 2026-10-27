@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a44d05f6353d10866c01b2a744c1ff7d14d885d",
+    "lede": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
+    "outlet": "theregister",
+    "published": "2026-10-26T13:14:00Z",
+    "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
+    "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186"
+  },
+  "b": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "score": 0.58238
+}
