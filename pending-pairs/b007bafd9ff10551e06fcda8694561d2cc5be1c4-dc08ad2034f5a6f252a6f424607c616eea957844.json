@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b007bafd9ff10551e06fcda8694561d2cc5be1c4",
+    "lede": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T11:00:00Z",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/"
+  },
+  "b": {
+    "item_id": "dc08ad2034f5a6f252a6f424607c616eea957844",
+    "lede": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and security tools for enterprise customers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-25T13:00:00Z",
+    "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
+  },
+  "score": 0.617712
+}

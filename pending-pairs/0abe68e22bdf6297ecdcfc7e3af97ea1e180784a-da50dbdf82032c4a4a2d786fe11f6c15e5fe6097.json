@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe68e22bdf6297ecdcfc7e3af97ea1e180784a",
+    "lede": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-off driving automation and had been prototyping new battery chemistries. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-27T11:00:00Z",
+    "title": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
+    "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy"
+  },
+  "b": {
+    "item_id": "da50dbdf82032c4a4a2d786fe11f6c15e5fe6097",
+    "lede": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-23T15:24:45Z",
+    "title": "Feds want robotaxis to signal \u2018I\u2019m driving\u2019 with cyan-colored lights",
+    "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss"
+  },
+  "score": 0.57045
+}

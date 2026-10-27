@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18137863896126e00e9c49c510b5f7efeb160788",
+    "lede": "\u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T10:36:12Z",
+    "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/"
+  },
+  "b": {
+    "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+    "lede": "Included is the ability to limit which applications Siri can directly access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-26T20:04:16Z",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
+  },
+  "score": 0.571121
+}

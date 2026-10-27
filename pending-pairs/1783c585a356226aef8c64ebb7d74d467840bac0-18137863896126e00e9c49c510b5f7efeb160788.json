@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
+    "lede": "Apple has rolled out software updates for all its platforms today.",
+    "outlet": "engadget",
+    "published": "2026-10-26T19:47:56Z",
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/"
+  },
+  "b": {
+    "item_id": "18137863896126e00e9c49c510b5f7efeb160788",
+    "lede": "\u200bApple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T10:36:12Z",
+    "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/"
+  },
+  "score": 0.587463
+}

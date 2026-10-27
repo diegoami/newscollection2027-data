@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
+    "lede": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-23T15:38:05Z",
+    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/"
+  },
+  "b": {
+    "item_id": "77d8f32442c0c1eec4dd98268d63fa477946d754",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T08:20:54Z",
+    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/"
+  },
+  "score": 0.594354
+}

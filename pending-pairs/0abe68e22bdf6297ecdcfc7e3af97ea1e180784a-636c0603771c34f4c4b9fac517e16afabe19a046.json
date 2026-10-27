@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe68e22bdf6297ecdcfc7e3af97ea1e180784a",
+    "lede": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-off driving automation and had been prototyping new battery chemistries. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-27T11:00:00Z",
+    "title": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
+    "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy"
+  },
+  "b": {
+    "item_id": "636c0603771c34f4c4b9fac517e16afabe19a046",
+    "lede": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+    "outlet": "engadget",
+    "published": "2026-10-24T22:45:00Z",
+    "title": "What kind of cooling system do EV batteries use and how does it work?",
+    "url": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/"
+  },
+  "score": 0.582269
+}
