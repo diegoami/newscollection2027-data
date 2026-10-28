@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
+    "lede": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-26T16:27:57Z",
+    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/"
+  },
+  "b": {
+    "item_id": "aa5619127529a8874a748934559011bec38e3190",
+    "lede": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T10:46:23Z",
+    "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
+  },
+  "score": 0.768704
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5b42dab628ea8826b5838f5b19206a0df7cadbea",
+    "lede": "I ranked six AI agents\u2014from Meta\u2019s Muse to Anthropic\u2019s Claude Duet\u2014on how well they completed basic tasks.",
+    "outlet": "wired",
+    "published": "2026-10-27T09:30:00Z",
+    "title": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
+    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/"
+  },
+  "b": {
+    "item_id": "fc656aa09368436f18612aa9be9a7c841f400d63",
+    "lede": "Quake AI is developing APIs to let autonomous agents access its services more efficiently",
+    "outlet": "theregister",
+    "published": "2026-10-28T09:30:00Z",
+    "title": "Neocloud thinks AI agents - not meatbags - will be its main customers",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496"
+  },
+  "score": 0.596931
+}

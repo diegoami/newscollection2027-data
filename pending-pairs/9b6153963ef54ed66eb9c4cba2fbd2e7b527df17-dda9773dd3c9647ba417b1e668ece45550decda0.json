@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9b6153963ef54ed66eb9c4cba2fbd2e7b527df17",
+    "lede": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-26T21:08:28Z",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+    "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/"
+  },
+  "b": {
+    "item_id": "dda9773dd3c9647ba417b1e668ece45550decda0",
+    "lede": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea\u2019s financial giants",
+    "outlet": "theregister",
+    "published": "2026-10-28T11:45:00Z",
+    "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+    "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
+  },
+  "score": 0.589006
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aa5619127529a8874a748934559011bec38e3190",
+    "lede": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T10:46:23Z",
+    "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
+  },
+  "b": {
+    "item_id": "fbd9cb2b4455b922163b87b165abcbd7324b9de1",
+    "lede": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-26T09:19:57Z",
+    "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+    "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+  },
+  "score": 0.575724
+}
