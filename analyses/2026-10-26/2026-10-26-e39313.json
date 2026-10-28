@@ -1,0 +1,62 @@
+{
+ "cluster_id": "2026-10-26-e39313",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "OpenAI launches cheaper, faster GPT-6.1 Terra model",
+ "summary": "OpenAI released GPT-6.1 Terra, a budget mid-tier model aimed at computer use, visual reasoning and coding. It's reported as 3x faster for agents with 50% lower pricing, and about a tenth of the cost of OpenAI's Astra API, while still rivaling pricier models on some tasks.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "OpenAI launched GPT-6.1 Terra, a cheaper mid-tier model.",
+   "sources": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
+     "quote": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+    },
+    {
+     "outlet": "theregister",
+     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+     "quote": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The model is reported as 3x faster for AI agents and 50% cheaper.",
+   "sources": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
+     "quote": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The model costs about a tenth of the price of OpenAI's Astra API.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+     "quote": "a tenth of Astra's API price"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "It rivals pricier models on some tasks despite the lower price.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+     "quote": "Not a bombshell, but it rivals pricier models on some tasks"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

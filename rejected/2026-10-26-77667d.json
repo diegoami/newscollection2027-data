@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "6edce38613d7308003470b99b6b67327df935aa8",
+            "outlet": "wired",
+            "quote": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America's most sweeping surveillance program."
+          },
+          {
+            "item_id": "270fef5bbd91928ddc7dc5740d46493929350c6e",
+            "outlet": "arstechnica",
+            "quote": "Senators say officials hid a ruling on warrantless searches past its release deadline."
+          }
+        ],
+        "statement": "Two US senators say the government is withholding a FISA court ruling past its release deadline."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "270fef5bbd91928ddc7dc5740d46493929350c6e",
+            "outlet": "arstechnica",
+            "quote": "US officials want Section 702 renewed before damaging court ruling goes public"
+          }
+        ],
+        "statement": "Officials reportedly want Section 702 renewed before the damaging ruling becomes public."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "6edce38613d7308003470b99b6b67327df935aa8",
+            "outlet": "wired",
+            "quote": "the Trump administration is breaking the law by withholding the FISA court decision"
+          }
+        ],
+        "statement": "Wired frames the withholding as the administration breaking the law."
+      }
+    ],
+    "cluster_id": "2026-10-26-77667d",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-28T02:23:07Z",
+    "headline": "Senators say US hid FISA court ruling ahead of surveillance renewal push",
+    "model": "claude-sonnet-5",
+    "summary": "Two US senators say officials withheld a FISA court ruling on warrantless searches past its legal release deadline, allegedly to secure Section 702's renewal before the damaging decision becomes public."
+  },
+  "cluster_id": "2026-10-26-77667d",
+  "problems": [
+    "quote: not verbatim in wired 6edce38613d7308003470b99b6b67327df935aa8's title or lede: \"Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America's most sweeping surveillance program.\""
+  ],
+  "rejected_at": "2026-10-28T02:27:30Z"
+}

@@ -1,0 +1,62 @@
+{
+ "cluster_id": "2026-10-26-ec2c7f",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Grok's AI-made Odyssey film admits inaccuracy amid harsh reviews",
+ "summary": "Months after Elon Musk said his Grok-generated version of The Odyssey would outdo Christopher Nolan's film and be historically accurate, Grok itself acknowledged it is not historically accurate, while reviewers panned the film harshly.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Musk had said his Grok-made Odyssey film would outclass Christopher Nolan's version and be historically accurate.",
+   "sources": [
+    {
+     "outlet": "wired",
+     "item_id": "c92152d7aa39368e41d82b0e7b7646b72c0eb10c",
+     "quote": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic"
+    },
+    {
+     "outlet": "theguardian",
+     "item_id": "e75a77880d1a0f2fa5e079932689a2505b7259b9",
+     "quote": "the tycoon said he would use Grok Imagine to make a “historically accurate”"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Grok itself acknowledged its AI-generated Odyssey is not historically accurate.",
+   "sources": [
+    {
+     "outlet": "wired",
+     "item_id": "c92152d7aa39368e41d82b0e7b7646b72c0eb10c",
+     "quote": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Reviewers panned the film, with one calling it meaningless as a laptop screensaver.",
+   "sources": [
+    {
+     "outlet": "theguardian",
+     "item_id": "e75a77880d1a0f2fa5e079932689a2505b7259b9",
+     "quote": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Musk had criticized Nolan's Odyssey for its diverse casting before launching the Grok project.",
+   "sources": [
+    {
+     "outlet": "theguardian",
+     "item_id": "e75a77880d1a0f2fa5e079932689a2505b7259b9",
+     "quote": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

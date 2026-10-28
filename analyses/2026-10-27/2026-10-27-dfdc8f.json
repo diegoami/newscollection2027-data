@@ -1,0 +1,51 @@
+{
+ "cluster_id": "2026-10-27-dfdc8f",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Anduril and Qualcomm launch BlueChip to build laptops in the US",
+ "summary": "Anduril and Qualcomm launched BlueChip, a venture aiming to manufacture laptops fully in the US, including components now made exclusively in China. Anduril founder Palmer Luckey says the goal is full domestic manufacturing, with first prototypes sourcing 90% of procurement costs from the US and allied countries.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Anduril and Qualcomm launched BlueChip, a venture to build laptops manufactured on US soil.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "db756f94a6f339f13dd50c7ddc72c56eb6cbea49",
+     "quote": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop"
+    },
+    {
+     "outlet": "tomshardware",
+     "item_id": "e0535476141a3f00a2d70189cd5f97d91738b10f",
+     "quote": "Military drone outfit Anduril partners with Qualcomm to build laptops on US soil with new BlueChip venture"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Anduril founder Palmer Luckey wants to bring back manufacturing of every individual laptop component to the US, not just assembly.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "db756f94a6f339f13dd50c7ddc72c56eb6cbea49",
+     "quote": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The first BlueChip laptop prototypes source 90% of their procurement cost from US and allied-country suppliers.",
+   "sources": [
+    {
+     "outlet": "tomshardware",
+     "item_id": "e0535476141a3f00a2d70189cd5f97d91738b10f",
+     "quote": "with its first BlueChip laptop prototypes having 90% procurement cost coming from suppliers in the U.S. and other allied countries."
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

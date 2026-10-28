@@ -1,0 +1,24 @@
+{
+  "anchor": "71784ce3534e69e4797b530b102e2a027289af1a",
+  "id": "2026-10-26-baddd4",
+  "items": [
+    {
+      "item_id": "71784ce3534e69e4797b530b102e2a027289af1a",
+      "lede": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "outlet": "arstechnica",
+      "published": "2026-10-26T17:26:36Z",
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/"
+    },
+    {
+      "item_id": "03cebfeae6ba86839300549c3dfebfa3ead5436c",
+      "lede": "Data center gear is being stolen in transit to the tune of hundreds of millions \u2014 grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals",
+      "outlet": "tomshardware",
+      "published": "2026-10-27T09:40:00Z",
+      "title": "Data center gear is being hijacked in transit to the tune of hundreds of millions",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/data-center-gear-is-being-hijacked-in-transit-to-the-tune-of-hundreds-of-millions-grand-theft-gpu-thieves-hack-accounts-perform-hit-and-runs-spoof-gps-signals-and-funnel-hardware-to-china"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

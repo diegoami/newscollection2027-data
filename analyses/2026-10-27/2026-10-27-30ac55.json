@@ -1,0 +1,111 @@
+{
+ "cluster_id": "2026-10-27-30ac55",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Google DeepMind unveils Genie 4 world model with real-time audio",
+ "summary": "Google DeepMind unveiled Genie 4, a world model that generates more realistic worlds, physics, humans and real-time audio, steerable with natural-language prompts and built on Gemini 3.8 Flash. Outlets differ on availability: one says it's rolling out soon to developers and subscribers, another describes a limited research preview for trusted testers.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Google DeepMind unveiled Genie 4, a world model for generating interactive AI experiences.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "3513fbe8e95205561274abe5bc9692bd3093a620",
+     "quote": "Google announced today its Genie 4 world model for generating interactive experiences using AI."
+    },
+    {
+     "outlet": "techcrunch",
+     "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+     "quote": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Genie 4 can generate real-time audio and more realistic worlds.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "3513fbe8e95205561274abe5bc9692bd3093a620",
+     "quote": "can generate audio"
+    },
+    {
+     "outlet": "techcrunch",
+     "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+     "quote": "adds audio, more realistic worlds, and real-time steering"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The model promises more realistic physics and humans.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "a60188d04998fded8e7d4fce40020e3138a62806",
+     "quote": "DeepMind unveils Genie 4 world model promising more realistic physics and humans"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Genie 4 uses Gemini 3.8 Flash under the hood.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "3513fbe8e95205561274abe5bc9692bd3093a620",
+     "quote": "uses Gemini 3.8 Flash under the hood to help"
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "statement": "Genie 4 is currently in a research preview for trusted testers.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+     "quote": "in research preview for trusted testers."
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "statement": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "a60188d04998fded8e7d4fce40020e3138a62806",
+     "quote": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon."
+    }
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "framing",
+   "severity": "medium",
+   "explanation": "Outlets characterize Genie 4's availability differently: one says it will roll out soon to developers and subscribers, another says it is currently a limited research preview for trusted testers.",
+   "quotes": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "a60188d04998fded8e7d4fce40020e3138a62806",
+     "quote": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon."
+    },
+    {
+     "outlet": "techcrunch",
+     "item_id": "dddf43d553b66f1e8660c17cbceed2e78c8de6c0",
+     "quote": "in research preview for trusted testers."
+    }
+   ],
+   "claim_ids": [
+    "c5",
+    "c6"
+   ]
+  }
+ ],
+ "agreement": "partial"
+}

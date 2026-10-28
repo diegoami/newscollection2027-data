@@ -1,0 +1,51 @@
+{
+ "cluster_id": "2026-10-27-1d22dd",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Microsoft issues emergency fix for compromised eMudhra certificates",
+ "summary": "Microsoft released out-of-band Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that don't receive automatic certificate trust list updates.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Microsoft released out-of-band Windows updates related to eMudhra certificates.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "e0a16a2e2ffa5c2ee3e1f033afa42d5c274143db",
+     "quote": "Microsoft releases out-of-band Windows fixes with certificate updates"
+    },
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "9df47a48bc7e9c437524c456a5fafef1ab7430ed",
+     "quote": "Microsoft releases Windows OOB updates to distrust eMudhra certificates"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The updates remove trust in certificates tied to compromised eMudhra certificate authority keys.",
+   "sources": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "9df47a48bc7e9c437524c456a5fafef1ab7430ed",
+     "quote": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The fix protects systems that do not receive automatic certificate trust list updates.",
+   "sources": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "9df47a48bc7e9c437524c456a5fafef1ab7430ed",
+     "quote": "protecting systems that do not receive automatic certificate trust updates."
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

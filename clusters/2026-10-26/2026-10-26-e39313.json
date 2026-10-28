@@ -1,0 +1,24 @@
+{
+  "anchor": "154f68998af199082cfa0f9c06b498901afc035c",
+  "id": "2026-10-26-e39313",
+  "items": [
+    {
+      "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
+      "lede": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-26T20:46:49Z",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+    },
+    {
+      "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+      "lede": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price",
+      "outlet": "theregister",
+      "published": "2026-10-26T23:08:59Z",
+      "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

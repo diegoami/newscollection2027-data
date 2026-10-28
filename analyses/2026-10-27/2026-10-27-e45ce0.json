@@ -1,0 +1,57 @@
+{
+ "cluster_id": "2026-10-27-e45ce0",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Ford's $30K Fathom EV can power a house without an inverter",
+ "summary": "Ford's Fathom, priced around $30,000, is billed as the cheapest American EV able to power a house, outputting 10 kW without needing a wall-mounted inverter, as Ford rolls out two new V2X-capable chargers for home or grid power.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Ford's Fathom will be the cheapest American EV capable of powering a house.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "8652a5d73cd2a99b9eee938738a912135b950485",
+     "quote": "Ford Fathom will be the cheapest American EV capable of powering a house"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The Fathom costs around $30,000.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "04011d5a5c5a0433bcec4c86009584a7ac5b3200",
+     "quote": "the $30K Fathom"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The Fathom pickup doesn't need a wall-mounted inverter to output 10 kW to a house.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "04011d5a5c5a0433bcec4c86009584a7ac5b3200",
+     "quote": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house."
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Ford is rolling out two new chargers with V2X capability, able to power a home or the grid.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "8652a5d73cd2a99b9eee938738a912135b950485",
+     "quote": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability."
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

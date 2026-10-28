@@ -1,84 +1,110 @@
 {
-  "cluster_id": "2026-10-21-47691d",
-  "cluster_version": 2,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-27T02:20:00Z",
-  "headline": "Starlink access in Ukraine returns to normal as Musk accuses Ukraine of misuse",
-  "summary": "Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access, which Musk and Trump initially denied before a WSJ report attributed the order to Musk. Starlink service in Ukraine has since returned to normal. Musk has now accused Ukraine of violating Starlink's terms by using the service for deadly drone strikes, which Ukraine denies, saying Starshield is back to normal.",
-  "claims": [
+ "cluster_id": "2026-10-21-47691d",
+ "cluster_version": 3,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Musk and Ukraine clash over blame for Starlink access slowdown",
+ "summary": "Elon Musk reportedly ordered a Starlink slowdown in Ukraine, which he and Trump initially denied; Musk later said Ukraine violated Starlink's terms by using it for drone strikes, a claim Ukrainian officials dispute, as access returned to normal.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Musk reportedly ordered a slowdown of Starlink access in Ukraine.",
+   "sources": [
     {
-      "id": "c1",
-      "statement": "Musk reportedly ordered SpaceX to throttle Starlink access in Ukraine.",
-      "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "9355f9f27997f86bf209bd598fa68580a39a8d2c",
-          "quote": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
-        }
-      ]
+     "outlet": "arstechnica",
+     "item_id": "5c98085c7b76485ec17b3cd11476c9731c37c745",
+     "quote": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump"
     },
     {
-      "id": "c2",
-      "statement": "Musk and Trump initially both denied ordering the Starlink slowdown.",
-      "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "5c98085c7b76485ec17b3cd11476c9731c37c745",
-          "quote": "Musk and Trump both denied ordering Starlink slowdown."
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "A Wall Street Journal report attributed the slowdown order to Musk.",
-      "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "5c98085c7b76485ec17b3cd11476c9731c37c745",
-          "quote": "WSJ reports it was Musk."
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "Starlink service in Ukraine has returned to working normally.",
-      "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "9355f9f27997f86bf209bd598fa68580a39a8d2c",
-          "quote": "Starlink seems to be working normally again in Ukraine"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
-          "quote": "Starshield back to normal"
-        }
-      ]
-    },
-    {
-      "id": "c5",
-      "statement": "Musk accused Ukraine of violating Starlink's terms by using the service for deadly drone strikes.",
-      "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
-          "quote": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes"
-        }
-      ]
-    },
-    {
-      "id": "c6",
-      "statement": "Ukraine denies misusing the Starlink commercial service.",
-      "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
-          "quote": "denies misuse of Starlink commercial service"
-        }
-      ]
+     "outlet": "techcrunch",
+     "item_id": "9355f9f27997f86bf209bd598fa68580a39a8d2c",
+     "quote": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
     }
-  ],
-  "discrepancies": [],
-  "agreement": "full"
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Musk and Trump both denied ordering the slowdown, though WSJ reported it was Musk.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "5c98085c7b76485ec17b3cd11476c9731c37c745",
+     "quote": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Musk says Ukraine's military violated Starlink's terms of service by using it for offensive drone strikes.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "d4dc3defcdd4828d8bb98ab03aaadb84df90b871",
+     "quote": "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people."
+    },
+    {
+     "outlet": "arstechnica",
+     "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
+     "quote": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Ukrainian officials denied that happened and denied misusing the Starlink commercial service.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
+     "quote": "denies misuse of Starlink commercial service."
+    },
+    {
+     "outlet": "theverge",
+     "item_id": "d4dc3defcdd4828d8bb98ab03aaadb84df90b871",
+     "quote": "however Ukrainian officials have denied that happened"
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "statement": "Starlink access in Ukraine returned to normal.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "9355f9f27997f86bf209bd598fa68580a39a8d2c",
+     "quote": "Starlink seems to be working normally again in Ukraine"
+    },
+    {
+     "outlet": "arstechnica",
+     "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
+     "quote": "Ukraine says Starshield back to normal"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "contradiction",
+   "severity": "high",
+   "explanation": "Musk says Ukraine's military used Starlink for offensive drone strikes in violation of its terms, which Ukrainian officials deny happened.",
+   "quotes": [
+    {
+     "outlet": "theverge",
+     "item_id": "d4dc3defcdd4828d8bb98ab03aaadb84df90b871",
+     "quote": "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people."
+    },
+    {
+     "outlet": "arstechnica",
+     "item_id": "0838a8885736dbc73dee6b6b1b659983533aa372",
+     "quote": "denies misuse of Starlink commercial service."
+    }
+   ],
+   "claim_ids": [
+    "c3",
+    "c4"
+   ]
+  }
+ ],
+ "agreement": "conflicting"
 }

@@ -1,0 +1,40 @@
+{
+  "anchor": "bba291662c45fb8c7a23785eedbacc9d765fd7ab",
+  "id": "2026-10-26-3ff300",
+  "items": [
+    {
+      "item_id": "bba291662c45fb8c7a23785eedbacc9d765fd7ab",
+      "lede": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-26T23:34:58Z",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+    },
+    {
+      "item_id": "38511e8540d17efbde3dfc4294a870db288ef3c1",
+      "lede": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+      "outlet": "engadget",
+      "published": "2026-10-27T08:18:16Z",
+      "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+      "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/"
+    },
+    {
+      "item_id": "9ffebaf1b25a4f9bbde0854c56aa5a2603a2402c",
+      "lede": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "outlet": "techcrunch",
+      "published": "2026-10-27T17:08:08Z",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+      "item_id": "ba3cece69efb7bc08816e4f8f305f1bf8b204888",
+      "lede": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-27T20:48:58Z",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

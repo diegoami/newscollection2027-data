@@ -1,0 +1,24 @@
+{
+  "anchor": "8652a5d73cd2a99b9eee938738a912135b950485",
+  "id": "2026-10-27-e45ce0",
+  "items": [
+    {
+      "item_id": "8652a5d73cd2a99b9eee938738a912135b950485",
+      "lede": "Ford is rolling out two new chargers capable of powering a home or the grid \u2014 so-called V2X capability.",
+      "outlet": "techcrunch",
+      "published": "2026-10-27T14:51:33Z",
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/"
+    },
+    {
+      "item_id": "04011d5a5c5a0433bcec4c86009584a7ac5b3200",
+      "lede": "The Fathom pickup won\u2019t need a wall-mounted inverter to output 10 kW to your house.",
+      "outlet": "arstechnica",
+      "published": "2026-10-27T16:17:58Z",
+      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+      "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

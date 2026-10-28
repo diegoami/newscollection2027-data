@@ -1,0 +1,75 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "9ff19066829baa4497593be41397363bc255bafe",
+            "outlet": "engadget",
+            "quote": "Instagram wants you to watch 90-minute videos on your TV"
+          },
+          {
+            "item_id": "3a26775a7ff108509b5241f5b588ab288a39b80a",
+            "outlet": "techcrunch",
+            "quote": "As Instagram rolls out long form videos of up to 90 minutes"
+          }
+        ],
+        "statement": "Instagram is rolling out long-form videos of up to 90 minutes."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "3a26775a7ff108509b5241f5b588ab288a39b80a",
+            "outlet": "techcrunch",
+            "quote": "Watch out, YouTube \u2014 Instagram goes from short-form to 90-minute videos"
+          },
+          {
+            "item_id": "0c275ec91b91b149bce1fbd7b8d62cb814cbfc06",
+            "outlet": "wired",
+            "quote": "Instagram's long-form video update is more than a swipe at YouTube."
+          }
+        ],
+        "statement": "The move positions Instagram to compete with YouTube."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "9ff19066829baa4497593be41397363bc255bafe",
+            "outlet": "engadget",
+            "quote": "Instagram is experimenting with longform video again."
+          }
+        ],
+        "statement": "Instagram is returning to experimenting with long-form video."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "0c275ec91b91b149bce1fbd7b8d62cb814cbfc06",
+            "outlet": "wired",
+            "quote": "It's an attempt to capture the clip economy."
+          }
+        ],
+        "statement": "The update is also an attempt to capture the short-clip economy, not just compete with YouTube."
+      }
+    ],
+    "cluster_id": "2026-10-26-466ac7",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-10-28T02:23:07Z",
+    "headline": "Instagram rolls out 90-minute videos to challenge YouTube",
+    "model": "claude-sonnet-5",
+    "summary": "Instagram is rolling out long-form videos of up to 90 minutes, a move outlets frame as a direct challenge to YouTube and, per one report, an attempt to capture the broader short-clip economy as well."
+  },
+  "cluster_id": "2026-10-26-466ac7",
+  "problems": [
+    "quote: not verbatim in wired 0c275ec91b91b149bce1fbd7b8d62cb814cbfc06's title or lede: \"Instagram's long-form video update is more than a swipe at YouTube.\"",
+    "quote: not verbatim in wired 0c275ec91b91b149bce1fbd7b8d62cb814cbfc06's title or lede: \"It's an attempt to capture the clip economy.\""
+  ],
+  "rejected_at": "2026-10-28T02:27:30Z"
+}

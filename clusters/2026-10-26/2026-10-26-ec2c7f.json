@@ -1,0 +1,24 @@
+{
+  "anchor": "c92152d7aa39368e41d82b0e7b7646b72c0eb10c",
+  "id": "2026-10-26-ec2c7f",
+  "items": [
+    {
+      "item_id": "c92152d7aa39368e41d82b0e7b7646b72c0eb10c",
+      "lede": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan\u2019s mythological epic, the bot itself admitted defeat.",
+      "outlet": "wired",
+      "published": "2026-10-26T22:40:37Z",
+      "title": "Grok Says Its AI-Generated Version of \u2018The Odyssey\u2019 Is \u2018Not Historically Accurate\u2019",
+      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/"
+    },
+    {
+      "item_id": "e75a77880d1a0f2fa5e079932689a2505b7259b9",
+      "lede": "Tesla tycoon launched Grok project after criticising Christoper Nolan\u2019s diverse casting for his Homeric blockbuster Elon Musk has released an AI-generated rival to Christopher Nolan\u2019s The Odyssey after pledging to make a version \u201ctrue to the art of Homer\u201d. Having criticised the hit movie in the summer, the tycoon said he would use Grok Imagine to make a \u201chistorically accurate\u201d",
+      "outlet": "theguardian",
+      "published": "2026-10-27T14:08:41Z",
+      "title": "\u2018Meaningless as a laptop screensaver\u2019: reviewers slate Musk\u2019s AI-made Odyssey film",
+      "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,56 @@
+{
+ "cluster_id": "2026-10-27-89d19b",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Acer's Predator Atlas 8 handheld launches in US at Best Buy",
+ "summary": "Acer's Predator Atlas 8 gaming handheld is launching in the US for the first time, arriving exclusively at Best Buy on November 1 for $1,300 in its more powerful Intel Arc G3 Extreme configuration.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Acer's Predator Atlas 8 gaming handheld is launching in the US for the first time.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "4103d6bc510a61204193ed919fdce81f6d2daee9",
+     "quote": "Acer is bringing a Predator gaming handheld to the US for the first time"
+    },
+    {
+     "outlet": "engadget",
+     "item_id": "8e8a1460ad3690430a654cb8a6224f89995ac92e",
+     "quote": "The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "It will be sold exclusively at Best Buy starting November 1, priced at $1,300.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "4103d6bc510a61204193ed919fdce81f6d2daee9",
+     "quote": "will be available exclusively at Best Buy on"
+    },
+    {
+     "outlet": "engadget",
+     "item_id": "8e8a1460ad3690430a654cb8a6224f89995ac92e",
+     "quote": "finally launches at Best Buy on November 1 for $1,300"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The US version is the Intel Arc G3 Extreme variant, the more powerful of two models announced in May.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "4103d6bc510a61204193ed919fdce81f6d2daee9",
+     "quote": "The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

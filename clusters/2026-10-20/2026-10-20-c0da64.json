@@ -233,8 +233,40 @@
       "published": "2026-10-24T15:30:00Z",
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/"
+    },
+    {
+      "item_id": "fbd9cb2b4455b922163b87b165abcbd7324b9de1",
+      "lede": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-26T09:19:57Z",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+    },
+    {
+      "item_id": "77d8f32442c0c1eec4dd98268d63fa477946d754",
+      "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-27T08:20:54Z",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/"
+    },
+    {
+      "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+      "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "outlet": "techcrunch",
+      "published": "2026-10-27T14:40:39Z",
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+    },
+    {
+      "item_id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
+      "lede": "Both critical PHP flaws land on the agency\u2019s exploited list as infosec pros confirm hackers are getting working shells",
+      "outlet": "theregister",
+      "published": "2026-10-27T14:45:00Z",
+      "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
     }
   ],
   "status": "analyzed",
-  "version": 4
+  "version": 5
 }

@@ -1,0 +1,84 @@
+{
+ "cluster_id": "2026-10-26-baddd4",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "GPS-spoofing thieves steal data center gear, but loss estimates differ",
+ "summary": "Highway thieves have been spoofing GPS signals, hacking accounts and staging hit-and-runs to steal data center equipment in transit. One outlet put the losses at $100 million, while another described losses in the hundreds of millions of dollars.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Highway thieves are using GPS spoofing to steal data center equipment in transit.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "71784ce3534e69e4797b530b102e2a027289af1a",
+     "quote": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo"
+    },
+    {
+     "outlet": "tomshardware",
+     "item_id": "03cebfeae6ba86839300549c3dfebfa3ead5436c",
+     "quote": "spoof GPS signals"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Thieves stole $100 million in data center equipment, according to investigators.",
+   "sources": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "71784ce3534e69e4797b530b102e2a027289af1a",
+     "quote": "Investigators explain how highway thieves stole $100M in data center equipment."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The thefts total in the hundreds of millions of dollars.",
+   "sources": [
+    {
+     "outlet": "tomshardware",
+     "item_id": "03cebfeae6ba86839300549c3dfebfa3ead5436c",
+     "quote": "Data center gear is being hijacked in transit to the tune of hundreds of millions"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Thieves also hacked accounts and staged hit-and-runs as part of the scheme.",
+   "sources": [
+    {
+     "outlet": "tomshardware",
+     "item_id": "03cebfeae6ba86839300549c3dfebfa3ead5436c",
+     "quote": "grand-theft-GPU thieves hack accounts, perform hit-and-runs, and spoof GPS signals"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "number",
+   "severity": "high",
+   "explanation": "One outlet put the losses from the thefts at $100 million, while another described losses in the hundreds of millions of dollars.",
+   "quotes": [
+    {
+     "outlet": "arstechnica",
+     "item_id": "71784ce3534e69e4797b530b102e2a027289af1a",
+     "quote": "Investigators explain how highway thieves stole $100M in data center equipment."
+    },
+    {
+     "outlet": "tomshardware",
+     "item_id": "03cebfeae6ba86839300549c3dfebfa3ead5436c",
+     "quote": "Data center gear is being hijacked in transit to the tune of hundreds of millions"
+    }
+   ],
+   "claim_ids": [
+    "c2",
+    "c3"
+   ]
+  }
+ ],
+ "agreement": "conflicting"
+}

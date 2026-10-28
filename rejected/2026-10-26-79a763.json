@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+            "outlet": "theregister",
+            "quote": "Every key is its own module"
+          },
+          {
+            "item_id": "12e5bdb8a8e882a12e8d8150f16744829387c252",
+            "outlet": "tomshardware",
+            "quote": "Keybytes 'truly modular keyboard' starts with one key and is assembled like Legos"
+          }
+        ],
+        "statement": "The Keybytes project is a modular keyboard where each key is its own module, connected like building blocks."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "12e5bdb8a8e882a12e8d8150f16744829387c252",
+            "outlet": "tomshardware",
+            "quote": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller."
+          }
+        ],
+        "statement": "Each key has its own microcontroller, magnetically connected to a central hub."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+            "outlet": "theregister",
+            "quote": "its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build"
+          }
+        ],
+        "statement": "The designer says there is no theoretical limit to how large a board can be built."
+      }
+    ],
+    "cluster_id": "2026-10-26-79a763",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-10-28T02:23:07Z",
+    "headline": "Modular Keybytes keyboard lets users build boards key by key",
+    "model": "claude-sonnet-5",
+    "summary": "The Keybytes project is a modular, open-source keyboard where each key is its own module with its own microcontroller, magnetically connected to a central hub, letting users assemble or expand a keyboard like building blocks with no theoretical size limit."
+  },
+  "cluster_id": "2026-10-26-79a763",
+  "problems": [
+    "quote: not verbatim in tomshardware 12e5bdb8a8e882a12e8d8150f16744829387c252's title or lede: \"Keybytes 'truly modular keyboard' starts with one key and is assembled like Legos\""
+  ],
+  "rejected_at": "2026-10-28T02:27:30Z"
+}

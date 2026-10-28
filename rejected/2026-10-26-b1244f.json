@@ -1,0 +1,84 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "6724ba58888dbe91c0b650fe43600be679790a6c",
+            "outlet": "techcrunch",
+            "quote": "Microsoft offers buyouts to around 60,000 employees"
+          },
+          {
+            "item_id": "be8696cbbf8cbb22c21de16a15d1d98895cbaa60",
+            "outlet": "engadget",
+            "quote": "Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs"
+          },
+          {
+            "item_id": "d5158845f8cffd6b042f4e78c6011ccd8cc0973a",
+            "outlet": "tomshardware",
+            "quote": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite"
+          }
+        ],
+        "statement": "Microsoft is offering voluntary buyouts to around 60,000 employees."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "be8696cbbf8cbb22c21de16a15d1d98895cbaa60",
+            "outlet": "engadget",
+            "quote": "That's over a quarter of the company's global workforce."
+          },
+          {
+            "item_id": "594899e8d92eba9c2c977a12e06d5130e4cf2e87",
+            "outlet": "arstechnica",
+            "quote": "Microsoft offers to buy out a quarter of its workforce"
+          }
+        ],
+        "statement": "The buyouts cover roughly a quarter of Microsoft's global workforce."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "f8e85120f2e2c29344a92b32e45f0e1b270adfe9",
+            "outlet": "theguardian",
+            "quote": "Tech company offers buyouts in an effort to reduce costs amid the rising use of artificial intelligence"
+          },
+          {
+            "item_id": "d5158845f8cffd6b042f4e78c6011ccd8cc0973a",
+            "outlet": "tomshardware",
+            "quote": "Microsoft is offering buyouts to around 60,000 members of its workforce as it looks to balance the books amid a ramp-up in AI data center spending."
+          }
+        ],
+        "statement": "The buyouts aim to cut costs amid rising AI spending."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "594899e8d92eba9c2c977a12e06d5130e4cf2e87",
+            "outlet": "arstechnica",
+            "quote": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today."
+          }
+        ],
+        "statement": "Affected employees are in the US, Canada, India and the UK."
+      }
+    ],
+    "cluster_id": "2026-10-26-b1244f",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-10-28T02:23:07Z",
+    "headline": "Microsoft offers buyouts to 60,000 employees amid AI cost push",
+    "model": "claude-sonnet-5",
+    "summary": "Microsoft is offering voluntary buyouts to about 60,000 employees, roughly a quarter of its global workforce, in the US, Canada, India and the UK, as it works to cut costs amid rising AI spending."
+  },
+  "cluster_id": "2026-10-26-b1244f",
+  "problems": [
+    "quote: not verbatim in theguardian f8e85120f2e2c29344a92b32e45f0e1b270adfe9's title or lede: 'Tech company offers buyouts in an effort to reduce costs amid the rising use of artificial intelligence'"
+  ],
+  "rejected_at": "2026-10-28T02:27:30Z"
+}

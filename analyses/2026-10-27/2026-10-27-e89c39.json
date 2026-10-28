@@ -1,0 +1,46 @@
+{
+ "cluster_id": "2026-10-27-e89c39",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "UK AI datacentre policy shaped by business access, not green groups",
+ "summary": "An investigation found the UK government met with 137 businesses while developing its AI datacentre and 'AI growth zone' policy but held no meetings with environmental groups, with a watchdog citing a 'considerable revolving door' between ministers, civil servants and the AI industry.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "An investigation found the UK government met with 137 businesses over AI datacentres but no environmental groups.",
+   "sources": [
+    {
+     "outlet": "theguardian",
+     "item_id": "d4c16ff94bb823acb2536e5c5e084e23647c0a91",
+     "quote": "UK government met 137 businesses over AI datacentres – but no environmental groups"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The investigation found business interests dominated government meetings while communities were left out of decisions on AI Growth Zones.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "0b456b94dd573fb9713c97020f0979a6f50e2bdd",
+     "quote": "Investigation finds businesses dominated govt meetings while communities were left out of decisions about AI Growth Zones"
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The watchdog Spotlight on Corruption found a 'considerable revolving door' of ministers and civil servants moving into AI roles.",
+   "sources": [
+    {
+     "outlet": "theguardian",
+     "item_id": "d4c16ff94bb823acb2536e5c5e084e23647c0a91",
+     "quote": "The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

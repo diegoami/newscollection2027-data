@@ -1,0 +1,51 @@
+{
+ "cluster_id": "2026-10-26-79a763",
+ "cluster_version": 1,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Modular Keybytes keyboard lets users build boards key by key",
+ "summary": "The Keybytes project is a modular, open-source keyboard where each key is its own module with its own microcontroller, magnetically connected to a central hub, letting users assemble or expand a keyboard like building blocks with no theoretical size limit.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "The Keybytes project is a modular keyboard where each key is its own module, connected like building blocks.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+     "quote": "Every key is its own module"
+    },
+    {
+     "outlet": "tomshardware",
+     "item_id": "12e5bdb8a8e882a12e8d8150f16744829387c252",
+     "quote": "Keybytes ‘truly modular keyboard’ starts with one key and is assembled like Legos"
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Each key has its own microcontroller, magnetically connected to a central hub.",
+   "sources": [
+    {
+     "outlet": "tomshardware",
+     "item_id": "12e5bdb8a8e882a12e8d8150f16744829387c252",
+     "quote": "The modular Keybytes project combines a Keyword hub that is magnetically connected to Keybit keys, with each key having its own microcontroller."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "The designer says there is no theoretical limit to how large a board can be built.",
+   "sources": [
+    {
+     "outlet": "theregister",
+     "item_id": "4913cf918626417096fc8a4de6daa0fbd4ac6f3c",
+     "quote": "its designer tells us the sky's the theoretical limit on the size of the frankenboard you can build"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
+}

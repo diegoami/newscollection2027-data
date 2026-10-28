@@ -1,315 +1,178 @@
 {
-  "cluster_id": "2026-10-20-c0da64",
-  "cluster_version": 4,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-25T02:30:00Z",
-  "headline": "Critical PHP flaws, found with AI, trigger global patch scramble",
-  "summary": "Two critical PHP vulnerabilities (PHP2Shell), reportedly uncovered with AI tools and rated with a severity score of 9.2, prompted emergency patches, government website shutdowns, and millions of exploitation attempts beginning days before fixes shipped. A third bug surfaced later without an emergency fix. Outlets differ on who gets credit for the discovery, how the initial warning was sourced, which governments acted, and what counts as an \"AI-assisted attack.\"",
-  "claims": [
+ "cluster_id": "2026-10-20-c0da64",
+ "cluster_version": 5,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Two critical PHP flaws disrupt the web; a third bug later emerges",
+ "summary": "PHP disclosed two critical remote-code-execution flaws, dubbed PHP2Shell, prompting website shutdowns worldwide, AWS-logged pre-disclosure attacks, and eventual CISA confirmation of active exploitation; outlets differ on who found the bugs and whether a later third flaw changes the count.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "PHP disclosed two critical remote-code-execution vulnerabilities, tracked as PHP2Shell.",
+   "sources": [
     {
-      "id": "c1",
-      "statement": "The PHP security team disclosed two critical vulnerabilities, collectively called PHP2Shell, requiring emergency patches.",
-      "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
-          "quote": "PHP warns admins of two critical flaws, emergency patches coming tomorrow"
-        },
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
-          "quote": "two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "772b89f0c953c0a3aeb8fbfbf3323b240e9079c8",
-          "quote": "Two critical bugs in the PHP web programming language"
-        }
-      ]
+     "outlet": "bleepingcomputer",
+     "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+     "quote": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell."
     },
     {
-      "id": "c2",
-      "statement": "The two flaws are tracked as CVE-2026-109618 and CVE-2026-109619.",
-      "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
-          "quote": "(CVE-2026-109618 and CVE-2026-109619)"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The vulnerabilities were assigned a severity score of 9.2.",
-      "sources": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
-          "quote": "severity scores of 9.2"
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "AI tools were used in the discovery of the vulnerabilities.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "0efdcaa8b19e54982c82f84c7710c4a29df20f48",
-          "quote": "Two bugs found with AI are behind major issues today"
-        },
-        {
-          "outlet": "bbc-technology",
-          "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
-          "quote": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-        },
-        {
-          "outlet": "wired",
-          "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
-          "quote": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language."
-        }
-      ]
-    },
-    {
-      "id": "c5",
-      "statement": "OpenAI said researchers using its GPT-5.6 Sol model uncovered the flaws and demonstrated working exploits.",
-      "sources": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
-          "quote": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities"
-        }
-      ]
-    },
-    {
-      "id": "c6",
-      "statement": "Google's security team Wiz is also credited alongside OpenAI with finding the flaws.",
-      "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
-          "quote": "OpenAI, Google’s Wiz find ancient holes, panicking the internet"
-        }
-      ]
-    },
-    {
-      "id": "c7",
-      "statement": "Hackers began exploiting the vulnerabilities about four days before patches were released.",
-      "sources": [
-        {
-          "outlet": "wired",
-          "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
-          "quote": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago"
-        },
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
-          "quote": "attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "c625905b3719c2e1bf9191632ef1e6c8e4e7b14d",
-          "quote": "Hackers got a four-day head start on epic PHP2Shell vulnerability"
-        },
-        {
-          "outlet": "theregister",
-          "item_id": "267a1adf581ab01f8a44154e8e21c6fc8a8089ac",
-          "quote": "Amazon spotted attackers trying their luck four days before patches landed"
-        }
-      ]
-    },
-    {
-      "id": "c8",
-      "statement": "Cloudflare reported millions of exploitation attempts against the flaw.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "267a1adf581ab01f8a44154e8e21c6fc8a8089ac",
-          "quote": "Cloudflare reports millions of exploit attempts"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
-          "quote": "Websites across world hit by millions of attempts to exploit PHP code flaw"
-        }
-      ]
-    },
-    {
-      "id": "c9",
-      "statement": "PHP underpins roughly 70% of the world's websites.",
-      "sources": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
-          "quote": "could affect 70% of websites"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
-          "quote": "vulnerability in language used by 70% of sites"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
-          "quote": "Problem in language that underpins 70% of sites"
-        }
-      ]
-    },
-    {
-      "id": "c10",
-      "statement": "Governments took websites offline as a precaution while the flaw was addressed.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
-          "quote": "Government websites in the EU and Canada taken offline over PHP vulnerability"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
-          "quote": "Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily"
-        },
-        {
-          "outlet": "bbc-technology",
-          "item_id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
-          "quote": "Websites taken down across Europe ahead of critical cyber-security update"
-        }
-      ]
-    },
-    {
-      "id": "c11",
-      "statement": "A third, separate PHP2Shell bug was later found and will not get an emergency fix.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "a7b370898ad8f0d40dcedc048ab197c1eb6949ab",
-          "quote": "There's a third PHP2Shell bug, but it won't get an emergency fix"
-        }
-      ]
-    },
-    {
-      "id": "c12",
-      "statement": "The PHP security team shared mitigation steps for a further, unpatched remote code execution vulnerability.",
-      "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "5d4b1321ac5e829f50d22e39d290e90e64745db2",
-          "quote": "has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch"
-        },
-        {
-          "outlet": "zdnet",
-          "item_id": "3936dd7e1853e40783aa2de1c57094379bee413a",
-          "quote": "PHP2Shell: Haven’t patched yet? Take these steps now to mitigate"
-        }
-      ]
-    },
-    {
-      "id": "c13",
-      "statement": "Cybersecurity experts warned the episode signals a new, more dangerous era of AI-enabled hacking.",
-      "sources": [
-        {
-          "outlet": "theguardian",
-          "item_id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
-          "quote": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking"
-        },
-        {
-          "outlet": "wired",
-          "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
-          "quote": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
-        }
-      ]
+     "outlet": "bleepingcomputer",
+     "item_id": "fbd9cb2b4455b922163b87b165abcbd7324b9de1",
+     "quote": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild."
     }
-  ],
-  "discrepancies": [
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "The flaws could affect roughly 70% of the web's sites, which run on PHP.",
+   "sources": [
     {
-      "kind": "attribution",
-      "severity": "medium",
-      "claim_ids": [
-        "c4",
-        "c5",
-        "c6"
-      ],
-      "explanation": "Outlets credit the bugs' discovery differently: OpenAI alone, OpenAI together with Google's Wiz, or unspecified AI.",
-      "quotes": [
-        {
-          "outlet": "tomshardware",
-          "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
-          "quote": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
-          "quote": "OpenAI, Google’s Wiz find ancient holes"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "0efdcaa8b19e54982c82f84c7710c4a29df20f48",
-          "quote": "Two bugs found with AI are behind major issues today"
-        }
-      ]
+     "outlet": "theguardian",
+     "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
+     "quote": "experts say bad actors could exploit vulnerability in language used by 70% of sites"
     },
     {
-      "kind": "attribution",
-      "severity": "low",
-      "claim_ids": [
-        "c1"
-      ],
-      "explanation": "Early reports differ on whether the warning came from an official PHP security team notice or an unconfirmed report.",
-      "quotes": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "05dd90fd0f45aeea58e41e32ea7000f4b8eca8e7",
-          "quote": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "cd066e93db9f74501b06e963b063fcaffd123b17",
-          "quote": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
-        }
-      ]
-    },
-    {
-      "kind": "omission",
-      "severity": "low",
-      "claim_ids": [
-        "c10"
-      ],
-      "explanation": "Outlets differ on which governments took sites offline: one names Canada alongside the EU, another lists specific European countries without Canada.",
-      "quotes": [
-        {
-          "outlet": "engadget",
-          "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
-          "quote": "Government websites in the EU and Canada taken offline over PHP vulnerability"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
-          "quote": "Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily"
-        }
-      ]
-    },
-    {
-      "kind": "framing",
-      "severity": "medium",
-      "claim_ids": [
-        "c4",
-        "c5"
-      ],
-      "explanation": "Outlets differ on whether \"AI-assisted attacks\" refers to malicious hackers or to the researchers who first demonstrated the exploits responsibly.",
-      "quotes": [
-        {
-          "outlet": "wired",
-          "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
-          "quote": "Then the AI-assisted attacks began."
-        },
-        {
-          "outlet": "tomshardware",
-          "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
-          "quote": "demonstrated working exploits, after which the company coordinated fixes"
-        }
-      ]
+     "outlet": "techcrunch",
+     "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+     "quote": "warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software."
     }
-  ],
-  "agreement": "partial"
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Governments and companies took websites offline as a precaution while patching.",
+   "sources": [
+    {
+     "outlet": "bbc-technology",
+     "item_id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+     "quote": "Websites taken down across Europe ahead of critical cyber-security update"
+    },
+    {
+     "outlet": "theregister",
+     "item_id": "e65691ba63a784d625d8c39f16a97bd7d3e92f25",
+     "quote": "Websites down as precaution as exploits have already been published"
+    },
+    {
+     "outlet": "engadget",
+     "item_id": "b27bd16fd2c4ce0e1670a1b754089709f40cde2e",
+     "quote": "Government websites in the EU and Canada taken offline over PHP vulnerability"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "Amazon found attackers probing the flaws days before patches were made public.",
+   "sources": [
+    {
+     "outlet": "wired",
+     "item_id": "19e4246081a21316a8239e6656b2c998179695e5",
+     "quote": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago."
+    },
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "c78f9791369d56c3a76766c1d0a9f0524c0e6c86",
+     "quote": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday."
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "statement": "AI tools were involved both in uncovering the vulnerabilities and in attackers later exploiting them.",
+   "sources": [
+    {
+     "outlet": "wired",
+     "item_id": "9865b391edef9d7b36a4c2dfba3a1211e1b057f5",
+     "quote": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable"
+    },
+    {
+     "outlet": "bbc-technology",
+     "item_id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
+     "quote": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+    }
+   ]
+  },
+  {
+   "id": "c6",
+   "statement": "CISA added the PHP2Shell vulnerabilities to its known-exploited catalog and ordered federal agencies to patch.",
+   "sources": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "77d8f32442c0c1eec4dd98268d63fa477946d754",
+     "quote": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday."
+    },
+    {
+     "outlet": "theregister",
+     "item_id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
+     "quote": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells"
+    }
+   ]
+  },
+  {
+   "id": "c7",
+   "statement": "OpenAI and Google's security team Wiz were credited with finding the vulnerabilities.",
+   "sources": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
+     "quote": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet"
+    }
+   ]
+  },
+  {
+   "id": "c8",
+   "statement": "OpenAI said its GPT-5.6 Sol model specifically uncovered the flaws, which had severity scores of 9.2.",
+   "sources": [
+    {
+     "outlet": "tomshardware",
+     "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
+     "quote": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities with severity scores of 9.2 and demonstrated working exploits, after which the company coordinated fixes."
+    }
+   ]
+  }
+ ],
+ "discrepancies": [
+  {
+   "kind": "attribution",
+   "severity": "medium",
+   "explanation": "Outlets differ on who gets credit for discovering the flaws: one credits OpenAI and Google's Wiz jointly, another attributes it solely to OpenAI's GPT-5.6 Sol model.",
+   "quotes": [
+    {
+     "outlet": "techcrunch",
+     "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
+     "quote": "OpenAI, Google’s Wiz find ancient holes"
+    },
+    {
+     "outlet": "tomshardware",
+     "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
+     "quote": "OpenAI says researchers using GPT-5.6 Sol uncovered two critical PHP vulnerabilities"
+    }
+   ],
+   "claim_ids": [
+    "c7",
+    "c8"
+   ]
+  },
+  {
+   "kind": "number",
+   "severity": "high",
+   "explanation": "Most coverage describes exactly two critical PHP2Shell vulnerabilities, but one outlet later reported a third bug.",
+   "quotes": [
+    {
+     "outlet": "bleepingcomputer",
+     "item_id": "a5afc0aef8988cce9c8d78933f188cb681f038d5",
+     "quote": "two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell"
+    },
+    {
+     "outlet": "theregister",
+     "item_id": "a7b370898ad8f0d40dcedc048ab197c1eb6949ab",
+     "quote": "There's a third PHP2Shell bug, but it won't get an emergency fix"
+    }
+   ],
+   "claim_ids": [
+    "c1"
+   ]
+  }
+ ],
+ "agreement": "conflicting"
 }

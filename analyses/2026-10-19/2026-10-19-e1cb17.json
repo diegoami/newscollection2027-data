@@ -1,98 +1,77 @@
 {
-  "cluster_id": "2026-10-19-e1cb17",
-  "cluster_version": 3,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-10-25T02:30:00Z",
-  "headline": "Apple schedules 'Pro and Tell' event expected to unveil touchscreen Mac",
-  "summary": "Apple has scheduled a 'Pro and Tell' product event for October 28th at 1PM ET in Los Angeles, expected to introduce the first touchscreen Mac, a new MacBook Pro with an OLED display, and an updated iPad mini. Outlets differ on how specific that iPad mini update is, with one describing it only as refreshed and another specifying an OLED display.",
-  "claims": [
+ "cluster_id": "2026-10-19-e1cb17",
+ "cluster_version": 4,
+ "backend": "claude_code",
+ "model": "claude-sonnet-5",
+ "generated_at": "2026-10-28T02:23:07Z",
+ "headline": "Apple previews 'Pro and Tell' event expected to unveil touchscreen Mac",
+ "summary": "Multiple outlets previewed Apple's October 28 Los Angeles event, where the company is expected to unveil new Macs including its first touchscreen MacBook alongside a refreshed OLED iPad Mini.",
+ "claims": [
+  {
+   "id": "c1",
+   "statement": "Apple scheduled a product event for October 28th in Los Angeles.",
+   "sources": [
     {
-      "id": "c1",
-      "statement": "Apple scheduled a \"Pro and Tell\" product event for October 28th at 1PM ET in Los Angeles.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-          "quote": "it's scheduled for October 28th at 1PM ET in Los Angeles"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "75a4fa27433947fec85b5d9b9d044151e0cdf42b",
-          "quote": "scheduled for October 28th at 1PM ET in Los Angeles"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "e025b45702e49dafba96801659a29869d13d86c0",
-          "quote": "Apple is set to hold another product event on October 28"
-        }
-      ]
+     "outlet": "theverge",
+     "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
+     "quote": "it's scheduled for October 28th at 1PM ET in Los Angeles"
     },
     {
-      "id": "c2",
-      "statement": "Apple is expected to reveal the first touchscreen Mac at the event.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "e025b45702e49dafba96801659a29869d13d86c0",
-          "quote": "will likely feature the first touchscreen Mac"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
-          "quote": "From the first touchscreen MacBook to an OLED iPad mini"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The event is also expected to bring a new iPad mini.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-          "quote": "a refreshed iPad Mini"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
-          "quote": "an OLED iPad mini"
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "The new MacBook Pro expected at the event is said to get an OLED display.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-          "quote": "a new MacBook Pro with an OLED"
-        }
-      ]
+     "outlet": "theverge",
+     "item_id": "75a4fa27433947fec85b5d9b9d044151e0cdf42b",
+     "quote": "is scheduled for October 28th at 1PM ET in Los Angeles."
     }
-  ],
-  "discrepancies": [
+   ]
+  },
+  {
+   "id": "c2",
+   "statement": "Apple is expected to unveil its first touchscreen Mac or MacBook at the event.",
+   "sources": [
     {
-      "kind": "framing",
-      "severity": "low",
-      "claim_ids": [
-        "c3"
-      ],
-      "explanation": "Outlets differ on how specific the expected iPad mini update is: one calls it simply refreshed, another says it will have an OLED display.",
-      "quotes": [
-        {
-          "outlet": "theverge",
-          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-          "quote": "a refreshed iPad Mini"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
-          "quote": "an OLED iPad mini"
-        }
-      ]
+     "outlet": "engadget",
+     "item_id": "e025b45702e49dafba96801659a29869d13d86c0",
+     "quote": "will likely feature the first touchscreen Mac."
+    },
+    {
+     "outlet": "engadget",
+     "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
+     "quote": "From the first touchscreen MacBook to an OLED iPad mini"
+    },
+    {
+     "outlet": "theverge",
+     "item_id": "1b963514a89dad92fa2018f9677c9454494117e1",
+     "quote": "Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event."
     }
-  ],
-  "agreement": "partial"
+   ]
+  },
+  {
+   "id": "c3",
+   "statement": "Apple is also expected to announce new Macs and a refreshed OLED iPad Mini.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
+     "quote": "Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg."
+    },
+    {
+     "outlet": "engadget",
+     "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
+     "quote": "an OLED iPad mini"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "statement": "The event follows soon after Apple's recent iPhone Duo launch.",
+   "sources": [
+    {
+     "outlet": "theverge",
+     "item_id": "75a4fa27433947fec85b5d9b9d044151e0cdf42b",
+     "quote": "the iPhone Duo announcement isn't all that far in our rearview mirror"
+    }
+   ]
+  }
+ ],
+ "discrepancies": [],
+ "agreement": "full"
 }
