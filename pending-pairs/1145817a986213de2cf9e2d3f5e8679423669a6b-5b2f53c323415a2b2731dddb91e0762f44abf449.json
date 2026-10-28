@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
+    "lede": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
+    "outlet": "theregister",
+    "published": "2026-10-27T17:47:07Z",
+    "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
+    "url": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797"
+  },
+  "b": {
+    "item_id": "5b2f53c323415a2b2731dddb91e0762f44abf449",
+    "lede": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+    "outlet": "arstechnica",
+    "published": "2026-10-27T22:37:30Z",
+    "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+  },
+  "score": 0.681364
+}
