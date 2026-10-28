@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "219f99ac76bfe58137b465cc20372739f2386e00",
+    "lede": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T13:50:59Z",
+    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+    "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/"
+  },
+  "b": {
+    "item_id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
+    "lede": "Both critical PHP flaws land on the agency\u2019s exploited list as infosec pros confirm hackers are getting working shells",
+    "outlet": "theregister",
+    "published": "2026-10-27T14:45:00Z",
+    "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+    "url": "https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+  },
+  "score": 0.685788
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+    "lede": "Apple's new touchscreen MacBook Pro starts at $2,899",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:26:10Z",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  },
+  "b": {
+    "item_id": "cefc8a8a080696fe743f867e9e608117c3620ef9",
+    "lede": "Ahead of its 'Pro and Tell' event, the company has already launched a few new devices.",
+    "outlet": "engadget",
+    "published": "2026-10-27T14:23:09Z",
+    "title": "Everything Apple announced this week so far: New iPad and MacBooks",
+    "url": "https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event/"
+  },
+  "score": 0.695445
+}

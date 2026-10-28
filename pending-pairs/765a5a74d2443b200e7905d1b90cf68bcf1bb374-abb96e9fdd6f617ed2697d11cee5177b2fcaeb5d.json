@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "765a5a74d2443b200e7905d1b90cf68bcf1bb374",
+    "lede": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:00:00Z",
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+  },
+  "b": {
+    "item_id": "abb96e9fdd6f617ed2697d11cee5177b2fcaeb5d",
+    "lede": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-27T16:14:18Z",
+    "title": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms"
+  },
+  "score": 0.600146
+}

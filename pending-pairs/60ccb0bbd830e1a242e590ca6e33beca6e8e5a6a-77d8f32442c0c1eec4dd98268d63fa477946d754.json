@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60ccb0bbd830e1a242e590ca6e33beca6e8e5a6a",
+    "lede": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T14:00:00Z",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+  },
+  "b": {
+    "item_id": "77d8f32442c0c1eec4dd98268d63fa477946d754",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T08:20:54Z",
+    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/"
+  },
+  "score": 0.735757
+}

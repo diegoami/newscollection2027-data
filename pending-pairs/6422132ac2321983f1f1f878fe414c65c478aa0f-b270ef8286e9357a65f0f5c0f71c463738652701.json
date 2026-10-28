@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6422132ac2321983f1f1f878fe414c65c478aa0f",
+    "lede": "The computer is also lighter and sports a new look.",
+    "outlet": "tomshardware",
+    "published": "2026-10-28T17:15:39Z",
+    "title": "Apple launches new MacBook with touchscreen and OLED \u2014 starts at $2,899",
+    "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+  },
+  "b": {
+    "item_id": "b270ef8286e9357a65f0f5c0f71c463738652701",
+    "lede": "The touch sensor isn't a separate layer of the screen.",
+    "outlet": "engadget",
+    "published": "2026-10-28T17:35:24Z",
+    "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+    "url": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/"
+  },
+  "score": 0.603768
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e8ba9106ed897eba93685d9505054aa8c68ba9c",
+    "lede": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:00:00Z",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+  },
+  "b": {
+    "item_id": "d5ef55b539d3f48c0a0467fd4fb2266026b6b071",
+    "lede": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+    "outlet": "arstechnica",
+    "published": "2026-10-27T19:32:07Z",
+    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
+    "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/"
+  },
+  "score": 0.585718
+}

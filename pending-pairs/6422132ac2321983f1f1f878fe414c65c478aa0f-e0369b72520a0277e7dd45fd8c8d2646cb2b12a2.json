@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6422132ac2321983f1f1f878fe414c65c478aa0f",
+    "lede": "The computer is also lighter and sports a new look.",
+    "outlet": "tomshardware",
+    "published": "2026-10-28T17:15:39Z",
+    "title": "Apple launches new MacBook with touchscreen and OLED \u2014 starts at $2,899",
+    "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+  },
+  "b": {
+    "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+    "lede": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T17:25:04Z",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  "score": 0.721505
+}

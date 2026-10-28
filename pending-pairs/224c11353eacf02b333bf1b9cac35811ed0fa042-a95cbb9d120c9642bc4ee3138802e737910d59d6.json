@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+    "lede": "Apple's new touchscreen MacBook Pro starts at $2,899",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:26:10Z",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  },
+  "b": {
+    "item_id": "a95cbb9d120c9642bc4ee3138802e737910d59d6",
+    "lede": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T18:51:06Z",
+    "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+    "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
+  },
+  "score": 0.585413
+}

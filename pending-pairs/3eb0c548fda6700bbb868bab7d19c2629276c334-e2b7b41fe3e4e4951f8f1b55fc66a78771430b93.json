@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3eb0c548fda6700bbb868bab7d19c2629276c334",
+    "lede": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
+    "outlet": "engadget",
+    "published": "2026-10-28T12:00:00Z",
+    "title": "Amazon launches its first digital photo frame with built-in Alexa",
+    "url": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/"
+  },
+  "b": {
+    "item_id": "e2b7b41fe3e4e4951f8f1b55fc66a78771430b93",
+    "lede": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T14:34:25Z",
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
+  },
+  "score": 0.66897
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "baf13565537d549631c33d0557511678ee932f83",
+    "lede": "The app will have a \"following\" tab to surface content from subreddits you've joined.",
+    "outlet": "engadget",
+    "published": "2026-10-28T16:00:00Z",
+    "title": "Reddit is adding a 'for you' feed for recommendations",
+    "url": "https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/"
+  },
+  "b": {
+    "item_id": "d2d1fbcb385a7c999b89aec364cba19ad82ea653",
+    "lede": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T16:00:00Z",
+    "title": "Reddit is the latest platform to embrace the \u2018For You\u2019 feed",
+    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/"
+  },
+  "score": 0.668457
+}

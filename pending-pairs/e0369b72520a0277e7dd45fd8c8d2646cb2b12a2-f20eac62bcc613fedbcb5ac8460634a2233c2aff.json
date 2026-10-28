@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+    "lede": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T17:25:04Z",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  "b": {
+    "item_id": "f20eac62bcc613fedbcb5ac8460634a2233c2aff",
+    "lede": "The new tablet stats at $699.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:16:56Z",
+    "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+    "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+  },
+  "score": 0.664472
+}

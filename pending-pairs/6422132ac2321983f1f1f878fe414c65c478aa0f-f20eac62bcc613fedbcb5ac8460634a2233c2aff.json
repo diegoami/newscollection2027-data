@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6422132ac2321983f1f1f878fe414c65c478aa0f",
+    "lede": "The computer is also lighter and sports a new look.",
+    "outlet": "tomshardware",
+    "published": "2026-10-28T17:15:39Z",
+    "title": "Apple launches new MacBook with touchscreen and OLED \u2014 starts at $2,899",
+    "url": "https://www.tomshardware.com/laptops/apple-launches-new-macbook-with-touchscreen-and-oled-starts-at-usd2-899"
+  },
+  "b": {
+    "item_id": "f20eac62bcc613fedbcb5ac8460634a2233c2aff",
+    "lede": "The new tablet stats at $699.",
+    "outlet": "engadget",
+    "published": "2026-10-26T13:16:56Z",
+    "title": "Apple updates the iPad mini with an A20 processor and OLED display",
+    "url": "https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/"
+  },
+  "score": 0.614018
+}

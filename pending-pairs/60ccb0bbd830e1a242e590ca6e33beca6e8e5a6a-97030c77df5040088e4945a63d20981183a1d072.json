@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60ccb0bbd830e1a242e590ca6e33beca6e8e5a6a",
+    "lede": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T14:00:00Z",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+  },
+  "b": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "score": 0.615055
+}

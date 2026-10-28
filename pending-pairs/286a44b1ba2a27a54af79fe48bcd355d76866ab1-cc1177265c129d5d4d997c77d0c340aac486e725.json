@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "286a44b1ba2a27a54af79fe48bcd355d76866ab1",
+    "lede": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T15:53:21Z",
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+  },
+  "b": {
+    "item_id": "cc1177265c129d5d4d997c77d0c340aac486e725",
+    "lede": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+    "outlet": "tomshardware",
+    "published": "2026-10-25T10:30:00Z",
+    "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch"
+  },
+  "score": 0.582356
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e796e06ff8bd6878560986cda8e5fb642d35b73",
+    "lede": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "outlet": "techcrunch",
+    "published": "2026-10-26T14:25:43Z",
+    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+  },
+  "b": {
+    "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+    "lede": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T17:25:04Z",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  "score": 0.585999
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "14ad78482b5c3c52b36fdd9f6dd06b2101b68abb",
+    "lede": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+    "outlet": "wired",
+    "published": "2026-10-28T12:01:00Z",
+    "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+    "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
+  },
+  "b": {
+    "item_id": "3eb0c548fda6700bbb868bab7d19c2629276c334",
+    "lede": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
+    "outlet": "engadget",
+    "published": "2026-10-28T12:00:00Z",
+    "title": "Amazon launches its first digital photo frame with built-in Alexa",
+    "url": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/"
+  },
+  "score": 0.722597
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "765a5a74d2443b200e7905d1b90cf68bcf1bb374",
+    "lede": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:00:00Z",
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+  },
+  "b": {
+    "item_id": "c802108aab79694f5d98ac7a02478014e3d14110",
+    "lede": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-28T17:00:00Z",
+    "title": "Chrome\u2019s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
+  },
+  "score": 0.828299
+}

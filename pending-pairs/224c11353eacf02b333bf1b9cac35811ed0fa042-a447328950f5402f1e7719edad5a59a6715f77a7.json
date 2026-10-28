@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+    "lede": "Apple's new touchscreen MacBook Pro starts at $2,899",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:26:10Z",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  },
+  "b": {
+    "item_id": "a447328950f5402f1e7719edad5a59a6715f77a7",
+    "lede": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-27T01:48:04Z",
+    "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+    "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo"
+  },
+  "score": 0.602558
+}

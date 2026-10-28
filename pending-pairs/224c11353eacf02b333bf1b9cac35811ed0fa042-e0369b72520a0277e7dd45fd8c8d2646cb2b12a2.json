@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+    "lede": "Apple's new touchscreen MacBook Pro starts at $2,899",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T17:26:10Z",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+  },
+  "b": {
+    "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+    "lede": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T17:25:04Z",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  "score": 0.692178
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b270ef8286e9357a65f0f5c0f71c463738652701",
+    "lede": "The touch sensor isn't a separate layer of the screen.",
+    "outlet": "engadget",
+    "published": "2026-10-28T17:35:24Z",
+    "title": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
+    "url": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/"
+  },
+  "b": {
+    "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+    "lede": "The OLED display is the main draw, but the price is a lot to reckon with.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T17:25:04Z",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+  },
+  "score": 0.674332
+}

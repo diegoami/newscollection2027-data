@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11f050d60379d30d13640678a2b7ec1905cc1d7d",
+    "lede": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
+    "outlet": "engadget",
+    "published": "2026-10-28T08:40:19Z",
+    "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+    "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/"
+  },
+  "b": {
+    "item_id": "2e08fcb924912eb0f8ceed918c3c329ab37e969c",
+    "lede": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T13:53:31Z",
+    "title": "Meta has a new AI pet app called Waddle World",
+    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"
+  },
+  "score": 0.845312
+}
