@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "88f09ecccd09330c25551215b1c0ea8154e1b7e4",
+    "lede": "It's not as different from the previous model as you might have expected.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T19:10:29Z",
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
+  },
+  "b": {
+    "item_id": "9a3e069840406417f836fda26f35b9c86f3d3f08",
+    "lede": "Reports indicate that a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today.",
+    "outlet": "engadget",
+    "published": "2026-10-28T12:30:00Z",
+    "title": "Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
+    "url": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/"
+  },
+  "score": 0.713908
+}

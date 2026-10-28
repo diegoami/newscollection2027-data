@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "674a117ca796ab619e7774f1d07be55cac64d90d",
+    "lede": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+    "outlet": "tomshardware",
+    "published": "2026-10-27T13:28:23Z",
+    "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+    "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+  },
+  "b": {
+    "item_id": "88f09ecccd09330c25551215b1c0ea8154e1b7e4",
+    "lede": "It's not as different from the previous model as you might have expected.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T19:10:29Z",
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
+  },
+  "score": 0.584417
+}

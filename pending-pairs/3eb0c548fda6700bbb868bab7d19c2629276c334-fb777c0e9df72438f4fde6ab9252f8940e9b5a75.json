@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3eb0c548fda6700bbb868bab7d19c2629276c334",
+    "lede": "You can tell Amazon's Alexa Photo Frame which images you want to see.",
+    "outlet": "engadget",
+    "published": "2026-10-28T12:00:00Z",
+    "title": "Amazon launches its first digital photo frame with built-in Alexa",
+    "url": "https://www.engadget.com/2299247/amazon-alexa-photo-frame/"
+  },
+  "b": {
+    "item_id": "fb777c0e9df72438f4fde6ab9252f8940e9b5a75",
+    "lede": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T18:05:22Z",
+    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+    "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
+  },
+  "score": 0.576025
+}

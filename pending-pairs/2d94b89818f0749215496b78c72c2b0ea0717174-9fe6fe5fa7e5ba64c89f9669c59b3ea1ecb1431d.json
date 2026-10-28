@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d94b89818f0749215496b78c72c2b0ea0717174",
+    "lede": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+    "outlet": "engadget",
+    "published": "2026-10-27T23:04:49Z",
+    "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+    "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/"
+  },
+  "b": {
+    "item_id": "9fe6fe5fa7e5ba64c89f9669c59b3ea1ecb1431d",
+    "lede": "Discord announced a new feature that can make your server messages discoverable on Google. Here\u2019s how to opt out.",
+    "outlet": "zdnet",
+    "published": "2026-10-28T18:56:53Z",
+    "title": "Your public Discord messages may soon appear in Google search results \u2013 how to opt out",
+    "url": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/"
+  },
+  "score": 0.808557
+}

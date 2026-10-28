@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60906ab8dd42a1f1df626c14c51afa52b41042a6",
+    "lede": "It could use a more distinctive name, though.",
+    "outlet": "engadget",
+    "published": "2026-10-28T17:13:10Z",
+    "title": "Apple's redesigned MacBook Pro has an OLED touchscreen, weighs just three pounds",
+    "url": "https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/"
+  },
+  "b": {
+    "item_id": "88f09ecccd09330c25551215b1c0ea8154e1b7e4",
+    "lede": "It's not as different from the previous model as you might have expected.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T19:10:29Z",
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/"
+  },
+  "score": 0.724955
+}

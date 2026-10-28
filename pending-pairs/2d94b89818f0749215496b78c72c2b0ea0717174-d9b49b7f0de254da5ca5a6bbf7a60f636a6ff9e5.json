@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d94b89818f0749215496b78c72c2b0ea0717174",
+    "lede": "The platform's Discoverable Servers are about to get a lot more discoverable.",
+    "outlet": "engadget",
+    "published": "2026-10-27T23:04:49Z",
+    "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
+    "url": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/"
+  },
+  "b": {
+    "item_id": "d9b49b7f0de254da5ca5a6bbf7a60f636a6ff9e5",
+    "lede": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T18:44:16Z",
+    "title": "Discord to let search engines index public server messages",
+    "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/"
+  },
+  "score": 0.71703
+}

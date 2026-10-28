@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6e874e68c4b6fad0037f3411c6a3eef7ef521945",
+    "lede": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T21:22:35Z",
+    "title": "Discord is making its public communities more searchable, and people have concerns",
+    "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/"
+  },
+  "b": {
+    "item_id": "d9b49b7f0de254da5ca5a6bbf7a60f636a6ff9e5",
+    "lede": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T18:44:16Z",
+    "title": "Discord to let search engines index public server messages",
+    "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/"
+  },
+  "score": 0.72573
+}

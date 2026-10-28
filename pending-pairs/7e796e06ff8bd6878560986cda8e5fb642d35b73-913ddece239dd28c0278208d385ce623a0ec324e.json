@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e796e06ff8bd6878560986cda8e5fb642d35b73",
+    "lede": "The new iPad mini features a thinner and lighter design than its predecessor.",
+    "outlet": "techcrunch",
+    "published": "2026-10-26T14:25:43Z",
+    "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+    "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+  },
+  "b": {
+    "item_id": "913ddece239dd28c0278208d385ce623a0ec324e",
+    "lede": "It's thinner, lighter and has a better screen - but it's still a MacBook Pro.",
+    "outlet": "engadget",
+    "published": "2026-10-28T17:43:10Z",
+    "title": "Apple's first touchscreen MacBook Pro feels both familiar and radically improved",
+    "url": "https://www.engadget.com/2300023/apples-first-touchscreen-macbook-pro-feels-both-familiar-and-radically-improved/"
+  },
+  "score": 0.590963
+}
