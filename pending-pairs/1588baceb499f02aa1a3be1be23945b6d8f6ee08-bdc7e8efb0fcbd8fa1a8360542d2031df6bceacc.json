@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+    "lede": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-29T01:30:43Z",
+    "title": "Details of thousands of US immigration agents leaked in major hack",
+    "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+  },
+  "b": {
+    "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
+    "lede": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T20:01:00Z",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
+  },
+  "score": 0.657925
+}
