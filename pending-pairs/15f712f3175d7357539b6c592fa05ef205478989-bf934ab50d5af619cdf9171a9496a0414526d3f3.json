@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15f712f3175d7357539b6c592fa05ef205478989",
+    "lede": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T12:00:07Z",
+    "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/"
+  },
+  "b": {
+    "item_id": "bf934ab50d5af619cdf9171a9496a0414526d3f3",
+    "lede": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T15:28:11Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+    "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update"
+  },
+  "score": 0.572225
+}

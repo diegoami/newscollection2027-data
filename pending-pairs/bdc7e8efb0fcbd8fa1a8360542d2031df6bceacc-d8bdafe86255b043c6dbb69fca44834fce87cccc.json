@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
+    "lede": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+    "outlet": "techcrunch",
+    "published": "2026-10-28T20:01:00Z",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/"
+  },
+  "b": {
+    "item_id": "d8bdafe86255b043c6dbb69fca44834fce87cccc",
+    "lede": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+    "outlet": "engadget",
+    "published": "2026-10-29T08:33:46Z",
+    "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+    "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/"
+  },
+  "score": 0.823411
+}

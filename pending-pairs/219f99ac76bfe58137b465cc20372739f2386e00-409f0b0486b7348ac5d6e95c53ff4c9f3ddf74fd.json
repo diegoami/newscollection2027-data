@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "219f99ac76bfe58137b465cc20372739f2386e00",
+    "lede": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T13:50:59Z",
+    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+    "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/"
+  },
+  "b": {
+    "item_id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
+    "lede": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T11:10:13Z",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+  },
+  "score": 0.648016
+}

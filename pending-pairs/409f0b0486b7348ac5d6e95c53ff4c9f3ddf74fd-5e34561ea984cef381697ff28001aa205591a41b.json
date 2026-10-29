@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
+    "lede": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T11:10:13Z",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+  },
+  "b": {
+    "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
+    "lede": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-26T16:27:57Z",
+    "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/"
+  },
+  "score": 0.590669
+}

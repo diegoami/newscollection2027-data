@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "589c4d3ee1a8fc30ae593a05ac6db2d080be346b",
+    "lede": "Agentic AI led to a sixfold year-on-year influx of new code at GitHub, leading the company to add 4 million CPU cores and 160PB of storage to its datacenters",
+    "outlet": "tomshardware",
+    "published": "2026-10-29T10:30:00Z",
+    "title": "GitHub says massive influx of AI-generated code required extra 4 million CPU cores and 160 petabytes of storage to manage",
+    "url": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage"
+  },
+  "b": {
+    "item_id": "5944f4a7f800b7fd0691ccb218fa1e28c6d7d3bb",
+    "lede": "Someone listed a massive 300-rack AI supercomputer on eBay for $59.7M. Packed with 9,600 A100 GPUs and 4,200 EPYC CPUs, it even ships for free.",
+    "outlet": "tomshardware",
+    "published": "2026-10-28T10:30:00Z",
+    "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs",
+    "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping"
+  },
+  "score": 0.60553
+}

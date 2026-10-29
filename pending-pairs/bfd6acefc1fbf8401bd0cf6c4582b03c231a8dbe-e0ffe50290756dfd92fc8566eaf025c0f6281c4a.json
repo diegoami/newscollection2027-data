@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+    "lede": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T18:47:27Z",
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+  },
+  "b": {
+    "item_id": "e0ffe50290756dfd92fc8566eaf025c0f6281c4a",
+    "lede": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+    "outlet": "engadget",
+    "published": "2026-10-29T09:41:58Z",
+    "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+    "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
+  },
+  "score": 0.586187
+}

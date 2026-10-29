@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
+    "lede": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T11:10:13Z",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+  },
+  "b": {
+    "item_id": "8ea683e1423dbf7002a56e82d68df1b42edfc678",
+    "lede": "The critical flaw in UEFI firmware\u2014used by most server vendors and data centers\u2014allows attackers to execute code early in the boot process.",
+    "outlet": "wired",
+    "published": "2026-10-28T20:30:00Z",
+    "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+    "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/"
+  },
+  "score": 0.593897
+}
