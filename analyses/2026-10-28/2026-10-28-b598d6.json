@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-28-b598d6",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Sony unveils transparent DualSense controllers and matching PS5 covers",
+  "summary": "Sony introduced new see-through DualSense controllers for the PlayStation 5 that reveal the hardware inside, alongside matching transparent console covers. Both reports describe the same transparent controller and cover release.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Sony released new transparent, see-through DualSense controllers for the PlayStation 5.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "2544ccd41e2b4db82debdba8ff7bc7ded3db38fb",
+          "quote": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3a566bd188f57357aa038082054e035a9aeb4794",
+          "quote": "Sony's new see-through DualSense controllers let you game like its 1999"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Sony is also releasing matching transparent PS5 console covers.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "2544ccd41e2b4db82debdba8ff7bc7ded3db38fb",
+          "quote": "covers for its PlayStation 5 that let you see the hardware guts inside"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3a566bd188f57357aa038082054e035a9aeb4794",
+          "quote": "The company is also releasing matching PS5 console covers."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

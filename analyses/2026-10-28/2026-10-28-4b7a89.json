@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-10-28-4b7a89",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Xreal launches Aura, an Android XR-powered wearable device",
+  "summary": "Xreal has launched the Aura, a new wearable running Google's Android XR platform, priced starting at $1,279 and now on sale at a discounted launch price. Coverage differs on how to characterize the device, with one outlet calling it a wired headset and another calling it smartglasses.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Xreal launched the Aura, a new wearable device running the Android XR platform.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "67eaba83a56fbeb44230e415e2db060655f30e79",
+          "quote": "Xreal Aura is a new wired headset powered by Android XR"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "994ac38f2d52c808f19045a68bebac969a811f3f",
+          "quote": "The new wearable is the first of its kind to run on the Android XR platform."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Aura starts at $1,279 and has multiple XR-specific launch apps.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "67eaba83a56fbeb44230e415e2db060655f30e79",
+          "quote": "Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Aura is now on sale at a discounted launch price.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "994ac38f2d52c808f19045a68bebac969a811f3f",
+          "quote": "The Xreal Aura smartglasses are now on sale for a discounted launch price"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "TechCrunch describes the Aura as a wired headset, while Engadget describes it as smartglasses, differing characterizations of the device's form factor.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "67eaba83a56fbeb44230e415e2db060655f30e79",
+          "quote": "Xreal Aura is a new wired headset powered by Android XR"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "994ac38f2d52c808f19045a68bebac969a811f3f",
+          "quote": "The Xreal Aura smartglasses are now on sale for a discounted launch price"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

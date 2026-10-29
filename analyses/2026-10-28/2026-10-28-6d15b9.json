@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-10-28-6d15b9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Samsung launches clip-on, open-ear Galaxy Buds On earbuds",
+  "summary": "Samsung has released the Galaxy Buds On, its first clip-on, open-ear wireless earbuds. Coverage frames the launch differently: one outlet describes it as Samsung returning to open-ear design, while another emphasizes an ecosystem integration advantage over rival earbuds from Sony and Bose.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Samsung released the Galaxy Buds On, its first clip-on, open-ear wireless earbuds.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "47a4a4743229b769a09750f90d5941b6454f78eb",
+          "quote": "Samsung's Galaxy Buds On are its first clip-on, open-ear wireless earbuds"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "011cdaf74e8229726f1e08fcbeb6ca18eceb4598",
+          "quote": "Samsung’s new clip-style Galaxy Buds On"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Buds On have an ecosystem integration advantage over rival earbuds from Sony and Bose.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "011cdaf74e8229726f1e08fcbeb6ca18eceb4598",
+          "quote": "have a major advantage over Sony and Bose"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "011cdaf74e8229726f1e08fcbeb6ca18eceb4598",
+          "quote": "ecosystem integration is better"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Engadget frames the buds as Samsung's return to open-ear design, while ZDNet frames them around a competitive ecosystem advantage over rivals.",
+      "claim_ids": [
+        "c1",
+        "c2"
+      ],
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "47a4a4743229b769a09750f90d5941b6454f78eb",
+          "quote": "Samsung is returning to open-ear design wireless buds and these ones clip on."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "011cdaf74e8229726f1e08fcbeb6ca18eceb4598",
+          "quote": "Advanced audio features are great, but ecosystem integration is better."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

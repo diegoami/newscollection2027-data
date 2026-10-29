@@ -1,0 +1,24 @@
+{
+  "anchor": "67eaba83a56fbeb44230e415e2db060655f30e79",
+  "id": "2026-10-28-4b7a89",
+  "items": [
+    {
+      "item_id": "67eaba83a56fbeb44230e415e2db060655f30e79",
+      "lede": "Xreal Aura will start at $1,279 and will have multiple XR specific launch apps at launch",
+      "outlet": "techcrunch",
+      "published": "2026-10-28T17:00:00Z",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
+    },
+    {
+      "item_id": "994ac38f2d52c808f19045a68bebac969a811f3f",
+      "lede": "The new wearable is the first of its kind to run on the Android XR platform.",
+      "outlet": "engadget",
+      "published": "2026-10-28T17:00:00Z",
+      "title": "The Xreal Aura smartglasses are now on sale for a discounted launch price",
+      "url": "https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

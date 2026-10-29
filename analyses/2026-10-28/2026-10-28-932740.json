@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-28-932740",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:24:59Z",
+  "headline": "Amazon's new Echo Dot works as a Wi-Fi extender and smart home hub",
+  "summary": "Amazon introduced a new Echo Dot that can serve as a Wi-Fi extender built on eero technology, alongside other smart home hub features. Outlets reporting on the device describe the same core functionality: an extended Wi-Fi network paired with smart home capabilities in Amazon's smart speaker lineup.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon's new Echo Dot can function as a Wi-Fi extender using eero technology.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "569907a391a66c95fa6620f1849ce2b6868ba91e",
+          "quote": "Amazon's new Echo Dot now works as an eero Wi-Fi extender and smart home hub"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "95d2b07b1532c0b3b5237d2530d1a0339a9d1d05",
+          "quote": "Amazon\u2019s new Echo Dot can turn into a Wi-Fi extender \u2013 how it works"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new Echo Dot also adds other smart home hub features.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "569907a391a66c95fa6620f1849ce2b6868ba91e",
+          "quote": "Amazon just unveiled a new Echo Dot with some useful new smart home features."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "95d2b07b1532c0b3b5237d2530d1a0339a9d1d05",
+          "quote": "Amazon\u2019s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

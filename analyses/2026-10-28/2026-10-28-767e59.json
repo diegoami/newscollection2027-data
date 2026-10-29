@@ -1,0 +1,110 @@
+{
+  "cluster_id": "2026-10-28-767e59",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Google announces new Gemini 4 Carbon AI model",
+  "summary": "Google announced its newest frontier AI model, Gemini 4 Carbon, with reports differing on its significance and availability. One report calls the improvements a 'significant leap' topping a benchmark index, while another describes it as a minor upgrade over its predecessor that cannot yet be used.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google announced its newest frontier AI model, Gemini 4 Carbon.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+          "quote": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+          "quote": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Carbon offers significant gains in coding, agentic tasks, and cybersecurity, and tops a leading AI benchmark index.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+          "quote": "offering \"significant gains\" in coding, agentic tasks, and cybersecurity"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+          "quote": "Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica describes Carbon as only a slight improvement over its predecessor, Argon.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+          "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Ars Technica states that the new model cannot actually be used.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+          "quote": "its latest frontier AI model that you can't use"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "high",
+      "explanation": "Ars Technica says the new model is one 'you can't use,' while The Verge reports Google has 'released' the model, conflicting on whether Carbon is actually available.",
+      "claim_ids": [
+        "c1",
+        "c4"
+      ],
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+          "quote": "its latest frontier AI model that you can't use"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+          "quote": "Google has released its latest frontier model, Gemini 4 Carbon"
+        }
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "Ars Technica frames Carbon as only a slightly better version of its predecessor, while The Verge frames it as a 'significant leap' in capability.",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
+          "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
+          "quote": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

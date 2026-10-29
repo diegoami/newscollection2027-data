@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-28-886058",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Chrome's autofill feature now pulls data from Gmail",
+  "summary": "Chrome's autofill feature can now pull information such as flight confirmations, tracking numbers, and order details from a user's Gmail inbox, with permission, to help fill out forms. The update builds on earlier autofill improvements and uses Gemini with Personal Intelligence to source suggestions.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Chrome's autofill feature can now pull information from a user's Gmail inbox to help fill out forms.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "765a5a74d2443b200e7905d1b90cf68bcf1bb374",
+          "quote": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c802108aab79694f5d98ac7a02478014e3d14110",
+          "quote": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The update can surface flight confirmations, tracking info, and order details from the inbox, with the user's permission.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "765a5a74d2443b200e7905d1b90cf68bcf1bb374",
+          "quote": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The feature uses Gemini with Personal Intelligence and expands on prior autofill improvements that sourced data from Google Accounts and Google Wallet.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c802108aab79694f5d98ac7a02478014e3d14110",
+          "quote": "Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

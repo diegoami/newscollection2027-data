@@ -25,8 +25,16 @@
       "published": "2026-10-27T10:30:00Z",
       "title": "Instagram Is a Streaming Service Now",
       "url": "https://www.wired.com/story/instagram-is-a-streaming-service-now/"
+    },
+    {
+      "item_id": "491dc0187eea465957f4d4cbe1402e1a8143e95b",
+      "lede": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, creators immediately started voicing their complaints on Threads and Reddit about the lack of monetization opportunities, compared to the ad share [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-28T17:10:46Z",
+      "title": "Instagram doesn\u2019t have a plan to pay long-form video creators",
+      "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

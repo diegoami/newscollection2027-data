@@ -1,0 +1,24 @@
+{
+  "anchor": "2544ccd41e2b4db82debdba8ff7bc7ded3db38fb",
+  "id": "2026-10-28-b598d6",
+  "items": [
+    {
+      "item_id": "2544ccd41e2b4db82debdba8ff7bc7ded3db38fb",
+      "lede": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
+      "outlet": "wired",
+      "published": "2026-10-28T15:00:00Z",
+      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
+      "url": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/"
+    },
+    {
+      "item_id": "3a566bd188f57357aa038082054e035a9aeb4794",
+      "lede": "The company is also releasing matching PS5 console covers.",
+      "outlet": "engadget",
+      "published": "2026-10-28T18:38:17Z",
+      "title": "Sony's new see-through DualSense controllers let you game like its 1999",
+      "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

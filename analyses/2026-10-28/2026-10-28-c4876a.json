@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-28-c4876a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Meta launches Tamagotchi-style AI pet app called Waddle World",
+  "summary": "Meta has launched Waddle World, a Tamagotchi-style AI pet app in which virtual creatures chat with users. Meta describes the app, listed as a pet care game, as a daily journal disguised as a pet rather than a conventional game.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta launched a new app called Waddle World, a Tamagotchi-style AI pet.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "11f050d60379d30d13640678a2b7ec1905cc1d7d",
+          "quote": "Meta's Waddle World is a Tamagotchi-like AI pet app"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6da995572c9c0a774a7f0ecd55eae5127c620ea9",
+          "quote": "\"tamagotchi-style\" pet game called Waddle World"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "2e08fcb924912eb0f8ceed918c3c329ab37e969c",
+          "quote": "which essentially looks like a Tamagotchi clone, but with AI"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta's own description frames the app as a daily journal disguised as a pet, not really a game.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "11f050d60379d30d13640678a2b7ec1905cc1d7d",
+          "quote": "a 'daily journal disguised as a pet.'"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6da995572c9c0a774a7f0ecd55eae5127c620ea9",
+          "quote": "\"a daily journal disguised as a pet.\""
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The app's virtual creatures chat with users and create doodles to illustrate the conversation.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6da995572c9c0a774a7f0ecd55eae5127c620ea9",
+          "quote": "virtual creatures that chat with users and create doodles to illustrate conversations"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

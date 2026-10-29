@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-28-b20ac2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T18:00:00Z",
+  "headline": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
+  "summary": "Amazon published new engineering guidelines telling developers and managers to stop 'tokenmaxxing' -- using AI heavily just to appear productive. The guidance argues AI usage metrics are 'deeply flawed' unless tied to long-term outcomes, and follows similar spending concerns at Uber and Accenture. It urges a focus on building useful software and meeting company goals.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon published new engineering guidance telling developers to stop 'tokenmaxxing' in order to look productive.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c1d18e554cf190692f93e7acfd5bb3efd2e56890",
+          "quote": "Amazon tells engineers to stop ‘tokenmaxxing’ to look productive"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "0afbd32e1ac6a95cb3af5e33be14e6921d6d62ea",
+          "quote": "Amazon tells tokenmaxxing devs to slow their AI roll"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The guidance argues that AI usage metrics are 'deeply flawed' unless tied to long-term outcomes.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c1d18e554cf190692f93e7acfd5bb3efd2e56890",
+          "quote": "arguing that AI usage metrics are ‘deeply flawed’ unless tied to long-term outcomes."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The guidance follows similar concerns about AI usage or spending at Uber and Accenture.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c1d18e554cf190692f93e7acfd5bb3efd2e56890",
+          "quote": "The move follows similar spending concerns at Uber and Accenture."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The guidance urges developers to focus on building useful software and meeting company goals rather than maximizing AI usage.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "0afbd32e1ac6a95cb3af5e33be14e6921d6d62ea",
+          "quote": "Focus more on what matters, please, like creating useful software and accomplishing company goals"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

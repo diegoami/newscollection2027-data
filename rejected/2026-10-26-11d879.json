@@ -90,7 +90,7 @@
           {
             "item_id": "e663e24339fad134efb0f2cb8d17ee9a1c010df0",
             "outlet": "wired",
-            "quote": "Anthropic's S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details."
+            "quote": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details."
           }
         ],
         "statement": "Anthropic's S-1 filing is hundreds of pages long and leaves out a number of financial details."
@@ -152,7 +152,7 @@
           {
             "item_id": "e663e24339fad134efb0f2cb8d17ee9a1c010df0",
             "outlet": "wired",
-            "quote": "Anthropic's S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details."
+            "quote": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details."
           }
         ],
         "severity": "medium"
@@ -165,8 +165,7 @@
   },
   "cluster_id": "2026-10-26-11d879",
   "problems": [
-    "quote: not verbatim in wired e663e24339fad134efb0f2cb8d17ee9a1c010df0's title or lede: \"Anthropic's S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details.\"",
-    "quote: not verbatim in wired e663e24339fad134efb0f2cb8d17ee9a1c010df0's title or lede: \"Anthropic's S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details.\""
+    "cluster: analysis is for version 2, cluster is at version 3"
   ],
-  "rejected_at": "2026-10-28T02:27:30Z"
+  "rejected_at": "2026-10-29T02:25:00Z"
 }

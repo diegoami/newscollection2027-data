@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-10-28-e01f22",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T18:00:00Z",
+  "headline": "Reddit adds a 'For You' recommendation feed",
+  "summary": "Reddit is adding a 'For You' feed that recommends content to users. TechCrunch says the feed combines posts from joined communities with tailored recommendations, while Engadget describes a separate 'following' tab for joined-subreddit content alongside the recommendation feed, a difference in how the outlets describe the feature's structure.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Reddit is adding a 'For You' feed that recommends content to users.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "baf13565537d549631c33d0557511678ee932f83",
+          "quote": "Reddit is adding a 'for you' feed for recommendations"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d2d1fbcb385a7c999b89aec364cba19ad82ea653",
+          "quote": "Reddit is the latest platform to embrace the ‘For You’ feed"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "TechCrunch says the For You feed combines posts from communities a user has joined with recommendations tailored to their interests.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "d2d1fbcb385a7c999b89aec364cba19ad82ea653",
+          "quote": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Engadget says the app will also have a separate 'following' tab to surface content from subreddits the user has joined.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "baf13565537d549631c33d0557511678ee932f83",
+          "quote": "The app will have a \"following\" tab to surface content from subreddits you've joined."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "Engadget describes a separate 'following' tab for joined-subreddit content alongside the For You feed, while TechCrunch says the For You feed itself combines joined-community posts with recommendations.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "baf13565537d549631c33d0557511678ee932f83",
+          "quote": "The app will have a \"following\" tab to surface content from subreddits you've joined."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d2d1fbcb385a7c999b89aec364cba19ad82ea653",
+          "quote": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests."
+        }
+      ],
+      "claim_ids": [
+        "c2",
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

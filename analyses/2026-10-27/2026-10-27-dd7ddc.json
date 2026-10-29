@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-27-dd7ddc",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:36Z",
+  "headline": "Code-execution flaw found in widely used UEFI firmware",
+  "summary": "A critical flaw in UEFI firmware, used by most server vendors and data centers, allows attackers to execute code early in the boot process. Both outlets describe the flaw as affecting most servers on the planet.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A critical flaw in UEFI firmware allows attackers to execute code early in the boot process.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "71d9cb2bf3e5ef867fc7df6dea524995e0b59531",
+          "quote": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "8ea683e1423dbf7002a56e82d68df1b42edfc678",
+          "quote": "allows attackers to execute code early in the boot process"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The flaw affects most servers, since UEFI firmware is used by most server vendors and data centers.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "71d9cb2bf3e5ef867fc7df6dea524995e0b59531",
+          "quote": "affects most servers on planet Earth"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "8ea683e1423dbf7002a56e82d68df1b42edfc678",
+          "quote": "used by most server vendors and data centers"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

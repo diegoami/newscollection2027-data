@@ -1,0 +1,24 @@
+{
+  "anchor": "c1d18e554cf190692f93e7acfd5bb3efd2e56890",
+  "id": "2026-10-28-b20ac2",
+  "items": [
+    {
+      "item_id": "c1d18e554cf190692f93e7acfd5bb3efd2e56890",
+      "lede": "Amazon has published new engineering guidelines warning developers and managers against \u2018tokenmaxxing,\u2019 arguing that AI usage metrics are \u2018deeply flawed\u2019 unless tied to long-term outcomes. The move follows similar spending concerns at Uber and Accenture.",
+      "outlet": "tomshardware",
+      "published": "2026-10-28T15:13:48Z",
+      "title": "Amazon tells engineers to stop \u2018tokenmaxxing\u2019 to look productive",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim"
+    },
+    {
+      "item_id": "0afbd32e1ac6a95cb3af5e33be14e6921d6d62ea",
+      "lede": "Focus more on what matters, please, like creating useful software and accomplishing company goals",
+      "outlet": "theregister",
+      "published": "2026-10-28T16:49:14Z",
+      "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

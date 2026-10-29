@@ -1,0 +1,24 @@
+{
+  "anchor": "569907a391a66c95fa6620f1849ce2b6868ba91e",
+  "id": "2026-10-28-932740",
+  "items": [
+    {
+      "item_id": "569907a391a66c95fa6620f1849ce2b6868ba91e",
+      "lede": "Amazon just unveiled a new Echo Dot with some useful new smart home features.",
+      "outlet": "engadget",
+      "published": "2026-10-28T12:00:00Z",
+      "title": "Amazon's new Echo Dot now works as an eero Wi-Fi extender and smart home hub",
+      "url": "https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/"
+    },
+    {
+      "item_id": "95d2b07b1532c0b3b5237d2530d1a0339a9d1d05",
+      "lede": "Amazon\u2019s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
+      "outlet": "zdnet",
+      "published": "2026-10-28T14:41:32Z",
+      "title": "Amazon\u2019s new Echo Dot can turn into a Wi-Fi extender \u2013 how it works",
+      "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,89 +1,121 @@
 {
- "cluster_id": "2026-10-26-bb47df",
- "cluster_version": 2,
- "backend": "claude_code",
- "model": "claude-sonnet-5",
- "generated_at": "2026-10-28T02:23:07Z",
- "headline": "Apple releases iOS 27.2 with new Siri AI features and security fixes",
- "summary": "Apple rolled out iOS and macOS 27.2, adding new Siri AI features and languages, Apple Pencil and 'Edge Light' support for the iPhone Duo, dual-camera FaceTime support, tighter control over Siri's app access, and security fixes.",
- "claims": [
-  {
-   "id": "c1",
-   "statement": "Apple released iOS and macOS 27.2 with new Siri AI features.",
-   "sources": [
+  "cluster_id": "2026-10-26-bb47df",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T18:00:00Z",
+  "headline": "Apple releases iOS 27.2 with new Siri AI features and other updates",
+  "summary": "Apple shipped iOS and macOS 27.2. The update adds Siri AI features, including new languages and the ability to limit which apps Siri can access, plus Apple Pencil support and an Edge Light feature for the iPhone Duo, dual camera support for FaceTime, two new CarPlay features, and security fixes.",
+  "claims": [
     {
-     "outlet": "arstechnica",
-     "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
-     "quote": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
+      "id": "c1",
+      "statement": "iOS 27.2 adds Apple Pencil support for the iPhone Duo.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a95cbb9d120c9642bc4ee3138802e737910d59d6",
+          "quote": "iPhone Duo now supports Apple Pencil with iOS 27.2"
+        }
+      ]
     },
     {
-     "outlet": "engadget",
-     "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
-     "quote": "Apple adds more Siri AI tools in its 27.2 system updates, out today"
+      "id": "c2",
+      "statement": "iOS 27.2 adds an \"Edge Light\" feature for the iPhone Duo meant to illuminate the user's face during video calls.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a95cbb9d120c9642bc4ee3138802e737910d59d6",
+          "quote": "includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls."
+        }
+      ]
     },
     {
-     "outlet": "techcrunch",
-     "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
-     "quote": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes"
-    }
-   ]
-  },
-  {
-   "id": "c2",
-   "statement": "The update adds Apple Pencil support for the iPhone Duo.",
-   "sources": [
+      "id": "c3",
+      "statement": "iOS 27.2 introduces new Siri AI features.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
+          "quote": "Apple adds more Siri AI tools"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+          "quote": "new Siri AI features"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
+          "quote": "major Siri AI upgrades"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+          "quote": "new Siri AI languages"
+        }
+      ]
+    },
     {
-     "outlet": "theverge",
-     "item_id": "a95cbb9d120c9642bc4ee3138802e737910d59d6",
-     "quote": "iPhone Duo now supports Apple Pencil with iOS 27.2"
-    }
-   ]
-  },
-  {
-   "id": "c3",
-   "statement": "The update adds an 'Edge Light' feature for the iPhone Duo intended to illuminate faces during video calls.",
-   "sources": [
+      "id": "c4",
+      "statement": "iOS 27.2 lets users limit which applications Siri can directly access.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+          "quote": "Included is the ability to limit which applications Siri can directly access."
+        }
+      ]
+    },
     {
-     "outlet": "theverge",
-     "item_id": "a95cbb9d120c9642bc4ee3138802e737910d59d6",
-     "quote": "an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls."
-    }
-   ]
-  },
-  {
-   "id": "c4",
-   "statement": "The update lets users limit which applications Siri can directly access.",
-   "sources": [
+      "id": "c5",
+      "statement": "iOS 27.2 adds dual camera support for FaceTime.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
+          "quote": "dual camera support for FaceTime"
+        }
+      ]
+    },
     {
-     "outlet": "arstechnica",
-     "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
-     "quote": "Included is the ability to limit which applications Siri can directly access."
-    }
-   ]
-  },
-  {
-   "id": "c5",
-   "statement": "The update includes dual-camera support for FaceTime.",
-   "sources": [
+      "id": "c6",
+      "statement": "macOS also received a 27.2 update, which includes a new Music app logo.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "5d5ff332a0b6b5ff1603f26d313fcfbfbdbf7ad0",
+          "quote": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo"
+        }
+      ]
+    },
     {
-     "outlet": "zdnet",
-     "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
-     "quote": "offers major Siri AI upgrades, dual camera support for FaceTime"
-    }
-   ]
-  },
-  {
-   "id": "c6",
-   "statement": "This is the first major update for the current iOS, following iOS 27.1.",
-   "sources": [
+      "id": "c7",
+      "statement": "iOS 27.2 includes security fixes.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+          "quote": "security fixes"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "437a78e8d00fbffd63698b2d16459a4cddd4b357",
+          "quote": "important security updates"
+        }
+      ]
+    },
     {
-     "outlet": "zdnet",
-     "item_id": "f0ec528663fd0b6a7ebf9a35227335b682375296",
-     "quote": "iOS 27.2 is the first major update for the current OS."
+      "id": "c8",
+      "statement": "iOS 27.2 adds two new features to Apple CarPlay.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b514251729efeb98094002ee1ee8bdc434fb23aa",
+          "quote": "iOS 27.2 brings two new features to Apple's CarPlay"
+        }
+      ]
     }
-   ]
-  }
- ],
- "discrepancies": [],
- "agreement": "full"
+  ],
+  "discrepancies": [],
+  "agreement": "full"
 }

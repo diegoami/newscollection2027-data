@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-10-28-f79e4c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Hacker steals personnel data on thousands of DHS employees",
+  "summary": "A hacker stole personal information belonging to tens of thousands of Department of Homeland Security employees, including ICE and CBP personnel, and the data has since been published online. Reports differ slightly on the exact number of employees affected, citing more than 40,000 or more than 41,000.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A hacker stole personal data belonging to DHS employees, including ICE and CBP agents.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
+          "quote": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
+          "quote": "including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP)"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The stolen data includes names, job titles, phone numbers, email addresses, and office locations.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
+          "quote": "The breach exposes the names, job titles, phone numbers, email addresses, and office locations"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The stolen data has since been published online.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
+          "quote": "which has since been published online"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "low",
+      "explanation": "TechCrunch reports more than 40,000 affected employees, while The Verge reports more than 41,000.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
+          "quote": "more than 40,000 Homeland Security staffers"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
+          "quote": "more than 41,000 employees"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

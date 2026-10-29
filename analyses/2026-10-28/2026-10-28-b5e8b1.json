@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-28-b5e8b1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Meta may delay new business terms amid publisher backlash",
+  "summary": "Meta says it may push back the rollout of new business terms following backlash over AI training concerns. The company says it will not make policy changes without first consulting industry groups and publishers, and one report says the delay could extend past November 20th.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta may delay implementation of its new business terms amid growing backlash.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1739307690c34a287cf1f51e757d9bf88b92ee95",
+          "quote": "Meta says it’ll probably delay its controversial new business terms again"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7d982f42018271621b761cf9b72034662e3fc738",
+          "quote": "Meta weighs delaying 'alarming' new business terms as backlash grows"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta says it will not make policy changes without first consulting industry groups and publishers.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1739307690c34a287cf1f51e757d9bf88b92ee95",
+          "quote": "not plan to make policy changes without a full consultation with industry groups and leaders"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7d982f42018271621b761cf9b72034662e3fc738",
+          "quote": "it won't make \"policy changes\" until it consults with publishers"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A possible delay could push implementation of the new terms past November 20th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1739307690c34a287cf1f51e757d9bf88b92ee95",
+          "quote": "push the implementation of its new business terms past November 20th"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

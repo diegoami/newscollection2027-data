@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-27-02fda6",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:36Z",
+  "headline": "Opera introduces WebAI standard for local AI in browsers",
+  "summary": "Opera introduced a new web standard called WebAI, designed to work with a variety of AI models and let users deploy AI locally in their browser. Citing the standard, Opera said it will start shipping local AI models with its flagship browser.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Opera introduced a new web standard called WebAI that lets users deploy AI locally in their browser.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "c3f55709f5e3f7eaef3eb390f1d8d5c2c5a4bf2d",
+          "quote": "Opera introduces a new web standard to let users deploy AI locally in their browser"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "300b93e11779ec419487a42a8042910e6b160396",
+          "quote": "newly proposed WebAI web standard"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The WebAI standard is designed to work with a variety of AI models.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "c3f55709f5e3f7eaef3eb390f1d8d5c2c5a4bf2d",
+          "quote": "The new standard, WebAI, is designed to work with a variety of AI models."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Citing the WebAI standard, Opera said it will start shipping local AI models with its flagship browser.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "300b93e11779ec419487a42a8042910e6b160396",
+          "quote": "the company will start shipping local AI models with its flagship browser"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

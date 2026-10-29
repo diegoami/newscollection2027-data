@@ -1,77 +1,266 @@
 {
- "cluster_id": "2026-10-19-e1cb17",
- "cluster_version": 4,
- "backend": "claude_code",
- "model": "claude-sonnet-5",
- "generated_at": "2026-10-28T02:23:07Z",
- "headline": "Apple previews 'Pro and Tell' event expected to unveil touchscreen Mac",
- "summary": "Multiple outlets previewed Apple's October 28 Los Angeles event, where the company is expected to unveil new Macs including its first touchscreen MacBook alongside a refreshed OLED iPad Mini.",
- "claims": [
-  {
-   "id": "c1",
-   "statement": "Apple scheduled a product event for October 28th in Los Angeles.",
-   "sources": [
+  "cluster_id": "2026-10-19-e1cb17",
+  "cluster_version": 5,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:36Z",
+  "headline": "Apple unveils first touchscreen MacBook Pro at Los Angeles event",
+  "summary": "Apple held its \"Pro and Tell\" event in Los Angeles on October 28th and announced its first touchscreen MacBook Pro, with an OLED display it calls PROLED XDR. The laptop starts at $2,899 for 14-inch and $3,399 for 16-inch models, preordering immediately ahead of a November 6th release. Outlets largely agreed on the facts but differed on naming and on how much had changed.",
+  "claims": [
     {
-     "outlet": "theverge",
-     "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-     "quote": "it's scheduled for October 28th at 1PM ET in Los Angeles"
+      "id": "c1",
+      "statement": "Apple held a \"Pro and Tell\" product event in Los Angeles on October 28th at 1PM ET.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
+          "quote": "scheduled for October 28th at 1PM ET in Los Angeles"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c1c7f22783d84fe1ea99b4ff15ba43fa5a49f1b4",
+          "quote": "kicks off at 1PM ET / 10AM PT on October 28th"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e025b45702e49dafba96801659a29869d13d86c0",
+          "quote": "Apple is set to hold another product event on October 28"
+        }
+      ]
     },
     {
-     "outlet": "theverge",
-     "item_id": "75a4fa27433947fec85b5d9b9d044151e0cdf42b",
-     "quote": "is scheduled for October 28th at 1PM ET in Los Angeles."
-    }
-   ]
-  },
-  {
-   "id": "c2",
-   "statement": "Apple is expected to unveil its first touchscreen Mac or MacBook at the event.",
-   "sources": [
-    {
-     "outlet": "engadget",
-     "item_id": "e025b45702e49dafba96801659a29869d13d86c0",
-     "quote": "will likely feature the first touchscreen Mac."
+      "id": "c2",
+      "statement": "Apple announced its first touchscreen MacBook Pro, a laptop with an OLED display.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c34d9265db14b7a8740b4d1d7aa4b3f569d77bd7",
+          "quote": "Apple announces its first touchscreen MacBook Pro"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+          "quote": "Apple launches its new touchscreen MacBook Pro"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "e0369b72520a0277e7dd45fd8c8d2646cb2b12a2",
+          "quote": "Apple announces touchscreen MacBook Pro with OLED display"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "60906ab8dd42a1f1df626c14c51afa52b41042a6",
+          "quote": "redesigned MacBook Pro has an OLED touchscreen"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "46f9bf230f4dfb2c297f9ca96ed895279917b03d",
+          "quote": "revealed its new MacBook M5 Pro and Max with a touchscreen OLED display"
+        }
+      ]
     },
     {
-     "outlet": "engadget",
-     "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
-     "quote": "From the first touchscreen MacBook to an OLED iPad mini"
+      "id": "c3",
+      "statement": "The new MacBook Pro starts at $2,899 for the 14-inch model and $3,399 for the 16-inch model.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c34d9265db14b7a8740b4d1d7aa4b3f569d77bd7",
+          "quote": "$2,899 for the 14-inch model, or $3,399 for the 16-inch version"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "6422132ac2321983f1f1f878fe414c65c478aa0f",
+          "quote": "starts at $2,899"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "224c11353eacf02b333bf1b9cac35811ed0fa042",
+          "quote": "Apple's new touchscreen MacBook Pro starts at $2,899"
+        }
+      ]
     },
     {
-     "outlet": "theverge",
-     "item_id": "1b963514a89dad92fa2018f9677c9454494117e1",
-     "quote": "Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event."
-    }
-   ]
-  },
-  {
-   "id": "c3",
-   "statement": "Apple is also expected to announce new Macs and a refreshed OLED iPad Mini.",
-   "sources": [
-    {
-     "outlet": "theverge",
-     "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
-     "quote": "Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg."
+      "id": "c4",
+      "statement": "A fully specced version of the new MacBook Pro costs $14,549.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "0043d35930ac5619a858381c25625f3bc193d378",
+          "quote": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro"
+        }
+      ]
     },
     {
-     "outlet": "engadget",
-     "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
-     "quote": "an OLED iPad mini"
-    }
-   ]
-  },
-  {
-   "id": "c4",
-   "statement": "The event follows soon after Apple's recent iPhone Duo launch.",
-   "sources": [
+      "id": "c5",
+      "statement": "The new MacBook Pro is available to preorder immediately, with release set for November 6th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c34d9265db14b7a8740b4d1d7aa4b3f569d77bd7",
+          "quote": "available to preorder today ahead of its release on November 6th"
+        }
+      ]
+    },
     {
-     "outlet": "theverge",
-     "item_id": "75a4fa27433947fec85b5d9b9d044151e0cdf42b",
-     "quote": "the iPhone Duo announcement isn't all that far in our rearview mirror"
+      "id": "c6",
+      "statement": "Ahead of the event, reporting said Apple was also expected to announce an updated iPad Mini.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "08d37a40f06bdda124b5a31221ff3f7b6236afbc",
+          "quote": "a refreshed iPad Mini"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "bab32693f26e7bc4bb9710ef0dbe9f24ff4b9bc1",
+          "quote": "an OLED iPad mini"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "In the days before the touchscreen MacBook Pro event, Apple had already announced an iPad Mini with an upgraded OLED display and M6 chip upgrades for the MacBook Pro and iMac.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "869786dcc211ac0ad34c9ec035005b11b06f0311",
+          "quote": "On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac."
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "The touchscreen sensor on the new MacBook Pro is built into the display rather than added as a separate layer.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b270ef8286e9357a65f0f5c0f71c463738652701",
+          "quote": "The touch sensor isn't a separate layer of the screen."
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "statement": "Apple calls the new MacBook Pro's screen the \"PROLED XDR\" display.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b2138757145a2099e3b1603ffd1b3fa58df05eaa",
+          "quote": "PROLED XDR touch display"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8804b0f32eb2ac4472577ef198a95f62d3f73b79",
+          "quote": "PROLED XDR Display"
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "statement": "The redesigned MacBook Pro is lighter than before, weighing about three pounds.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "60906ab8dd42a1f1df626c14c51afa52b41042a6",
+          "quote": "weighs just three pounds"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "6422132ac2321983f1f1f878fe414c65c478aa0f",
+          "quote": "The computer is also lighter and sports a new look."
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "statement": "The \"Pro and Tell\" event followed Apple's recent debuts of the HomeView smart display and the iPhone Duo foldable phone.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c1c7f22783d84fe1ea99b4ff15ba43fa5a49f1b4",
+          "quote": "a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "statement": "Steve Jobs previously called touchscreen laptops \"ergonomically terrible,\" and Apple had resisted making one for over a decade.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "9debcc1c98c3af4067ef49ba8a1913bfeebdd001",
+          "quote": "Steve Jobs famously called touchscreen laptops \"ergonomically terrible,\" and for over a decade, Apple stridently refused to make one."
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "statement": "Apple had said a touchscreen Mac would never happen.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "a243067eaee2140dfef73488c4da1fa0d0b1054e",
+          "quote": "the computer Apple said would never happen"
+        }
+      ]
     }
-   ]
-  }
- ],
- "discrepancies": [],
- "agreement": "full"
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "medium",
+      "claim_ids": ["c2"],
+      "explanation": "A pre-event live blog described the rumored laptop as a \"MacBook Ultra,\" but Apple's announcement and other outlets named it the MacBook Pro.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "9a3e069840406417f836fda26f35b9c86f3d3f08",
+          "quote": "a \"MacBook Ultra\" with a touch-sensitive display is likely on the agenda today"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c34d9265db14b7a8740b4d1d7aa4b3f569d77bd7",
+          "quote": "Apple announces its first touchscreen MacBook Pro"
+        }
+      ]
+    },
+    {
+      "kind": "contradiction",
+      "severity": "medium",
+      "claim_ids": ["c2"],
+      "explanation": "ZDNet named the newly announced laptop the \"MacBook M5 Pro and Max,\" while other outlets called it the MacBook Pro in 14-inch and 16-inch sizes.",
+      "quotes": [
+        {
+          "outlet": "zdnet",
+          "item_id": "46f9bf230f4dfb2c297f9ca96ed895279917b03d",
+          "quote": "MacBook M5 Pro and Max"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c34d9265db14b7a8740b4d1d7aa4b3f569d77bd7",
+          "quote": "Apple announces its first touchscreen MacBook Pro"
+        }
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c2"],
+      "explanation": "Hands-on coverage differed on how much changed: Ars Technica said the laptop isn't very different from its predecessor, while Engadget called the redesign \"radically improved.\"",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "88f09ecccd09330c25551215b1c0ea8154e1b7e4",
+          "quote": "It's not as different from the previous model as you might have expected."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "913ddece239dd28c0278208d385ce623a0ec324e",
+          "quote": "feels both familiar and radically improved"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
 }

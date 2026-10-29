@@ -1,0 +1,88 @@
+{
+  "cluster_id": "2026-10-27-92af06",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T18:00:00Z",
+  "headline": "Discord will let search engines index public server messages",
+  "summary": "Discord is making messages from its public Discoverable Servers indexable by search engines, so people outside the platform can find and view them without an account or invitation. Users will be able to opt out. TechCrunch says the change begins in December; some users have raised concerns about it.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Discord will let search engines index messages from its public Discoverable Servers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6e874e68c4b6fad0037f3411c6a3eef7ef521945",
+          "quote": "Discord is making its public communities more searchable, and people have concerns"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "d9b49b7f0de254da5ca5a6bbf7a60f636a6ff9e5",
+          "quote": "Discord to let search engines index public server messages"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "2d94b89818f0749215496b78c72c2b0ea0717174",
+          "quote": "The platform's Discoverable Servers are about to get a lot more discoverable."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The change will make Discoverable Server content accessible to people outside Discord without an account or invitation.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "d9b49b7f0de254da5ca5a6bbf7a60f636a6ff9e5",
+          "quote": "make them accessible on the web to users outside the platform without an account or invitation."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Users will be able to opt out of having their server messages made searchable.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2d94b89818f0749215496b78c72c2b0ea0717174",
+          "quote": "but you can opt out"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "9fe6fe5fa7e5ba64c89f9669c59b3ea1ecb1431d",
+          "quote": "how to opt out"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "9fe6fe5fa7e5ba64c89f9669c59b3ea1ecb1431d",
+          "quote": "Here’s how to opt out."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The change is set to begin in December.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6e874e68c4b6fad0037f3411c6a3eef7ef521945",
+          "quote": "In December, messages from Discord's public discoverable servers will begin appearing in search engine results."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Some people have expressed concerns about the change.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6e874e68c4b6fad0037f3411c6a3eef7ef521945",
+          "quote": "and people have concerns"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-10-28-ad7220",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T02:22:21Z",
+  "headline": "Google ties AI investment to search growth amid earnings",
+  "summary": "Alphabet says AI investment is driving growth in search queries, including commercial ones, as part of its Q3 2026 earnings, which showed revenue up 25 percent to $127.6 billion. Google is also expanding AI Search ads globally. Coverage differs on whether to emphasize query growth or slowing core ad growth.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Alphabet says its AI investments are driving growth in search queries, including commercial queries.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "4c4418dd5582d6293661cc964f9f57bb17a3dcda",
+          "quote": "Google says its investments in AI are driving more searches"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "4c4418dd5582d6293661cc964f9f57bb17a3dcda",
+          "quote": "Our AI investments are driving overall Search query growth, including commercial queries"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Google is expanding its AI Search ads globally.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f348c6db37d87fbea6e4f23516244432c5b2f724",
+          "quote": "Google expands AI Search ads globally as core ad growth slows"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Alphabet's Q3 2026 revenue grew 25 percent year over year to $127.6 billion.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f348c6db37d87fbea6e4f23516244432c5b2f724",
+          "quote": "revenue grow 25% year over year to $127.6 billion"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Core ad growth is slowing, according to one report's framing of the earnings.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f348c6db37d87fbea6e4f23516244432c5b2f724",
+          "quote": "as core ad growth slows"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "The Verge's coverage emphasizes accelerating search query growth from AI investment, while TechCrunch's framing of the same earnings report emphasizes a slowdown in core ad growth.",
+      "claim_ids": [
+        "c1",
+        "c4"
+      ],
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "4c4418dd5582d6293661cc964f9f57bb17a3dcda",
+          "quote": "Our AI investments are driving overall Search query growth, including commercial queries"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "f348c6db37d87fbea6e4f23516244432c5b2f724",
+          "quote": "Google expands AI Search ads globally as core ad growth slows"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

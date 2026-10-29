@@ -1,0 +1,188 @@
+{
+  "cluster_id": "2026-10-28-30a9ac",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-29T18:00:00Z",
+  "headline": "Amazon unveils Echo Show 16, Echo Studio camera, Alexa Photo Frame and Echo Time",
+  "summary": "Amazon's Echo hardware event introduced the Alexa Photo Frame, a camera-equipped Echo Studio with visual-intelligence features and a kill switch, a new Echo Time alarm clock, and an Echo Show 16 with a glare-reducing nanomatte display and an AI-generated Alexa interface. One outlet also frames the Echo Show 16 as a response to a competing Apple device, a framing others do not use.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon introduced the Alexa Photo Frame, a digital photo frame with Alexa built in.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3eb0c548fda6700bbb868bab7d19c2629276c334",
+          "quote": "Amazon launches its first digital photo frame with built-in Alexa"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "14ad78482b5c3c52b36fdd9f6dd06b2101b68abb",
+          "quote": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "e2b7b41fe3e4e4951f8f1b55fc66a78771430b93",
+          "quote": "debuts the Alexa Photo Frame and Echo Time smart clock"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "62889ad5598280b7ffca7cc9ac62cb224911d4be",
+          "quote": "Amazon’s new Alexa Photo Frame"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users can choose which of their own photos the Alexa Photo Frame displays.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3eb0c548fda6700bbb868bab7d19c2629276c334",
+          "quote": "You can tell Amazon's Alexa Photo Frame which images you want to see."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "62889ad5598280b7ffca7cc9ac62cb224911d4be",
+          "quote": "You can ask Amazon’s voice assistant to show you your favorite photos."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Amazon added a camera to the Echo Studio speaker, giving it visual-intelligence features that let it interpret its surroundings.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a7b04485d3e16b20b341c8f54c0b96139f6f5a3f",
+          "quote": "Amazon has added a camera to its Echo Studio speaker as part of its big Echo refresh."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "e2b7b41fe3e4e4951f8f1b55fc66a78771430b93",
+          "quote": "an Echo Studio with visual intelligence features"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "ea9c11cf4a5287f8caa20b6d47b0a980c621c794",
+          "quote": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "fb777c0e9df72438f4fde6ab9252f8940e9b5a75",
+          "quote": "Amazon turns its most capable smart speaker into a smart camera, too"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Amazon unveiled a new smart alarm clock called Echo Time.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "92f98fec378ec1b878bef1b381cd0c1c2b16ddcc",
+          "quote": "All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "e2b7b41fe3e4e4951f8f1b55fc66a78771430b93",
+          "quote": "Echo Time smart clock"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "40dcc68e2d96c3c6d8a345fd758119519509a9df",
+          "quote": "a new smart alarm clock"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The new Echo Show 16 features a glare-reducing nanomatte display.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c491ccd55b495b7bc46fd7b3fe6cc54ae53c1c62",
+          "quote": "Amazon adds a glare-reducing nanomatte display to its new Echo Show 16"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The Echo Show 16 debuts an AI-generated Alexa interface.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "14ad78482b5c3c52b36fdd9f6dd06b2101b68abb",
+          "quote": "the Echo Show 16 debuts an AI-generated Alexa interface"
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "The Echo Studio's new Home Camera includes a kill switch.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "ea9c11cf4a5287f8caa20b6d47b0a980c621c794",
+          "quote": "but there’s a kill switch."
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "Amazon also showcased an Alexa-powered 3D map of the home among its announcements.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "40dcc68e2d96c3c6d8a345fd758119519509a9df",
+          "quote": "an Alexa-powered 3D map of your home"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "ZDNet frames the Echo Show 16 launch as a response to Apple's competing display; Engadget describes the same feature without any reference to Apple.",
+      "quotes": [
+        {
+          "outlet": "zdnet",
+          "item_id": "44b40d4070b9f163c81323df4b36b9d0a221a507",
+          "quote": "Amazon just dropped new smart home gear in response to Apple."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c491ccd55b495b7bc46fd7b3fe6cc54ae53c1c62",
+          "quote": "Amazon adds a glare-reducing nanomatte display to its new Echo Show 16"
+        }
+      ],
+      "claim_ids": [
+        "c5"
+      ]
+    },
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "ZDNet reports a kill switch for the Echo Studio's new camera; Ars Technica's report on the same camera does not mention one.",
+      "quotes": [
+        {
+          "outlet": "zdnet",
+          "item_id": "ea9c11cf4a5287f8caa20b6d47b0a980c621c794",
+          "quote": "but there’s a kill switch."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "fb777c0e9df72438f4fde6ab9252f8940e9b5a75",
+          "quote": "Amazon turns its most capable smart speaker into a smart camera, too"
+        }
+      ],
+      "claim_ids": [
+        "c3",
+        "c7"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
