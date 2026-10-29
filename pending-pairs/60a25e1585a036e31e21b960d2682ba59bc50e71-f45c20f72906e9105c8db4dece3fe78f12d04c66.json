@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60a25e1585a036e31e21b960d2682ba59bc50e71",
+    "lede": "The bank\u2019s message follows a trend among financial institutions that are restricting third-party AI agent access.",
+    "outlet": "zdnet",
+    "published": "2026-10-29T15:36:26Z",
+    "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
+    "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/"
+  },
+  "b": {
+    "item_id": "f45c20f72906e9105c8db4dece3fe78f12d04c66",
+    "lede": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T21:44:34Z",
+    "title": "Bank of America kindly asks that you don\u2019t share your banking password with your AI assistant",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+  },
+  "score": 0.758288
+}

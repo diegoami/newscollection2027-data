@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
+    "lede": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T11:10:13Z",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+  },
+  "b": {
+    "item_id": "e3e7308451d0e30def4dc561d7abc768ceebd391",
+    "lede": "Tech whizz' internet-accessible Synology NAS gets bit by transomware attack \u2014 security updates 18 months out of date in a series of catastrophic errors",
+    "outlet": "tomshardware",
+    "published": "2026-10-29T12:41:14Z",
+    "title": "Tech whiz's internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors"
+  },
+  "score": 0.593357
+}

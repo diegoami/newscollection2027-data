@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bf934ab50d5af619cdf9171a9496a0414526d3f3",
+    "lede": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T15:28:11Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+    "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update"
+  },
+  "b": {
+    "item_id": "f34fb5d0be197df27ba96f70c273c54956611bd7",
+    "lede": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T14:35:40Z",
+    "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
+  },
+  "score": 0.678238
+}

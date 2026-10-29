@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+    "lede": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
+    "outlet": "theregister",
+    "published": "2026-10-26T17:58:00Z",
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+    "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+  },
+  "b": {
+    "item_id": "e8d4d4041ef63fb7ab5a6acd08b32443daff0d29",
+    "lede": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
+    "outlet": "zdnet",
+    "published": "2026-10-29T16:30:28Z",
+    "title": "Firefox and Chrome patch 200+ security flaws combined \u2013 update both ASAP",
+    "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/"
+  },
+  "score": 0.601423
+}

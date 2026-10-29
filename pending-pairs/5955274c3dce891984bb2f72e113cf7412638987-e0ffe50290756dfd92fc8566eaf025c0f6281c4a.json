@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5955274c3dce891984bb2f72e113cf7412638987",
+    "lede": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "outlet": "wired",
+    "published": "2026-10-29T14:00:00Z",
+    "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race",
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+  },
+  "b": {
+    "item_id": "e0ffe50290756dfd92fc8566eaf025c0f6281c4a",
+    "lede": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+    "outlet": "engadget",
+    "published": "2026-10-29T09:41:58Z",
+    "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+    "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
+  },
+  "score": 0.633466
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6df4ac5022245d54584a8cec5876c3b10807e5fe",
+    "lede": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+    "outlet": "arstechnica",
+    "published": "2026-10-29T18:29:12Z",
+    "title": "Trump ignored intel on China\u2019s Nvidia spy to protect company\u2019s stock, report says",
+    "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/"
+  },
+  "b": {
+    "item_id": "7610575f95441b581cef0b2c44bc3dbe7e554820",
+    "lede": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T16:42:32Z",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+  },
+  "score": 0.668944
+}

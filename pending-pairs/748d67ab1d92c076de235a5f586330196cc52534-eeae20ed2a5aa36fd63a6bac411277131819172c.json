@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "748d67ab1d92c076de235a5f586330196cc52534",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T13:59:48Z",
+    "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/"
+  },
+  "b": {
+    "item_id": "eeae20ed2a5aa36fd63a6bac411277131819172c",
+    "lede": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T14:09:46Z",
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+    "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+  },
+  "score": 0.68392
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5453dea1679244d25905c1e81ecf1c549226405b",
+    "lede": "Linux kernel modules lift Nvidia\u2019s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T11:00:00Z",
+    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent"
+  },
+  "b": {
+    "item_id": "6b9bc3cbb7e52a4662ddf7cc7940f023ab96ac17",
+    "lede": "It costs just as much to buy an Nvidia GeForce RTX 5080 right now as the launch price for the RTX 5090, with prices now at least two times higher for this high spec GPU.",
+    "outlet": "tomshardware",
+    "published": "2026-10-29T14:21:59Z",
+    "title": "Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher"
+  },
+  "score": 0.666638
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d266a488af8f08b010c32d62922daad7f1dd7cfc",
+    "lede": "Hopefully without disintegrating SRB nozzles",
+    "outlet": "theregister",
+    "published": "2026-10-29T13:15:00Z",
+    "title": "Critical launch for Vulcan as ULA targets Friday the 13th",
+    "url": "https://www.theregister.com/offbeat/2026/10/29/critical-launch-for-vulcan-as-ula-targets-friday-the-13th/5306243"
+  },
+  "b": {
+    "item_id": "f1032294b76f4b1c356c248ab115f4c9128f0284",
+    "lede": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
+    "outlet": "arstechnica",
+    "published": "2026-10-28T22:51:15Z",
+    "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+    "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/"
+  },
+  "score": 0.593548
+}

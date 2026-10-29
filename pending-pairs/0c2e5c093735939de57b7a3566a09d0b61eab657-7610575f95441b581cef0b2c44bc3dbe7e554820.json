@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c2e5c093735939de57b7a3566a09d0b61eab657",
+    "lede": "President Trump reportedly chose to do nothing in response.",
+    "outlet": "engadget",
+    "published": "2026-10-29T18:34:43Z",
+    "title": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
+    "url": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/"
+  },
+  "b": {
+    "item_id": "7610575f95441b581cef0b2c44bc3dbe7e554820",
+    "lede": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T16:42:32Z",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+  },
+  "score": 0.604714
+}

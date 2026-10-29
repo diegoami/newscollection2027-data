@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80d0fea31f91dd9f1b7b988633e1c84565cc2681",
+    "lede": "The leaked records include the locations of ICE and CBP facilities, workers\u2019 cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI\u2019s Grok chatbot.",
+    "outlet": "wired",
+    "published": "2026-10-28T20:00:00Z",
+    "title": "Massive Leak Exposes 41,000 Homeland Security Workers\u2014Including Undercover ICE Agents",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
+  },
+  "b": {
+    "item_id": "ec59d102565dd0e725d020c55121ed04766aaf37",
+    "lede": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+    "outlet": "arstechnica",
+    "published": "2026-10-29T12:58:34Z",
+    "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+    "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
+  },
+  "score": 0.62816
+}

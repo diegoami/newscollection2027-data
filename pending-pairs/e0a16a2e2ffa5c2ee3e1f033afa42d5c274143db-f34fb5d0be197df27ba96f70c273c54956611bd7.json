@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e0a16a2e2ffa5c2ee3e1f033afa42d5c274143db",
+    "lede": "Did you hear the one about eMudhra and the power of 4? Time to get connected to certificate trust list updates",
+    "outlet": "theregister",
+    "published": "2026-10-27T12:30:00Z",
+    "title": "Microsoft releases out-of-band Windows fixes with certificate updates",
+    "url": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637"
+  },
+  "b": {
+    "item_id": "f34fb5d0be197df27ba96f70c273c54956611bd7",
+    "lede": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T14:35:40Z",
+    "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
+  },
+  "score": 0.599644
+}

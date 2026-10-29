@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+    "lede": "Some adults may not need to prove it, but many will",
+    "outlet": "theregister",
+    "published": "2026-10-29T12:33:00Z",
+    "title": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
+    "url": "https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282"
+  },
+  "b": {
+    "item_id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
+    "lede": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-29T09:31:44Z",
+    "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+    "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo"
+  },
+  "score": 0.604568
+}

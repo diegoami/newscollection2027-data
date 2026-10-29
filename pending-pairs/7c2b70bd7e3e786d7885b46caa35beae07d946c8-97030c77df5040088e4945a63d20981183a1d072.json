@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c2b70bd7e3e786d7885b46caa35beae07d946c8",
+    "lede": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T18:38:26Z",
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
+  },
+  "b": {
+    "item_id": "97030c77df5040088e4945a63d20981183a1d072",
+    "lede": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T14:40:39Z",
+    "title": "US government says hackers are now exploiting critical PHP web bugs",
+    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/"
+  },
+  "score": 0.570564
+}

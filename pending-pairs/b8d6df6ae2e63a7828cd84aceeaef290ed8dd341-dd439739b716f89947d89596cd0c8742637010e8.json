@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b8d6df6ae2e63a7828cd84aceeaef290ed8dd341",
+    "lede": "Wired has the story of a superuser cheating scandal.",
+    "outlet": "engadget",
+    "published": "2026-10-29T19:03:18Z",
+    "title": "Hacker may have stolen millions in a malware attack against online poker players",
+    "url": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/"
+  },
+  "b": {
+    "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+    "lede": "The \u201cSteal My Bitcoin\u201d challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T10:30:00Z",
+    "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+    "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy"
+  },
+  "score": 0.605886
+}

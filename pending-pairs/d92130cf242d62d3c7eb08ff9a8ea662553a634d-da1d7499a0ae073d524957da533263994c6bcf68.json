@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+    "lede": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T13:43:53Z",
+    "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+    "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/"
+  },
+  "b": {
+    "item_id": "da1d7499a0ae073d524957da533263994c6bcf68",
+    "lede": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people\u2019s contact information, shared without their authorization.",
+    "outlet": "wired",
+    "published": "2026-10-29T03:34:46Z",
+    "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+    "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/"
+  },
+  "score": 0.678628
+}
