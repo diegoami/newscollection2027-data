@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e",
+    "lede": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T22:27:23Z",
+    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+    "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.677449
+}

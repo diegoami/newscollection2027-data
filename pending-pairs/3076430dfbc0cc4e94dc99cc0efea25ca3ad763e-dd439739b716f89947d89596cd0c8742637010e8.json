@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e",
+    "lede": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T22:27:23Z",
+    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+    "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+  },
+  "b": {
+    "item_id": "dd439739b716f89947d89596cd0c8742637010e8",
+    "lede": "The \u201cSteal My Bitcoin\u201d challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no successful claim has been confirmed.",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T10:30:00Z",
+    "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+    "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy"
+  },
+  "score": 0.571215
+}

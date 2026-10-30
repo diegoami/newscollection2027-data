@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bf934ab50d5af619cdf9171a9496a0414526d3f3",
+    "lede": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T15:28:11Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+    "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update"
+  },
+  "b": {
+    "item_id": "ca205e978a06d148f1ae8663641aef1e07f195ba",
+    "lede": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+    "outlet": "arstechnica",
+    "published": "2026-10-29T20:18:49Z",
+    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+    "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+  },
+  "score": 0.634848
+}

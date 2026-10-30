@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e",
+    "lede": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T22:27:23Z",
+    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+    "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+  },
+  "b": {
+    "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+    "lede": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T22:45:23Z",
+    "title": "Binance probes potential $5.8 billion crypto-theft hack",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+  },
+  "score": 0.825505
+}

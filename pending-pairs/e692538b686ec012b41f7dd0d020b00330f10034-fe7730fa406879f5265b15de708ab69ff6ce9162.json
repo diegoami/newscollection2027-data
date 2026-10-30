@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e692538b686ec012b41f7dd0d020b00330f10034",
+    "lede": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T19:23:41Z",
+    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.577775
+}

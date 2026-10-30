@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "23a75ff332d3eb006fcdcd7308c8a390df72a4dc",
+    "lede": "Intel CEO Lip-Bu Tan has reportedly discussed potential areas of cooperation with AMD chief Lisa Su as Intel works to rebuild its CPU business and expand its foundry operations. The companies have already collaborated on x86 standards and CPU software, including AMD\u2019s integration of its ZenDNN optimizations into Intel\u2019s oneDNN library. Neither executive has publicly detailed the reported discussions or",
+    "outlet": "tomshardware",
+    "published": "2026-10-26T12:40:00Z",
+    "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business"
+  },
+  "b": {
+    "item_id": "2fbe963e7b5c9595a79cbdd39b779be29ca28823",
+    "lede": "Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earnings call.",
+    "outlet": "tomshardware",
+    "published": "2026-10-29T21:55:48Z",
+    "title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES \u2014 company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus"
+  },
+  "score": 0.650098
+}

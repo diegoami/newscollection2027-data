@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a2e14ec16391a5e681855c8921f6d2aef0e2d1d7",
+    "lede": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-29T11:20:00Z",
+    "title": "Fake PS5 emulators are being used to steal gamers' passwords \u2014 two well-known GitHub repos, including popular AnyPS5, get hit, infecting gamers' computers with password-scraping malware",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit"
+  },
+  "b": {
+    "item_id": "a6d0e88b749ca24bbcc6e89cf35c90492c49be81",
+    "lede": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T22:09:24Z",
+    "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+    "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/"
+  },
+  "score": 0.576193
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bf934ab50d5af619cdf9171a9496a0414526d3f3",
+    "lede": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-26T15:28:11Z",
+    "title": "Microsoft\u2019s new Surface Laptop Ultra update fixes reboot and display bugs",
+    "url": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update"
+  },
+  "b": {
+    "item_id": "eee28578f735a273be8f225716e5c5c003326ce9",
+    "lede": "Embedded browsers are at the heart of the problem",
+    "outlet": "theregister",
+    "published": "2026-10-29T23:12:26Z",
+    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+    "url": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508"
+  },
+  "score": 0.572153
+}
