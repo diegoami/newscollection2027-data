@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4198413c0e43059197ffef792a5128742f2bfb2c",
+    "lede": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T11:20:26Z",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+  },
+  "b": {
+    "item_id": "ca205e978a06d148f1ae8663641aef1e07f195ba",
+    "lede": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+    "outlet": "arstechnica",
+    "published": "2026-10-29T20:18:49Z",
+    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+    "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
+  },
+  "score": 0.670089
+}

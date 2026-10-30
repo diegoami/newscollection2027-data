@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b51083c95d20b31463653ed309985479bb5a466b",
+    "lede": "Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin.",
+    "outlet": "tomshardware",
+    "published": "2026-10-30T11:00:00Z",
+    "title": "Benchmarking Nvidia\u2019s Vera CPU for the data center \u2014 standalone Vera tested against Granite Rapids-AP and EPYC Turin",
+    "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin"
+  },
+  "b": {
+    "item_id": "cba62211eec464443bad72c139a8b210c1a0b6f1",
+    "lede": "Nvidia\u2019s Vera CPU is now generally available on Oracle\u2019s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
+    "outlet": "tomshardware",
+    "published": "2026-10-28T11:00:00Z",
+    "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud's multi-gigawatt deployment \u2014 our independent benchmarking of a local server reveals Vera's massive memory bandwidth lead over dual Xeon 6 server",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts"
+  },
+  "score": 0.615155
+}

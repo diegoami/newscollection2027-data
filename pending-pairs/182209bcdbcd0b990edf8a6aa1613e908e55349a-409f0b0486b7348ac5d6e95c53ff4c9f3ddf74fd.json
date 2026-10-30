@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182209bcdbcd0b990edf8a6aa1613e908e55349a",
+    "lede": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:58:22Z",
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+  },
+  "b": {
+    "item_id": "409f0b0486b7348ac5d6e95c53ff4c9f3ddf74fd",
+    "lede": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T11:10:13Z",
+    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/"
+  },
+  "score": 0.710907
+}

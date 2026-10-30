@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c22489c81a536a6565a6cbc3c1de4d0ddfcf374",
+    "lede": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T12:19:57Z",
+    "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/"
+  },
+  "b": {
+    "item_id": "eaaaa83e33fa5c63fab766d067962dd488c47169",
+    "lede": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T10:16:07Z",
+    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+  },
+  "score": 0.616267
+}

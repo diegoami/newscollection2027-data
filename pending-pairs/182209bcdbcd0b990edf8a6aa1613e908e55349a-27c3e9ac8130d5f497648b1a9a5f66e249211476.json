@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182209bcdbcd0b990edf8a6aa1613e908e55349a",
+    "lede": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:58:22Z",
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+  },
+  "b": {
+    "item_id": "27c3e9ac8130d5f497648b1a9a5f66e249211476",
+    "lede": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:00:10Z",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+    "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
+  },
+  "score": 0.62141
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27c3e9ac8130d5f497648b1a9a5f66e249211476",
+    "lede": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:00:10Z",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+    "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
+  },
+  "b": {
+    "item_id": "eeae20ed2a5aa36fd63a6bac411277131819172c",
+    "lede": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T14:09:46Z",
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+    "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+  },
+  "score": 0.579751
+}

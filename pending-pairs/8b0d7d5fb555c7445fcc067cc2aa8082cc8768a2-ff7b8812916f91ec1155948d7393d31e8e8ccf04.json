@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8b0d7d5fb555c7445fcc067cc2aa8082cc8768a2",
+    "lede": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-29T19:19:28Z",
+    "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+    "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
+  },
+  "b": {
+    "item_id": "ff7b8812916f91ec1155948d7393d31e8e8ccf04",
+    "lede": "Owners of GM cars found their driving data had been sold to insurance companies.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:53:20Z",
+    "title": "GM to pay $220 million after selling customer Smart Driver data",
+    "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
+  },
+  "score": 0.747342
+}

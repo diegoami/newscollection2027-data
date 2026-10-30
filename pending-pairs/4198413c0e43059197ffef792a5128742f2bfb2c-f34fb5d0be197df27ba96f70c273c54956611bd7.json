@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4198413c0e43059197ffef792a5128742f2bfb2c",
+    "lede": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T11:20:26Z",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+  },
+  "b": {
+    "item_id": "f34fb5d0be197df27ba96f70c273c54956611bd7",
+    "lede": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T14:35:40Z",
+    "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/"
+  },
+  "score": 0.739215
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+    "lede": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+    "outlet": "engadget",
+    "published": "2026-10-30T08:24:55Z",
+    "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+    "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
+  },
+  "b": {
+    "item_id": "d8f136c1d198616dd95d857db8c3c17dc05faaea",
+    "lede": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+    "outlet": "techcrunch",
+    "published": "2026-10-30T14:00:25Z",
+    "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+  },
+  "score": 0.701512
+}

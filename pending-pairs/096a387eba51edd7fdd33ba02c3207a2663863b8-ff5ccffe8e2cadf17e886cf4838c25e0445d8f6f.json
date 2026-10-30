@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "096a387eba51edd7fdd33ba02c3207a2663863b8",
+    "lede": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
+    "outlet": "bbc-technology",
+    "published": "2026-10-30T11:35:51Z",
+    "title": "From Bitcoin to Binance: Crypto terms and what they mean",
+    "url": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.592656
+}

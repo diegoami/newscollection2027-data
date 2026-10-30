@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60ccb0bbd830e1a242e590ca6e33beca6e8e5a6a",
+    "lede": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T14:00:00Z",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+  },
+  "b": {
+    "item_id": "eaaaa83e33fa5c63fab766d067962dd488c47169",
+    "lede": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T10:16:07Z",
+    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+  },
+  "score": 0.664261
+}

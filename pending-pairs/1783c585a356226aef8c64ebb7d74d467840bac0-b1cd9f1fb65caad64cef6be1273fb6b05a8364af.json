@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1783c585a356226aef8c64ebb7d74d467840bac0",
+    "lede": "Apple has rolled out software updates for all its platforms today.",
+    "outlet": "engadget",
+    "published": "2026-10-26T19:47:56Z",
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/"
+  },
+  "b": {
+    "item_id": "b1cd9f1fb65caad64cef6be1273fb6b05a8364af",
+    "lede": "Google details 42 fixes to its Home app and the devices compatible with it.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:14:11Z",
+    "title": "Google\u2019s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+    "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/"
+  },
+  "score": 0.595551
+}

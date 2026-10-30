@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9a611f6a948250af4b23511f240606c1fef96755",
+    "lede": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
+    "outlet": "engadget",
+    "published": "2026-10-30T15:47:12Z",
+    "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+    "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/"
+  },
+  "b": {
+    "item_id": "a973ac401cee8adeb2d7650518fba9b87805a512",
+    "lede": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-30T09:00:00Z",
+    "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+  },
+  "score": 0.574028
+}

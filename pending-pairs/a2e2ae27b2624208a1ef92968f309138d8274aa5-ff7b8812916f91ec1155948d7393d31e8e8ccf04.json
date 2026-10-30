@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a2e2ae27b2624208a1ef92968f309138d8274aa5",
+    "lede": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+    "outlet": "engadget",
+    "published": "2026-10-30T07:44:26Z",
+    "title": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+    "url": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/"
+  },
+  "b": {
+    "item_id": "ff7b8812916f91ec1155948d7393d31e8e8ccf04",
+    "lede": "Owners of GM cars found their driving data had been sold to insurance companies.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:53:20Z",
+    "title": "GM to pay $220 million after selling customer Smart Driver data",
+    "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/"
+  },
+  "score": 0.644332
+}

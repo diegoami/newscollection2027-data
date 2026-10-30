@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "219f99ac76bfe58137b465cc20372739f2386e00",
+    "lede": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T13:50:59Z",
+    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+    "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/"
+  },
+  "b": {
+    "item_id": "27c3e9ac8130d5f497648b1a9a5f66e249211476",
+    "lede": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:00:10Z",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+    "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
+  },
+  "score": 0.642894
+}

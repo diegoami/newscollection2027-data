@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09382f93624b985e9186957114e4fa2aa4be8e5c",
+    "lede": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T13:00:32Z",
+    "title": "CISA says max severity GitLab flaw now exploited in the wild",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
+  },
+  "b": {
+    "item_id": "748d67ab1d92c076de235a5f586330196cc52534",
+    "lede": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T13:59:48Z",
+    "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/"
+  },
+  "score": 0.724665
+}

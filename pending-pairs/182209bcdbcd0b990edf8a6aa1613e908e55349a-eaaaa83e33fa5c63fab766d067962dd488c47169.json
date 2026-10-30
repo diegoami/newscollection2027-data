@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182209bcdbcd0b990edf8a6aa1613e908e55349a",
+    "lede": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:58:22Z",
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+  },
+  "b": {
+    "item_id": "eaaaa83e33fa5c63fab766d067962dd488c47169",
+    "lede": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T10:16:07Z",
+    "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+  },
+  "score": 0.625768
+}

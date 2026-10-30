@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4198413c0e43059197ffef792a5128742f2bfb2c",
+    "lede": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T11:20:26Z",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+  },
+  "b": {
+    "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004",
+    "lede": "Redmond joins growing list of software maintainers scrambling to patch compression flaw",
+    "outlet": "theregister",
+    "published": "2026-10-26T17:58:00Z",
+    "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
+    "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+  },
+  "score": 0.587949
+}

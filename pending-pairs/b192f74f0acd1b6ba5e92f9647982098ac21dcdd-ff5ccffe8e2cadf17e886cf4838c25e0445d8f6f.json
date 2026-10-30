@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b192f74f0acd1b6ba5e92f9647982098ac21dcdd",
+    "lede": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history\u2014with billions of crypto likely gone for good.",
+    "outlet": "wired",
+    "published": "2026-10-30T11:36:52Z",
+    "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.728983
+}

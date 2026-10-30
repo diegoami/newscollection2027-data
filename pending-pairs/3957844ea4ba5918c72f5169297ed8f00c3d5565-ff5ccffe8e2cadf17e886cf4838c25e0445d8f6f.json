@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3957844ea4ba5918c72f5169297ed8f00c3d5565",
+    "lede": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-30T09:02:31Z",
+    "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.573641
+}

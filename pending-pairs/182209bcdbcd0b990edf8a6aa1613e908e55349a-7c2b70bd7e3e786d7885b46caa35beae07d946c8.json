@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182209bcdbcd0b990edf8a6aa1613e908e55349a",
+    "lede": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:58:22Z",
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+  },
+  "b": {
+    "item_id": "7c2b70bd7e3e786d7885b46caa35beae07d946c8",
+    "lede": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T18:38:26Z",
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
+  },
+  "score": 0.589222
+}
