@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+    "lede": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+    "outlet": "engadget",
+    "published": "2026-10-30T08:24:55Z",
+    "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+    "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
+  },
+  "b": {
+    "item_id": "3957844ea4ba5918c72f5169297ed8f00c3d5565",
+    "lede": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-30T09:02:31Z",
+    "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+    "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+  },
+  "score": 0.586038
+}

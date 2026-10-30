@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+    "lede": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T09:18:13Z",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+  },
+  "b": {
+    "item_id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+    "lede": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far The world\u2019s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (\u00a34.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as",
+    "outlet": "theguardian",
+    "published": "2026-10-30T08:19:38Z",
+    "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+    "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+  },
+  "score": 0.630806
+}

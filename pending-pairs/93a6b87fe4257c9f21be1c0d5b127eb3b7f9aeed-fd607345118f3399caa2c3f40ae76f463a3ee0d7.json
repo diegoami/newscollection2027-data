@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+    "lede": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T09:18:13Z",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+  },
+  "b": {
+    "item_id": "fd607345118f3399caa2c3f40ae76f463a3ee0d7",
+    "lede": "Binance freezes funny money after compromise of engineer\u2019s laptop linked to $6.3 billion of unauthorized trades",
+    "outlet": "theregister",
+    "published": "2026-10-30T04:22:12Z",
+    "title": "In the year AI re-wrote the infosec rulebook, it\u2019s comforting to know crypto exchanges still have bad security",
+    "url": "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539"
+  },
+  "score": 0.649921
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+    "lede": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T22:45:23Z",
+    "title": "Binance probes potential $5.8 billion crypto-theft hack",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+  },
+  "b": {
+    "item_id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+    "lede": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far The world\u2019s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (\u00a34.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as",
+    "outlet": "theguardian",
+    "published": "2026-10-30T08:19:38Z",
+    "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+    "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+  },
+  "score": 0.670572
+}
