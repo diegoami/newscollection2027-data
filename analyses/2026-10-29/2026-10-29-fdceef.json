@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-29-fdceef",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Astronomers find possible new dwarf planet beyond Neptune",
+  "summary": "Astronomers have identified 2026 ED138, an object beyond Neptune, as a possible new dwarf planet. One report says it could be up to 1,500 kilometers across, while another calls it perhaps the smallest known object of its type. Confirmation that it meets the criteria for a dwarf planet is still pending.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A search turned up an object, 2026 ED138, identified as a possible new dwarf planet beyond Neptune.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6331daa278a39614c3cdac543419ee3786c32a0a",
+          "quote": "found a possible dwarf planet - a result so rare he thought it must be a bug"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "1bdbb0a3f774bc27747ba2d51e62239889098a96",
+          "quote": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Astronomers are still confirming whether the object meets the criteria for a dwarf planet.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "1bdbb0a3f774bc27747ba2d51e62239889098a96",
+          "quote": "Astronomers are still working to confirm whether it meets the criteria for a dwarf planet."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The object could be as large as 1,500 kilometers in diameter.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "1bdbb0a3f774bc27747ba2d51e62239889098a96",
+          "quote": "could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The object is described as perhaps the smallest known object of its type.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6331daa278a39614c3cdac543419ee3786c32a0a",
+          "quote": "perhaps the smallest known object of its type"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

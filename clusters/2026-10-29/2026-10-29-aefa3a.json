@@ -1,0 +1,32 @@
+{
+  "anchor": "c340498c2d629ea294e1d4f1b8c43766b488bb86",
+  "id": "2026-10-29-aefa3a",
+  "items": [
+    {
+      "item_id": "c340498c2d629ea294e1d4f1b8c43766b488bb86",
+      "lede": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery via Instacart's established grocery marketplace and retailer partnerships. DoorDash, which started as a restaurant courier service, already has its own grocery delivery business, but that faces ongoing competition [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T11:56:35Z",
+      "title": "DoorDash is acquiring Instacart for around $17 billion",
+      "url": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement"
+    },
+    {
+      "item_id": "3bdf9f6cc127d9c8abba7b66dee7a3be03b271f2",
+      "lede": "The deal combines the two largest grocery delivery platforms in the US.",
+      "outlet": "engadget",
+      "published": "2026-10-29T12:24:06Z",
+      "title": "DoorDash acquires Instacart in $17 billion delivery service merger",
+      "url": "https://www.engadget.com/2300741/doordash-acquires-instacart-in-dollar17-billion-delivery-service-merger/"
+    },
+    {
+      "item_id": "0a2cc26fc64bbaab4b0686f01ff4aee91e8d12c4",
+      "lede": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash\u2019s dominance in restaurant takeout with Instacart\u2019s reach in grocery delivery.",
+      "outlet": "techcrunch",
+      "published": "2026-10-29T13:40:57Z",
+      "title": "DoorDash to acquire Instacart for $17B",
+      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

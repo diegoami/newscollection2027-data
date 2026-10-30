@@ -1,0 +1,415 @@
+{
+  "agent_seconds": 1180.455,
+  "counts": {
+    "analyses_total": 517,
+    "analyses_written": 30,
+    "clusters": 528,
+    "judgments": 6221,
+    "pending": 0,
+    "rejected": 56,
+    "unjudged_pairs": 62
+  },
+  "date": "2026-10-30",
+  "duration_seconds": 1268.211,
+  "finished_at": "2026-10-30T02:28:28Z",
+  "note": "",
+  "started_at": "2026-10-30T02:07:20Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.632
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 76.767
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.367
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.483
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.0
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.062
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.198
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.033
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.948
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.0
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.023
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.07
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.635
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.021
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.485
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.044
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.025
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.039
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.037
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.037
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.034
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.033
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.03
+    },
+    {
+      "name": "feeds check",
+      "ok": false,
+      "seconds": 0.007
+    },
+    {
+      "name": "feeds check",
+      "ok": false,
+      "seconds": 0.004
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "db rebuild",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.02
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.144
+    },
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.018
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.13
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.008
+    },
+    {
+      "name": "embed",
+      "ok": true,
+      "seconds": 0.007
+    },
+    {
+      "name": "embed",
+      "ok": true,
+      "seconds": 0.001
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.014
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.004
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.001
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.001
+    },
+    {
+      "name": "bench-judge",
+      "ok": true,
+      "seconds": 0.0
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.026
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.024
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.02
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.026
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.008
+    },
+    {
+      "name": "label-page",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "nightly",
+      "ok": false,
+      "seconds": 0.0
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.038
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.031
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.025
+    },
+    {
+      "name": "feeds check",
+      "ok": false,
+      "seconds": 0.005
+    },
+    {
+      "name": "feeds check",
+      "ok": false,
+      "seconds": 0.003
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "db rebuild",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.017
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.135
+    },
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.017
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.145
+    },
+    {
+      "name": "sync push",
+      "ok": true,
+      "seconds": 0.005
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.004
+    },
+    {
+      "name": "embed",
+      "ok": true,
+      "seconds": 0.004
+    },
+    {
+      "name": "embed",
+      "ok": true,
+      "seconds": 0.001
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.005
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.002
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.0
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.0
+    },
+    {
+      "name": "bench-judge",
+      "ok": true,
+      "seconds": 0.0
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.016
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.015
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.011
+    },
+    {
+      "name": "ingest",
+      "ok": true,
+      "seconds": 0.006
+    },
+    {
+      "name": "label-page",
+      "ok": true,
+      "seconds": 0.003
+    },
+    {
+      "name": "nightly",
+      "ok": false,
+      "seconds": 0.0
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.031
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.023
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.706
+    }
+  ]
+}

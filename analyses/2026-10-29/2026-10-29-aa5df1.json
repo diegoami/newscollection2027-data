@@ -1,0 +1,77 @@
+{
+  "cluster_id": "2026-10-29-aa5df1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Ofcom sets out age-check options for UK's under-16 social media ban",
+  "summary": "UK media regulator Ofcom has outlined accepted methods for verifying users' ages ahead of a ban on social media access for under-16s, including photo ID, banking checks and facial age estimation. One report notes some adults using affected platforms may also need to verify their age, though not all adults will be required to.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ofcom outlined a shortlist of age-verification methods ahead of the UK's under-16 social media ban.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
+          "quote": "Ofcom outlines age check methods ahead of social media ban for under-16s"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+          "quote": "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Accepted methods include photo and digital ID, banking checks, or facial age estimation.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
+          "quote": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Some adults using social media may also need to verify their age under the scheme, though not all will.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+          "quote": "'some' adults will need verifying"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+          "quote": "Some adults may not need to prove it, but many will"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "claim_ids": [
+        "c3"
+      ],
+      "explanation": "The Register's text states many adults will also need to verify their age under the scheme, a point the BBC's given text does not mention.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "6a4410175a8f57472f8365dc7be291386ed17ab2",
+          "quote": "Some adults may not need to prove it, but many will"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
+          "quote": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,48 @@
+{
+  "anchor": "b9e4a862399ad1b1dab59bcd6c6902d767d4cf8d",
+  "id": "2026-10-29-7326f1",
+  "items": [
+    {
+      "item_id": "b9e4a862399ad1b1dab59bcd6c6902d767d4cf8d",
+      "lede": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T20:07:00Z",
+      "title": "Reddit will force everyone to log in",
+      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
+    },
+    {
+      "item_id": "6224c596d37f354a3a02a0ea32a3db77a1d91a8c",
+      "lede": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "outlet": "techcrunch",
+      "published": "2026-10-29T20:08:31Z",
+      "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+    },
+    {
+      "item_id": "6e606bba9f64f81ec0f49ca4c9433926aed8f3f6",
+      "lede": "The company is starting with tests outside of the US.",
+      "outlet": "engadget",
+      "published": "2026-10-29T20:32:49Z",
+      "title": "Reddit will force users to log in as AI is killing search traffic",
+      "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/"
+    },
+    {
+      "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2",
+      "lede": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+      "outlet": "arstechnica",
+      "published": "2026-10-29T21:47:57Z",
+      "title": "Reddit is moving to \u201ca logged-in-only experience,\u201d CEO says",
+      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+    },
+    {
+      "item_id": "fd539153f04ef25c389da1fcd5f98022e918ca37",
+      "lede": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T22:19:32Z",
+      "title": "Reddit\u2019s CEO says Google\u2019s AI Mode \u2018does not drive traffic\u2019",
+      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

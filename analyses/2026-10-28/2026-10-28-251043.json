@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-10-28-251043",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "ULA's Vulcan rocket targets return-to-flight launch on Friday the 13th",
+  "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th, in what will be the first launch to use a full complement of six solid rocket boosters. One report frames the mission as critical, citing the risk of SRB nozzle problems, while another describes it neutrally as a return-to-flight launch.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "ULA's Vulcan rocket is targeting a return-to-flight launch on Friday the 13th.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "f1032294b76f4b1c356c248ab115f4c9128f0284", "quote": "ULA's Vulcan rocket is set to return to flight on Friday the 13th"},
+        {"outlet": "theregister", "item_id": "d266a488af8f08b010c32d62922daad7f1dd7cfc", "quote": "Critical launch for Vulcan as ULA targets Friday the 13th"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "This launch will be the first to use a full complement of six solid rocket boosters.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "f1032294b76f4b1c356c248ab115f4c9128f0284", "quote": "the first to utilize a full complement of six solid rocket boosters"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The launch carries a risk of solid rocket booster nozzle problems.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "d266a488af8f08b010c32d62922daad7f1dd7cfc", "quote": "Hopefully without disintegrating SRB nozzles"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "The Register frames the launch as 'critical' and references the risk of SRB nozzle failure, while Ars Technica describes it neutrally as a return-to-flight with more boosters.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "d266a488af8f08b010c32d62922daad7f1dd7cfc", "quote": "Critical launch for Vulcan"},
+        {"outlet": "arstechnica", "item_id": "f1032294b76f4b1c356c248ab115f4c9128f0284", "quote": "the first to utilize a full complement of six solid rocket boosters"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

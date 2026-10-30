@@ -3,6 +3,14 @@
   "id": "2026-10-28-f79e4c",
   "items": [
     {
+      "item_id": "80d0fea31f91dd9f1b7b988633e1c84565cc2681",
+      "lede": "The leaked records include the locations of ICE and CBP facilities, workers\u2019 cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI\u2019s Grok chatbot.",
+      "outlet": "wired",
+      "published": "2026-10-28T20:00:00Z",
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers\u2014Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/"
+    },
+    {
       "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
       "lede": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
       "outlet": "techcrunch",
@@ -17,8 +25,32 @@
       "published": "2026-10-28T21:57:45Z",
       "title": "A hacker stole more than 40,000 DHS employee records",
       "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak"
+    },
+    {
+      "item_id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+      "lede": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-29T01:30:43Z",
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo"
+    },
+    {
+      "item_id": "d8bdafe86255b043c6dbb69fca44834fce87cccc",
+      "lede": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+      "outlet": "engadget",
+      "published": "2026-10-29T08:33:46Z",
+      "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+      "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/"
+    },
+    {
+      "item_id": "ec59d102565dd0e725d020c55121ed04766aaf37",
+      "lede": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "outlet": "arstechnica",
+      "published": "2026-10-29T12:58:34Z",
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

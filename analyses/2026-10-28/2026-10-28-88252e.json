@@ -1,0 +1,53 @@
+{
+  "cluster_id": "2026-10-28-88252e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "FCC to vote on letting prisons jam cellphone signals",
+  "summary": "FCC Chairman Brendan Carr wants to let prisons use signal jammers, and the agency is set to vote on the new rules, with one report citing November 19th as the date. Jammers are generally banned under decades-old federal law, though some federal facilities already have exceptions, and the vote would relax that long-standing policy.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "FCC Chairman Brendan Carr wants to allow prisons to jam cellphone signals.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "38e7b2496fe9632b6ccb6e7756cc0d09eca9aeff", "quote": "Brendan Carr plans to let prisons jam cellphone signals"},
+        {"outlet": "engadget", "item_id": "d852207116147bb600422d172378ea132aa503de", "quote": "FCC chair wants to let prisons jam illegal cellphones"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The FCC will vote on November 19th on rules allowing prisons to use signal jamming.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "38e7b2496fe9632b6ccb6e7756cc0d09eca9aeff", "quote": "the agency will vote on November 19th on rules that would allow prisons to use signal jamming"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Radiofrequency jammers are generally banned under Section 333 of the Communications Act of 1934, with few exceptions.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "38e7b2496fe9632b6ccb6e7756cc0d09eca9aeff", "quote": "Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The vote would relax the FCC's long-standing opposition to jammers.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "d852207116147bb600422d172378ea132aa503de", "quote": "relaxing its long-standing opposition to jammers"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "One outlet frames the rule change as letting prisons jam cellphone signals generally, while the other frames it as targeting illegal cellphones specifically.",
+      "quotes": [
+        {"outlet": "theverge", "item_id": "38e7b2496fe9632b6ccb6e7756cc0d09eca9aeff", "quote": "jam cellphone signals"},
+        {"outlet": "engadget", "item_id": "d852207116147bb600422d172378ea132aa503de", "quote": "jam illegal cellphones"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

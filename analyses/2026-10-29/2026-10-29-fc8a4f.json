@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-29-fc8a4f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:22:11Z",
+  "headline": "Rivian's R2 becomes the company's best-selling vehicle",
+  "summary": "Rivian said its R2 electric vehicle has become the company's best-selling model, outselling its other EVs for the first time. The company reported third-quarter 2026 revenue of $2.155 billion, up 38 percent, and raised its sales guidance to Wall Street for the second time this year amid strong demand for the R2.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Rivian's R2 has become the company's best-selling vehicle, outselling its other EVs for the first time.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "69e0997083937eeae9383a868662b685faf68a25",
+          "quote": "Rivian’s R2 is officially its best-selling vehicle"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "69e0997083937eeae9383a868662b685faf68a25",
+          "quote": "which is now, for the first time, outselling all of Rivian's other EVs."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "07f8f3eea0048ee3e19548033278b6dad3bb6938",
+          "quote": "The R2 SUV is already Rivian’s best-selling vehicle"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Rivian reported third-quarter 2026 revenue of $2.155 billion, up 38 percent.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "69e0997083937eeae9383a868662b685faf68a25",
+          "quote": "Rivian said it brought in $2.155 billion in revenue, a 38 percent"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Strong R2 sales led Rivian to raise its guidance to Wall Street for the second time this year.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "07f8f3eea0048ee3e19548033278b6dad3bb6938",
+          "quote": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

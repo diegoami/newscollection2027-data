@@ -1,0 +1,24 @@
+{
+  "anchor": "8b0d7d5fb555c7445fcc067cc2aa8082cc8768a2",
+  "id": "2026-10-29-d7e83d",
+  "items": [
+    {
+      "item_id": "8b0d7d5fb555c7445fcc067cc2aa8082cc8768a2",
+      "lede": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"express consent\" from [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T19:19:28Z",
+      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit"
+    },
+    {
+      "item_id": "c46e56a6d495cbd1a5ec2800eee4b50df03c3a2b",
+      "lede": "As part of the settlement, GM must get drivers\u2019 express consent before it collects or shares their driving and location data.",
+      "outlet": "techcrunch",
+      "published": "2026-10-29T21:01:04Z",
+      "title": "GM reaches $220M settlement over selling drivers\u2019 private data",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

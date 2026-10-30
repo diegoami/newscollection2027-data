@@ -41,8 +41,72 @@
       "published": "2026-10-27T10:30:00Z",
       "title": "60,000 Microsoft employees offered voluntary buyouts as AI buildout costs bite",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/60-000-microsoft-employees-offered-voluntary-buyouts-as-ai-buildout-costs-bite-program-covers-roughly-27-percent-of-workforce-across-us-canada-india-and-the-uk"
+    },
+    {
+      "item_id": "9fae158b9ff574cfef2e5a99f9e941fea8f15c71",
+      "lede": "Revenue up, operating profit up, 30 million paid Copilot seats locked in, 88 DCs added, $43.8 billion returned to shareholders",
+      "outlet": "theregister",
+      "published": "2026-10-27T15:51:00Z",
+      "title": "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year",
+      "url": "https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737"
+    },
+    {
+      "item_id": "3905ca1fc76abe76226b136b8c4a4de8c0eaa9f4",
+      "lede": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-28T20:20:00Z",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027"
+    },
+    {
+      "item_id": "f7041d98b5619cae9d73987be3471f4f5174c86f",
+      "lede": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "outlet": "techcrunch",
+      "published": "2026-10-28T21:25:30Z",
+      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/"
+    },
+    {
+      "item_id": "90b267becbf2eaa801acff108007072071eca05e",
+      "lede": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "outlet": "techcrunch",
+      "published": "2026-10-28T21:34:30Z",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+    },
+    {
+      "item_id": "b126d7721238eea7de00bbd8a4fed6247b672f98",
+      "lede": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "outlet": "techcrunch",
+      "published": "2026-10-28T21:58:32Z",
+      "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+    },
+    {
+      "item_id": "ca17b3f8c6eadbdeac6e66931fd85eb3e60894f3",
+      "lede": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to some 60,000 employees. The office software giant\u2019s growth was fueled by its Azure cloud computing",
+      "outlet": "theguardian",
+      "published": "2026-10-28T22:44:58Z",
+      "title": "Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees",
+      "url": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings"
+    },
+    {
+      "item_id": "0d295d6038b961f68dc4f6401076a2cb211418df",
+      "lede": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-29T01:27:40Z",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no"
+    },
+    {
+      "item_id": "45b4ef0b726f6d169aa4087485ac7ab0047ffedd",
+      "lede": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T16:00:00Z",
+      "title": "Microsoft\u2019s AI future has fewer jobs",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

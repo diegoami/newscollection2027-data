@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-29-aefa3a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:22:11Z",
+  "headline": "DoorDash agrees to acquire Instacart for about $17 billion",
+  "summary": "DoorDash announced it is acquiring grocery-delivery rival Instacart in a deal valued at roughly $17 billion. The acquisition pairs DoorDash's restaurant-delivery business, which already includes its own grocery service, with Instacart's grocery marketplace and retailer partnerships. Outlets describe the deal as uniting two of the largest players in on-demand and grocery delivery in the US.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "DoorDash is acquiring Instacart for roughly $17 billion.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c340498c2d629ea294e1d4f1b8c43766b488bb86",
+          "quote": "DoorDash is acquiring Instacart for around $17 billion"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3bdf9f6cc127d9c8abba7b66dee7a3be03b271f2",
+          "quote": "DoorDash acquires Instacart in $17 billion delivery service merger"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "0a2cc26fc64bbaab4b0686f01ff4aee91e8d12c4",
+          "quote": "DoorDash to acquire Instacart for $17B"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The deal combines DoorDash's restaurant-delivery strength with Instacart's grocery delivery reach.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0a2cc26fc64bbaab4b0686f01ff4aee91e8d12c4",
+          "quote": "combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c340498c2d629ea294e1d4f1b8c43766b488bb86",
+          "quote": "DoorDash, which started as a restaurant courier service, already has its own grocery delivery business"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The deal combines the two largest grocery delivery platforms in the US.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3bdf9f6cc127d9c8abba7b66dee7a3be03b271f2",
+          "quote": "The deal combines the two largest grocery delivery platforms in the US."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

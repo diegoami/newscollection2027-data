@@ -1,0 +1,24 @@
+{
+  "anchor": "69e0997083937eeae9383a868662b685faf68a25",
+  "id": "2026-10-29-fc8a4f",
+  "items": [
+    {
+      "item_id": "69e0997083937eeae9383a868662b685faf68a25",
+      "lede": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T20:02:00Z",
+      "title": "Rivian\u2019s R2 is officially its best-selling vehicle",
+      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
+    },
+    {
+      "item_id": "07f8f3eea0048ee3e19548033278b6dad3bb6938",
+      "lede": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+      "outlet": "techcrunch",
+      "published": "2026-10-29T20:02:03Z",
+      "title": "The R2 SUV is already Rivian\u2019s best-selling vehicle",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

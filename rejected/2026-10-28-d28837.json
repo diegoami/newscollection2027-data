@@ -1,0 +1,96 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "22c43f17fa5f1add6f05317b2583955c6063839b",
+            "outlet": "bbc-technology",
+            "quote": "Elon Musk is a 'real genius', Putin says"
+          },
+          {
+            "item_id": "7e77344e5aa15a292160672c617bd28810ffb1cf",
+            "outlet": "techcrunch",
+            "quote": "Elon Musk is 'truly a genius,' says Vladimir Putin"
+          }
+        ],
+        "statement": "Russian President Vladimir Putin praised Elon Musk as a genius."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "22c43f17fa5f1add6f05317b2583955c6063839b",
+            "outlet": "bbc-technology",
+            "quote": "said they are in \"close\" contact"
+          },
+          {
+            "item_id": "7e77344e5aa15a292160672c617bd28810ffb1cf",
+            "outlet": "techcrunch",
+            "quote": "Putin said that he and Musk are in \"close contact\""
+          }
+        ],
+        "statement": "Putin said he and Musk are in close contact."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "7e77344e5aa15a292160672c617bd28810ffb1cf",
+            "outlet": "techcrunch",
+            "quote": "Rassvet, Russia's Starlink-like satellite connectivity project"
+          }
+        ],
+        "statement": "The contact reportedly concerns Rassvet, described as Russia's Starlink-like satellite connectivity project."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "22c43f17fa5f1add6f05317b2583955c6063839b",
+            "outlet": "bbc-technology",
+            "quote": "after satellite talks with SpaceX boss"
+          }
+        ],
+        "statement": "Putin's remarks followed satellite talks with the SpaceX boss."
+      }
+    ],
+    "cluster_id": "2026-10-28-d28837",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Outlets attribute different exact wording to Putin's praise of Musk: one quotes 'real genius', the other 'truly a genius.'",
+        "kind": "attribution",
+        "quotes": [
+          {
+            "item_id": "22c43f17fa5f1add6f05317b2583955c6063839b",
+            "outlet": "bbc-technology",
+            "quote": "'real genius'"
+          },
+          {
+            "item_id": "7e77344e5aa15a292160672c617bd28810ffb1cf",
+            "outlet": "techcrunch",
+            "quote": "'truly a genius,'"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-10-30T12:00:00Z",
+    "headline": "Putin praises Elon Musk as a genius after satellite talks",
+    "model": "claude-sonnet-5",
+    "summary": "Russian President Vladimir Putin praised Elon Musk after satellite talks with the SpaceX boss, with outlets quoting him calling Musk either a 'real genius' or 'truly a genius.' Putin said the two are in close contact, reportedly regarding Rassvet, described as Russia's Starlink-like satellite connectivity project."
+  },
+  "cluster_id": "2026-10-28-d28837",
+  "problems": [
+    "quote: not verbatim in techcrunch 7e77344e5aa15a292160672c617bd28810ffb1cf's title or lede: \"Elon Musk is 'truly a genius,' says Vladimir Putin\"",
+    "quote: not verbatim in techcrunch 7e77344e5aa15a292160672c617bd28810ffb1cf's title or lede: \"'truly a genius,'\""
+  ],
+  "rejected_at": "2026-10-30T02:24:42Z"
+}

@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-10-29-5a93c7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Hacker used malware to see rivals' cards in online poker cheating case",
+  "summary": "A hacker allegedly installed malware on the computers of top online poker players, letting the cheater see opponents' cards and beat them at the table. One report says the hacker may have stolen millions through the scheme, which it describes as a superuser cheating scandal.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A hacker used malware installed on players' computers to see opponents' cards and cheat at online poker.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "2e58cd2f734bfdb3a5d09d5b50e4b2898dc8a953",
+          "quote": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b8d6df6ae2e63a7828cd84aceeaef290ed8dd341",
+          "quote": "Hacker may have stolen millions in a malware attack against online poker players"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The hacker may have profited substantially, possibly in the millions of dollars, from the scheme.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b8d6df6ae2e63a7828cd84aceeaef290ed8dd341",
+          "quote": "Hacker may have stolen millions in a malware attack against online poker players"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Engadget's lede frames the case as a 'superuser' cheating scandal, while Wired's reporting describes the method as malware placed on players' own computers rather than elevated platform access.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "b8d6df6ae2e63a7828cd84aceeaef290ed8dd341",
+          "quote": "Wired has the story of a superuser cheating scandal."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "2e58cd2f734bfdb3a5d09d5b50e4b2898dc8a953",
+          "quote": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

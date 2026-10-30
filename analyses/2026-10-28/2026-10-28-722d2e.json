@@ -1,0 +1,48 @@
+{
+  "cluster_id": "2026-10-28-722d2e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Musk-linked company reportedly offers to buy out Mississippi homes near data center",
+  "summary": "A company tied to Elon Musk is reportedly offering to buy out homes near its Mississippi AI data center, but only for residents who drop out of a lawsuit over facility noise. Reports differ on whether the buyer is xAI or SpaceX, and give slightly different counts of the homes involved.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A company linked to Elon Musk is offering to buy homes near its Mississippi AI data center.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "953d4fbbbcc9217f6229b291853013ec24ef173d", "quote": "Musk’s xAI is buying up homes"},
+        {"outlet": "tomshardware", "item_id": "ceaac4995886d78da37f5163b4a218bf91f4f464", "quote": "Elon Musk's SpaceX buying out 418 homes near flagship AI data center"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The buyout offer is conditioned on residents not participating in a lawsuit over noise from the facility.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "953d4fbbbcc9217f6229b291853013ec24ef173d", "quote": "if they don’t sue over noise"},
+        {"outlet": "tomshardware", "item_id": "ceaac4995886d78da37f5163b4a218bf91f4f464", "quote": "but only if they drop participation in lawsuit"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Hundreds of homes near the data center have been purchased or targeted for purchase.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "953d4fbbbcc9217f6229b291853013ec24ef173d", "quote": "Several homes have been purchased near datacenters"},
+        {"outlet": "tomshardware", "item_id": "ceaac4995886d78da37f5163b4a218bf91f4f464", "quote": "418 homes"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": ["c1"],
+      "explanation": "The Guardian attributes the home-buying offer to Musk's xAI, while Tom's Hardware attributes it to Musk's SpaceX.",
+      "quotes": [
+        {"outlet": "theguardian", "item_id": "953d4fbbbcc9217f6229b291853013ec24ef173d", "quote": "Musk’s xAI is buying up homes"},
+        {"outlet": "tomshardware", "item_id": "ceaac4995886d78da37f5163b4a218bf91f4f464", "quote": "Elon Musk's SpaceX buying out 418 homes"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

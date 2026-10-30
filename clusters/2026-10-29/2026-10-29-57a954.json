@@ -1,0 +1,24 @@
+{
+  "anchor": "fc9b2c9e797b022cb99023ea3541116ea016299e",
+  "id": "2026-10-29-57a954",
+  "items": [
+    {
+      "item_id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
+      "lede": "Because, sigh, AI",
+      "outlet": "theregister",
+      "published": "2026-10-29T03:34:32Z",
+      "title": "Tape is so not dead that Fujifilm will increase production capacity 5x",
+      "url": "https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189"
+    },
+    {
+      "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
+      "lede": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage.",
+      "outlet": "tomshardware",
+      "published": "2026-10-29T11:40:00Z",
+      "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand \u2014 $63 million injection is the largest investment in tape for 20 years",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

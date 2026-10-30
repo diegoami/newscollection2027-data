@@ -35,12 +35,68 @@
       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
     },
     {
+      "item_id": "16c3ef4b52de6eca35b1c9e3d148b66a384d759a",
+      "lede": "Sadly, the 16-inch MBP is still stuck with older M5 silicon.",
+      "outlet": "engadget",
+      "published": "2026-10-27T13:23:27Z",
+      "title": "Apple has updated the 14-inch MacBook Pro with an M6 chip",
+      "url": "https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/"
+    },
+    {
+      "item_id": "766f9242ed8f3cc6ee125c42a1bc2e6874dfb936",
+      "lede": "It offers more cores and more performance per core than the iMac M5.",
+      "outlet": "engadget",
+      "published": "2026-10-27T13:25:44Z",
+      "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
+      "url": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/"
+    },
+    {
+      "item_id": "674a117ca796ab619e7774f1d07be55cac64d90d",
+      "lede": "Apple updated its 14-inch MacBook Pro and iMac lineup with the M6 chip.",
+      "outlet": "tomshardware",
+      "published": "2026-10-27T13:28:23Z",
+      "title": "Apple adds M6 to 14-inch MacBook Pro and iMac",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-adds-m6-to-14-inch-macbook-pro-and-imac-starts-at-usd1-999"
+    },
+    {
       "item_id": "1b963514a89dad92fa2018f9677c9454494117e1",
       "lede": "A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its \"Pro and Tell\" event. A laptop with a touchscreen should be no big deal - we've had them for [\u2026]",
       "outlet": "theverge",
       "published": "2026-10-27T14:00:00Z",
       "title": "We\u2019ve had touchscreen laptops for years. Can Apple make them better?",
       "url": "https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions"
+    },
+    {
+      "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+      "lede": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "outlet": "techcrunch",
+      "published": "2026-10-27T14:25:11Z",
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+    },
+    {
+      "item_id": "34ee7d08d2cea7cab2f2f53bf93002bbf60658c9",
+      "lede": "Apple\u2019s colorful all-in-one gets its first refresh in two years. Here\u2019s what you get for the $1,499 starting price.",
+      "outlet": "zdnet",
+      "published": "2026-10-27T15:42:32Z",
+      "title": "Apple\u2019s M6 iMac has arrived \u2013 here\u2019s what\u2019s changed since the M4",
+      "url": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/"
+    },
+    {
+      "item_id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
+      "lede": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors",
+      "outlet": "theregister",
+      "published": "2026-10-27T17:47:07Z",
+      "title": "Apple takes powerful M6 chip to the MacBook Pro, iMac",
+      "url": "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797"
+    },
+    {
+      "item_id": "5b2f53c323415a2b2731dddb91e0762f44abf449",
+      "lede": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "outlet": "arstechnica",
+      "published": "2026-10-27T22:37:30Z",
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
     },
     {
       "item_id": "9a3e069840406417f836fda26f35b9c86f3d3f08",
@@ -185,8 +241,32 @@
       "published": "2026-10-28T20:31:43Z",
       "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
       "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/"
+    },
+    {
+      "item_id": "2bce6ea0abd3ae8e6bd361d044c99c096cc86bcf",
+      "lede": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "outlet": "techcrunch",
+      "published": "2026-10-28T22:47:50Z",
+      "title": "Apple\u2019s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+    },
+    {
+      "item_id": "1b4cbfa8161ed0d63e71f4bd2c0325db8e1c6329",
+      "lede": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here\u2019s why it\u2019s unlike anything else you can currently buy.",
+      "outlet": "wired",
+      "published": "2026-10-28T22:54:16Z",
+      "title": "The 2,000-Nit OLED in Apple\u2019s New MacBook Is a Big Deal",
+      "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/"
+    },
+    {
+      "item_id": "58eb3e785135fee863dca22208d9eb20124b5384",
+      "lede": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T17:48:09Z",
+      "title": "Apple\u2019s new laptop supports one of the coolest features for color pros",
+      "url": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf"
     }
   ],
   "status": "analyzed",
-  "version": 5
+  "version": 6
 }

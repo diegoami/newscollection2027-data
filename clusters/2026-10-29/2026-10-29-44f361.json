@@ -1,0 +1,24 @@
+{
+  "anchor": "694ec8e61276241de0c252ba3eca2b809ae9edc0",
+  "id": "2026-10-29-44f361",
+  "items": [
+    {
+      "item_id": "694ec8e61276241de0c252ba3eca2b809ae9edc0",
+      "lede": "The Sierra Club, one of the oldest environmental preservation organizations in the U.S., has now put forth an estimate that by 2030, U.S. data center buildouts will be outputting as much carbon dioxide as the entirety of Mexico.",
+      "outlet": "tomshardware",
+      "published": "2026-10-29T14:34:54Z",
+      "title": "US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico"
+    },
+    {
+      "item_id": "9b9f40c6b44047411affdf366ba9faf7ea23d560",
+      "lede": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra Club. That would essentially wipe out 15 years of greenhouse gas reductions. CO2 [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-29T17:10:46Z",
+      "title": "Data centers could send US climate pollution skyrocketing",
+      "url": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

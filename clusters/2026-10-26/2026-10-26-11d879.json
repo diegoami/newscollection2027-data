@@ -145,8 +145,16 @@
       "published": "2026-10-28T01:15:28Z",
       "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+    },
+    {
+      "item_id": "b53378954f7facf4f9eb909c721d899203626793",
+      "lede": "Anthropic\u2019s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
+      "outlet": "tomshardware",
+      "published": "2026-10-29T11:30:00Z",
+      "title": "Anthropic\u2019s IPO filing shows most of its compute goes to R&D, not serving customers",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

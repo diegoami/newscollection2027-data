@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-10-29-f3aee9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:23:49Z",
+  "headline": "Alphabet loses about $500bn in market value after weak Q3 profit",
+  "summary": "Alphabet's stock tumbled, erasing roughly $500bn in market value, after Q3 net profit fell 25% year-over-year to $26.2bn, missing expectations, even as revenue rose to $127.6bn. Google said its AI search products are generating less revenue and it plans to offset that with more ads. Coverage varies in emphasis, from Google's fix-it framing to investor alarm that sent shares to a six-month low.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Alphabet lost roughly $500bn in market value after its Q3 earnings report.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9893b64114d0af225e027088362d5d42610a4b6f", "quote": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street"},
+        {"outlet": "bbc-technology", "item_id": "b8abd60f90cc4de2b24c9622933716f705ac523b", "quote": "Google value plunges by $500bn as AI fears rattle Wall Street"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Net profit fell 25% year-over-year to $26.2bn, missing expectations, even as revenue rose to $127.6bn.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "9893b64114d0af225e027088362d5d42610a4b6f", "quote": "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bn"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Google's AI search features are reducing or affecting advertising revenue.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "4fecc0fbd4dea111f7ca2876ee3ee47492b286d3", "quote": "Google admits AI search makes less money, but it's fixing that with more ads"},
+        {"outlet": "bbc-technology", "item_id": "b8abd60f90cc4de2b24c9622933716f705ac523b", "quote": "it revealed its AI search summaries were affecting ad revenue"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Google's negative cash flow widened sharply, to -$9.06 billion.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "4fecc0fbd4dea111f7ca2876ee3ee47492b286d3", "quote": "negative cash flow balloons to -$9.06 billion"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Google/Alphabet's stock fell sharply, hitting a six-month low, following the earnings report.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "4fecc0fbd4dea111f7ca2876ee3ee47492b286d3", "quote": "stock price tumbles following Q3 earnings"},
+        {"outlet": "bbc-technology", "item_id": "b8abd60f90cc4de2b24c9622933716f705ac523b", "quote": "its stock hit a six-month low"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1", "c3"],
+      "explanation": "Outlets differ in framing: one centers on Google's plan to offset AI search's revenue impact with more ads, while another emphasizes investor panic and a sharp stock selloff.",
+      "quotes": [
+        {"outlet": "arstechnica", "item_id": "4fecc0fbd4dea111f7ca2876ee3ee47492b286d3", "quote": "Google admits AI search makes less money, but it's fixing that with more ads"},
+        {"outlet": "bbc-technology", "item_id": "b8abd60f90cc4de2b24c9622933716f705ac523b", "quote": "Google spooked investors so badly that its stock hit a six-month low"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

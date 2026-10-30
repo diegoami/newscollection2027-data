@@ -1,23 +1,38 @@
 {
   "analysis": {
-    "agreement": "conflicting",
+    "agreement": "full",
     "backend": "claude_code",
     "claims": [
       {
         "id": "c1",
         "sources": [
           {
+            "item_id": "16c3ef4b52de6eca35b1c9e3d148b66a384d759a",
+            "outlet": "engadget",
+            "quote": "Apple has updated the 14-inch MacBook Pro with an M6 chip"
+          },
+          {
             "item_id": "674a117ca796ab619e7774f1d07be55cac64d90d",
             "outlet": "tomshardware",
             "quote": "Apple adds M6 to 14-inch MacBook Pro and iMac"
           },
           {
+            "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+            "outlet": "techcrunch",
+            "quote": "Apple unveils new 14-inch MacBook Pro with M6 chip"
+          },
+          {
             "item_id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
             "outlet": "theregister",
             "quote": "Apple takes powerful M6 chip to the MacBook Pro, iMac"
+          },
+          {
+            "item_id": "5b2f53c323415a2b2731dddb91e0762f44abf449",
+            "outlet": "arstechnica",
+            "quote": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip"
           }
         ],
-        "statement": "Apple introduced the M6 chip in the 14-inch MacBook Pro and iMac."
+        "statement": "Apple updated the 14-inch MacBook Pro and the iMac with its new M6 chip."
       },
       {
         "id": "c2",
@@ -34,37 +49,31 @@
         "id": "c3",
         "sources": [
           {
-            "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
-            "outlet": "techcrunch",
-            "quote": "comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
-          }
-        ],
-        "statement": "The new MacBook Pro offers 24 hours of battery life plus Wi-Fi 7 and Bluetooth 6 connectivity."
-      },
-      {
-        "id": "c4",
-        "sources": [
-          {
             "item_id": "766f9242ed8f3cc6ee125c42a1bc2e6874dfb936",
             "outlet": "engadget",
             "quote": "It offers more cores and more performance per core than the iMac M5."
           }
         ],
-        "statement": "The M6 iMac offers more cores and better per-core performance than the iMac M5."
+        "statement": "The new iMac offers more cores and better per-core performance than the previous M5 iMac."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "568e455d0b5aa7cabf338419bba8f22c17f94968",
+            "outlet": "techcrunch",
+            "quote": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
+          },
+          {
+            "item_id": "5b2f53c323415a2b2731dddb91e0762f44abf449",
+            "outlet": "arstechnica",
+            "quote": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
+          }
+        ],
+        "statement": "The new MacBook Pro adds Wi-Fi 7 and Bluetooth 6 connectivity, and techcrunch reports a 24-hour battery life rating."
       },
       {
         "id": "c5",
-        "sources": [
-          {
-            "item_id": "34ee7d08d2cea7cab2f2f53bf93002bbf60658c9",
-            "outlet": "zdnet",
-            "quote": "here's what's changed since the M4"
-          }
-        ],
-        "statement": "The M6 iMac is its first refresh in two years, starting at $1,499, compared to the M4 iMac."
-      },
-      {
-        "id": "c6",
         "sources": [
           {
             "item_id": "1145817a986213de2cf9e2d3f5e8679423669a6b",
@@ -72,43 +81,36 @@
             "quote": "6th-gen M-series silicon promises more cores, faster memory, a fatter NPU, and better connectivity, now in more form factors"
           }
         ],
-        "statement": "The new M6 silicon brings more cores, faster memory, a bigger NPU and better connectivity across more device forms."
-      }
-    ],
-    "cluster_id": "2026-10-27-6ccf12",
-    "cluster_version": 1,
-    "discrepancies": [
+        "statement": "The M6 chip is described as bringing more cores, faster memory, a larger neural processing unit, and better connectivity across more product lines."
+      },
       {
-        "claim_ids": [
-          "c4",
-          "c5"
-        ],
-        "explanation": "Outlets disagree on which iMac generation the new M6 model succeeds: one compares it to the M4, another to the M5.",
-        "kind": "contradiction",
-        "quotes": [
+        "id": "c6",
+        "sources": [
           {
             "item_id": "34ee7d08d2cea7cab2f2f53bf93002bbf60658c9",
             "outlet": "zdnet",
-            "quote": "here's what's changed since the M4"
+            "quote": "Apple\u2019s M6 iMac has arrived \u2013 here\u2019s what\u2019s changed since the M4"
           },
           {
-            "item_id": "766f9242ed8f3cc6ee125c42a1bc2e6874dfb936",
-            "outlet": "engadget",
-            "quote": "more performance per core than the iMac M5."
+            "item_id": "34ee7d08d2cea7cab2f2f53bf93002bbf60658c9",
+            "outlet": "zdnet",
+            "quote": "Apple\u2019s colorful all-in-one gets its first refresh in two years. Here\u2019s what you get for the $1,499 starting price."
           }
         ],
-        "severity": "high"
+        "statement": "The iMac refresh is its first update in two years and starts at $1,499."
       }
     ],
-    "generated_at": "2026-10-28T02:23:07Z",
-    "headline": "Apple adds M6 chip to 14-inch MacBook Pro and iMac",
+    "cluster_id": "2026-10-27-6ccf12",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-10-29T02:24:59Z",
+    "headline": "Apple brings M6 chip to 14-inch MacBook Pro and iMac, skips 16-inch model",
     "model": "claude-sonnet-5",
-    "summary": "Apple updated the 14-inch MacBook Pro and iMac with its new M6 chip, adding more cores, faster memory and better connectivity; the 16-inch MacBook Pro keeps the older M5. Outlets differ on which generation preceded the M6 iMac, citing either the M4 or the M5 as its predecessor."
+    "summary": "Apple updated the 14-inch MacBook Pro and the iMac with its new M6 chip, while the 16-inch MacBook Pro keeps the older M5. The refreshed iMac gains more cores and better per-core performance, and the MacBook Pro adds Wi-Fi 7, Bluetooth 6 support and a 24-hour battery rating. The M6 is described as bringing more cores, faster memory, a larger NPU and wider connectivity across more Apple products."
   },
   "cluster_id": "2026-10-27-6ccf12",
   "problems": [
-    "quote: not verbatim in zdnet 34ee7d08d2cea7cab2f2f53bf93002bbf60658c9's title or lede: \"here's what's changed since the M4\"",
-    "quote: not verbatim in zdnet 34ee7d08d2cea7cab2f2f53bf93002bbf60658c9's title or lede: \"here's what's changed since the M4\""
+    "cluster: 2026-10-27-6ccf12 is superseded by 2026-10-19-e1cb17; an analysis written against it is history, not current"
   ],
-  "rejected_at": "2026-10-28T02:27:30Z"
+  "rejected_at": "2026-10-30T02:21:28Z"
 }

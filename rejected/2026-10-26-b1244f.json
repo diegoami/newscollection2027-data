@@ -46,7 +46,7 @@
           {
             "item_id": "f8e85120f2e2c29344a92b32e45f0e1b270adfe9",
             "outlet": "theguardian",
-            "quote": "Tech company offers buyouts in an effort to reduce costs amid the rising use of artificial intelligence"
+            "quote": "reduce costs amid the rising use of artificial intelligence"
           },
           {
             "item_id": "d5158845f8cffd6b042f4e78c6011ccd8cc0973a",
@@ -78,7 +78,7 @@
   },
   "cluster_id": "2026-10-26-b1244f",
   "problems": [
-    "quote: not verbatim in theguardian f8e85120f2e2c29344a92b32e45f0e1b270adfe9's title or lede: 'Tech company offers buyouts in an effort to reduce costs amid the rising use of artificial intelligence'"
+    "cluster: analysis is for version 2, cluster is at version 3"
   ],
-  "rejected_at": "2026-10-28T02:27:30Z"
+  "rejected_at": "2026-10-30T02:21:28Z"
 }

@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-27-4f2f06",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Bank of America warns customers against sharing banking passwords with AI assistants",
+  "summary": "Bank of America told customers not to share their banking passwords with AI assistants or agents, saying they are responsible for any activity resulting from AI agent access. The warning reflects a broader trend of financial institutions restricting third-party AI agent access to accounts.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Bank of America told customers not to share their banking passwords with AI assistants or agents.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "f45c20f72906e9105c8db4dece3fe78f12d04c66", "quote": "Bank of America kindly asks that you don’t share your banking password with your AI assistant"},
+        {"outlet": "zdnet", "item_id": "60a25e1585a036e31e21b960d2682ba59bc50e71", "quote": "Stop sharing your passwords with AI agents, Bank of America warns customers"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Bank of America said customers are responsible for activity resulting from their AI agents' access.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "f45c20f72906e9105c8db4dece3fe78f12d04c66", "quote": "\"you're responsible for activity\" resulting from your AI agents' access"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The warning follows a broader trend of financial institutions restricting third-party AI agent access.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "60a25e1585a036e31e21b960d2682ba59bc50e71", "quote": "follows a trend among financial institutions that are restricting third-party AI agent access"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

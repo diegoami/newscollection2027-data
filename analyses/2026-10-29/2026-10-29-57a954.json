@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-29-57a954",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Fujifilm to boost tape production fivefold amid AI storage demand",
+  "summary": "Fujifilm plans to increase magnetic tape manufacturing capacity by as much as five times, citing surging demand for AI-related data storage. One report puts the investment at $63 million, calling it the industry's largest tape investment in two decades.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Fujifilm plans to increase its magnetic tape production capacity by up to five times.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
+          "quote": "Fujifilm will increase production capacity 5x"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
+          "quote": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The production increase is driven by rising demand for AI-related data storage.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
+          "quote": "Because, sigh, AI"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
+          "quote": "driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The investment behind the expansion is $63 million, described as the largest tape investment in 20 years.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
+          "quote": "$63 million injection is the largest investment in tape for 20 years"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

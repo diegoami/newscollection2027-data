@@ -99,7 +99,7 @@
           {
             "item_id": "6aac3b6503006f2e87688963ad72ea21b5c9dbc4",
             "outlet": "theregister",
-            "quote": "Both critical PHP flaws land on the agency's exploited list as infosec pros confirm hackers are getting working shells"
+            "quote": "Both critical PHP flaws land on the agency\u2019s exploited list as infosec pros confirm hackers are getting working shells"
           }
         ],
         "statement": "CISA added the PHP2Shell vulnerabilities to its known-exploited catalog and ordered federal agencies to patch."
@@ -110,7 +110,7 @@
           {
             "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
             "outlet": "techcrunch",
-            "quote": "PHP armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet"
+            "quote": "PHP armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet"
           }
         ],
         "statement": "OpenAI and Google's security team Wiz were credited with finding the vulnerabilities."
@@ -141,7 +141,7 @@
           {
             "item_id": "66d6885dea0a4d03e769191c8cb2a5ef4bc6c841",
             "outlet": "techcrunch",
-            "quote": "OpenAI, Google's Wiz find ancient holes"
+            "quote": "OpenAI, Google\u2019s Wiz find ancient holes"
           },
           {
             "item_id": "1d6f8a53c1d5d6459f8301b49a3b7497bd579d7f",
@@ -179,9 +179,7 @@
   },
   "cluster_id": "2026-10-20-c0da64",
   "problems": [
-    "quote: not verbatim in theregister 6aac3b6503006f2e87688963ad72ea21b5c9dbc4's title or lede: \"Both critical PHP flaws land on the agency's exploited list as infosec pros confirm hackers are getting working shells\"",
-    "quote: not verbatim in techcrunch 66d6885dea0a4d03e769191c8cb2a5ef4bc6c841's title or lede: \"PHP armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet\"",
-    "quote: not verbatim in techcrunch 66d6885dea0a4d03e769191c8cb2a5ef4bc6c841's title or lede: \"OpenAI, Google's Wiz find ancient holes\""
+    "cluster: analysis is for version 5, cluster is at version 6"
   ],
-  "rejected_at": "2026-10-28T02:27:30Z"
+  "rejected_at": "2026-10-30T02:21:28Z"
 }

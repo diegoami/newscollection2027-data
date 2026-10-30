@@ -25,8 +25,16 @@
       "published": "2026-10-26T17:58:00Z",
       "title": "Microsoft releases emergency .NET security fixes for Google Brotli bug",
       "url": "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515"
+    },
+    {
+      "item_id": "aa5619127529a8874a748934559011bec38e3190",
+      "lede": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-28T10:46:23Z",
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

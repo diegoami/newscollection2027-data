@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-10-28-863322",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Fake PS5 emulators on GitHub found spreading password-stealing malware",
+  "summary": "Malware disguised as two popular PS5 game emulators and distributed through GitHub has been identified as stealing passwords from gamers. NordVPN's threat research arm linked the malware to the fake emulators, which hit two well-known GitHub repositories, including the popular AnyPS5.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Malware disguised as fake PS5 emulators distributed via GitHub is stealing users' passwords.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "b43a5766a6f435590d5a9fb94d99455c1cc8a40a", "quote": "Fake PS5 emulators on GitHub are spreading password-stealing malware"},
+        {"outlet": "tomshardware", "item_id": "a2e14ec16391a5e681855c8921f6d2aef0e2d1d7", "quote": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The malware was identified by NordVPN's threat research arm.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "b43a5766a6f435590d5a9fb94d99455c1cc8a40a", "quote": "This is according to the threat research arm of NordVPN"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Two well-known GitHub repositories, including the popular AnyPS5, were hit by the malware.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "a2e14ec16391a5e681855c8921f6d2aef0e2d1d7", "quote": "two well-known GitHub repos, including popular AnyPS5, get hit"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -33,8 +33,16 @@
       "published": "2026-10-27T20:48:58Z",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+    },
+    {
+      "item_id": "092be93ad3a0f69d42a0c34c7eff53498d531154",
+      "lede": "Anthropic and OpenAI say they\u2019ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like \u201coverexcited bunnies\u201d as they look at new questions to explore.",
+      "outlet": "wired",
+      "published": "2026-10-29T10:45:00Z",
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

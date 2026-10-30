@@ -1,0 +1,93 @@
+{
+  "cluster_id": "2026-10-29-1d80b1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T12:00:00Z",
+  "headline": "Bluesky blocks links to leaked DHS employee data archive",
+  "summary": "Bluesky blocked links to a leaked archive containing contact information for tens of thousands of ICE, CBP and other Department of Homeland Security employees, saying the data was shared without the workers' authorization. The move has drawn criticism, with the government seeking takedowns of the leaked material.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Bluesky blocked links to a leaked archive of DHS employee data.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "da1d7499a0ae073d524957da533263994c6bcf68",
+          "quote": "blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+          "quote": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The leaked data identifies tens of thousands of ICE, CBP and other DHS employees.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "da1d7499a0ae073d524957da533263994c6bcf68",
+          "quote": "41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+          "quote": "identifies thousands of ICE agents and other employees working for Homeland Security."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Bluesky says it blocked the links because the data includes people's contact information, shared without authorization.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "da1d7499a0ae073d524957da533263994c6bcf68",
+          "quote": "because it contains people’s contact information, shared without their authorization"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Bluesky is facing criticism over the block, and the government is seeking takedowns of the leaked data.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+          "quote": "is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+          "quote": "as government seeks takedowns"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Wired frames the block as a privacy-driven decision to protect workers' contact information, while TechCrunch frames it as a contested move drawing criticism amid government takedown requests.",
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "da1d7499a0ae073d524957da533263994c6bcf68",
+          "quote": "because it contains people’s contact information, shared without their authorization"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d92130cf242d62d3c7eb08ff9a8ea662553a634d",
+          "quote": "is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

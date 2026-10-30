@@ -1,0 +1,93 @@
+{
+  "cluster_id": "2026-10-29-9210b7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:22:11Z",
+  "headline": "Report says Chinese spy may have targeted Nvidia CEO through close associate",
+  "summary": "A new report alleges a Chinese intelligence asset targeted Nvidia CEO Jensen Huang through a senior executive at a Singapore-based Nvidia cloud partner already accused of illegally selling Nvidia chips to China, who is suspected of passing information to Beijing. Separately, the reporting says President Trump had intelligence on the matter but chose not to act, with one outlet attributing his inaction to protecting the company's stock.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A report alleges a Chinese intelligence asset may have targeted Nvidia CEO Jensen Huang.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b9944fc45ff660c57b3adf4ae08823fdeb4b792e",
+          "quote": "Nvidia CEO Jensen Huang may have been the target of a spy plot through 'Chinese intelligence asset,' report claims"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "0c2e5c093735939de57b7a3566a09d0b61eab657",
+          "quote": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "7610575f95441b581cef0b2c44bc3dbe7e554820",
+          "quote": "US investigated Chinese spy plot aimed at Nvidia CEO"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The suspected spy is a senior executive at a Singapore-based Nvidia cloud partner already accused of illegally selling Nvidia chips to China.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b9944fc45ff660c57b3adf4ae08823fdeb4b792e",
+          "quote": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with Jensen Huang, is suspected of passing information to Beijing."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "7610575f95441b581cef0b2c44bc3dbe7e554820",
+          "quote": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The suspected spy is accused of passing information or secrets to China.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b9944fc45ff660c57b3adf4ae08823fdeb4b792e",
+          "quote": "Sources say that Alice Huang, a senior executive at an Nvidia cloud partner who has close ties with Jensen Huang, is suspected of passing information to Beijing."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "6df4ac5022245d54584a8cec5876c3b10807e5fe",
+          "quote": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "President Trump reportedly took no action in response to intelligence about the suspected spy.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "6df4ac5022245d54584a8cec5876c3b10807e5fe",
+          "quote": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "0c2e5c093735939de57b7a3566a09d0b61eab657",
+          "quote": "President Trump reportedly chose to do nothing in response."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "One outlet reports the suspected spy exploited personal ties to both Trump and Huang.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "6df4ac5022245d54584a8cec5876c3b10807e5fe",
+          "quote": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

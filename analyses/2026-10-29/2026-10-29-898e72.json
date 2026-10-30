@@ -1,0 +1,65 @@
+{
+  "cluster_id": "2026-10-29-898e72",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:20:11Z",
+  "headline": "Binance investigates possible multibillion-dollar crypto theft",
+  "summary": "Binance, the cryptocurrency exchange, is investigating a security breach in which hackers are suspected of stealing a large sum of crypto, with one outlet citing an estimate of up to $5.8 billion. One report says the attack happened Thursday and that Binance paused withdrawals in response; another says it could be the largest cryptocurrency hack ever.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Binance suffered a cyberattack or security breach in which hackers are suspected of stealing a large amount of cryptocurrency.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers suspected of stealing billions in crypto"},
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers stole billions in crypto from Binance"},
+        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "Binance probes potential $5.8 billion crypto-theft hack"},
+        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "investigating a potential security breach involving up to $5.8 billion in digital assets"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Binance paused withdrawals in response to the attack.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "Binance pauses withdrawals"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The attack occurred on Thursday.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "during a cyberattack on Thursday"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "If confirmed, the breach could be the largest cryptocurrency hack in history.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "the largest cryptocurrency hack in history"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "claim_ids": ["c2"],
+      "explanation": "TechCrunch reports that Binance paused withdrawals after the attack, a detail BleepingComputer's text does not mention.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "Binance pauses withdrawals"},
+        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "investigating a potential security breach involving up to $5.8 billion in digital assets"}
+      ]
+    },
+    {
+      "kind": "omission",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "BleepingComputer cites a specific figure for the possible theft, while TechCrunch's text gives only a generic amount without a number.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers stole billions in crypto from Binance"},
+        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "up to $5.8 billion in digital assets"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

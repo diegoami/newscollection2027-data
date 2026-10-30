@@ -1,54 +1,48 @@
 {
   "cluster_id": "2026-10-26-eb265a",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-27T02:20:00Z",
-  "headline": "Microsoft rushes emergency .NET patches for critical Brotli flaw",
-  "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability in the Brotli compression library, also tracked as HTTP2Shell, which could let attackers corrupt memory and access sensitive data. Microsoft joins a growing list of software maintainers scrambling to patch the compression flaw.",
+  "generated_at": "2026-10-30T02:23:49Z",
+  "headline": "Microsoft patches critical Brotli flaw as hackers begin exploiting it",
+  "summary": "Microsoft issued emergency .NET patches for a critical vulnerability in the Brotli compression library, variously tracked as Broccoli2Shell, Node2Shell and HTTP2Shell, which could let attackers corrupt memory and access sensitive data. Other software makers raced to patch the same flaw. Days later, the US Cybersecurity and Infrastructure Security Agency confirmed hackers had begun exploiting it.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Microsoft released emergency .NET updates for a critical vulnerability also tracked as HTTP2Shell.",
+      "statement": "Microsoft released emergency .NET patches for a critical Brotli vulnerability.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b",
-          "quote": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell."
-        }
+        {"outlet": "bleepingcomputer", "item_id": "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b", "quote": "Microsoft releases emergency .NET patches for critical Brotli flaw"},
+        {"outlet": "theregister", "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004", "quote": "Microsoft releases emergency .NET security fixes for Google Brotli bug"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The HTTP2Shell flaw is in Brotli, the C decoder library built into Node.js.",
+      "statement": "The vulnerability is tracked under multiple names: Broccoli2Shell, Node2Shell, and HTTP2Shell.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
-          "quote": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js"
-        }
+        {"outlet": "bleepingcomputer", "item_id": "cf08225efb6bf99ec59c2ca45fdd514c2579ab7b", "quote": "also tracked as Node2Shell and HTTP2Shell"},
+        {"outlet": "bleepingcomputer", "item_id": "aa5619127529a8874a748934559011bec38e3190", "quote": "known as Node2Shell, Broccoli2Shell, and HTTP2Shell"}
       ]
     },
     {
       "id": "c3",
-      "statement": "The flaw could let attackers corrupt memory and access sensitive data.",
+      "statement": "The flaw is in Brotli, a compression/decoder library used in Node.js, and prompted multiple software makers to scramble to patch it.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "5e34561ea984cef381697ff28001aa205591a41b",
-          "quote": "could allow attackers to corrupt memory and access sensitive data"
-        }
+        {"outlet": "bleepingcomputer", "item_id": "5e34561ea984cef381697ff28001aa205591a41b", "quote": "in Brotli, the C decoder library built into Node.js"},
+        {"outlet": "theregister", "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004", "quote": "growing list of software maintainers scrambling to patch compression flaw"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Microsoft joins a growing list of software maintainers scrambling to patch the compression flaw.",
+      "statement": "The flaw could allow attackers to corrupt memory and access sensitive data.",
       "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "58e679e292e6d1ac801df08a40dfa3579c032004",
-          "quote": "Redmond joins growing list of software maintainers scrambling to patch compression flaw"
-        }
+        {"outlet": "bleepingcomputer", "item_id": "5e34561ea984cef381697ff28001aa205591a41b", "quote": "could allow attackers to corrupt memory and access sensitive data"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "CISA confirmed hackers have begun actively exploiting the vulnerability.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "aa5619127529a8874a748934559011bec38e3190", "quote": "CISA warns of hackers now exploiting critical Node2Shell flaw"}
       ]
     }
   ],

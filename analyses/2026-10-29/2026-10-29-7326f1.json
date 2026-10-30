@@ -1,0 +1,76 @@
+{
+  "cluster_id": "2026-10-29-7326f1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:20:11Z",
+  "headline": "Reddit to require login for all users as AI search cuts traffic",
+  "summary": "Reddit is ending logged-out browsing and will require all users to log in, outlets report. The company links the move to declining referral traffic as AI-powered search tools change how people find information online. Reddit CEO Steve Huffman raised the traffic decline on the company's Q3 2026 earnings call, and the login requirement will begin with tests outside the United States.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Reddit will require all users to log in to use the site, ending anonymous/logged-out browsing.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "b9e4a862399ad1b1dab59bcd6c6902d767d4cf8d", "quote": "Reddit will force everyone to log in"},
+        {"outlet": "techcrunch", "item_id": "6224c596d37f354a3a02a0ea32a3db77a1d91a8c", "quote": "shifting to a logged-in experience"},
+        {"outlet": "engadget", "item_id": "6e606bba9f64f81ec0f49ca4c9433926aed8f3f6", "quote": "Reddit will force users to log in"},
+        {"outlet": "arstechnica", "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2", "quote": "a logged-in-only experience"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The shift follows a decline in traffic Reddit gets from search engines, which outlets tie to the rise of AI-powered search tools.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6224c596d37f354a3a02a0ea32a3db77a1d91a8c", "quote": "As AI transforms how people find information online"},
+        {"outlet": "engadget", "item_id": "6e606bba9f64f81ec0f49ca4c9433926aed8f3f6", "quote": "AI is killing search traffic"},
+        {"outlet": "theverge", "item_id": "fd539153f04ef25c389da1fcd5f98022e918ca37", "quote": "Google's AI-powered search modes do not help with traffic to the platform"},
+        {"outlet": "arstechnica", "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2", "quote": "was down meaningfully"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Reddit CEO Steve Huffman raised the traffic decline and login change on the company's earnings call.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "fd539153f04ef25c389da1fcd5f98022e918ca37", "quote": "Reddit CEO Steve Huffman said in an earnings call today"},
+        {"outlet": "arstechnica", "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2", "quote": "CEO says"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Reddit is rolling out the login requirement starting with tests outside the United States.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "6e606bba9f64f81ec0f49ca4c9433926aed8f3f6", "quote": "starting with tests outside of the US"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Reddit's search-referral traffic in October dropped by more than 1 million referrals on average, according to its own earnings disclosure.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "fd539153f04ef25c389da1fcd5f98022e918ca37", "quote": "dropped by more than 1 million referrals on average"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c2"],
+      "explanation": "Engadget's headline casts the traffic decline in stronger terms than TechCrunch's more measured description of the same trend.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "6e606bba9f64f81ec0f49ca4c9433926aed8f3f6", "quote": "AI is killing search traffic"},
+        {"outlet": "techcrunch", "item_id": "6224c596d37f354a3a02a0ea32a3db77a1d91a8c", "quote": "search traffic dries up"}
+      ]
+    },
+    {
+      "kind": "omission",
+      "severity": "low",
+      "claim_ids": ["c2", "c5"],
+      "explanation": "The Verge gives a specific referral figure for October's drop, while Ars Technica describes the decline only qualitatively, without a number.",
+      "quotes": [
+        {"outlet": "theverge", "item_id": "fd539153f04ef25c389da1fcd5f98022e918ca37", "quote": "dropped by more than 1 million referrals on average"},
+        {"outlet": "arstechnica", "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2", "quote": "was down meaningfully"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

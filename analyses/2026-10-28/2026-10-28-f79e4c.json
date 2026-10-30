@@ -1,69 +1,132 @@
 {
   "cluster_id": "2026-10-28-f79e4c",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-29T02:22:21Z",
-  "headline": "Hacker steals personnel data on thousands of DHS employees",
-  "summary": "A hacker stole personal information belonging to tens of thousands of Department of Homeland Security employees, including ICE and CBP personnel, and the data has since been published online. Reports differ slightly on the exact number of employees affected, citing more than 40,000 or more than 41,000.",
+  "generated_at": "2026-10-30T02:22:11Z",
+  "headline": "Hack exposes data on tens of thousands of Homeland Security employees, including undercover agents",
+  "summary": "A hack exposed personal data on more than 41,000 Department of Homeland Security employees, including undercover ICE and CBP agents, according to multiple outlets. The leaked records reportedly include phone numbers, office locations, and group memberships tied to surveillance programs. Outlets differ on who is responsible: some describe a lone hacker, while others attribute the breach to a named hacktivist group, the Department of Peace.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A hacker stole personal data belonging to DHS employees, including ICE and CBP agents.",
+      "statement": "A breach exposed personal data on roughly 41,000 Department of Homeland Security employees.",
       "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "80d0fea31f91dd9f1b7b988633e1c84565cc2681",
+          "quote": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents"
+        },
         {
           "outlet": "techcrunch",
           "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
-          "quote": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents"
+          "quote": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers"
         },
         {
           "outlet": "theverge",
           "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
-          "quote": "including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP)"
+          "quote": "A hacker stole more than 40,000 DHS employee records"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+          "quote": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d8bdafe86255b043c6dbb69fca44834fce87cccc",
+          "quote": "Hackers leaked details of more than 41,000 Homeland Security personnel"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec59d102565dd0e725d020c55121ed04766aaf37",
+          "quote": "Massive leak exposes 41,000 DHS workers and undercover ICE agents"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The stolen data includes names, job titles, phone numbers, email addresses, and office locations.",
+      "statement": "The exposed records include details on undercover ICE agents.",
       "sources": [
         {
-          "outlet": "theverge",
-          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
-          "quote": "The breach exposes the names, job titles, phone numbers, email addresses, and office locations"
+          "outlet": "wired",
+          "item_id": "80d0fea31f91dd9f1b7b988633e1c84565cc2681",
+          "quote": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ec59d102565dd0e725d020c55121ed04766aaf37",
+          "quote": "Massive leak exposes 41,000 DHS workers and undercover ICE agents"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "The stolen data has since been published online.",
+      "statement": "The leaked data includes contact details and office locations of DHS staff.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "80d0fea31f91dd9f1b7b988633e1c84565cc2681",
+          "quote": "the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
+          "quote": "names, job titles, phone numbers, email addresses, and office locations"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Some outlets attribute the breach to a single hacker.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
-          "quote": "which has since been published online"
+          "quote": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
+          "quote": "A hacker stole more than 40,000 DHS employee records"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Other outlets attribute the breach to a named hacktivist group rather than a lone hacker.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+          "quote": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d8bdafe86255b043c6dbb69fca44834fce87cccc",
+          "quote": "A hacktivist group stole the information of ICE agents and border police from Homeland Security."
         }
       ]
     }
   ],
   "discrepancies": [
     {
-      "kind": "number",
-      "severity": "low",
-      "explanation": "TechCrunch reports more than 40,000 affected employees, while The Verge reports more than 41,000.",
+      "kind": "attribution",
+      "severity": "medium",
       "claim_ids": [
-        "c1"
+        "c4",
+        "c5"
       ],
+      "explanation": "Some outlets attribute the breach to a single hacker, while others attribute it to a named hacktivist group, the Department of Peace.",
       "quotes": [
         {
           "outlet": "techcrunch",
           "item_id": "bdc7e8efb0fcbd8fa1a8360542d2031df6bceacc",
-          "quote": "more than 40,000 Homeland Security staffers"
+          "quote": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers"
         },
         {
-          "outlet": "theverge",
-          "item_id": "d7e14d5839c195911dddc0c0816d93ae4063d42f",
-          "quote": "more than 41,000 employees"
+          "outlet": "bbc-technology",
+          "item_id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+          "quote": "A group called the Department of Peace released information on more than 41,000 DHS staff."
         }
       ]
     }

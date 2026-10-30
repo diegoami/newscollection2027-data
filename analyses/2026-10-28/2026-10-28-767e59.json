@@ -1,110 +1,62 @@
 {
   "cluster_id": "2026-10-28-767e59",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-29T02:22:21Z",
-  "headline": "Google announces new Gemini 4 Carbon AI model",
-  "summary": "Google announced its newest frontier AI model, Gemini 4 Carbon, with reports differing on its significance and availability. One report calls the improvements a 'significant leap' topping a benchmark index, while another describes it as a minor upgrade over its predecessor that cannot yet be used.",
+  "generated_at": "2026-10-30T02:23:49Z",
+  "headline": "Google launches Gemini 4 Carbon, its newest AI model",
+  "summary": "Google announced Gemini 4 Carbon, its latest frontier AI model, saying it delivers a significant leap in coding, agentic tasks and cybersecurity and tops the Artificial Analysis Intelligence Index benchmark ahead of Claude Opus 5.5 and GPT-6 Astra. The model isn't available for public use yet. One outlet characterizes the upgrade more modestly, describing Carbon as only a slightly better version of its predecessor, Argon.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Google announced its newest frontier AI model, Gemini 4 Carbon.",
+      "statement": "Google announced its latest frontier AI model, Gemini 4 Carbon.",
       "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
-          "quote": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-          "quote": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
-        }
+        {"outlet": "arstechnica", "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe", "quote": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"},
+        {"outlet": "theverge", "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4", "quote": "Google has released its latest frontier model, Gemini 4 Carbon"},
+        {"outlet": "engadget", "item_id": "e0ffe50290756dfd92fc8566eaf025c0f6281c4a", "quote": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding."}
       ]
     },
     {
       "id": "c2",
-      "statement": "Carbon offers significant gains in coding, agentic tasks, and cybersecurity, and tops a leading AI benchmark index.",
+      "statement": "Google says Gemini 4 Carbon offers a \"significant leap\" in cybersecurity and coding.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-          "quote": "offering \"significant gains\" in coding, agentic tasks, and cybersecurity"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-          "quote": "Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark"
-        }
+        {"outlet": "theverge", "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4", "quote": "with a ‘significant leap’ in cybersecurity"},
+        {"outlet": "engadget", "item_id": "e0ffe50290756dfd92fc8566eaf025c0f6281c4a", "quote": "promises 'significant leap' in AI coding and cybersecurity"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Ars Technica describes Carbon as only a slight improvement over its predecessor, Argon.",
+      "statement": "The model tops the Artificial Analysis Intelligence Index benchmark, ahead of Claude Opus 5.5 and GPT-6 Astra.",
       "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
-          "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."
-        }
+        {"outlet": "theverge", "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4", "quote": "Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Ars Technica states that the new model cannot actually be used.",
+      "statement": "One outlet describes Carbon as only a slightly better version of its predecessor, Argon, rather than a major leap.",
       "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
-          "quote": "its latest frontier AI model that you can't use"
-        }
+        {"outlet": "arstechnica", "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe", "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The model is not yet available for public use.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe", "quote": "its latest frontier AI model that you can't use"}
       ]
     }
   ],
   "discrepancies": [
     {
-      "kind": "contradiction",
-      "severity": "high",
-      "explanation": "Ars Technica says the new model is one 'you can't use,' while The Verge reports Google has 'released' the model, conflicting on whether Carbon is actually available.",
-      "claim_ids": [
-        "c1",
-        "c4"
-      ],
-      "quotes": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
-          "quote": "its latest frontier AI model that you can't use"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-          "quote": "Google has released its latest frontier model, Gemini 4 Carbon"
-        }
-      ]
-    },
-    {
       "kind": "framing",
       "severity": "medium",
-      "explanation": "Ars Technica frames Carbon as only a slightly better version of its predecessor, while The Verge frames it as a 'significant leap' in capability.",
-      "claim_ids": [
-        "c2",
-        "c3"
-      ],
+      "claim_ids": ["c2", "c4"],
+      "explanation": "Outlets differ on how large an upgrade Carbon represents: some describe it as a 'significant leap,' while another calls it only a slightly better version of its predecessor.",
       "quotes": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe",
-          "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4",
-          "quote": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity"
-        }
+        {"outlet": "theverge", "item_id": "fc7d1d71bde9a18e24ca4fd00abe91854df948f4", "quote": "with a ‘significant leap’ in cybersecurity"},
+        {"outlet": "arstechnica", "item_id": "bfd6acefc1fbf8401bd0cf6c4582b03c231a8dbe", "quote": "Gemini 4 Carbon is essentially a slightly better version of Argon."}
       ]
     }
   ],
-  "agreement": "conflicting"
+  "agreement": "partial"
 }

@@ -1,0 +1,24 @@
+{
+  "anchor": "22c43f17fa5f1add6f05317b2583955c6063839b",
+  "id": "2026-10-28-d28837",
+  "items": [
+    {
+      "item_id": "22c43f17fa5f1add6f05317b2583955c6063839b",
+      "lede": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "outlet": "bbc-technology",
+      "published": "2026-10-28T19:15:58Z",
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo"
+    },
+    {
+      "item_id": "7e77344e5aa15a292160672c617bd28810ffb1cf",
+      "lede": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+      "outlet": "techcrunch",
+      "published": "2026-10-29T21:51:29Z",
+      "title": "Elon Musk is \u2018truly a genius,\u2019 says Vladimir Putin",
+      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-10-29-44f361",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-30T02:23:49Z",
+  "headline": "Data center boom could wipe out years of US emissions progress, report warns",
+  "summary": "A new Sierra Club analysis warns that the data center boom could wipe out about 15 years of US progress on cutting greenhouse gas emissions. The group projects that by 2030, data center-driven buildouts could make the US power sector emit as much carbon dioxide as all of Mexico, with sector-wide CO2 pollution potentially up 42 percent compared with 2025 as utilities expand fossil fuel infrastructure to meet rising electricity demand from data centers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A new Sierra Club analysis warns that data center-driven power demand could wipe out 15 years of US greenhouse gas emissions progress.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "694ec8e61276241de0c252ba3eca2b809ae9edc0", "quote": "US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims"},
+        {"outlet": "theverge", "item_id": "9b9f40c6b44047411affdf366ba9faf7ea23d560", "quote": "That would essentially wipe out 15 years of greenhouse gas reductions."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "By 2030, data center buildouts could produce as much carbon dioxide as the entirety of Mexico.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "694ec8e61276241de0c252ba3eca2b809ae9edc0", "quote": "U.S. data center buildouts will be outputting as much carbon dioxide as the entirety of Mexico"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The US power sector could emit 42% more planet-heating CO2 by 2030 than it did in 2025, driven by fossil fuel buildouts to meet data center demand.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9b9f40c6b44047411affdf366ba9faf7ea23d560", "quote": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The findings come from an analysis by the Sierra Club.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "694ec8e61276241de0c252ba3eca2b809ae9edc0", "quote": "The Sierra Club, one of the oldest environmental preservation organizations in the U.S."},
+        {"outlet": "theverge", "item_id": "9b9f40c6b44047411affdf366ba9faf7ea23d560", "quote": "according to a new analysis by the Sierra Club"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

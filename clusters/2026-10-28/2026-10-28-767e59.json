@@ -17,8 +17,16 @@
       "published": "2026-10-28T20:03:00Z",
       "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
       "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    },
+    {
+      "item_id": "e0ffe50290756dfd92fc8566eaf025c0f6281c4a",
+      "lede": "Google's latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+      "outlet": "engadget",
+      "published": "2026-10-29T09:41:58Z",
+      "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+      "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
