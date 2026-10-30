@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "eeae20ed2a5aa36fd63a6bac411277131819172c",
+    "lede": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-27T14:09:46Z",
+    "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+    "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/"
+  },
+  "b": {
+    "item_id": "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50",
+    "lede": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T21:09:46Z",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+  },
+  "score": 0.595054
+}

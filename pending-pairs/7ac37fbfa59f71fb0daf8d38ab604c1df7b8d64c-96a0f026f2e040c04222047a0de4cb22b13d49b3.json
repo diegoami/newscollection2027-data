@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7ac37fbfa59f71fb0daf8d38ab604c1df7b8d64c",
+    "lede": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+    "outlet": "wired",
+    "published": "2026-10-30T20:38:46Z",
+    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+    "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
+  },
+  "b": {
+    "item_id": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+    "lede": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:36:54Z",
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+  },
+  "score": 0.57596
+}

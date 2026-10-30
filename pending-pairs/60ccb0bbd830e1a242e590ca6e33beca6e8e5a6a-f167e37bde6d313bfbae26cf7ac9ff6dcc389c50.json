@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60ccb0bbd830e1a242e590ca6e33beca6e8e5a6a",
+    "lede": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-28T14:00:00Z",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+  },
+  "b": {
+    "item_id": "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50",
+    "lede": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T21:09:46Z",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+  },
+  "score": 0.601864
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
+    "lede": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor",
+    "outlet": "theregister",
+    "published": "2026-10-30T16:27:00Z",
+    "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us",
+    "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682"
+  },
+  "b": {
+    "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+    "lede": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T21:09:54Z",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  },
+  "score": 0.594782
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+    "lede": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:36:54Z",
+    "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+    "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+  },
+  "b": {
+    "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+    "lede": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T21:09:54Z",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  },
+  "score": 0.652318
+}

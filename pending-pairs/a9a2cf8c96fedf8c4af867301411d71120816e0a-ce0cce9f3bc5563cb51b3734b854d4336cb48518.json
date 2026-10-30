@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a9a2cf8c96fedf8c4af867301411d71120816e0a",
+    "lede": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "outlet": "techcrunch",
+    "published": "2026-10-27T21:38:28Z",
+    "title": "Who\u2019s really in charge at Anthropic after the IPO?",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+  },
+  "b": {
+    "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+    "lede": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T21:09:54Z",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  },
+  "score": 0.59301
+}

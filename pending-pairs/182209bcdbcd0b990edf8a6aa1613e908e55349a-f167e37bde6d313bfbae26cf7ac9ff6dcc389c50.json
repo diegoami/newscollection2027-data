@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182209bcdbcd0b990edf8a6aa1613e908e55349a",
+    "lede": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+    "outlet": "zdnet",
+    "published": "2026-10-30T16:58:22Z",
+    "title": "Your Netgear router may be vulnerable to a security exploit \u2013 how to check and patch it",
+    "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/"
+  },
+  "b": {
+    "item_id": "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50",
+    "lede": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T21:09:46Z",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+  },
+  "score": 0.590929
+}
