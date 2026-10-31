@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "25a528e218b1080ce9412455b705ea1244c173df",
+    "lede": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-30T20:26:10Z",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+  },
+  "b": {
+    "item_id": "aae19058b91577b12952eb3baaab154178b20775",
+    "lede": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+    "outlet": "engadget",
+    "published": "2026-10-31T10:34:31Z",
+    "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+    "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/"
+  },
+  "score": 0.665588
+}
