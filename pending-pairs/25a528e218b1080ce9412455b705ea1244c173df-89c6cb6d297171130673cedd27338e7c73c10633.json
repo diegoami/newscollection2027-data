@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "25a528e218b1080ce9412455b705ea1244c173df",
+    "lede": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-30T20:26:10Z",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+  },
+  "b": {
+    "item_id": "89c6cb6d297171130673cedd27338e7c73c10633",
+    "lede": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "outlet": "techcrunch",
+    "published": "2026-10-31T21:41:00Z",
+    "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+  },
+  "score": 0.572726
+}
