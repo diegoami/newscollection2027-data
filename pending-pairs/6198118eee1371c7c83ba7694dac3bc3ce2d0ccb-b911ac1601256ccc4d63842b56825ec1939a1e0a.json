@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6198118eee1371c7c83ba7694dac3bc3ce2d0ccb",
+    "lede": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "outlet": "techcrunch",
+    "published": "2026-10-30T21:54:34Z",
+    "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+  },
+  "b": {
+    "item_id": "b911ac1601256ccc4d63842b56825ec1939a1e0a",
+    "lede": "CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in",
+    "outlet": "theregister",
+    "published": "2026-10-30T02:42:58Z",
+    "title": "PC chip plunge wipes out a quarter of Intel\u2019s value",
+    "url": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531"
+  },
+  "score": 0.590457
+}

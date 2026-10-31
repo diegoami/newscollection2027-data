@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5c0dfac75eab3c26c792b8cdb74765cf002f0bed",
+    "lede": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-31T02:12:19Z",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.654613
+}

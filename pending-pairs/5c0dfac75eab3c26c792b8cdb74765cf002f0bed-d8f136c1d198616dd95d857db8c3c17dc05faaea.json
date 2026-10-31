@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5c0dfac75eab3c26c792b8cdb74765cf002f0bed",
+    "lede": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-31T02:12:19Z",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+  },
+  "b": {
+    "item_id": "d8f136c1d198616dd95d857db8c3c17dc05faaea",
+    "lede": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+    "outlet": "techcrunch",
+    "published": "2026-10-30T14:00:25Z",
+    "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+  },
+  "score": 0.713385
+}
