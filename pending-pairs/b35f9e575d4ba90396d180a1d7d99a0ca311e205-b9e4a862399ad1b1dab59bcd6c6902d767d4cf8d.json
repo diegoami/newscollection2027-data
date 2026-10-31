@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b35f9e575d4ba90396d180a1d7d99a0ca311e205",
+    "lede": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T14:05:15Z",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+  },
+  "b": {
+    "item_id": "b9e4a862399ad1b1dab59bcd6c6902d767d4cf8d",
+    "lede": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-29T20:07:00Z",
+    "title": "Reddit will force everyone to log in",
+    "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings"
+  },
+  "score": 0.703007
+}

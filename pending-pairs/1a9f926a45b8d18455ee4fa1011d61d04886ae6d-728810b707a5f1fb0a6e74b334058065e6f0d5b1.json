@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a9f926a45b8d18455ee4fa1011d61d04886ae6d",
+    "lede": "Applying for FAFSA may get messy as DOJ \u201cghost student\u201d crackdown ramps up.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T16:53:49Z",
+    "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
+    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/"
+  },
+  "b": {
+    "item_id": "728810b707a5f1fb0a6e74b334058065e6f0d5b1",
+    "lede": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going to class.",
+    "outlet": "tomshardware",
+    "published": "2026-10-31T15:37:41Z",
+    "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for"
+  },
+  "score": 0.695828
+}

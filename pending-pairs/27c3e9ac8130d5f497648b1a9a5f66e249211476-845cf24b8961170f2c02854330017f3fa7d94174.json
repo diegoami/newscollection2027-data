@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27c3e9ac8130d5f497648b1a9a5f66e249211476",
+    "lede": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T14:00:10Z",
+    "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+    "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/"
+  },
+  "b": {
+    "item_id": "845cf24b8961170f2c02854330017f3fa7d94174",
+    "lede": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T15:35:11Z",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+  },
+  "score": 0.590888
+}

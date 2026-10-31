@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "507d80e05956cb809cad76294aabc3dcd054f6c3",
+    "lede": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+    "outlet": "engadget",
+    "published": "2026-10-31T15:07:10Z",
+    "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+    "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/"
+  },
+  "b": {
+    "item_id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+    "lede": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-30T20:48:43Z",
+    "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+  },
+  "score": 0.702642
+}

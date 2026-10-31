@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "423dd733abf9340d82f262a22f69b61eaf740063",
+    "lede": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop, with Anthropic token falling 77% in under five months.",
+    "outlet": "tomshardware",
+    "published": "2026-10-31T13:49:09Z",
+    "title": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent"
+  },
+  "b": {
+    "item_id": "bb88bfd803d077c492e2d82aed386b5a50fc1034",
+    "lede": "Blame plunging prices on tokens",
+    "outlet": "theregister",
+    "published": "2026-10-30T20:32:32Z",
+    "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782"
+  },
+  "score": 0.637818
+}

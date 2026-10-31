@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6224c596d37f354a3a02a0ea32a3db77a1d91a8c",
+    "lede": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T20:08:31Z",
+    "title": "As search traffic dries up, Reddit announces it\u2019s shifting to a logged-in experience",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+  },
+  "b": {
+    "item_id": "b35f9e575d4ba90396d180a1d7d99a0ca311e205",
+    "lede": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T14:05:15Z",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+  },
+  "score": 0.625497
+}

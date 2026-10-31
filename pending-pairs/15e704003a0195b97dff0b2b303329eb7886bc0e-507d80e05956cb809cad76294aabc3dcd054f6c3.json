@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15e704003a0195b97dff0b2b303329eb7886bc0e",
+    "lede": "OpenAI CEO Sam Altman said in a podcast interview that \"it's quite terrible\" for people to have RAM in their own PCs when it could go into AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-30T16:28:11Z",
+    "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
+  },
+  "b": {
+    "item_id": "507d80e05956cb809cad76294aabc3dcd054f6c3",
+    "lede": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+    "outlet": "engadget",
+    "published": "2026-10-31T15:07:10Z",
+    "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+    "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/"
+  },
+  "score": 0.661089
+}

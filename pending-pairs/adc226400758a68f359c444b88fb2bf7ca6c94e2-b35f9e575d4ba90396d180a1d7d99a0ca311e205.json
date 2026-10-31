@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "adc226400758a68f359c444b88fb2bf7ca6c94e2",
+    "lede": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+    "outlet": "arstechnica",
+    "published": "2026-10-29T21:47:57Z",
+    "title": "Reddit is moving to \u201ca logged-in-only experience,\u201d CEO says",
+    "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+  },
+  "b": {
+    "item_id": "b35f9e575d4ba90396d180a1d7d99a0ca311e205",
+    "lede": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T14:05:15Z",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+  },
+  "score": 0.599164
+}
