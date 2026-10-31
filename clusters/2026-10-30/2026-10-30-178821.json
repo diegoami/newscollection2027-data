@@ -1,0 +1,24 @@
+{
+  "anchor": "f986a412ee0ee44db9d83bf356d1e20a8c3b75ca",
+  "id": "2026-10-30-178821",
+  "items": [
+    {
+      "item_id": "f986a412ee0ee44db9d83bf356d1e20a8c3b75ca",
+      "lede": "DoorDash said that it is open to working with third-party agent makers.",
+      "outlet": "techcrunch",
+      "published": "2026-10-30T13:54:25Z",
+      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    },
+    {
+      "item_id": "538ea1326a6a8ff9df8d42a0aeb5b3ec212dd083",
+      "lede": "But it's still early days for the relatively new e-commerce use case.",
+      "outlet": "arstechnica",
+      "published": "2026-10-30T19:30:52Z",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

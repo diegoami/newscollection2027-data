@@ -1,52 +1,47 @@
 {
   "cluster_id": "2026-10-29-57a954",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-30T12:00:00Z",
-  "headline": "Fujifilm to boost tape production fivefold amid AI storage demand",
-  "summary": "Fujifilm plans to increase magnetic tape manufacturing capacity by as much as five times, citing surging demand for AI-related data storage. One report puts the investment at $63 million, calling it the industry's largest tape investment in two decades.",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Fujifilm to boost magnetic tape production 5x on AI storage demand",
+  "summary": "Fujifilm plans to increase production of 100TB magnetic storage tape by up to five times to meet growing AI data center demand, Tom's Hardware and Ars Technica report. Tom's Hardware puts the backing investment at $63 million, the largest in tape production in 20 years, while Ars Technica frames tape's appeal as its low cost and offline security for archiving.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Fujifilm plans to increase its magnetic tape production capacity by up to five times.",
+      "statement": "Fujifilm will increase production of magnetic tape storage by up to 5x, driven by AI data center demand.",
       "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
-          "quote": "Fujifilm will increase production capacity 5x"
-        },
         {
           "outlet": "tomshardware",
           "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
           "quote": "Fujifilm plans to increase the production of magnetic tape by as much as 5x as it works to meet a newfound demand for AI data center storage."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "b10570d1171fb89bc976bc913722db4242ada67d",
+          "quote": "Fujifilm to boost tape production 5x as AI fuels archiving demand"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The production increase is driven by rising demand for AI-related data storage.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "fc9b2c9e797b022cb99023ea3541116ea016299e",
-          "quote": "Because, sigh, AI"
-        },
-        {
-          "outlet": "tomshardware",
-          "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
-          "quote": "driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The investment behind the expansion is $63 million, described as the largest tape investment in 20 years.",
+      "statement": "Tom's Hardware reports the expansion is backed by a $63 million investment, the largest in tape production in 20 years.",
       "sources": [
         {
           "outlet": "tomshardware",
           "item_id": "7c6929e6fb34a0a2f48e529265cc983d3f7293b5",
           "quote": "$63 million injection is the largest investment in tape for 20 years"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica frames tape's continued relevance as owing to its low cost and offline security for archiving.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "b10570d1171fb89bc976bc913722db4242ada67d",
+          "quote": "Low costs and offline security mean magnetic tape still has a job."
         }
       ]
     }

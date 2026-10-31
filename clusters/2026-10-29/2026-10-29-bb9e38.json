@@ -1,0 +1,24 @@
+{
+  "anchor": "c8bbeda5184f7e84ff62f672d7cd6273c328958f",
+  "id": "2026-10-29-bb9e38",
+  "items": [
+    {
+      "item_id": "c8bbeda5184f7e84ff62f672d7cd6273c328958f",
+      "lede": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
+      "outlet": "tomshardware",
+      "published": "2026-10-29T11:00:00Z",
+      "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind"
+    },
+    {
+      "item_id": "3e1cebb1f9f3c615765398aa0de170d2c9264fdd",
+      "lede": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "outlet": "techcrunch",
+      "published": "2026-10-30T01:20:48Z",
+      "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

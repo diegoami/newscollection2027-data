@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-10-30-1b0e87",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Altman says RAM belongs in data centers, not personal PCs",
+  "summary": "Tom's Hardware and The Verge report OpenAI CEO Sam Altman said in a podcast interview that it is 'terrible' for people to keep RAM in their own PCs rather than AI data centers. The Verge adds Altman made the remark on the Cheeky Pint podcast when asked about supply chain shortages, including the ongoing RAM shortage.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI CEO Sam Altman said in a podcast interview it is 'terrible' for people to keep RAM in their own PCs instead of AI data centers.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "15e704003a0195b97dff0b2b303329eb7886bc0e",
+          "quote": "for people to have RAM in their own PCs when it could go into AI data centers."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+          "quote": "it's \"terrible\" to have RAM in personal PCs instead of data centers."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Verge reports Altman made the comment on the Cheeky Pint podcast, when asked about supply chain shortages like the ongoing RAM shortage.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+          "quote": "During his appearance on the Cheeky Pint podcast"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+          "quote": "Asked about supply chain shortages, like the ongoing RAM shortage"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

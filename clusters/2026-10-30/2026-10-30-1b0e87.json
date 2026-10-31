@@ -1,0 +1,24 @@
+{
+  "anchor": "15e704003a0195b97dff0b2b303329eb7886bc0e",
+  "id": "2026-10-30-1b0e87",
+  "items": [
+    {
+      "item_id": "15e704003a0195b97dff0b2b303329eb7886bc0e",
+      "lede": "OpenAI CEO Sam Altman said in a podcast interview that \"it's quite terrible\" for people to have RAM in their own PCs when it could go into AI data centers.",
+      "outlet": "tomshardware",
+      "published": "2026-10-30T16:28:11Z",
+      "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
+    },
+    {
+      "item_id": "e6a83342c0c51d1efe3b1396bcfdd1571744c3e1",
+      "lede": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-30T20:48:43Z",
+      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

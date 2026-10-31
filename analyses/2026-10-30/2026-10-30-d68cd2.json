@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-30-d68cd2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Wikimedia stakes out middle ground in AI copyright cases",
+  "summary": "The Verge and Engadget report the Wikimedia Foundation is weighing in on landmark AI copyright cases, including the NYT's case against OpenAI. It is pushing courts to protect LLMs training on copyrighted material while not shielding chatbots that regurgitate that work to users, warning that an extreme ruling in either direction could threaten the open web.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Wikimedia Foundation is weighing in on AI copyright cases, including the NYT's case against OpenAI, pushing for a middle-ground ruling.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "9a611f6a948250af4b23511f240606c1fef96755",
+          "quote": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a973ac401cee8adeb2d7650518fba9b87805a512",
+          "quote": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Wikimedia wants courts to protect LLMs training on copyrighted work while not protecting chatbots that regurgitate that work to users.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a973ac401cee8adeb2d7650518fba9b87805a512",
+          "quote": "pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Wikimedia warns that an extreme ruling in either direction could threaten the open web.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "9a611f6a948250af4b23511f240606c1fef96755",
+          "quote": "say that an extreme decision in either direction could threaten the open web."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a973ac401cee8adeb2d7650518fba9b87805a512",
+          "quote": "a bad AI copyright ruling could threaten the open web"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

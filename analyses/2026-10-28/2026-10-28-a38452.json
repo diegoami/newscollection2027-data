@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-28-a38452",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Court filings show Meta weighed a 'whisper strategy' to discredit critic Haidt",
+  "summary": "Court documents show Meta staff discussed a 'whisper strategy' in March 2023 to turn academics against social psychologist Jonathan Haidt, a prominent critic of social media's effect on teens. The Verge and The Guardian both report the plan aimed to discredit Haidt as Meta faced mental-health pressure and a wave of kids-safety lawsuits.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Newly surfaced court documents show Meta staff discussed a 'whisper strategy' to discredit social psychologist Jonathan Haidt.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e372ef3c432e37e5badac3d898ef5eccacf84d40",
+          "quote": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "6ca2a93812d33646f26549e33b713093baf991a9",
+          "quote": "Meta discussed ‘whisper strategy’ against social media critic Jonathan Haidt, files show"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The discussions took place in March 2023 as Meta faced pressure over teen mental health and upcoming safety trials.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e372ef3c432e37e5badac3d898ef5eccacf84d40",
+          "quote": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The strategy aimed to get the academic community to disavow Haidt, whose work influenced a global social-media crackdown.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "6ca2a93812d33646f26549e33b713093baf991a9",
+          "quote": "Court documents reveal staff considered ways to ‘get academic community to disavow’ influential US author"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

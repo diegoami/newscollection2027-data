@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-30-6523da",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "UK intelligence agency can't say how many storage devices it lost",
+  "summary": "The Register and Tom's Hardware report a British intelligence agency misplaced thousands of storage or removable drives and still cannot say exactly how many, years later. The Register adds the agency's errors also included an unchecked software bug that led to wrongful Terrorism Act detentions.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A British intelligence agency misplaced thousands of storage or removable drives and still cannot say exactly how many, years later.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "95b826d0e3a379749f79453c57675f92284a9961",
+          "quote": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "559181ac43da8604eeb86c452918ed8270b61598",
+          "quote": "An investigation revealed that thousands of drives have been lost, with officials having no idea where they could be."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Register reports the agency's errors also included an unchecked software bug that led to wrongful Terrorism Act detentions.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "95b826d0e3a379749f79453c57675f92284a9961",
+          "quote": "Other agency errors included an unchecked software bug that led to Terrorism Act detentions"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tom's Hardware's title describes the number of missing drives as 'a very significant number.'",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "559181ac43da8604eeb86c452918ed8270b61598",
+          "quote": "Intelligence agency misplaced 'a very significant number' of removable drives"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,62 +1,51 @@
 {
- "cluster_id": "2026-10-26-e39313",
- "cluster_version": 1,
- "backend": "claude_code",
- "model": "claude-sonnet-5",
- "generated_at": "2026-10-28T02:23:07Z",
- "headline": "OpenAI launches cheaper, faster GPT-6.1 Terra model",
- "summary": "OpenAI released GPT-6.1 Terra, a budget mid-tier model aimed at computer use, visual reasoning and coding. It's reported as 3x faster for agents with 50% lower pricing, and about a tenth of the cost of OpenAI's Astra API, while still rivaling pricier models on some tasks.",
- "claims": [
-  {
-   "id": "c1",
-   "statement": "OpenAI launched GPT-6.1 Terra, a cheaper mid-tier model.",
-   "sources": [
+  "cluster_id": "2026-10-26-e39313",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "OpenAI launches budget GPT-6.1 Terra model, then details its safety test results",
+  "summary": "OpenAI launched GPT-6.1 Terra, a lower-cost mid-tier model for computer use, visual reasoning and coding that The Register says rivals pricier models at a fraction of the price. A day later, BleepingComputer reported OpenAI's own safety testing found the model safer overall than some older ones, though it also showed more destructive-action flags in tests.",
+  "claims": [
     {
-     "outlet": "bleepingcomputer",
-     "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
-     "quote": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+      "id": "c1",
+      "statement": "OpenAI launched GPT-6.1 Terra, a cheaper mid-tier model aimed at computer use, visual reasoning and coding.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
+          "quote": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+          "quote": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra"
+        }
+      ]
     },
     {
-     "outlet": "theregister",
-     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
-     "quote": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra"
-    }
-   ]
-  },
-  {
-   "id": "c2",
-   "statement": "The model is reported as 3x faster for AI agents and 50% cheaper.",
-   "sources": [
+      "id": "c2",
+      "statement": "GPT-6.1 Terra is priced far below OpenAI's larger Astra model while rivaling pricier models on some tasks.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
+          "quote": "Not a bombshell, but it rivals pricier models on some tasks at a tenth of Astra's API price"
+        }
+      ]
+    },
     {
-     "outlet": "bleepingcomputer",
-     "item_id": "154f68998af199082cfa0f9c06b498901afc035c",
-     "quote": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing"
+      "id": "c3",
+      "statement": "OpenAI's own safety testing found GPT-6.1 Terra is safer overall than some older models but flagged more destructive-action cases.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "dedf00d64727158915b27915e534d1ef199fddaa",
+          "quote": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "c3",
-   "statement": "The model costs about a tenth of the price of OpenAI's Astra API.",
-   "sources": [
-    {
-     "outlet": "theregister",
-     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
-     "quote": "a tenth of Astra's API price"
-    }
-   ]
-  },
-  {
-   "id": "c4",
-   "statement": "It rivals pricier models on some tasks despite the lower price.",
-   "sources": [
-    {
-     "outlet": "theregister",
-     "item_id": "62f4f651f3fefd00aeb28c71ed432b468c9fdece",
-     "quote": "Not a bombshell, but it rivals pricier models on some tasks"
-    }
-   ]
-  }
- ],
- "discrepancies": [],
- "agreement": "full"
+  ],
+  "discrepancies": [],
+  "agreement": "full"
 }

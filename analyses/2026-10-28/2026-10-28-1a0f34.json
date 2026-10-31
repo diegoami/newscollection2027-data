@@ -1,31 +1,15 @@
 {
   "cluster_id": "2026-10-28-1a0f34",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-29T18:00:00Z",
-  "headline": "Reviews weigh in on Amazon's updated 2026 Kindle Paperwhite lineup",
-  "summary": "Amazon's 2026 Kindle Paperwhite lineup, including a Signature Edition, brings a new look and new accessories. One review says the Signature Edition's updates make it feel more premium while the standard Paperwhite stays a good value, and another, covering the Paperwhite and Colorsoft together, questions whether the new models are worth upgrading to given their new prices.",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Outlets publish their 2026 Kindle Paperwhite and Colorsoft reviews",
+  "summary": "Engadget and Wired both reviewed Amazon's updated 2026 Kindle Paperwhite and Colorsoft e-readers. Engadget found the Signature Edition's updates make it feel more premium, while Wired questioned whether the new look and accessories justify Amazon's new prices and published a companion comparison ranking the whole 2026 Kindle lineup.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Amazon has updated its 2026 Kindle Paperwhite lineup, including a Signature Edition, with a new look and new accessories.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "ce72edd8c2ea56e13c4149c980d64da3fb2ed928",
-          "quote": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places"
-        },
-        {
-          "outlet": "wired",
-          "item_id": "0bce78513e7d5e630888430a925563cee15dde75",
-          "quote": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories."
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "The Paperwhite Signature Edition's updates make it feel more premium, though the standard Paperwhite remains a good choice for less money.",
+      "statement": "Engadget reviewed the Kindle Paperwhite Signature Edition (2026), finding its updates make it feel more premium.",
       "sources": [
         {
           "outlet": "engadget",
@@ -35,50 +19,28 @@
       ]
     },
     {
-      "id": "c3",
-      "statement": "Wired's review covers both the 2026 Kindle Paperwhite and Colorsoft, focusing on their accessories as a selling point.",
+      "id": "c2",
+      "statement": "Wired reviewed the 2026 Kindle Paperwhite and Colorsoft, questioning whether the new look and accessories justify Amazon's new prices.",
       "sources": [
         {
           "outlet": "wired",
           "item_id": "0bce78513e7d5e630888430a925563cee15dde75",
-          "quote": "Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories"
+          "quote": "The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?"
         }
       ]
     },
     {
-      "id": "c4",
-      "statement": "Wired questions whether the new Kindle models are worth upgrading to given Amazon's new pricing.",
+      "id": "c3",
+      "statement": "Wired also published a comparison of the full 2026 Kindle lineup, including the new aluminum models, to rank them against each other.",
       "sources": [
         {
           "outlet": "wired",
-          "item_id": "0bce78513e7d5e630888430a925563cee15dde75",
-          "quote": "But are they worth the upgrade given Amazon’s new Kindle prices?"
+          "item_id": "7e9993d56b512d85ebd51a35a8e931e0d68ac630",
+          "quote": "I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up."
         }
       ]
     }
   ],
-  "discrepancies": [
-    {
-      "kind": "framing",
-      "severity": "low",
-      "explanation": "One review frames the Signature Edition's updates positively as improvements, while the other frames the new lineup more skeptically, questioning the value of upgrading given new pricing.",
-      "quotes": [
-        {
-          "outlet": "engadget",
-          "item_id": "ce72edd8c2ea56e13c4149c980d64da3fb2ed928",
-          "quote": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places"
-        },
-        {
-          "outlet": "wired",
-          "item_id": "0bce78513e7d5e630888430a925563cee15dde75",
-          "quote": "But are they worth the upgrade given Amazon’s new Kindle prices?"
-        }
-      ],
-      "claim_ids": [
-        "c2",
-        "c4"
-      ]
-    }
-  ],
-  "agreement": "partial"
+  "discrepancies": [],
+  "agreement": "full"
 }

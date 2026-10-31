@@ -1,65 +1,147 @@
 {
   "cluster_id": "2026-10-29-898e72",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-30T02:20:11Z",
-  "headline": "Binance investigates possible multibillion-dollar crypto theft",
-  "summary": "Binance, the cryptocurrency exchange, is investigating a security breach in which hackers are suspected of stealing a large sum of crypto, with one outlet citing an estimate of up to $5.8 billion. One report says the attack happened Thursday and that Binance paused withdrawals in response; another says it could be the largest cryptocurrency hack ever.",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Binance hack estimated at $5.6-6.3 billion, blamed on North Korean hackers",
+  "summary": "Outlets reported a major Binance crypto hack, with early estimates of $5.8 billion rising to a widely repeated $6.3 billion figure, while Tom's Hardware put the loss at $5.6 billion. Investigators and multiple outlets linked the theft to a DevOps engineer's compromised laptop and attributed it to North Korean hackers, including the group TraderTraitor. Binance said it would cover losses and moved to freeze stolen assets, though only part of the total had been recovered as of these reports.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Binance suffered a cyberattack or security breach in which hackers are suspected of stealing a large amount of cryptocurrency.",
+      "statement": "Binance paused withdrawals and investigated a major hack, with early reports estimating up to $5.8 billion stolen.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers suspected of stealing billions in crypto"},
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers stole billions in crypto from Binance"},
-        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "Binance probes potential $5.8 billion crypto-theft hack"},
-        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "investigating a potential security breach involving up to $5.8 billion in digital assets"}
+        {
+          "outlet": "techcrunch",
+          "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e",
+          "quote": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+          "quote": "Binance probes potential $5.8 billion crypto-theft hack"
+        }
       ]
     },
     {
       "id": "c2",
-      "statement": "Binance paused withdrawals in response to the attack.",
+      "statement": "Later reports from most outlets settled on roughly $6.3 billion stolen, calling it the largest-ever crypto heist.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "Binance pauses withdrawals"}
+        {
+          "outlet": "engadget",
+          "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+          "quote": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+          "quote": "Hackers steal $6.3 billion from Binance in record crypto heist"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "b192f74f0acd1b6ba5e92f9647982098ac21dcdd",
+          "quote": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes"
+        }
       ]
     },
     {
       "id": "c3",
-      "statement": "The attack occurred on Thursday.",
+      "statement": "Tom's Hardware reported the theft at $5.6 billion, a different figure than most other outlets' $6.3 billion.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "during a cyberattack on Thursday"}
+        {
+          "outlet": "tomshardware",
+          "item_id": "dc92cbbeb993972f2da73725c2a818ba4818fc60",
+          "quote": "Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen"
+        }
       ]
     },
     {
       "id": "c4",
-      "statement": "If confirmed, the breach could be the largest cryptocurrency hack in history.",
+      "statement": "Binance and investigators linked the theft to a compromised DevOps engineer's laptop.",
       "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "the largest cryptocurrency hack in history"}
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+          "quote": "has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "fd607345118f3399caa2c3f40ae76f463a3ee0d7",
+          "quote": "compromise of engineer’s laptop linked to $6.3 billion of unauthorized trades"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "d8f136c1d198616dd95d857db8c3c17dc05faaea",
+          "quote": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Crypto-tracing and analytics firms attributed the hack to North Korean hackers, including a group called TraderTraitor.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "3957844ea4ba5918c72f5169297ed8f00c3d5565",
+          "quote": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "b192f74f0acd1b6ba5e92f9647982098ac21dcdd",
+          "quote": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+          "quote": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Binance said it would cover customer losses and moved to freeze stolen assets, with only part of the total recovered so far.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "dc92cbbeb993972f2da73725c2a818ba4818fc60",
+          "quote": "firm says it will cover losses as stablecoin networks move to freeze $2.4b in stolen assets"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+          "quote": "Binance has scrambled to freeze the affected assets, with about $3bn located so far."
+        }
       ]
     }
   ],
   "discrepancies": [
     {
-      "kind": "omission",
-      "severity": "low",
-      "claim_ids": ["c2"],
-      "explanation": "TechCrunch reports that Binance paused withdrawals after the attack, a detail BleepingComputer's text does not mention.",
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": [
+        "c1",
+        "c2",
+        "c3"
+      ],
+      "explanation": "Outlets give different dollar estimates for the theft: $5.8 billion in Bleepingcomputer's early report, $6.3 billion in most later accounts, and $5.6 billion in Tom's Hardware's report.",
       "quotes": [
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "Binance pauses withdrawals"},
-        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "investigating a potential security breach involving up to $5.8 billion in digital assets"}
-      ]
-    },
-    {
-      "kind": "omission",
-      "severity": "low",
-      "claim_ids": ["c1"],
-      "explanation": "BleepingComputer cites a specific figure for the possible theft, while TechCrunch's text gives only a generic amount without a number.",
-      "quotes": [
-        {"outlet": "techcrunch", "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e", "quote": "hackers stole billions in crypto from Binance"},
-        {"outlet": "bleepingcomputer", "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232", "quote": "up to $5.8 billion in digital assets"}
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+          "quote": "Binance probes potential $5.8 billion crypto-theft hack"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+          "quote": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "dc92cbbeb993972f2da73725c2a818ba4818fc60",
+          "quote": "Suspected North Korean hackers steal $5.6 billion in crypto in record-breaking cryptocurrency heist, Binance withdrawals frozen"
+        }
       ]
     }
   ],
-  "agreement": "partial"
+  "agreement": "conflicting"
 }

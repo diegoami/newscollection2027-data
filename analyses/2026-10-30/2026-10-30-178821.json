@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-30-178821",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "DoorDash says AI agents have placed only a few hundred orders",
+  "summary": "TechCrunch and Ars Technica both report DoorDash has received only a small number of orders, 'several hundred,' placed through third-party AI agents so far. TechCrunch adds DoorDash said it is open to working with agent makers, while Ars Technica frames the low volume as reflecting how early-stage the use case still is.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "DoorDash said it has received only a small number of orders placed via third-party AI agents so far.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f986a412ee0ee44db9d83bf356d1e20a8c3b75ca",
+          "quote": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "538ea1326a6a8ff9df8d42a0aeb5b3ec212dd083",
+          "quote": "Basically no one is using AI agents for their DoorDash orders"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "DoorDash said it is open to working with third-party AI agent makers.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f986a412ee0ee44db9d83bf356d1e20a8c3b75ca",
+          "quote": "DoorDash said that it is open to working with third-party agent makers."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica frames the low adoption as reflecting the early stage of AI agents ordering on e-commerce platforms.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "538ea1326a6a8ff9df8d42a0aeb5b3ec212dd083",
+          "quote": "it's still early days for the relatively new e-commerce use case."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-29-39b818",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Meta launches Style Sketch AI app for virtually trying on clothes",
+  "summary": "TechCrunch and Engadget both report Meta quietly launched an AI fashion app called Style Sketch for virtually trying on clothes. Engadget specifies the launch covers Indonesia, Singapore and Thailand, while TechCrunch describes the app building a virtual closet from Instagram photos or items added by photo, video or camera-roll upload.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta quietly launched an AI fashion app called Style Sketch for virtually trying on clothes.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "31a141606e86628d3dcde2fa145fffe491b58aa6",
+          "quote": "Meta quietly launches an AI fashion app called Style Sketch"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "92c367bc96d9e4559694cc29c7088fe08f59102e",
+          "quote": "Meta quietly launches an AI fashion app for virtually trying on clothes"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Engadget reports the app launched specifically in Indonesia, Singapore and Thailand.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "92c367bc96d9e4559694cc29c7088fe08f59102e",
+          "quote": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "TechCrunch describes the app building a virtual closet from photos already shared on Instagram, or items added by photo, video or camera-roll upload.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "31a141606e86628d3dcde2fa145fffe491b58aa6",
+          "quote": "build a virtual closet from photos you’ve already shared"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

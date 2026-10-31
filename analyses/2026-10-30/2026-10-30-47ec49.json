@@ -1,0 +1,82 @@
+{
+  "cluster_id": "2026-10-30-47ec49",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Malicious Claude Code extension on Cursor exposed thousands of developers",
+  "summary": "BleepingComputer, Wired and Ars Technica report a malicious version of the Claude Code VS Code extension was distributed through Cursor's marketplace, exposing thousands of developers to SSH-backdoor malware, for roughly 11 to 12 hours depending on the outlet. Wired says flawed code in the malware limited the damage, while The Register and Ars Technica report Anthropic denies responsibility and attributes the compromise to a malicious actor who accessed its verified Cursor account.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A malicious version of the Claude Code VS Code extension was distributed through Cursor's marketplace, exposing thousands of developers to malware.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+          "quote": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors."
+        },
+        {
+          "outlet": "wired",
+          "item_id": "7ac37fbfa59f71fb0daf8d38ab604c1df7b8d64c",
+          "quote": "flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Flawed code in the malicious extension accidentally limited the attack's spread, preventing full compromise of exposed developer machines.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "7ac37fbfa59f71fb0daf8d38ab604c1df7b8d64c",
+          "quote": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Anthropic denies responsibility, attributing the compromise to a malicious actor who accessed its verified Cursor account; how they gained access remains unknown.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
+          "quote": "Anthropic: That Claude Code extension compromise… couldn't be us"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
+          "quote": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+          "quote": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "low",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "BleepingComputer says the malicious extension was live for approximately 11 hours, while Ars Technica's headline puts the duration at nearly 12 hours.",
+      "quotes": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+          "quote": "for approximately 11 hours on October 29"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+          "quote": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

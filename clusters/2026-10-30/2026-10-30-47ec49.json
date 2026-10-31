@@ -1,0 +1,40 @@
+{
+  "anchor": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+  "id": "2026-10-30-47ec49",
+  "items": [
+    {
+      "item_id": "96a0f026f2e040c04222047a0de4cb22b13d49b3",
+      "lede": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-10-30T14:36:54Z",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/"
+    },
+    {
+      "item_id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
+      "lede": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor",
+      "outlet": "theregister",
+      "published": "2026-10-30T16:27:00Z",
+      "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682"
+    },
+    {
+      "item_id": "7ac37fbfa59f71fb0daf8d38ab604c1df7b8d64c",
+      "lede": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "outlet": "wired",
+      "published": "2026-10-30T20:38:46Z",
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/"
+    },
+    {
+      "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+      "lede": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "outlet": "arstechnica",
+      "published": "2026-10-30T21:09:54Z",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

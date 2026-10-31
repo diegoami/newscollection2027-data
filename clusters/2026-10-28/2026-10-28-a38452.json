@@ -1,0 +1,24 @@
+{
+  "anchor": "e372ef3c432e37e5badac3d898ef5eccacf84d40",
+  "id": "2026-10-28-a38452",
+  "items": [
+    {
+      "item_id": "e372ef3c432e37e5badac3d898ef5eccacf84d40",
+      "lede": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a \"Whisper strategy\" to \"turn academics against Haidt,\" a thought leader [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-10-28T11:30:00Z",
+      "title": "Meta considered a \u2018whisper strategy\u2019 to turn academics against Jonathan Haidt",
+      "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health"
+    },
+    {
+      "item_id": "6ca2a93812d33646f26549e33b713093baf991a9",
+      "lede": "Court documents reveal staff considered ways to \u2018get academic community to disavow\u2019 influential US author Meta staff discussed deploying a \u201cwhisper strategy\u201d to undermine the influential US academic whose work has inspired a global social media crackdown , according to court documents. Employees at the parent group of Facebook and Instagram sought to discredit Jonathan Haidt, the social psychologist and",
+      "outlet": "theguardian",
+      "published": "2026-10-29T17:20:57Z",
+      "title": "Meta discussed \u2018whisper strategy\u2019 against social media critic Jonathan Haidt, files show",
+      "url": "https://www.theguardian.com/technology/2026/oct/29/meta-staff-us-social-media-critic-jonathan-haidt-court-documents"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-29-bb9e38",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "University of Kentucky staffer wins religious exemption from mandatory AI use",
+  "summary": "A University of Kentucky research administrator was granted a Title VII religious exemption allowing him to avoid using AI tools at work, Tom's Hardware and TechCrunch both report. TechCrunch names him as David Durman; Tom's Hardware describes the case, per the American Humanist Association, as the first of its kind.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A University of Kentucky research administrator was granted a Title VII religious exemption from mandatory AI use at work.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c8bbeda5184f7e84ff62f672d7cd6273c328958f",
+          "quote": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "3e1cebb1f9f3c615765398aa0de170d2c9264fdd",
+          "quote": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "TechCrunch names the administrator as David Durman.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3e1cebb1f9f3c615765398aa0de170d2c9264fdd",
+          "quote": "David Durman, a University of Kentucky administrator"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tom's Hardware describes the exemption as the first case of its kind, attributing the characterization to the American Humanist Association.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c8bbeda5184f7e84ff62f672d7cd6273c328958f",
+          "quote": "Man granted first-of-its-kind religious exemption against mandatory AI use at work"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

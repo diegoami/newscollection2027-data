@@ -1,0 +1,78 @@
+{
+  "cluster_id": "2026-10-30-c2a496",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-10-31T02:21:32Z",
+  "headline": "Waymo to use Toyota bZ4X vehicles for robotaxi service in Japan",
+  "summary": "TechCrunch, Engadget and The Verge report Waymo will use Toyota's electric bZ4X vehicles for a robotaxi service, with testing starting in Japan next year. TechCrunch's title also extends the supply deal to the U.K., which Engadget's text does not mention, and The Verge notes the deal builds on a Waymo-Toyota partnership announced in April 2025.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Waymo will use Toyota's electric bZ4X vehicles for a robotaxi service, with testing starting in Japan next year.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3e717ff967623125ad91958862cb2da09e789b8a",
+          "quote": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "64c6b61b5024c43b9c051e258d99fc1b39287e17",
+          "quote": "Waymo and Toyota will soon start testing their robotaxis in Japan"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "2a619c52a57b69a26379d2bb5badca6695b31d10",
+          "quote": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "TechCrunch reports the Toyota bZ4X robotaxi deal also extends to the U.K., not just Japan.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3e717ff967623125ad91958862cb2da09e789b8a",
+          "quote": "Waymo taps Toyota to supply robotaxis for Japan and the U.K."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The deal builds on a Waymo-Toyota partnership first announced in April 2025, with the vehicles built at Toyota's Takaoka plant.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "2a619c52a57b69a26379d2bb5badca6695b31d10",
+          "quote": "The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "claim_ids": [
+        "c1",
+        "c2"
+      ],
+      "explanation": "TechCrunch's title says the robotaxi supply deal covers both Japan and the U.K., while Engadget's text mentions only the Japan testing.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "3e717ff967623125ad91958862cb2da09e789b8a",
+          "quote": "Waymo taps Toyota to supply robotaxis for Japan and the U.K."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "64c6b61b5024c43b9c051e258d99fc1b39287e17",
+          "quote": "Waymo and Toyota will soon start testing their robotaxis in Japan"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

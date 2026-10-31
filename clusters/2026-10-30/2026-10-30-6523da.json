@@ -1,0 +1,24 @@
+{
+  "anchor": "95b826d0e3a379749f79453c57675f92284a9961",
+  "id": "2026-10-30-6523da",
+  "items": [
+    {
+      "item_id": "95b826d0e3a379749f79453c57675f92284a9961",
+      "lede": "Other agency errors included an unchecked software bug that led to Terrorism Act detentions",
+      "outlet": "theregister",
+      "published": "2026-10-30T11:45:00Z",
+      "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
+      "url": "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605"
+    },
+    {
+      "item_id": "559181ac43da8604eeb86c452918ed8270b61598",
+      "lede": "An investigation revealed that thousands of drives have been lost, with officials having no idea where they could be.",
+      "outlet": "tomshardware",
+      "published": "2026-10-30T13:35:48Z",
+      "title": "Intelligence agency misplaced 'a very significant number' of removable drives",
+      "url": "https://www.tomshardware.com/pc-components/usb-flash-drives/intelligence-agency-misplaced-a-very-significant-number-of-removable-drives-storage-media-have-been-missing-for-years-but-exact-number-of-lost-devices-remain-unknown"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
