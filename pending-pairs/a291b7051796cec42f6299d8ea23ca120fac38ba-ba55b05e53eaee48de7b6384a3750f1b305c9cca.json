@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a291b7051796cec42f6299d8ea23ca120fac38ba",
+    "lede": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T12:50:09Z",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/"
+  },
+  "b": {
+    "item_id": "ba55b05e53eaee48de7b6384a3750f1b305c9cca",
+    "lede": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T18:01:12Z",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+  },
+  "score": 0.58535
+}
