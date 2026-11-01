@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "66d53076d9326c9480b0c17c60a28ff83091d867",
+    "lede": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "outlet": "techcrunch",
+    "published": "2026-11-01T16:20:10Z",
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+  },
+  "b": {
+    "item_id": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+    "lede": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T22:45:23Z",
+    "title": "Binance probes potential $5.8 billion crypto-theft hack",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+  },
+  "score": 0.769798
+}

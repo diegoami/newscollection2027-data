@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+    "lede": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-01T14:33:11Z",
+    "title": "North Korea linked to massive Binance crypto heist",
+    "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.602983
+}

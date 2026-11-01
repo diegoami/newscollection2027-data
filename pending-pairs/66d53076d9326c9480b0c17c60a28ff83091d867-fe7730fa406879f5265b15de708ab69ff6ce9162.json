@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "66d53076d9326c9480b0c17c60a28ff83091d867",
+    "lede": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "outlet": "techcrunch",
+    "published": "2026-11-01T16:20:10Z",
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.636185
+}

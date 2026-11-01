@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6188d833a7793033cbd66b2e47fc5104b11f31e7",
+    "lede": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+    "outlet": "tomshardware",
+    "published": "2026-10-31T13:00:00Z",
+    "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history"
+  },
+  "b": {
+    "item_id": "fdbf8aba7fdc77aeddd03ab0003e855b9cb5634c",
+    "lede": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth",
+    "outlet": "tomshardware",
+    "published": "2026-11-01T14:21:23Z",
+    "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers"
+  },
+  "score": 0.601559
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "af6ffe74845e797d9497853cebc84c2e2c2a1d42",
+    "lede": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T15:11:21Z",
+    "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+    "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/"
+  },
+  "b": {
+    "item_id": "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50",
+    "lede": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T21:09:46Z",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+  },
+  "score": 0.620238
+}

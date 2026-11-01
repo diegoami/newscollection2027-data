@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15e704003a0195b97dff0b2b303329eb7886bc0e",
+    "lede": "OpenAI CEO Sam Altman said in a podcast interview that \"it's quite terrible\" for people to have RAM in their own PCs when it could go into AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-10-30T16:28:11Z",
+    "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM \u2014 Sam Altman says data centers offer better utilization",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
+  },
+  "b": {
+    "item_id": "fdbf8aba7fdc77aeddd03ab0003e855b9cb5634c",
+    "lede": "OpenAI CEO Sam Altman met with around 50 Samsung executives in South Korea on October 31 to discuss AI's future, business opportunities and the technology's impact on corporate operations. The meeting comes as demand for memory chips grows alongside AI infrastructure spending, putting pressure on global DRAM supplies. Samsung and SK hynix together accounted for approximately 83% of global high-bandwidth",
+    "outlet": "tomshardware",
+    "published": "2026-11-01T14:21:23Z",
+    "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers"
+  },
+  "score": 0.596348
+}
