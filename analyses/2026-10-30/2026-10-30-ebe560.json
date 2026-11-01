@@ -1,0 +1,50 @@
+{
+  "cluster_id": "2026-10-30-ebe560",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-01T02:08:08Z",
+  "headline": "Mac compute-rental firm warns of falling AI inference payouts",
+  "summary": "Darkbloom, a firm that lets Mac users rent out their idle compute and GPUs for AI inference workloads, has warned of low and plummeting payouts as token prices keep dropping. One report says Anthropic's token price fell 77 percent in under five months, squeezing the revenue users earn for sharing their compute.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Darkbloom warned that payouts for Mac users renting out compute for AI inference are falling as token prices drop.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "bb88bfd803d077c492e2d82aed386b5a50fc1034",
+          "quote": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "bb88bfd803d077c492e2d82aed386b5a50fc1034",
+          "quote": "Blame plunging prices on tokens"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "423dd733abf9340d82f262a22f69b61eaf740063",
+          "quote": "Firm that lets you rent out your idle Mac for AI inference workloads warns of plummeting token costs"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "423dd733abf9340d82f262a22f69b61eaf740063",
+          "quote": "Mac users sharing their compute for AI inference are seeing declining revenues as token prices continue to drop"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Anthropic's token price fell 77 percent in under five months.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "423dd733abf9340d82f262a22f69b61eaf740063",
+          "quote": "with Anthropic token falling 77% in under five months."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

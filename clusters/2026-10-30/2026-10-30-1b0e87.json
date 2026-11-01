@@ -17,8 +17,16 @@
       "published": "2026-10-30T20:48:43Z",
       "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+    },
+    {
+      "item_id": "507d80e05956cb809cad76294aabc3dcd054f6c3",
+      "lede": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+      "outlet": "engadget",
+      "published": "2026-10-31T15:07:10Z",
+      "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+      "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

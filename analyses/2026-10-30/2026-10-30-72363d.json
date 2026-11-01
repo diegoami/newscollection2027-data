@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-10-30-72363d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-01T02:08:08Z",
+  "headline": "DOJ cracks down on AI-driven 'ghost student' loan fraud",
+  "summary": "The Department of Justice is cracking down on thousands of 'ghost students' who used AI to fraudulently obtain student loans. One report says the fraudsters used the stolen identities of high school graduates who never attended college, using AI to simulate ongoing class attendance so the scheme, dubbed Operation Ghostbusters, could keep collecting loan proceeds worth a reported $200 million. One outlet notes the crackdown could complicate FAFSA applications going forward.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The DOJ is cracking down on thousands of 'ghost students' who used AI to steal millions in student loans.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "1a9f926a45b8d18455ee4fa1011d61d04886ae6d",
+          "quote": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "728810b707a5f1fb0a6e74b334058065e6f0d5b1",
+          "quote": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Fraudsters used the stolen identities of high school graduates who skipped college, and used AI to make it appear the fake student was attending class.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "728810b707a5f1fb0a6e74b334058065e6f0d5b1",
+          "quote": "Fraudsters are using the identities of high school graduates who skipped college to apply for student loans and steal the excess proceeds that do not go to schools. They use AI to keep the charade going and make it seem like the fake student is actually going to class."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The crackdown could make FAFSA applications more complicated.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "1a9f926a45b8d18455ee4fa1011d61d04886ae6d",
+          "quote": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

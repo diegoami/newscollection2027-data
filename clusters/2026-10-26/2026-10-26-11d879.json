@@ -153,8 +153,16 @@
       "published": "2026-10-29T11:30:00Z",
       "title": "Anthropic\u2019s IPO filing shows most of its compute goes to R&D, not serving customers",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts"
+    },
+    {
+      "item_id": "4aba13433844bde179fd9ed2e69c0db8f4406da2",
+      "lede": "Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the",
+      "outlet": "theguardian",
+      "published": "2026-10-30T19:57:13Z",
+      "title": "I read Anthropic's 92-page risk factor document, so you don't have to \u2013 video explainer",
+      "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer"
     }
   ],
   "status": "analyzed",
-  "version": 4
+  "version": 5
 }

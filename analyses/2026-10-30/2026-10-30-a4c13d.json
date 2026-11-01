@@ -1,0 +1,39 @@
+{
+  "cluster_id": "2026-10-30-a4c13d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-01T02:08:08Z",
+  "headline": "Google's AI satellite sends its first response from space",
+  "summary": "Google's AI chip-equipped satellite generated its first response from space, booting up its onboard Tensor Processing Units to let a Gemma 4 model complete a prompt and produce a haiku about being in space. Outlets describe it as an experimental orbital datacenter prototype putting its TPU to work.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google's AI-chip-equipped satellite generated its first response from space, using onboard TPUs to run a Gemma 4 model that produced a haiku.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
+          "quote": "Google’s satellite AI server transmits its first response to Earth"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
+          "quote": "Google's AI chip-equipped satellite has generated its first response from space."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c4dbacf8aa2b8b7f3fde40d5de88c170ef2c3339",
+          "quote": "allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "17cd7959b922e1c9792fb7e85583e4c4d0fd0868",
+          "quote": "Experimental orbital datacenter prototype puts its TPU to work producing poetry"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

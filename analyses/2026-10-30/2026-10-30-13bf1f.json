@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-10-30-13bf1f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-01T02:08:08Z",
+  "headline": "US tech stocks tumble on AI cost worries and weak earnings",
+  "summary": "US tech stocks fell sharply, with the Nasdaq opening at its lowest level in more than two months and Intel shares continuing to decline. Outlets describe a broader sell-off that built through the month and intensified after disappointing earnings from major tech companies, wiping out nearly $1tn in value as investors questioned whether heavy AI spending can generate returns quickly enough.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "US tech stocks fell sharply, with the Nasdaq opening at a two-month low.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1634c7b4a767843a2b7a2c8e2dbe0a73e56417be",
+          "quote": "US tech stocks see sharp falls over AI cost fears"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1634c7b4a767843a2b7a2c8e2dbe0a73e56417be",
+          "quote": "the tech-heavy Nasdaq opens at its lowest level in more than two months."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Intel's shares continued to fall during the sell-off.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1634c7b4a767843a2b7a2c8e2dbe0a73e56417be",
+          "quote": "Shares in Intel continue to fall"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The sell-off intensified after disappointing earnings from leading tech companies, wiping out nearly $1tn in value.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "c6608a9a5604e0855aea0a17ba81a5f1f1c8a11f",
+          "quote": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "c6608a9a5604e0855aea0a17ba81a5f1f1c8a11f",
+          "quote": "A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

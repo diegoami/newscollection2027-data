@@ -1,32 +1,71 @@
 {
   "cluster_id": "2026-10-29-ea24e4",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-10-31T02:21:32Z",
-  "headline": "Intel earnings reveal sold-out budget chips as stock drops sharply",
-  "summary": "At Intel's latest earnings call, CEO Lip-Bu Tan said demand for its budget Wildcat Lake chips is outstripping supply, and CFO David Zinsner said they are now sold out. The Register and Tom's Hardware report Intel's stock plunged afterward, wiping out roughly a quarter of its value and about $1 trillion in semiconductor market capitalization in a day. The Register adds that Intel's CEO predicted a coming datacenter CPU boom, though production problems may limit how much Intel can benefit.",
+  "generated_at": "2026-11-01T02:08:08Z",
+  "headline": "Intel's stock crashes despite strong demand for budget chips",
+  "summary": "On an earnings call, Intel executives said demand for its budget Wildcat Lake laptop chips is outstripping supply and the chips are sold out. Despite that, Intel's broader outlook on its PC business was gloomy, with rising memory and component prices tied to AI demand hurting PC sales. Intel's stock subsequently crashed, with outlets describing the scale of the loss differently, from a quarter of Intel's own value to a $1 trillion one-day hit to the wider semiconductor sector.",
   "claims": [
     {
       "id": "c1",
-      "statement": "On Intel's earnings call, CEO Lip-Bu Tan said demand for budget Wildcat Lake chips is outstripping supply, and CFO David Zinsner said they are now sold out.",
+      "statement": "Intel's CEO and CFO said demand for its budget Wildcat Lake laptop chips is outstripping supply and they are now sold out.",
       "sources": [
         {
           "outlet": "theverge",
           "item_id": "825438a5591948a4e114ad3e35ada9694315ef78",
-          "quote": "demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\""
+          "quote": "is outstripping supply."
         },
         {
           "outlet": "theverge",
           "item_id": "825438a5591948a4e114ad3e35ada9694315ef78",
-          "quote": "According to CFO David Zinsner, the chips are now sold out."
+          "quote": "the chips are now sold out."
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Intel's stock fell sharply after the earnings report, part of a broader PC and semiconductor sector selloff.",
+      "statement": "Intel's stock crashed after a gloomy outlook for its PC business, with rising memory and component prices tied to AI demand cited as a factor.",
       "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "8b70fadee2aa93351903824517a1e09af521c4a0",
+          "quote": "Intel's gloomy outlook for its PC business wipes out $1 trillion of semiconductor market capitalization in a day, barely affects Apple."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6198118eee1371c7c83ba7694dac3bc3ce2d0ccb",
+          "quote": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "b911ac1601256ccc4d63842b56825ec1939a1e0a",
+          "quote": "CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The stock drop knocked billions of dollars from the US government's stake in Intel.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6198118eee1371c7c83ba7694dac3bc3ce2d0ccb",
+          "quote": "Intel’s stock crashes, knocking $12B from government’s stake"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "low",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "explanation": "Outlets describe the scale of the hit differently: a quarter of Intel's own value, a $1 trillion sector-wide market-cap loss, and a $12B hit to the government's stake.",
+      "quotes": [
         {
           "outlet": "theregister",
           "item_id": "b911ac1601256ccc4d63842b56825ec1939a1e0a",
@@ -35,22 +74,10 @@
         {
           "outlet": "tomshardware",
           "item_id": "8b70fadee2aa93351903824517a1e09af521c4a0",
-          "quote": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day — PC market bloodbath leaves few chip stocks unscathed"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "Intel's CEO predicted a coming datacenter CPU boom, though production problems may limit how much Intel can benefit.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "b911ac1601256ccc4d63842b56825ec1939a1e0a",
-          "quote": "CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in"
+          "quote": "Intel’s woes wipe out $1 trillion of semiconductor market cap in one day"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "agreement": "partial"
 }
