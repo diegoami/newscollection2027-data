@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "91f4d7e1149e7c4ece7fd85cd07a1ad70657bce6",
+    "lede": "You may not have noticed everything Google\u2019s free software suite offers\u2014especially a web app called Google Vids.",
+    "outlet": "wired",
+    "published": "2026-11-01T12:00:00Z",
+    "title": "There\u2019s a Free Video Editor Inside Google Drive That Anyone Can Use",
+    "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/"
+  },
+  "b": {
+    "item_id": "9fe6fe5fa7e5ba64c89f9669c59b3ea1ecb1431d",
+    "lede": "Discord announced a new feature that can make your server messages discoverable on Google. Here\u2019s how to opt out.",
+    "outlet": "zdnet",
+    "published": "2026-10-28T18:56:53Z",
+    "title": "Your public Discord messages may soon appear in Google search results \u2013 how to opt out",
+    "url": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/"
+  },
+  "score": 0.573387
+}
