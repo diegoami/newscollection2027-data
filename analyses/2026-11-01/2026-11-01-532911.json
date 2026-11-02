@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "5c5502d97d0c28175a11fce5dc9e5eeb73c627df",
+          "outlet": "theverge",
+          "quote": "Plymouth, Minnesota's city council voted to terminate its contract with Flock in September"
+        }
+      ],
+      "statement": "Plymouth's city council voted in September to terminate its contract with Flock."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "5c5502d97d0c28175a11fce5dc9e5eeb73c627df",
+          "outlet": "theverge",
+          "quote": "failed to respond to the city's request. For over a month, the cameras remained up"
+        },
+        {
+          "item_id": "bac90f15faa0fcf9e36753e6ba485f9211e46538",
+          "outlet": "tomshardware",
+          "quote": "The Plymouth City Council was left with no choice but to physically disconnect the cameras after Flock failed to respond to its demands."
+        }
+      ],
+      "statement": "Flock did not respond to Plymouth's cancellation request, and the cameras remained up for over a month."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "bac90f15faa0fcf9e36753e6ba485f9211e46538",
+          "outlet": "tomshardware",
+          "quote": "Police Chief physically unplugs Flock cameras after the company ignores contract cancellation"
+        }
+      ],
+      "statement": "Plymouth's police chief physically unplugged the Flock cameras."
+    }
+  ],
+  "cluster_id": "2026-11-01-532911",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-11-02T02:30:00Z",
+  "headline": "Plymouth officials physically disconnect Flock cameras after contract dispute",
+  "model": "claude-sonnet-5",
+  "summary": "Plymouth, Minnesota's city council voted in September to cancel its contract with Flock Safety, but the company did not respond and the cameras stayed up for over a month. The police chief ultimately physically disconnected them after Flock continued to ignore the cancellation."
+}

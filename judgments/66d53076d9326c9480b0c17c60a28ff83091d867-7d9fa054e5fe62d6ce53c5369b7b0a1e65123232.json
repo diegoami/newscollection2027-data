@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "item_id_b": "7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66d53076d9326c9480b0c17c60a28ff83091d867-7d9fa054e5fe62d6ce53c5369b7b0a1e65123232",
+  "reason": "Both report the same Binance breach: initial probe of the hack and the later resumption of withdrawals once funds were covered.",
+  "same_story": true
+}

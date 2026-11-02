@@ -1,0 +1,24 @@
+{
+  "anchor": "bc2326c848ae38f061eb66a6afe164820c7b6d95",
+  "id": "2026-10-31-a99d7d",
+  "items": [
+    {
+      "item_id": "bc2326c848ae38f061eb66a6afe164820c7b6d95",
+      "lede": "Named \u201cVolta-Autodoxer,\u201d the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "outlet": "wired",
+      "published": "2026-10-31T12:00:00Z",
+      "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+    },
+    {
+      "item_id": "370354f1b8461153d9d3ca27fdb23f9c1d148772",
+      "lede": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+      "outlet": "tomshardware",
+      "published": "2026-11-01T21:00:00Z",
+      "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims\u2019 assets by value, then deletes itself",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

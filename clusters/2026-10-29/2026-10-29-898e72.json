@@ -113,8 +113,32 @@
       "published": "2026-10-31T18:40:32Z",
       "title": "Binance CEO says 90 percent of stolen assets have been \u2018replenished\u2019",
       "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+    },
+    {
+      "item_id": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+      "lede": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-01T14:33:11Z",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+    },
+    {
+      "item_id": "66d53076d9326c9480b0c17c60a28ff83091d867",
+      "lede": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "outlet": "techcrunch",
+      "published": "2026-11-01T16:20:10Z",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    },
+    {
+      "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+      "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-01T19:57:53Z",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

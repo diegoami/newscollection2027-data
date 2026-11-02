@@ -1,0 +1,24 @@
+{
+  "anchor": "a53a40d9d648ac2acbae8d585c175b856366aa61",
+  "id": "2026-11-01-41dc8f",
+  "items": [
+    {
+      "item_id": "a53a40d9d648ac2acbae8d585c175b856366aa61",
+      "lede": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-01T16:19:21Z",
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak"
+    },
+    {
+      "item_id": "c9ab46b327100d454a79f72e4ab8823a7de3daa2",
+      "lede": "This rough version is the closest thing to a release we'll see.",
+      "outlet": "engadget",
+      "published": "2026-11-01T17:54:34Z",
+      "title": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game",
+      "url": "https://www.engadget.com/2303446/all-the-leaks-for-the-portal-prequel-f-stop-have-been-compiled-into-a-playable-game/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bb27708950618af618a240313f11763129f33c00",
+  "item_id_b": "f1f6194d2036713001dce3b3238cd12e7b99106c",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "bb27708950618af618a240313f11763129f33c00-f1f6194d2036713001dce3b3238cd12e7b99106c",
+  "reason": "Both are general analysis pieces on AI-bubble debt worries, not reports of one identifiable announcement or event.",
+  "same_story": false
+}

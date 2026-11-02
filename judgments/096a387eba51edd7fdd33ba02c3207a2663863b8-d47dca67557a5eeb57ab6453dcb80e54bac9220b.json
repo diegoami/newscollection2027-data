@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "096a387eba51edd7fdd33ba02c3207a2663863b8",
+  "item_id_b": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "096a387eba51edd7fdd33ba02c3207a2663863b8-d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+  "reason": "A is a crypto-terms explainer mentioning the hack in passing, not a report of the FBI's North Korea attribution.",
+  "same_story": false
+}

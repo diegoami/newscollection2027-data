@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7363e725b55af5641f33453803bcd4cd32309e4f",
+  "item_id_b": "d15dc155427a190cb3370740d87e963a5990eab9",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7363e725b55af5641f33453803bcd4cd32309e4f-d15dc155427a190cb3370740d87e963a5990eab9",
+  "reason": "Both report OpenAI doubling ChatGPT Pro usage limits, the same announcement with a later follow-up on Work features.",
+  "same_story": true
+}

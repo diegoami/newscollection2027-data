@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "item_id_b": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66d53076d9326c9480b0c17c60a28ff83091d867-8cfea8890b08c2e2484017c3f2c684b9b831b251",
+  "reason": "Both report the same Binance breach on the same day: withdrawals resuming and the FBI's North Korea attribution.",
+  "same_story": true
+}

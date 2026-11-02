@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "096a387eba51edd7fdd33ba02c3207a2663863b8",
+  "item_id_b": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "096a387eba51edd7fdd33ba02c3207a2663863b8-66d53076d9326c9480b0c17c60a28ff83091d867",
+  "reason": "A is a crypto-terms explainer mentioning the hack in passing, not a report of withdrawals resuming.",
+  "same_story": false
+}

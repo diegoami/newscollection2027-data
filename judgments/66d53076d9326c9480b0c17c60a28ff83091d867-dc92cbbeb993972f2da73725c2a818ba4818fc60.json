@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "item_id_b": "dc92cbbeb993972f2da73725c2a818ba4818fc60",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66d53076d9326c9480b0c17c60a28ff83091d867-dc92cbbeb993972f2da73725c2a818ba4818fc60",
+  "reason": "Same Binance heist: withdrawals frozen then later resumed once assets were covered.",
+  "same_story": true
+}

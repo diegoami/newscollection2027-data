@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+  "item_id_b": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251-93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+  "reason": "Both report the same Binance heist investigation, from the compromised-laptop cause to the FBI's North Korea attribution.",
+  "same_story": true
+}

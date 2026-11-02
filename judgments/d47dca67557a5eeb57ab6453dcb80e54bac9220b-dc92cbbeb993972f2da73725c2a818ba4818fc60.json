@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+  "item_id_b": "dc92cbbeb993972f2da73725c2a818ba4818fc60",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "d47dca67557a5eeb57ab6453dcb80e54bac9220b-dc92cbbeb993972f2da73725c2a818ba4818fc60",
+  "reason": "Both report North Korean involvement in the same Binance heist, suspected then confirmed by the FBI.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "09382f93624b985e9186957114e4fa2aa4be8e5c",
+  "item_id_b": "af6ffe74845e797d9497853cebc84c2e2c2a1d42",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "09382f93624b985e9186957114e4fa2aa4be8e5c-af6ffe74845e797d9497853cebc84c2e2c2a1d42",
+  "reason": "A is a general CISA advisory on the GitLab flaw's exploitation; it is unclear this is the same specific attack as Alpine's.",
+  "same_story": false
+}

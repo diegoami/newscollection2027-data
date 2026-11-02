@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "item_id_b": "7d968577e0ca1ac4ab6da78582f5b07cf2730337",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66d53076d9326c9480b0c17c60a28ff83091d867-7d968577e0ca1ac4ab6da78582f5b07cf2730337",
+  "reason": "Both report Binance's recovery progress on the same breach, the CEO's 90% figure followed by withdrawals resuming at 95%.",
+  "same_story": true
+}

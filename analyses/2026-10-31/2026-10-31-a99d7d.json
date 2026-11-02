@@ -1,0 +1,62 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "bc2326c848ae38f061eb66a6afe164820c7b6d95",
+          "outlet": "wired",
+          "quote": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims"
+        },
+        {
+          "item_id": "370354f1b8461153d9d3ca27fdb23f9c1d148772",
+          "outlet": "tomshardware",
+          "quote": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself"
+        }
+      ],
+      "statement": "Researchers identified a new AI-driven infostealer malware, named Volta-Autodoxer or VOLTA."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "370354f1b8461153d9d3ca27fdb23f9c1d148772",
+          "outlet": "tomshardware",
+          "quote": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value."
+        }
+      ],
+      "statement": "Cisco Talos says the malware sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "bc2326c848ae38f061eb66a6afe164820c7b6d95",
+          "outlet": "wired",
+          "quote": "the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts."
+        }
+      ],
+      "statement": "The malware collects data including login credentials, credit card numbers, Discord sessions and delivery-service receipts."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "370354f1b8461153d9d3ca27fdb23f9c1d148772",
+          "outlet": "tomshardware",
+          "quote": "then deletes itself"
+        }
+      ],
+      "statement": "The malware deletes itself after completing its task."
+    }
+  ],
+  "cluster_id": "2026-10-31-a99d7d",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-11-02T02:30:00Z",
+  "headline": "New AI-driven infostealer malware ranks and profiles victims, then self-deletes",
+  "model": "claude-sonnet-5",
+  "summary": "Researchers uncovered a new AI-driven infostealer malware. Cisco Talos says the malware, which it calls VOLTA, sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value, collecting credentials, card numbers, Discord sessions and delivery receipts before deleting itself."
+}

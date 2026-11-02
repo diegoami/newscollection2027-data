@@ -1,0 +1,62 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "a53a40d9d648ac2acbae8d585c175b856366aa61",
+          "outlet": "theverge",
+          "quote": "A fully playable version of Portal prequel F-Stop leaked"
+        },
+        {
+          "item_id": "c9ab46b327100d454a79f72e4ab8823a7de3daa2",
+          "outlet": "engadget",
+          "quote": "All the leaks for the Portal prequel F-Stop have been compiled into a playable game"
+        }
+      ],
+      "statement": "Leakers assembled a playable version of the canceled Portal prequel F-Stop."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "a53a40d9d648ac2acbae8d585c175b856366aa61",
+          "outlet": "theverge",
+          "quote": "Most of the assets came from the massive 12-terabyte leak that dropped this August."
+        }
+      ],
+      "statement": "Most of the assets came from a 12-terabyte leak that surfaced in August."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "a53a40d9d648ac2acbae8d585c175b856366aa61",
+          "outlet": "theverge",
+          "quote": "those final pieces apparently hit the Valve Cut Content Discord this week"
+        }
+      ],
+      "statement": "Final source code and map data reportedly surfaced more recently on the Valve Cut Content Discord."
+    },
+    {
+      "id": "c4",
+      "sources": [
+        {
+          "item_id": "c9ab46b327100d454a79f72e4ab8823a7de3daa2",
+          "outlet": "engadget",
+          "quote": "This rough version is the closest thing to a release we'll see."
+        }
+      ],
+      "statement": "The resulting build is described as rough, likely the closest thing to a release the game will get."
+    }
+  ],
+  "cluster_id": "2026-11-01-41dc8f",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-11-02T02:30:00Z",
+  "headline": "Leakers compile a playable build of canceled Portal prequel F-Stop",
+  "model": "claude-sonnet-5",
+  "summary": "Leakers assembled a playable version of the canceled Portal prequel F-Stop, mostly from a 12-terabyte leak that surfaced in August, with final source code and map data appearing more recently on the Valve Cut Content Discord. One outlet calls the resulting build rough and likely the closest thing to a release the game will get."
+}

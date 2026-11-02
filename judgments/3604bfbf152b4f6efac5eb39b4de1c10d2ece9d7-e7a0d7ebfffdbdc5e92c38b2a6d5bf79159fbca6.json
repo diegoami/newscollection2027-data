@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3604bfbf152b4f6efac5eb39b4de1c10d2ece9d7",
+  "item_id_b": "e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3604bfbf152b4f6efac5eb39b4de1c10d2ece9d7-e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
+  "reason": "Both report NASA's current solicitation of commercial-industry proposals to save Hubble's orbit.",
+  "same_story": true
+}

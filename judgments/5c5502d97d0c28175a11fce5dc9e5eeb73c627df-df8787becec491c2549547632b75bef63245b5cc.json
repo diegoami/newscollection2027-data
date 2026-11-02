@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5c5502d97d0c28175a11fce5dc9e5eeb73c627df",
+  "item_id_b": "df8787becec491c2549547632b75bef63245b5cc",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5c5502d97d0c28175a11fce5dc9e5eeb73c627df-df8787becec491c2549547632b75bef63245b5cc",
+  "reason": "Same company pattern but different cities and incidents: Plymouth's cancelled contract versus Dayton's reinstalled cameras.",
+  "same_story": false
+}

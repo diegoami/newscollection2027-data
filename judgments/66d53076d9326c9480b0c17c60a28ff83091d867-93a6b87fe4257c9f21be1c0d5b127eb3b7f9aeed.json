@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66d53076d9326c9480b0c17c60a28ff83091d867",
+  "item_id_b": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66d53076d9326c9480b0c17c60a28ff83091d867-93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+  "reason": "Same Binance breach, developing from the compromised-laptop cause to the withdrawals resuming.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bac90f15faa0fcf9e36753e6ba485f9211e46538",
+  "item_id_b": "df8787becec491c2549547632b75bef63245b5cc",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "bac90f15faa0fcf9e36753e6ba485f9211e46538-df8787becec491c2549547632b75bef63245b5cc",
+  "reason": "Different cities and incidents: Plymouth's camera disconnection versus Dayton's reinstalled cameras.",
+  "same_story": false
+}

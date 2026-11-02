@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
+          "outlet": "arstechnica",
+          "quote": "Once again, NASA is asking for ideas to rescue Hubble from certain death"
+        },
+        {
+          "item_id": "3604bfbf152b4f6efac5eb39b4de1c10d2ece9d7",
+          "outlet": "theverge",
+          "quote": "NASA is taking proposals from"
+        }
+      ],
+      "statement": "NASA is seeking commercial-industry proposals to reboost Hubble's orbit."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "e7a0d7ebfffdbdc5e92c38b2a6d5bf79159fbca6",
+          "outlet": "arstechnica",
+          "quote": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere."
+        }
+      ],
+      "statement": "NASA previously solicited similar reboost ideas about four years earlier, with no mission result."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "3604bfbf152b4f6efac5eb39b4de1c10d2ece9d7",
+          "outlet": "theverge",
+          "quote": "its time will run out in the early to mid 2030s unless its orbit is boosted"
+        }
+      ],
+      "statement": "Hubble's orbit will decay enough to threaten the telescope by the early-to-mid 2030s absent a boost."
+    }
+  ],
+  "cluster_id": "2026-10-31-287627",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-11-02T02:30:00Z",
+  "headline": "NASA again seeks commercial help to rescue Hubble from decaying orbit",
+  "model": "claude-sonnet-5",
+  "summary": "NASA is soliciting proposals from the commercial space industry to boost Hubble's orbit and extend its life, after its orbit decays without intervention. Outlets note NASA tried a similar solicitation four years ago without a mission resulting."
+}

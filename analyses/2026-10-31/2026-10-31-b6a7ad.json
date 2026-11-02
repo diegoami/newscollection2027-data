@@ -1,0 +1,51 @@
+{
+  "agreement": "full",
+  "backend": "claude_code",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {
+          "item_id": "bc398a80a0dffe88b2995d064e5ec05a3334eb66",
+          "outlet": "techcrunch",
+          "quote": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        },
+        {
+          "item_id": "b0f12a8ec7856e6dd4e7ae6c7696c64abad1ba0d",
+          "outlet": "engadget",
+          "quote": "Judge says xAI must face NAACP lawsuit on data center pollution"
+        }
+      ],
+      "statement": "A judge ruled that the NAACP's lawsuit against xAI over data center pollution can proceed."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {
+          "item_id": "bc398a80a0dffe88b2995d064e5ec05a3334eb66",
+          "outlet": "techcrunch",
+          "quote": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+        }
+      ],
+      "statement": "The lawsuit accuses xAI of violating the Clean Air Act."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {
+          "item_id": "b0f12a8ec7856e6dd4e7ae6c7696c64abad1ba0d",
+          "outlet": "engadget",
+          "quote": "The legal battle revolves around the AI company's operations in southern Memphis."
+        }
+      ],
+      "statement": "The dispute centers on xAI's data center operations in southern Memphis."
+    }
+  ],
+  "cluster_id": "2026-10-31-b6a7ad",
+  "cluster_version": 1,
+  "discrepancies": [],
+  "generated_at": "2026-11-02T02:30:00Z",
+  "headline": "Judge lets NAACP pollution lawsuit against xAI's data center proceed",
+  "model": "claude-sonnet-5",
+  "summary": "A judge ruled that an NAACP lawsuit over pollution from an xAI data center can move forward. The suit accuses the company of violating the Clean Air Act, and the dispute centers on xAI's operations in southern Memphis."
+}

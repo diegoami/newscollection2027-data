@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "370354f1b8461153d9d3ca27fdb23f9c1d148772",
+  "item_id_b": "bc2326c848ae38f061eb66a6afe164820c7b6d95",
+  "judged_at": "2026-11-02T02:08:56Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "370354f1b8461153d9d3ca27fdb23f9c1d148772-bc2326c848ae38f061eb66a6afe164820c7b6d95",
+  "reason": "Both report the same Volta/VOLTA infostealer malware that uses AI to profile and autodox victims.",
+  "same_story": true
+}
