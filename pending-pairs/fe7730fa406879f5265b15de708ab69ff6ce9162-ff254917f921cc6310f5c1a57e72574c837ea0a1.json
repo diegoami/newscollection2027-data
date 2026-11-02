@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "b": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "score": 0.582305
+}

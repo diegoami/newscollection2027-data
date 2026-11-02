@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+    "lede": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T09:18:13Z",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+  },
+  "b": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "score": 0.632124
+}

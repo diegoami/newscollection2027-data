@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c35b35b5fd241a6259e7b5b9d76a214ab37096af",
+    "lede": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (\u00a32.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts. The platform was hit by a $6.3bn theft on Thursday, which has since been described as the",
+    "outlet": "theguardian",
+    "published": "2026-11-01T18:53:25Z",
+    "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+    "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"
+  },
+  "b": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "score": 0.755345
+}

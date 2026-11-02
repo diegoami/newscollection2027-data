@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "66d53076d9326c9480b0c17c60a28ff83091d867",
+    "lede": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+    "outlet": "techcrunch",
+    "published": "2026-11-01T16:20:10Z",
+    "title": "Binance resumes withdrawals following $6.3 billion breach",
+    "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+  },
+  "b": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "score": 0.604118
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+    "lede": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far The world\u2019s largest cryptocurrency exchange has been hit by an industry-record $6.3bn (\u00a34.7bn) hack, with experts identifying North Korea as the likely culprit. Binance has scrambled to freeze the affected assets, with about $3bn located so far. The company gave no update on the other $3.3bn as",
+    "outlet": "theguardian",
+    "published": "2026-10-30T08:19:38Z",
+    "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+    "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+  },
+  "b": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "score": 0.76544
+}

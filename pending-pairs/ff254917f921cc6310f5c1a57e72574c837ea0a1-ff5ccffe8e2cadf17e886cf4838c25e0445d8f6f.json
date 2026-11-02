@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+    "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T07:42:33Z",
+    "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.683299
+}
