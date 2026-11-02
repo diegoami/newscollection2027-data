@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7363e725b55af5641f33453803bcd4cd32309e4f",
+    "lede": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T23:35:52Z",
+    "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/"
+  },
+  "b": {
+    "item_id": "869219a7f13345d5b106abb1d5965da98332024c",
+    "lede": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T13:57:53Z",
+    "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+  },
+  "score": 0.610413
+}

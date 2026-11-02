@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8402594bed2479dc4b526fb1999b31caa36c66be",
+    "lede": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T19:19:17Z",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+  },
+  "b": {
+    "item_id": "dc6c7ef2ed74ce881cc28c078fae36873700321f",
+    "lede": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-02T17:51:19Z",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+  },
+  "score": 0.691331
+}

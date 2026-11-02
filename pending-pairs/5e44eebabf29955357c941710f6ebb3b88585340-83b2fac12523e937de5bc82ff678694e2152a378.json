@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e44eebabf29955357c941710f6ebb3b88585340",
+    "lede": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T13:57:29Z",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/"
+  },
+  "b": {
+    "item_id": "83b2fac12523e937de5bc82ff678694e2152a378",
+    "lede": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
+    "outlet": "engadget",
+    "published": "2026-11-01T19:00:00Z",
+    "title": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
+    "url": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/"
+  },
+  "score": 0.573449
+}

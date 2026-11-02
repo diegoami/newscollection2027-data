@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2c59f095bbadda066f63c68f8b3edf42a2086238",
+    "lede": "It turns out even bots can\u2019t escape bureaucracy.",
+    "outlet": "zdnet",
+    "published": "2026-11-02T16:30:00Z",
+    "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
+    "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/"
+  },
+  "b": {
+    "item_id": "8f7e0709d34eb1521f300792f29c0c64ead21489",
+    "lede": "Researchers recently tested AI agent swarm performance in various Minecraft gaming modes.",
+    "outlet": "tomshardware",
+    "published": "2026-11-01T12:33:52Z",
+    "title": "AI agent swarms unleashed in Minecraft to \u2018build a thriving civilization\u2019",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+  },
+  "score": 0.682754
+}

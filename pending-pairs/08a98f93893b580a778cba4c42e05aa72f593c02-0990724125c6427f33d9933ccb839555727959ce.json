@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "08a98f93893b580a778cba4c42e05aa72f593c02",
+    "lede": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-01T17:16:07Z",
+    "title": "Apple\u2019s HomeView could add security camera features",
+    "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"
+  },
+  "b": {
+    "item_id": "0990724125c6427f33d9933ccb839555727959ce",
+    "lede": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+    "outlet": "zdnet",
+    "published": "2026-11-02T16:35:32Z",
+    "title": "Apple\u2019s HomeView may double as security camera \u2013 watch out Ring, Nest, and Wyze",
+    "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/"
+  },
+  "score": 0.73002
+}

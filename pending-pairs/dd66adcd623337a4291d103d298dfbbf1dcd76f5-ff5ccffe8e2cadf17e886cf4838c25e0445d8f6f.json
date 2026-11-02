@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+    "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+    "outlet": "theregister",
+    "published": "2026-11-02T11:45:00Z",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+    "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  },
+  "b": {
+    "item_id": "ff5ccffe8e2cadf17e886cf4838c25e0445d8f6f",
+    "lede": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T13:46:39Z",
+    "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+    "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+  },
+  "score": 0.748159
+}

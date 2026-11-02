@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ace5a62609891e3da95a8f70bc9be2904155194",
+    "lede": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP \u2014 company \"iterating to ensure [...] the right balance\"",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T12:30:00Z",
+    "title": "Anthropic confirms new Claude Code limits to prevent game cloning, users report blocking reverse engineering tasks",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks"
+  },
+  "b": {
+    "item_id": "c87b9252acae72f1a90b75830b6b19bc6a6f4c79",
+    "lede": "Users can still lean on Claude to help with designing original or genre games.",
+    "outlet": "engadget",
+    "published": "2026-11-01T21:08:32Z",
+    "title": "Anthropic updates Claude to stop it from recreating existing video games",
+    "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/"
+  },
+  "score": 0.570209
+}

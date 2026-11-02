@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d8f136c1d198616dd95d857db8c3c17dc05faaea",
+    "lede": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+    "outlet": "techcrunch",
+    "published": "2026-10-30T14:00:25Z",
+    "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+    "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+  },
+  "b": {
+    "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+    "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+    "outlet": "theregister",
+    "published": "2026-11-02T11:45:00Z",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+    "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  },
+  "score": 0.759522
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4198413c0e43059197ffef792a5128742f2bfb2c",
+    "lede": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T11:20:26Z",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+  },
+  "b": {
+    "item_id": "b47c840554612ad2de2245050d43af30fe2cc49f",
+    "lede": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patches and critical bug fixes through the end of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-02T21:04:20Z",
+    "title": "Meta will end Quest 2 OS updates in 2027",
+    "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates"
+  },
+  "score": 0.588668
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d47dca67557a5eeb57ab6453dcb80e54bac9220b",
+    "lede": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-01T14:33:11Z",
+    "title": "North Korea linked to massive Binance crypto heist",
+    "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+  },
+  "b": {
+    "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+    "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+    "outlet": "theregister",
+    "published": "2026-11-02T11:45:00Z",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+    "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  },
+  "score": 0.678117
+}

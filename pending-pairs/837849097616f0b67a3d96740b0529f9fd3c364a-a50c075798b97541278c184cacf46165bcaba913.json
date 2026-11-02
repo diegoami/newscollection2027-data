@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "837849097616f0b67a3d96740b0529f9fd3c364a",
+    "lede": "A second cyberattack has struck supermarket freezers across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T10:49:27Z",
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+  },
+  "b": {
+    "item_id": "a50c075798b97541278c184cacf46165bcaba913",
+    "lede": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T18:25:01Z",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+  },
+  "score": 0.66827
+}

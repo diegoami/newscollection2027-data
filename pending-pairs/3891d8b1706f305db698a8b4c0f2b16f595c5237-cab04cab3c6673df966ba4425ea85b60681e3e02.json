@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3891d8b1706f305db698a8b4c0f2b16f595c5237",
+    "lede": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T14:08:52Z",
+    "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+  },
+  "b": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "score": 0.613827
+}

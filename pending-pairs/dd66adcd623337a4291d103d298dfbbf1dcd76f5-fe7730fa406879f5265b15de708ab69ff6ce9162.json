@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+    "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+    "outlet": "theregister",
+    "published": "2026-11-02T11:45:00Z",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+    "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.598088
+}

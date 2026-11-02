@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4198413c0e43059197ffef792a5128742f2bfb2c",
+    "lede": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T11:20:26Z",
+    "title": "Microsoft finally fixes VPN issues caused by September updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/"
+  },
+  "b": {
+    "item_id": "5e44eebabf29955357c941710f6ebb3b88585340",
+    "lede": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T13:57:29Z",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/"
+  },
+  "score": 0.758667
+}

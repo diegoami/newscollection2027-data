@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+    "lede": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+    "outlet": "engadget",
+    "published": "2026-10-30T08:24:55Z",
+    "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+    "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
+  },
+  "b": {
+    "item_id": "be1d39eaf1aa1ffcd229ce03788a9ee31c0f0ac3",
+    "lede": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T15:03:07Z",
+    "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+    "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/"
+  },
+  "score": 0.57813
+}

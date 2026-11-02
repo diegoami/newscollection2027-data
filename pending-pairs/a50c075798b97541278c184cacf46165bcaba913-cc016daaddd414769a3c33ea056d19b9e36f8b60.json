@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a50c075798b97541278c184cacf46165bcaba913",
+    "lede": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T18:25:01Z",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+  },
+  "b": {
+    "item_id": "cc016daaddd414769a3c33ea056d19b9e36f8b60",
+    "lede": "Let it go (bad): Dozens of stores report mass food wastage as managers start their week in puddles",
+    "outlet": "theregister",
+    "published": "2026-11-02T13:15:00Z",
+    "title": "Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924"
+  },
+  "score": 0.595152
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "b": {
+    "item_id": "cc016daaddd414769a3c33ea056d19b9e36f8b60",
+    "lede": "Let it go (bad): Dozens of stores report mass food wastage as managers start their week in puddles",
+    "outlet": "theregister",
+    "published": "2026-11-02T13:15:00Z",
+    "title": "Frozen part II: Hackers remotely defrost produce in Euro supermarkets ... again",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924"
+  },
+  "score": 0.586371
+}

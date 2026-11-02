@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "869219a7f13345d5b106abb1d5965da98332024c",
+    "lede": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T13:57:53Z",
+    "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+  },
+  "b": {
+    "item_id": "d15dc155427a190cb3370740d87e963a5990eab9",
+    "lede": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T13:53:11Z",
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+  },
+  "score": 0.799191
+}

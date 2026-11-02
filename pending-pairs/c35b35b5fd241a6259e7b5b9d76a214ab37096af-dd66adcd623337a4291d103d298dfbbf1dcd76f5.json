@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c35b35b5fd241a6259e7b5b9d76a214ab37096af",
+    "lede": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (\u00a32.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts. The platform was hit by a $6.3bn theft on Thursday, which has since been described as the",
+    "outlet": "theguardian",
+    "published": "2026-11-01T18:53:25Z",
+    "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+    "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"
+  },
+  "b": {
+    "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+    "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+    "outlet": "theregister",
+    "published": "2026-11-02T11:45:00Z",
+    "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+    "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  },
+  "score": 0.688225
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e44eebabf29955357c941710f6ebb3b88585340",
+    "lede": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T13:57:29Z",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/"
+  },
+  "b": {
+    "item_id": "7b5ed5dd303b816a0be061fcee4072eba288f007",
+    "lede": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-10-31T15:12:19Z",
+    "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+    "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings"
+  },
+  "score": 0.577962
+}
