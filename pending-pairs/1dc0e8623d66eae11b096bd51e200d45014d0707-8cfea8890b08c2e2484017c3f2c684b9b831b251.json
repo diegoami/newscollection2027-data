@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dc0e8623d66eae11b096bd51e200d45014d0707",
+    "lede": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack.",
+    "outlet": "engadget",
+    "published": "2026-10-30T08:24:55Z",
+    "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+    "url": "https://www.engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft/"
+  },
+  "b": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "score": 0.789083
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4e7bcb7a6e4ca8de5aa3433375f548b33d821276",
+    "lede": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
+    "outlet": "bbc-technology",
+    "published": "2026-10-30T11:57:33Z",
+    "title": "Who could be behind the Binance hack and what we know so far",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo"
+  },
+  "b": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "score": 0.601166
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "b": {
+    "item_id": "fe7730fa406879f5265b15de708ab69ff6ce9162",
+    "lede": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-29T21:47:25Z",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+  },
+  "score": 0.599983
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "b": {
+    "item_id": "93a6b87fe4257c9f21be1c0d5b127eb3b7f9aeed",
+    "lede": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T09:18:13Z",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/"
+  },
+  "score": 0.745911
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5c0dfac75eab3c26c792b8cdb74765cf002f0bed",
+    "lede": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "outlet": "bbc-technology",
+    "published": "2026-10-31T02:12:19Z",
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+  },
+  "b": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "score": 0.629058
+}

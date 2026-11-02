@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b0f12a8ec7856e6dd4e7ae6c7696c64abad1ba0d",
+    "lede": "The legal battle revolves around the AI company's operations in southern Memphis.",
+    "outlet": "engadget",
+    "published": "2026-11-01T19:19:22Z",
+    "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+    "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/"
+  },
+  "b": {
+    "item_id": "bc398a80a0dffe88b2995d064e5ec05a3334eb66",
+    "lede": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "outlet": "techcrunch",
+    "published": "2026-10-31T21:17:03Z",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+  },
+  "score": 0.748486
+}

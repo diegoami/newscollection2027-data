@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3076430dfbc0cc4e94dc99cc0efea25ca3ad763e",
+    "lede": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+    "outlet": "techcrunch",
+    "published": "2026-10-29T22:27:23Z",
+    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+    "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+  },
+  "b": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "score": 0.81403
+}
