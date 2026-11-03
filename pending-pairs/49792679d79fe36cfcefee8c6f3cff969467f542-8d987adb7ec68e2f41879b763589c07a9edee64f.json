@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "b": {
+    "item_id": "8d987adb7ec68e2f41879b763589c07a9edee64f",
+    "lede": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+    "outlet": "engadget",
+    "published": "2026-11-03T10:32:28Z",
+    "title": "Apple will start mandating age requirements for dating apps",
+    "url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/"
+  },
+  "score": 0.661242
+}

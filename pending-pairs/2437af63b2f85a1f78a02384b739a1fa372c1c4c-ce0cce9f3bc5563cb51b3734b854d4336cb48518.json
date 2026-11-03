@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2437af63b2f85a1f78a02384b739a1fa372c1c4c",
+    "lede": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse.",
+    "outlet": "techcrunch",
+    "published": "2026-11-03T17:07:01Z",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+  },
+  "b": {
+    "item_id": "ce0cce9f3bc5563cb51b3734b854d4336cb48518",
+    "lede": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+    "outlet": "arstechnica",
+    "published": "2026-10-30T21:09:54Z",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  },
+  "score": 0.57739
+}

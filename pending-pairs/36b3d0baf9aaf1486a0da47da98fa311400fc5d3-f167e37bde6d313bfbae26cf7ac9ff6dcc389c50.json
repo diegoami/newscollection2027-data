@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "36b3d0baf9aaf1486a0da47da98fa311400fc5d3",
+    "lede": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T15:06:16Z",
+    "title": "Barracuda warns of critical flaws allowing root access to devices",
+    "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/"
+  },
+  "b": {
+    "item_id": "f167e37bde6d313bfbae26cf7ac9ff6dcc389c50",
+    "lede": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-30T21:09:46Z",
+    "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+  },
+  "score": 0.614226
+}

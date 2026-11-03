@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "62af551153394ae1e07bee81cccd5207038df33b",
+    "lede": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T18:31:00Z",
+    "title": "Apple\u2019s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
+  },
+  "b": {
+    "item_id": "ff30735d427557af9d4d7c66551d2e822032e480",
+    "lede": "First revealed at the company's event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+    "outlet": "engadget",
+    "published": "2026-11-03T09:21:36Z",
+    "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+    "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/"
+  },
+  "score": 0.779615
+}

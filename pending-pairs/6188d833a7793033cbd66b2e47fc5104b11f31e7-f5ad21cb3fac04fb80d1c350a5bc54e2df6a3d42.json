@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6188d833a7793033cbd66b2e47fc5104b11f31e7",
+    "lede": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+    "outlet": "tomshardware",
+    "published": "2026-10-31T13:00:00Z",
+    "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history"
+  },
+  "b": {
+    "item_id": "f5ad21cb3fac04fb80d1c350a5bc54e2df6a3d42",
+    "lede": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory. That shift is tightening supplies of conventional DRAM and NAND flash used in smartphones, laptops, and other consumer devices. The squeeze is also affecting smaller manufacturers, with Fairphone reporting that memory now accounts for nearly",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T14:28:59Z",
+    "title": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion",
+    "url": "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
+  },
+  "score": 0.640562
+}

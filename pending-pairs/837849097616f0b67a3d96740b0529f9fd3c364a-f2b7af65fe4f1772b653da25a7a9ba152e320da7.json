@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "837849097616f0b67a3d96740b0529f9fd3c364a",
+    "lede": "A second cyberattack has struck supermarket freezers across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T10:49:27Z",
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+  },
+  "b": {
+    "item_id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
+    "lede": "Cybersecurity experts say national impact \u2018minimal\u2019 but incidents may represent the \u2018foothills\u2019 of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK\u2019s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-11-03T17:28:49Z",
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks"
+  },
+  "score": 0.604463
+}

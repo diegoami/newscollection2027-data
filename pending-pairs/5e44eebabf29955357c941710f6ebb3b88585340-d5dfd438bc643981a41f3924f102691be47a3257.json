@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e44eebabf29955357c941710f6ebb3b88585340",
+    "lede": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T13:57:29Z",
+    "title": "Microsoft fixes Smart App Control broken by October Windows update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/"
+  },
+  "b": {
+    "item_id": "d5dfd438bc643981a41f3924f102691be47a3257",
+    "lede": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
+    "outlet": "zdnet",
+    "published": "2026-11-03T17:00:00Z",
+    "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says \u2013 here\u2019s why",
+    "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/"
+  },
+  "score": 0.593222
+}

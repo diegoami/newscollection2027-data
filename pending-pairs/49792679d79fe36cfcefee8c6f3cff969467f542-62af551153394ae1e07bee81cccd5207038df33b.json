@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "b": {
+    "item_id": "62af551153394ae1e07bee81cccd5207038df33b",
+    "lede": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T18:31:00Z",
+    "title": "Apple\u2019s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta"
+  },
+  "score": 0.652146
+}

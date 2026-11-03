@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bea1e62ccff3ba7fe63c6cf48ebb73709d121984",
+    "lede": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T23:04:57Z",
+    "title": "Apple\u2019s inventory surges 154% as memory chip costs climb",
+    "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/"
+  },
+  "b": {
+    "item_id": "f5ad21cb3fac04fb80d1c350a5bc54e2df6a3d42",
+    "lede": "Samsung, SK hynix, and Micron are facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products and high-bandwidth memory. That shift is tightening supplies of conventional DRAM and NAND flash used in smartphones, laptops, and other consumer devices. The squeeze is also affecting smaller manufacturers, with Fairphone reporting that memory now accounts for nearly",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T14:28:59Z",
+    "title": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion",
+    "url": "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
+  },
+  "score": 0.697107
+}

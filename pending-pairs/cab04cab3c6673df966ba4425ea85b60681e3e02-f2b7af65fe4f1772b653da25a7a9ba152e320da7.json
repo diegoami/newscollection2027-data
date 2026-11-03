@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "b": {
+    "item_id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
+    "lede": "Cybersecurity experts say national impact \u2018minimal\u2019 but incidents may represent the \u2018foothills\u2019 of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK\u2019s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal. Continue reading...",
+    "outlet": "theguardian",
+    "published": "2026-11-03T17:28:49Z",
+    "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks"
+  },
+  "score": 0.598493
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "61246e277855f91a45f197eae6b1889c259d7025",
+    "lede": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
+    "outlet": "engadget",
+    "published": "2026-11-03T17:02:49Z",
+    "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
+    "url": "https://www.engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/"
+  },
+  "b": {
+    "item_id": "fbed8533239526efb25673ced727af6cf805e497",
+    "lede": "The developer's latest experiment takes Windows 11's hardware requirements to an extreme, managing to retain basic desktop functionality with just 128MB of memory, although the resulting installation is far too slow for everyday use.",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T11:30:00Z",
+    "title": "Developer manages to run Windows 11 26H2 with just 128MB of RAM, just 3.1% of recommended minimum \u2014 stripped-down installation can access Desktop, File Explorer, and Notepad",
+    "url": "https://www.tomshardware.com/software/windows/developer-manages-to-run-windows-11-26h2-with-just-128mb-of-ram-just-3-1-percent-of-recommended-minimum-stripped-down-installation-can-access-desktop-file-explorer-and-notepad"
+  },
+  "score": 0.588481
+}

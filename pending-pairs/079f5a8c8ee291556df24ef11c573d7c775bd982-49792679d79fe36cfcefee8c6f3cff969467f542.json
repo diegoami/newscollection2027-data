@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+    "lede": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T13:22:38Z",
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  "b": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "score": 0.652507
+}
