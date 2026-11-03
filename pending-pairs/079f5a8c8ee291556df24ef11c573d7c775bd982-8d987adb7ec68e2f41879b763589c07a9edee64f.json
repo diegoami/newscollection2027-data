@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+    "lede": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T13:22:38Z",
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  "b": {
+    "item_id": "8d987adb7ec68e2f41879b763589c07a9edee64f",
+    "lede": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+    "outlet": "engadget",
+    "published": "2026-11-03T10:32:28Z",
+    "title": "Apple will start mandating age requirements for dating apps",
+    "url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/"
+  },
+  "score": 0.833932
+}

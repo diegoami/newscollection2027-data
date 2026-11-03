@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.615519
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a2d1c32f728153931d3347d9f6034ab35b7b98e",
+    "lede": "The Raspberry Pi 16GB has gone up in price by $80 to $385. It now costs more than triple its January 2025 launch price.",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T16:17:35Z",
+    "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price",
+    "url": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks"
+  },
+  "b": {
+    "item_id": "889623129270160082463dff6ddadc41ef7649a5",
+    "lede": "Memory crunch pushes 16GB Pi 5 to $385, more than triple its launch price, just a month after the last round of hikes",
+    "outlet": "theregister",
+    "published": "2026-11-03T09:30:00Z",
+    "title": "Raspberry Pi hikes prices again, barely a month after the last round",
+    "url": "https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004"
+  },
+  "score": 0.773122
+}

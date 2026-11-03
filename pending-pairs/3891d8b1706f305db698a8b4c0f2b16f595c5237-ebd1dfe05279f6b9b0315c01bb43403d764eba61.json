@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3891d8b1706f305db698a8b4c0f2b16f595c5237",
+    "lede": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T14:08:52Z",
+    "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.633181
+}

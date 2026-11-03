@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "837849097616f0b67a3d96740b0529f9fd3c364a",
+    "lede": "A second cyberattack has struck supermarket freezers across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T10:49:27Z",
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.632326
+}

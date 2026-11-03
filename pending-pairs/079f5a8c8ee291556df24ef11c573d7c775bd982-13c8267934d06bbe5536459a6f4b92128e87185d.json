@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+    "lede": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T13:22:38Z",
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  "b": {
+    "item_id": "13c8267934d06bbe5536459a6f4b92128e87185d",
+    "lede": "Apple's iMessage app offers a lot of useful features and several default apps included in its latest update. However, they may be in an order you dislike.",
+    "outlet": "engadget",
+    "published": "2026-11-02T16:45:00Z",
+    "title": "One annoying problem with the iPhone Messages app has an easy fix",
+    "url": "https://www.engadget.com/2300351/one-problem-iphone-messages-additional-options-easy-fix/"
+  },
+  "score": 0.625044
+}

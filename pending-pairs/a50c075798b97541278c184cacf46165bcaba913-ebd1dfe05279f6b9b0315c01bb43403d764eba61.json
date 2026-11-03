@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a50c075798b97541278c184cacf46165bcaba913",
+    "lede": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T18:25:01Z",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.679712
+}
