@@ -1,0 +1,24 @@
+{
+  "anchor": "e7590093da8709f0b47b956644f1039bd9e5bea4",
+  "id": "2026-11-02-a919c2",
+  "items": [
+    {
+      "item_id": "e7590093da8709f0b47b956644f1039bd9e5bea4",
+      "lede": "The military is looking at leveraging commercial 5G networks to sense and track drone incursions.",
+      "outlet": "tomshardware",
+      "published": "2026-11-02T11:00:00Z",
+      "title": "Military explores commercial 5G networks for enemy drone defense",
+      "url": "https://www.tomshardware.com/networking/military-explores-commercial-5g-networks-for-enemy-drone-defense-ai-agents-developed-the-system-recently-used-in-battlefield-trials-in-latvia"
+    },
+    {
+      "item_id": "040cabbf188e746c55e8a0084e62d9ad4972996f",
+      "lede": "ISAC technology adds detection ability to existing cell networks, enabling them to track low-flying small drones",
+      "outlet": "theregister",
+      "published": "2026-11-02T17:29:00Z",
+      "title": "Ericsson says it can detect, track drones using only mobile networks",
+      "url": "https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

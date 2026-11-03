@@ -1,0 +1,32 @@
+{
+  "anchor": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc",
+  "id": "2026-11-02-303ebd",
+  "items": [
+    {
+      "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc",
+      "lede": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-02T18:16:34Z",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/"
+    },
+    {
+      "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f",
+      "lede": "Videostrong accused of shipping devices with a backdoor baked in",
+      "outlet": "theregister",
+      "published": "2026-11-02T19:03:31Z",
+      "title": "Cops bust botnet of 1.3M infected Android TV boxes",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045"
+    },
+    {
+      "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947",
+      "lede": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-02T20:37:49Z",
+      "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

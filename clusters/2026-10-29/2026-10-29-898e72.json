@@ -131,14 +131,38 @@
       "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
     },
     {
+      "item_id": "c35b35b5fd241a6259e7b5b9d76a214ab37096af",
+      "lede": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (\u00a32.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts. The platform was hit by a $6.3bn theft on Thursday, which has since been described as the",
+      "outlet": "theguardian",
+      "published": "2026-11-01T18:53:25Z",
+      "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+      "url": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions"
+    },
+    {
       "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
       "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
       "outlet": "bleepingcomputer",
       "published": "2026-11-01T19:57:53Z",
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+    },
+    {
+      "item_id": "ff254917f921cc6310f5c1a57e72574c837ea0a1",
+      "lede": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-02T07:42:33Z",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+    },
+    {
+      "item_id": "dd66adcd623337a4291d103d298dfbbf1dcd76f5",
+      "lede": "Exchange scrambles to replace stolen funds as customers withdraw billions and hackers get busy laundering their haul",
+      "outlet": "theregister",
+      "published": "2026-11-02T11:45:00Z",
+      "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+      "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
     }
   ],
   "status": "analyzed",
-  "version": 4
+  "version": 5
 }

@@ -1,0 +1,24 @@
+{
+  "anchor": "8f81a5b7fe99bd9723aa785db44162402934b8e5",
+  "id": "2026-11-02-a04f7f",
+  "items": [
+    {
+      "item_id": "8f81a5b7fe99bd9723aa785db44162402934b8e5",
+      "lede": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "outlet": "techcrunch",
+      "published": "2026-11-02T16:44:48Z",
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+    },
+    {
+      "item_id": "065434065a842c2d591ac8380165971fe3b2200b",
+      "lede": "A potential deal with Boost Mobile could serve as a shortcut to establishing SpaceX as a mobile carrier.",
+      "outlet": "engadget",
+      "published": "2026-11-02T18:05:52Z",
+      "title": "SpaceX is reportedly looking at buying Boost Mobile or using its cell network",
+      "url": "https://www.engadget.com/2304301/spacex-is-reportedly-looking-at-buying-boost-mobile-or-using-its-cell-network/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

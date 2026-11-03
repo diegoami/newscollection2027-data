@@ -17,8 +17,16 @@
       "published": "2026-11-01T19:19:22Z",
       "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
       "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/"
+    },
+    {
+      "item_id": "c336c8842189c40dee91679412a5b3216a80b4b3",
+      "lede": "SpaceX loses latest legal fight over xAI's gas-powered data centers in Mississippi \u2014 court rejects arguments that mobile turbines are exempt from air permits",
+      "outlet": "tomshardware",
+      "published": "2026-11-02T12:00:00Z",
+      "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/spacex-loses-bid-to-dismiss-lawsuit-over-xai-data-center-pollution-judge-rules-mississippi-gas-turbines-are-not-exempt-from-the-clean-air-act"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
