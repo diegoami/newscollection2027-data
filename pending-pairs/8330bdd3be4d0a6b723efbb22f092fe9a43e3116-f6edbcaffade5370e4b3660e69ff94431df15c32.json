@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8330bdd3be4d0a6b723efbb22f092fe9a43e3116",
+    "lede": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is \u201chighly likely\u201d to be used in hacking attacks against the UK\u2019s power stations, airports and hospitals by 2028, according to the state cybersecurity body. The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical",
+    "outlet": "theguardian",
+    "published": "2026-11-03T00:01:32Z",
+    "title": "AI-powered malware \u2018highly likely\u2019 to be used to hack UK infrastructure by 2028",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure"
+  },
+  "b": {
+    "item_id": "f6edbcaffade5370e4b3660e69ff94431df15c32",
+    "lede": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T21:40:14Z",
+    "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+    "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/"
+  },
+  "score": 0.577701
+}

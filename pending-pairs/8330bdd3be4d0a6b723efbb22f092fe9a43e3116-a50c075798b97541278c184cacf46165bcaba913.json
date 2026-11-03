@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8330bdd3be4d0a6b723efbb22f092fe9a43e3116",
+    "lede": "National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is \u201chighly likely\u201d to be used in hacking attacks against the UK\u2019s power stations, airports and hospitals by 2028, according to the state cybersecurity body. The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical",
+    "outlet": "theguardian",
+    "published": "2026-11-03T00:01:32Z",
+    "title": "AI-powered malware \u2018highly likely\u2019 to be used to hack UK infrastructure by 2028",
+    "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure"
+  },
+  "b": {
+    "item_id": "a50c075798b97541278c184cacf46165bcaba913",
+    "lede": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-02T18:25:01Z",
+    "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+  },
+  "score": 0.612778
+}
