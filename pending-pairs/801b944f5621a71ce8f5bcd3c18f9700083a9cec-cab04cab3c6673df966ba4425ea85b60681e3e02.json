@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+    "lede": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T18:02:56Z",
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+  },
+  "b": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "score": 0.701762
+}

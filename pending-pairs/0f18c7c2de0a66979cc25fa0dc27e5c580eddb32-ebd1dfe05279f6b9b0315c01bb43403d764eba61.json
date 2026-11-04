@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+    "lede": "Temperature and defrosting thresholds raised to \u2018very high levels\u2019 at three cold stores stocking vital blood products Europe live \u2013 latest updates France\u2019s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service",
+    "outlet": "theguardian",
+    "published": "2026-11-04T13:22:28Z",
+    "title": "French blood banks hacked in latest cyber-attack on Europe",
+    "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.614428
+}

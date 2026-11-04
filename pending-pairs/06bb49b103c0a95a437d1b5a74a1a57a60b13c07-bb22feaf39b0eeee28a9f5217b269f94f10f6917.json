@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "06bb49b103c0a95a437d1b5a74a1a57a60b13c07",
+    "lede": "This is potentially terrible news for those who love physical media.",
+    "outlet": "engadget",
+    "published": "2026-11-04T18:39:08Z",
+    "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+    "url": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/"
+  },
+  "b": {
+    "item_id": "bb22feaf39b0eeee28a9f5217b269f94f10f6917",
+    "lede": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-04T17:03:32Z",
+    "title": "Nintendo is losing a Switch cartridge supplier",
+    "url": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center"
+  },
+  "score": 0.643974
+}

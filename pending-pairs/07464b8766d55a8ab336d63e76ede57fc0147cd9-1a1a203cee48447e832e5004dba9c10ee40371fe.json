@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07464b8766d55a8ab336d63e76ede57fc0147cd9",
+    "lede": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T22:04:02Z",
+    "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+    "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+  },
+  "b": {
+    "item_id": "1a1a203cee48447e832e5004dba9c10ee40371fe",
+    "lede": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange\u2019s internal wallet signing systems, enabling the October 29 theft.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T13:00:00Z",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets"
+  },
+  "score": 0.720775
+}

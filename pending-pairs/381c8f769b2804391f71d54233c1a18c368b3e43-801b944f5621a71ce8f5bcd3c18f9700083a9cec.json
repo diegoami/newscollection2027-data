@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43",
+    "lede": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-04T16:26:15Z",
+    "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+    "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro"
+  },
+  "b": {
+    "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+    "lede": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T18:02:56Z",
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+  },
+  "score": 0.577738
+}

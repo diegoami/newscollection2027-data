@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a1a203cee48447e832e5004dba9c10ee40371fe",
+    "lede": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange\u2019s internal wallet signing systems, enabling the October 29 theft.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T13:00:00Z",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets"
+  },
+  "b": {
+    "item_id": "317e8557e095955ceaf7416c75379629c3519cd6",
+    "lede": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T20:05:50Z",
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/"
+  },
+  "score": 0.715035
+}

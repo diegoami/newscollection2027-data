@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "868b661c5e46d114247c927292c3f442033dc4a9",
+    "lede": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+    "outlet": "arstechnica",
+    "published": "2026-11-04T16:06:03Z",
+    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+  },
+  "b": {
+    "item_id": "8cfea8890b08c2e2484017c3f2c684b9b831b251",
+    "lede": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T19:57:53Z",
+    "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/"
+  },
+  "score": 0.639968
+}

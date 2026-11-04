@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11966c00db1350b3442e115435957cfe218d7635",
+    "lede": "Chatbots can skew election-related information and act as an intervening layer in a voter\u2019s search, Yale researchers find.",
+    "outlet": "zdnet",
+    "published": "2026-11-04T18:13:38Z",
+    "title": "Researchers asked people to use AI chatbots for election info \u2013 results were mixed",
+    "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/"
+  },
+  "b": {
+    "item_id": "e93df968a0ea999392a499fff6bd680b164d258b",
+    "lede": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+    "outlet": "wired",
+    "published": "2026-11-03T14:45:08Z",
+    "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/"
+  },
+  "score": 0.672103
+}

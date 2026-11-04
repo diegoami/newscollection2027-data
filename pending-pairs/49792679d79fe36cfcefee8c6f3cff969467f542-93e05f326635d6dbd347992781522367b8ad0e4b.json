@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "b": {
+    "item_id": "93e05f326635d6dbd347992781522367b8ad0e4b",
+    "lede": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
+    "outlet": "zdnet",
+    "published": "2026-11-04T17:14:36Z",
+    "title": "Safari finally gets 3 popular browser features \u2013 and I can\u2019t wait to try them",
+    "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/"
+  },
+  "score": 0.639421
+}

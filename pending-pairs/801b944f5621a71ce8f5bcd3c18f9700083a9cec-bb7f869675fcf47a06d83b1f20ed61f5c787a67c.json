@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+    "lede": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T18:02:56Z",
+    "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+    "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+  },
+  "b": {
+    "item_id": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c",
+    "lede": "Attackers reportedly set cold-room controls to 110\u00b0C, but safeguards prevented stock losses",
+    "outlet": "theregister",
+    "published": "2026-11-04T11:56:54Z",
+    "title": "Cyberattack on French plasma stores is enough to make your blood boil",
+    "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519"
+  },
+  "score": 0.622103
+}

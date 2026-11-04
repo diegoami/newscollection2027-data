@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "62ad9c2a6bdda1cc08de2827ba172b545ee3f1ff",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T12:11:05Z",
+    "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "7398c8fe0a0b90c3478db797442f1197ebae4121",
+    "lede": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T12:47:00Z",
+    "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/"
+  },
+  "score": 0.596439
+}

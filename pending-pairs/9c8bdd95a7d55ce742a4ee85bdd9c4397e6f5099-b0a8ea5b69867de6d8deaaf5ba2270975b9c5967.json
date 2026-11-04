@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c8bdd95a7d55ce742a4ee85bdd9c4397e6f5099",
+    "lede": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T16:58:46Z",
+    "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+    "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/"
+  },
+  "b": {
+    "item_id": "b0a8ea5b69867de6d8deaaf5ba2270975b9c5967",
+    "lede": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T22:18:50Z",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+  },
+  "score": 0.59284
+}

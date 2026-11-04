@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a1a203cee48447e832e5004dba9c10ee40371fe",
+    "lede": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange\u2019s internal wallet signing systems, enabling the October 29 theft.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T13:00:00Z",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets"
+  },
+  "b": {
+    "item_id": "5d2cdd8508318a8809f630352a2db5a9f0917433",
+    "lede": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (\u00a34.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world\u2019s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to",
+    "outlet": "theguardian",
+    "published": "2026-11-03T19:00:23Z",
+    "title": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
+    "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+  },
+  "score": 0.652738
+}

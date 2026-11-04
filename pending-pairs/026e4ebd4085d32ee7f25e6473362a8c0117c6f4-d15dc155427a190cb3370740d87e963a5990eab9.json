@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "026e4ebd4085d32ee7f25e6473362a8c0117c6f4",
+    "lede": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-04T18:00:00Z",
+    "title": "ChatGPT will now make you animated GIFs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+  },
+  "b": {
+    "item_id": "d15dc155427a190cb3370740d87e963a5990eab9",
+    "lede": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-01T13:53:11Z",
+    "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/"
+  },
+  "score": 0.643412
+}

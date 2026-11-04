@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "955f969e9daedf25555e085c996bffa014a614b7",
+    "lede": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T09:39:54Z",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/"
+  },
+  "b": {
+    "item_id": "d6dd46466a93ebf84ffa398d533dd02ff2b5dc10",
+    "lede": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T15:00:10Z",
+    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+    "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/"
+  },
+  "score": 0.581395
+}

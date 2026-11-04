@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "381c87312bf660f133330c1b5ce58efb5fae9187",
+    "lede": "An open-source UEFI tool, nv-uefi-unlocker, lifts Nvidia\u2019s tensor rate cap on RTX 20, 30, and 40-series GPUs under Windows.",
+    "outlet": "tomshardware",
+    "published": "2026-11-01T14:00:00Z",
+    "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows",
+    "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops"
+  },
+  "b": {
+    "item_id": "e1a9cc053b8486f0f9b6dd7ecf4ab8145ef2f60d",
+    "lede": "Open source developers have released a prototype driver for Windows 11 that renders the desktop using an NPU instead of the system\u2019s (i)GPU.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T12:00:00Z",
+    "title": "Open source project renders your Windows 11 desktop using the NPU rather than the GPU \u2014 \u2018npu-driver\u2019 can only run at 2 to 3 Hz, targets 30 Hz performance",
+    "url": "https://www.tomshardware.com/pc-components/gpu-drivers/open-source-project-renders-your-windows-11-desktop-using-the-npu-rather-than-the-gpu-npu-driver-can-only-run-at-2-to-3-hz-targets-30-hz-performance"
+  },
+  "score": 0.583905
+}
