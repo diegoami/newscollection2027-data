@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-02-7f70ec",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Apple can't predict when iPhone Duo supply constraints will ease",
+  "summary": "Apple says it cannot predict when supply constraints on its foldable iPhone Duo will ease, even as production ramps up, with shipping delays expected to stretch into next year. The device, which sold out after proving popular with buyers willing to pay around $2,000, likely won't be back in stock in time for this year's holidays.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple says it cannot predict when iPhone Duo supply constraints will ease.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e2a2fb1dcb6907e9bd2fb8c8961f90d9f7300097",
+          "quote": "not able to predict’ when it’ll have enough iPhone Duos to go around"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "a7d0781bd51244f1e842baca8e3bcfba99908aca",
+          "quote": "hard to predict’ when iPhone Duo constraints will improve"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Apple says iPhone Duo production is ramping up, but shipping delays are expected to stretch into next year.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a7d0781bd51244f1e842baca8e3bcfba99908aca",
+          "quote": "shipping delays stretch into next year"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The foldable iPhone Duo sold out after proving popular among buyers willing to pay around $2,000.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "f1f696f097dae603480ca53a3bb682ea1f732a00",
+          "quote": "a hit with people willing to spend $2,000 on a new mobile"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The iPhone Duo likely won't be restocked in time for this year's holidays.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "2a77c1bef6620e6314d7f77926395957fcf25c8a",
+          "quote": "make it into Santa’s sleigh this year"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

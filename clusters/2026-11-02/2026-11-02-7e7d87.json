@@ -1,0 +1,24 @@
+{
+  "anchor": "72a9c484bb71e489f8b24480d6738d7e879d8b58",
+  "id": "2026-11-02-7e7d87",
+  "items": [
+    {
+      "item_id": "72a9c484bb71e489f8b24480d6738d7e879d8b58",
+      "lede": "Casio's new Feel Sync technology helps keep new players in tune.",
+      "outlet": "engadget",
+      "published": "2026-11-02T19:41:36Z",
+      "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
+      "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/"
+    },
+    {
+      "item_id": "7225aaca6aa82cc9022bf3e07ab17078ce555cc2",
+      "lede": "Casio announced a new addition to its Casiotone line of portable electronic keyboards with a feature that could help aspiring musicians master skills like rhythm and timing without the frustrations or discouragement of hitting the wrong note. The Casiotone CT-FS1 is available now for $399.99 in a monochromatic black or white version where even the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-03T19:48:41Z",
+      "title": "You can\u2019t hit a wrong note when playing along with songs on Casio\u2019s new keyboard",
+      "url": "https://www.theverge.com/tech/1025673/casio-digital-piano-keyboard-ct-fs1-feel-sync-technology"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

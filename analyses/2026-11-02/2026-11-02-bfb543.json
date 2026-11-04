@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-02-bfb543",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "LLMjacking attacks rack up over $1 million in fraudulent cloud AI charges",
+  "summary": "Attackers hijacking access to large language models, known as LLMjacking, are generating large fraudulent cloud AI charges. Google reports the attacks have racked up $1 million in cloud AI charges, with some organizations losing more than $100,000 per day to stolen LLM access.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "LLMjacking attacks are generating large fraudulent cloud AI charges, costing some organizations more than $100,000 a day.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6d4404d5b00edf5d7e1329b64451e46aa043a7cf",
+          "quote": "costing companies $100K+ per day in illicit LLM charges"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "77eef035ebfcb83d1acb59d055563abcb6ceba02",
+          "quote": "some organizations losing more than $100,000 per day"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Google reported that LLMjacking attacks have racked up $1 million in cloud AI charges.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "77eef035ebfcb83d1acb59d055563abcb6ceba02",
+          "quote": "rack up $1 million in cloud AI charges"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

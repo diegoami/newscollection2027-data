@@ -1,0 +1,24 @@
+{
+  "anchor": "58ae412e6fb2c0c4c613d3be9306881ae500f605",
+  "id": "2026-11-03-552ce0",
+  "items": [
+    {
+      "item_id": "58ae412e6fb2c0c4c613d3be9306881ae500f605",
+      "lede": "Apple made significant improvements to the iPad mini this year, but they don't come cheap.",
+      "outlet": "engadget",
+      "published": "2026-11-03T14:00:00Z",
+      "title": "iPad mini (A20 Pro) review: Apple's tiny tablet gets a big update",
+      "url": "https://www.engadget.com/2304616/apple-ipad-mini-a20-pro-review/"
+    },
+    {
+      "item_id": "814af2579ff4d56937a06d93db787d7f84f914e2",
+      "lede": "The iPad Mini\u2019s impressive new features make it a better tablet than ever\u2014only to be betrayed by its higher price.",
+      "outlet": "wired",
+      "published": "2026-11-03T14:00:00Z",
+      "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
+      "url": "https://www.wired.com/review/ipad-mini-2026/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

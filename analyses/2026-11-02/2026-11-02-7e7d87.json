@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-02-7e7d87",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Casio's new keyboard helps players avoid wrong notes with Feel Sync tech",
+  "summary": "Casio has introduced a new keyboard feature called Feel Sync that lets players, including beginners, play along to songs without hitting a wrong note. The feature debuts on the new Casiotone CT-FS1, available now for $399.99, and is designed to help new musicians stay in tune while practicing.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Casio's new keyboard feature helps users play along to songs without hitting a wrong note.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "72a9c484bb71e489f8b24480d6738d7e879d8b58",
+          "quote": "lets anyone play along to songs without ever hitting a wrong note"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7225aaca6aa82cc9022bf3e07ab17078ce555cc2",
+          "quote": "hit a wrong note when playing along with songs on Casio’s new keyboard"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The feature debuts on the new Casiotone CT-FS1, available now for $399.99.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7225aaca6aa82cc9022bf3e07ab17078ce555cc2",
+          "quote": "The Casiotone CT-FS1 is available now for $399.99"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Casio's Feel Sync technology is designed to help new players stay in tune.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "72a9c484bb71e489f8b24480d6738d7e879d8b58",
+          "quote": "Casio's new Feel Sync technology helps keep new players in tune"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

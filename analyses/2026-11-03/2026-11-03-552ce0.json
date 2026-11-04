@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-11-03-552ce0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "iPad mini gets major upgrade but at a higher price, reviews say",
+  "summary": "Reviews of the new iPad mini (A20 Pro) say Apple made significant improvements to the tablet this year, making it better than ever, but at a higher price that may deter some buyers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple significantly improved the iPad mini this year, but at a higher price.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "58ae412e6fb2c0c4c613d3be9306881ae500f605",
+          "quote": "significant improvements to the iPad mini this year, but they don't come cheap"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "814af2579ff4d56937a06d93db787d7f84f914e2",
+          "quote": "impressive new features make it a better tablet than ever—only to be betrayed by its higher price"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

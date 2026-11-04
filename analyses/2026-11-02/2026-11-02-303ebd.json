@@ -1,1 +1,88 @@
-{"cluster_id": "2026-11-02-303ebd", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-03T02:40:00Z", "headline": "Google dismantles 1.3-million-device Android TV botnet, bans maker", "summary": "A botnet built from roughly 1.3 million infected Android TV and set-top boxes has been dismantled; outlets say the manufacturer, Videostrong, intentionally shipped devices with a hidden backdoor and has now been banned from building certified Android devices. One outlet attributes the takedown to law enforcement, while others credit Google and its partners.", "claims": [{"id": "c1", "statement": "A botnet of roughly 1.3 million infected Android TV / set-top boxes was dismantled.", "sources": [{"outlet": "bleepingcomputer", "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc", "quote": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker"}, {"outlet": "theregister", "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f", "quote": "Cops bust botnet of 1.3M infected Android TV boxes"}, {"outlet": "theverge", "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947", "quote": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet"}]}, {"id": "c2", "statement": "The device manufacturer, Videostrong, is said to have intentionally built a backdoor into the devices used to form the botnet.", "sources": [{"outlet": "theregister", "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f", "quote": "Videostrong accused of shipping devices with a backdoor baked in"}, {"outlet": "theverge", "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947", "quote": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet."}, {"outlet": "bleepingcomputer", "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc", "quote": "manufacturer intentionally infected with malware to generate revenue through cybercrime activities"}]}, {"id": "c3", "statement": "The manufacturer has been banned from building or selling certified Android devices.", "sources": [{"outlet": "bleepingcomputer", "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc", "quote": "bans TV box maker"}, {"outlet": "theverge", "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947", "quote": "has been banned from building or selling certified Android devices"}]}], "discrepancies": [{"kind": "attribution", "severity": "medium", "explanation": "One outlet attributes the takedown to law enforcement ('Cops'), while the others say Google and its partners dismantled the botnet.", "quotes": [{"outlet": "theregister", "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f", "quote": "Cops bust botnet of 1.3M infected Android TV boxes"}, {"outlet": "bleepingcomputer", "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc", "quote": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker"}], "claim_ids": ["c1"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-11-02-303ebd",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Google dismantles 1.3 million-device Android TV botnet, bans manufacturer",
+  "summary": "Google and industry partners dismantled a botnet built into more than 1.3 million Android TV boxes after discovering that manufacturing partner Videostrong Technology Co. had secretly built in a backdoor used to generate cybercrime revenue. Google has banned Videostrong from building or selling certified Android devices. One outlet credits the takedown to law enforcement, calling it a 'cops bust', while others attribute the action to Google itself.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google and partners dismantled a botnet of more than 1.3 million infected Android TV boxes.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc",
+          "quote": "Google disrupts million-device XCPE Android malware botnet"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "4e5242d6436d9f6097f3cae0228f7258eb2adf8f",
+          "quote": "Google dismantles botnet secretly running on 1.3 million Android TV boxes"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The botnet was built in by Android manufacturing partner Videostrong, which secretly included a backdoor.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947",
+          "quote": "one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f",
+          "quote": "Videostrong accused of shipping devices with a backdoor baked in"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Google has banned Videostrong Technology Co. from building or selling certified Android devices.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6e1e33600ad399d8be2ee8d7ba4674160778e947",
+          "quote": "banned from building or selling certified Android devices"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The botnet was used to generate revenue through cybercrime activity.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc",
+          "quote": "intentionally infected with malware to generate revenue through cybercrime activities"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "One outlet credits the takedown to law enforcement ('cops'), while others attribute the action to Google itself.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "4ae274b378254c860d26cd1e4bbaf4b8ecd0855f",
+          "quote": "Cops bust botnet of 1.3M infected Android TV boxes"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "f8e64d371b0e603298fa73a2dfc078cafd59dcbc",
+          "quote": "Google disrupts million-device XCPE Android malware botnet"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

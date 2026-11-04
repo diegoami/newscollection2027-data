@@ -1,0 +1,24 @@
+{
+  "anchor": "9f53f68a7ae1c81df2f1a465210844e64ac37aa7",
+  "id": "2026-11-03-272591",
+  "items": [
+    {
+      "item_id": "9f53f68a7ae1c81df2f1a465210844e64ac37aa7",
+      "lede": "The 3,200-pound satellite is expected to reenter Earth\u2019s atmosphere later this week with a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America.",
+      "outlet": "wired",
+      "published": "2026-11-03T10:45:00Z",
+      "title": "NASA\u2019s Swift Observatory Is Falling to Earth. Here\u2019s What to Know About the Impending Impact",
+      "url": "https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/"
+    },
+    {
+      "item_id": "c4bcbd0bfa65bf894754e9f542499feba5fa2d3d",
+      "lede": "The US Armed Forces says NASA's Swift observatory will re-enter Earth's atmosphere in the early hours of November 4.",
+      "outlet": "engadget",
+      "published": "2026-11-03T12:41:51Z",
+      "title": "NASA's Swift observatory is expected to return to Earth on November 4",
+      "url": "https://www.engadget.com/2305059/nasas-swift-observatory-is-expected-to-re-enter-earth-on-november-4/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

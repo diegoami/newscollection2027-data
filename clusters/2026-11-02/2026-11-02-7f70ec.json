@@ -1,0 +1,48 @@
+{
+  "anchor": "e2a2fb1dcb6907e9bd2fb8c8961f90d9f7300097",
+  "id": "2026-11-02-7f70ec",
+  "items": [
+    {
+      "item_id": "e2a2fb1dcb6907e9bd2fb8c8961f90d9f7300097",
+      "lede": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this \u200bpoint, we're not able to predict when supply and demand will be in [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-02T22:56:11Z",
+      "title": "Apple is \u2018not able to predict\u2019 when it\u2019ll have enough iPhone Duos to go around",
+      "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+    },
+    {
+      "item_id": "a7d0781bd51244f1e842baca8e3bcfba99908aca",
+      "lede": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "outlet": "techcrunch",
+      "published": "2026-11-02T23:25:32Z",
+      "title": "Apple says it\u2019s \u2018hard to predict\u2019 when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
+    },
+    {
+      "item_id": "f1f696f097dae603480ca53a3bb682ea1f732a00",
+      "lede": "Apple\u2019s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-03T00:29:00Z",
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko"
+    },
+    {
+      "item_id": "2a77c1bef6620e6314d7f77926395957fcf25c8a",
+      "lede": "The iPhone Duo likely won\u2019t make it into Santa\u2019s sleigh this year. Here\u2019s what Apple had to say about it.",
+      "outlet": "zdnet",
+      "published": "2026-11-03T19:28:32Z",
+      "title": "Want an iPhone Duo for the holidays? Apple\u2019s latest stock update isn\u2019t reassuring",
+      "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/"
+    },
+    {
+      "item_id": "83891ade731a5b5ae2b0c5ed8a0dcc6c09797c16",
+      "lede": "The iPhone Duo likely won\u2019t make it into Santa\u2019s sleigh this year. Here\u2019s what Apple had to say about it.",
+      "outlet": "zdnet",
+      "published": "2026-11-03T19:28:32Z",
+      "title": "Want an iPhone Duo for the holidays? Apple\u2019s latest stock update isn\u2019t reassuring",
+      "url": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

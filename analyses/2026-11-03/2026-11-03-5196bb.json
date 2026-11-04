@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-11-03-5196bb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Microsoft improves Windows 11 performance on PCs with 8GB of RAM",
+  "summary": "Microsoft says it has made drastic improvements to Windows 11's performance on PCs with 8GB of RAM, targeting speed, performance and memory management so users notice gains across a wide range of apps. One outlet suggests the move comes as climbing RAM prices squeeze budgets and may be cutting into Windows revenue.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft says it has made drastic improvements to Windows 11's performance on PCs with 8GB of RAM.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "c9a246404ce45f5f7545be861051cada47ac21ef",
+          "quote": "drastic improvements to the performance of Windows 11 while using 8GB of RAM"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "61246e277855f91a45f197eae6b1889c259d7025",
+          "quote": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users with 8GB of RAM should notice improved performance across a wide range of apps.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "61246e277855f91a45f197eae6b1889c259d7025",
+          "quote": "noticing improved performance in a wide range of apps"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The improvements target speed, performance and memory management.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "d5dfd438bc643981a41f3924f102691be47a3257",
+          "quote": "offer improvements in speed, performance, and memory management"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "One outlet suggests the improvements come as climbing RAM prices squeeze Windows revenue.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "9c0c3c49d76f98e81e159b0c7ffc89a65399ba4e",
+          "quote": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "9c0c3c49d76f98e81e159b0c7ffc89a65399ba4e",
+          "quote": "the memory crunch is taking a bite out of Windows revenue"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

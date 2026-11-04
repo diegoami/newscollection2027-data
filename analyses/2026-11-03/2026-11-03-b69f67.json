@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-03-b69f67",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Harvard data breach by ShinyHunters exposed 851,000 alumni and donor accounts",
+  "summary": "Hackers linked to the ShinyHunters group breached Harvard University's Alumni Affairs and Development systems in November 2025, exposing personal and donation data tied to more than 850,000 unique email addresses belonging to alumni, donors, students and family members. The breach was reported by a breach notification service about a year after the attack occurred.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers breached Harvard University's Alumni Affairs and Development systems in November 2025, exposing data linked to more than 850,000 unique email addresses.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "8491f2b2e05466df7f82fc3c60d041dbf1f902b9",
+          "quote": "Harvard University data breach exposed info of 851,000 accounts"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "8491f2b2e05466df7f82fc3c60d041dbf1f902b9",
+          "quote": "breached Harvard University's Alumni Affairs and Development systems in November 2025"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The attack has been attributed to the ShinyHunters hacking group.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "e566867efe44b54ff00a0e5368838ceed7a2be7b",
+          "quote": "ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The exposure includes personal and donation data, reported by a breach notification service about a year after the attack.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "e566867efe44b54ff00a0e5368838ceed7a2be7b",
+          "quote": "Plenty of personal + donation data leaked by crims, data-sifting breach site claims a year after attack"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

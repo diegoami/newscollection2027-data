@@ -1,0 +1,78 @@
+{
+  "cluster_id": "2026-11-03-1c199c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Apple Watch's Audio Intelligence listening features enter watchOS 27.3 beta",
+  "summary": "Apple's new Audio Intelligence features for Apple Watch, Siri Recap and Live Rewind, have entered beta testing through the watchOS 27.3 developer beta, available on the Apple Watch Series 12 and Ultra 4. First revealed at Apple's September event, the opt-in features use ambient listening to summarize conversations and generate transcripts of recent audio, prompting one outlet to call them controversial.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple's new Audio Intelligence features, Siri Recap and Live Rewind, entered beta testing on the Apple Watch via watchOS 27.3.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0e5b1d74afc987fe0cc2ef4a7da330816ad21f25",
+          "quote": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ff30735d427557af9d4d7c66551d2e822032e480",
+          "quote": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The features were first revealed at Apple's event in September and are opt-in.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "ff30735d427557af9d4d7c66551d2e822032e480",
+          "quote": "First revealed at the company's event in September"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "6eecf4dcf8039e4c0e91cd1b406638023e1f8fec",
+          "quote": "but you have to opt in"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Siri Recap uses ambient listening to generate summaries of conversations, while Live Rewind generates transcripts of recent audio.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "62af551153394ae1e07bee81cccd5207038df33b",
+          "quote": "Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The features are available on the Apple Watch Series 12 and Ultra 4 via the watchOS 27.3 developer beta.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "db371fb8cc2da192a8ad926df2de36f86c6e938f",
+          "quote": "Audio Intelligence on the Apple Watch Series 12 and Ultra 4"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "ZDNet describes the new always-listening features as controversial.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "6eecf4dcf8039e4c0e91cd1b406638023e1f8fec",
+          "quote": "2 new controversial listening features"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

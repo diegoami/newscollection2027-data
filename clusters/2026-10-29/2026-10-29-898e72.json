@@ -161,8 +161,72 @@
       "published": "2026-11-02T11:45:00Z",
       "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
       "url": "https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+    },
+    {
+      "item_id": "bd00c40b174e0d2e7203f0b8f99c6f3bdc794e86",
+      "lede": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-03T01:23:03Z",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
+    },
+    {
+      "item_id": "9637d6a4f4db408d451b24607bc366cea91ac5a4",
+      "lede": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-03T16:19:29Z",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
+    },
+    {
+      "item_id": "5d2cdd8508318a8809f630352a2db5a9f0917433",
+      "lede": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (\u00a34.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world\u2019s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to",
+      "outlet": "theguardian",
+      "published": "2026-11-03T19:00:23Z",
+      "title": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
+      "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+    },
+    {
+      "item_id": "373769a8045ff0d2cf8964da66fdf317091bf7c2",
+      "lede": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm\u2019s system and steal billions, according to Binance.",
+      "outlet": "wired",
+      "published": "2026-11-03T19:04:58Z",
+      "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+      "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/"
+    },
+    {
+      "item_id": "ad8f9cc28a7969ff9ac94904724eaab1b227f8a3",
+      "lede": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+      "outlet": "techcrunch",
+      "published": "2026-11-03T19:45:48Z",
+      "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+      "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
+    },
+    {
+      "item_id": "317e8557e095955ceaf7416c75379629c3519cd6",
+      "lede": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-03T20:05:50Z",
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/"
+    },
+    {
+      "item_id": "07464b8766d55a8ab336d63e76ede57fc0147cd9",
+      "lede": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-03T22:04:02Z",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+    },
+    {
+      "item_id": "7f80142f2f1d30ef876000591220b9765f3d4368",
+      "lede": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+      "outlet": "theregister",
+      "published": "2026-11-03T22:04:45Z",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
     }
   ],
   "status": "analyzed",
-  "version": 5
+  "version": 6
 }

@@ -1,0 +1,40 @@
+{
+  "anchor": "c9a246404ce45f5f7545be861051cada47ac21ef",
+  "id": "2026-11-03-5196bb",
+  "items": [
+    {
+      "item_id": "c9a246404ce45f5f7545be861051cada47ac21ef",
+      "lede": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+      "outlet": "tomshardware",
+      "published": "2026-11-03T17:00:00Z",
+      "title": "Windows 11 8GB RAM configurations get a performance boost",
+      "url": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines"
+    },
+    {
+      "item_id": "d5dfd438bc643981a41f3924f102691be47a3257",
+      "lede": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
+      "outlet": "zdnet",
+      "published": "2026-11-03T17:00:00Z",
+      "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says \u2013 here\u2019s why",
+      "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/"
+    },
+    {
+      "item_id": "61246e277855f91a45f197eae6b1889c259d7025",
+      "lede": "Windows 11 users with 8GB of RAM should start noticing improved performance in a wide range of apps.",
+      "outlet": "engadget",
+      "published": "2026-11-03T17:02:49Z",
+      "title": "Microsoft has listed some concrete ways that Windows 11 is getting better with 8GB of RAM",
+      "url": "https://www.engadget.com/2305420/microsoft-has-listed-some-concrete-ways-that-windows-11-is-getting-better-with-8gb-of-ram/"
+    },
+    {
+      "item_id": "9c0c3c49d76f98e81e159b0c7ffc89a65399ba4e",
+      "lede": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
+      "outlet": "theregister",
+      "published": "2026-11-03T21:38:29Z",
+      "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing",
+      "url": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

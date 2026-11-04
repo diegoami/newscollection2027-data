@@ -1,1 +1,83 @@
-{"cluster_id": "2026-11-02-008d23", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-03T02:35:00Z", "headline": "Apple's rumored home robot delayed, hardware done but software lagging", "summary": "Apple has reportedly pushed back its rumored home robot, with the launch slipping to as late as 2028 even though the hardware has reportedly been finished for years and only the software is holding it up. The outlets frame the delay differently: one headlines the possible 2028 slip, the other an arrival as soon as 2027, with a reported price around $1,000.", "claims": [{"id": "c1", "statement": "Apple's rumored home robot has reportedly been delayed and is not expected to launch imminently.", "sources": [{"outlet": "theverge", "item_id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d", "quote": "Apple has reportedly delayed the launch of its rumored smart home robot until next year at the earliest or possibly even 2028, according to The Information."}, {"outlet": "arstechnica", "item_id": "95189256059f93986ba20c65a87ddd132ba870b2", "quote": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights"}]}, {"id": "c2", "statement": "The robot's hardware is reportedly finished, but its software is not yet ready.", "sources": [{"outlet": "theverge", "item_id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d", "quote": "the robot's hardware \"has been finished for around two years,\" but that the software isn't ready"}]}, {"id": "c3", "statement": "The robot is backed by Apple hardware chief John Ternus and is expected to carry a hefty price, reportedly around $1,000, for limited uses like FaceTime and controlling lights.", "sources": [{"outlet": "arstechnica", "item_id": "95189256059f93986ba20c65a87ddd132ba870b2", "quote": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."}, {"outlet": "arstechnica", "item_id": "95189256059f93986ba20c65a87ddd132ba870b2", "quote": "Apple’s $1,000 home robot for FaceTime and switching on lights"}]}], "discrepancies": [{"kind": "framing", "severity": "medium", "explanation": "The outlets headline different ends of the same uncertain window: one leads with the delay possibly stretching to 2028, the other leads with an arrival in 2027.", "quotes": [{"outlet": "theverge", "item_id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d", "quote": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028"}, {"outlet": "arstechnica", "item_id": "95189256059f93986ba20c65a87ddd132ba870b2", "quote": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights"}], "claim_ids": ["c1"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-11-02-008d23",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Apple's rumored $1,000 home robot may launch in 2027 or slip to 2028",
+  "summary": "Apple is reportedly developing a roughly $1,000 home robot, internally called HomeView Ultra, backed by CEO John Ternus and expected to include a robotic arm and display. The device's hardware has reportedly been finished for about two years, but software delays mean the launch timing is unclear: one report says 2027, another says it could slip to 2028.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is reportedly developing a home robot product expected to cost around $1,000.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "95189256059f93986ba20c65a87ddd132ba870b2",
+          "quote": "$1,000 home robot for FaceTime and switching on lights"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "f6f9ed01c7c838b9ab736375078e8938f2af3949",
+          "quote": "Apple reportedly plans $1,000 swiveling smart panel"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The device, internally called HomeView Ultra, is expected to include a robotic arm and display.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "f6f9ed01c7c838b9ab736375078e8938f2af3949",
+          "quote": "feature a robotic arm and 9-inch display"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The project is backed by Apple CEO John Ternus.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "95189256059f93986ba20c65a87ddd132ba870b2",
+          "quote": "Apple robot backed by CEO John Ternus"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The robot's hardware has reportedly been finished for about two years, but its software isn't ready.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d",
+          "quote": "has been finished for around two years"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Outlets give different expected launch timing for the device: one report says 2027, another says it may slip to 2028.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "95189256059f93986ba20c65a87ddd132ba870b2",
+          "quote": "Coming in 2027"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "9233f8bfd3393adad54b523dc1d0ecf701d3e48d",
+          "quote": "might have to wait until 2028"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

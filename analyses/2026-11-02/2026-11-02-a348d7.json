@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-02-a348d7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "29 NHS trusts not using Palantir AI despite NHS benefit claims",
+  "summary": "NHS England credits 29 hospital trusts with benefiting from Palantir's AI-powered medical data platform, but the trusts say they are using little or none of it. Watchdog group Medact flagged the 29 disputed entries, and a senior health official called the gap between NHS claims and trusts' own comments 'very misleading'. The dispute surfaces as ministers weigh the future of a £330 million Palantir deal.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "29 hospital trusts that NHS England claims are benefiting from Palantir's AI platform are using little or none of it.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "b401fc81f4fa50da4ae2331344cfcf22d501bdbb",
+          "quote": "unused or little used by 29 NHS trusts"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "f7ba75d067b658d39ad60fe5641158121b992a54",
+          "quote": "trusts that say they're not using it"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Watchdog group Medact identified 29 disputed entries in the NHS's benefit claims.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "f7ba75d067b658d39ad60fe5641158121b992a54",
+          "quote": "Medact flags 29 disputed entries"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The gap between NHS claims and trusts' own comments was called 'very misleading' by a senior health official.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "b401fc81f4fa50da4ae2331344cfcf22d501bdbb",
+          "quote": "described as ‘very misleading’ by senior health official"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The dispute comes as ministers weigh the future of a £330 million Palantir deal.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "f7ba75d067b658d39ad60fe5641158121b992a54",
+          "quote": "ministers weigh £330M deal's future"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

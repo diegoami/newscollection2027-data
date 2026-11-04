@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-03-272591",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "NASA's Swift Observatory satellite expected to reenter Earth's atmosphere Nov. 4",
+  "summary": "NASA's Swift Observatory, a 3,200-pound satellite, is expected to reenter Earth's atmosphere in the early hours of November 4, according to the US Armed Forces. The reentry zone is wide, spanning parts of Africa, Australia, Southeast Asia and South America.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "NASA's Swift Observatory, a 3,200-pound satellite, is expected to reenter Earth's atmosphere.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "9f53f68a7ae1c81df2f1a465210844e64ac37aa7",
+          "quote": "The 3,200-pound satellite is expected to reenter Earth’s atmosphere later this week"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c4bcbd0bfa65bf894754e9f542499feba5fa2d3d",
+          "quote": "NASA's Swift observatory is expected to return to Earth on November 4"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The US Armed Forces says the reentry will occur in the early hours of November 4.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c4bcbd0bfa65bf894754e9f542499feba5fa2d3d",
+          "quote": "will re-enter Earth's atmosphere in the early hours of November 4"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The reentry zone is wide, covering parts of Africa, Australia, Southeast Asia and South America.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "9f53f68a7ae1c81df2f1a465210844e64ac37aa7",
+          "quote": "a wide reentry zone covering parts of Africa, Australia, Southeast Asia, and South America"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

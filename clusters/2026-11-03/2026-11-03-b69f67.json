@@ -1,0 +1,24 @@
+{
+  "anchor": "8491f2b2e05466df7f82fc3c60d041dbf1f902b9",
+  "id": "2026-11-03-b69f67",
+  "items": [
+    {
+      "item_id": "8491f2b2e05466df7f82fc3c60d041dbf1f902b9",
+      "lede": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-03T10:53:25Z",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/"
+    },
+    {
+      "item_id": "e566867efe44b54ff00a0e5368838ceed7a2be7b",
+      "lede": "How about them apples? Plenty of personal + donation data leaked by crims, data-sifting breach site claims a year after attack",
+      "outlet": "theregister",
+      "published": "2026-11-03T15:38:55Z",
+      "title": "ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/03/shinyhunters-hit-850k-alumni-donors-students-and-fam-in-last-years-harvard-university-raid/5307272"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

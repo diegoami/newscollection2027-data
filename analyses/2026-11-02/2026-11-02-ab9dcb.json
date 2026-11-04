@@ -1,0 +1,89 @@
+{
+  "cluster_id": "2026-11-02-ab9dcb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Apple warns of unprecedented memory chip cost increases squeezing margins",
+  "summary": "Apple warned memory chip costs are rising at an unprecedented rate, driven by strong AI data center demand that is pushing manufacturers toward higher-margin server products. The company's inventory surged 154% to $14.5 billion, and its manufacturing bill is expected to climb by $33 billion. Apple raised prices to offset some impact, even as new CEO John Ternus touted record sales.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple warned that memory chip costs are rising at an 'unprecedented' rate.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "5fde059d3dcbd5c69426d997f646b34511ec7c00",
+          "quote": "Apple warns of ‘unprecedented’ rise in memory chip prices"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "f5ad21cb3fac04fb80d1c350a5bc54e2df6a3d42",
+          "quote": "Apple faces unprecedented memory cost increases as RAM prices continue to surge"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Apple's inventory climbed 154% to $14.5 billion amid the memory cost increases.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "bea1e62ccff3ba7fe63c6cf48ebb73709d121984",
+          "quote": "inventory surges 154% as memory chip costs climb"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "bea1e62ccff3ba7fe63c6cf48ebb73709d121984",
+          "quote": "its inventory climbs to $14.5 billion"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Apple raised prices to offset some of the impact from rising memory costs, even as revenue came in stronger than expected.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "5fde059d3dcbd5c69426d997f646b34511ec7c00",
+          "quote": "decision to raise prices has offset some of impact, as revenues are stronger than expected"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The memory squeeze is driven by strong AI data center demand, pushing manufacturers to prioritize higher-margin server products.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "f5ad21cb3fac04fb80d1c350a5bc54e2df6a3d42",
+          "quote": "facing strong demand for memory from AI data centers, prompting manufacturers to prioritize higher-margin server products"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Apple's manufacturing bill is expected to climb by $33 billion due to the memory cost increases.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "f5ad21cb3fac04fb80d1c350a5bc54e2df6a3d42",
+          "quote": "manufacturing bill climbs by $33 billion"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "New CEO John Ternus touted record sales even as soaring RAM costs threaten supplies and squeeze margins.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "fa94e3ba6e5f64606aae6ef151b3e47c203d535f",
+          "quote": "New CEO John Ternus toasts record sales as soaring RAM costs threaten supplies and squeeze margins"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-03-ad1a8d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Drax's £20bn deal would turn polluting UK power plant into AI datacentre",
+  "summary": "The owner of Britain's Drax power plant, the country's most polluting, has struck a £20 billion deal to build AI datacentre infrastructure on the site in North Yorkshire, potentially creating the UK's largest datacentre. The project still needs planning permission, government approval, and a customer before it can move forward.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Drax's owner struck a £20 billion deal to build AI datacentre infrastructure at the Drax power plant site in North Yorkshire.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "720961d9f7472dbd31849bfab003af9a77255fca",
+          "quote": "strikes £20bn deal to build infrastructure"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "ef15073e7636c0b3a3e3b4b3935b41935c4de543",
+          "quote": "Drax wants to feed Britain's AI habit with £20B datacenter at biomass power station"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The plant could become the UK's largest AI datacentre, despite being Britain's most polluting power plant.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "720961d9f7472dbd31849bfab003af9a77255fca",
+          "quote": "UK’s most polluting power plant could power country’s largest AI datacentre"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The project still needs planning permission, government approval and a customer before proceeding.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "ef15073e7636c0b3a3e3b4b3935b41935c4de543",
+          "quote": "needs planning permission, government approval and, rather importantly, a customer"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

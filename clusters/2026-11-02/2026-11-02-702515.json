@@ -49,8 +49,24 @@
       "published": "2026-11-02T18:25:01Z",
       "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go"
+    },
+    {
+      "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+      "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-03T13:07:00Z",
+      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+    },
+    {
+      "item_id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
+      "lede": "Cybersecurity experts say national impact \u2018minimal\u2019 but incidents may represent the \u2018foothills\u2019 of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK\u2019s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal. Continue reading...",
+      "outlet": "theguardian",
+      "published": "2026-11-03T17:28:49Z",
+      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

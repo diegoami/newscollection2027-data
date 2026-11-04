@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-03-90da04",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "UK warns AI-powered ransomware likely to hit infrastructure by 2028",
+  "summary": "The UK's National Cyber Security Centre says AI-powered malware is highly likely to be used in ransomware attacks on critical infrastructure, including power stations, airports and hospitals, by 2028. The agency's chief urged business leaders to stop doing 'tech on the cheap' to prepare for the threat.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "UK's National Cyber Security Centre says AI-powered malware is 'highly likely' to be used in attacks on UK critical infrastructure by 2028.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "8330bdd3be4d0a6b723efbb22f092fe9a43e3116",
+          "quote": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "68779352afb433582ffb1d9f437924f3a031ba4a",
+          "quote": "Britain on notice: AI-powered ransomware attacks to arrive by 2028"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Likely targets include power stations, airports and hospitals.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "8330bdd3be4d0a6b723efbb22f092fe9a43e3116",
+          "quote": "power stations, airports and hospitals"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The agency's chief urged business leaders to stop doing 'tech on the cheap'.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "68779352afb433582ffb1d9f437924f3a031ba4a",
+          "quote": "urges bosses to stop doing 'tech on the cheap"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

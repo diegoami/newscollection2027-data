@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-03-2ff34d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Apple requires 18+ age ratings for dating apps and AI companions",
+  "summary": "Apple will require 18+ age ratings for dating apps and AI companion apps that offer romantic or sexual content. Under new App Store content descriptors announced Monday, developers must declare whether their apps enable dating with real people or AI companions, and whether they allow users to share their real-world location, so Apple can apply the proper rating.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple will require 18+ age ratings for dating apps and AI companion apps offering romantic or sexual content.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f9c0c715eee2231e176405ee07bd3a0abc4ff6d6",
+          "quote": "Apple restricts dating apps and AI companions to users 18 and up"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "f9c0c715eee2231e176405ee07bd3a0abc4ff6d6",
+          "quote": "require 18+ ratings for dating apps and AI companions that offer sexual or romantic content"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Developers must declare whether their apps enable dating with real people or AI companions, to apply the proper age rating.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "8d987adb7ec68e2f41879b763589c07a9edee64f",
+          "quote": "developers will have to declare whether their app enables dating between real people and/or AI companions"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new content descriptors, announced Monday, also require developers to declare if apps allow sharing of real-world location.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+          "quote": "require developers to declare if their apps allow users to share their real-world location with others"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

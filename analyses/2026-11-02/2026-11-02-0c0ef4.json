@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-02-0c0ef4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Raspberry Pi hikes 16GB Pi 5 price to $385 amid memory crunch",
+  "summary": "The price of the 16GB Raspberry Pi 5 rose to $385, more than triple its original launch price, as a memory chip shortage drives new hikes. The increase, which adds $80 to the previous price, comes barely a month after the last round of price increases.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The 16GB Raspberry Pi 5's price rose to $385, more than triple its original launch price.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "1a2d1c32f728153931d3347d9f6034ab35b7b98e",
+          "quote": "hiked to $385, more than triple its launch price"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "889623129270160082463dff6ddadc41ef7649a5",
+          "quote": "pushes 16GB Pi 5 to $385, more than triple its launch price"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The price increase, driven by a memory chip shortage, comes barely a month after a previous round of hikes.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "1a2d1c32f728153931d3347d9f6034ab35b7b98e",
+          "quote": "gone up in price by $80 to $385"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "889623129270160082463dff6ddadc41ef7649a5",
+          "quote": "just a month after the last round of hikes"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-03-a67739",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Reddit tests ads in search results as traffic from Google declines",
+  "summary": "Reddit is testing ads within its search results, showing them based on factors including contextual relevance to a user's query, as the company looks to help advertisers reach users with high purchase intent. The move could help Reddit generate more revenue from existing users as traffic and growth concerns mount amid Google's AI-driven changes to search.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Reddit is testing ads within its search results.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "2f60d3a9681f668eb4a3032df101c8f53c727ed3",
+          "quote": "Reddit is adding more ads"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "c2327eb389b4bd85ec9f3844287ff08233c145f9",
+          "quote": "Reddit tests ads in search results as traffic declines and growth concerns mount"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ads will be shown based on contextual relevance to a user's search query.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "2f60d3a9681f668eb4a3032df101c8f53c727ed3",
+          "quote": "based on a range of factors, including contextual relevance to a search query"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The move could help Reddit generate more revenue as traffic and growth concerns mount amid Google's AI search changes.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "c2327eb389b4bd85ec9f3844287ff08233c145f9",
+          "quote": "could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Reddit wants to help advertisers reach users showing high purchase intent.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "71cd82e9d7181ace1a093b386da1fa2445e52806",
+          "quote": "wants to help advertisers reach users who show a \"high purchase\" intent"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

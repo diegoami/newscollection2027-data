@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-03-959d52",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-04T02:30:00Z",
+  "headline": "Netflix launches AI Discover tab for mood-based watch recommendations",
+  "summary": "Netflix has introduced a new AI Discover tab designed to help users find something to watch based on their current mood. The first experimental feature under the tab offers recommendations drawn from a range of AI-generated themes.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Netflix launched a new AI Discover tab to help users find something to watch based on their mood.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2023d4b1aafdb54ae122c2b0ae4ed6a0736d10c2",
+          "quote": "Netflix’s new AI Discover tab helps you find something to watch based on your mood"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "977a0b47d385d2171bef71ad17da7a6926585d69",
+          "quote": "Netflix thinks AI might save you from scrolling aimlessly for something to watch"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The first experimental feature under the tab offers recommendations drawn from a range of AI-generated themes.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "977a0b47d385d2171bef71ad17da7a6926585d69",
+          "quote": "offer suggestions based on a range of AI-generated themes"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "2023d4b1aafdb54ae122c2b0ae4ed6a0736d10c2",
+          "quote": "get recommendations based on what they're currently in the mood for"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
