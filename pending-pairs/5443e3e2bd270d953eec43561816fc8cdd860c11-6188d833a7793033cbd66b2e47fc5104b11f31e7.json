@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5443e3e2bd270d953eec43561816fc8cdd860c11",
+    "lede": "CEO says supply chain can cope with surging datacenter and AI demand",
+    "outlet": "theregister",
+    "published": "2026-11-04T04:24:06Z",
+    "title": "AMD on track to overtake Intel as biggest x86 outfit",
+    "url": "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448"
+  },
+  "b": {
+    "item_id": "6188d833a7793033cbd66b2e47fc5104b11f31e7",
+    "lede": "Intel is expanding chipmaking and advanced packaging capacity across the U.S., Ireland, and Malaysia to meet surging AI-driven demand for data center CPUs amid shrinking PC market and persistent supply constraints.",
+    "outlet": "tomshardware",
+    "published": "2026-10-31T13:00:00Z",
+    "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+    "url": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history"
+  },
+  "score": 0.595296
+}
