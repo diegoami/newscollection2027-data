@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c0c3c49d76f98e81e159b0c7ffc89a65399ba4e",
+    "lede": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
+    "outlet": "theregister",
+    "published": "2026-11-03T21:38:29Z",
+    "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing",
+    "url": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382"
+  },
+  "b": {
+    "item_id": "c9a246404ce45f5f7545be861051cada47ac21ef",
+    "lede": "Microsoft claims that it has made drastic improvements to the performance of Windows 11 while using 8GB of RAM.",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T17:00:00Z",
+    "title": "Windows 11 8GB RAM configurations get a performance boost",
+    "url": "https://www.tomshardware.com/software/windows/windows-11-8gb-ram-configurations-get-a-performance-boost-as-ai-demand-keeps-pushing-prices-up-microsoft-says-windows-is-now-20-percent-more-responsive-multitasking-40-percent-faster-on-memory-constrained-machines"
+  },
+  "score": 0.754227
+}

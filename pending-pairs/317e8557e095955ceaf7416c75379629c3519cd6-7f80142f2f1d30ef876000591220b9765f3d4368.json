@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "317e8557e095955ceaf7416c75379629c3519cd6",
+    "lede": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T20:05:50Z",
+    "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/"
+  },
+  "b": {
+    "item_id": "7f80142f2f1d30ef876000591220b9765f3d4368",
+    "lede": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+    "outlet": "theregister",
+    "published": "2026-11-03T22:04:45Z",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+  },
+  "score": 0.623569
+}

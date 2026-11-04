@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27b11b6379190f006785dfa191b3004c2931f9c2",
+    "lede": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T21:28:44Z",
+    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+    "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/"
+  },
+  "b": {
+    "item_id": "a291b7051796cec42f6299d8ea23ca120fac38ba",
+    "lede": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T12:50:09Z",
+    "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+    "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/"
+  },
+  "score": 0.578646
+}

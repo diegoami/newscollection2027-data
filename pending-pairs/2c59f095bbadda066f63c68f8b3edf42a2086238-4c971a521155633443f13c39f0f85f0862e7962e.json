@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2c59f095bbadda066f63c68f8b3edf42a2086238",
+    "lede": "It turns out even bots can\u2019t escape bureaucracy.",
+    "outlet": "zdnet",
+    "published": "2026-11-02T16:30:00Z",
+    "title": "50 AI agents tried to build a thriving Minecraft civilization \u2013 it didn\u2019t end well",
+    "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/"
+  },
+  "b": {
+    "item_id": "4c971a521155633443f13c39f0f85f0862e7962e",
+    "lede": "These are AI agents that operate outside of human control and 'pursue open-ended, evolving survival'",
+    "outlet": "theregister",
+    "published": "2026-11-03T19:33:01Z",
+    "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
+    "url": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354"
+  },
+  "score": 0.606274
+}

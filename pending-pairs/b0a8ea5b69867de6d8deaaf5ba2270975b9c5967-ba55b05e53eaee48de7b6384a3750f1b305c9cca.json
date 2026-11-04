@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b0a8ea5b69867de6d8deaaf5ba2270975b9c5967",
+    "lede": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T22:18:50Z",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+  },
+  "b": {
+    "item_id": "ba55b05e53eaee48de7b6384a3750f1b305c9cca",
+    "lede": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T18:01:12Z",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+  },
+  "score": 0.5809
+}

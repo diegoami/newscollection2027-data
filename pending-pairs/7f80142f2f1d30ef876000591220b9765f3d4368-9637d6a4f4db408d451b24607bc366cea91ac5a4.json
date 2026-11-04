@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7f80142f2f1d30ef876000591220b9765f3d4368",
+    "lede": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+    "outlet": "theregister",
+    "published": "2026-11-03T22:04:45Z",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+  },
+  "b": {
+    "item_id": "9637d6a4f4db408d451b24607bc366cea91ac5a4",
+    "lede": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T16:19:29Z",
+    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
+  },
+  "score": 0.618917
+}

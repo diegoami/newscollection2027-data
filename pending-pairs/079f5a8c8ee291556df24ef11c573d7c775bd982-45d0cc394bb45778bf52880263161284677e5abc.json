@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+    "lede": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T13:22:38Z",
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  "b": {
+    "item_id": "45d0cc394bb45778bf52880263161284677e5abc",
+    "lede": "Most smartphone apps need permissions to function properly, but some may have more access than they should. Thankfully, it's pretty easy to check.",
+    "outlet": "engadget",
+    "published": "2026-11-04T00:30:00Z",
+    "title": "Your phone's apps could have more permissions than they need \u2013 here's how to check",
+    "url": "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/"
+  },
+  "score": 0.619171
+}

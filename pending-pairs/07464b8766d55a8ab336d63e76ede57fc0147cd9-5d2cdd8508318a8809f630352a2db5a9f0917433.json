@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07464b8766d55a8ab336d63e76ede57fc0147cd9",
+    "lede": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T22:04:02Z",
+    "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+    "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+  },
+  "b": {
+    "item_id": "5d2cdd8508318a8809f630352a2db5a9f0917433",
+    "lede": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (\u00a34.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world\u2019s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to",
+    "outlet": "theguardian",
+    "published": "2026-11-03T19:00:23Z",
+    "title": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
+    "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+  },
+  "score": 0.703821
+}

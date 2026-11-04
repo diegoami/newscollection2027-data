@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "373769a8045ff0d2cf8964da66fdf317091bf7c2",
+    "lede": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm\u2019s system and steal billions, according to Binance.",
+    "outlet": "wired",
+    "published": "2026-11-03T19:04:58Z",
+    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+    "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/"
+  },
+  "b": {
+    "item_id": "7f80142f2f1d30ef876000591220b9765f3d4368",
+    "lede": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+    "outlet": "theregister",
+    "published": "2026-11-03T22:04:45Z",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"
+  },
+  "score": 0.624588
+}

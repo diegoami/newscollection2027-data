@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "13f52f928ec9930bbd3cb8de59004950c7ca81d9",
+    "lede": "A Mississippi xAI data center is using eight converted jet engine turbines as a power source despite the known health risks of the carbon monoxide and volatile organic compounds they produce.",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T15:02:09Z",
+    "title": "8 converted jet engines are powering xAI data centers as companies look for new energy sources",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide"
+  },
+  "b": {
+    "item_id": "59cb8a96ca92b79ec61efe8c67b7aa5897bee877",
+    "lede": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "outlet": "techcrunch",
+    "published": "2026-11-03T22:19:53Z",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+  },
+  "score": 0.643348
+}

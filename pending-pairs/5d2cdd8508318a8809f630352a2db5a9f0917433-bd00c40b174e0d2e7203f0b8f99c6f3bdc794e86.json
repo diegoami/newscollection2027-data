@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d2cdd8508318a8809f630352a2db5a9f0917433",
+    "lede": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (\u00a34.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world\u2019s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to",
+    "outlet": "theguardian",
+    "published": "2026-11-03T19:00:23Z",
+    "title": "Hackers behind $6.3bn Binance heist \u2018used malware and bogus job interviews\u2019",
+    "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency"
+  },
+  "b": {
+    "item_id": "bd00c40b174e0d2e7203f0b8f99c6f3bdc794e86",
+    "lede": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T01:23:03Z",
+    "title": "North Korea denies being behind record $6.3bn Binance hack",
+    "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
+  },
+  "score": 0.585878
+}

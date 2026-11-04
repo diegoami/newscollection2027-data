@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c0c3c49d76f98e81e159b0c7ffc89a65399ba4e",
+    "lede": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
+    "outlet": "theregister",
+    "published": "2026-11-03T21:38:29Z",
+    "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing",
+    "url": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382"
+  },
+  "b": {
+    "item_id": "d5dfd438bc643981a41f3924f102691be47a3257",
+    "lede": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
+    "outlet": "zdnet",
+    "published": "2026-11-03T17:00:00Z",
+    "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says \u2013 here\u2019s why",
+    "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/"
+  },
+  "score": 0.721204
+}

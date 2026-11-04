@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27b11b6379190f006785dfa191b3004c2931f9c2",
+    "lede": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T21:28:44Z",
+    "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+    "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/"
+  },
+  "b": {
+    "item_id": "ba55b05e53eaee48de7b6384a3750f1b305c9cca",
+    "lede": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-10-31T18:01:12Z",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+  },
+  "score": 0.589497
+}
