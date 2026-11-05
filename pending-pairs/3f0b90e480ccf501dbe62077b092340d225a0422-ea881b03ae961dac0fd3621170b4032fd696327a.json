@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f0b90e480ccf501dbe62077b092340d225a0422",
+    "lede": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term \u201cAI compute campuses\u201d for its data centers as it seeks to address concerns over electricity demand, water consumption, pollution and rising utility bills",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T19:15:31Z",
+    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+  },
+  "b": {
+    "item_id": "ea881b03ae961dac0fd3621170b4032fd696327a",
+    "lede": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "outlet": "techcrunch",
+    "published": "2026-11-05T19:12:39Z",
+    "title": "Meta\u2019s warns that election backlash against data centers could make AI expansion harder",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+  },
+  "score": 0.613988
+}

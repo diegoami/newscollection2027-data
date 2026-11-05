@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "b": {
+    "item_id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+    "lede": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-05T19:03:04Z",
+    "title": "Muse has a voice mode now",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+  },
+  "score": 0.605521
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "83f36695b350d8484547d46bfa14c715ec152100",
+    "lede": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum\u2019s lasers, transceivers, optical switches, and InP manufacturing footprint.",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T12:00:00Z",
+    "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers"
+  },
+  "b": {
+    "item_id": "c52141d45fc46b6df0746e53e7af8ee1a86fda80",
+    "lede": "IP house believes optics demand is going to explode as Nvidia and others eye bigger systems",
+    "outlet": "theregister",
+    "published": "2026-11-02T18:02:55Z",
+    "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
+    "url": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028"
+  },
+  "score": 0.574757
+}

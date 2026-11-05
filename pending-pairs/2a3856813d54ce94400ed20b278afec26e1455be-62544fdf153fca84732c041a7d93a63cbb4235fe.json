@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+    "lede": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+    "outlet": "theregister",
+    "published": "2026-11-05T18:29:00Z",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+  },
+  "b": {
+    "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
+    "lede": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T18:14:56Z",
+    "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately"
+  },
+  "score": 0.664855
+}

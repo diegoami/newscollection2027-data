@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "654d300021e80f6e48d07cdf4a041f8d4116d1a9",
+    "lede": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T17:54:11Z",
+    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+  },
+  "b": {
+    "item_id": "83f36695b350d8484547d46bfa14c715ec152100",
+    "lede": "Marvell has agreed to acquire Lumentum for $115 billion, combining its optical DSPs, SerDes, silicon photonics, and networking silicon with Lumentum\u2019s lasers, transceivers, optical switches, and InP manufacturing footprint.",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T12:00:00Z",
+    "title": "Marvell to buy Lumentum in $115 billion all-stock deal",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/marvell-to-buy-lumentum-in-usd115-billion-all-stock-deal-combined-company-to-supply-scale-up-and-scale-in-optics-for-ai-data-centers"
+  },
+  "score": 0.634924
+}

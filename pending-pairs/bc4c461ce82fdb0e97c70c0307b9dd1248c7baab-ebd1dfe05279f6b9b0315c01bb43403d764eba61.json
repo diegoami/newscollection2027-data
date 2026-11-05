@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+    "lede": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T12:00:00Z",
+    "title": "Hackers target French blood service fridges following supermarket attacks",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice"
+  },
+  "b": {
+    "item_id": "ebd1dfe05279f6b9b0315c01bb43403d764eba61",
+    "lede": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-03T13:07:00Z",
+    "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"
+  },
+  "score": 0.647612
+}

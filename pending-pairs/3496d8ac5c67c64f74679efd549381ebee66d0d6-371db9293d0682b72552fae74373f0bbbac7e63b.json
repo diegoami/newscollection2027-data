@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+    "lede": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known",
+    "outlet": "theregister",
+    "published": "2026-11-05T13:29:00Z",
+    "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
+    "url": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790"
+  },
+  "b": {
+    "item_id": "371db9293d0682b72552fae74373f0bbbac7e63b",
+    "lede": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects Protesters across Europe are planning two days of action against datacentres this week with demonstrations taking place in 15 countries. More than 100 groups are joining together for the \u201c Stop Dirty Data Centres \u201d events on Friday",
+    "outlet": "theguardian",
+    "published": "2026-11-05T09:00:01Z",
+    "title": "Activists across Europe prepare two days of protests against datacentres",
+    "url": "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+  },
+  "score": 0.657589
+}

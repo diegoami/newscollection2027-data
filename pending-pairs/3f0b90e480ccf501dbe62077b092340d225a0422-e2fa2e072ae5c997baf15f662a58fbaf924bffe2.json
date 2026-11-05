@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f0b90e480ccf501dbe62077b092340d225a0422",
+    "lede": "OpenAI expects AI to become a major issue in the 2028 presidential election and is preparing a policy and public relations push after the U.S. midterm elections. The company is also promoting the term \u201cAI compute campuses\u201d for its data centers as it seeks to address concerns over electricity demand, water consumption, pollution and rising utility bills",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T19:15:31Z",
+    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+  },
+  "b": {
+    "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+    "lede": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
+    "outlet": "engadget",
+    "published": "2026-11-05T12:37:38Z",
+    "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+    "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
+  },
+  "score": 0.607777
+}

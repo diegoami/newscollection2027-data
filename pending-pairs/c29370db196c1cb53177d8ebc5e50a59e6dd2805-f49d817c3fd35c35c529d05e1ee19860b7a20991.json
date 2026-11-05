@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c29370db196c1cb53177d8ebc5e50a59e6dd2805",
+    "lede": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+    "outlet": "zdnet",
+    "published": "2026-11-05T18:00:00Z",
+    "title": "Claude\u2019s new Personal Finance tool aims to help analyze your spending \u2013 read-only, of course",
+    "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+  },
+  "b": {
+    "item_id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+    "lede": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-05T18:00:00Z",
+    "title": "Claude AI can plug directly into your bank account",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+  },
+  "score": 0.583891
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a1a203cee48447e832e5004dba9c10ee40371fe",
+    "lede": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange\u2019s internal wallet signing systems, enabling the October 29 theft.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T13:00:00Z",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets"
+  },
+  "b": {
+    "item_id": "dad53d7e3ed5032929f65277c68ee1cfbc65dd73",
+    "lede": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T15:00:10Z",
+    "title": "Closing the Identity Gap at the Service Desk",
+    "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/"
+  },
+  "score": 0.577646
+}

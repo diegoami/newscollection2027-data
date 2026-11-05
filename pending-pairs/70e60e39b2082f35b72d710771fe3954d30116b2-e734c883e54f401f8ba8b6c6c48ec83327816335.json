@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "70e60e39b2082f35b72d710771fe3954d30116b2",
+    "lede": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "outlet": "techcrunch",
+    "published": "2026-11-04T21:10:56Z",
+    "title": "Meta acquires AI coding startup Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+  },
+  "b": {
+    "item_id": "e734c883e54f401f8ba8b6c6c48ec83327816335",
+    "lede": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "outlet": "wired",
+    "published": "2026-11-05T13:00:00Z",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+  },
+  "score": 0.578332
+}

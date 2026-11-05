@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
+    "lede": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T17:45:29Z",
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
+  },
+  "b": {
+    "item_id": "db43045ae21972dfac0ab3e1bfd2e34d529970d1",
+    "lede": "Customers left wondering what's been compromised after vendor advises resetting passwords, 2FA and passkeys",
+    "outlet": "theregister",
+    "published": "2026-11-03T16:10:00Z",
+    "title": "Password manager mSecure tells users to change passwords, won't say why",
+    "url": "https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296"
+  },
+  "score": 0.608212
+}

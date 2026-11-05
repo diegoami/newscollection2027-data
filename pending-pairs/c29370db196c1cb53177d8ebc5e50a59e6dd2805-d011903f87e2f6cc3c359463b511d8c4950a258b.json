@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c29370db196c1cb53177d8ebc5e50a59e6dd2805",
+    "lede": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+    "outlet": "zdnet",
+    "published": "2026-11-05T18:00:00Z",
+    "title": "Claude\u2019s new Personal Finance tool aims to help analyze your spending \u2013 read-only, of course",
+    "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+  },
+  "b": {
+    "item_id": "d011903f87e2f6cc3c359463b511d8c4950a258b",
+    "lede": "But just like with ChatGPT, should you?",
+    "outlet": "engadget",
+    "published": "2026-11-05T18:00:00Z",
+    "title": "Now Claude can help with your finances too",
+    "url": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/"
+  },
+  "score": 0.577551
+}

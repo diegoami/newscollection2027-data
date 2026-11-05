@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16194c055af9d0c4040f9ee1bda295d41b0e3bb8",
+    "lede": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-02T18:01:30Z",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+  },
+  "b": {
+    "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+    "lede": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
+    "outlet": "engadget",
+    "published": "2026-11-05T12:37:38Z",
+    "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+    "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
+  },
+  "score": 0.624428
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3891d8b1706f305db698a8b4c0f2b16f595c5237",
+    "lede": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
+    "outlet": "techcrunch",
+    "published": "2026-11-02T14:08:52Z",
+    "title": "A fresh wave of cyberattacks has hit Europe\u2019s supermarket refrigerators, destroying food across countries",
+    "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+  },
+  "b": {
+    "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+    "lede": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T12:00:00Z",
+    "title": "Hackers target French blood service fridges following supermarket attacks",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice"
+  },
+  "score": 0.688077
+}

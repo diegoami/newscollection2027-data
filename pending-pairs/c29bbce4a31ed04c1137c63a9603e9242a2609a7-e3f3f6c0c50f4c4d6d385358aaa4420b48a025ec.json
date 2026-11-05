@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c29bbce4a31ed04c1137c63a9603e9242a2609a7",
+    "lede": "From EOP to RCE in six simple steps",
+    "outlet": "theregister",
+    "published": "2026-11-05T13:00:00Z",
+    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+    "url": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684"
+  },
+  "b": {
+    "item_id": "e3f3f6c0c50f4c4d6d385358aaa4420b48a025ec",
+    "lede": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-02T18:56:02Z",
+    "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+  },
+  "score": 0.578773
+}

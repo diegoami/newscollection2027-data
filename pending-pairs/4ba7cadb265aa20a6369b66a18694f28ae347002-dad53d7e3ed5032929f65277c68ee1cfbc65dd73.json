@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4ba7cadb265aa20a6369b66a18694f28ae347002",
+    "lede": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T16:00:18Z",
+    "title": "mSecure password manager hack prompts password reset warnings",
+    "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/"
+  },
+  "b": {
+    "item_id": "dad53d7e3ed5032929f65277c68ee1cfbc65dd73",
+    "lede": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T15:00:10Z",
+    "title": "Closing the Identity Gap at the Service Desk",
+    "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/"
+  },
+  "score": 0.655275
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "837849097616f0b67a3d96740b0529f9fd3c364a",
+    "lede": "A second cyberattack has struck supermarket freezers across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-02T10:49:27Z",
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks"
+  },
+  "b": {
+    "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+    "lede": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T12:00:00Z",
+    "title": "Hackers target French blood service fridges following supermarket attacks",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice"
+  },
+  "score": 0.633381
+}
