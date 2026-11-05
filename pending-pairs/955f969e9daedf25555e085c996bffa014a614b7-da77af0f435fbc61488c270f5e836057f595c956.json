@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "955f969e9daedf25555e085c996bffa014a614b7",
+    "lede": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T09:39:54Z",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/"
+  },
+  "b": {
+    "item_id": "da77af0f435fbc61488c270f5e836057f595c956",
+    "lede": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T09:18:29Z",
+    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+    "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/"
+  },
+  "score": 0.585403
+}

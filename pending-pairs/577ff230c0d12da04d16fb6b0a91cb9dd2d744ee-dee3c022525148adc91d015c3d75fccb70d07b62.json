@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "577ff230c0d12da04d16fb6b0a91cb9dd2d744ee",
+    "lede": "\u201cWe started listening to a lot of our lower-end customers,\" VMware exec says.",
+    "outlet": "arstechnica",
+    "published": "2026-11-04T21:38:49Z",
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
+  },
+  "b": {
+    "item_id": "dee3c022525148adc91d015c3d75fccb70d07b62",
+    "lede": "Version 8 of Standard and Enterprise Plus will stay alive until October 2028",
+    "outlet": "theregister",
+    "published": "2026-11-05T04:31:22Z",
+    "title": "VMware quietly offers European users extended sales and support for low-end vSphere",
+    "url": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732"
+  },
+  "score": 0.595939
+}
