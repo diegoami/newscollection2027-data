@@ -1,0 +1,40 @@
+{
+  "anchor": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa",
+  "id": "2026-11-04-f0944b",
+  "items": [
+    {
+      "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa",
+      "lede": "Several counties put data center issues on the ballot during the midterm elections, with most Americans voting against data center development in their county.",
+      "outlet": "tomshardware",
+      "published": "2026-11-04T13:13:32Z",
+      "title": "AI data centers comprehensively defeated at US midterm elections \u2014 45 measures put on the ballot as Americans overwhelmingly vote against developments",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-centers-comprehensively-defeated-at-us-midterm-elections-45-measures-put-on-the-ballot-as-americans-overwhelmingly-vote-against-developments"
+    },
+    {
+      "item_id": "dbef04b59fd713e8eb60aa7e2fa7ecac117901e2",
+      "lede": "The results were particularly stark where voters got to weigh in directly",
+      "outlet": "theregister",
+      "published": "2026-11-04T13:15:00Z",
+      "title": "America unites on one issue: Reining in datacenters",
+      "url": "https://www.theregister.com/systems/2026/11/04/america-unites-on-one-issue-reining-in-datacenters/5307536"
+    },
+    {
+      "item_id": "b1510e7ecb6f9f12dfd3526ab9dd0b9d541290a2",
+      "lede": "Nowhere was the rebuke stronger than the now-blue Ohio.",
+      "outlet": "engadget",
+      "published": "2026-11-04T15:28:52Z",
+      "title": "Americans overwhelmingly voted against data centers in the midterms",
+      "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/"
+    },
+    {
+      "item_id": "0d2f61a42e6273be843117d39ed2dd4267fa381b",
+      "lede": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms.",
+      "outlet": "wired",
+      "published": "2026-11-04T16:56:17Z",
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

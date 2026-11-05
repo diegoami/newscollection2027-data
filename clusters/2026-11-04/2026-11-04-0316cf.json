@@ -1,0 +1,24 @@
+{
+  "anchor": "1965c7f85c2d7549f326441ba9c21c838bb9bf27",
+  "id": "2026-11-04-0316cf",
+  "items": [
+    {
+      "item_id": "1965c7f85c2d7549f326441ba9c21c838bb9bf27",
+      "lede": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-04T01:15:34Z",
+      "title": "AMD rides data center riches to \u2018largest and most profitable\u2019 quarter in history",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+    },
+    {
+      "item_id": "b58632e425d58dc5a7116a6e20e5a14bbcdc0974",
+      "lede": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "outlet": "arstechnica",
+      "published": "2026-11-04T21:29:46Z",
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

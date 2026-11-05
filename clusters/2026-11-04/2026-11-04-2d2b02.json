@@ -1,0 +1,24 @@
+{
+  "anchor": "2f225b24eab4747662d3120f63bfa258ef5c2d13",
+  "id": "2026-11-04-2d2b02",
+  "items": [
+    {
+      "item_id": "2f225b24eab4747662d3120f63bfa258ef5c2d13",
+      "lede": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to connect [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-04T19:00:00Z",
+      "title": "Xbox previews two new ways to control cloud games",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller"
+    },
+    {
+      "item_id": "06777295e9f7bacdb32ca770609a424c1695ce13",
+      "lede": "The Nano Controller is adopting a Google Stadia trick.",
+      "outlet": "engadget",
+      "published": "2026-11-04T20:04:21Z",
+      "title": "Xbox is testing two new controller options for Cloud Gaming",
+      "url": "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "d0178f35064d57a66f5f5e959885062997b3a1e8",
+  "id": "2026-11-04-c16958",
+  "items": [
+    {
+      "item_id": "d0178f35064d57a66f5f5e959885062997b3a1e8",
+      "lede": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-04T18:26:07Z",
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+    },
+    {
+      "item_id": "90248c1ffce43a9b9c965fdd3c5d7b7d15b47a8d",
+      "lede": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "outlet": "techcrunch",
+      "published": "2026-11-04T22:13:16Z",
+      "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

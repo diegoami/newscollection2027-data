@@ -17,8 +17,16 @@
       "published": "2026-11-02T19:15:31Z",
       "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+    },
+    {
+      "item_id": "6050c43be029e7506e60effc32989a246e6ba0a6",
+      "lede": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+      "outlet": "techcrunch",
+      "published": "2026-11-04T21:25:44Z",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

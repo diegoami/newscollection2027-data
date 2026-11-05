@@ -1,0 +1,40 @@
+{
+  "anchor": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c",
+  "id": "2026-11-04-067fbd",
+  "items": [
+    {
+      "item_id": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c",
+      "lede": "Attackers reportedly set cold-room controls to 110\u00b0C, but safeguards prevented stock losses",
+      "outlet": "theregister",
+      "published": "2026-11-04T11:56:54Z",
+      "title": "Cyberattack on French plasma stores is enough to make your blood boil",
+      "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519"
+    },
+    {
+      "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+      "lede": "Temperature and defrosting thresholds raised to \u2018very high levels\u2019 at three cold stores stocking vital blood products Europe live \u2013 latest updates France\u2019s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service",
+      "outlet": "theguardian",
+      "published": "2026-11-04T13:22:28Z",
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+    },
+    {
+      "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43",
+      "lede": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-04T16:26:15Z",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro"
+    },
+    {
+      "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+      "lede": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-04T18:02:56Z",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

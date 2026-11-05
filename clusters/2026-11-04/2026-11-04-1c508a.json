@@ -1,0 +1,24 @@
+{
+  "anchor": "05d27ac3ae508f48c110904bb8f9e15a2f111e32",
+  "id": "2026-11-04-1c508a",
+  "items": [
+    {
+      "item_id": "05d27ac3ae508f48c110904bb8f9e15a2f111e32",
+      "lede": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-04T18:23:37Z",
+      "title": "Apple will check shared iCloud links for \u2018harmful content\u2019",
+      "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
+    },
+    {
+      "item_id": "bf3dcb66945ff7851e87f7695b191bc11313ba6f",
+      "lede": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+      "outlet": "theregister",
+      "published": "2026-11-04T21:49:38Z",
+      "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+      "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

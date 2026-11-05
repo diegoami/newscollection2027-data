@@ -1,0 +1,24 @@
+{
+  "anchor": "49792679d79fe36cfcefee8c6f3cff969467f542",
+  "id": "2026-11-03-907b49",
+  "items": [
+    {
+      "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+      "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-03T20:16:17Z",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+    },
+    {
+      "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
+      "lede": "More than two years after promising it, Apple lets developers test Siri AI app integration",
+      "outlet": "theregister",
+      "published": "2026-11-04T20:56:16Z",
+      "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

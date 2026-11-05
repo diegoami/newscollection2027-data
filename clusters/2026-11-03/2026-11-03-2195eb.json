@@ -1,0 +1,24 @@
+{
+  "anchor": "ec13281e1bc8e1e97a9eab0d18bf672464a1cc41",
+  "id": "2026-11-03-2195eb",
+  "items": [
+    {
+      "item_id": "ec13281e1bc8e1e97a9eab0d18bf672464a1cc41",
+      "lede": "On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.",
+      "outlet": "wired",
+      "published": "2026-11-03T10:00:00Z",
+      "title": "Opioid Users Found a \u2018Miracle Drug\u2019 to Help Them Quit. Then the DEA Banned It",
+      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/"
+    },
+    {
+      "item_id": "bffe34ab28d264de28395a7bf45b59f9bfe3cbf0",
+      "lede": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
+      "outlet": "arstechnica",
+      "published": "2026-11-04T15:08:48Z",
+      "title": "The DEA banned a drug some opioid users called a miracle",
+      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

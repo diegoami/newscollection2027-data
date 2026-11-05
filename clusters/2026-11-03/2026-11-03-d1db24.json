@@ -33,8 +33,16 @@
       "published": "2026-11-03T20:30:06Z",
       "title": "Google says there\u2019s no way to use Search without using artificial intelligence",
       "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence"
+    },
+    {
+      "item_id": "d6e23a6b838c0a53dba7440e845e236e481ae561",
+      "lede": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+      "outlet": "wired",
+      "published": "2026-11-04T20:06:21Z",
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

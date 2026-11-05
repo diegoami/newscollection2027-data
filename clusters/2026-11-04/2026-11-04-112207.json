@@ -1,0 +1,24 @@
+{
+  "anchor": "907828307bc3a56285284833eb5fa91cad793564",
+  "id": "2026-11-04-112207",
+  "items": [
+    {
+      "item_id": "907828307bc3a56285284833eb5fa91cad793564",
+      "lede": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+      "outlet": "techcrunch",
+      "published": "2026-11-04T21:49:29Z",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/"
+    },
+    {
+      "item_id": "b21b8f4aa7ca66b524801c13fcbb219661b41a3d",
+      "lede": "Power users seem more than willing to pay for AI-powered effects.",
+      "outlet": "engadget",
+      "published": "2026-11-04T22:55:57Z",
+      "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+      "url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
