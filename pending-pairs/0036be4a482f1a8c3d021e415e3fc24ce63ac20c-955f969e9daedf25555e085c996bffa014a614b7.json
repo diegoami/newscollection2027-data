@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0036be4a482f1a8c3d021e415e3fc24ce63ac20c",
+    "lede": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+    "outlet": "techcrunch",
+    "published": "2026-11-04T20:36:57Z",
+    "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+    "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/"
+  },
+  "b": {
+    "item_id": "955f969e9daedf25555e085c996bffa014a614b7",
+    "lede": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T09:39:54Z",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/"
+  },
+  "score": 0.658105
+}

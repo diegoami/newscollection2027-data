@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b0a8ea5b69867de6d8deaaf5ba2270975b9c5967",
+    "lede": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T22:18:50Z",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+  },
+  "b": {
+    "item_id": "de7887560061326923876253071065f1f4761602",
+    "lede": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T21:31:18Z",
+    "title": "Vercel rolls out new protection against stolen session cookie attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/"
+  },
+  "score": 0.576924
+}

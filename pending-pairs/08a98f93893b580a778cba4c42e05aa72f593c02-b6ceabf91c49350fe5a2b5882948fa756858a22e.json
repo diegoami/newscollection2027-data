@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "08a98f93893b580a778cba4c42e05aa72f593c02",
+    "lede": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-01T17:16:07Z",
+    "title": "Apple\u2019s HomeView could add security camera features",
+    "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features"
+  },
+  "b": {
+    "item_id": "b6ceabf91c49350fe5a2b5882948fa756858a22e",
+    "lede": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-04T20:23:24Z",
+    "title": "Gemini for Home now plugs into AT&T\u2019s smart security system",
+    "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system"
+  },
+  "score": 0.573708
+}

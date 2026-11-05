@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1413af0079f42d2d49e1d67c53f13be9c86f9a60",
+    "lede": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T19:05:19Z",
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
+  },
+  "b": {
+    "item_id": "4ba7cadb265aa20a6369b66a18694f28ae347002",
+    "lede": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T16:00:18Z",
+    "title": "mSecure password manager hack prompts password reset warnings",
+    "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/"
+  },
+  "score": 0.609003
+}

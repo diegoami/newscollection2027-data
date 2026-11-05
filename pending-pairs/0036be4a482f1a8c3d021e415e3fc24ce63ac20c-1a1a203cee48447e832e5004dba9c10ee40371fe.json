@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0036be4a482f1a8c3d021e415e3fc24ce63ac20c",
+    "lede": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+    "outlet": "techcrunch",
+    "published": "2026-11-04T20:36:57Z",
+    "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+    "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/"
+  },
+  "b": {
+    "item_id": "1a1a203cee48447e832e5004dba9c10ee40371fe",
+    "lede": "Binance has revealed how Norh Korean attackers spent months compromising systems and employees with malicious developer software and a fake recruitment process. The intrusions eventually gave hackers access to the exchange\u2019s internal wallet signing systems, enabling the October 29 theft.",
+    "outlet": "tomshardware",
+    "published": "2026-11-04T13:00:00Z",
+    "title": "Binance heist began with fake job interviews and a malicious Homebrew download",
+    "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/binance-heist-began-with-fake-job-interviews-and-a-malicious-homebrew-download-attackers-used-adulterated-software-and-social-engineering-to-gain-access-to-billions-in-assets"
+  },
+  "score": 0.611948
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "026e4ebd4085d32ee7f25e6473362a8c0117c6f4",
+    "lede": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-04T18:00:00Z",
+    "title": "ChatGPT will now make you animated GIFs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+  },
+  "b": {
+    "item_id": "182ee85c676e9ee3ca6ba2b71293306fb9f6124a",
+    "lede": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-05T00:25:12Z",
+    "title": "X says its updated web app is way faster",
+    "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"
+  },
+  "score": 0.584096
+}

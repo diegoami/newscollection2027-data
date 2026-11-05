@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1413af0079f42d2d49e1d67c53f13be9c86f9a60",
+    "lede": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T19:05:19Z",
+    "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+    "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
+  },
+  "b": {
+    "item_id": "b0a8ea5b69867de6d8deaaf5ba2270975b9c5967",
+    "lede": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-03T22:18:50Z",
+    "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/"
+  },
+  "score": 0.587485
+}

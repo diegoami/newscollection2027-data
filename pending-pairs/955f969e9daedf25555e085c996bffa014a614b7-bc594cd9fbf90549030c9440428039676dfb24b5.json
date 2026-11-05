@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "955f969e9daedf25555e085c996bffa014a614b7",
+    "lede": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T09:39:54Z",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/"
+  },
+  "b": {
+    "item_id": "bc594cd9fbf90549030c9440428039676dfb24b5",
+    "lede": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+    "outlet": "arstechnica",
+    "published": "2026-11-04T22:26:49Z",
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+  },
+  "score": 0.655527
+}
