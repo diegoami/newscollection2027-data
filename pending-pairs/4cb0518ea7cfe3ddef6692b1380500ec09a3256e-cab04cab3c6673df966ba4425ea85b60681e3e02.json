@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
+    "lede": "No documented attacks against American supermarkets\u2026yet",
+    "outlet": "theregister",
+    "published": "2026-11-05T22:37:06Z",
+    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+    "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978"
+  },
+  "b": {
+    "item_id": "cab04cab3c6673df966ba4425ea85b60681e3e02",
+    "lede": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-02T14:28:39Z",
+    "title": "Hackers disrupt refrigeration systems at European supermarkets",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+  },
+  "score": 0.582429
+}

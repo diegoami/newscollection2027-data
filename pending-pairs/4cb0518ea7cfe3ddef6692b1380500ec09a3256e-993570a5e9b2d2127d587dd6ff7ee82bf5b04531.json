@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
+    "lede": "No documented attacks against American supermarkets\u2026yet",
+    "outlet": "theregister",
+    "published": "2026-11-05T22:37:06Z",
+    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+    "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978"
+  },
+  "b": {
+    "item_id": "993570a5e9b2d2127d587dd6ff7ee82bf5b04531",
+    "lede": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe\u2019s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack",
+    "outlet": "theguardian",
+    "published": "2026-11-02T16:39:20Z",
+    "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+    "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+  },
+  "score": 0.583888
+}
