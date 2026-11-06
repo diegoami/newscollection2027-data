@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "886e9406677fab2131fcdb8edeafbafa764269b2",
+    "lede": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T21:30:30Z",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+  },
+  "b": {
+    "item_id": "dad53d7e3ed5032929f65277c68ee1cfbc65dd73",
+    "lede": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T15:00:10Z",
+    "title": "Closing the Identity Gap at the Service Desk",
+    "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/"
+  },
+  "score": 0.581543
+}

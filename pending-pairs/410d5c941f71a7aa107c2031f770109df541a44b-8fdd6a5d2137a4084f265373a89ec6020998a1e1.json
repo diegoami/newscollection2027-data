@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "410d5c941f71a7aa107c2031f770109df541a44b",
+    "lede": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "outlet": "techcrunch",
+    "published": "2026-11-03T16:30:34Z",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+  },
+  "b": {
+    "item_id": "8fdd6a5d2137a4084f265373a89ec6020998a1e1",
+    "lede": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "outlet": "arstechnica",
+    "published": "2026-11-05T21:40:36Z",
+    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+  },
+  "score": 0.593117
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
+    "lede": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+    "outlet": "tomshardware",
+    "published": "2026-11-05T18:14:56Z",
+    "title": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros by typing anything over 256 characters as a password",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/combined-flaws-let-anyone-into-alpine-linux-and-other-distros-by-typing-anything-over-256-characters-as-a-password-emergency-fixes-for-openssh-and-musl-libc-issued-for-millions-of-systems-patch-immediately"
+  },
+  "b": {
+    "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+    "lede": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "outlet": "arstechnica",
+    "published": "2026-11-05T23:09:36Z",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  "score": 0.648777
+}

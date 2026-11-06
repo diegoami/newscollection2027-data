@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "182ee85c676e9ee3ca6ba2b71293306fb9f6124a",
+    "lede": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-05T00:25:12Z",
+    "title": "X says its updated web app is way faster",
+    "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"
+  },
+  "b": {
+    "item_id": "37ffed23d5ee54a52137550bb7b012165ce0102c",
+    "lede": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
+    "outlet": "engadget",
+    "published": "2026-11-05T19:52:39Z",
+    "title": "The Xbox PC app is getting a speed boost",
+    "url": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/"
+  },
+  "score": 0.64235
+}

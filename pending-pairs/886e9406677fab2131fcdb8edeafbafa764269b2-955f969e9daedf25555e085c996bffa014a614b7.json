@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "886e9406677fab2131fcdb8edeafbafa764269b2",
+    "lede": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T21:30:30Z",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+  },
+  "b": {
+    "item_id": "955f969e9daedf25555e085c996bffa014a614b7",
+    "lede": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T09:39:54Z",
+    "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/"
+  },
+  "score": 0.615716
+}

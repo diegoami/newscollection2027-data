@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "886e9406677fab2131fcdb8edeafbafa764269b2",
+    "lede": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-05T21:30:30Z",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+  },
+  "b": {
+    "item_id": "d6dd46466a93ebf84ffa398d533dd02ff2b5dc10",
+    "lede": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T15:00:10Z",
+    "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+    "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/"
+  },
+  "score": 0.709786
+}

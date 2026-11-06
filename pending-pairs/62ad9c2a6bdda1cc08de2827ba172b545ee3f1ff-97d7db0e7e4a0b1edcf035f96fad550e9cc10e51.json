@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "62ad9c2a6bdda1cc08de2827ba172b545ee3f1ff",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T12:11:05Z",
+    "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+    "lede": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T00:56:44Z",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+  },
+  "score": 0.578867
+}

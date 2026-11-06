@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+    "lede": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+    "outlet": "theregister",
+    "published": "2026-11-05T18:29:00Z",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+  },
+  "b": {
+    "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+    "lede": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "outlet": "arstechnica",
+    "published": "2026-11-05T23:09:36Z",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  "score": 0.598192
+}
