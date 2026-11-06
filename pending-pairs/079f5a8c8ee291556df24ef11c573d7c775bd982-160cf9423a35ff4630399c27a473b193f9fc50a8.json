@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "079f5a8c8ee291556df24ef11c573d7c775bd982",
+    "lede": "Apple will soon start asking developers to provide more details about their apps to enforce new App Store age rating requirements for dating and location-sharing features. The upcoming content descriptors announced on Monday will require developers to declare if their apps allow users to share their real-world location with others, or include features that enable [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T13:22:38Z",
+    "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+    "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion"
+  },
+  "b": {
+    "item_id": "160cf9423a35ff4630399c27a473b193f9fc50a8",
+    "lede": "\u2018Notify when left behind\u2019 is making its way to Android \u2013 but to limited devices for now.",
+    "outlet": "zdnet",
+    "published": "2026-11-06T17:48:15Z",
+    "title": "Android is getting my favorite iOS tracking feature \u2013 what to expect",
+    "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/"
+  },
+  "score": 0.570856
+}

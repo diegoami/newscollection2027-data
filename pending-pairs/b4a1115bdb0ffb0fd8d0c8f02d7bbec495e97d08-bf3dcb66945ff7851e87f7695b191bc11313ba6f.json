@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b4a1115bdb0ffb0fd8d0c8f02d7bbec495e97d08",
+    "lede": "Under Apple\u2019s new policy, the company will scan publicly shared iCloud links for harmful content \u2013 and possibly ban violators.",
+    "outlet": "zdnet",
+    "published": "2026-11-06T16:21:55Z",
+    "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
+    "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/"
+  },
+  "b": {
+    "item_id": "bf3dcb66945ff7851e87f7695b191bc11313ba6f",
+    "lede": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+    "outlet": "theregister",
+    "published": "2026-11-04T21:49:38Z",
+    "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+    "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681"
+  },
+  "score": 0.712979
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+    "lede": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-03T20:16:17Z",
+    "title": "Apple starts giving Siri AI access to third-party apps",
+    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+  },
+  "b": {
+    "item_id": "52e0623fab799a2104d74285fa23225585c09dd2",
+    "lede": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-06T18:10:10Z",
+    "title": "Meta\u2019s Muse AI can create custom \u2018spaces\u2019 for the version of the app you need right now",
+    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
+  },
+  "score": 0.600628
+}

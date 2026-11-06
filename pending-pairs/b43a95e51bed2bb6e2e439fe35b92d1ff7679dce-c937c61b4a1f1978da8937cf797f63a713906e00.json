@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
+    "lede": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-06T01:02:17Z",
+    "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+  },
+  "b": {
+    "item_id": "c937c61b4a1f1978da8937cf797f63a713906e00",
+    "lede": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-06T17:03:02Z",
+    "title": "AI stocks climb after trillions wiped from market values",
+    "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+  },
+  "score": 0.589846
+}

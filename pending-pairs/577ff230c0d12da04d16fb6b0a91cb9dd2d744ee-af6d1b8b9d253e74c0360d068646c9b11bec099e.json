@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "577ff230c0d12da04d16fb6b0a91cb9dd2d744ee",
+    "lede": "\u201cWe started listening to a lot of our lower-end customers,\" VMware exec says.",
+    "outlet": "arstechnica",
+    "published": "2026-11-04T21:38:49Z",
+    "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+    "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
+  },
+  "b": {
+    "item_id": "af6d1b8b9d253e74c0360d068646c9b11bec099e",
+    "lede": "\u200bVeeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T15:25:31Z",
+    "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+    "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/"
+  },
+  "score": 0.609473
+}

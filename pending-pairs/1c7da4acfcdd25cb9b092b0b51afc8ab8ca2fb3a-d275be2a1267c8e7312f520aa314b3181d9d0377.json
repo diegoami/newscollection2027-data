@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c7da4acfcdd25cb9b092b0b51afc8ab8ca2fb3a",
+    "lede": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "outlet": "techcrunch",
+    "published": "2026-11-05T01:26:22Z",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+  },
+  "b": {
+    "item_id": "d275be2a1267c8e7312f520aa314b3181d9d0377",
+    "lede": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "outlet": "techcrunch",
+    "published": "2026-11-06T15:54:47Z",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  },
+  "score": 0.621387
+}

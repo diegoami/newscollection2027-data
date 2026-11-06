@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11d1ff5598120b9ec0ff343020eb6a1a38a26a3a",
+    "lede": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
+    "outlet": "zdnet",
+    "published": "2026-11-03T17:30:50Z",
+    "title": "Nvidia RTX 50 GPUs hit with more price hikes \u2013 up to $500",
+    "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/"
+  },
+  "b": {
+    "item_id": "d148be8030c143e026c74752f8cdfb910067cb68",
+    "lede": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T13:35:16Z",
+    "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+    "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears"
+  },
+  "score": 0.650355
+}

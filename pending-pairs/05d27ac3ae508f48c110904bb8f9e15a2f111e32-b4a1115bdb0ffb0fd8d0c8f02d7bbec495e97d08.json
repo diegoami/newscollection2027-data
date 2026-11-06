@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "05d27ac3ae508f48c110904bb8f9e15a2f111e32",
+    "lede": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in version 27.3 or later of iOS, iPadOS, macOS, and visionOS, that [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-04T18:23:37Z",
+    "title": "Apple will check shared iCloud links for \u2018harmful content\u2019",
+    "url": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3"
+  },
+  "b": {
+    "item_id": "b4a1115bdb0ffb0fd8d0c8f02d7bbec495e97d08",
+    "lede": "Under Apple\u2019s new policy, the company will scan publicly shared iCloud links for harmful content \u2013 and possibly ban violators.",
+    "outlet": "zdnet",
+    "published": "2026-11-06T16:21:55Z",
+    "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
+    "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/"
+  },
+  "score": 0.791313
+}

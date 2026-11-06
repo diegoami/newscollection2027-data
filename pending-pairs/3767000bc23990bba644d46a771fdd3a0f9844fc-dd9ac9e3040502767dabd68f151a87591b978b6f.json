@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3767000bc23990bba644d46a771fdd3a0f9844fc",
+    "lede": "Nvidia has told cloud providers who use its data center products that they must sell less than half of their services to Chinese companies as part of a new policy that will further impact China's ability to keep up with the global AI surge.",
+    "outlet": "tomshardware",
+    "published": "2026-11-03T13:31:11Z",
+    "title": "Nvidia tells data center operators to limit business from Chinese customers with new global restrictions, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-tells-data-center-operators-to-limit-business-from-chinese-customers-with-new-global-restrictions-report-claims-allegedly-restricted-to-49-percent-of-the-total-ensuring-51-percent-are-non-chinese-outfits"
+  },
+  "b": {
+    "item_id": "dd9ac9e3040502767dabd68f151a87591b978b6f",
+    "lede": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the challenges of enforcing U.S. export",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T13:49:33Z",
+    "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status"
+  },
+  "score": 0.641734
+}

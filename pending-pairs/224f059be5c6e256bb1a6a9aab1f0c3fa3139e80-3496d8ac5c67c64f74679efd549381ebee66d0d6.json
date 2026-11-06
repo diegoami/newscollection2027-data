@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224f059be5c6e256bb1a6a9aab1f0c3fa3139e80",
+    "lede": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T13:59:09Z",
+    "title": "Protesters storm Microsoft AI data center construction site",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+  },
+  "b": {
+    "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+    "lede": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known",
+    "outlet": "theregister",
+    "published": "2026-11-05T13:29:00Z",
+    "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
+    "url": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790"
+  },
+  "score": 0.614682
+}
