@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-05-3a8ddf",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Google, Meta and TikTok sue California over teen social media law",
+  "summary": "Google, Meta and TikTok are suing to block a California law, Assembly Bill 1709, that would require platforms to remove psychologically exploitative features and, if it takes effect next year, restrict social media access for children under 16.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google, Meta and TikTok are suing to block a California social media law aimed at protecting kids.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c3f680f80a1d1e82dd95685de20ed6e8b1c28c49",
+          "quote": "Google, Meta and TikTok are all suing California to block social media law intended to help kids"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "fb3e595a55ebe30c3a74cd5cd006b50b4908f884",
+          "quote": "Meta, Google, and TikTok sue California AG over teen social media law"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The law, Assembly Bill 1709, would require platforms to remove psychologically exploitative features.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c3f680f80a1d1e82dd95685de20ed6e8b1c28c49",
+          "quote": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\""
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "If it takes effect next year, the law would restrict social media access for children under 16.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "fb3e595a55ebe30c3a74cd5cd006b50b4908f884",
+          "quote": "If it goes into effect next year, this California law would restrict social media access for children under 16."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

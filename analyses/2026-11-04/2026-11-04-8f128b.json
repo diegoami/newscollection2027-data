@@ -1,1 +1,118 @@
-{"cluster_id": "2026-11-04-8f128b", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-05T02:30:00Z", "headline": "Musk's hundreds of millions in midterm spending mostly backed losing races", "summary": "Elon Musk poured large sums into the 2026 Republican midterm push, including $47 million from his PAC to Ken Paxton's losing Texas campaign, but most of the money went to candidates who lost. Wired puts his total midterm spending at $400 million, while Engadget reports it was nearly $500 million.", "claims": [{"id": "c1", "statement": "Musk spent heavily funding Republican midterm campaigns, but most of the money went to losing races.", "sources": [{"outlet": "wired", "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db", "quote": "Voters Set $400 Million of Elon Musk’s Money on Fire"}, {"outlet": "bbc-technology", "item_id": "c6f96d4d723ddd380e31216d43f609745aaaaf3f", "quote": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms"}]}, {"id": "c2", "statement": "Musk's PAC contributed $47 million to Ken Paxton's Texas campaign, which lost.", "sources": [{"outlet": "bbc-technology", "item_id": "c6f96d4d723ddd380e31216d43f609745aaaaf3f", "quote": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign."}]}, {"id": "c3", "statement": "Engadget says Musk spent nearly $500 million on the midterms overall.", "sources": [{"outlet": "engadget", "item_id": "b15129ba0c5157b94240a8b3e6963853613b7f52", "quote": "Elon Musk spent nearly $500 million on the midterms and lost big-time"}]}, {"id": "c4", "statement": "Wired puts Musk's total midterm funding at $400 million.", "sources": [{"outlet": "wired", "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db", "quote": "Voters Set $400 Million of Elon Musk’s Money on Fire"}]}], "discrepancies": [{"kind": "number", "severity": "high", "claim_ids": ["c1"], "explanation": "Wired reports Musk put $400 million into the midterms, while Engadget reports he spent nearly $500 million.", "quotes": [{"outlet": "wired", "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db", "quote": "Voters Set $400 Million of Elon Musk’s Money on Fire"}, {"outlet": "engadget", "item_id": "b15129ba0c5157b94240a8b3e6963853613b7f52", "quote": "Elon Musk spent nearly $500 million on the midterms and lost big-time"}]}], "agreement": "conflicting"}
+{
+  "cluster_id": "2026-11-04-8f128b",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Outlets differ on how much Musk spent on the midterms, agree he lost",
+  "summary": "Elon Musk poured enormous sums, reported variously as $400 million, nearly $500 million and $446 million, into the 2026 US midterms through PACs, but outlets agree his candidates largely lost, including every Senate race his America PAC spent most on. In Texas specifically, his PAC's $47 million for Ken Paxton's campaign also failed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Musk spent a huge sum backing Republicans in the 2026 midterms through PACs.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db",
+          "quote": "$400 Million of Elon Musk’s Money"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b15129ba0c5157b94240a8b3e6963853613b7f52",
+          "quote": "nearly $500 million"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "536c75ac15737ad9f2ba75b89815aff8198d37af",
+          "quote": "poured $446m into campaigns for failed Republican candidates"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "ffa18a411454be41563c1c90922ae0e1e4bb2532",
+          "quote": "poured a staggering $446m dollars into Republican-aligned political action committees"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Despite the spending, Musk-backed candidates largely lost.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b15129ba0c5157b94240a8b3e6963853613b7f52",
+          "quote": "lost big-time"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "536c75ac15737ad9f2ba75b89815aff8198d37af",
+          "quote": "was a flop"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db",
+          "quote": "more than 99 cents went to a race he lost"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "ffa18a411454be41563c1c90922ae0e1e4bb2532",
+          "quote": "but his efforts didn’t pay off"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Democrats won every Senate race where Musk's America PAC spent the most.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "ffa18a411454be41563c1c90922ae0e1e4bb2532",
+          "quote": "Democrats won every one of the five Senate races where Musk’s America Pac spent the most money backing Republican"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "In Texas, Musk's PAC spent $47 million backing Ken Paxton's campaign, which failed.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "c6f96d4d723ddd380e31216d43f609745aaaaf3f",
+          "quote": "fail to deliver Texas for the Republicans"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "c6f96d4d723ddd380e31216d43f609745aaaaf3f",
+          "quote": "contributed $47m (£35m) to Ken Paxton's campaign."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Outlets report different total figures for Musk's midterm spending: $400 million, nearly $500 million, and $446 million.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "4a807ce57f7a263926d90dd8d09a549bb388c1db",
+          "quote": "$400 Million of Elon Musk’s Money"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b15129ba0c5157b94240a8b3e6963853613b7f52",
+          "quote": "nearly $500 million"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "536c75ac15737ad9f2ba75b89815aff8198d37af",
+          "quote": "$446m into campaigns for failed Republican candidates"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "956cb223c580c4f0e9ff999ea6776f9f0ff62380",
+  "id": "2026-11-05-fb4670",
+  "items": [
+    {
+      "item_id": "956cb223c580c4f0e9ff999ea6776f9f0ff62380",
+      "lede": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "outlet": "techcrunch",
+      "published": "2026-11-05T12:00:00Z",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+    },
+    {
+      "item_id": "f050bc895e36e285bd8b5173ba4f6c7203941551",
+      "lede": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "outlet": "arstechnica",
+      "published": "2026-11-05T12:00:41Z",
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

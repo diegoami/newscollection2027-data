@@ -1,0 +1,77 @@
+{
+  "cluster_id": "2026-11-05-d2664f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "New OpenSSH and musl flaw lets attackers bypass Linux passwords",
+  "summary": "A newly disclosed vulnerability nicknamed sshole combines flaws in OpenSSH and musl-libc, letting attackers bypass password authentication on Alpine Linux and possibly other musl-based distros by entering an overly long password, over 256 characters per Tom's Hardware. The Register calls the underlying OpenSSH bug decade-old and now fixed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A vulnerability nicknamed sshole combines OpenSSH and musl-libc flaws to bypass password authentication on Alpine Linux and possibly other distros.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
+          "quote": "OpenSSH flaw lets attackers log into password-disabled Linux accounts"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
+          "quote": "*sshole"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+          "quote": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The exploit works by entering an overly long password, over 256 characters per Tom's Hardware.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
+          "quote": "simply by entering an oversized password"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
+          "quote": "by typing anything over 256 characters as a password"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+          "quote": "by slamming it with an overly long password"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Register describes the underlying OpenSSH vulnerability as decade-old and now fixed.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+          "quote": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Other distros beyond Alpine may also be affected.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+          "quote": "Certain configurations of Alpine are affected. Other distros may be as well."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

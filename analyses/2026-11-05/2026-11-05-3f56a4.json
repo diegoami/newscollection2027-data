@@ -1,0 +1,88 @@
+{
+  "cluster_id": "2026-11-05-3f56a4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Reviews split on how notable the new M6 MacBook Pro is",
+  "summary": "Both reviews cover Apple's 14-inch MacBook Pro with its new M6 chip. Engadget calls the update only a slight upgrade and more of the same, while Tom's Hardware frames the speedy new M6 chip and N1 Wi-Fi 7 chip more positively.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Both reviews cover the 14-inch MacBook Pro with Apple's new M6 chip.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
+          "quote": "MacBook Pro M6 review"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "Apple MacBook Pro (14-inch, M6) review"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "brings its powerful M6 chip"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Engadget frames the update as only a slight, incremental upgrade.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
+          "quote": "A slight upgrade, but still the most accessible MacBook Pro"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
+          "quote": "The M6 MacBook Pro is more of the same, but that's still pretty great."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tom's Hardware highlights the M6 chip's speed and a new N1 Wi-Fi 7 chip.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "Speedy M6 chip slips into comfortable shoes"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "N1 Wi-Fi 7 chip to the MacBook Pro."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Engadget frames the update as a slight, incremental change, while Tom's Hardware frames the same chip update around its speed.",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
+          "quote": "A slight upgrade, but still the most accessible MacBook Pro"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "Speedy M6 chip slips into comfortable shoes"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

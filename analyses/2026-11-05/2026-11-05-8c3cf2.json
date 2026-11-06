@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-05-8c3cf2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Activists plan Europe-wide protests against data centers",
+  "summary": "More than 100 campaign groups across 15 countries are organizing days of protest against data center construction this week, demanding a building moratorium. The Register links the movement to the momentum curbing compute farms gained in the recent US midterm elections.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Activist groups are planning Europe-wide protests against data centers this week.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "371db9293d0682b72552fae74373f0bbbac7e63b",
+          "quote": "Activists across Europe prepare two days of protests against datacentres"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+          "quote": "Europe-wide protests planned demanding building moratorium"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "More than 100 groups across 15 countries are involved, demanding a moratorium on data center construction.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "371db9293d0682b72552fae74373f0bbbac7e63b",
+          "quote": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+          "quote": "demanding building moratorium"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The protests follow momentum against data centers seen in the recent US midterm elections.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+          "quote": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

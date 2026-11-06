@@ -1,0 +1,40 @@
+{
+  "anchor": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+  "id": "2026-11-05-128980",
+  "items": [
+    {
+      "item_id": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+      "lede": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "outlet": "techcrunch",
+      "published": "2026-11-05T18:00:00Z",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+      "item_id": "c29370db196c1cb53177d8ebc5e50a59e6dd2805",
+      "lede": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+      "outlet": "zdnet",
+      "published": "2026-11-05T18:00:00Z",
+      "title": "Claude\u2019s new Personal Finance tool aims to help analyze your spending \u2013 read-only, of course",
+      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+    },
+    {
+      "item_id": "d011903f87e2f6cc3c359463b511d8c4950a258b",
+      "lede": "But just like with ChatGPT, should you?",
+      "outlet": "engadget",
+      "published": "2026-11-05T18:00:00Z",
+      "title": "Now Claude can help with your finances too",
+      "url": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/"
+    },
+    {
+      "item_id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+      "lede": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-05T18:00:00Z",
+      "title": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

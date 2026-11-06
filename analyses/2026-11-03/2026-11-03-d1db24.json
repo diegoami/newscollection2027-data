@@ -1,1 +1,99 @@
-{"cluster_id": "2026-11-03-d1db24", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-05T02:30:00Z", "headline": "Google says schools that disable its AI tools will lose Search access", "summary": "Google announced that schools choosing to turn off its AI tools will also lose access to Google Search, because AI features are now built into the search engine. TechCrunch and Engadget describe this as a tradeoff schools must accept, while Wired frames it as Google forcing AI Overviews into classrooms over objections from parents and educators.", "claims": [{"id": "c1", "statement": "Google announced that schools disabling its AI tools will lose access to Google Search, since AI is now integrated into the search engine.", "sources": [{"outlet": "techcrunch", "item_id": "410d5c941f71a7aa107c2031f770109df541a44b", "quote": "Google will let schools disable its AI tools, but not without sacrificing Search"}, {"outlet": "engadget", "item_id": "fe68d0a4c1042b229efa261682b1afd23088536a", "quote": "Google says students in schools that ban AI won't have access to Search"}, {"outlet": "theguardian", "item_id": "015960caa3ded74cccf39818293f00633a78be8d", "quote": "Google says there’s no way to use Search without using artificial intelligence"}]}, {"id": "c2", "statement": "Ars Technica frames the policy as Google offering schools AI tools that purportedly don't give away the answers.", "sources": [{"outlet": "arstechnica", "item_id": "b121628aeba070c8bf7f7e10167becfae8abf8f1", "quote": "Google will offer schools AI tools that purportedly don't give away the answers."}]}, {"id": "c3", "statement": "Wired frames the policy as Google forcing AI Overviews into classrooms, angering parents and educators.", "sources": [{"outlet": "wired", "item_id": "d6e23a6b838c0a53dba7440e845e236e481ae561", "quote": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out"}, {"outlet": "wired", "item_id": "d6e23a6b838c0a53dba7440e845e236e481ae561", "quote": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable."}]}], "discrepancies": [{"kind": "framing", "severity": "medium", "claim_ids": ["c1", "c3"], "explanation": "TechCrunch frames Google's policy as schools choosing to disable AI tools, while Wired frames it as Google forcing AI Overviews on classrooms against parents' and educators' objections.", "quotes": [{"outlet": "techcrunch", "item_id": "410d5c941f71a7aa107c2031f770109df541a44b", "quote": "Google will let schools disable its AI tools, but not without sacrificing Search"}, {"outlet": "wired", "item_id": "d6e23a6b838c0a53dba7440e845e236e481ae561", "quote": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out"}]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-11-03-d1db24",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:24:29Z",
+  "headline": "Google ties school Search access to accepting its AI tools",
+  "summary": "Google announced new AI products for schools that let them disable some AI tools, such as Gemini, but schools that reject AI altogether lose access to Google Search, since AI is now built into the search engine. Outlets differ on how optional the AI really is, and Wired reports parents and educators worry it hurts children's learning.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google announced new AI products for schools, letting them skip some AI tools but not remove AI from Search.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "410d5c941f71a7aa107c2031f770109df541a44b",
+          "quote": "Google will let schools disable its AI tools, but not without sacrificing Search"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "b121628aeba070c8bf7f7e10167becfae8abf8f1",
+          "quote": "Google will let schools skip AI tools, but they have to give up search, too"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "015960caa3ded74cccf39818293f00633a78be8d",
+          "quote": "The search giant announced a slate of new AI products for classrooms and schools on Tuesday"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Schools that ban AI entirely will lose access to Google Search.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "410d5c941f71a7aa107c2031f770109df541a44b",
+          "quote": "Schools choosing to restrict AI altogether will no longer be able to access Google Search"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "fe68d0a4c1042b229efa261682b1afd23088536a",
+          "quote": "Google says students in schools that ban AI won't have access to Search"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "AI remains built into Search itself even though schools can specifically skip Gemini.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "8fdd6a5d2137a4084f265373a89ec6020998a1e1",
+          "quote": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "015960caa3ded74cccf39818293f00633a78be8d",
+          "quote": "Google says there’s no way to use Search without using artificial intelligence"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Wired reports parents and educators worry the policy leaves children less capable.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "d6e23a6b838c0a53dba7440e845e236e481ae561",
+          "quote": "angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "Early coverage described the AI/Search tie-up in neutral, technical terms, while later reporting frames the same policy more skeptically, as choice in name only.",
+      "claim_ids": [
+        "c1",
+        "c3"
+      ],
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "410d5c941f71a7aa107c2031f770109df541a44b",
+          "quote": "as AI features are now integrated into the search engine."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "8fdd6a5d2137a4084f265373a89ec6020998a1e1",
+          "quote": "Google is technically offering schools more choice but not the choices anyone wants."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

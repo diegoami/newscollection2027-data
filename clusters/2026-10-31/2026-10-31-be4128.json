@@ -33,8 +33,16 @@
       "published": "2026-11-02T18:56:02Z",
       "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+    },
+    {
+      "item_id": "879585371e671721521cc3998a063f5f0ac762dc",
+      "lede": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
+      "outlet": "tomshardware",
+      "published": "2026-11-05T11:00:00Z",
+      "title": "Anthropic loosens Claude's game cloning ban",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

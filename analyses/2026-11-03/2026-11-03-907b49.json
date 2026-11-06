@@ -1,1 +1,72 @@
-{"cluster_id": "2026-11-03-907b49", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-05T02:30:00Z", "headline": "Apple rolls out Siri AI integration with third-party apps in iOS 27.3", "summary": "Apple has begun letting Siri AI perform actions inside third-party apps as part of the iOS 27.3 rollout, giving developers access to features like personal context and on-screen awareness. The Register notes Apple first promised this kind of third-party Siri integration more than two years earlier, in 2024.", "claims": [{"id": "c1", "statement": "Apple is rolling out Siri AI integration with third-party apps as part of iOS 27.3.", "sources": [{"outlet": "theverge", "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542", "quote": "Apple starts giving Siri AI access to third-party apps"}, {"outlet": "theregister", "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e", "quote": "Apple lets developers test Siri AI app integration"}]}, {"id": "c2", "statement": "The Register notes Apple had promised this third-party Siri integration more than two years earlier.", "sources": [{"outlet": "theregister", "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e", "quote": "Hey, Siri: Plug into my app like you said you'd do way back in 2024"}]}], "discrepancies": [{"kind": "framing", "severity": "low", "claim_ids": ["c1"], "explanation": "The Register frames the rollout as years overdue on a prior promise, while the Verge presents it simply as Apple's new feature rollout.", "quotes": [{"outlet": "theverge", "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542", "quote": "Apple starts giving Siri AI access to third-party apps"}, {"outlet": "theregister", "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e", "quote": "Hey, Siri: Plug into my app like you said you'd do way back in 2024"}]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-11-03-907b49",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Apple opens Siri AI to third-party apps and ends beta waitlist",
+  "summary": "Apple rolled out Siri AI integration with third-party apps as part of an iOS 27 update, letting the assistant draw on personal context and on-screen awareness in developer-tested apps. The Register notes Apple had promised this more than two years earlier, and ZDNet reports the Siri AI beta waitlist has now ended for users.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is rolling out Siri AI integration with third-party apps as part of iOS 27.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+          "quote": "Apple starts giving Siri AI access to third-party apps"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
+          "quote": "Apple lets developers test Siri AI app integration"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The feature was promised roughly two years earlier and is only now shipping.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
+          "quote": "like you said you'd do way back in 2024"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "abdc6067e0e78142ae8c8fdf5e1b58a3e72c1b8e",
+          "quote": "More than two years after promising it"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Siri AI beta waitlist has ended, letting users try it directly.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "2cbf6acca69f3cf9bc6c316433225523f0c122a8",
+          "quote": "The Siri AI waitlist is gone in iOS 27"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "2cbf6acca69f3cf9bc6c316433225523f0c122a8",
+          "quote": "The wait is over for trying Siri AI on iOS 27."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The update lets Siri draw on a user's personal context and on-screen awareness.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "49792679d79fe36cfcefee8c6f3cff969467f542",
+          "quote": "allowing the voice assistant to draw on a user's personal context"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

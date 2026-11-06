@@ -1,0 +1,88 @@
+{
+  "cluster_id": "2026-11-05-f995ec",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Meta adds real-time voice and video chat to Muse AI avatar",
+  "summary": "Meta rolled out real-time voice and video chat with its Muse AI avatar, announced by CEO Mark Zuckerberg, with TechCrunch reporting the customizable avatar can take video calls ahead of a wearable device launch. The Verge describes it as a voice mode, while TechCrunch frames it as video chat.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta added real-time voice and video chat capability to its Muse AI agent.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+          "quote": "Muse has a voice mode now"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+          "quote": "Meta now lets you have voice conversations with your Muse AI agent in real time"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "9d6202c03434e451435a6d69a0d970de47f1bff0",
+          "quote": "Meta says US users can now video chat with their Muse AI avatar"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "CEO Mark Zuckerberg announced the feature.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+          "quote": "CEO Mark Zuckerberg announced today"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The avatar is customizable and the feature precedes a Tamagotchi-like wearable device for Muse.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "9d6202c03434e451435a6d69a0d970de47f1bff0",
+          "quote": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "TechCrunch specifies the rollout is for US users.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "9d6202c03434e451435a6d69a0d970de47f1bff0",
+          "quote": "Meta says US users can now video chat with their Muse AI avatar"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "The Verge describes the update as a voice mode, while TechCrunch frames it as video chat with an animated avatar.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "c6134d61030c25d12108c1db8331d0ab72d8b866",
+          "quote": "Muse has a voice mode now"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "9d6202c03434e451435a6d69a0d970de47f1bff0",
+          "quote": "Meta says US users can now video chat with their Muse AI avatar"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

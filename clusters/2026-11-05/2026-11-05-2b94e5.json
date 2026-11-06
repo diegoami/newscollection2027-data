@@ -1,0 +1,24 @@
+{
+  "anchor": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+  "id": "2026-11-05-2b94e5",
+  "items": [
+    {
+      "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+      "lede": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
+      "outlet": "engadget",
+      "published": "2026-11-05T12:37:38Z",
+      "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+      "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/"
+    },
+    {
+      "item_id": "85f398082dadd860b70c3337edfbe98b15702360",
+      "lede": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-06T00:37:56Z",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -41,8 +41,16 @@
       "published": "2026-11-04T20:06:21Z",
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+    },
+    {
+      "item_id": "8fdd6a5d2137a4084f265373a89ec6020998a1e1",
+      "lede": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "outlet": "arstechnica",
+      "published": "2026-11-05T21:40:36Z",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

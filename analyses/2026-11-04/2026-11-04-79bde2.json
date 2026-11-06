@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-04-79bde2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "New Bluetooth spec promises faster, easier-to-set-up devices",
+  "summary": "A new Bluetooth specification is rolling out that outlets say will make a wide range of wireless devices faster and easier to use, including smart home devices, beyond just lossless audio improvements.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A new Bluetooth specification is rolling out with speed improvements.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b",
+          "quote": "Bluetooth is going to get a lot faster in 2027"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638",
+          "quote": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The update benefits a wide range of wireless devices, including smart home devices.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b",
+          "quote": "will benefit a wide range of wireless devices and how they communicate."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638",
+          "quote": "Bluetooth 7 could make your smart home devices easier to set up"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

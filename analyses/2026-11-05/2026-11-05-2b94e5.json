@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-11-05-2b94e5",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "OpenAI drops NDAs, pledges to protect data center communities",
+  "summary": "OpenAI announced new commitments to communities near its data center projects, including protecting local resources, reporting impact, and no longer using non-disclosure agreements with public officials. The Verge ties the move to this week's midterms, where voters opposed data center expansion, while Engadget notes OpenAI says the pledges predate that vote.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI announced new commitments to communities near its data center projects, including protecting local resources and reporting impact.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+          "quote": "OpenAI says it will protect local resources and report on the impact of its data centers"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "OpenAI will stop using NDAs with public officials over data center projects.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "85f398082dadd860b70c3337edfbe98b15702360",
+          "quote": "OpenAI is stepping back from NDAs for data center projects"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "85f398082dadd860b70c3337edfbe98b15702360",
+          "quote": "including that it won't use non-disclosure agreements (NDAs) with public officials"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The announcement follows the midterms, where voters opposed data center expansion.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "85f398082dadd860b70c3337edfbe98b15702360",
+          "quote": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "OpenAI says the pledges were already in the works before the midterm vote.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+          "quote": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "Engadget attributes to OpenAI the claim that the pledges predate the midterm backlash, while The Verge frames the announcement as following directly from the midterms' opposition.",
+      "claim_ids": [
+        "c3",
+        "c4"
+      ],
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "e2fa2e072ae5c997baf15f662a58fbaf924bffe2",
+          "quote": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "85f398082dadd860b70c3337edfbe98b15702360",
+          "quote": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

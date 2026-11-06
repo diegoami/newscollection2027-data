@@ -1,0 +1,24 @@
+{
+  "anchor": "6d5fa63d11106a96ae91236a028c868b118dca7b",
+  "id": "2026-11-04-79bde2",
+  "items": [
+    {
+      "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b",
+      "lede": "Bluetooth HDT's rollout will benefit a wide range of wireless devices and how they communicate.",
+      "outlet": "engadget",
+      "published": "2026-11-04T17:14:21Z",
+      "title": "Bluetooth is going to get a lot faster in 2027",
+      "url": "https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027/"
+    },
+    {
+      "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638",
+      "lede": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here\u2019s what we know about the new core specification.",
+      "outlet": "zdnet",
+      "published": "2026-11-05T17:46:35Z",
+      "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+      "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

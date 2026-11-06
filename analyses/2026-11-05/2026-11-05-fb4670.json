@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-05-fb4670",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Agility Robotics goes public on the Nasdaq",
+  "summary": "Agility Robotics began trading on the Nasdaq as the first publicly traded pure-play humanoid robotics company. Ars Technica frames the debut as inviting scrutiny of the broader humanoid robot market, describing Agility as a US leader in deploying the machines.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Agility Robotics went public on the Nasdaq as the first pure-play humanoid robotics company to do so.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "956cb223c580c4f0e9ff999ea6776f9f0ff62380",
+          "quote": "Agility is the first pure humanoid robot company on the stock market"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "956cb223c580c4f0e9ff999ea6776f9f0ff62380",
+          "quote": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "f050bc895e36e285bd8b5173ba4f6c7203941551",
+          "quote": "goes public on the Nasdaq stock exchange."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ars Technica frames the listing as inviting scrutiny of the humanoid robot market generally.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "f050bc895e36e285bd8b5173ba4f6c7203941551",
+          "quote": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Agility is described as a US leader in deploying humanoid robots.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "f050bc895e36e285bd8b5173ba4f6c7203941551",
+          "quote": "US leader in deploying humanoid robots"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

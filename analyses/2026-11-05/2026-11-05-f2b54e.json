@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-05-f2b54e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Blue Origin's next New Glenn launch delayed into 2027",
+  "summary": "Blue Origin's next New Glenn rocket launch has slipped to January 2027, according to a staff memo from CEO Dave Limp, after a May launchpad explosion damaged the launch site and slowed repairs.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Blue Origin's next New Glenn rocket launch has been delayed into 2027.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+          "quote": "Blue Origin’s next launch now won’t happen until 2027"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ff449e3a56e2894218fe53e3aa921f42149b85fb",
+          "quote": "Blue Origin's New Glenn launch delay will continue into 2027"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new target launch date is January 2027, per a staff memo from CEO Dave Limp.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+          "quote": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The delay follows a May launchpad explosion that damaged the New Glenn launchpad.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+          "quote": "The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ff449e3a56e2894218fe53e3aa921f42149b85fb",
+          "quote": "Repairs have been slow after an explosion earlier this year."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

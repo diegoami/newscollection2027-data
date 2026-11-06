@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-05-04260f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Tech stocks tumble after midterms on AI regulation fears",
+  "summary": "Major tech stocks fell sharply after the US midterm elections, with the Nasdaq on track for its worst day in 18 months, down as much as 5%, on fears the AI industry and data center construction will face tougher regulation and scrutiny.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Major tech stocks fell sharply following the US midterm election results.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
+          "quote": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
+          "quote": "Major tech stocks plunge as US midterms add to fears of AI slowdown"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Nasdaq was on track for its worst day in 18 months, down as much as 5% on Thursday.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
+          "quote": "Nasdaq heading for its worst day in 18 months"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
+          "quote": "after slumping by up to 5% on Thursday"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The selloff reflects fears of tougher regulation and scrutiny of the AI industry and data centers after the midterms.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
+          "quote": "amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
+          "quote": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

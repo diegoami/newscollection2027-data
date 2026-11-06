@@ -25,8 +25,32 @@
       "published": "2026-11-04T17:01:10Z",
       "title": "Elon Musk spent nearly $500 million on the midterms and lost big-time",
       "url": "https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime/"
+    },
+    {
+      "item_id": "536c75ac15737ad9f2ba75b89815aff8198d37af",
+      "lede": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to",
+      "outlet": "theguardian",
+      "published": "2026-11-05T02:00:50Z",
+      "title": "Elon Musk\u2019s nearly half a billion dollars in midterms spending was a flop",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis"
+    },
+    {
+      "item_id": "ffa18a411454be41563c1c90922ae0e1e4bb2532",
+      "lede": "The tech industry spent big on the midterms, but it turned out to be a poor investment. Elon Musk poured a staggering $446m dollars into Republican-aligned political action committees (Pacs) and groups since last year, but his efforts didn\u2019t pay off. Democrats won every one of the five Senate races where Musk\u2019s America Pac spent the most money backing Republican",
+      "outlet": "theguardian",
+      "published": "2026-11-05T11:00:23Z",
+      "title": "Was Elon Musk the US midterms' biggest loser? \u2013 Stateside with Kai and Carter",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter"
+    },
+    {
+      "item_id": "53b1318eae86f26bf4896fec08bd209fa3f7fe02",
+      "lede": "This week on \u201cUncanny Valley,\u201d we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+      "outlet": "wired",
+      "published": "2026-11-05T22:18:42Z",
+      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-05-454a5f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Sony revives its classic 1979 Walkman headphone design",
+  "summary": "Sony is reviving its original Walkman-era headphone design, dating to 1979, in the new MDR-3R model, which adds USB-C and comes with orange ear cushions.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Sony is reviving its classic 1979 headphone design in the new MDR-3R.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "8757617f6419a5a9efc5364f874811ff1aa9bcab",
+          "quote": "Sony's MDR-3R wired headphones are steeped in retro aesthetics"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8757617f6419a5a9efc5364f874811ff1aa9bcab",
+          "quote": "Sony has refreshed a headphone design that dates back to 1979."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "b6411ac47a803928f00d79882026fd55c3b49d1e",
+          "quote": "Sony revives the original Walkman headphones"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new version adds USB-C.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "b6411ac47a803928f00d79882026fd55c3b49d1e",
+          "quote": "adds USB-C"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The headphones include orange ear cushions.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "b6411ac47a803928f00d79882026fd55c3b49d1e",
+          "quote": "Orange ear cushions included."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

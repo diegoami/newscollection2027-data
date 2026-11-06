@@ -33,8 +33,16 @@
       "published": "2026-11-04T18:02:56Z",
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/"
+    },
+    {
+      "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+      "lede": "Following the string of cyberattacks on supermarket freezers, blood banks in France were recently attacked. Luckily, no biomaterial was lost as the attack triggered the EFS' alerts.",
+      "outlet": "tomshardware",
+      "published": "2026-11-05T12:00:00Z",
+      "title": "Hackers target French blood service fridges following supermarket attacks",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/blood-banks-in-france-hit-by-temperature-raising-attacks-on-fridges-purported-hackers-claim-attacks-are-about-cybersecurity-not-malice"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

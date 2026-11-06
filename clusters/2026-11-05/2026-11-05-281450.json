@@ -1,0 +1,24 @@
+{
+  "anchor": "7587b1572e755f0ae4b63342927643633a4b16cf",
+  "id": "2026-11-05-281450",
+  "items": [
+    {
+      "item_id": "7587b1572e755f0ae4b63342927643633a4b16cf",
+      "lede": "The startup Aina bets you won\u2019t need to rely on your phone to control virtual assistants. It\u2019s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+      "outlet": "wired",
+      "published": "2026-11-05T14:00:00Z",
+      "title": "Exclusive: Aina\u2019s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/"
+    },
+    {
+      "item_id": "0f2052ea73f7a4c11ac6c2904d4be5cb1bbb4bf5",
+      "lede": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "outlet": "techcrunch",
+      "published": "2026-11-05T14:42:00Z",
+      "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

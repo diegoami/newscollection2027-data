@@ -1,0 +1,32 @@
+{
+  "anchor": "b3db1a25757bafb3cc1bdcdf968536b1a013e0c4",
+  "id": "2026-11-05-9b3e1b",
+  "items": [
+    {
+      "item_id": "b3db1a25757bafb3cc1bdcdf968536b1a013e0c4",
+      "lede": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+      "outlet": "techcrunch",
+      "published": "2026-11-05T15:33:58Z",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/"
+    },
+    {
+      "item_id": "4024dd001f5830bcd6ed8c92fdb5ed965d61cc92",
+      "lede": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired by your interests - LIVE streams & short videos to see products in action - App-only deals, free shipping [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-05T17:27:36Z",
+      "title": "TikTok launched a dedicated TikTok Shop app",
+      "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app"
+    },
+    {
+      "item_id": "69c7ee356e331310df2581a4ff3e7154f29bffb6",
+      "lede": "It offers exclusive deals and other goodies.",
+      "outlet": "engadget",
+      "published": "2026-11-05T19:58:23Z",
+      "title": "TikTok just released a standalone Shop app, but it's not in America just yet",
+      "url": "https://www.engadget.com/2308419/tiktok-just-released-a-standalone-shop-app-but-its-not-in-america-just-yet/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

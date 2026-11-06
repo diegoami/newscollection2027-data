@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-11-05-281450",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Startup Aina unveils a smart ring to control AI agents",
+  "summary": "Startup Aina is launching a smart ring that lets users control AI agents with a tap, without needing a phone. The ring includes a screen, joystick and microphone, and can also take calls and help dictate notes on a Mac.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Aina is launching a smart ring designed to control AI agents.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "7587b1572e755f0ae4b63342927643633a4b16cf",
+          "quote": "Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "0f2052ea73f7a4c11ac6c2904d4be5cb1bbb4bf5",
+          "quote": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The ring lets users control AI agent actions with one tap, without needing a phone.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "7587b1572e755f0ae4b63342927643633a4b16cf",
+          "quote": "lets you control the actions of your autonomous agents with one tap"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "7587b1572e755f0ae4b63342927643633a4b16cf",
+          "quote": "won’t need to rely on your phone to control virtual assistants"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The ring includes a screen, joystick, and microphone.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0f2052ea73f7a4c11ac6c2904d4be5cb1bbb4bf5",
+          "quote": "has a screen, a joystick, and a mic"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The ring can also take calls and help dictate notes on a Mac.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "0f2052ea73f7a4c11ac6c2904d4be5cb1bbb4bf5",
+          "quote": "Aina's ring can also take calls and help you dictate notes on your Mac."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

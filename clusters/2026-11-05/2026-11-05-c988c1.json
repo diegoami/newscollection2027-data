@@ -1,0 +1,32 @@
+{
+  "anchor": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+  "id": "2026-11-05-c988c1",
+  "items": [
+    {
+      "item_id": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+      "lede": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display\u2014and an equally eye-popping price.",
+      "outlet": "wired",
+      "published": "2026-11-05T14:00:00Z",
+      "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+      "url": "https://www.wired.com/review/apple-macbook-pro-oled-2026/"
+    },
+    {
+      "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+      "lede": "Apple's MacBook Pro with PROLED Display has lots of small tweaks that make it a major upgrade, including a lighter weight and touch functionality, but it's exceptionally expensive and out of reach for many.",
+      "outlet": "tomshardware",
+      "published": "2026-11-05T14:00:00Z",
+      "title": "Apple MacBook Pro with PROLED XDR Display review: The screen that every Mac deserves",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review"
+    },
+    {
+      "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+      "lede": "Apple's touchscreen laptop is a notable evolution of the MacBook Pro at a much higher price.",
+      "outlet": "engadget",
+      "published": "2026-11-05T14:00:00Z",
+      "title": "MacBook Pro with PROLED XDR Display review: Lighter, brighter, but the touchscreen doesn't add much",
+      "url": "https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

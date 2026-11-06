@@ -1,0 +1,24 @@
+{
+  "anchor": "dcb771ac66309941ffbb7674083b18977cd6427d",
+  "id": "2026-11-05-04260f",
+  "items": [
+    {
+      "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
+      "lede": "Nasdaq heading for its worst day in 18 months in volatile trading on Wall Street The Nasdaq share index was on track for its worst day in 18 months after slumping by up to 5% on Thursday amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results. As Wall Street sustained widespread",
+      "outlet": "theguardian",
+      "published": "2026-11-05T18:44:25Z",
+      "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats\u2019 election triumph",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+    },
+    {
+      "item_id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
+      "lede": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-06T01:02:17Z",
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

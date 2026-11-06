@@ -1,1 +1,93 @@
-{"cluster_id": "2026-11-04-067fbd", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-05T02:30:00Z", "headline": "Hackers raise temperatures at French blood storage facilities in cyberattack", "summary": "France's national blood service said hackers accessed control systems and raised temperatures at three cold stores holding blood products, part of a wider wave of attacks on European refrigeration systems. The Register reports attackers pushed cold-room controls as high as 110°C but says safeguards prevented stock losses, while BleepingComputer attributes the breach to a compromised refrigeration equipment provider.", "claims": [{"id": "c1", "statement": "Hackers accessed control systems and raised temperatures at French blood storage facilities.", "sources": [{"outlet": "theguardian", "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32", "quote": "hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products"}, {"outlet": "bleepingcomputer", "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec", "quote": "a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities"}]}, {"id": "c2", "statement": "The Register reports attackers set cold-room controls as high as 110°C, but safeguards prevented stock losses.", "sources": [{"outlet": "theregister", "item_id": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c", "quote": "Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses"}]}, {"id": "c3", "statement": "BBC reports the French Blood Establishment (EFS) confirmed cold rooms storing blood were impacted, with theories swirling about who is responsible.", "sources": [{"outlet": "bbc-technology", "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43", "quote": "French blood storage impacted by freezer hacks as theories swirl about culprits"}, {"outlet": "bbc-technology", "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43", "quote": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."}]}], "discrepancies": [{"kind": "attribution", "severity": "medium", "claim_ids": ["c1", "c2"], "explanation": "BleepingComputer reports the attack targeted a third-party refrigeration equipment provider, while the Register describes attackers directly setting cold-room controls without naming an intermediary.", "quotes": [{"outlet": "bleepingcomputer", "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec", "quote": "a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities"}, {"outlet": "theregister", "item_id": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c", "quote": "Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses"}]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-11-04-067fbd",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Hackers raise temperatures at French blood storage facilities",
+  "summary": "Hackers accessed control systems and raised temperatures at three French blood storage facilities run by the national blood service, but safeguards and alerts meant no blood products were lost. Outlets describe it as an escalation of the string of cyberattacks on European supermarket fridges and freezers, with the culprits still unclear.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers accessed control systems and raised temperatures at French blood storage facilities.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+          "quote": "hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43",
+          "quote": "cold rooms storing blood were impacted by hackers."
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+          "quote": "a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Three facilities were affected.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+          "quote": "three cold stores"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "801b944f5621a71ce8f5bcd3c18f9700083a9cec",
+          "quote": "three of its facilities"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Safeguards and alerts meant no blood products were lost.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "bb7f869675fcf47a06d83b1f20ed61f5c787a67c",
+          "quote": "safeguards prevented stock losses"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+          "quote": "no biomaterial was lost as the attack triggered the EFS' alerts"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The attack escalates the broader string of cyberattacks on European supermarket fridges and freezers.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+          "quote": "an apparent escalation of recent cyber-attacks on fridges and freezers across Europe"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "bc4c461ce82fdb0e97c70c0307b9dd1248c7baab",
+          "quote": "Following the string of cyberattacks on supermarket freezers"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Who is behind the attacks remains unclear.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "381c8f769b2804391f71d54233c1a18c368b3e43",
+          "quote": "as theories swirl about culprits"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

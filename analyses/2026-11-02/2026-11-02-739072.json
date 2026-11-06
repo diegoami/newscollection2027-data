@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-11-02-739072",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Marvell agrees to buy Lumentum for $115 billion",
+  "summary": "Marvell has agreed to acquire optical component maker Lumentum for $115 billion in an all-stock deal, combining Marvell's networking and photonics silicon with Lumentum's lasers and transceivers. Outlets note Nvidia is a shared strategic investor in both companies, with optics demand expected to grow as AI systems scale up.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Marvell agreed to buy Lumentum for $115 billion.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "654d300021e80f6e48d07cdf4a041f8d4116d1a9",
+          "quote": "Marvell buys Lumentum for $115B"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "c52141d45fc46b6df0746e53e7af8ee1a86fda80",
+          "quote": "bets $115B on photonics leader"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "83f36695b350d8484547d46bfa14c715ec152100",
+          "quote": "Marvell to buy Lumentum in $115 billion all-stock deal"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The deal combines Marvell's networking and photonics silicon with Lumentum's optical components.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "83f36695b350d8484547d46bfa14c715ec152100",
+          "quote": "lasers, transceivers, optical switches, and InP manufacturing footprint"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Both companies share Nvidia as a strategic investor.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "654d300021e80f6e48d07cdf4a041f8d4116d1a9",
+          "quote": "they both have the same strategic investor: Nvidia."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The deal is driven by expected growth in optics demand as AI systems scale up.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "c52141d45fc46b6df0746e53e7af8ee1a86fda80",
+          "quote": "optics demand is going to explode as Nvidia and others eye bigger systems"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

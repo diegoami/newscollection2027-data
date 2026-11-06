@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-11-05-9b3e1b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "TikTok launches a standalone TikTok Shop app, not yet in the US",
+  "summary": "TikTok released a standalone TikTok Shop app offering personalized recommendations, livestream and video shopping, exclusive deals, in-app checkout and customer support, but it is only available in a few countries and not yet in the US.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "TikTok released a standalone TikTok Shop app.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b3db1a25757bafb3cc1bdcdf968536b1a013e0c4",
+          "quote": "TikTok quietly launches a stand-alone TikTok Shop app"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "4024dd001f5830bcd6ed8c92fdb5ed965d61cc92",
+          "quote": "TikTok launched a dedicated TikTok Shop app"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "69c7ee356e331310df2581a4ff3e7154f29bffb6",
+          "quote": "TikTok just released a standalone Shop app"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The app is not yet available in the US, only in a few countries.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "69c7ee356e331310df2581a4ff3e7154f29bffb6",
+          "quote": "but it's not in America just yet"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "4024dd001f5830bcd6ed8c92fdb5ed965d61cc92",
+          "quote": "TikTok has released a standalone app for TikTok Shop in a few countries"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The app offers exclusive deals, in-app checkout and customer support.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b3db1a25757bafb3cc1bdcdf968536b1a013e0c4",
+          "quote": "app-exclusive deals, in-app checkout, order tracking, and customer support."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "69c7ee356e331310df2581a4ff3e7154f29bffb6",
+          "quote": "It offers exclusive deals and other goodies."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

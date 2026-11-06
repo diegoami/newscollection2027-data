@@ -1,0 +1,24 @@
+{
+  "anchor": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+  "id": "2026-11-05-f2b54e",
+  "items": [
+    {
+      "item_id": "3bca1d9e7322db6c868bc8d00a60589336cf7efc",
+      "lede": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-05T20:47:14Z",
+      "title": "Blue Origin\u2019s next launch now won\u2019t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027"
+    },
+    {
+      "item_id": "ff449e3a56e2894218fe53e3aa921f42149b85fb",
+      "lede": "Repairs have been slow after an explosion earlier this year.",
+      "outlet": "engadget",
+      "published": "2026-11-05T22:10:09Z",
+      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
+      "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

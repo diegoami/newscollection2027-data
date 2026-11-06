@@ -1,1 +1,72 @@
-{"cluster_id": "2026-10-31-be4128", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-03T02:30:00Z", "headline": "Anthropic confirms Claude Code blocks video game cloning, reverse-engineering", "summary": "Anthropic updated Claude so it refuses to recreate existing video games, and an Anthropic employee later confirmed Claude Code carries explicit instructions against reproducing game IP while still allowing original designs. Users report the restriction also catches non-malicious reverse-engineering work. Early coverage attributed the behavior to the Opus 5.5 model generally; later reporting ties it specifically to Claude Code's system prompt.", "claims": [{"id": "c1", "statement": "Anthropic updated Claude so that it blocks attempts to recreate or clone existing video games.", "sources": [{"outlet": "tomshardware", "item_id": "94697ec49ac5116b282e9e96f32c1d8b46d16e64", "quote": "Anthropic's Claude AI blocks video game cloning and reverse-engineering"}, {"outlet": "engadget", "item_id": "c87b9252acae72f1a90b75830b6b19bc6a6f4c79", "quote": "Anthropic updates Claude to stop it from recreating existing video games"}, {"outlet": "theverge", "item_id": "e3f3f6c0c50f4c4d6d385358aaa4420b48a025ec", "quote": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games"}]}, {"id": "c2", "statement": "Users report the restriction also blocks legitimate, non-malicious reverse-engineering tasks.", "sources": [{"outlet": "tomshardware", "item_id": "94697ec49ac5116b282e9e96f32c1d8b46d16e64", "quote": "users also claim their non-malicious generic reverse-engineering tasks are block"}, {"outlet": "tomshardware", "item_id": "3ace5a62609891e3da95a8f70bc9be2904155194", "quote": "users report blocking reverse engineering tasks"}]}, {"id": "c3", "statement": "Anthropic confirmed Claude Code now has instructions not to reproduce game IP, while still allowing original game design.", "sources": [{"outlet": "tomshardware", "item_id": "3ace5a62609891e3da95a8f70bc9be2904155194", "quote": "Anthropic employee confirms that Claude Code now has orders not to reproduce game IP"}, {"outlet": "engadget", "item_id": "c87b9252acae72f1a90b75830b6b19bc6a6f4c79", "quote": "Users can still lean on Claude to help with designing original or genre games."}]}], "discrepancies": [{"kind": "attribution", "severity": "medium", "explanation": "The first report attributed the blocking to Anthropic's Opus 5.5 model broadly, while the later, Anthropic-confirmed report ties it specifically to Claude Code's system prompt.", "quotes": [{"outlet": "tomshardware", "item_id": "94697ec49ac5116b282e9e96f32c1d8b46d16e64", "quote": "Anthropic's Opus 5.5 model blocking attempts at videogame recreation"}, {"outlet": "theverge", "item_id": "e3f3f6c0c50f4c4d6d385358aaa4420b48a025ec", "quote": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games"}], "claim_ids": ["c1", "c3"]}], "agreement": "partial"}
+{
+  "cluster_id": "2026-10-31-be4128",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Anthropic restricts, then eases, Claude's video game cloning block",
+  "summary": "Anthropic updated Claude and Claude Code to stop recreating existing video games, after users said the block also caught legitimate reverse-engineering tasks. Days later Anthropic loosened the restriction to cut false positives for game developers, while users can still use Claude to design original or same-genre games.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic updated Claude/Claude Code to block recreating existing video games.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "94697ec49ac5116b282e9e96f32c1d8b46d16e64",
+          "quote": "blocks video game cloning and reverse-engineering"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "c87b9252acae72f1a90b75830b6b19bc6a6f4c79",
+          "quote": "Anthropic updates Claude to stop it from recreating existing video games"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "e3f3f6c0c50f4c4d6d385358aaa4420b48a025ec",
+          "quote": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users reported the block also catching non-malicious, generic reverse-engineering tasks.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "94697ec49ac5116b282e9e96f32c1d8b46d16e64",
+          "quote": "users also claim their non-malicious generic reverse-engineering tasks are block"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Anthropic later loosened the restriction, aiming to reduce false positives for legitimate game developers.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "879585371e671721521cc3998a063f5f0ac762dc",
+          "quote": "Anthropic loosens Claude's game cloning ban"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "879585371e671721521cc3998a063f5f0ac762dc",
+          "quote": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Users can still use Claude to design original games or games in the same genre.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "c87b9252acae72f1a90b75830b6b19bc6a6f4c79",
+          "quote": "Users can still lean on Claude to help with designing original or genre games."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

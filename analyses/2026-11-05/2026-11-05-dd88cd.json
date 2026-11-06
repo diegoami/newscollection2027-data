@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-05-dd88cd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Instagram brings Edits video editor to desktop",
+  "summary": "Instagram's Edits video-editing app is now available on desktop as a Mac app, putting it in more direct competition with ByteDance's CapCut. Edits launched last year and already has more than 50 million users.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Instagram's Edits video-editing app is now available on desktop as a Mac app.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4903344a90138b1d4500a2ba600e8504b0b71fb1",
+          "quote": "Instagram brings Edits to desktop to take on CapCut"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "5c25727c365be7b2e581580fb104e9a06c706221",
+          "quote": "Instagram's Edits is now on desktop as a Mac app"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Edits competes directly with ByteDance's CapCut.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4903344a90138b1d4500a2ba600e8504b0b71fb1",
+          "quote": "in more direct competition with ByteDance's CapCut"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "5c25727c365be7b2e581580fb104e9a06c706221",
+          "quote": "Meta's CapCut competitor"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Edits launched last year and already has more than 50 million users.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4903344a90138b1d4500a2ba600e8504b0b71fb1",
+          "quote": "the video-editing app Meta sought to challenge when it launched Edits last year"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "5c25727c365be7b2e581580fb104e9a06c706221",
+          "quote": "already has more than 50 million users."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

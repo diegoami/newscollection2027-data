@@ -1,0 +1,77 @@
+{
+  "cluster_id": "2026-11-05-128980",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Anthropic launches a Personal Finance feature for Claude",
+  "summary": "Anthropic released a new Personal Finance feature for Claude that connects to users' bank and card accounts via Plaid, letting them ask questions about their spending. ZDNet notes the access is read-only and frames it as Anthropic's answer to ChatGPT's own finance feature.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic launched a Personal Finance feature for Claude that connects to bank and card accounts via Plaid.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+          "quote": "Claude can now analyze your spending with its new Personal Finance tool"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+          "quote": "users can connect their bank and card accounts through Plaid"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+          "quote": "Claude AI can plug directly into your bank account"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+          "quote": "connects it to your bank and card accounts via the Plaid bank bridging platform."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users can ask Claude questions about their finances and spending.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "b0e121b3a461c115e0db0be99761e67686ed1b09",
+          "quote": "ask questions about their finances"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "f49d817c3fd35c35c529d05e1ee19860b7a20991",
+          "quote": "where did my money go this month"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "ZDNet notes the access is read-only.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "c29370db196c1cb53177d8ebc5e50a59e6dd2805",
+          "quote": "read-only, of course"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "ZDNet frames the feature as Anthropic's answer to ChatGPT's own Finances feature.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "c29370db196c1cb53177d8ebc5e50a59e6dd2805",
+          "quote": "Anthropic has released what appears to be its answer to ChatGPT Finances."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,25 +1,88 @@
 {
   "cluster_id": "2026-11-03-552ce0",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-04T02:30:00Z",
-  "headline": "iPad mini gets major upgrade but at a higher price, reviews say",
-  "summary": "Reviews of the new iPad mini (A20 Pro) say Apple made significant improvements to the tablet this year, making it better than ever, but at a higher price that may deter some buyers.",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Reviews agree new iPad mini is a bigger, pricier upgrade",
+  "summary": "Reviewers across outlets agree the new iPad mini A20 Pro brings a new OLED display and significant upgrades over its predecessor, but costs noticeably more. The Guardian also highlights water resistance as a first for the line, while all the reviews describe the device as more compelling despite the higher price.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Apple significantly improved the iPad mini this year, but at a higher price.",
+      "statement": "The new iPad mini gets a new OLED display.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "bdcb114647f082430f62941c5f318e05b7a382d8",
+          "quote": "the fancy new OLED display"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "1868b70c66fe445e3265fc8f9712bff4f6bdeffa",
+          "quote": "a bigger OLED screen"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The new iPad mini is a significant upgrade over its predecessor.",
       "sources": [
         {
           "outlet": "engadget",
           "item_id": "58ae412e6fb2c0c4c613d3be9306881ae500f605",
-          "quote": "significant improvements to the iPad mini this year, but they don't come cheap"
+          "quote": "Apple made significant improvements to the iPad mini this year"
         },
         {
           "outlet": "wired",
           "item_id": "814af2579ff4d56937a06d93db787d7f84f914e2",
-          "quote": "impressive new features make it a better tablet than ever—only to be betrayed by its higher price"
+          "quote": "The iPad Mini’s impressive new features make it a better tablet than ever"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "bdcb114647f082430f62941c5f318e05b7a382d8",
+          "quote": "a significant upgrade over its predecessor"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d71cfb9ab8de57626570e2777d8109e45e439dfb",
+          "quote": "It's more compelling than ever"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new iPad mini costs significantly more than before.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "58ae412e6fb2c0c4c613d3be9306881ae500f605",
+          "quote": "they don't come cheap"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "814af2579ff4d56937a06d93db787d7f84f914e2",
+          "quote": "betrayed by its higher price"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "1868b70c66fe445e3265fc8f9712bff4f6bdeffa",
+          "quote": "a big price"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "d71cfb9ab8de57626570e2777d8109e45e439dfb",
+          "quote": "also more expensive"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The new iPad mini adds water resistance for the first time.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "1868b70c66fe445e3265fc8f9712bff4f6bdeffa",
+          "quote": "water resistance for first time"
         }
       ]
     }

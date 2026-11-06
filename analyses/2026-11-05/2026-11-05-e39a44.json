@@ -1,0 +1,104 @@
+{
+  "cluster_id": "2026-11-05-e39a44",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "Switch 2 sales drop after price hike, Nintendo rules out another",
+  "summary": "Nintendo reported Switch 2 sales dropped sharply year over year after a price increase, though overall profit rose, and investors are pressing for more big games. Nintendo's president said the company is not planning another price hike, after an earlier $50 increase brought the console's starting price to $499.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Switch 2 sales declined significantly year over year, attributed to the price increase.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b81bf1f977100e5770c3356c9e4325aba2ba70a",
+          "quote": "Switch 2 sales fell by almost 40 percent after Nintendo increased prices"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7086502886fd54eb15e5be249512ffc89cd5ada6",
+          "quote": "Nintendo Switch 2 sales dropped by 41% from last year due to console's price increase"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Nintendo's overall profit rose despite the console sales drop.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b81bf1f977100e5770c3356c9e4325aba2ba70a",
+          "quote": "Nintendo reports higher profit but substantially lower Switch 2 sales"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Nintendo said it is not planning another Switch 2 price hike.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "56561248c6bfc2ce5600bd79810f77c4457aa9d6",
+          "quote": "Nintendo says it’s not planning another Switch 2 price hike"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "56561248c6bfc2ce5600bd79810f77c4457aa9d6",
+          "quote": "not considering additional changes"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "An earlier $50 price hike brought the Switch 2's starting price to $499.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "56561248c6bfc2ce5600bd79810f77c4457aa9d6",
+          "quote": "The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Investors are pressuring Nintendo to release more big games to offset the shortfall.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7086502886fd54eb15e5be249512ffc89cd5ada6",
+          "quote": "Investors are pressuring Nintendo to release more big games to attract more Switch 2 buyers."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Outlets give different figures for the Switch 2 sales decline: almost 40 percent, 41 percent, and 37.4.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b81bf1f977100e5770c3356c9e4325aba2ba70a",
+          "quote": "fell by almost 40 percent"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7086502886fd54eb15e5be249512ffc89cd5ada6",
+          "quote": "dropped by 41% from last year"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "56561248c6bfc2ce5600bd79810f77c4457aa9d6",
+          "quote": "Switch 2 sales have dropped 37.4"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "8757617f6419a5a9efc5364f874811ff1aa9bcab",
+  "id": "2026-11-05-454a5f",
+  "items": [
+    {
+      "item_id": "8757617f6419a5a9efc5364f874811ff1aa9bcab",
+      "lede": "Sony has refreshed a headphone design that dates back to 1979.",
+      "outlet": "engadget",
+      "published": "2026-11-05T16:00:00Z",
+      "title": "Sony's MDR-3R wired headphones are steeped in retro aesthetics",
+      "url": "https://www.engadget.com/2304149/sony-mdr-3r-wired-headphones-are-steeped-in-retro-aesthetics/"
+    },
+    {
+      "item_id": "b6411ac47a803928f00d79882026fd55c3b49d1e",
+      "lede": "Orange ear cushions included.",
+      "outlet": "arstechnica",
+      "published": "2026-11-05T21:56:36Z",
+      "title": "Sony revives the original Walkman headphones, adds USB-C",
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

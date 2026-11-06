@@ -1,0 +1,97 @@
+{
+  "cluster_id": "2026-11-05-c988c1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-06T02:23:34Z",
+  "headline": "MacBook Pro's new touchscreen display divides reviewers",
+  "summary": "Reviewers agree the new MacBook Pro's OLED/PROLED XDR touchscreen display costs significantly more and, per Tom's Hardware and Engadget, makes the laptop lighter. But they split on whether the touchscreen itself is a meaningful upgrade: Tom's Hardware calls it a major improvement, while Engadget says it doesn't add much.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The new MacBook Pro has a touchscreen OLED/PROLED XDR display.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+          "quote": "Apple MacBook Pro OLED (2026) Review"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+          "quote": "incredible-looking touchscreen display"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+          "quote": "Apple MacBook Pro with PROLED XDR Display review"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "MacBook Pro with PROLED XDR Display review"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "It costs significantly more than before.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+          "quote": "an equally eye-popping price"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+          "quote": "exceptionally expensive and out of reach for many"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "at a much higher price"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new MacBook Pro is lighter than before.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+          "quote": "including a lighter weight and touch functionality"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "Lighter, brighter"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "high",
+      "explanation": "Tom's Hardware calls the touchscreen a major upgrade, while Engadget says the touchscreen doesn't add much.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+          "quote": "has lots of small tweaks that make it a major upgrade"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "the touchscreen doesn't add much"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

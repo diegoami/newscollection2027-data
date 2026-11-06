@@ -17,8 +17,32 @@
       "published": "2026-11-03T14:00:00Z",
       "title": "Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?",
       "url": "https://www.wired.com/review/ipad-mini-2026/"
+    },
+    {
+      "item_id": "bdcb114647f082430f62941c5f318e05b7a382d8",
+      "lede": "Apple's newest iPad mini is a significant upgrade over its predecessor, with hardware updates that extend far beyond the fancy new OLED display.",
+      "outlet": "engadget",
+      "published": "2026-11-04T01:00:00Z",
+      "title": "iPad mini OLED vs. iPad mini: What's new?",
+      "url": "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/"
+    },
+    {
+      "item_id": "1868b70c66fe445e3265fc8f9712bff4f6bdeffa",
+      "lede": "All-round upgrades fit a bigger OLED screen in a smaller and lighter body with water resistance for first time The new iPad mini takes Apple\u2019s fan-favourite tiny tablet and upgrades just about everything about it, including giving it a new OLED screen, serious performance, speakers embedded into the display and even water resistance, all with a big new price tag.",
+      "outlet": "theguardian",
+      "published": "2026-11-05T07:00:56Z",
+      "title": "Apple iPad mini A20 Pro review: the best small tablet but with a big price",
+      "url": "https://www.theguardian.com/technology/2026/nov/05/apple-ipad-mini-a20-pro-review-best-small-tablet-but-big-price"
+    },
+    {
+      "item_id": "d71cfb9ab8de57626570e2777d8109e45e439dfb",
+      "lede": "It's more compelling than ever, but also more expensive.",
+      "outlet": "arstechnica",
+      "published": "2026-11-05T12:00:01Z",
+      "title": "2026 iPad mini review: Maximizing the mini",
+      "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
