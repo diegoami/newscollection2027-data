@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0f18c7c2de0a66979cc25fa0dc27e5c580eddb32",
+    "lede": "Temperature and defrosting thresholds raised to \u2018very high levels\u2019 at three cold stores stocking vital blood products Europe live \u2013 latest updates France\u2019s national blood service has said hackers accessed control systems and boosted temperatures at three cold stores stocking vital blood products, in an apparent escalation of recent cyber-attacks on fridges and freezers across Europe. The French blood service",
+    "outlet": "theguardian",
+    "published": "2026-11-04T13:22:28Z",
+    "title": "French blood banks hacked in latest cyber-attack on Europe",
+    "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+  },
+  "b": {
+    "item_id": "c27186132a60b5d6715c27f9da6ea37efab4d88c",
+    "lede": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
+    "outlet": "wired",
+    "published": "2026-11-07T13:00:00Z",
+    "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
+    "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/"
+  },
+  "score": 0.615465
+}

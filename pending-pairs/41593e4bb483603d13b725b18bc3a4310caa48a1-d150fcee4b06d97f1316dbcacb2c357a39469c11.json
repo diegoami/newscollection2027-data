@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "41593e4bb483603d13b725b18bc3a4310caa48a1",
+    "lede": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
+    "outlet": "arstechnica",
+    "published": "2026-11-06T19:12:28Z",
+    "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+    "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/"
+  },
+  "b": {
+    "item_id": "d150fcee4b06d97f1316dbcacb2c357a39469c11",
+    "lede": "The US federal Aviation Administration (FAA) is finally moving to retire floppy disks from its air traffic control infrastructure, with plans to to replace four decades-old information systems across 435 facilities by the end of 2028.",
+    "outlet": "tomshardware",
+    "published": "2026-11-07T11:00:00Z",
+    "title": "US FAA to eliminate floppy disks from air traffic control by 2028",
+    "url": "https://www.tomshardware.com/tech-industry/us-faa-to-eliminate-floppy-disks-from-air-traffic-control-by-2028-new-system-will-centralize-flight-alerts-restricted-airspace-schedules-and-pilot-reports"
+  },
+  "score": 0.78716
+}

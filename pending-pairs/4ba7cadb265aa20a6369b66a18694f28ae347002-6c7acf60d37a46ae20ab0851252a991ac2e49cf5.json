@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4ba7cadb265aa20a6369b66a18694f28ae347002",
+    "lede": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T16:00:18Z",
+    "title": "mSecure password manager hack prompts password reset warnings",
+    "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/"
+  },
+  "b": {
+    "item_id": "6c7acf60d37a46ae20ab0851252a991ac2e49cf5",
+    "lede": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
+    "outlet": "engadget",
+    "published": "2026-11-07T15:15:00Z",
+    "title": "How iOS can warn you when one of your passwords shows up in a data leak",
+    "url": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/"
+  },
+  "score": 0.691675
+}
