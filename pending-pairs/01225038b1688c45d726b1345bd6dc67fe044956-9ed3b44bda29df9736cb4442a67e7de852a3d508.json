@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01225038b1688c45d726b1345bd6dc67fe044956",
+    "lede": "This dangerous Linux security hole must be patched as soon as possible.",
+    "outlet": "zdnet",
+    "published": "2026-11-07T00:00:45Z",
+    "title": "Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",
+    "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/"
+  },
+  "b": {
+    "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+    "lede": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "outlet": "arstechnica",
+    "published": "2026-11-05T23:09:36Z",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  "score": 0.6661
+}

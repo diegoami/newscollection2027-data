@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "868b661c5e46d114247c927292c3f442033dc4a9",
+    "lede": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
+    "outlet": "arstechnica",
+    "published": "2026-11-04T16:06:03Z",
+    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+  },
+  "b": {
+    "item_id": "b99b441690fc8bf84afb33472edab3142bdd0ea8",
+    "lede": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T22:27:25Z",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+  },
+  "score": 0.589738
+}

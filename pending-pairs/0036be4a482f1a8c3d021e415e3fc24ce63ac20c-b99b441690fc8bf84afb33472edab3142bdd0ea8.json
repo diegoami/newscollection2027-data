@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0036be4a482f1a8c3d021e415e3fc24ce63ac20c",
+    "lede": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+    "outlet": "techcrunch",
+    "published": "2026-11-04T20:36:57Z",
+    "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+    "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/"
+  },
+  "b": {
+    "item_id": "b99b441690fc8bf84afb33472edab3142bdd0ea8",
+    "lede": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T22:27:25Z",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+  },
+  "score": 0.620586
+}

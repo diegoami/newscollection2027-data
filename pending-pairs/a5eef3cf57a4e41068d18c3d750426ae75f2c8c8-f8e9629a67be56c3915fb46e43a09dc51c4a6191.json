@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a5eef3cf57a4e41068d18c3d750426ae75f2c8c8",
+    "lede": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "outlet": "arstechnica",
+    "published": "2026-11-06T20:56:41Z",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+  },
+  "b": {
+    "item_id": "f8e9629a67be56c3915fb46e43a09dc51c4a6191",
+    "lede": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T14:17:07Z",
+    "title": "Chainalysis says breach exposed credentials for all customers",
+    "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/"
+  },
+  "score": 0.726098
+}

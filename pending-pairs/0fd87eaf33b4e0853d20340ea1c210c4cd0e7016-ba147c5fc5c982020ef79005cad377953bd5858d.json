@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fd87eaf33b4e0853d20340ea1c210c4cd0e7016",
+    "lede": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T20:58:19Z",
+    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/"
+  },
+  "b": {
+    "item_id": "ba147c5fc5c982020ef79005cad377953bd5858d",
+    "lede": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T20:24:19Z",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+  },
+  "score": 0.570076
+}

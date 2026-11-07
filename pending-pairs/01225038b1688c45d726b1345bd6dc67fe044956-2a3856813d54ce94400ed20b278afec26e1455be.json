@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01225038b1688c45d726b1345bd6dc67fe044956",
+    "lede": "This dangerous Linux security hole must be patched as soon as possible.",
+    "outlet": "zdnet",
+    "published": "2026-11-07T00:00:45Z",
+    "title": "Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",
+    "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/"
+  },
+  "b": {
+    "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+    "lede": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'",
+    "outlet": "theregister",
+    "published": "2026-11-05T18:29:00Z",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "url": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+  },
+  "score": 0.700166
+}

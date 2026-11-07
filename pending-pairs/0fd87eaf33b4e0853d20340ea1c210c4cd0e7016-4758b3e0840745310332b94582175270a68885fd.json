@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0fd87eaf33b4e0853d20340ea1c210c4cd0e7016",
+    "lede": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-04T20:58:19Z",
+    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/"
+  },
+  "b": {
+    "item_id": "4758b3e0840745310332b94582175270a68885fd",
+    "lede": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "outlet": "techcrunch",
+    "published": "2026-11-06T18:44:38Z",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+  },
+  "score": 0.579503
+}
