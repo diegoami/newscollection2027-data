@@ -1,0 +1,24 @@
+{
+  "anchor": "6b1d9cd5a096d5743ed77eeb958d5035d5992e40",
+  "id": "2026-11-05-f6734b",
+  "items": [
+    {
+      "item_id": "6b1d9cd5a096d5743ed77eeb958d5035d5992e40",
+      "lede": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-05T16:12:46Z",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/"
+    },
+    {
+      "item_id": "0bf3f82ddf079606bc4406aeb2e01b27747d28c4",
+      "lede": "Botched server move left the door open, and DigiCert took months to notice someone had wandered in",
+      "outlet": "theregister",
+      "published": "2026-11-06T13:15:00Z",
+      "title": "DigiCert admits 16-month security lapse exposed customer information",
+      "url": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

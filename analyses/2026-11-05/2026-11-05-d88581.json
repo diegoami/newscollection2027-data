@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-05-d88581",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "Airbnb plans an AI travel agent for the first half of 2027",
-  "summary": "Airbnb announced, in its Q3 2026 earnings shareholder letter, plans to launch an AI travel agent in the first half of 2027 that will help users plan trips, compare options, book and manage stays, saying today's AI agents are only good for simple, routine tasks.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Airbnb to launch AI travel-planning agent in 2027",
+  "summary": "Airbnb announced, in its Q3 2026 earnings letter, that it is developing an AI travel agent due in the first half of 2027 to help travelers plan trips, compare options, manage bookings and get assistance during their stay, going beyond today's simpler AI agents.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Airbnb announced plans to launch an AI travel agent in the first half of 2027.",
+      "statement": "Airbnb announced it is developing an AI travel agent planned to launch in the first half of 2027.",
       "sources": [
         {
           "outlet": "techcrunch",
@@ -19,45 +19,40 @@
         {
           "outlet": "theverge",
           "item_id": "cc48f8093c5bb1034d8c7b85f40aa56f522c3fda",
-          "quote": "Airbnb plans to roll out an AI agent in the first half of 2027"
+          "quote": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The AI agent will help users plan trips, compare options, manage bookings, and assist during their stay.",
-      "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "01af2f668adeb82b3308b711d084df6a6caca65b",
-          "quote": "will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "cc48f8093c5bb1034d8c7b85f40aa56f522c3fda",
-          "quote": "that will help users plan and book travel"
-        }
-      ]
-    },
-    {
-      "id": "c3",
       "statement": "The announcement came in Airbnb's Q3 2026 earnings shareholder letter.",
       "sources": [
         {
           "outlet": "theverge",
           "item_id": "cc48f8093c5bb1034d8c7b85f40aa56f522c3fda",
-          "quote": "the company said in its Q3 2026 earnings shareholder letter released today."
+          "quote": "the company said in its Q3 2026 earnings shareholder letter released today"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The AI agent is meant to help travelers plan trips, compare options, manage bookings, and assist during their stay.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "01af2f668adeb82b3308b711d084df6a6caca65b",
+          "quote": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
         }
       ]
     },
     {
       "id": "c4",
-      "statement": "Airbnb said today's AI agents are only good for simple, routine tasks.",
+      "statement": "Airbnb contrasted today's simple AI agents with its more ambitious goal.",
       "sources": [
         {
           "outlet": "theverge",
           "item_id": "cc48f8093c5bb1034d8c7b85f40aa56f522c3fda",
-          "quote": "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment"
+          "quote": "Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,"
         }
       ]
     }

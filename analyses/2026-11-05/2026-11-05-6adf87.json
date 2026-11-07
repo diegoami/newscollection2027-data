@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-05-6adf87",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
+  "generated_at": "2026-11-07T02:12:39Z",
   "headline": "FAA moves to retire floppy disks from air traffic control",
-  "summary": "The FAA is phasing out floppy disks still used to run critical pieces of US airspace, after Transportation Secretary Sean Duffy announced an effort to replace them with a new digital system.",
+  "summary": "The FAA, under Transportation Secretary Sean Duffy, announced a plan to replace the 3.5-inch floppy disks still used in parts of air traffic control with a digital system, aiming for display systems to be floppy-free at 435 sites by the end of 2028, though more funding is needed to finish the overhaul.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The FAA is phasing out floppy disks used in air traffic control.",
+      "statement": "The FAA announced it will phase out 3.5-inch floppy disks used in parts of air traffic control.",
       "sources": [
         {
           "outlet": "theverge",
@@ -20,12 +20,17 @@
           "outlet": "engadget",
           "item_id": "8e06e5a1384af222d7a83fc049ebdb33027012a4",
           "quote": "The FAA is finally phasing out floppy disks from air traffic control"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "47c86d3d25d395bdb4d2301be7d9823ff237a42a",
+          "quote": "US air traffic control enters the 21st century, starts to abandon floppy disks"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Transportation Secretary Sean Duffy announced an effort to replace floppy disks with a new digital system.",
+      "statement": "Transportation Secretary Sean Duffy announced the effort to replace the disks with a new digital system.",
       "sources": [
         {
           "outlet": "theverge",
@@ -36,12 +41,23 @@
     },
     {
       "id": "c3",
-      "statement": "The FAA currently runs critical airspace systems on 3.5-inch magnetic floppy disks.",
+      "statement": "FAA information display systems are set to be floppy-free at 435 sites by the end of 2028.",
       "sources": [
         {
-          "outlet": "theverge",
-          "item_id": "56e3733ec76340427f383ebbe57a62cc9a2f1264",
-          "quote": "the Federal Aviation Administration is still running critical pieces of American airspace on 3.5-inch magnetic floppy disks."
+          "outlet": "arstechnica",
+          "item_id": "41593e4bb483603d13b725b18bc3a4310caa48a1",
+          "quote": "FAA information display systems to be floppy-free at 435 sites by end of 2028."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The FAA will need additional funding to complete the wider overhaul.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "47c86d3d25d395bdb4d2301be7d9823ff237a42a",
+          "quote": "The FAA will need to come up with more money to finish the wider overhaul, though"
         }
       ]
     }

@@ -1,0 +1,24 @@
+{
+  "anchor": "8250334af19793e3f5138f072419939ef05bb89a",
+  "id": "2026-11-06-4fbfd5",
+  "items": [
+    {
+      "item_id": "8250334af19793e3f5138f072419939ef05bb89a",
+      "lede": "Lawmakers want answers about Jensen Huang\u2019s ties to an alleged Chinese intelligence asset.",
+      "outlet": "arstechnica",
+      "published": "2026-11-06T14:13:32Z",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+    },
+    {
+      "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
+      "lede": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-06T23:00:44Z",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

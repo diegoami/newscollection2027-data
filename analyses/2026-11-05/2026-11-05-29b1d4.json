@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-05-29b1d4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Perplexity launches AI 'Teammates' agents for work",
+  "summary": "Perplexity has launched 'Teammates,' always-on AI agents that can take on multiple workplace roles, pulling in a user's existing projects, skills and memory, and integrating with Perplexity Computer to deploy agents directly on a device.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Perplexity launched \"Teammates,\" AI agents designed for workplace tasks.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8e75ec02fc50e91f564b65594b8bfad6b6d5d78d",
+          "quote": "Perplexity launches its own take on AI agents for work"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "0e0f913ed04d3e69ad137324ee513f4453568c04",
+          "quote": "Perplexity's 'teammates' are the company's AI agents for daily work tasks"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Teammates are always-on and can take on multiple roles within a workspace.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8e75ec02fc50e91f564b65594b8bfad6b6d5d78d",
+          "quote": "always-on \"Teammates\" can take on multiple roles within a workspace"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Teammates integrate with Perplexity Computer, which can deploy agents on a user's device.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8e75ec02fc50e91f564b65594b8bfad6b6d5d78d",
+          "quote": "Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -11,6 +11,14 @@
       "url": "https://www.engadget.com/2308280/google-meta-and-tiktok-are-all-suing-california-to-block-social-media-law-intended-to-help-kids/"
     },
     {
+      "item_id": "cf35ff0ba3dabfe9cce82f23e9c0f629e83f0896",
+      "lede": "Law bans social media platforms from providing minors features such as autoplay that lead to compulsive use Google, Meta and TikTok have sued California to block enforcement of \u2060a new state law intended \u2060to limit the risk \u200bof addicting children under 16 to social media platforms. The law, known as Assembly Bill 1709, prohibits such platforms from offering underage children",
+      "outlet": "theguardian",
+      "published": "2026-11-05T21:10:21Z",
+      "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
+      "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta"
+    },
+    {
       "item_id": "fb3e595a55ebe30c3a74cd5cd006b50b4908f884",
       "lede": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
       "outlet": "techcrunch",
@@ -20,5 +28,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

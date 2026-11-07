@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-05-cff70d",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "New York Times in talks to buy Letterboxd for $330 million",
-  "summary": "The New York Times Company is reportedly in talks to acquire the film-focused social network Letterboxd for around $330 million, after Sony Pictures Entertainment and A24 were also previously rumored to be interested. Letterboxd has grown dramatically in recent years.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "New York Times reportedly in talks to buy Letterboxd",
+  "summary": "The New York Times Company is reportedly negotiating to acquire the film-focused social network Letterboxd for around $330 million, after Sony Pictures Entertainment and A24 had also been rumored as potential buyers; the Times Company declined to comment on the report.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The New York Times Company is in talks to acquire Letterboxd for around $330 million.",
+      "statement": "The New York Times Company is reportedly in talks to acquire Letterboxd for around $330 million.",
       "sources": [
         {
           "outlet": "theverge",
@@ -20,28 +20,33 @@
           "outlet": "techcrunch",
           "item_id": "6053cf3db6bfa57dc93da91395109f493364d343",
           "quote": "The New York Times reportedly in talks to buy Letterboxd for $330 million"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b69f7c740980323f0dc27b1593a5c83a4c3f39fb",
+          "quote": "The New York Times Company is reportedly trying to buy Letterboxd for $330 million"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Sony Pictures Entertainment and A24 were also previously rumored to be interested in buying Letterboxd.",
+      "statement": "Sony Pictures Entertainment and A24 had also recently been rumored as potential buyers of Letterboxd.",
       "sources": [
         {
           "outlet": "theverge",
           "item_id": "fae8746a9f7c1bae9a8647aa1d27120ffdd3b1d5",
-          "quote": "Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd."
+          "quote": "The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd."
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "Letterboxd has grown dramatically in recent years.",
+      "statement": "The New York Times Company declined to comment on the report.",
       "sources": [
         {
-          "outlet": "techcrunch",
-          "item_id": "6053cf3db6bfa57dc93da91395109f493364d343",
-          "quote": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years."
+          "outlet": "engadget",
+          "item_id": "b69f7c740980323f0dc27b1593a5c83a4c3f39fb",
+          "quote": "The New York Times Company declined to comment on The New York Times' story."
         }
       ]
     }

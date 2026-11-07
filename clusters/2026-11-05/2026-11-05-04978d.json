@@ -1,0 +1,24 @@
+{
+  "anchor": "8f15c0b606f14a79743adfe264e4286fb15b15d7",
+  "id": "2026-11-05-04978d",
+  "items": [
+    {
+      "item_id": "8f15c0b606f14a79743adfe264e4286fb15b15d7",
+      "lede": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+      "outlet": "zdnet",
+      "published": "2026-11-05T02:35:58Z",
+      "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+      "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/"
+    },
+    {
+      "item_id": "22aef5d4d4b516471e67324b82b83f3daf2b8f92",
+      "lede": "Mint 27 to land before Christmas, with stable Wayland display upgrades, as punters try out Cinnamon 6.8",
+      "outlet": "theregister",
+      "published": "2026-11-06T14:29:00Z",
+      "title": "Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop",
+      "url": "https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

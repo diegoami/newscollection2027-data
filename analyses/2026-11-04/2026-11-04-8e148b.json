@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-04-8e148b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Anker's Eufy Window Camera E10 watches outside from inside",
+  "summary": "Anker's new $80 Eufy Window Camera E10 mounts against a window to monitor outdoor areas like a yard or porch, taking an approach similar to the earlier Wyze Window Cam.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anker's Eufy Window Camera E10 mounts inside a window to monitor the outdoors.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e76e9bc2f324ead4bfe81d5e84a1fccaa4fe496c",
+          "quote": "Anker’s new window-mounted camera monitors the outside of your home from within it"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "df59bb9da9f89d9d31ea66371c983d8272582032",
+          "quote": "Eufy's clever outdoor security camera that lives inside is now available to buy"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Window Camera E10 costs $80.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "df59bb9da9f89d9d31ea66371c983d8272582032",
+          "quote": "The $80 Window Camera E10 sticks to your window, pointed outwards."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The product takes a similar approach to the Wyze Window Cam that launched about a year earlier.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e76e9bc2f324ead4bfe81d5e84a1fccaa4fe496c",
+          "quote": "takes a similar approach to the Wyze Window Cam that launched nearly a year ago"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

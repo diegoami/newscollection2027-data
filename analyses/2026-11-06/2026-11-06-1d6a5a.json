@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-06-1d6a5a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Amazon lets users text Alexa to shop",
+  "summary": "Amazon is rolling out a feature that lets users text Alexa to shop, initially available by invite in the US, with Amazon saying it will expand to millions of users in the coming weeks.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon is rolling out a feature letting users text Alexa to shop.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "ab4846bbc512d790201630111a3794489e42c407",
+          "quote": "After blocking Muse, Amazon now lets users text Alexa to help them shop"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "5947e715832eda9e285228cfd9c7f589a87b9b23",
+          "quote": "You'll soon be able to text Alexa to shop on Amazon"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Amazon said the feature will roll out to millions of users in the coming weeks.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "ab4846bbc512d790201630111a3794489e42c407",
+          "quote": "Amazon said that the feature will roll out to millions of users in coming weeks."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The feature is initially available only by invite in the US.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "5947e715832eda9e285228cfd9c7f589a87b9b23",
+          "quote": "The latest Alexa for shopping feature is initially available by invite in the US."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

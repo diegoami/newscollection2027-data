@@ -17,8 +17,16 @@
       "published": "2026-11-06T00:06:12Z",
       "title": "Airbnb is working on an AI travel agent",
       "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+    },
+    {
+      "item_id": "1eac9df98beabc318574d115b95f08f573f7ead9",
+      "lede": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
+      "outlet": "engadget",
+      "published": "2026-11-06T07:51:42Z",
+      "title": "Airbnb is threatening to launch an AI travel agent next year",
+      "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

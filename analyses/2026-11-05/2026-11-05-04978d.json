@@ -1,0 +1,68 @@
+{
+  "cluster_id": "2026-11-05-04978d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Linux Mint 27 release approaches with new features",
+  "summary": "Linux Mint 27, skipping ahead in numbering from version 24, is expected soon — ZDNet says next month and The Register says before Christmas — bringing stable Wayland display support following the autumn release of the Cinnamon 6.8 desktop.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "ZDNet reports Linux Mint 27 is expected to arrive next month.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "8f15c0b606f14a79743adfe264e4286fb15b15d7",
+          "quote": "Linux Mint 27 arrives next month"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Register reports Mint 27 is expected to land before Christmas.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "22aef5d4d4b516471e67324b82b83f3daf2b8f92",
+          "quote": "Mint 27 to land before Christmas"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Mint 27 skips ahead from version 24 in its numbering.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "8f15c0b606f14a79743adfe264e4286fb15b15d7",
+          "quote": "Linux Mint 27 instead of 24"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The release brings stable Wayland display upgrades.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "22aef5d4d4b516471e67324b82b83f3daf2b8f92",
+          "quote": "stable Wayland display upgrades"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The update follows the autumn release of the Cinnamon 6.8 desktop.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "22aef5d4d4b516471e67324b82b83f3daf2b8f92",
+          "quote": "fresh from autumn release of Cinnamon desktop"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

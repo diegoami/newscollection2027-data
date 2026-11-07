@@ -1,0 +1,24 @@
+{
+  "anchor": "314bd089789a099591d7b35d357b65e6c584a918",
+  "id": "2026-11-06-211320",
+  "items": [
+    {
+      "item_id": "314bd089789a099591d7b35d357b65e6c584a918",
+      "lede": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "outlet": "techcrunch",
+      "published": "2026-11-06T22:53:46Z",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+      "lede": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-06T23:46:18Z",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

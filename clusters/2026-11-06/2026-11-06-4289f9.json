@@ -1,0 +1,24 @@
+{
+  "anchor": "959cfaa37cff7342b51637ab21c8e83844a36f47",
+  "id": "2026-11-06-4289f9",
+  "items": [
+    {
+      "item_id": "959cfaa37cff7342b51637ab21c8e83844a36f47",
+      "lede": "Google has rolled out 'Notify when left behind' separation alerts for your tracking devices.",
+      "outlet": "engadget",
+      "published": "2026-11-06T13:05:16Z",
+      "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+      "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/"
+    },
+    {
+      "item_id": "160cf9423a35ff4630399c27a473b193f9fc50a8",
+      "lede": "\u2018Notify when left behind\u2019 is making its way to Android \u2013 but to limited devices for now.",
+      "outlet": "zdnet",
+      "published": "2026-11-06T17:48:15Z",
+      "title": "Android is getting my favorite iOS tracking feature \u2013 what to expect",
+      "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

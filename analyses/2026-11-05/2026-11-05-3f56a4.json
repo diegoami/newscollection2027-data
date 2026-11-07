@@ -1,36 +1,15 @@
 {
   "cluster_id": "2026-11-05-3f56a4",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "Reviews split on how notable the new M6 MacBook Pro is",
-  "summary": "Both reviews cover Apple's 14-inch MacBook Pro with its new M6 chip. Engadget calls the update only a slight upgrade and more of the same, while Tom's Hardware frames the speedy new M6 chip and N1 Wi-Fi 7 chip more positively.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "New MacBook Pro lineup reviewed, from modest update to pricey screen",
+  "summary": "Apple's new MacBook Pro lineup drew mixed reviews: the M6 chip model is a modest but solid upgrade, while the pricier PROLED XDR/OLED touchscreen version impressed reviewers with its screen quality but drew criticism over cost, with outlets disagreeing on whether the touchscreen itself is worth the added price.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Both reviews cover the 14-inch MacBook Pro with Apple's new M6 chip.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
-          "quote": "MacBook Pro M6 review"
-        },
-        {
-          "outlet": "tomshardware",
-          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
-          "quote": "Apple MacBook Pro (14-inch, M6) review"
-        },
-        {
-          "outlet": "tomshardware",
-          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
-          "quote": "brings its powerful M6 chip"
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Engadget frames the update as only a slight, incremental upgrade.",
+      "statement": "Apple's M6 MacBook Pro is a modest, incremental upgrade over the previous model.",
       "sources": [
         {
           "outlet": "engadget",
@@ -38,25 +17,30 @@
           "quote": "A slight upgrade, but still the most accessible MacBook Pro"
         },
         {
-          "outlet": "engadget",
-          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
-          "quote": "The M6 MacBook Pro is more of the same, but that's still pretty great."
+          "outlet": "tomshardware",
+          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
+          "quote": "Apple’s brings its powerful M6 chip and N1 Wi-Fi 7 chip to the MacBook Pro."
         }
       ]
     },
     {
-      "id": "c3",
-      "statement": "Tom's Hardware highlights the M6 chip's speed and a new N1 Wi-Fi 7 chip.",
+      "id": "c2",
+      "statement": "The new MacBook Pro's PROLED XDR/OLED touchscreen display has excellent screen quality but comes at a much higher price.",
       "sources": [
         {
-          "outlet": "tomshardware",
-          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
-          "quote": "Speedy M6 chip slips into comfortable shoes"
+          "outlet": "wired",
+          "item_id": "611a5c4cf1af9d6e90d6c8b1d1e14ccd875f4eda",
+          "quote": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price."
         },
         {
-          "outlet": "tomshardware",
-          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
-          "quote": "N1 Wi-Fi 7 chip to the MacBook Pro."
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "Apple's touchscreen laptop is a notable evolution of the MacBook Pro at a much higher price."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "b5c1f3a9152a431d61a1cf9a27e62a37c39bbc5a",
+          "quote": "It has the best laptop screen we've used, but there may be reasons to wait."
         }
       ]
     }
@@ -64,22 +48,21 @@
   "discrepancies": [
     {
       "kind": "framing",
-      "severity": "low",
-      "explanation": "Engadget frames the update as a slight, incremental change, while Tom's Hardware frames the same chip update around its speed.",
+      "severity": "medium",
       "claim_ids": [
-        "c2",
-        "c3"
+        "c2"
       ],
+      "explanation": "Outlets differ on whether the new touchscreen itself is a worthwhile upgrade: one calls it the screen every Mac deserves, another says the touchscreen doesn't add much.",
       "quotes": [
         {
-          "outlet": "engadget",
-          "item_id": "465ee7a752cc18188af305459f85a28daac44799",
-          "quote": "A slight upgrade, but still the most accessible MacBook Pro"
+          "outlet": "tomshardware",
+          "item_id": "7123ace081c8d398ef3900ae8b1fb07e673d9f43",
+          "quote": "The screen that every Mac deserves"
         },
         {
-          "outlet": "tomshardware",
-          "item_id": "49842c5302b3fd5f72c17e2ff7538560ff3bbf8a",
-          "quote": "Speedy M6 chip slips into comfortable shoes"
+          "outlet": "engadget",
+          "item_id": "dca72253525b4f7378fc65d210011269a72f60a5",
+          "quote": "the touchscreen doesn't add much"
         }
       ]
     }

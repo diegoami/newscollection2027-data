@@ -17,8 +17,16 @@
       "published": "2026-11-03T14:32:46Z",
       "title": "NHS counts Palantir benefits at trusts that say they're not using it",
       "url": "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222"
+    },
+    {
+      "item_id": "a4f64ed53360e9de3ef69a988a9abef58c52e0e1",
+      "lede": "Supplier told to clear benefit claims with health chiefs, though enforcing approval could prove tricky",
+      "outlet": "theregister",
+      "published": "2026-11-06T09:30:00Z",
+      "title": "NHS wants a second opinion on Palantir's glowing self-assessments",
+      "url": "https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

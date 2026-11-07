@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-05-c34dc8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Chainalysis breach exposes customer credentials and tokens",
+  "summary": "Blockchain intelligence firm Chainalysis said hackers used an AI-agent-driven \"on-path\" attack to steal credentials and live tokens for all of its customers, tools that are also routinely used to support police investigations.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Chainalysis said a cyberattack on its systems stole credentials and tokens for all of its customers.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "f8e9629a67be56c3915fb46e43a09dc51c4a6191",
+          "quote": "Chainalysis says breach exposed credentials for all customers"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "a5eef3cf57a4e41068d18c3d750426ae75f2c8c8",
+          "quote": "Chainalysis says hackers stole credentials and tokens for all of its customers"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The attack involved an AI-agent-driven \"on-path\" intrusion.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "4c85354b1ef93ef001977e28dc6025d648c46a30",
+          "quote": "Agentic 'on-path attack' went after Chainalysis's tools"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "a5eef3cf57a4e41068d18c3d750426ae75f2c8c8",
+          "quote": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Chainalysis's tools are routinely used to assist police investigations.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "4c85354b1ef93ef001977e28dc6025d648c46a30",
+          "quote": "which are routinely called upon to assist police investigations"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

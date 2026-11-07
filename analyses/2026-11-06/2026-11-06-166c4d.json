@@ -1,0 +1,57 @@
+{
+  "cluster_id": "2026-11-06-166c4d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "EU charges TikTok over algorithm's effect on mental health",
+  "summary": "The European Commission charged TikTok with failing to protect users' mental health, saying its recommendation algorithm \"can be harmful\" and risks worsening eating disorders and anxiety, and said the platform needs to change how its For You page works.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The European Commission charged TikTok with failing to protect users' mental health.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+          "quote": "EU charges TikTok with failing to protect users’ mental health"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The EU's initial ruling says TikTok's algorithm \"can be harmful\" and led vulnerable viewers \"down rabbit holes they can't easily escape.\"",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+          "quote": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The EU says TikTok needs to change how its \"For You\" page works.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "5d3f38a57445e28c4326f650ae3024f98831faa1",
+          "quote": "the platform needs to change how the For You page works to help protect users' mental health"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The regulator said the content risks worsening eating disorders and anxiety.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+          "quote": "risks worsening eating disorders and anxiety"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,1 +1,116 @@
-{"cluster_id": "2026-11-04-f0944b", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-05T02:30:00Z", "headline": "Voters reject data center measures across 2026 US midterm ballots", "summary": "Data centers fared badly in the 2026 US midterms, with Tom's Hardware reporting that 45 ballot measures across several counties saw most Americans vote against development, and Engadget saying the rebuke was strongest in now-blue Ohio. Wired reports data centers and their supporters struggled from high-profile Senate races to local rezoning initiatives.", "claims": [{"id": "c1", "statement": "Voters across the US overwhelmingly rejected data center-related ballot measures in the 2026 midterms.", "sources": [{"outlet": "tomshardware", "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa", "quote": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments"}, {"outlet": "engadget", "item_id": "b1510e7ecb6f9f12dfd3526ab9dd0b9d541290a2", "quote": "Americans overwhelmingly voted against data centers in the midterms"}]}, {"id": "c2", "statement": "45 data center-related measures were put on the ballot across several counties.", "sources": [{"outlet": "tomshardware", "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa", "quote": "45 measures put on the ballot"}]}, {"id": "c3", "statement": "Engadget says the rebuke was strongest in Ohio.", "sources": [{"outlet": "engadget", "item_id": "b1510e7ecb6f9f12dfd3526ab9dd0b9d541290a2", "quote": "Nowhere was the rebuke stronger than the now-blue Ohio."}]}, {"id": "c4", "statement": "Wired reports data centers and their supporters fared poorly from Senate races to local rezoning initiatives.", "sources": [{"outlet": "wired", "item_id": "0d2f61a42e6273be843117d39ed2dd4267fa381b", "quote": "From high-profile Senate races to local rezoning initiatives, data centers and their supporters did miserably on the ballot in the 2026 midterms."}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-11-04-f0944b",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Voters reject data center development across 2026 midterm ballots",
+  "summary": "Outlets report that US voters broadly rejected data-center development in the November 2026 midterms, with Ohio's rebuke cited as especially strong and the opposition described as crossing party lines. They disagree on the exact count of data-center ballot measures, citing either 45 or 41, while Big Tech calls the backlash anti-Trump rather than anti-tech sentiment.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "US voters broadly rejected data-center development in the 2026 midterm elections.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa",
+          "quote": "Americans overwhelmingly vote against developments"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b1510e7ecb6f9f12dfd3526ab9dd0b9d541290a2",
+          "quote": "Americans overwhelmingly voted against data centers in the midterms"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "0d2f61a42e6273be843117d39ed2dd4267fa381b",
+          "quote": "The Results Are In: Voters Hate Data Centers"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "e5cb2e6663b2cf73f94aff6bef3049fbaf85c4b2",
+          "quote": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Tomshardware reports 45 data-center-related measures were put on the midterm ballot.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa",
+          "quote": "45 measures put on the ballot"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Techcrunch reports 41 data-center-related measures were voted on in the midterms.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "ead671d25881cf904ee0c23b5377db3c0861cc46",
+          "quote": "41 data center-related ballot measures"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Big Tech has characterized the backlash as anti-Trump sentiment rather than opposition to tech itself.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "e5cb2e6663b2cf73f94aff6bef3049fbaf85c4b2",
+          "quote": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Opposition to data centers in the midterms crossed party lines.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2c368bf7ce92124498a23aa585e77ae3f2055ebd",
+          "quote": "Data center opposition crossed party lines in Tuesday’s midterms."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The rebuke against data centers was especially strong in Ohio.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b1510e7ecb6f9f12dfd3526ab9dd0b9d541290a2",
+          "quote": "Nowhere was the rebuke stronger than the now-blue Ohio."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "explanation": "Outlets differ on how many data-center-related measures appeared on midterm ballots: tomshardware says 45, techcrunch says 41.",
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "b5f9dbc935588fadf3dd3608b22d7c4d142d7bfa",
+          "quote": "45 measures put on the ballot"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "ead671d25881cf904ee0c23b5377db3c0861cc46",
+          "quote": "41 data center-related ballot measures"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

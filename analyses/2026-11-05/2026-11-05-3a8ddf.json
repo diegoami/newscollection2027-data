@@ -1,20 +1,25 @@
 {
   "cluster_id": "2026-11-05-3a8ddf",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "Google, Meta and TikTok sue California over teen social media law",
-  "summary": "Google, Meta and TikTok are suing to block a California law, Assembly Bill 1709, that would require platforms to remove psychologically exploitative features and, if it takes effect next year, restrict social media access for children under 16.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Tech giants sue California over child social media law",
+  "summary": "Google, Meta and TikTok sued California to block Assembly Bill 1709, a law meant to protect children from social media addiction by banning features like autoplay that encourage compulsive use and requiring removal of \"psychologically exploitative features,\" restricting access for children under 16 if it takes effect next year.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Google, Meta and TikTok are suing to block a California social media law aimed at protecting kids.",
+      "statement": "Google, Meta, and TikTok sued California to block a new law intended to protect children from social media addiction.",
       "sources": [
         {
           "outlet": "engadget",
           "item_id": "c3f680f80a1d1e82dd95685de20ed6e8b1c28c49",
           "quote": "Google, Meta and TikTok are all suing California to block social media law intended to help kids"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "cf35ff0ba3dabfe9cce82f23e9c0f629e83f0896",
+          "quote": "Google, Meta and TikTok sue California to block law protecting children from addiction risk"
         },
         {
           "outlet": "techcrunch",
@@ -25,23 +30,34 @@
     },
     {
       "id": "c2",
-      "statement": "The law, Assembly Bill 1709, would require platforms to remove psychologically exploitative features.",
+      "statement": "The law, Assembly Bill 1709, requires platforms to remove \"psychologically exploitative features.\"",
       "sources": [
         {
           "outlet": "engadget",
           "item_id": "c3f680f80a1d1e82dd95685de20ed6e8b1c28c49",
-          "quote": "Assembly Bill 1709 demands that platforms remove \"psychologically exploitative features.\""
+          "quote": "psychologically exploitative features"
         }
       ]
     },
     {
       "id": "c3",
+      "statement": "The law targets features such as autoplay that encourage compulsive use among minors.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "cf35ff0ba3dabfe9cce82f23e9c0f629e83f0896",
+          "quote": "features such as autoplay that lead to compulsive use"
+        }
+      ]
+    },
+    {
+      "id": "c4",
       "statement": "If it takes effect next year, the law would restrict social media access for children under 16.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "fb3e595a55ebe30c3a74cd5cd006b50b4908f884",
-          "quote": "If it goes into effect next year, this California law would restrict social media access for children under 16."
+          "quote": "would restrict social media access for children under 16"
         }
       ]
     }

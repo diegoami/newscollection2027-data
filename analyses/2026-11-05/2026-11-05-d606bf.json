@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-05-d606bf",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "FBI, CISA warn hackers are targeting refrigeration systems",
+  "summary": "The FBI and CISA warned that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, risking food spoilage, equipment damage and fire hazards, though no documented attacks against American supermarkets have been reported yet.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The FBI and CISA warned that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+          "quote": "FBI, CISA warn of cyberattacks targeting refrigeration systems"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+          "quote": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The attacks could cause food spoilage, equipment damage, and fire hazards.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+          "quote": "potentially causing food spoilage, equipment damage, and fire hazards"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "No documented attacks against American supermarkets have been reported yet.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
+          "quote": "No documented attacks against American supermarkets…yet"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

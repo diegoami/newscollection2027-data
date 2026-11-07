@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-06-9e7e09",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Meta's Muse AI adds custom 'Spaces' feature",
+  "summary": "Meta introduced \"Spaces,\" a new Muse AI assistant feature that lets users build customized, app-like experiences such as a shopping hub, school dashboard, music tracker, or trivia game directly within the app.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta introduced \"Spaces,\" letting users build customized, app-like experiences within its Muse AI assistant.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "52e0623fab799a2104d74285fa23225585c09dd2",
+          "quote": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "46e88a02e03424f2e4eeb541c0c87cb3ce13197c",
+          "quote": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Spaces can build things like a shopping hub, school dashboard, music tracker, or trivia game.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "52e0623fab799a2104d74285fa23225585c09dd2",
+          "quote": "allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -33,8 +33,40 @@
       "published": "2026-11-04T16:56:17Z",
       "title": "The Results Are In: Voters Hate Data Centers",
       "url": "https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/"
+    },
+    {
+      "item_id": "e5cb2e6663b2cf73f94aff6bef3049fbaf85c4b2",
+      "lede": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "outlet": "arstechnica",
+      "published": "2026-11-04T20:55:50Z",
+      "title": "Big Tech claims voters\u2019 AI backlash is \u201canti-Trump\u201d not \u201canti-tech\u201d",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    },
+    {
+      "item_id": "2c368bf7ce92124498a23aa585e77ae3f2055ebd",
+      "lede": "Data center opposition crossed party lines in Tuesday\u2019s midterms.",
+      "outlet": "techcrunch",
+      "published": "2026-11-05T01:02:14Z",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+    },
+    {
+      "item_id": "22815b4f725ebdf4fa61a940d81eedb052c1363b",
+      "lede": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-06T16:38:02Z",
+      "title": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+    },
+    {
+      "item_id": "ead671d25881cf904ee0c23b5377db3c0861cc46",
+      "lede": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren\u2019t on the ballot directly, they were a [\u2026]",
+      "outlet": "techcrunch",
+      "published": "2026-11-06T17:23:52Z",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

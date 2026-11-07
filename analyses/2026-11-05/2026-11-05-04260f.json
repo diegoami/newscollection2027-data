@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-05-04260f",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "Tech stocks tumble after midterms on AI regulation fears",
-  "summary": "Major tech stocks fell sharply after the US midterm elections, with the Nasdaq on track for its worst day in 18 months, down as much as 5%, on fears the AI industry and data center construction will face tougher regulation and scrutiny.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "Tech stocks swing on fears of AI regulation after midterms",
+  "summary": "US tech shares fell sharply after the midterms on fears of tougher AI and data-center regulation, and the selloff spread to Asian and European markets. Outlets then differed on direction: some reported stocks climbing back after trillions in value were wiped out, while others still framed it as a possible AI bubble bursting.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Major tech stocks fell sharply following the US midterm election results.",
+      "statement": "US tech stocks fell sharply after the midterms on fears of tougher AI and data-center regulation.",
       "sources": [
         {
           "outlet": "theguardian",
@@ -25,37 +25,60 @@
     },
     {
       "id": "c2",
-      "statement": "The Nasdaq was on track for its worst day in 18 months, down as much as 5% on Thursday.",
+      "statement": "The selloff spread to Asian and European markets, with the FTSE down 1.5%.",
       "sources": [
         {
           "outlet": "theguardian",
-          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
-          "quote": "Nasdaq heading for its worst day in 18 months"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
-          "quote": "after slumping by up to 5% on Thursday"
+          "item_id": "cd3e75a722bb7c3b1648d98f0c3778207b0a57dc",
+          "quote": "Asian and European markets follow Wall Street with sharp fall as FTSE down 1.5%"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "The selloff reflects fears of tougher regulation and scrutiny of the AI industry and data centers after the midterms.",
+      "statement": "By Friday, AI stocks had climbed back after trillions had been wiped from market values.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "c937c61b4a1f1978da8937cf797f63a713906e00",
+          "quote": "AI stocks climb after trillions wiped from market values"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Commentators questioned whether the selloff signals the AI investment bubble bursting.",
       "sources": [
         {
           "outlet": "theguardian",
-          "item_id": "dcb771ac66309941ffbb7674083b18977cd6427d",
-          "quote": "amid growing signs that the artificial intelligence industry will face tougher regulation because of the midterm election results"
-        },
-        {
-          "outlet": "bbc-technology",
-          "item_id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
-          "quote": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
+          "item_id": "8b48cf50d5e9ea795b52cdc2ecd18d24ac3fedfb",
+          "quote": "US tech stock rout: is the AI bubble bursting?"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c3",
+        "c4"
+      ],
+      "explanation": "Outlets differ on market direction around the same time: one reports stocks climbing back, the other frames it as an ongoing rout.",
+      "quotes": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "c937c61b4a1f1978da8937cf797f63a713906e00",
+          "quote": "AI stocks climb after trillions wiped from market values"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "8b48cf50d5e9ea795b52cdc2ecd18d24ac3fedfb",
+          "quote": "US tech stock rout: is the AI bubble bursting?"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

@@ -1,25 +1,20 @@
 {
   "cluster_id": "2026-11-05-d2664f",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "New OpenSSH and musl flaw lets attackers bypass Linux passwords",
-  "summary": "A newly disclosed vulnerability nicknamed sshole combines flaws in OpenSSH and musl-libc, letting attackers bypass password authentication on Alpine Linux and possibly other musl-based distros by entering an overly long password, over 256 characters per Tom's Hardware. The Register calls the underlying OpenSSH bug decade-old and now fixed.",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "New *sshole flaw lets attackers bypass Linux password logins",
+  "summary": "A newly disclosed vulnerability dubbed \"*sshole,\" combining a decade-old OpenSSH flaw with musl-libc, lets attackers log into or gain root on Alpine Linux and possibly other musl-based distros by entering a password longer than 256 characters; patches are now available.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A vulnerability nicknamed sshole combines OpenSSH and musl-libc flaws to bypass password authentication on Alpine Linux and possibly other distros.",
+      "statement": "A newly disclosed vulnerability dubbed \"*sshole\" combines flaws in OpenSSH and musl-libc affecting Alpine Linux and other musl-based distros.",
       "sources": [
         {
           "outlet": "bleepingcomputer",
           "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
-          "quote": "OpenSSH flaw lets attackers log into password-disabled Linux accounts"
-        },
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
-          "quote": "*sshole"
+          "quote": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts"
         },
         {
           "outlet": "arstechnica",
@@ -30,28 +25,23 @@
     },
     {
       "id": "c2",
-      "statement": "The exploit works by entering an overly long password, over 256 characters per Tom's Hardware.",
+      "statement": "The flaw lets an attacker log in or gain root by entering a password longer than 256 characters, bypassing password-disabled authentication.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
-          "quote": "simply by entering an oversized password"
-        },
         {
           "outlet": "tomshardware",
           "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
-          "quote": "by typing anything over 256 characters as a password"
+          "quote": "typing anything over 256 characters as a password"
         },
         {
           "outlet": "theregister",
           "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
-          "quote": "by slamming it with an overly long password"
+          "quote": "slamming it with an overly long password"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "The Register describes the underlying OpenSSH vulnerability as decade-old and now fixed.",
+      "statement": "The underlying OpenSSH vulnerability is roughly a decade old and has now been fixed.",
       "sources": [
         {
           "outlet": "theregister",
@@ -62,12 +52,23 @@
     },
     {
       "id": "c4",
-      "statement": "Other distros beyond Alpine may also be affected.",
+      "statement": "Other musl-based distros beyond Alpine may also be affected.",
       "sources": [
         {
           "outlet": "arstechnica",
           "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
           "quote": "Certain configurations of Alpine are affected. Other distros may be as well."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "ZDNet describes the flaw as a dangerous security hole that must be patched immediately.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "01225038b1688c45d726b1345bd6dc67fe044956",
+          "quote": "This dangerous Linux security hole must be patched as soon as possible."
         }
       ]
     }

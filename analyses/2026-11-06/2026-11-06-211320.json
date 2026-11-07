@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-11-06-211320",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-07T02:12:39Z",
+  "headline": "OpenAI reportedly raises $11 billion at $1.25 trillion valuation",
+  "summary": "OpenAI reportedly raised an additional $11 billion in a new funding round pegging it at a $1.25 trillion valuation, following its $122 billion raise in March at an $852 billion valuation. Outlets differ on whether the round has already closed, as rival Anthropic nears its own IPO.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI reportedly raised an additional $11 billion at a $1.25 trillion valuation.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "314bd089789a099591d7b35d357b65e6c584a918",
+          "quote": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+          "quote": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "OpenAI previously raised $122 billion in March at an $852 billion valuation.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+          "quote": "not long after raising $122 billion from investors in March at a valuation of $852 billion"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Rival Anthropic is nearing its IPO.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+          "quote": "as rival Anthropic nears its IPO"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Outlets differ on whether the new valuation is already in effect or still pending: one says the round hasn't closed yet, the other describes OpenAI as already valued there.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "314bd089789a099591d7b35d357b65e6c584a918",
+          "quote": "a funding round that hasn't closed yet but is expected to in the coming weeks"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+          "quote": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
