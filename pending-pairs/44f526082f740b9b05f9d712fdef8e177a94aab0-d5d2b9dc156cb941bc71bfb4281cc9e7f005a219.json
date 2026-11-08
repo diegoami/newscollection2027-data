@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "44f526082f740b9b05f9d712fdef8e177a94aab0",
+    "lede": "New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here\u2019s what we know about Nova Point\u2019s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt 5, faster base RAM speeds, and active cooling",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T12:00:00Z",
+    "title": "Intel\u2019s next-gen Nova Lake needs new motherboards \u2014 what we expect from Nova Point and Z990, Z970, and B960 chipsets",
+    "url": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets"
+  },
+  "b": {
+    "item_id": "d5d2b9dc156cb941bc71bfb4281cc9e7f005a219",
+    "lede": "Inside the astonishing hardware behind World of Warcraft: Forever. 251TB of RAM and 70K cores kept millions of players online without a hitch.",
+    "outlet": "tomshardware",
+    "published": "2026-11-08T11:30:00Z",
+    "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever"
+  },
+  "score": 0.587604
+}
