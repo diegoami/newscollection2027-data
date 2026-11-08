@@ -1,53 +1,48 @@
 {
   "cluster_id": "2026-11-06-4fbfd5",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-07T02:12:39Z",
-  "headline": "Congress summons Nvidia's Huang over China spying claims",
-  "summary": "The New York Times reported that China's Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang and glean information on advanced AI chips, prompting Congress to summon Huang for answers about his ties to the alleged intelligence asset.",
+  "generated_at": "2026-11-08T02:11:47Z",
+  "headline": "Congress summons Nvidia's CEO after report ties him to a Chinese intelligence recruit",
+  "summary": "Nvidia CEO Jensen Huang has been summoned by Congress amid concerns over Chinese espionage. Reports say China's intelligence agency recruited Megaspeed executive Alice Huang to gather information on American AI chips, and that US officials believe Huang was romantically involved with her as part of what is described as a honeypot operation. Lawmakers want answers about his ties to the alleged intelligence asset.",
   "claims": [
     {
       "id": "c1",
-      "statement": "China's Ministry of State Security reportedly recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+      "statement": "Nvidia CEO Jensen Huang was summoned to appear before Congress over concerns about Chinese espionage.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-          "quote": "China reportedly recruited AI exec to spy on Jensen Huang"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-          "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times."
-        }
+        {"outlet": "arstechnica", "item_id": "8250334af19793e3f5138f072419939ef05bb89a", "quote": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns"},
+        {"outlet": "tomshardware", "item_id": "317e2e130bafb150202988e1bb4a801d102e9551", "quote": "officially called to Congress due to reports of a Chinese spy plot"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The goal was to glean information about American AI chips and potentially push Nvidia to make its most advanced chips available to China.",
+      "statement": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Jensen Huang.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-          "quote": "potentially influence the company to push for its most advanced chips to be made available to China."
-        }
+        {"outlet": "theverge", "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1", "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang"},
+        {"outlet": "engadget", "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6", "quote": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Congress summoned Jensen Huang over the Chinese espionage concerns, seeking answers about his ties to the alleged intelligence asset.",
+      "statement": "US officials believe Huang was romantically involved with the recruited spy in what is described as a honeypot operation.",
       "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "8250334af19793e3f5138f072419939ef05bb89a",
-          "quote": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "8250334af19793e3f5138f072419939ef05bb89a",
-          "quote": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset."
-        }
+        {"outlet": "engadget", "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6", "quote": "US officials say Huang was romantically involved with her."},
+        {"outlet": "tomshardware", "item_id": "eb20fdeaf759b817570219357b949a0b0640f9f6", "quote": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The recruitment reportedly aimed to gather intelligence on American AI chips.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1", "quote": "glean information about American AI chips"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Lawmakers want answers about Huang's ties to the alleged Chinese intelligence asset.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8250334af19793e3f5138f072419939ef05bb89a", "quote": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset."}
       ]
     }
   ],

@@ -1,42 +1,40 @@
 {
   "cluster_id": "2026-11-04-79bde2",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-06T02:23:34Z",
-  "headline": "New Bluetooth spec promises faster, easier-to-set-up devices",
-  "summary": "A new Bluetooth specification is rolling out that outlets say will make a wide range of wireless devices faster and easier to use, including smart home devices, beyond just lossless audio improvements.",
+  "generated_at": "2026-11-08T02:11:47Z",
+  "headline": "New Bluetooth spec promises faster data speeds for 2027 devices",
+  "summary": "Bluetooth's new High Data Throughput (HDT) feature, part of the Bluetooth 7 core specification, offers significantly higher bandwidth for wireless devices. Reports describe a maximum of 7.5 Mbps, enabling uses such as large lossless audio files, with the specification also expected to simplify smart home device setup.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A new Bluetooth specification is rolling out with speed improvements.",
+      "statement": "Bluetooth is getting a new High Data Throughput (HDT) feature that will make devices significantly faster.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b",
-          "quote": "Bluetooth is going to get a lot faster in 2027"
-        },
-        {
-          "outlet": "zdnet",
-          "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638",
-          "quote": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio"
-        }
+        {"outlet": "engadget", "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b", "quote": "Bluetooth is going to get a lot faster in 2027"},
+        {"outlet": "tomshardware", "item_id": "9f1433ccd5299c5120ccb3998b4ad17e3594bbec", "quote": "New Bluetooth High Data Throughput may finally satisfy audiophiles"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The update benefits a wide range of wireless devices, including smart home devices.",
+      "statement": "HDT can provide a maximum bandwidth of 7.5 Mbps.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "6d5fa63d11106a96ae91236a028c868b118dca7b",
-          "quote": "will benefit a wide range of wireless devices and how they communicate."
-        },
-        {
-          "outlet": "zdnet",
-          "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638",
-          "quote": "Bluetooth 7 could make your smart home devices easier to set up"
-        }
+        {"outlet": "tomshardware", "item_id": "9f1433ccd5299c5120ccb3998b4ad17e3594bbec", "quote": "Bluetooth HDT can offer a maximum bandwidth of 7.5 Mbps"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The higher bandwidth supports transmitting large lossless audio files.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "9f1433ccd5299c5120ccb3998b4ad17e3594bbec", "quote": "big lossless audio files"},
+        {"outlet": "zdnet", "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638", "quote": "beyond lossless audio"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The new Bluetooth 7 specification also aims to make smart home device setup easier.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "ef8ec7ea32e900e5d4c68aada53a8f616bf1a638", "quote": "Bluetooth 7 could make your smart home devices easier to set up"}
       ]
     }
   ],
