@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b6f0207e5bb92f62ae94e181951033eb27a93dad",
+    "lede": "CPU-Z data reveals PC memory capacity is dropping for the first time ever. Driven by skyrocketing AI DRAM prices, 64GB RAM adoption plummeted 18% YoY.",
+    "outlet": "tomshardware",
+    "published": "2026-11-08T12:40:00Z",
+    "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+    "url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback"
+  },
+  "b": {
+    "item_id": "d5d2b9dc156cb941bc71bfb4281cc9e7f005a219",
+    "lede": "Inside the astonishing hardware behind World of Warcraft: Forever. 251TB of RAM and 70K cores kept millions of players online without a hitch.",
+    "outlet": "tomshardware",
+    "published": "2026-11-08T11:30:00Z",
+    "title": "WoW: Forever launch used 70,480 CPU cores and 251 terabytes of RAM",
+    "url": "https://www.tomshardware.com/video-games/pc-gaming/wow-forever-launch-used-70-480-cpu-cores-and-251-terabytes-of-ram-3-924-virtual-machines-powered-one-of-world-of-warcrafts-smoothest-launches-ever"
+  },
+  "score": 0.634299
+}

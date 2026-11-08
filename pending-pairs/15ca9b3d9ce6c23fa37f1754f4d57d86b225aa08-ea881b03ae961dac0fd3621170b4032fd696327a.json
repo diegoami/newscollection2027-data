@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15ca9b3d9ce6c23fa37f1754f4d57d86b225aa08",
+    "lede": "The country's growth minister said the data centers will continue as \"essential infrastructure\" projects.",
+    "outlet": "engadget",
+    "published": "2026-11-08T18:10:01Z",
+    "title": "UK has no plans to slow down AI data center construction",
+    "url": "https://www.engadget.com/2310304/uk-has-no-plans-to-slow-down-ai-data-center-construction/"
+  },
+  "b": {
+    "item_id": "ea881b03ae961dac0fd3621170b4032fd696327a",
+    "lede": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+    "outlet": "techcrunch",
+    "published": "2026-11-05T19:12:39Z",
+    "title": "Meta\u2019s warns that election backlash against data centers could make AI expansion harder",
+    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+  },
+  "score": 0.591599
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "670335a07c630b2ba237a060ec0affd753d6c643",
+    "lede": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned, and people in the buildings say they're unfamiliar with the companies or have never seen anyone working there.",
+    "outlet": "tomshardware",
+    "published": "2026-11-08T13:00:00Z",
+    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers"
+  },
+  "b": {
+    "item_id": "73be1ddc7ff24f89939fa7315d8470755918688e",
+    "lede": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-07T15:43:45Z",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+  },
+  "score": 0.694502
+}
