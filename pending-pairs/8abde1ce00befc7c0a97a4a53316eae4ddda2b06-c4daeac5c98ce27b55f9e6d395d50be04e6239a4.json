@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+    "lede": "\"*sshole\" poses a serious threat to Internet security.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T19:41:34Z",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+  },
+  "b": {
+    "item_id": "c4daeac5c98ce27b55f9e6d395d50be04e6239a4",
+    "lede": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T17:04:23Z",
+    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/"
+  },
+  "score": 0.572557
+}

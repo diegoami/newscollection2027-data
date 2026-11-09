@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07df71967e3ded82cfc19bc8177cf29f033db599",
+    "lede": "Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator.",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T12:00:00Z",
+    "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space"
+  },
+  "b": {
+    "item_id": "5fb3e99b55398ee3e1df702ca9a783ffc8dd2d52",
+    "lede": "This will be the next Texas city in which Tesla will launch robotaxis.",
+    "outlet": "techcrunch",
+    "published": "2026-11-09T11:30:24Z",
+    "title": "Tesla expands robotaxi service to San Antonio",
+    "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/"
+  },
+  "score": 0.583685
+}

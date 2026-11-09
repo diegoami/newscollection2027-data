@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+    "lede": "\"*sshole\" poses a serious threat to Internet security.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T19:41:34Z",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+  },
+  "b": {
+    "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+    "lede": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "outlet": "arstechnica",
+    "published": "2026-11-05T23:09:36Z",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+  },
+  "score": 0.758648
+}

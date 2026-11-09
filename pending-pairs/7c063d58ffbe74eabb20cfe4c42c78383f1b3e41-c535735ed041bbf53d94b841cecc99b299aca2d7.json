@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c063d58ffbe74eabb20cfe4c42c78383f1b3e41",
+    "lede": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
+    "outlet": "tomshardware",
+    "published": "2026-11-09T13:20:00Z",
+    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board"
+  },
+  "b": {
+    "item_id": "c535735ed041bbf53d94b841cecc99b299aca2d7",
+    "lede": "With the announcement of its M6, Apple is stepping into a new generation of its processors. Here's why it still can't compete with NVIDIA GPUs.",
+    "outlet": "engadget",
+    "published": "2026-11-08T19:45:00Z",
+    "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+    "url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/"
+  },
+  "score": 0.607756
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+    "lede": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T00:56:44Z",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+  },
+  "b": {
+    "item_id": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+    "lede": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T18:32:42Z",
+    "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+    "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/"
+  },
+  "score": 0.595667
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "305e87f3a3200e3395eaafb9362172a3110595e0",
+    "lede": "Nvidia may cap cloud partners\u2019 Chinese business at 49% as Chinese firms buy up more than 1 million gaming and workstation GPUs.",
+    "outlet": "tomshardware",
+    "published": "2026-11-09T17:48:17Z",
+    "title": "Nvidia cracks down on overseas cloud AI GPU rentals for China",
+    "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-cracks-down-on-overseas-cloud-ai-gpu-rentals-for-china-partners-face-51-percent-non-chinese-quota-as-black-market-b300-rack-prices-surge-to-usd2-8-million"
+  },
+  "b": {
+    "item_id": "dd9ac9e3040502767dabd68f151a87591b978b6f",
+    "lede": "Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater visibility into where its AI GPUs are deployed. The move comes as Washington increases pressure over suspected chip smuggling into China, with investigations involving Megaspeed International and Super Micro highlighting the challenges of enforcing U.S. export",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T13:49:33Z",
+    "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status"
+  },
+  "score": 0.642866
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0411c3f3b8adeea6fb8641c8a07b2b4e24240427",
+    "lede": "Windows preview adds a 'don't ask again' option to accessibility prompts, sparing users a trip through Settings",
+    "outlet": "theregister",
+    "published": "2026-11-09T16:43:17Z",
+    "title": "Microsoft takes three decades to make Sticky Keys less sticky",
+    "url": "https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491"
+  },
+  "b": {
+    "item_id": "6bfd28fc241425937c7fed0b28bbcef3156f45e6",
+    "lede": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
+    "outlet": "zdnet",
+    "published": "2026-11-09T19:33:24Z",
+    "title": "You can change Windows settings directly from a search now \u2013 how to try it",
+    "url": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/"
+  },
+  "score": 0.603629
+}

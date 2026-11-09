@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26b47ef26f43a64080ff61b0d3e24212c5c32e24",
+    "lede": "Your computer's CPU is its most important part, and its most expensive one, too. So how long can you expect it to last if cared for properly?",
+    "outlet": "engadget",
+    "published": "2026-11-07T20:30:00Z",
+    "title": "How long should a PC processor actually last?",
+    "url": "https://www.engadget.com/2309550/how-long-pc-processor-should-last/"
+  },
+  "b": {
+    "item_id": "b6cdf0a68cd69285d8171ef7b13ac3adf6d6970b",
+    "lede": "The kind of AI models you can run depends on your machine's power. Let's unpack what your everyday PC will need, and how much it will cost you.",
+    "outlet": "engadget",
+    "published": "2026-11-09T13:45:00Z",
+    "title": "What hardware does your PC need to run a local AI model?",
+    "url": "https://www.engadget.com/2307701/pc-hardware-needed-run-local-ai-model/"
+  },
+  "score": 0.597905
+}

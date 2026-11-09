@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c063d58ffbe74eabb20cfe4c42c78383f1b3e41",
+    "lede": "A lawyer runs DeepSeek V4.1 Flash on eight used 2018-era Nvidia V100 GPUs at up to 215 tokens/s, keeping case files in the office.",
+    "outlet": "tomshardware",
+    "published": "2026-11-09T13:20:00Z",
+    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board"
+  },
+  "b": {
+    "item_id": "b7fb16d8c6e01244c274214c138ae97299cc906b",
+    "lede": "Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity.",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T12:45:00Z",
+    "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management"
+  },
+  "score": 0.573839
+}

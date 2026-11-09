@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8814f9d2297c7d7788dd34c45b6ae1bffd2a9c2f",
+    "lede": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-09T17:00:00Z",
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/"
+  },
+  "b": {
+    "item_id": "bfc94bfc806472916c280650b91b7c2bcd278608",
+    "lede": "Uber Parking is built on the company's acquisition of SpotHero.",
+    "outlet": "engadget",
+    "published": "2026-11-09T17:00:00Z",
+    "title": "Uber is launching its own parking reservation service",
+    "url": "https://www.engadget.com/2308678/uber-is-launching-its-own-parking-reservation-service/"
+  },
+  "score": 0.832283
+}

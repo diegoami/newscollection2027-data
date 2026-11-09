@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "23a4537c939c9516b46869ca6e2c1e3f5b3f47e2",
+    "lede": "If you wouldn't put it on GitHub, don't give models access to it",
+    "outlet": "theregister",
+    "published": "2026-11-06T21:39:23Z",
+    "title": "Agents reveal secrets when offered to team up with each other",
+    "url": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
+  },
+  "b": {
+    "item_id": "4065836ff3f518ca3fddf7b232f9cddee3d4ebc4",
+    "lede": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T17:24:26Z",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  "score": 0.587166
+}
