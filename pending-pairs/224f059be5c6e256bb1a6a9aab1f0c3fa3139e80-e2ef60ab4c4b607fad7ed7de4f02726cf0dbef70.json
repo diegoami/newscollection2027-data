@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "224f059be5c6e256bb1a6a9aab1f0c3fa3139e80",
+    "lede": "The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe.",
+    "outlet": "tomshardware",
+    "published": "2026-11-06T13:59:09Z",
+    "title": "Protesters storm Microsoft AI data center construction site",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe"
+  },
+  "b": {
+    "item_id": "e2ef60ab4c4b607fad7ed7de4f02726cf0dbef70",
+    "lede": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+    "outlet": "wired",
+    "published": "2026-11-09T08:00:00Z",
+    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+    "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"
+  },
+  "score": 0.571275
+}
