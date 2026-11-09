@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-11-08-2720cc",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-09T02:15:18Z",
+  "headline": "Elvis and Eminem rights holders sue AI music generator Suno",
+  "summary": "Rights holders for Elvis Presley and Eminem have filed new lawsuits against AI music generator Suno, the latest in a series of suits against the company. The suits claim Suno illegally generates music and lyrics mimicking the artists, with the Presley suit's lawyers alleging a violation of Tennessee law.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Rights holders for Elvis Presley and Eminem are suing AI music company Suno.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ae06ecf7187204d49f98e86440a318c0517e05ea",
+          "quote": "Elvis and Eminem rights holders are suing Suno"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7dbd1862c61df58051262abe17314aefc75bf352",
+          "quote": "Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The lawsuits are the latest in a series of suits against Suno.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ae06ecf7187204d49f98e86440a318c0517e05ea",
+          "quote": "Suno is facing yet another pair of lawsuits."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "7dbd1862c61df58051262abe17314aefc75bf352",
+          "quote": "Suno AI music generator sued again for copyright infringement"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The suits allege Suno illegally generates music and lyrics mimicking the artists.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ae06ecf7187204d49f98e86440a318c0517e05ea",
+          "quote": "claiming it illegally generates music and lyrics that mimic those artists"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Presley suit's lawyers allege a violation of Tennessee law.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ae06ecf7187204d49f98e86440a318c0517e05ea",
+          "quote": "The lawyers in the Presley suit claim that Suno has violated Tennessee's"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

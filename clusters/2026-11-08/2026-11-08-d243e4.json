@@ -1,0 +1,48 @@
+{
+  "anchor": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+  "id": "2026-11-08-d243e4",
+  "items": [
+    {
+      "item_id": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+      "lede": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-08T20:22:39Z",
+      "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+    },
+    {
+      "item_id": "bc55171edc52873bff3207dae3b200bbde4d2777",
+      "lede": "In a memo to the company, Huang admitted that he had an affair.",
+      "outlet": "techcrunch",
+      "published": "2026-11-08T21:00:11Z",
+      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+      "item_id": "62dafe86ba115a6fb8074a72e416ae6e1f1fdc8b",
+      "lede": "Reports by The New York Times and the Financial Times linked the CEO to a woman suspected to be a spy.",
+      "outlet": "engadget",
+      "published": "2026-11-08T21:17:45Z",
+      "title": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+      "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/"
+    },
+    {
+      "item_id": "db92d38fc027895d3450312d379be68f2058b525",
+      "lede": "Nvidia's board of directors is investigating a report about Jensen Huang's alleged affair with a client, claims it is still confident in Jensen and leadership team.",
+      "outlet": "tomshardware",
+      "published": "2026-11-08T21:27:29Z",
+      "title": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-ceo-jensen-huang-admits-to-having-an-affair-with-suspected-chinese-spy-jensen-apologizes-in-letter-to-staff-company-board-forms-independent-committee-to-investigate"
+    },
+    {
+      "item_id": "67abd93f196f854c598d858791643758806b6b1a",
+      "lede": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-08T22:54:50Z",
+      "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

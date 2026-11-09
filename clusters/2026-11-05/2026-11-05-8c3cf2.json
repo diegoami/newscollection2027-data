@@ -33,8 +33,16 @@
       "published": "2026-11-06T18:51:37Z",
       "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
       "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
+    },
+    {
+      "item_id": "4454cc71d896918e9c071a299ae203dd51ebcb2e",
+      "lede": "It's unclear which group entered the construction site first, but the action led to the arrest of 150 to 200 protesters.",
+      "outlet": "tomshardware",
+      "published": "2026-11-08T13:20:00Z",
+      "title": "Hundreds arrested after Microsoft data center protest turns violent",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

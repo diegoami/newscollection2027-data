@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-11-07-af5f6f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-09T02:15:18Z",
+  "headline": "Chinese firms cleared to buy banned Nvidia AI chips have empty offices",
+  "summary": "Two Chinese companies approved to receive Nvidia's banned H200 AI chips, New Matrix and Maginfra, have offices that appear abandoned. People nearby say they are unfamiliar with the firms or have never seen anyone working there, raising questions, per a New York Times report, about how the approved buyers were vetted.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Chinese companies approved to receive Nvidia's H200 AI chips have offices that appear empty or abandoned.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "73be1ddc7ff24f89939fa7315d8470755918688e",
+          "quote": "New Matrix is on the list of approved firms, yet its offices are empty"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "670335a07c630b2ba237a060ec0affd753d6c643",
+          "quote": "The offices for New Matrix and Maginfra, both approved to receive H200 chips, appear abandoned"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The two companies named are New Matrix and Maginfra.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "670335a07c630b2ba237a060ec0affd753d6c643",
+          "quote": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The claim traces to a New York Times report on the approved chip buyers.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "73be1ddc7ff24f89939fa7315d8470755918688e",
+          "quote": "According to The New York Times, New Matrix is on the list of approved firms"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "People near the offices say they are unfamiliar with the companies or have never seen anyone working there.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "670335a07c630b2ba237a060ec0affd753d6c643",
+          "quote": "people in the buildings say they're unfamiliar with the companies or have never seen anyone working there"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "One office is described as a hollow, empty shell.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "73be1ddc7ff24f89939fa7315d8470755918688e",
+          "quote": "a hollow gray shell"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

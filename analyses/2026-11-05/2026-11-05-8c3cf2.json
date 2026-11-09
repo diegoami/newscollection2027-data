@@ -1,26 +1,42 @@
 {
   "cluster_id": "2026-11-05-8c3cf2",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-07T02:12:39Z",
-  "headline": "Activists storm Microsoft datacentre site in Europe-wide protests",
-  "summary": "More than 100 campaign groups across 15 countries organized \"Stop Dirty Data Centres\" protests, and activists including the Dutch group Geef Tegengas stormed the construction site of a Microsoft datacentre in Amsterdam, with organizers saying further actions are planned across Europe following a similar backlash in the US elections.",
+  "generated_at": "2026-11-09T02:15:18Z",
+  "headline": "Europe-wide data center protests escalate to arrests at Microsoft site",
+  "summary": "Activists across Europe, including more than 100 campaign groups across 15 countries, staged coordinated protests against AI data centers. Protesters stormed a Microsoft datacentre construction site in Amsterdam and clashed with police. Two days later, the protest turned violent and police arrested 150 to 200 people.",
   "claims": [
     {
       "id": "c1",
-      "statement": "More than 100 campaign groups across 15 countries planned two days of \"Stop Dirty Data Centres\" protests in Europe.",
+      "statement": "Activists across Europe planned coordinated, multi-day protests against AI data centers this week.",
       "sources": [
         {
           "outlet": "theguardian",
           "item_id": "371db9293d0682b72552fae74373f0bbbac7e63b",
-          "quote": "More than 100 campaign groups will join together in 15 countries this week to call for a halt to major AI projects"
+          "quote": "Activists across Europe prepare two days of protests against datacentres"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
+          "quote": "Europe-wide protests planned demanding building moratorium"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Activists stormed and broke into the construction site of a Microsoft datacentre being built in Amsterdam.",
+      "statement": "More than 100 campaign groups across 15 countries joined the coordinated action.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "371db9293d0682b72552fae74373f0bbbac7e63b",
+          "quote": "More than 100 campaign groups will join together in 15 countries this week"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Protesters stormed a Microsoft AI data center construction site.",
       "sources": [
         {
           "outlet": "tomshardware",
@@ -35,8 +51,19 @@
       ]
     },
     {
-      "id": "c3",
-      "statement": "The Amsterdam action involved Geef Tegengas, a Dutch direct action group.",
+      "id": "c4",
+      "statement": "The site stormed was a Microsoft datacentre under construction in Amsterdam.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "51fc088bcbce7e56d41798adc593cee7746b3b39",
+          "quote": "Activists have stormed the site of a Microsoft datacentre being built in Amsterdam"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Protesters clashed with police while breaking into the site.",
       "sources": [
         {
           "outlet": "theguardian",
@@ -46,24 +73,24 @@
       ]
     },
     {
-      "id": "c4",
-      "statement": "Organizers say more protest actions are planned across Europe.",
+      "id": "c6",
+      "statement": "The protest later turned violent.",
       "sources": [
         {
           "outlet": "tomshardware",
-          "item_id": "224f059be5c6e256bb1a6a9aab1f0c3fa3139e80",
-          "quote": "with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe"
+          "item_id": "4454cc71d896918e9c071a299ae203dd51ebcb2e",
+          "quote": "Hundreds arrested after Microsoft data center protest turns violent"
         }
       ]
     },
     {
-      "id": "c5",
-      "statement": "The European protests follow a similar backlash against data centers seen in the recent US elections.",
+      "id": "c7",
+      "statement": "Police arrested 150 to 200 protesters.",
       "sources": [
         {
-          "outlet": "theregister",
-          "item_id": "3496d8ac5c67c64f74679efd549381ebee66d0d6",
-          "quote": "Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known"
+          "outlet": "tomshardware",
+          "item_id": "4454cc71d896918e9c071a299ae203dd51ebcb2e",
+          "quote": "the action led to the arrest of 150 to 200 protesters"
         }
       ]
     }
