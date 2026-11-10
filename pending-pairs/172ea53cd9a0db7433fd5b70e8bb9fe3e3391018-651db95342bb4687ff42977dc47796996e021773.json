@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "172ea53cd9a0db7433fd5b70e8bb9fe3e3391018",
+    "lede": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+    "outlet": "wired",
+    "published": "2026-11-09T22:40:10Z",
+    "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
+    "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/"
+  },
+  "b": {
+    "item_id": "651db95342bb4687ff42977dc47796996e021773",
+    "lede": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+    "outlet": "techcrunch",
+    "published": "2026-11-09T15:24:59Z",
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/"
+  },
+  "score": 0.73649
+}

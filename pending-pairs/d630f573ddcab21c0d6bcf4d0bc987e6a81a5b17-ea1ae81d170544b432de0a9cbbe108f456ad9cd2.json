@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d630f573ddcab21c0d6bcf4d0bc987e6a81a5b17",
+    "lede": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-09T14:50:35Z",
+    "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+    "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo"
+  },
+  "b": {
+    "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
+    "lede": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-10T03:58:13Z",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+  },
+  "score": 0.612523
+}

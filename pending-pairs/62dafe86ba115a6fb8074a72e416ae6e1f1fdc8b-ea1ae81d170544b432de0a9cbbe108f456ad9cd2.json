@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "62dafe86ba115a6fb8074a72e416ae6e1f1fdc8b",
+    "lede": "Reports by The New York Times and the Financial Times linked the CEO to a woman suspected to be a spy.",
+    "outlet": "engadget",
+    "published": "2026-11-08T21:17:45Z",
+    "title": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+    "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/"
+  },
+  "b": {
+    "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
+    "lede": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-10T03:58:13Z",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+  },
+  "score": 0.624025
+}

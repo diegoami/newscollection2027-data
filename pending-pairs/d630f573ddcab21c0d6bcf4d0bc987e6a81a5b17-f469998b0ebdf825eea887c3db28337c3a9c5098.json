@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d630f573ddcab21c0d6bcf4d0bc987e6a81a5b17",
+    "lede": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-09T14:50:35Z",
+    "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+    "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo"
+  },
+  "b": {
+    "item_id": "f469998b0ebdf825eea887c3db28337c3a9c5098",
+    "lede": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "outlet": "techcrunch",
+    "published": "2026-11-09T22:46:09Z",
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+  },
+  "score": 0.661663
+}
