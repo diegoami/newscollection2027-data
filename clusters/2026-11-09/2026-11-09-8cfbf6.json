@@ -1,0 +1,24 @@
+{
+  "anchor": "9c760cbdfbd6ace7bb17899365417f46262ddc19",
+  "id": "2026-11-09-8cfbf6",
+  "items": [
+    {
+      "item_id": "9c760cbdfbd6ace7bb17899365417f46262ddc19",
+      "lede": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "outlet": "techcrunch",
+      "published": "2026-11-09T19:39:41Z",
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+    },
+    {
+      "item_id": "c0b426b85c9acab9c91103317bf6607df7fb4e97",
+      "lede": "Billboard will give more weight to free, ad-supported listening in its methodology.",
+      "outlet": "engadget",
+      "published": "2026-11-09T21:09:51Z",
+      "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+      "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

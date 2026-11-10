@@ -1,0 +1,40 @@
+{
+  "headline": "Windows preview adds an easier way to silence Sticky Keys",
+  "summary": "A new Windows preview build adds a 'don't ask again' option, and a direct checkbox, that lets users disable the long-running Sticky Keys accessibility pop-up without digging through Settings.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Windows preview adds a 'don't ask again' option for the accessibility prompt, sparing users a trip through Settings.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "0411c3f3b8adeea6fb8641c8a07b2b4e24240427",
+          "quote": "Windows preview adds a 'don't ask again' option to accessibility prompts, sparing users a trip through Settings"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "A checkbox lets users simply turn the Sticky Keys pop-up off.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "b62d9a9a51093e81c7612403fb43d3711f3ea532",
+          "quote": "There's a checkbox that simply turns it off."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "b62d9a9a51093e81c7612403fb43d3711f3ea532",
+          "quote": "Windows 11 is finally adding an easier way to disable the Sticky Keys pop-up"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-7001e4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "23a4537c939c9516b46869ca6e2c1e3f5b3f47e2",
+  "item_id_b": "4065836ff3f518ca3fddf7b232f9cddee3d4ebc4",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "23a4537c939c9516b46869ca6e2c1e3f5b3f47e2-4065836ff3f518ca3fddf7b232f9cddee3d4ebc4",
+  "reason": "One reports research on AI agents leaking secrets when teamed up; the other reports a specific Claude Code prompt bug exposing secrets on GitHub -- different stories.",
+  "same_story": false
+}

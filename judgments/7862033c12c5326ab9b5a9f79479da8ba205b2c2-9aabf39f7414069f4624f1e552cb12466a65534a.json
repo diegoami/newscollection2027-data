@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7862033c12c5326ab9b5a9f79479da8ba205b2c2",
+  "item_id_b": "9aabf39f7414069f4624f1e552cb12466a65534a",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7862033c12c5326ab9b5a9f79479da8ba205b2c2-9aabf39f7414069f4624f1e552cb12466a65534a",
+  "reason": "One piece is an opinion column reacting to the Cybertruck wind-down, not a news report of the same event.",
+  "same_story": false
+}

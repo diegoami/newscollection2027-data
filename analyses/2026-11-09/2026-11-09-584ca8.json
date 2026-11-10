@@ -1,0 +1,45 @@
+{
+  "headline": "Feds probe Waymo robotaxis for passing stopped school buses",
+  "summary": "Federal regulators say Waymo robotaxis kept illegally passing stopped school buses even after a software fix rolled out nearly a year ago, prompting NHTSA to question the effectiveness of Waymo's 2025 software recall.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Waymo robotaxis kept illegally passing school buses after a software fix that was rolled out nearly a year ago.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "651db95342bb4687ff42977dc47796996e021773",
+          "quote": "Waymo robotaxis kept illegally passing school buses after software fix, feds say"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "651db95342bb4687ff42977dc47796996e021773",
+          "quote": "The update to Waymo's self-driving system was rolled out nearly a year ago."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "NHTSA is investigating whether Waymo robotaxis are still running school bus stop signs, questioning the effectiveness of the 2025 recall.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "fbfd0a1250a786732ef9855a743ea68b40d4fa31",
+          "quote": "NHTSA investigates if Waymo robotaxis are still running school bus stop signs"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "fbfd0a1250a786732ef9855a743ea68b40d4fa31",
+          "quote": "The latest probe questions the effectiveness of Waymo's software recall from 2025."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-584ca8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

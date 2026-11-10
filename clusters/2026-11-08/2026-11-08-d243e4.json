@@ -43,6 +43,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-11-06-4fbfd5",
   "version": 1
 }

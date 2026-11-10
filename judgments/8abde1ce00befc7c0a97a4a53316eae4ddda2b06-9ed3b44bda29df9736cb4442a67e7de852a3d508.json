@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+  "item_id_b": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06-9ed3b44bda29df9736cb4442a67e7de852a3d508",
+  "reason": "Both cover the same OpenSSH 'SSHole' vulnerability, from initial disclosure/patch to active exploitation.",
+  "same_story": true
+}

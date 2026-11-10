@@ -1,0 +1,51 @@
+{
+  "headline": "France blames Iran for cyberattacks on refrigeration systems",
+  "summary": "France has attributed October cyberattacks that disrupted refrigeration and freezer systems at more than 700 supermarkets, grocery stores and blood banks to Iranian state-backed hackers, saying the attacks caused food losses and sparked fires.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "France linked October cyberattacks on refrigeration systems at over 700 retail locations to Iranian state-backed hackers.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+          "quote": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "f31ca517d735187fcec69680753ed5c89a736d0a",
+          "quote": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The attacks caused food losses and sparked at least 15 fires.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+          "quote": "saying the attacks caused food losses and sparked at least 15 fires."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "TechCrunch reported the attacks also targeted freezer units at blood banks, not just grocery stores.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f31ca517d735187fcec69680753ed5c89a736d0a",
+          "quote": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-29e032",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

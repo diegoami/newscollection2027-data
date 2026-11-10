@@ -1,0 +1,56 @@
+{
+  "headline": "Anthropic buys $3.4 billion of gas turbine generators",
+  "summary": "Anthropic has committed $3.4 billion to secure 1.7GW of gas-fired generators from OnePWR Solutions, taking over existing Caterpillar orders to skip a long equipment waitlist and power its own AI data centers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic committed $3.4 billion to secure 1.7GW of gas-fired generators from OnePWR Solutions, taking over existing Caterpillar orders.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "f1d34edf42f32adc7bf7f191af4f71cdd59c5a3c",
+          "quote": "Anthropic has committed $3.4 billion to secure 1.7GW of gas-fired generators from OnePWR Solutions, taking over existing Caterpillar orders"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "ea1cff75717bdba91f568501d66bd9a61f6060df",
+          "quote": "Anthropic bought billions of dollars' worth of natural gas turbines"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The deal lets Anthropic skip a years-long waitlist for turbine equipment to power AI data centers.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "f1d34edf42f32adc7bf7f191af4f71cdd59c5a3c",
+          "quote": "lengthy equipment lead times push AI companies to build their own power infrastructure"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "f1d34edf42f32adc7bf7f191af4f71cdd59c5a3c",
+          "quote": "Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "TechCrunch suggested the deal could prove to be a source of regret for Anthropic.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "ea1cff75717bdba91f568501d66bd9a61f6060df",
+          "quote": "in a deal that could give it buyer's remorse."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-7bc9eb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

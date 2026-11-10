@@ -1,0 +1,40 @@
+{
+  "headline": "Meta expands AI age-detection on Instagram worldwide",
+  "summary": "Meta is expanding its AI age-guessing technology for Instagram teen accounts globally, and will also increase its use of the tech on Facebook and Threads.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta will use AI technology to look for clues that a user is a teenager, even if they entered an adult birthday, expanding the tech globally.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "071f696706a492020e140fb04be740f9650ceb4e",
+          "quote": "Meta expands Instagram’s AI age-guessing tech globally"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "071f696706a492020e140fb04be740f9650ceb4e",
+          "quote": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta will increase its use of the age-detection technology on Facebook and Threads as well.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "668027ea04d4b9e1f266b0656682628e34f7c350",
+          "quote": "The company will increase its use of the tech on Facebook and Threads too."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-c28c4c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

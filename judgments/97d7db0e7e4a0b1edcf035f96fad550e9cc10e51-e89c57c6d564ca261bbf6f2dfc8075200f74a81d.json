@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51",
+  "item_id_b": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "97d7db0e7e4a0b1edcf035f96fad550e9cc10e51-e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+  "reason": "One is a general FBI/CISA warning about refrigeration-system threats; the other reports France's specific attribution of the October supermarket attacks -- different events.",
+  "same_story": false
+}

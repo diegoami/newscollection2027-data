@@ -1,0 +1,24 @@
+{
+  "anchor": "64a9b8e5670479dcb330ba773cb886399dfa6bc8",
+  "id": "2026-11-09-361423",
+  "items": [
+    {
+      "item_id": "64a9b8e5670479dcb330ba773cb886399dfa6bc8",
+      "lede": "AMD is investigating reports that its External Events Utility generates continuous SSD writes of up to 5MB/s, even when Radeon-powered PCs are idle. Users have also reported declining SSD health, while potential workarounds come with performance trade-offs",
+      "outlet": "tomshardware",
+      "published": "2026-11-09T11:46:33Z",
+      "title": "AMD admits GPU driver bug is writing data continuously, wearing out SSDs",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-adrenalin-bug-could-be-writing-data-continuously-wearing-out-ssds-radeon-owner-claims-external-events-utility-used-up-1-percent-of-ssd-health-every-month-for-over-a-year"
+    },
+    {
+      "item_id": "1406aa278cae3ef1fd3834c2cce9ff86eb089b45",
+      "lede": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
+      "outlet": "zdnet",
+      "published": "2026-11-09T18:30:49Z",
+      "title": "AMD confirms GPU driver bug is wearing out your SSD \u2013 how to stop it",
+      "url": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

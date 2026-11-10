@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "071f696706a492020e140fb04be740f9650ceb4e",
+  "item_id_b": "668027ea04d4b9e1f266b0656682628e34f7c350",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "071f696706a492020e140fb04be740f9650ceb4e-668027ea04d4b9e1f266b0656682628e34f7c350",
+  "reason": "Both report Meta expanding its AI age-detection tech for Instagram/Facebook/Threads teen accounts.",
+  "same_story": true
+}

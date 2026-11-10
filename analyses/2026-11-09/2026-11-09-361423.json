@@ -1,0 +1,51 @@
+{
+  "headline": "AMD GPU driver bug found writing data that wears out SSDs",
+  "summary": "AMD is investigating, and has admitted, a bug in its External Events Utility that generates continuous SSD writes even when Radeon-powered PCs are idle, degrading SSD health. AMD has promised a fix.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "AMD's External Events Utility generates continuous SSD writes, even when the PC is idle, wearing out SSDs.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "64a9b8e5670479dcb330ba773cb886399dfa6bc8",
+          "quote": "its External Events Utility generates continuous SSD writes of up to 5MB/s, even when Radeon-powered PCs are idle"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "1406aa278cae3ef1fd3834c2cce9ff86eb089b45",
+          "quote": "AMD has admitted a bug within its External Events Utility is wearing out SSDs"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "AMD has promised a fix for the bug.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "1406aa278cae3ef1fd3834c2cce9ff86eb089b45",
+          "quote": "promises a fix."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Users have reported declining SSD health, and available workarounds involve performance trade-offs.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "64a9b8e5670479dcb330ba773cb886399dfa6bc8",
+          "quote": "Users have also reported declining SSD health, while potential workarounds come with performance trade-offs"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-361423",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

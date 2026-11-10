@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1bfb49a33e5997f3e4147401eaee57e534a1c5fb",
+  "item_id_b": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1bfb49a33e5997f3e4147401eaee57e534a1c5fb-ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+  "reason": "Both report Nvidia's investigation into CEO Jensen Huang's affair with suspected Chinese spy Alice Huang, or a direct development of it (admission, Congress summons, memo, intel reports).",
+  "same_story": true
+}

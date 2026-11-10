@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7862033c12c5326ab9b5a9f79479da8ba205b2c2",
+  "item_id_b": "8a4d90c4aa8b2d5c60f2a057de670bc3fbff5866",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7862033c12c5326ab9b5a9f79479da8ba205b2c2-8a4d90c4aa8b2d5c60f2a057de670bc3fbff5866",
+  "reason": "Both report Tesla's decision to wind down Cybertruck production, or Musk's later follow-up defending and elaborating on it.",
+  "same_story": true
+}

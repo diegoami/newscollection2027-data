@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "53044e44b3aab431cb3ba72c77d98518b2063dd5",
+  "item_id_b": "7e4ade7d99ceb0746b03870494c0cb6b60297472",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "53044e44b3aab431cb3ba72c77d98518b2063dd5-7e4ade7d99ceb0746b03870494c0cb6b60297472",
+  "reason": "Both report on internal pressure at Apple to accelerate Siri's agentic AI roadmap.",
+  "same_story": true
+}

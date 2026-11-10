@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "506a7d7aad4b028986ca67d5434e8352afcbd51c",
+  "item_id_b": "ba436dfdc0d3e84d341ade2f45ee0236f99c7709",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "506a7d7aad4b028986ca67d5434e8352afcbd51c-ba436dfdc0d3e84d341ade2f45ee0236f99c7709",
+  "reason": "Both are speculative or opinion takes on the Huang/Nvidia affair's fallout, not matching reports of one discrete event.",
+  "same_story": false
+}

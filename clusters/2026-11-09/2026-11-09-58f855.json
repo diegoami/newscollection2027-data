@@ -1,0 +1,24 @@
+{
+  "anchor": "4a7141713ab5f9229af004301433effd4d4125ed",
+  "id": "2026-11-09-58f855",
+  "items": [
+    {
+      "item_id": "4a7141713ab5f9229af004301433effd4d4125ed",
+      "lede": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-09T19:09:58Z",
+      "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+    },
+    {
+      "item_id": "82188091c6f04dda8df700cf8415c8184f69fdfa",
+      "lede": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
+      "outlet": "engadget",
+      "published": "2026-11-09T20:56:51Z",
+      "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+      "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

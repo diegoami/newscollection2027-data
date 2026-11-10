@@ -1,15 +1,110 @@
 {
-  "cluster_id": "2026-11-06-4fbfd5",
-  "cluster_version": 3,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-11-09T02:15:18Z",
-  "headline": "Congress summons Nvidia's Huang as reports link him to alleged Chinese spy",
-  "summary": "Congress summoned Nvidia CEO Jensen Huang over reports that China's intelligence service recruited a Megaspeed executive to spy on him, with US officials describing a romantic relationship some called a honeypot operation. Outlets differ on whether the recruitment claim stems from a New York Times report or a separately circulated US intelligence memo.",
+  "headline": "Nvidia investigates CEO Jensen Huang's alleged affair with suspected Chinese spy",
+  "summary": "Nvidia opened an investigation into CEO Jensen Huang's relationship with Alice Huang, a Megaspeed executive reportedly recruited by Chinese intelligence to spy on him. Huang admitted the affair in a staff memo, Congress summoned him over espionage concerns, Nvidia's shares fell, and figures including Elon Musk and Donald Trump voiced support. Outlets differ on whether to call the relationship an affair and on which papers first reported it.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Congress summoned Nvidia CEO Jensen Huang over Chinese espionage concerns.",
+      "statement": "Nvidia's board opened an independent investigation into Huang's relationship with Alice Huang.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+          "quote": "opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "2b527a5d8a869d76f325eb703dc7255de23a57a7",
+          "quote": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "62dafe86ba115a6fb8074a72e416ae6e1f1fdc8b",
+          "quote": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Alice Huang, a Megaspeed executive, is alleged to have been recruited by China's Ministry of State Security to spy on Huang and Nvidia.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
+          "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6",
+          "quote": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "69c75581d56ff5e1da78b460d1c1cfcddb739c3c",
+          "quote": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "d630f573ddcab21c0d6bcf4d0bc987e6a81a5b17",
+          "quote": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "U.S. intelligence reportedly believes the relationship was a Chinese 'honeypot' operation and that Nvidia is probing whether intelligence agents targeted Huang through an affair.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "eb20fdeaf759b817570219357b949a0b0640f9f6",
+          "quote": "'honeypot' operation involving Megaspeed executive Alice Huang."
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6",
+          "quote": "US officials say Huang was romantically involved with her."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5d63754d84e9ecf358aa8cd541094c08cf840bd9",
+          "quote": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Huang admitted to having an affair in a memo sent to Nvidia staff.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "bc55171edc52873bff3207dae3b200bbde4d2777",
+          "quote": "In a memo to the company, Huang admitted that he had an affair."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "db92d38fc027895d3450312d379be68f2058b525",
+          "quote": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "67abd93f196f854c598d858791643758806b6b1a",
+          "quote": "Huang sent a memo to Nvidia employees acknowledging the affair."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Nvidia's board said it remains confident in Huang and the leadership team.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "db92d38fc027895d3450312d379be68f2058b525",
+          "quote": "claims it is still confident in Jensen and leadership team."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Jensen Huang was summoned to appear before a congressional committee over the espionage concerns.",
       "sources": [
         {
           "outlet": "arstechnica",
@@ -20,91 +115,133 @@
           "outlet": "tomshardware",
           "item_id": "317e2e130bafb150202988e1bb4a801d102e9551",
           "quote": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot"
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "China's intelligence agency reportedly recruited a Megaspeed executive to spy on Huang.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-          "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang,"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6",
-          "quote": "The spy who targeted NVIDIA CEO Jensen Huang was reportedly a recruit by China's version of the CIA."
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "69c75581d56ff5e1da78b460d1c1cfcddb739c3c",
-          "quote": "China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "US officials and intelligence sources say Huang was romantically involved with the suspected spy.",
-      "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6",
-          "quote": "US officials say Huang was romantically involved with her."
         },
         {
           "outlet": "tomshardware",
-          "item_id": "eb20fdeaf759b817570219357b949a0b0640f9f6",
-          "quote": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation"
+          "item_id": "303caac7e48e33245c53a5dc13af3bc2bf298e55",
+          "quote": "Jensen Huang has been summoned to appear before Congress's Select Committee on the CCP."
         }
       ]
     },
     {
-      "id": "c4",
-      "statement": "US intelligence described the affair as part of a 'honeypot' operation.",
+      "id": "c7",
+      "statement": "Elon Musk, Donald Trump and other prominent figures expressed support for Huang after the admission.",
       "sources": [
         {
-          "outlet": "tomshardware",
-          "item_id": "eb20fdeaf759b817570219357b949a0b0640f9f6",
-          "quote": "Nvidia chief Jensen Huang was targeted by Chinese intelligence in a 'honeypot' operation"
+          "outlet": "theguardian",
+          "item_id": "b34093d38dcd8a8993d74daa5ed2775b0f37c9af",
+          "quote": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "b34093d38dcd8a8993d74daa5ed2775b0f37c9af",
+          "quote": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees"
         }
       ]
     },
     {
-      "id": "c5",
-      "statement": "The recruitment claim stems from a circulated US intelligence memo.",
+      "id": "c8",
+      "statement": "Nvidia's share price fell sharply after the investigation news, wiping hundreds of billions of dollars from its value.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "cfcba81110793f095aea6af4fcbc28efb2f821eb",
+          "quote": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "statement": "The affair allegations threaten to complicate Nvidia's lobbying to loosen U.S. chip export restrictions to China.",
       "sources": [
         {
           "outlet": "techcrunch",
-          "item_id": "69c75581d56ff5e1da78b460d1c1cfcddb739c3c",
-          "quote": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+          "item_id": "20ff528b54959b19ecf3b84f402e25e38f4a21a4",
+          "quote": "threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "statement": "A Yale governance expert, Jeffrey Sonnenfeld, estimated the odds Huang keeps his job at roughly 50-50.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "fdfdfd60876dfdbc6b153bc9a5355de790c12ff2",
+          "quote": "Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "statement": "The Register described the suspected contact as someone who had bought GPUs in bulk.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "1bfb49a33e5997f3e4147401eaee57e534a1c5fb",
+          "quote": "who bought GPUs in bulk"
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "statement": "The Guardian reported footage of a 'hand on the back, a kiss on the cheek' between Huang and Alice Huang at a Taipei venue last year.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "ebc96c3f5b6c20f3b62559acdaee499402563fac",
+          "quote": "A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year"
         }
       ]
     }
   ],
   "discrepancies": [
     {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c2",
+        "c4"
+      ],
+      "explanation": "Some outlets state Huang admitted to an affair, while others describe the relationship only as a 'close relationship' without confirming an affair.",
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "db92d38fc027895d3450312d379be68f2058b525",
+          "quote": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "d630f573ddcab21c0d6bcf4d0bc987e6a81a5b17",
+          "quote": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
+        }
+      ]
+    },
+    {
       "kind": "attribution",
       "severity": "low",
-      "explanation": "Outlets attribute the recruitment claim to different sources: The New York Times versus a circulated US intelligence memo.",
+      "claim_ids": [
+        "c1"
+      ],
+      "explanation": "Outlets differ on which publication first reported the allegations: Engadget cites both the New York Times and the Financial Times, while the Verge credits only the New York Times.",
       "quotes": [
         {
           "outlet": "theverge",
           "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
-          "quote": "according to The New York Times"
+          "quote": "according to The New York Times."
         },
         {
-          "outlet": "techcrunch",
-          "item_id": "69c75581d56ff5e1da78b460d1c1cfcddb739c3c",
-          "quote": "A memo circulated earlier this year reportedly claimed"
+          "outlet": "engadget",
+          "item_id": "62dafe86ba115a6fb8074a72e416ae6e1f1fdc8b",
+          "quote": "Reports by The New York Times and the Financial Times linked the CEO to a woman suspected to be a spy."
         }
-      ],
-      "claim_ids": [
-        "c2",
-        "c5"
       ]
     }
   ],
-  "agreement": "partial"
+  "agreement": "partial",
+  "cluster_id": "2026-11-06-4fbfd5",
+  "cluster_version": 4,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
 }

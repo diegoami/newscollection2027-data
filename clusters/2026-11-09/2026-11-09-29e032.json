@@ -1,0 +1,24 @@
+{
+  "anchor": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+  "id": "2026-11-09-29e032",
+  "items": [
+    {
+      "item_id": "e89c57c6d564ca261bbf6f2dfc8075200f74a81d",
+      "lede": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-09T18:32:42Z",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/"
+    },
+    {
+      "item_id": "f31ca517d735187fcec69680753ed5c89a736d0a",
+      "lede": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "outlet": "techcrunch",
+      "published": "2026-11-09T19:19:24Z",
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

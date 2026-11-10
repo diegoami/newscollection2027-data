@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8250334af19793e3f5138f072419939ef05bb89a",
+  "item_id_b": "fdfdfd60876dfdbc6b153bc9a5355de790c12ff2",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8250334af19793e3f5138f072419939ef05bb89a-fdfdfd60876dfdbc6b153bc9a5355de790c12ff2",
+  "reason": "One piece is speculative commentary on the Huang/Nvidia affair's fallout, not a report of the same discrete investigation event the other covers.",
+  "same_story": false
+}

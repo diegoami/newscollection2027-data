@@ -1,0 +1,24 @@
+{
+  "anchor": "071f696706a492020e140fb04be740f9650ceb4e",
+  "id": "2026-11-09-c28c4c",
+  "items": [
+    {
+      "item_id": "071f696706a492020e140fb04be740f9650ceb4e",
+      "lede": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers \u2014 even if they use an adult birthday.",
+      "outlet": "techcrunch",
+      "published": "2026-11-09T15:32:27Z",
+      "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/"
+    },
+    {
+      "item_id": "668027ea04d4b9e1f266b0656682628e34f7c350",
+      "lede": "The company will increase its use of the tech on Facebook and Threads too.",
+      "outlet": "engadget",
+      "published": "2026-11-09T15:58:55Z",
+      "title": "Meta is expanding AI age detection for Instagram teen accounts",
+      "url": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

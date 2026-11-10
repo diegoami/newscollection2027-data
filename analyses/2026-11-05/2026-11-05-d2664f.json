@@ -1,59 +1,32 @@
 {
-  "cluster_id": "2026-11-05-d2664f",
-  "cluster_version": 2,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-11-07T02:12:39Z",
-  "headline": "New *sshole flaw lets attackers bypass Linux password logins",
-  "summary": "A newly disclosed vulnerability dubbed \"*sshole,\" combining a decade-old OpenSSH flaw with musl-libc, lets attackers log into or gain root on Alpine Linux and possibly other musl-based distros by entering a password longer than 256 characters; patches are now available.",
+  "headline": "OpenSSH 'SSHole' flaw lets attackers bypass Linux passwords",
+  "summary": "A newly disclosed OpenSSH vulnerability, dubbed \"*sshole,\" lets attackers log into password-disabled Alpine Linux and other musl-based accounts by submitting an oversized password. A patch was issued, but days later outlets reported hackers actively exploiting the flaw to run commands, steal credentials and gain persistent access.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A newly disclosed vulnerability dubbed \"*sshole\" combines flaws in OpenSSH and musl-libc affecting Alpine Linux and other musl-based distros.",
+      "statement": "Attackers can log into certain password-protected Linux accounts by submitting an oversized password.",
       "sources": [
         {
           "outlet": "bleepingcomputer",
           "item_id": "671b07a9ce2d4371b8d5c09163b9ddc6974afb12",
-          "quote": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts"
+          "quote": "simply by entering an oversized password."
         },
         {
-          "outlet": "arstechnica",
-          "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
-          "quote": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices"
+          "outlet": "tomshardware",
+          "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
+          "quote": "typing anything over 256 characters as a password"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The flaw lets an attacker log in or gain root by entering a password longer than 256 characters, bypassing password-disabled authentication.",
+      "statement": "The flaw results from a combination of OpenSSH and musl-libc, affecting Alpine Linux and other musl-based distributions.",
       "sources": [
         {
           "outlet": "tomshardware",
           "item_id": "62544fdf153fca84732c041a7d93a63cbb4235fe",
-          "quote": "typing anything over 256 characters as a password"
+          "quote": "Combined OpenSSH and musl-libc flaws let anyone into Alpine Linux and other distros"
         },
-        {
-          "outlet": "theregister",
-          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
-          "quote": "slamming it with an overly long password"
-        }
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "The underlying OpenSSH vulnerability is roughly a decade old and has now been fixed.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
-          "quote": "Decade-old vulnerability in OpenSSH is now fixed, so get a-patchin'"
-        }
-      ]
-    },
-    {
-      "id": "c4",
-      "statement": "Other musl-based distros beyond Alpine may also be affected.",
-      "sources": [
         {
           "outlet": "arstechnica",
           "item_id": "9ed3b44bda29df9736cb4442a67e7de852a3d508",
@@ -62,17 +35,76 @@
       ]
     },
     {
-      "id": "c5",
-      "statement": "ZDNet describes the flaw as a dangerous security hole that must be patched immediately.",
+      "id": "c3",
+      "statement": "A patch for the vulnerability was issued.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+          "quote": "Decade-old vulnerability in OpenSSH is now fixed"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Outlets described the flaw as highly severe and urged users to patch immediately.",
       "sources": [
         {
           "outlet": "zdnet",
           "item_id": "01225038b1688c45d726b1345bd6dc67fe044956",
-          "quote": "This dangerous Linux security hole must be patched as soon as possible."
+          "quote": "This dangerous Linux security hole"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+          "quote": "poses a serious threat to Internet security."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Hackers are actively exploiting the vulnerability, tracked as CVE-2026-123158, to execute commands, steal credentials and establish persistent access.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+          "quote": "actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access."
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+          "quote": "is under active exploitation"
         }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "claim_ids": [
+        "c3",
+        "c5"
+      ],
+      "explanation": "Early coverage described the flaw as already fixed by a patch, while later coverage reported it was still being actively exploited days after disclosure.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "2a3856813d54ce94400ed20b278afec26e1455be",
+          "quote": "Decade-old vulnerability in OpenSSH is now fixed"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+          "quote": "is under active exploitation"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial",
+  "cluster_id": "2026-11-05-d2664f",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
 }

@@ -41,8 +41,24 @@
       "published": "2026-11-07T00:00:45Z",
       "title": "Alpine Linux and OpenSSH patch flaw that\u2019s as bad as it can get",
       "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/"
+    },
+    {
+      "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+      "lede": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-09T16:04:57Z",
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+    },
+    {
+      "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+      "lede": "\"*sshole\" poses a serious threat to Internet security.",
+      "outlet": "arstechnica",
+      "published": "2026-11-09T19:41:34Z",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

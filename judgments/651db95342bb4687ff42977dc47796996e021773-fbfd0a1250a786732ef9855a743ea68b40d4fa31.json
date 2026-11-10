@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "651db95342bb4687ff42977dc47796996e021773",
+  "item_id_b": "fbfd0a1250a786732ef9855a743ea68b40d4fa31",
+  "judged_at": "2026-11-10T02:17:07Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "651db95342bb4687ff42977dc47796996e021773-fbfd0a1250a786732ef9855a743ea68b40d4fa31",
+  "reason": "Both report NHTSA/feds investigating Waymo robotaxis for continuing to pass stopped school buses.",
+  "same_story": true
+}

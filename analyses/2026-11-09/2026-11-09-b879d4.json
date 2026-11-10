@@ -1,0 +1,51 @@
+{
+  "headline": "Anthropic launches Claude Fable and Mythos 5.2 models",
+  "summary": "Anthropic announced two new models, Claude Fable 5.2 and Claude Mythos 5.2, claiming improvements in coding, reasoning and vision, and faster output than the 5.1 versions.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic announced two new models, Claude Fable 5.2 and Claude Mythos 5.2, designed to take on technical challenges.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f1eea0a2781af6aa83cc32733ec51a7eb5b4289f",
+          "quote": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Anthropic says the new models show improvements in coding, reasoning and vision, and communicate more clearly with users.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f1eea0a2781af6aa83cc32733ec51a7eb5b4289f",
+          "quote": "The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "2b128ff095485e1c3bfe38356b51cd6ada33c723",
+          "quote": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "TechCrunch reported the release comes amid RSI (recursive self-improvement) concerns.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "2b128ff095485e1c3bfe38356b51cd6ada33c723",
+          "quote": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-b879d4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

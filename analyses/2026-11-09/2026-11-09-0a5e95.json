@@ -1,0 +1,40 @@
+{
+  "headline": "GitHub spoof project emails Sam Altman users' RAM usage",
+  "summary": "A GitHub project called ram-altman monitors a PC's RAM usage and emails a report to Sam Altman if utilization falls under 90%. Ars Technica says it verified the RAM figures are real, without actually emailing OpenAI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The GitHub project 'ram-altman' monitors RAM usage and emails a report to Sam Altman if usage is under 90%.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "8dd2e8ffede7a5c02181d86833e445dc4d2c34e9",
+          "quote": "A new GitHub repository dubbed ram-altman features a script to monitor your PC’s RAM usage and report back to the eponymous OpenAI boss."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "8dd2e8ffede7a5c02181d86833e445dc4d2c34e9",
+          "quote": "Spoof program monitors and emails your RAM usage to Sam Altman if under 90% utilization"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The reported RAM usage numbers the script generates are real.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "1f8464b9a8d55e3394de88a301ce5a4164223573",
+          "quote": "We verified the RAM numbers are real without sending any emails to OpenAI."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full",
+  "cluster_id": "2026-11-09-0a5e95",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-10T02:23:32Z"
+}

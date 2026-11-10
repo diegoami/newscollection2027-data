@@ -1,0 +1,24 @@
+{
+  "anchor": "f1d34edf42f32adc7bf7f191af4f71cdd59c5a3c",
+  "id": "2026-11-09-7bc9eb",
+  "items": [
+    {
+      "item_id": "f1d34edf42f32adc7bf7f191af4f71cdd59c5a3c",
+      "lede": "Anthropic has committed $3.4 billion to secure 1.7GW of gas-fired generators from OnePWR Solutions, taking over existing Caterpillar orders as lengthy equipment lead times push AI companies to build their own power infrastructure",
+      "outlet": "tomshardware",
+      "published": "2026-11-09T13:45:00Z",
+      "title": "Anthropic skips six-year waitlist with massive $3.4 billion gas turbine generator deal",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
+    },
+    {
+      "item_id": "ea1cff75717bdba91f568501d66bd9a61f6060df",
+      "lede": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "outlet": "techcrunch",
+      "published": "2026-11-09T16:56:54Z",
+      "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
