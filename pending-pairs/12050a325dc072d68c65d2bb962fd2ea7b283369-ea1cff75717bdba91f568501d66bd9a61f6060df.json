@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
+    "lede": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-10T13:45:36Z",
+    "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+    "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+  },
+  "b": {
+    "item_id": "ea1cff75717bdba91f568501d66bd9a61f6060df",
+    "lede": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "outlet": "techcrunch",
+    "published": "2026-11-09T16:56:54Z",
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+  },
+  "score": 0.644506
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e1f9b33c691b69153f7c24b40ea8a171df0b40a",
+    "lede": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T08:51:25Z",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+  },
+  "b": {
+    "item_id": "8a1aa3911faff42e43438108ec4da97d0180f142",
+    "lede": "Another Chrome memory bug gets squashed, but not before attackers got their hands on it",
+    "outlet": "theregister",
+    "published": "2026-11-10T13:28:00Z",
+    "title": "Chrome zero-day whack-a-mole continues as 2026 tally hits 8",
+    "url": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732"
+  },
+  "score": 0.575792
+}

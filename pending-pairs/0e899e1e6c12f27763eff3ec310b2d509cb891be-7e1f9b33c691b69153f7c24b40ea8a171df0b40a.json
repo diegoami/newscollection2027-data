@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e899e1e6c12f27763eff3ec310b2d509cb891be",
+    "lede": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T10:10:20Z",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+  },
+  "b": {
+    "item_id": "7e1f9b33c691b69153f7c24b40ea8a171df0b40a",
+    "lede": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T08:51:25Z",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+  },
+  "score": 0.585351
+}

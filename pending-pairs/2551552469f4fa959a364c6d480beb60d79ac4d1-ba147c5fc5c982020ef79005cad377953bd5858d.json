@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2551552469f4fa959a364c6d480beb60d79ac4d1",
+    "lede": "Linus Torvalds thinks that AI fixes drove most of the progress in Linux kernel 7.4rc2 \u2014 BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift",
+    "outlet": "tomshardware",
+    "published": "2026-11-10T12:40:00Z",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel",
+    "url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-that-ai-fixes-drove-most-of-the-progress-in-latest-linux-kernel-bpf-saw-more-ai-written-fixes-than-bug-reports-possibly-indicating-a-tidal-shift-for-open-source-maintainers-tired-of-flood-of-junk-reports"
+  },
+  "b": {
+    "item_id": "ba147c5fc5c982020ef79005cad377953bd5858d",
+    "lede": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T20:24:19Z",
+    "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/"
+  },
+  "score": 0.599066
+}

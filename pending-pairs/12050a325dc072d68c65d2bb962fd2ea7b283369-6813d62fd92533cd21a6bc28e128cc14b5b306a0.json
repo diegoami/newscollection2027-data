@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
+    "lede": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-10T13:45:36Z",
+    "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+    "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+  },
+  "b": {
+    "item_id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+    "lede": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-06T23:46:18Z",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+  },
+  "score": 0.58495
+}

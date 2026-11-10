@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e1f9b33c691b69153f7c24b40ea8a171df0b40a",
+    "lede": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T08:51:25Z",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+  },
+  "b": {
+    "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+    "lede": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T16:04:57Z",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+  },
+  "score": 0.571459
+}

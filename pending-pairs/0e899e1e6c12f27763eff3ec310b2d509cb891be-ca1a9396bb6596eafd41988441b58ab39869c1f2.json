@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e899e1e6c12f27763eff3ec310b2d509cb891be",
+    "lede": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T10:10:20Z",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+  },
+  "b": {
+    "item_id": "ca1a9396bb6596eafd41988441b58ab39869c1f2",
+    "lede": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-07T00:00:55Z",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+  },
+  "score": 0.659526
+}

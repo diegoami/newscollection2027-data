@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d63754d84e9ecf358aa8cd541094c08cf840bd9",
+    "lede": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T15:23:20Z",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+  },
+  "b": {
+    "item_id": "dbf98c5ab7b4b11bc598046f62d14714f63dedf6",
+    "lede": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-09T21:52:28Z",
+    "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+    "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o"
+  },
+  "score": 0.615739
+}

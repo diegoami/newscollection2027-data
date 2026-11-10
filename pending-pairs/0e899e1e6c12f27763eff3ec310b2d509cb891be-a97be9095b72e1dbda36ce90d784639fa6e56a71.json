@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e899e1e6c12f27763eff3ec310b2d509cb891be",
+    "lede": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T10:10:20Z",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+  },
+  "b": {
+    "item_id": "a97be9095b72e1dbda36ce90d784639fa6e56a71",
+    "lede": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T18:46:52Z",
+    "title": "Fake security tools on GitHub push backdoors and infostealers",
+    "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/"
+  },
+  "score": 0.6132
+}

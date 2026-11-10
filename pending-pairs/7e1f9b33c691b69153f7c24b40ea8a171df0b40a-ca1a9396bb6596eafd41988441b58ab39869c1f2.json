@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7e1f9b33c691b69153f7c24b40ea8a171df0b40a",
+    "lede": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T08:51:25Z",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+  },
+  "b": {
+    "item_id": "ca1a9396bb6596eafd41988441b58ab39869c1f2",
+    "lede": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-07T00:00:55Z",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+  },
+  "score": 0.609501
+}

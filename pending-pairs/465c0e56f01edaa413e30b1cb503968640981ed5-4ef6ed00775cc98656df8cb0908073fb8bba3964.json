@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "465c0e56f01edaa413e30b1cb503968640981ed5",
+    "lede": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-10T11:01:00Z",
+    "title": "Seagate\u2019s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology"
+  },
+  "b": {
+    "item_id": "4ef6ed00775cc98656df8cb0908073fb8bba3964",
+    "lede": "Seagate takes on high SSD storage prices with the Firecuda Force, a 8TB or 20TB hard drive that requires you to bring your own M.2 2280 SSD (ideally 1TB, with DRAM). It's a throwback to the days of hybrid drives, and the experience is pretty seamless once you install your SSD. But if you don't already own an SSD that",
+    "outlet": "tomshardware",
+    "published": "2026-11-10T11:01:00Z",
+    "title": "Seagate resurrects hybrid storage: Hands-on with the FireCuda Forge \u2013 8 or 20TB external hard drive requires you to bring your own NVMe SSD",
+    "url": "https://www.tomshardware.com/pc-components/external-ssds/seagate-resurrects-hybrid-storage-hands-on-with-the-firecuda-forge-8-or-20tb-external-hard-drive-requires-you-to-bring-your-own-nvme-ssd"
+  },
+  "score": 0.713784
+}

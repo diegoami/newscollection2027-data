@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d",
+    "lede": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T07:49:58Z",
+    "title": "Fireworks AI discloses new breach after cloud provider hack",
+    "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+  },
+  "b": {
+    "item_id": "b99b441690fc8bf84afb33472edab3142bdd0ea8",
+    "lede": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-06T22:27:25Z",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+  },
+  "score": 0.59506
+}
