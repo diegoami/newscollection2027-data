@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6f941c733c9be2cfef86f68c40989c180ff74af4",
+    "lede": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T20:38:54Z",
+    "title": "Need more AI in Creator Studio? Apple may charge you for it",
+    "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/"
+  },
+  "b": {
+    "item_id": "7d3da8f40037dca8658530ade16756d38ca79ca3",
+    "lede": "But if you're thinking about dropping over $10K for the purpose of building a local AI inference setup, is a Mac Studio right for you?",
+    "outlet": "tomshardware",
+    "published": "2026-11-10T13:20:00Z",
+    "title": "Going deep on local AI performance benchmarking with Apple\u2019s Mac Studio with M5 Ultra taking on Nvidia DGX Spark",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures"
+  },
+  "score": 0.58158
+}

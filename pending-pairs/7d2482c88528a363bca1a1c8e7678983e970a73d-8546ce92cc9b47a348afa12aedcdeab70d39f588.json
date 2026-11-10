@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d",
+    "lede": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T07:49:58Z",
+    "title": "Fireworks AI discloses new breach after cloud provider hack",
+    "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+  },
+  "b": {
+    "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588",
+    "lede": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
+    "outlet": "theregister",
+    "published": "2026-11-10T15:28:00Z",
+    "title": "Fireworks AI gets burned twice as customer data exposure widens",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+  },
+  "score": 0.634403
+}

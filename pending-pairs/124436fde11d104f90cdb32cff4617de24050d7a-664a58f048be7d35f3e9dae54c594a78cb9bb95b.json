@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "124436fde11d104f90cdb32cff4617de24050d7a",
+    "lede": "Admins have until December 9 to review access settings as Anthropic processes data in the US",
+    "outlet": "theregister",
+    "published": "2026-11-10T11:30:00Z",
+    "title": "Microsoft is giving Claude the keys to UK Copilot tenants by default",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693"
+  },
+  "b": {
+    "item_id": "664a58f048be7d35f3e9dae54c594a78cb9bb95b",
+    "lede": "The company also has a new whiteboard app.",
+    "outlet": "engadget",
+    "published": "2026-11-10T17:30:00Z",
+    "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+    "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+  },
+  "score": 0.576933
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+    "lede": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T16:17:16Z",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+  },
+  "b": {
+    "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+    "lede": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T16:04:57Z",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+  },
+  "score": 0.676235
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a3e7fc2796af5f274d951fc34ac0f34dc41844c5",
+    "lede": "Adobe announced its latest flight of AI-powered tools at its Max conference today.",
+    "outlet": "engadget",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "Adobe Firefly AI Assistant can now take on recurring tasks for you",
+    "url": "https://www.engadget.com/2311901/adobe-firefly-ai-assistant-can-now-take-on-recurring-tasks-for-you/"
+  },
+  "b": {
+    "item_id": "d10ce5761f29e0216765fc3f20ae4ae60de74fb9",
+    "lede": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T14:05:10Z",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+  },
+  "score": 0.72273
+}

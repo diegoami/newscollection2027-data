@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+    "lede": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T21:00:31Z",
+    "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+  },
+  "b": {
+    "item_id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+    "lede": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:07:36Z",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  "score": 0.656313
+}

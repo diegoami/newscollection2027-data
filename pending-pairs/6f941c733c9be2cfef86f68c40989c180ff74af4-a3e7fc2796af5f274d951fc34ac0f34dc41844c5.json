@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6f941c733c9be2cfef86f68c40989c180ff74af4",
+    "lede": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T20:38:54Z",
+    "title": "Need more AI in Creator Studio? Apple may charge you for it",
+    "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/"
+  },
+  "b": {
+    "item_id": "a3e7fc2796af5f274d951fc34ac0f34dc41844c5",
+    "lede": "Adobe announced its latest flight of AI-powered tools at its Max conference today.",
+    "outlet": "engadget",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "Adobe Firefly AI Assistant can now take on recurring tasks for you",
+    "url": "https://www.engadget.com/2311901/adobe-firefly-ai-assistant-can-now-take-on-recurring-tasks-for-you/"
+  },
+  "score": 0.601402
+}

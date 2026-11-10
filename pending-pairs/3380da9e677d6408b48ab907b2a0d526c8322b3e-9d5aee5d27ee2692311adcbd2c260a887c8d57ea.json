@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3380da9e677d6408b48ab907b2a0d526c8322b3e",
+    "lede": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here\u2019s how they work.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T15:00:00Z",
+    "title": "Reddit launches AI-powered Reviews feature \u2013 with 10,000 products to start",
+    "url": "https://www.zdnet.com/innovation/reddit-reviews-feature/"
+  },
+  "b": {
+    "item_id": "9d5aee5d27ee2692311adcbd2c260a887c8d57ea",
+    "lede": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-09T18:07:23Z",
+    "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+  },
+  "score": 0.661239
+}

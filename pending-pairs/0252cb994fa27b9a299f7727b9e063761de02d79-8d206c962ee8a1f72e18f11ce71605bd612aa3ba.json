@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0252cb994fa27b9a299f7727b9e063761de02d79",
+    "lede": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T15:45:27Z",
+    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+  },
+  "b": {
+    "item_id": "8d206c962ee8a1f72e18f11ce71605bd612aa3ba",
+    "lede": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T21:26:25Z",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+  },
+  "score": 0.728013
+}

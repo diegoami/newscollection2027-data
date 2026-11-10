@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+    "lede": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:07:36Z",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.703383
+}

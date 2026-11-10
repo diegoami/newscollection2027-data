@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6c7acf60d37a46ae20ab0851252a991ac2e49cf5",
+    "lede": "You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.",
+    "outlet": "engadget",
+    "published": "2026-11-07T15:15:00Z",
+    "title": "How iOS can warn you when one of your passwords shows up in a data leak",
+    "url": "https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak/"
+  },
+  "b": {
+    "item_id": "89d6f6254d42deea4c69ee643a1de6078e49b9b6",
+    "lede": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T15:59:19Z",
+    "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+    "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/"
+  },
+  "score": 0.647069
+}

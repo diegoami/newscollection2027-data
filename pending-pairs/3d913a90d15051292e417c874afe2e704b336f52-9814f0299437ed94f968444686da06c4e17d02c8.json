@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+    "lede": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T21:00:31Z",
+    "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.656896
+}

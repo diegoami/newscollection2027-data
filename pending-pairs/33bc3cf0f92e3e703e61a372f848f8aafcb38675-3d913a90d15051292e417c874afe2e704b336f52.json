@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+    "lede": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T18:33:26Z",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/"
+  },
+  "b": {
+    "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+    "lede": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T21:00:31Z",
+    "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+  },
+  "score": 0.576762
+}

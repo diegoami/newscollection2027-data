@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+    "lede": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T16:17:16Z",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+  },
+  "b": {
+    "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+    "lede": "\"*sshole\" poses a serious threat to Internet security.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T19:41:34Z",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+  },
+  "score": 0.576595
+}

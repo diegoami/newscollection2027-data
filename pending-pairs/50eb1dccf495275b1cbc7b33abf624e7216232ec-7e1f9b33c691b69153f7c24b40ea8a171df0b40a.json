@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+    "lede": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:07:36Z",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  "b": {
+    "item_id": "7e1f9b33c691b69153f7c24b40ea8a171df0b40a",
+    "lede": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T08:51:25Z",
+    "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+    "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/"
+  },
+  "score": 0.609031
+}

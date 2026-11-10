@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cd056a31d5df370b0a1bbf40517b9afdd0b2a5b",
+    "lede": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  "b": {
+    "item_id": "dfd6684379dd6916dd9f18316a64d556c0d00730",
+    "lede": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "outlet": "wired",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+  },
+  "score": 0.638744
+}
