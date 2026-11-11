@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "082de41780595cceeb8d88681d79b7aba7626b28",
+    "lede": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-08T15:00:30Z",
+    "title": "Chatbots might be coming to Apple\u2019s HomeView",
+    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+  },
+  "b": {
+    "item_id": "23a11e7037873a0f74c5aaa3121d3a456b4a09b5",
+    "lede": "The chatbot was already available through the Google Maps app.",
+    "outlet": "engadget",
+    "published": "2026-11-11T19:54:55Z",
+    "title": "Google brings the Gemini app to Apple CarPlay",
+    "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+  },
+  "score": 0.655308
+}

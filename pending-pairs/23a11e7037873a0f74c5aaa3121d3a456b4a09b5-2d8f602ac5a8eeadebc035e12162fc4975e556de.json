@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "23a11e7037873a0f74c5aaa3121d3a456b4a09b5",
+    "lede": "The chatbot was already available through the Google Maps app.",
+    "outlet": "engadget",
+    "published": "2026-11-11T19:54:55Z",
+    "title": "Google brings the Gemini app to Apple CarPlay",
+    "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+  },
+  "b": {
+    "item_id": "2d8f602ac5a8eeadebc035e12162fc4975e556de",
+    "lede": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-11T16:00:00Z",
+    "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+  },
+  "score": 0.582188
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "23a11e7037873a0f74c5aaa3121d3a456b4a09b5",
+    "lede": "The chatbot was already available through the Google Maps app.",
+    "outlet": "engadget",
+    "published": "2026-11-11T19:54:55Z",
+    "title": "Google brings the Gemini app to Apple CarPlay",
+    "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+  },
+  "b": {
+    "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a",
+    "lede": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T18:49:19Z",
+    "title": "Pixel Tag, Google\u2019s $30 Android-ready answer to Apple\u2019s AirTag, is now available",
+    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+  },
+  "score": 0.582963
+}

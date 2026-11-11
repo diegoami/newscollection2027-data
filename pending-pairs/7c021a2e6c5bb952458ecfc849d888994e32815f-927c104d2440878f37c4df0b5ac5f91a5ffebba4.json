@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7c021a2e6c5bb952458ecfc849d888994e32815f",
+    "lede": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "outlet": "techcrunch",
+    "published": "2026-11-11T14:00:00Z",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+  },
+  "b": {
+    "item_id": "927c104d2440878f37c4df0b5ac5f91a5ffebba4",
+    "lede": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "outlet": "wired",
+    "published": "2026-11-08T10:00:00Z",
+    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+  },
+  "score": 0.583788
+}

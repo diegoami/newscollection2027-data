@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+    "lede": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+    "outlet": "theregister",
+    "published": "2026-11-11T14:55:00Z",
+    "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+    "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
+  },
+  "b": {
+    "item_id": "0cb53b32d81e5fe02889baf81018e7aa52412482",
+    "lede": "The AMD Ryzen 7 9800X3D is down to an all-time low price of $399.95, with the 9850X3D down to $419.99.",
+    "outlet": "tomshardware",
+    "published": "2026-11-09T12:21:50Z",
+    "title": "Grab AMD's fastest mainstream gaming CPU for a record-low $399.99 right now",
+    "url": "https://www.tomshardware.com/pc-components/cpus/grab-amds-fastest-mainstream-gaming-cpu-for-a-record-low-usd399-99-right-now-powerhouse-ryzen-7-9800x3d-chip-is-a-must-buy-upgrade-for-any-am5-gaming-pc-build"
+  },
+  "score": 0.574204
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09de80ae0aa44cee575a5933154c16ca931ca048",
+    "lede": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:31:11Z",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+  },
+  "b": {
+    "item_id": "9c9df925add3b48055418503a446f05c48aeb735",
+    "lede": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T15:12:59Z",
+    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
+  },
+  "score": 0.783761
+}

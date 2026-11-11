@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+    "lede": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+    "outlet": "theregister",
+    "published": "2026-11-11T14:55:00Z",
+    "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+    "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
+  },
+  "b": {
+    "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+    "lede": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T18:33:26Z",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/"
+  },
+  "score": 0.632246
+}

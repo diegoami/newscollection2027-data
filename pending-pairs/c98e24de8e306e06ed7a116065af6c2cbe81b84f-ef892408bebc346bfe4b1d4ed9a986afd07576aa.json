@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c98e24de8e306e06ed7a116065af6c2cbe81b84f",
+    "lede": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for \u201call the software of the world.\u201d",
+    "outlet": "wired",
+    "published": "2026-11-10T05:01:00Z",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+  },
+  "b": {
+    "item_id": "ef892408bebc346bfe4b1d4ed9a986afd07576aa",
+    "lede": "The four-week project hints that AI could make formal verification far more practical.",
+    "outlet": "arstechnica",
+    "published": "2026-11-11T14:08:57Z",
+    "title": "Google DeepMind just mathematically verified key parts of Signal",
+    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+  },
+  "score": 0.650458
+}

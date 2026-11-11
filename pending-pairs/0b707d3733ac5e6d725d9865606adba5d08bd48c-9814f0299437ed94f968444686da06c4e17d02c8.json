@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+    "lede": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+    "outlet": "theregister",
+    "published": "2026-11-11T14:55:00Z",
+    "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+    "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.668507
+}

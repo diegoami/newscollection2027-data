@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "830d1f3b9085fd2250effaf1762552496f59ea98",
+    "lede": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T16:31:47Z",
+    "title": "Google\u2019s new AI tool just proved Signal encryption really works \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/"
+  },
+  "b": {
+    "item_id": "ef892408bebc346bfe4b1d4ed9a986afd07576aa",
+    "lede": "The four-week project hints that AI could make formal verification far more practical.",
+    "outlet": "arstechnica",
+    "published": "2026-11-11T14:08:57Z",
+    "title": "Google DeepMind just mathematically verified key parts of Signal",
+    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
+  },
+  "score": 0.651439
+}
