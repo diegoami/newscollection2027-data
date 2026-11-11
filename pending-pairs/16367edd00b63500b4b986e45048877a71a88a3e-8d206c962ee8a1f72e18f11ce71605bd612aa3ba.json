@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16367edd00b63500b4b986e45048877a71a88a3e",
+    "lede": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T22:20:19Z",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+  },
+  "b": {
+    "item_id": "8d206c962ee8a1f72e18f11ce71605bd612aa3ba",
+    "lede": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T21:26:25Z",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+  },
+  "score": 0.608104
+}

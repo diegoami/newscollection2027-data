@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16367edd00b63500b4b986e45048877a71a88a3e",
+    "lede": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T22:20:19Z",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+  },
+  "b": {
+    "item_id": "47fb58a628fdcfe25e0e4bee00458995e4792633",
+    "lede": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T14:34:03Z",
+    "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/"
+  },
+  "score": 0.572392
+}

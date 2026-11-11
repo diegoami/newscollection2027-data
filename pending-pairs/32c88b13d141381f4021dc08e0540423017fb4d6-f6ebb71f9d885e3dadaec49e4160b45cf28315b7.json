@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "32c88b13d141381f4021dc08e0540423017fb4d6",
+    "lede": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+    "outlet": "engadget",
+    "published": "2026-11-10T23:42:04Z",
+    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+    "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/"
+  },
+  "b": {
+    "item_id": "f6ebb71f9d885e3dadaec49e4160b45cf28315b7",
+    "lede": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk",
+    "outlet": "theregister",
+    "published": "2026-11-09T00:04:47Z",
+    "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
+    "url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327"
+  },
+  "score": 0.59028
+}

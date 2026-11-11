@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16367edd00b63500b4b986e45048877a71a88a3e",
+    "lede": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T22:20:19Z",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+  },
+  "b": {
+    "item_id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+    "lede": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T16:17:16Z",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+  },
+  "score": 0.604033
+}

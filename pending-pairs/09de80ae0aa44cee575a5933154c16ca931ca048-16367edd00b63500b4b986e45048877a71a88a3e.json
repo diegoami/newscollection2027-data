@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "09de80ae0aa44cee575a5933154c16ca931ca048",
+    "lede": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:31:11Z",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+  },
+  "b": {
+    "item_id": "16367edd00b63500b4b986e45048877a71a88a3e",
+    "lede": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T22:20:19Z",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+  },
+  "score": 0.613781
+}

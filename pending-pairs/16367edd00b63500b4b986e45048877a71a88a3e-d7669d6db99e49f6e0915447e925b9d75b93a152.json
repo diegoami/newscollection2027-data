@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16367edd00b63500b4b986e45048877a71a88a3e",
+    "lede": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T22:20:19Z",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+  },
+  "b": {
+    "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+    "lede": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T16:04:57Z",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+  },
+  "score": 0.623787
+}
