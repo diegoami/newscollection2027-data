@@ -17,8 +17,16 @@
       "published": "2026-11-09T16:16:46Z",
       "title": "NHTSA investigates if Waymo robotaxis are still running school bus stop signs",
       "url": "https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/"
+    },
+    {
+      "item_id": "172ea53cd9a0db7433fd5b70e8bb9fe3e3391018",
+      "lede": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
+      "outlet": "wired",
+      "published": "2026-11-09T22:40:10Z",
+      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
+      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

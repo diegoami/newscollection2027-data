@@ -1,0 +1,1 @@
+{"backend": "claude_code", "item_id_a": "13bdf291560a5d69a32e0b312cfaf81507fde22b", "item_id_b": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9", "judged_at": "2026-11-11T02:20:46Z", "model": "claude-sonnet-5", "pair_id": "13bdf291560a5d69a32e0b312cfaf81507fde22b-15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9", "reason": "A is the PR-firm-hire story; B is a roundup.", "same_story": false}

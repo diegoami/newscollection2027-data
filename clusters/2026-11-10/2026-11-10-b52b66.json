@@ -1,0 +1,24 @@
+{
+  "anchor": "dab7fe82b75437b2c10b6dddef85fe52b8f5719c",
+  "id": "2026-11-10-b52b66",
+  "items": [
+    {
+      "item_id": "dab7fe82b75437b2c10b6dddef85fe52b8f5719c",
+      "lede": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+      "outlet": "tomshardware",
+      "published": "2026-11-10T00:03:08Z",
+      "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop"
+    },
+    {
+      "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
+      "lede": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO\u2019s links with Alice Huang Business live \u2013 latest updates Nvidia\u2019s board needs to do some succession planning \u2013 sharpish Nvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (\u00a33.2tn) company. The legal action",
+      "outlet": "theguardian",
+      "published": "2026-11-10T12:45:54Z",
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

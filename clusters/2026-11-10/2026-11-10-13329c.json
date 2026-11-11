@@ -1,0 +1,24 @@
+{
+  "anchor": "09e66f1e63c8d084900b9d4182b538f9b683fe0d",
+  "id": "2026-11-10-13329c",
+  "items": [
+    {
+      "item_id": "09e66f1e63c8d084900b9d4182b538f9b683fe0d",
+      "lede": "Redesigned flagship laptop has a fantastic display, killer performance and the first touchscreen on a Mac, but comes with a serious price tag Apple\u2019s MacBook Pro has been redesigned for the first time in five years, getting slightly slimmer, significantly lighter and adding a fantastic new OLED display with the first touchscreen on a Mac. The new MacBook Pro with",
+      "outlet": "theguardian",
+      "published": "2026-11-10T07:00:31Z",
+      "title": "Apple MacBook Pro review: lighter, thinner and a stunning OLED touchscreen",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/apple-macbook-pro-review-lighter-thinner-stunning-oled-touchscreen"
+    },
+    {
+      "item_id": "1e5c1e122cc52eb2833a7fc5bc3a1a1f13ff173b",
+      "lede": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "outlet": "arstechnica",
+      "published": "2026-11-10T12:00:21Z",
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

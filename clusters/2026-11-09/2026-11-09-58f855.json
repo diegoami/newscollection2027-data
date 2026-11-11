@@ -17,8 +17,16 @@
       "published": "2026-11-09T20:56:51Z",
       "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
       "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/"
+    },
+    {
+      "item_id": "6f941c733c9be2cfef86f68c40989c180ff74af4",
+      "lede": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+      "outlet": "zdnet",
+      "published": "2026-11-10T20:38:54Z",
+      "title": "Need more AI in Creator Studio? Apple may charge you for it",
+      "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

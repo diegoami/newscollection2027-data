@@ -1,0 +1,24 @@
+{
+  "anchor": "48d9ef3d98d6483b40d2db967fbdfb6b9b7e71eb",
+  "id": "2026-11-09-bb9595",
+  "items": [
+    {
+      "item_id": "48d9ef3d98d6483b40d2db967fbdfb6b9b7e71eb",
+      "lede": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-09T23:52:12Z",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/"
+    },
+    {
+      "item_id": "aa69a14638b1c9fca5f9ef58952398d0c1e2ad2e",
+      "lede": "BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on",
+      "outlet": "theregister",
+      "published": "2026-11-10T13:00:00Z",
+      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "d118edf4cdc688cf15339cefed1e75a324bed9f0",
+  "id": "2026-11-09-20c650",
+  "items": [
+    {
+      "item_id": "d118edf4cdc688cf15339cefed1e75a324bed9f0",
+      "lede": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-09T17:39:57Z",
+      "title": "James Gunn is out as DC movie leader",
+      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving"
+    },
+    {
+      "item_id": "e80c606f4c727dd8c3fcf7ffff64e1a0db9a7610",
+      "lede": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "outlet": "arstechnica",
+      "published": "2026-11-09T21:55:35Z",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "ea9844bbee9e34009114f60e32ea1e36fbf11c6a",
+  "id": "2026-11-09-731f15",
+  "items": [
+    {
+      "item_id": "ea9844bbee9e34009114f60e32ea1e36fbf11c6a",
+      "lede": "Pair of researchers chain WAF bypasses and default logins to command vehicles in Australia and the US",
+      "outlet": "theregister",
+      "published": "2026-11-09T17:31:00Z",
+      "title": "Researchers pwn automakers\u2019 Android apps to remotely unlock cars, honk horns",
+      "url": "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483"
+    },
+    {
+      "item_id": "080710622d63b59b120578eb2a3139aefc0ed508",
+      "lede": "Any net-connected vehicle from two automakers could be remotely opened and started \u2014 now-patched failures with API backend security showcase a lack of 101-level best practices",
+      "outlet": "tomshardware",
+      "published": "2026-11-10T10:50:00Z",
+      "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

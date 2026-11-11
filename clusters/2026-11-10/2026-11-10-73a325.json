@@ -1,0 +1,24 @@
+{
+  "anchor": "c753b5b6c33960e11c682954e57549d0f0b22952",
+  "id": "2026-11-10-73a325",
+  "items": [
+    {
+      "item_id": "c753b5b6c33960e11c682954e57549d0f0b22952",
+      "lede": "Valve is adding a new feature to the Steam store that tracks performance data and then displays it anonymously to users who match the hardware.",
+      "outlet": "tomshardware",
+      "published": "2026-11-10T11:53:36Z",
+      "title": "Steam Store adds average FPS data so you can see game performance before making a purchase",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/steam-store-adds-average-fps-data-so-you-can-see-game-performance-before-making-a-purchase-steam-deck-only-for-now-with-desktop-pc-support-planned"
+    },
+    {
+      "item_id": "b5a0a06fa977e7e61f9a2f6023aac0ae11c184e8",
+      "lede": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "outlet": "arstechnica",
+      "published": "2026-11-10T17:26:44Z",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -99,6 +99,14 @@
       "url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327"
     },
     {
+      "item_id": "f6ebb71f9d885e3dadaec49e4160b45cf28315b7",
+      "lede": "Admits to affair after company board opens probe into alleged contact with possible Chinese asset who bought GPUs in bulk",
+      "outlet": "theregister",
+      "published": "2026-11-09T00:04:47Z",
+      "title": "Nvidia CEO Jensen Huang admits affair with possible Chinese asset",
+      "url": "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-admits-affair-with-possible-chinese-asset/5308327"
+    },
+    {
       "item_id": "2b527a5d8a869d76f325eb703dc7255de23a57a7",
       "lede": "CEO reportedly \u200chad close relationship \u200cwith a Chinese businesswoman who passed information to \u200cBeijing Nvidia said \u2060on Sunday it \u201cis initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort\u201d. The New York Times reported in \u200bOctober that Donald Trump had been briefed last year on",
       "outlet": "theguardian",
@@ -177,8 +185,48 @@
       "published": "2026-11-09T20:01:05Z",
       "title": "The AI poster boy, the \u2018Chinese spy\u2019 and Trump: how an affair may have harmed US security",
       "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security"
+    },
+    {
+      "item_id": "dbf98c5ab7b4b11bc598046f62d14714f63dedf6",
+      "lede": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-09T21:52:28Z",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o"
+    },
+    {
+      "item_id": "05d31a5bc4a78da30a726281ba43adb03d26a603",
+      "lede": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
+      "outlet": "techcrunch",
+      "published": "2026-11-09T22:23:42Z",
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+      "item_id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+      "lede": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-09T23:07:59Z",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+      "item_id": "ab14eb7e6ad1d1c17940c5f333e629a2175042d6",
+      "lede": "With a big checkbook and sought-after chips, Nvidia\u2019s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "outlet": "wired",
+      "published": "2026-11-10T00:18:19Z",
+      "title": "Jensen Huang\u2019s Troubles Leave the AI Industry Reeling",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/"
+    },
+    {
+      "item_id": "940b8a321b9420137eaab58f182dc7cedc1c295f",
+      "lede": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "outlet": "techcrunch",
+      "published": "2026-11-10T17:04:19Z",
+      "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     }
   ],
   "status": "analyzed",
-  "version": 4
+  "version": 5
 }

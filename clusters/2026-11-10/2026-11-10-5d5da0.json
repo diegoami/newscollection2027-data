@@ -1,0 +1,24 @@
+{
+  "anchor": "29dc3ada50a44e0a810ef230a7886162c107ab29",
+  "id": "2026-11-10-5d5da0",
+  "items": [
+    {
+      "item_id": "29dc3ada50a44e0a810ef230a7886162c107ab29",
+      "lede": "Australian carrier announces agreement with Accenture amid \u2018unprecedented\u2019 technological disruption, CEO Vanessa Hudson says Get our breaking news email , free app or daily news podcast Qantas is preparing to cut 850 local jobs and outsource work offshore under an AI-driven overhaul, marking a growing wave of disruption to the Australian workforce. The changes represent the third major corporate layoff",
+      "outlet": "theguardian",
+      "published": "2026-11-10T01:34:47Z",
+      "title": "Qantas to cut 850 Australian jobs and outsource work to India under AI-driven overhaul",
+      "url": "https://www.theguardian.com/business/2026/nov/10/qantas-850-job-cuts-outsource-work-to-india-ai-overhaul"
+    },
+    {
+      "item_id": "790d116569176fff9cb35758c12b1cea6547b774",
+      "lede": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-10T01:55:22Z",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,1 @@
+{"backend": "claude_code", "item_id_a": "940b8a321b9420137eaab58f182dc7cedc1c295f", "item_id_b": "f5f2ae55de09ab44f04e86fb6c31cd070ee2a5d8", "judged_at": "2026-11-11T02:20:46Z", "model": "claude-sonnet-5", "pair_id": "940b8a321b9420137eaab58f182dc7cedc1c295f-f5f2ae55de09ab44f04e86fb6c31cd070ee2a5d8", "reason": "A is a timeline recap; B is the law-firm hire.", "same_story": false}

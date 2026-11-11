@@ -1,0 +1,32 @@
+{
+  "anchor": "c98e24de8e306e06ed7a116065af6c2cbe81b84f",
+  "id": "2026-11-10-6c286a",
+  "items": [
+    {
+      "item_id": "c98e24de8e306e06ed7a116065af6c2cbe81b84f",
+      "lede": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for \u201call the software of the world.\u201d",
+      "outlet": "wired",
+      "published": "2026-11-10T05:01:00Z",
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/"
+    },
+    {
+      "item_id": "364a289ee5b9336de4d9de75d72fedac927b3080",
+      "lede": "Post-quantum handshake and Triple Ratchet get a formal security check",
+      "outlet": "theregister",
+      "published": "2026-11-10T12:00:00Z",
+      "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625"
+    },
+    {
+      "item_id": "830d1f3b9085fd2250effaf1762552496f59ea98",
+      "lede": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
+      "outlet": "zdnet",
+      "published": "2026-11-10T16:31:47Z",
+      "title": "Google\u2019s new AI tool just proved Signal encryption really works \u2013 here\u2019s how",
+      "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,47 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "4a7141713ab5f9229af004301433effd4d4125ed",
+            "outlet": "theverge",
+            "quote": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99"
+          },
+          {
+            "item_id": "82188091c6f04dda8df700cf8415c8184f69fdfa",
+            "outlet": "engadget",
+            "quote": "Apple starts offering $50 extended usage packs for AI features in Creator Studio"
+          }
+        ],
+        "statement": "Apple updated Logic Pro with a one-time $49.99 'Buy More Usage' option after previously outlining usage limits for some Apple Intelligence features."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "82188091c6f04dda8df700cf8415c8184f69fdfa",
+            "outlet": "engadget",
+            "quote": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit."
+          }
+        ],
+        "statement": "The extended usage pack is needed once a user reaches the monthly limit for Logic Pro's built-in AI assistant."
+      }
+    ],
+    "cluster_id": "2026-11-09-58f855",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-10T02:23:32Z",
+    "headline": "Apple sells $50 packs for extra AI feature usage",
+    "model": "claude-sonnet-5",
+    "summary": "Apple has updated Logic Pro with a one-time $49.99 'Buy More Usage' option that extends access to its built-in AI assistant after a user hits the monthly usage limit for some Apple Intelligence features."
+  },
+  "cluster_id": "2026-11-09-58f855",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-11T02:23:55Z"
+}
