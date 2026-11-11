@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0252cb994fa27b9a299f7727b9e063761de02d79",
+    "lede": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T15:45:27Z",
+    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+  },
+  "b": {
+    "item_id": "693679885746ae3dbc3e6fbbf617eafa194346de",
+    "lede": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T12:32:27Z",
+    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/"
+  },
+  "score": 0.581237
+}

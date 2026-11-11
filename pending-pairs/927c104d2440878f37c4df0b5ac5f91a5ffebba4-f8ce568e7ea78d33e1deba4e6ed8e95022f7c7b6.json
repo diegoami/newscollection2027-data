@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "927c104d2440878f37c4df0b5ac5f91a5ffebba4",
+    "lede": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "outlet": "wired",
+    "published": "2026-11-08T10:00:00Z",
+    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+  },
+  "b": {
+    "item_id": "f8ce568e7ea78d33e1deba4e6ed8e95022f7c7b6",
+    "lede": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-11T12:30:00Z",
+    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+    "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery"
+  },
+  "score": 0.593337
+}

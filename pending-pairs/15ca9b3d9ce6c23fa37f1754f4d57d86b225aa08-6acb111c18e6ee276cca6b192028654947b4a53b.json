@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15ca9b3d9ce6c23fa37f1754f4d57d86b225aa08",
+    "lede": "The country's growth minister said the data centers will continue as \"essential infrastructure\" projects.",
+    "outlet": "engadget",
+    "published": "2026-11-08T18:10:01Z",
+    "title": "UK has no plans to slow down AI data center construction",
+    "url": "https://www.engadget.com/2310304/uk-has-no-plans-to-slow-down-ai-data-center-construction/"
+  },
+  "b": {
+    "item_id": "6acb111c18e6ee276cca6b192028654947b4a53b",
+    "lede": "181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel",
+    "outlet": "theguardian",
+    "published": "2026-11-11T12:00:48Z",
+    "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+    "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations"
+  },
+  "score": 0.625334
+}

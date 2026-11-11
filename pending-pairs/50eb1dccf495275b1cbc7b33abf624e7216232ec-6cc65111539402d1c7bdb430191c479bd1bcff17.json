@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+    "lede": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:07:36Z",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  "b": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "score": 0.622423
+}

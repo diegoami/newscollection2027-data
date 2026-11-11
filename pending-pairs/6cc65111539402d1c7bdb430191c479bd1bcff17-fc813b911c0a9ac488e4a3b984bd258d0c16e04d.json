@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "b": {
+    "item_id": "fc813b911c0a9ac488e4a3b984bd258d0c16e04d",
+    "lede": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
+    "outlet": "theregister",
+    "published": "2026-11-09T15:02:00Z",
+    "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+    "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
+  },
+  "score": 0.651989
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+    "lede": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T21:00:31Z",
+    "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+  },
+  "b": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "score": 0.584123
+}

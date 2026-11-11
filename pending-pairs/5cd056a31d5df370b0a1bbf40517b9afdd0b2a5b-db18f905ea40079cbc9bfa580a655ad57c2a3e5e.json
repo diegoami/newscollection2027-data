@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cd056a31d5df370b0a1bbf40517b9afdd0b2a5b",
+    "lede": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  "b": {
+    "item_id": "db18f905ea40079cbc9bfa580a655ad57c2a3e5e",
+    "lede": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+    "outlet": "tomshardware",
+    "published": "2026-11-11T13:00:00Z",
+    "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+    "url": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first"
+  },
+  "score": 0.599176
+}

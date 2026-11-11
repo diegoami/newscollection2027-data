@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "693679885746ae3dbc3e6fbbf617eafa194346de",
+    "lede": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T12:32:27Z",
+    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/"
+  },
+  "b": {
+    "item_id": "8d206c962ee8a1f72e18f11ce71605bd612aa3ba",
+    "lede": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T21:26:25Z",
+    "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+    "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/"
+  },
+  "score": 0.727891
+}

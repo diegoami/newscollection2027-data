@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "db18f905ea40079cbc9bfa580a655ad57c2a3e5e",
+    "lede": "Kora, a Linux desktop OS with built-in AI models and agents for local agentic work, is coming to PCs in 2027, including Snapdragon X2 Elite machines.",
+    "outlet": "tomshardware",
+    "published": "2026-11-11T13:00:00Z",
+    "title": "Cyanogen co-founder unveils Kora, a Linux OS that splits AI models across the CPU, GPU, and NPU",
+    "url": "https://www.tomshardware.com/software/linux/cyanogen-co-founder-unveils-kora-a-linux-os-that-splits-ai-models-across-the-cpu-gpu-and-npu-snapdragon-x2-elite-and-hexagon-npu-get-full-support-first"
+  },
+  "b": {
+    "item_id": "dfd6684379dd6916dd9f18316a64d556c0d00730",
+    "lede": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "outlet": "wired",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+  },
+  "score": 0.776919
+}

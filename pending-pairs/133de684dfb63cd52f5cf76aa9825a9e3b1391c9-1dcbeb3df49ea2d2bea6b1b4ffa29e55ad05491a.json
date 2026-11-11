@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "133de684dfb63cd52f5cf76aa9825a9e3b1391c9",
+    "lede": "Australia's prime minister said its government would set up a new AI safety regulator and Labor would consider six key obligations on AI companies. The review made 18 recommendations. Anthony Albanese said: 'We accept all of the recommendations, and we\u2019ve commenced work to implement them.' Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence \u2018going rogue\u2019 Continue",
+    "outlet": "theguardian",
+    "published": "2026-11-10T05:29:32Z",
+    "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare \u2013 video",
+    "url": "https://www.theguardian.com/australia-news/video/2026/nov/10/mandatory-ai-safety-and-security-protections-announced-after-openai-breach-of-medicare-video"
+  },
+  "b": {
+    "item_id": "1dcbeb3df49ea2d2bea6b1b4ffa29e55ad05491a",
+    "lede": "New regulator will require modelmakers to test and allow inspection, but not much more",
+    "outlet": "theregister",
+    "published": "2026-11-11T02:14:13Z",
+    "title": "Australia may make knowingly selling unsafe AI a crime",
+    "url": "https://www.theregister.com/public-sector/2026/11/11/australia-may-make-knowingly-selling-unsafe-ai-a-crime/5308999"
+  },
+  "score": 0.571617
+}
