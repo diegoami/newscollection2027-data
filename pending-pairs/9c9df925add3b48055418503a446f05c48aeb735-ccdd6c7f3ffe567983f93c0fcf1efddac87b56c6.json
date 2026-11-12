@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c9df925add3b48055418503a446f05c48aeb735",
+    "lede": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T15:12:59Z",
+    "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/"
+  },
+  "b": {
+    "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+    "lede": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T22:56:21Z",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+  },
+  "score": 0.598926
+}

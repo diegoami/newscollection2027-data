@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "474586429e7c5c19b47f980a1876bd12075a61b8",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T10:12:08Z",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+    "lede": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T22:56:21Z",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+  },
+  "score": 0.582156
+}

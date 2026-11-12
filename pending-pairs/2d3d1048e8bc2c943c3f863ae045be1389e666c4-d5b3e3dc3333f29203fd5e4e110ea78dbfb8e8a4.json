@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2d3d1048e8bc2c943c3f863ae045be1389e666c4",
+    "lede": "The company was throttling speeds for plans offered under the Affordable Broadband Act.",
+    "outlet": "engadget",
+    "published": "2026-11-11T22:46:07Z",
+    "title": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
+    "url": "https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans/"
+  },
+  "b": {
+    "item_id": "d5b3e3dc3333f29203fd5e4e110ea78dbfb8e8a4",
+    "lede": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+    "outlet": "arstechnica",
+    "published": "2026-11-11T20:32:21Z",
+    "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+    "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
+  },
+  "score": 0.667219
+}
