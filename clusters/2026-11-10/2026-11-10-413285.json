@@ -1,0 +1,24 @@
+{
+  "anchor": "664a58f048be7d35f3e9dae54c594a78cb9bb95b",
+  "id": "2026-11-10-413285",
+  "items": [
+    {
+      "item_id": "664a58f048be7d35f3e9dae54c594a78cb9bb95b",
+      "lede": "The company also has a new whiteboard app.",
+      "outlet": "engadget",
+      "published": "2026-11-10T17:30:00Z",
+      "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+      "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+    },
+    {
+      "item_id": "4a057042ea274c04bca33e9b6987e8c7642dfeeb",
+      "lede": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
+      "outlet": "theregister",
+      "published": "2026-11-10T23:45:26Z",
+      "title": "Anthropic tiptoes into MS Office territory",
+      "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

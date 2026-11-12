@@ -17,8 +17,24 @@
       "published": "2026-11-10T21:00:31Z",
       "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
       "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+    },
+    {
+      "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68",
+      "lede": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-11T11:18:36Z",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/"
+    },
+    {
+      "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+      "lede": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+      "outlet": "theregister",
+      "published": "2026-11-11T14:55:00Z",
+      "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+      "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

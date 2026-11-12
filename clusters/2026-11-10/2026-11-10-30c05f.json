@@ -17,8 +17,16 @@
       "published": "2026-11-10T15:28:00Z",
       "title": "Fireworks AI gets burned twice as customer data exposure widens",
       "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+    },
+    {
+      "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9",
+      "lede": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-11T20:54:20Z",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

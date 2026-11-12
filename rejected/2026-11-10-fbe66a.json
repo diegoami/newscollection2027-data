@@ -1,0 +1,78 @@
+{
+  "analysis": {
+    "agreement": "conflicting",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
+            "outlet": "bbc-technology",
+            "quote": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+          },
+          {
+            "item_id": "6f3953006a306e0b373a0f43c65bffbf9eec5058",
+            "outlet": "techcrunch",
+            "quote": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+          }
+        ],
+        "statement": "Anthropic set an IPO price range of $70 to $78 per share."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "6f3953006a306e0b373a0f43c65bffbf9eec5058",
+            "outlet": "techcrunch",
+            "quote": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+          },
+          {
+            "item_id": "a1514935e728d4900166c8f9c553b3767deb3eca",
+            "outlet": "theguardian",
+            "quote": "Anthropic targets valuation of up to $1.4tn in stock market flotation"
+          },
+          {
+            "item_id": "a1514935e728d4900166c8f9c553b3767deb3eca",
+            "outlet": "theguardian",
+            "quote": "Anthropic is seeking a valuation of up to $1.4tn (\u00a31.1tn) in its imminent stock market flotation"
+          }
+        ],
+        "statement": "At the top of the range the valuation could reach about $1.4 trillion, below the $2 trillion once expected."
+      }
+    ],
+    "cluster_id": "2026-11-10-fbe66a",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c2"
+        ],
+        "explanation": "BBC's headline cites a $1.3 trillion valuation for the listing, while TechCrunch and The Guardian put the implied valuation at about $1.4 trillion.",
+        "kind": "number",
+        "quotes": [
+          {
+            "item_id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
+            "outlet": "bbc-technology",
+            "quote": "Anthropic heads for $1.3 trillion valuation in major stock market listing"
+          },
+          {
+            "item_id": "6f3953006a306e0b373a0f43c65bffbf9eec5058",
+            "outlet": "techcrunch",
+            "quote": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+          }
+        ],
+        "severity": "high"
+      }
+    ],
+    "generated_at": "2026-11-11T02:30:00Z",
+    "headline": "Anthropic sets IPO price range as it heads to stock market listing",
+    "model": "claude-sonnet-5",
+    "summary": "Anthropic set an IPO price range of $70 to $78 per share for its stock market listing, implying a valuation of roughly $1.4 trillion at the top of the range, short of the $2 trillion once expected before investors cooled on the AI boom."
+  },
+  "cluster_id": "2026-11-10-fbe66a",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-12T02:22:57Z"
+}

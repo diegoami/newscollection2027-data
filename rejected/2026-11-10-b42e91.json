@@ -1,0 +1,93 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "707c973eeceba7909bf6a1c53ccb1c62b6b83046",
+            "outlet": "theverge",
+            "quote": "Hands-on with Ring\u2019s new AI drone camera for your home"
+          },
+          {
+            "item_id": "707c973eeceba7909bf6a1c53ccb1c62b6b83046",
+            "outlet": "theverge",
+            "quote": "The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week."
+          },
+          {
+            "item_id": "736034c2dc9708aca937e128f005bdedd349944e",
+            "outlet": "wired",
+            "quote": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI"
+          },
+          {
+            "item_id": "736034c2dc9708aca937e128f005bdedd349944e",
+            "outlet": "wired",
+            "quote": "This $250 Drone Cam flies around your home to monitor threats."
+          },
+          {
+            "item_id": "f89dd3402b266d386a0ee6646aa36d7399599bb3",
+            "outlet": "engadget",
+            "quote": "Amazon finally launches the $250 Ring Drone Cam and also the Ring Rover Cam"
+          },
+          {
+            "item_id": "c5e9e08f64384a9150613d88c48f2e08429307f0",
+            "outlet": "techcrunch",
+            "quote": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot"
+          }
+        ],
+        "statement": "Ring launched the Drone Cam, a flying indoor home security camera priced around $250."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "736034c2dc9708aca937e128f005bdedd349944e",
+            "outlet": "wired",
+            "quote": "There\u2019s also the Rover Cam for businesses, featuring the guts of Amazon\u2019s former Astro robot."
+          },
+          {
+            "item_id": "e98806ac7afae9078c73e294376725ef024e249f",
+            "outlet": "theverge",
+            "quote": "a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon"
+          },
+          {
+            "item_id": "f9bfc5bba1ae55baed1c972e0d8df4231f62e0f9",
+            "outlet": "zdnet",
+            "quote": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage."
+          },
+          {
+            "item_id": "f89dd3402b266d386a0ee6646aa36d7399599bb3",
+            "outlet": "engadget",
+            "quote": "They're the first two products from Ring Robotics, the company's new autonomous home security devices category."
+          }
+        ],
+        "statement": "Ring also launched the Rover Cam, a rolling security robot for businesses built on its former Astro robot platform."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "c5e9e08f64384a9150613d88c48f2e08429307f0",
+            "outlet": "techcrunch",
+            "quote": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+          }
+        ],
+        "statement": "The two devices mark Ring's push into robotics beyond its doorbell cameras."
+      }
+    ],
+    "cluster_id": "2026-11-10-b42e91",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-11T02:28:02Z",
+    "headline": "Ring launches home security drone camera and business patrol robot",
+    "model": "claude-sonnet-5",
+    "summary": "Amazon's Ring launched the Ring Drone Cam, a flying indoor home security camera priced around $250, alongside the Rover Cam, a rolling patrol robot for businesses built on its former Astro robot platform, as the first products under its new Ring Robotics brand."
+  },
+  "cluster_id": "2026-11-10-b42e91",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-12T02:22:57Z"
+}

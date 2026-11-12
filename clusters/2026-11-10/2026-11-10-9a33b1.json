@@ -1,0 +1,24 @@
+{
+  "anchor": "fd8e1c638d2dc1c1f2a8ab39fcab6f04e93ec52b",
+  "id": "2026-11-10-9a33b1",
+  "items": [
+    {
+      "item_id": "fd8e1c638d2dc1c1f2a8ab39fcab6f04e93ec52b",
+      "lede": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "outlet": "techcrunch",
+      "published": "2026-11-10T17:30:00Z",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "item_id": "13a482b90a8acd66e90dc0723c7274a777acb200",
+      "lede": "Claude is responding \u2018Yes\u2019 to that calendar invite \u2013 with some limitations. Plus: Anthropic launches two more new features that are available now.",
+      "outlet": "zdnet",
+      "published": "2026-11-11T16:46:09Z",
+      "title": "Claude can collaborate in your team meetings soon \u2013 like an intern",
+      "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

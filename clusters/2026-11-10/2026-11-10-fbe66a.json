@@ -3,6 +3,14 @@
   "id": "2026-11-10-fbe66a",
   "items": [
     {
+      "item_id": "98071e4b97d92c7ec5378770132a73452e748411",
+      "lede": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "outlet": "techcrunch",
+      "published": "2026-11-10T01:27:12Z",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    },
+    {
       "item_id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
       "lede": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
       "outlet": "bbc-technology",
@@ -25,8 +33,16 @@
       "published": "2026-11-10T16:13:13Z",
       "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
       "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+    },
+    {
+      "item_id": "9a5bae24e02d25cd63d5c7a2d7a1df20e841623a",
+      "lede": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "outlet": "techcrunch",
+      "published": "2026-11-10T19:57:52Z",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

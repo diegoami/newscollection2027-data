@@ -1,0 +1,57 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+            "outlet": "bleepingcomputer",
+            "quote": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
+          },
+          {
+            "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features."
+          },
+          {
+            "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+            "outlet": "zdnet",
+            "quote": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11."
+          }
+        ],
+        "statement": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+            "outlet": "zdnet",
+            "quote": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw"
+          },
+          {
+            "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+            "outlet": "zdnet",
+            "quote": "It fixes 1,094 security flaws, too."
+          }
+        ],
+        "statement": "The update adds a customizable File Explorer right-click menu and fixes 1,094 security flaws, including an exploited one."
+      }
+    ],
+    "cluster_id": "2026-11-10-4e941c",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-11T02:30:00Z",
+    "headline": "Microsoft releases November Patch Tuesday update for Windows 11",
+    "model": "claude-sonnet-5",
+    "summary": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11, fixing security vulnerabilities including an exploited flaw, and adding a customizable File Explorer right-click menu."
+  },
+  "cluster_id": "2026-11-10-4e941c",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-12T02:22:57Z"
+}

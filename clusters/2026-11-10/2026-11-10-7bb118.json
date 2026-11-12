@@ -1,0 +1,24 @@
+{
+  "anchor": "ffd1be60b8ac1c68f4fc28232666f2f0e37d184a",
+  "id": "2026-11-10-7bb118",
+  "items": [
+    {
+      "item_id": "ffd1be60b8ac1c68f4fc28232666f2f0e37d184a",
+      "lede": "Ukraine competes with Russia and data centers for China\u2019s optical fiber supply.",
+      "outlet": "arstechnica",
+      "published": "2026-11-10T12:15:32Z",
+      "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+    },
+    {
+      "item_id": "f6ce9f0cc130556ca1eb98f3c5e9c08090168334",
+      "lede": "Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones.",
+      "outlet": "tomshardware",
+      "published": "2026-11-11T11:00:00Z",
+      "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
+      "url": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

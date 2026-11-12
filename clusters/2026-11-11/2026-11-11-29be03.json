@@ -1,0 +1,24 @@
+{
+  "anchor": "d88cdd6507c1a89fffc6b78a94a78c3ed31cdf7c",
+  "id": "2026-11-11-29be03",
+  "items": [
+    {
+      "item_id": "d88cdd6507c1a89fffc6b78a94a78c3ed31cdf7c",
+      "lede": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-11T00:34:24Z",
+      "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+    },
+    {
+      "item_id": "a576197f4f5e4522dd57b8ad0ae2a5efc700f407",
+      "lede": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+      "outlet": "engadget",
+      "published": "2026-11-11T12:59:44Z",
+      "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+      "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

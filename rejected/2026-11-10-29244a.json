@@ -1,0 +1,46 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "5cd056a31d5df370b0a1bbf40517b9afdd0b2a5b",
+            "outlet": "techcrunch",
+            "quote": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era"
+          },
+          {
+            "item_id": "5cd056a31d5df370b0a1bbf40517b9afdd0b2a5b",
+            "outlet": "techcrunch",
+            "quote": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+          },
+          {
+            "item_id": "dfd6684379dd6916dd9f18316a64d556c0d00730",
+            "outlet": "wired",
+            "quote": "This New Linux-Based Desktop Operating System Is Built for AI Nerds"
+          },
+          {
+            "item_id": "dfd6684379dd6916dd9f18316a64d556c0d00730",
+            "outlet": "wired",
+            "quote": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models."
+          }
+        ],
+        "statement": "Cyanogen's co-founder launched Kora, a free alternative to Windows aimed at AI power users."
+      }
+    ],
+    "cluster_id": "2026-11-10-29244a",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-11T02:30:00Z",
+    "headline": "Cyanogen co-founder launches Kora, a Windows alternative for AI users",
+    "model": "claude-sonnet-5",
+    "summary": "Cyanogen's co-founder launched Kora, a free, Linux-based desktop operating system positioned as an alternative to Windows for users who rely heavily on local AI models and agents."
+  },
+  "cluster_id": "2026-11-10-29244a",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-12T02:22:57Z"
+}

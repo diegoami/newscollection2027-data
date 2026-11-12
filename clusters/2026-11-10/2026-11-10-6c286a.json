@@ -25,8 +25,16 @@
       "published": "2026-11-10T16:31:47Z",
       "title": "Google\u2019s new AI tool just proved Signal encryption really works \u2013 here\u2019s how",
       "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/"
+    },
+    {
+      "item_id": "ef892408bebc346bfe4b1d4ed9a986afd07576aa",
+      "lede": "The four-week project hints that AI could make formal verification far more practical.",
+      "outlet": "arstechnica",
+      "published": "2026-11-11T14:08:57Z",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

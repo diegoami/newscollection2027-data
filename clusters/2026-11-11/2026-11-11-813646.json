@@ -1,0 +1,24 @@
+{
+  "anchor": "dd4a3cf0a335ffa93bf90dc18c773f1e4a4a24cf",
+  "id": "2026-11-11-813646",
+  "items": [
+    {
+      "item_id": "dd4a3cf0a335ffa93bf90dc18c773f1e4a4a24cf",
+      "lede": "The new laptop goes the extra mile to recreate the iconic feature.",
+      "outlet": "engadget",
+      "published": "2026-11-11T00:03:54Z",
+      "title": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
+      "url": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/"
+    },
+    {
+      "item_id": "b8ebc6c121506deb95bed589fecc5455074c5585",
+      "lede": "Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery",
+      "outlet": "theregister",
+      "published": "2026-11-11T15:34:00Z",
+      "title": "Apple's touchscreen MacBook Pro does not like to be taken apart",
+      "url": "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

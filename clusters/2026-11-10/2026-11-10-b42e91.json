@@ -49,8 +49,24 @@
       "published": "2026-11-10T13:30:00Z",
       "title": "Ring\u2019s new drone patrols your home to keep an eye on things \u2013 even upstairs",
       "url": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/"
+    },
+    {
+      "item_id": "cd42927ef69a79ec8cd837b859d99564a2c5fead",
+      "lede": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
+      "outlet": "theregister",
+      "published": "2026-11-10T21:45:45Z",
+      "title": "Ring robots ready to patrol paranoids\u2019 pads",
+      "url": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932"
+    },
+    {
+      "item_id": "cd1dc6d6e6bd42c361c62647318a8de90f7a5252",
+      "lede": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "outlet": "arstechnica",
+      "published": "2026-11-10T22:35:01Z",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }
