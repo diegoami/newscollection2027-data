@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+    "lede": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T10:24:07Z",
+    "title": "Microsoft confirms Windows security updates installation issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+  },
+  "b": {
+    "item_id": "fc813b911c0a9ac488e4a3b984bd258d0c16e04d",
+    "lede": "A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams",
+    "outlet": "theregister",
+    "published": "2026-11-09T15:02:00Z",
+    "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+    "url": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
+  },
+  "score": 0.590023
+}

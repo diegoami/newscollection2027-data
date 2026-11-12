@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+    "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T12:11:11Z",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.679721
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "20c8115f449923f33da721bb39bc4c5a18b95216",
+    "lede": "Apple\u2019s FaceID has long provided robust authentication. But for its smart home device, HomeView, the company is betting on new \u201cperson recognition\u201d technology that has yet to be challenged in the wild.",
+    "outlet": "wired",
+    "published": "2026-11-12T14:00:00Z",
+    "title": "Apple\u2019s HomeView Tries Face Authentication Without FaceID",
+    "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/"
+  },
+  "b": {
+    "item_id": "5fdf2386a2c7a02404cacd51592ea5f8f04dd394",
+    "lede": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.",
+    "outlet": "engadget",
+    "published": "2026-11-12T14:00:00Z",
+    "title": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
+    "url": "https://www.engadget.com/2313999/apple-homeview-review/"
+  },
+  "score": 0.588411
+}

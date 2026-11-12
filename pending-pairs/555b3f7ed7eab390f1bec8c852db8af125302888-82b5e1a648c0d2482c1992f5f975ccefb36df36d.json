@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+    "lede": "ConnectWise disables third-party extensions in 400 environments as bughunters uncover auth hole may let crims bypass MFA",
+    "outlet": "theregister",
+    "published": "2026-11-12T13:02:00Z",
+    "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
+    "url": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
+  },
+  "b": {
+    "item_id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+    "lede": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T16:17:16Z",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+  },
+  "score": 0.581452
+}

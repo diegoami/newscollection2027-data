@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ca0085eba4f5e008c5f67a4858d5578838046d9",
+    "lede": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T09:38:00Z",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+  },
+  "b": {
+    "item_id": "82b5e1a648c0d2482c1992f5f975ccefb36df36d",
+    "lede": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T16:17:16Z",
+    "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/"
+  },
+  "score": 0.636455
+}

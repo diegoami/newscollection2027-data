@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e899e1e6c12f27763eff3ec310b2d509cb891be",
+    "lede": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T10:10:20Z",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+  },
+  "b": {
+    "item_id": "3ca0085eba4f5e008c5f67a4858d5578838046d9",
+    "lede": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T09:38:00Z",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+  },
+  "score": 0.661714
+}

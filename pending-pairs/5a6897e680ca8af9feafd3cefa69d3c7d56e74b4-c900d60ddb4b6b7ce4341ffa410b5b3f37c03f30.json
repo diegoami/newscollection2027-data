@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5a6897e680ca8af9feafd3cefa69d3c7d56e74b4",
+    "lede": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+    "outlet": "tomshardware",
+    "published": "2026-11-12T10:30:00Z",
+    "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+    "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules"
+  },
+  "b": {
+    "item_id": "c900d60ddb4b6b7ce4341ffa410b5b3f37c03f30",
+    "lede": "This Newegg bundle brings together the AMD Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free ATX case for $1,090.98.",
+    "outlet": "tomshardware",
+    "published": "2026-11-10T11:09:51Z",
+    "title": "Grab 32GB DDR5 for $371 in this Newegg RAM bundle with the 9800X3D, $70 less than buying it separately",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd371-in-this-newegg-ram-bundle-with-the-9800x3d-usd70-less-than-buying-it-separately-usd138-saving-on-parts-for-a-4k-gaming-pc-including-a-gigabyte-x870-motherboard-and-free-atx-case"
+  },
+  "score": 0.662159
+}

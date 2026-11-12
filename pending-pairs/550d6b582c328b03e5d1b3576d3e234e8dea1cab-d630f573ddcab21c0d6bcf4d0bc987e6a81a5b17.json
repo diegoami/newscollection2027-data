@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+    "lede": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+    "outlet": "wired",
+    "published": "2026-11-12T13:58:06Z",
+    "title": "Jensen Huang Resigns as Nvidia CEO",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+  },
+  "b": {
+    "item_id": "d630f573ddcab21c0d6bcf4d0bc987e6a81a5b17",
+    "lede": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-09T14:50:35Z",
+    "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+    "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo"
+  },
+  "score": 0.650253
+}

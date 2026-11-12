@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "32c88b13d141381f4021dc08e0540423017fb4d6",
+    "lede": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+    "outlet": "engadget",
+    "published": "2026-11-10T23:42:04Z",
+    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+    "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/"
+  },
+  "b": {
+    "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+    "lede": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+    "outlet": "wired",
+    "published": "2026-11-12T13:58:06Z",
+    "title": "Jensen Huang Resigns as Nvidia CEO",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+  },
+  "score": 0.637903
+}

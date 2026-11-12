@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ca0085eba4f5e008c5f67a4858d5578838046d9",
+    "lede": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T09:38:00Z",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+  },
+  "b": {
+    "item_id": "d7669d6db99e49f6e0915447e925b9d75b93a152",
+    "lede": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-09T16:04:57Z",
+    "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+  },
+  "score": 0.655377
+}

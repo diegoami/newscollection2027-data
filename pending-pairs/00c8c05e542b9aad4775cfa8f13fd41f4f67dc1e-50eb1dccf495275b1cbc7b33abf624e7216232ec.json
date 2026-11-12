@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+    "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T12:11:11Z",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+  },
+  "b": {
+    "item_id": "50eb1dccf495275b1cbc7b33abf624e7216232ec",
+    "lede": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T19:07:36Z",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  "score": 0.641484
+}

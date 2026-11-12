@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5200468b976c0678fc953ffd166a6a994815b0e8",
+    "lede": "Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 in the process.",
+    "outlet": "tomshardware",
+    "published": "2026-11-11T10:54:55Z",
+    "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd351-with-this-newegg-bundle-with-the-9800x3d-usd87-less-than-the-next-cheapest-memory-gaming-pc-build-kit-includes-enthusiast-asus-x870e-motherboard-and-free-aio-liquid-cooler-with-usd128-99-in-total-savings"
+  },
+  "b": {
+    "item_id": "5a6897e680ca8af9feafd3cefa69d3c7d56e74b4",
+    "lede": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+    "outlet": "tomshardware",
+    "published": "2026-11-12T10:30:00Z",
+    "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+    "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules"
+  },
+  "score": 0.648193
+}

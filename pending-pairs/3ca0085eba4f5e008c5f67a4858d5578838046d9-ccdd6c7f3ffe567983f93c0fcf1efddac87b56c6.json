@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ca0085eba4f5e008c5f67a4858d5578838046d9",
+    "lede": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T09:38:00Z",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+  },
+  "b": {
+    "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+    "lede": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T22:56:21Z",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+  },
+  "score": 0.584398
+}

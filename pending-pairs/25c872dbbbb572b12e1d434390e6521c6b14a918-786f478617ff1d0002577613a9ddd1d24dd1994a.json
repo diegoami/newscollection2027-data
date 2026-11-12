@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "25c872dbbbb572b12e1d434390e6521c6b14a918",
+    "lede": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+    "outlet": "arstechnica",
+    "published": "2026-11-10T18:39:16Z",
+    "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+    "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/"
+  },
+  "b": {
+    "item_id": "786f478617ff1d0002577613a9ddd1d24dd1994a",
+    "lede": "Most viewers wish there was a TV Guide for streaming.",
+    "outlet": "arstechnica",
+    "published": "2026-11-12T14:00:19Z",
+    "title": "Hundreds of streaming services and nothing to watch",
+    "url": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/"
+  },
+  "score": 0.629291
+}

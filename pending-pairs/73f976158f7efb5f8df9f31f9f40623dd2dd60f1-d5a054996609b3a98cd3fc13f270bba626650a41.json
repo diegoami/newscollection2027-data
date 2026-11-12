@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "73f976158f7efb5f8df9f31f9f40623dd2dd60f1",
+    "lede": "The FBI is investigating as Nvidia\u2019s board holds urgent talks over Huang\u2019s future.",
+    "outlet": "arstechnica",
+    "published": "2026-11-12T14:05:17Z",
+    "title": "Nvidia CEO Jensen Huang has resigned",
+    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+  },
+  "b": {
+    "item_id": "d5a054996609b3a98cd3fc13f270bba626650a41",
+    "lede": "He has held the position since the company's founding.",
+    "outlet": "engadget",
+    "published": "2026-11-12T14:04:30Z",
+    "title": "Jensen Huang is out as NVIDIA CEO",
+    "url": "https://www.engadget.com/2314584/jensen-huang-is-out-as-nvidia-ceo/"
+  },
+  "score": 0.702236
+}

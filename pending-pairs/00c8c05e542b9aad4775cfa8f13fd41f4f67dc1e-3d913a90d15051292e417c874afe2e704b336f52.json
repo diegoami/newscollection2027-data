@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+    "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T12:11:11Z",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+  },
+  "b": {
+    "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+    "lede": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T21:00:31Z",
+    "title": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw",
+    "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+  },
+  "score": 0.573918
+}

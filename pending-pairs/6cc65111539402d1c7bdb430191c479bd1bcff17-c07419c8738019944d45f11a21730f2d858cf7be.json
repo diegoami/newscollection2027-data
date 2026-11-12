@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "b": {
+    "item_id": "c07419c8738019944d45f11a21730f2d858cf7be",
+    "lede": "Linked server connections can linger long past their welcome",
+    "outlet": "theregister",
+    "published": "2026-11-12T12:06:04Z",
+    "title": "Microsoft admits SQL Servers might wobble after October update",
+    "url": "https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349"
+  },
+  "score": 0.612387
+}

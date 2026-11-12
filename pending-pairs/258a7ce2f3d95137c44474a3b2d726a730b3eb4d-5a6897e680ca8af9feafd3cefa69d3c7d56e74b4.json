@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "258a7ce2f3d95137c44474a3b2d726a730b3eb4d",
+    "lede": "The 12V-2x6 connector nearly took out two RTX PRO 6000 Blackwell Workstation GPUs; luckily, the owner spotted the damaged cables before they melted the GPU connectors.",
+    "outlet": "tomshardware",
+    "published": "2026-11-09T14:00:00Z",
+    "title": "Nvidia RTX PRO 6000 user\u2019s cables almost melted, even when limited to 500W",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-pro-6000-users-cables-almost-melted-even-when-limited-to-500w-12v-2x6-cables-appear-to-still-cause-problems-show-clear-signs-of-melting"
+  },
+  "b": {
+    "item_id": "5a6897e680ca8af9feafd3cefa69d3c7d56e74b4",
+    "lede": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+    "outlet": "tomshardware",
+    "published": "2026-11-12T10:30:00Z",
+    "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+    "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules"
+  },
+  "score": 0.575774
+}
