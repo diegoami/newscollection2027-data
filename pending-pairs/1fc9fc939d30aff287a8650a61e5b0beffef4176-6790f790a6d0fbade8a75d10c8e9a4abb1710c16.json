@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T19:45:52Z",
+    "title": "Several Microsoft services appear to be down \u2013 what we know",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "b": {
+    "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+    "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
+    "outlet": "wired",
+    "published": "2026-11-12T20:01:33Z",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"
+  },
+  "score": 0.653875
+}

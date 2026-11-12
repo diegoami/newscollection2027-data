@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15f65b929781f6ada7c4874dfe0a642c97dc38af",
+    "lede": "'Next week\u2019s earnings call just became the most important in the company\u2019s history'",
+    "outlet": "theregister",
+    "published": "2026-11-12T14:21:35Z",
+    "title": "Jensen Huang resigns as Nvidia chief executive",
+    "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411"
+  },
+  "b": {
+    "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+    "lede": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+    "outlet": "wired",
+    "published": "2026-11-12T13:58:06Z",
+    "title": "Jensen Huang Resigns as Nvidia CEO",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+  },
+  "score": 0.711584
+}

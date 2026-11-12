@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4065836ff3f518ca3fddf7b232f9cddee3d4ebc4",
+    "lede": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T17:24:26Z",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  "b": {
+    "item_id": "7927f7b9de97b7ad7e664031821a991286242b51",
+    "lede": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T14:36:47Z",
+    "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+    "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/"
+  },
+  "score": 0.591204
+}

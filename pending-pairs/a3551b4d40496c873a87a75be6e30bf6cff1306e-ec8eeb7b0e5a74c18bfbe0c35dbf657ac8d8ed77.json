@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+    "lede": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T10:24:07Z",
+    "title": "Microsoft confirms Windows security updates installation issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+  },
+  "b": {
+    "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
+    "lede": "Zero-size graphics can derail printing, while some admins also face activation failures",
+    "outlet": "theregister",
+    "published": "2026-11-12T16:36:00Z",
+    "title": "Microsoft has an image problem with November's Windows security update",
+    "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435"
+  },
+  "score": 0.627146
+}

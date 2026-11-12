@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+    "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T12:11:11Z",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+  },
+  "b": {
+    "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+    "lede": "This month\u2019s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T15:11:08Z",
+    "title": "If the November Windows update fails to install on your PC, here\u2019s what to do",
+    "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/"
+  },
+  "score": 0.667146
+}

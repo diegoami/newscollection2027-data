@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "baccdaa9b5505527e9f68b764271abe576b25a46",
+    "lede": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T18:39:23Z",
+    "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/"
+  },
+  "b": {
+    "item_id": "deea79b353aff377bfe20930a9e81299aac7cd74",
+    "lede": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T17:36:40Z",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/"
+  },
+  "score": 0.730241
+}

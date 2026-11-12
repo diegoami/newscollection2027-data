@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+    "lede": "This month\u2019s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T15:11:08Z",
+    "title": "If the November Windows update fails to install on your PC, here\u2019s what to do",
+    "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.638198
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0d616058aa94e7c5a748a0097c83727c45a06bbf",
+    "lede": "This week on \u201cUncanny Valley,\u201d the team unpacks the Nvidia CEO\u2019s affair with an alleged Chinese spy and what that means for the AI industry.",
+    "outlet": "wired",
+    "published": "2026-11-12T18:59:58Z",
+    "title": "Jensen Huang\u2019s $470 Billion Affair",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/"
+  },
+  "b": {
+    "item_id": "5d63754d84e9ecf358aa8cd541094c08cf840bd9",
+    "lede": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T15:23:20Z",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+  },
+  "score": 0.628885
+}

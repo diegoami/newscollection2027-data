@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "b": {
+    "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
+    "lede": "Zero-size graphics can derail printing, while some admins also face activation failures",
+    "outlet": "theregister",
+    "published": "2026-11-12T16:36:00Z",
+    "title": "Microsoft has an image problem with November's Windows security update",
+    "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435"
+  },
+  "score": 0.606956
+}

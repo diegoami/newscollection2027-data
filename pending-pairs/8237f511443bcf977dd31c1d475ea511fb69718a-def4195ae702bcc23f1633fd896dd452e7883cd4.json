@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a",
+    "lede": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T18:49:19Z",
+    "title": "Pixel Tag, Google\u2019s $30 Android-ready answer to Apple\u2019s AirTag, is now available",
+    "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+  },
+  "b": {
+    "item_id": "def4195ae702bcc23f1633fd896dd452e7883cd4",
+    "lede": "Several of the tracker\u2019s best features require Bluetooth 6.0-compatible device.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:11:16Z",
+    "title": "Google\u2019s Pixel Tag tracker won\u2019t work as well on older Android phones \u2013 check our list",
+    "url": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/"
+  },
+  "score": 0.740735
+}

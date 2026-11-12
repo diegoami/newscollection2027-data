@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T19:45:52Z",
+    "title": "Several Microsoft services appear to be down \u2013 what we know",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "b": {
+    "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+    "lede": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-12T20:43:02Z",
+    "title": "Microsoft Outlook is down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+  },
+  "score": 0.656458
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "28ab9a11f8377371260ce0abd45914a57663bd57",
+    "lede": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T15:00:10Z",
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/"
+  },
+  "b": {
+    "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+    "lede": "ConnectWise disables third-party extensions in 400 environments as bughunters uncover auth hole may let crims bypass MFA",
+    "outlet": "theregister",
+    "published": "2026-11-12T13:02:00Z",
+    "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
+    "url": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
+  },
+  "score": 0.588465
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+    "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
+    "outlet": "wired",
+    "published": "2026-11-12T20:01:33Z",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"
+  },
+  "b": {
+    "item_id": "a20ff2b991b55d372eae09b597238730556a7cfd",
+    "lede": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T19:03:39Z",
+    "title": "Microsoft\u2019s Outlook email hit by new outage",
+    "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+  },
+  "score": 0.719641
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "023d1c79ca20cb05e6182888453906096dd0785c",
+    "lede": "This is Fireworks' second data breach in as many months.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T15:02:28Z",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  },
+  "b": {
+    "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588",
+    "lede": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants",
+    "outlet": "theregister",
+    "published": "2026-11-10T15:28:00Z",
+    "title": "Fireworks AI gets burned twice as customer data exposure widens",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/10/fireworks-ai-gets-burned-twice-as-customer-data-exposure-widens/5308722"
+  },
+  "score": 0.597486
+}

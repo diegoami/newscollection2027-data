@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15f65b929781f6ada7c4874dfe0a642c97dc38af",
+    "lede": "'Next week\u2019s earnings call just became the most important in the company\u2019s history'",
+    "outlet": "theregister",
+    "published": "2026-11-12T14:21:35Z",
+    "title": "Jensen Huang resigns as Nvidia chief executive",
+    "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411"
+  },
+  "b": {
+    "item_id": "73f976158f7efb5f8df9f31f9f40623dd2dd60f1",
+    "lede": "The FBI is investigating as Nvidia\u2019s board holds urgent talks over Huang\u2019s future.",
+    "outlet": "arstechnica",
+    "published": "2026-11-12T14:05:17Z",
+    "title": "Nvidia CEO Jensen Huang has resigned",
+    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+  },
+  "score": 0.651534
+}

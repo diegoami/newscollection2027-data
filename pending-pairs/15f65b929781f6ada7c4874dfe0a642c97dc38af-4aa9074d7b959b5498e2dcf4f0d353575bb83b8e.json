@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15f65b929781f6ada7c4874dfe0a642c97dc38af",
+    "lede": "'Next week\u2019s earnings call just became the most important in the company\u2019s history'",
+    "outlet": "theregister",
+    "published": "2026-11-12T14:21:35Z",
+    "title": "Jensen Huang resigns as Nvidia chief executive",
+    "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411"
+  },
+  "b": {
+    "item_id": "4aa9074d7b959b5498e2dcf4f0d353575bb83b8e",
+    "lede": "As the boss of the AI resigns, some names have emerged as potential successors.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-12T14:11:51Z",
+    "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+    "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+  },
+  "score": 0.715024
+}

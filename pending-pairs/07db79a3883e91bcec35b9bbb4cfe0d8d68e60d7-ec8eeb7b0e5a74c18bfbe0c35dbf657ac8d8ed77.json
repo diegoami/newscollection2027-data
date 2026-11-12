@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+    "lede": "This month\u2019s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T15:11:08Z",
+    "title": "If the November Windows update fails to install on your PC, here\u2019s what to do",
+    "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/"
+  },
+  "b": {
+    "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
+    "lede": "Zero-size graphics can derail printing, while some admins also face activation failures",
+    "outlet": "theregister",
+    "published": "2026-11-12T16:36:00Z",
+    "title": "Microsoft has an image problem with November's Windows security update",
+    "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435"
+  },
+  "score": 0.578653
+}

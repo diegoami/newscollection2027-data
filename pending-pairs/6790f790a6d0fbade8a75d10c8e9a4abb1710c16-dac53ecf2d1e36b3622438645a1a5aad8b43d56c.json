@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+    "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
+    "outlet": "wired",
+    "published": "2026-11-12T20:01:33Z",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"
+  },
+  "b": {
+    "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+    "lede": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "outlet": "engadget",
+    "published": "2026-11-12T19:17:32Z",
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
+  },
+  "score": 0.721369
+}

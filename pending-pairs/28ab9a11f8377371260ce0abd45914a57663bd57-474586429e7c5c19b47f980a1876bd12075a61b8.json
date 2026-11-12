@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "28ab9a11f8377371260ce0abd45914a57663bd57",
+    "lede": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T15:00:10Z",
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/"
+  },
+  "b": {
+    "item_id": "474586429e7c5c19b47f980a1876bd12075a61b8",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T10:12:08Z",
+    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
+  },
+  "score": 0.571173
+}

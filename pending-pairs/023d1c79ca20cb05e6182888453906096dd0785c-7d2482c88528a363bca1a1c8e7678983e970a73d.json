@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "023d1c79ca20cb05e6182888453906096dd0785c",
+    "lede": "This is Fireworks' second data breach in as many months.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T15:02:28Z",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+  },
+  "b": {
+    "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d",
+    "lede": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T07:49:58Z",
+    "title": "Fireworks AI discloses new breach after cloud provider hack",
+    "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/"
+  },
+  "score": 0.686229
+}

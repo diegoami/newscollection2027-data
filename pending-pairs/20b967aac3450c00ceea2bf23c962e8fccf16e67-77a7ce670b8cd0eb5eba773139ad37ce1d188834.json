@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "20b967aac3450c00ceea2bf23c962e8fccf16e67",
+    "lede": "Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.",
+    "outlet": "engadget",
+    "published": "2026-11-10T16:00:00Z",
+    "title": "Google's Gemini 4 Carbon is now widely available around the world",
+    "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/"
+  },
+  "b": {
+    "item_id": "77a7ce670b8cd0eb5eba773139ad37ce1d188834",
+    "lede": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+    "outlet": "arstechnica",
+    "published": "2026-11-12T19:23:03Z",
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+  },
+  "score": 0.634113
+}

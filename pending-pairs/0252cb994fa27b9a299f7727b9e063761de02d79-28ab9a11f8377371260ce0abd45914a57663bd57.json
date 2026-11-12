@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0252cb994fa27b9a299f7727b9e063761de02d79",
+    "lede": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T15:45:27Z",
+    "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+    "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/"
+  },
+  "b": {
+    "item_id": "28ab9a11f8377371260ce0abd45914a57663bd57",
+    "lede": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T15:00:10Z",
+    "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+    "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/"
+  },
+  "score": 0.570569
+}

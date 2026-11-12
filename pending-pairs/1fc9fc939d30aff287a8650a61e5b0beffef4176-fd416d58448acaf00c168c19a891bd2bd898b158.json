@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T19:45:52Z",
+    "title": "Several Microsoft services appear to be down \u2013 what we know",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.576288
+}

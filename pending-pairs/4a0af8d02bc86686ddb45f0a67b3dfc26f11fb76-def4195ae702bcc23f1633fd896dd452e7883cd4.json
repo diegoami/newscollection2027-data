@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4a0af8d02bc86686ddb45f0a67b3dfc26f11fb76",
+    "lede": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:50:24Z",
+    "title": "Google Wallet just turned your Android phone into a digital house key \u2013 how it works",
+    "url": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/"
+  },
+  "b": {
+    "item_id": "def4195ae702bcc23f1633fd896dd452e7883cd4",
+    "lede": "Several of the tracker\u2019s best features require Bluetooth 6.0-compatible device.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:11:16Z",
+    "title": "Google\u2019s Pixel Tag tracker won\u2019t work as well on older Android phones \u2013 check our list",
+    "url": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/"
+  },
+  "score": 0.581062
+}

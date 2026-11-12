@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c28621f64a14946f6025a988eda31f6030ec3573",
+    "lede": "AI agents face restrictions over safety checks that require a human touch",
+    "outlet": "theregister",
+    "published": "2026-11-12T15:37:00Z",
+    "title": "United Airlines wants you to check in, not your chatbot",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373"
+  },
+  "b": {
+    "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8",
+    "lede": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T17:17:58Z",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+  },
+  "score": 0.571865
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+    "lede": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-12T20:43:02Z",
+    "title": "Microsoft Outlook is down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.715706
+}

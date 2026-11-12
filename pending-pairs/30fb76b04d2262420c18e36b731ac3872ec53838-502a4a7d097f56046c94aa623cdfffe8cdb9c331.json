@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "30fb76b04d2262420c18e36b731ac3872ec53838",
+    "lede": "Lego fans demand answers as outage approaches a week with no confirmed cause",
+    "outlet": "theregister",
+    "published": "2026-11-12T20:08:08Z",
+    "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
+    "url": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425"
+  },
+  "b": {
+    "item_id": "502a4a7d097f56046c94aa623cdfffe8cdb9c331",
+    "lede": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-11T22:26:18Z",
+    "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+    "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o"
+  },
+  "score": 0.76636
+}

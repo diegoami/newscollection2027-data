@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a20ff2b991b55d372eae09b597238730556a7cfd",
+    "lede": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T19:03:39Z",
+    "title": "Microsoft\u2019s Outlook email hit by new outage",
+    "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+  },
+  "b": {
+    "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+    "lede": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "outlet": "engadget",
+    "published": "2026-11-12T19:17:32Z",
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
+  },
+  "score": 0.640158
+}

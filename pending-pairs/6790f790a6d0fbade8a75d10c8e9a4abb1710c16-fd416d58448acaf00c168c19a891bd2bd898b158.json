@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+    "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
+    "outlet": "wired",
+    "published": "2026-11-12T20:01:33Z",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.620868
+}

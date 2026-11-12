@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e7c3d53ea7379372eaeb553f8086df3a162a879",
+    "lede": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T19:51:16Z",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+  },
+  "b": {
+    "item_id": "8abde1ce00befc7c0a97a4a53316eae4ddda2b06",
+    "lede": "\"*sshole\" poses a serious threat to Internet security.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T19:41:34Z",
+    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+  },
+  "score": 0.604685
+}

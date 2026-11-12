@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "23a11e7037873a0f74c5aaa3121d3a456b4a09b5",
+    "lede": "The chatbot was already available through the Google Maps app.",
+    "outlet": "engadget",
+    "published": "2026-11-11T19:54:55Z",
+    "title": "Google brings the Gemini app to Apple CarPlay",
+    "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/"
+  },
+  "b": {
+    "item_id": "4a0af8d02bc86686ddb45f0a67b3dfc26f11fb76",
+    "lede": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:50:24Z",
+    "title": "Google Wallet just turned your Android phone into a digital house key \u2013 how it works",
+    "url": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/"
+  },
+  "score": 0.587843
+}

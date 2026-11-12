@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+    "lede": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "outlet": "engadget",
+    "published": "2026-11-12T19:17:32Z",
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.734925
+}
