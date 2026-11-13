@@ -1,0 +1,79 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
+            "outlet": "bbc-technology",
+            "quote": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
+          },
+          {
+            "item_id": "931e3313f33e3a8e71cc65ce6822acbf829bfa36",
+            "outlet": "theguardian",
+            "quote": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations \u2013 video"
+          },
+          {
+            "item_id": "d4c70ff2f272178a44c089cb6b28e003451a3f7e",
+            "outlet": "tomshardware",
+            "quote": "President Trump says the FBI is investigating Jensen Huang\u2019s affair"
+          }
+        ],
+        "statement": "Trump said the FBI is investigating the Huang affair allegations."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
+            "outlet": "bbc-technology",
+            "quote": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+          },
+          {
+            "item_id": "fd48ce2874be788e45655874acd0e06ae241dd16",
+            "outlet": "theverge",
+            "quote": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy."
+          }
+        ],
+        "statement": "Trump made the comments after speaking with Huang directly about the affair."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "fd48ce2874be788e45655874acd0e06ae241dd16",
+            "outlet": "theverge",
+            "quote": "Huang said this weekend that he had been"
+          }
+        ],
+        "statement": "Huang said this past weekend that he had been unfaithful to his wife."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "931e3313f33e3a8e71cc65ce6822acbf829bfa36",
+            "outlet": "theguardian",
+            "quote": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'."
+          }
+        ],
+        "statement": "In the same briefing, Trump defended Defense Secretary Pete Hegseth against an impeachment push."
+      }
+    ],
+    "cluster_id": "2026-11-09-0effd5",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-11T02:25:47Z",
+    "headline": "Trump says FBI is investigating Jensen Huang's affair allegations",
+    "model": "claude-sonnet-5",
+    "summary": "At a White House briefing, President Trump said the FBI is investigating Nvidia CEO Jensen Huang's affair with a suspected Chinese spy, after speaking with Huang directly; Trump also defended Defense Secretary Pete Hegseth in the same remarks."
+  },
+  "cluster_id": "2026-11-09-0effd5",
+  "problems": [
+    "cluster: 2026-11-09-0effd5 is superseded by 2026-11-06-4fbfd5; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-11-13T02:23:30Z"
+}

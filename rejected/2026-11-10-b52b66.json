@@ -1,0 +1,68 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "dab7fe82b75437b2c10b6dddef85fe52b8f5719c",
+            "outlet": "tomshardware",
+            "quote": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy"
+          },
+          {
+            "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
+            "outlet": "theguardian",
+            "quote": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy"
+          },
+          {
+            "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
+            "outlet": "theguardian",
+            "quote": "Nvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese spying scandal engulfing the $4.3tn (\u00a33.2tn) company."
+          },
+          {
+            "item_id": "32c88b13d141381f4021dc08e0540423017fb4d6",
+            "outlet": "engadget",
+            "quote": "NVIDIA shareholders are suing the company and CEO Jensen Huang"
+          }
+        ],
+        "statement": "Nvidia and CEO Jensen Huang face a lawsuit/class action accusing them of misleading shareholders over the Chinese-spy affair scandal."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "32c88b13d141381f4021dc08e0540423017fb4d6",
+            "outlet": "engadget",
+            "quote": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy."
+          }
+        ],
+        "statement": "Nvidia's share price fell in response to the affair scandal."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
+            "outlet": "theguardian",
+            "quote": "Donald Trump says FBI is investigating tech CEO\u2019s links with Alice Huang"
+          }
+        ],
+        "statement": "Donald Trump said the FBI is investigating the CEO's links with Alice Huang."
+      }
+    ],
+    "cluster_id": "2026-11-10-b52b66",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-11-12T02:22:53Z",
+    "headline": "Nvidia and CEO Jensen Huang sued by shareholders over spy-affair scandal",
+    "model": "claude-sonnet-5",
+    "summary": "A law firm filed a class-action lawsuit and shareholders sued Nvidia and CEO Jensen Huang, accusing them of misleading shareholders over the Chinese spying scandal, as the company's shares fell. The lawsuit news came as Donald Trump said the FBI was investigating the CEO's links with Alice Huang."
+  },
+  "cluster_id": "2026-11-10-b52b66",
+  "problems": [
+    "cluster: 2026-11-10-b52b66 is superseded by 2026-11-06-4fbfd5; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-11-13T02:23:30Z"
+}

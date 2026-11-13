@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-11-11-004987",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Lego's BrickLink offline for days after 'unusual activity', cause unconfirmed",
+  "summary": "Lego's BrickLink trading marketplace has been offline since 'unusual activity' was detected on the site, and the company has not disclosed a cause. One report said the outage had lasted three days; a report filed the next day said it was approaching a week.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "BrickLink went offline after 'unusual activity' was detected on the site.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "502a4a7d097f56046c94aa623cdfffe8cdb9c331",
+          "quote": "offline after 'unusual activity' detected"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "30fb76b04d2262420c18e36b731ac3872ec53838",
+          "quote": "in pieces after 'unusual activity' takes it offline"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Neither outlet reports that a cause for the outage has been confirmed.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "502a4a7d097f56046c94aa623cdfffe8cdb9c331",
+          "quote": "yet to disclose what caused the shutdown"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "30fb76b04d2262420c18e36b731ac3872ec53838",
+          "quote": "with no confirmed cause"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "Reported outage length differs by more than a day's worth of time between the two reports: three days versus nearly a week.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "502a4a7d097f56046c94aa623cdfffe8cdb9c331",
+          "quote": "it has been down for three days"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "30fb76b04d2262420c18e36b731ac3872ec53838",
+          "quote": "outage approaches a week"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-12-0fd473",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Yandex Cloud says drone strikes on datacenters caused data loss",
+  "summary": "Yandex Cloud said drone attacks on its datacenters caused data loss, with one report putting the loss at nearly 3% of its data. The company said it had restored access to more than 97% of customer data, and has now switched to enabling backups by default.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Drone attacks on Yandex Cloud's datacenters caused data loss.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6c25034ee4bd8791a45b32fcf0a3d83849b71c65",
+          "quote": "Russian cloud Yandex says drone attacks on its datacenters caused data loss"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "d3cb434486f283453bcaae0b38d75f4b39ed8f9e",
+          "quote": "nearly 3% of its data was lost after crippling Ukraine drone strikes"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Yandex said it had restored access to more than 97% of customer data.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "d3cb434486f283453bcaae0b38d75f4b39ed8f9e",
+          "quote": "restored access to more than 97% of customer data"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Yandex now enables backups by default.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "6c25034ee4bd8791a45b32fcf0a3d83849b71c65",
+          "quote": "Now enables backup by default"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

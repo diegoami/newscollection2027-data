@@ -1,0 +1,32 @@
+{
+  "anchor": "f4434bb8778d8d4e684980403d431ce84133f078",
+  "id": "2026-11-11-18bf53",
+  "items": [
+    {
+      "item_id": "f4434bb8778d8d4e684980403d431ce84133f078",
+      "lede": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+      "outlet": "engadget",
+      "published": "2026-11-11T20:09:44Z",
+      "title": "United is restricting AI agents from booking flights",
+      "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/"
+    },
+    {
+      "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7",
+      "lede": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-11T21:54:21Z",
+      "title": "United won\u2019t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    },
+    {
+      "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8",
+      "lede": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+      "outlet": "techcrunch",
+      "published": "2026-11-12T17:17:58Z",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,82 @@
+{
+  "cluster_id": "2026-11-12-a2472d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide",
+  "summary": "Multiple Microsoft 365 services, including Outlook, Teams and Copilot, went down worldwide. Microsoft attributed the disruption to elevated load on a portion of its infrastructure across multiple regions, and reports of the outage began dropping as Microsoft restarted affected servers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Multiple Microsoft 365 services, including Outlook, Teams and Copilot, experienced a worldwide outage.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+          "quote": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+          "quote": "Multiple Microsoft 365 services are experiencing an outage"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+          "quote": "Several Microsoft services appear to be down"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+          "quote": "Microsoft Outlook is down"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft attributed the outage to elevated load on its infrastructure.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+          "quote": "elevated load"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+          "quote": "elevated loads"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+          "quote": "experiencing elevated load across multiple regions"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Microsoft had not given a cause for the outage as of the earliest report.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a20ff2b991b55d372eae09b597238730556a7cfd",
+          "quote": "Microsoft hasn't yet given a cause for the outage"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Reports of the outage began to drop as Microsoft restarted affected servers.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+          "quote": "Reports of the outage are beginning to drop as Microsoft restarts affected servers."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

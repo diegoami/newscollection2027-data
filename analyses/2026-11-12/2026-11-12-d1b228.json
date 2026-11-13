@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-12-d1b228",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Google and Samsung's Gemini smart glasses, made with Warby Parker, launch",
+  "summary": "Google and Samsung launched their Gemini-powered smart glasses, made in partnership with Warby Parker and Gentle Monster. The Warby Parker and Gentle Monster frames cost $395 and $449 respectively.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google and Samsung's Gemini-powered smart glasses, made with Warby Parker and Gentle Monster, have launched.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "11ce4e7c2b6ac38d8afabb19f3213eaf456081e7",
+          "quote": "Google and Samsung’s Android XR Smart Glasses Are Finally Here"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5f96a0ebfa7b0c58a6b3fe15a5e182cb30b53904",
+          "quote": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Warby Parker and Gentle Monster frames cost $395 and $449 respectively.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "11ce4e7c2b6ac38d8afabb19f3213eaf456081e7",
+          "quote": "cost $395 and $449, respectively"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5f96a0ebfa7b0c58a6b3fe15a5e182cb30b53904",
+          "quote": "starting at $395"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,79 +1,57 @@
 {
-  "headline": "Tesla to wind down Cybertruck production, shift to Cybercab",
-  "summary": "Tesla will stop building the Cybertruck, with the Texas factory space repurposed for the Cybercab robotaxi. Days later, Elon Musk defended the decision and said Tesla would refund some customer deposits. Outlets differ on tone: some call the Cybertruck a commercial failure, while others describe the shift neutrally.",
+  "cluster_id": "2026-11-06-b6d4e6",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "Tesla winds down Cybertruck production to make way for Cybercab robotaxi",
+  "summary": "Tesla is winding down Cybertruck production, with Elon Musk saying the freed factory capacity will go toward the Cybercab robotaxi. Musk defended the decision and said some customer deposits would be refunded, while the move drew backlash from some Cybertruck owners. Commentary was split: some outlets called the truck a commercial failure, while others framed its end as a boost for the broader EV market and battery supply chain.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Tesla will wind down Cybertruck production, with the factory space going to the Cybercab robotaxi.",
+      "statement": "Tesla will wind down Cybertruck production to free up factory capacity.",
       "sources": [
-        {
-          "outlet": "bbc-technology",
-          "item_id": "29b565926ae50ea8532274490e3e37c9d5cf9d09",
-          "quote": "to make room for production of its Cybercabs"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "5fba130d4ec8c6d3ba2499a14c6857bc57ebb2ac",
-          "quote": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi."
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "8a4d90c4aa8b2d5c60f2a057de670bc3fbff5866",
-          "quote": "Tesla will stop making the Cybertruck in 2027"
-        },
-        {
-          "outlet": "theguardian",
-          "item_id": "a4e5b28d6d5a36a5bec655a4012595060e84330d",
-          "quote": "Tesla to wind down Cybertruck production"
-        }
+        {"outlet": "engadget", "item_id": "5fba130d4ec8c6d3ba2499a14c6857bc57ebb2ac", "quote": "Tesla is 'winding down' Cybertruck production at its Texas Gigafactory"},
+        {"outlet": "theguardian", "item_id": "a4e5b28d6d5a36a5bec655a4012595060e84330d", "quote": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI"},
+        {"outlet": "techcrunch", "item_id": "8a4d90c4aa8b2d5c60f2a057de670bc3fbff5866", "quote": "Tesla will stop making the Cybertruck in 2027"},
+        {"outlet": "bbc-technology", "item_id": "29b565926ae50ea8532274490e3e37c9d5cf9d09", "quote": "Elon Musk appears to signal the end of the road for Cybertruck"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Musk later defended the decision and said Tesla would refund some Cybertruck deposits, with production ending in about eight months.",
+      "statement": "The freed-up factory space will be used to build the Cybercab robotaxi.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "7862033c12c5326ab9b5a9f79479da8ba205b2c2",
-          "quote": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "7862033c12c5326ab9b5a9f79479da8ba205b2c2",
-          "quote": "which will go out of production in around eight months."
-        }
+        {"outlet": "engadget", "item_id": "5fba130d4ec8c6d3ba2499a14c6857bc57ebb2ac", "quote": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi."},
+        {"outlet": "techcrunch", "item_id": "8a4d90c4aa8b2d5c60f2a057de670bc3fbff5866", "quote": "Elon Musk said the company will use the factory space to make more Cybercabs."},
+        {"outlet": "bbc-technology", "item_id": "29b565926ae50ea8532274490e3e37c9d5cf9d09", "quote": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."}
       ]
     },
     {
       "id": "c3",
-      "statement": "Some outlets characterized the Cybertruck as a commercial failure.",
+      "statement": "Musk defended the decision to end Cybertruck production and said Tesla will refund some customer deposits.",
       "sources": [
-        {
-          "outlet": "theguardian",
-          "item_id": "a4e5b28d6d5a36a5bec655a4012595060e84330d",
-          "quote": "marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US."
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "ba6c83f8e1dea815fa631e37003dea5c965c38d9",
-          "quote": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful."
-        }
+        {"outlet": "techcrunch", "item_id": "7862033c12c5326ab9b5a9f79479da8ba205b2c2", "quote": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Wired said this is the second Tesla EV discontinued within the past year and framed the move as a benefit for the broader EV and battery industry.",
+      "statement": "The decision prompted backlash against Musk from Cybertruck fans.",
       "sources": [
-        {
-          "outlet": "wired",
-          "item_id": "42d5d53495396899f93d46948abfb1c0b5526c4f",
-          "quote": "the second within the last year to get the ax"
-        },
-        {
-          "outlet": "wired",
-          "item_id": "42d5d53495396899f93d46948abfb1c0b5526c4f",
-          "quote": "It could be a huge benefit for the US battery supply chain."
-        }
+        {"outlet": "theverge", "item_id": "3068e9e9bd476ebde65abbf2fe600c80d59d5a3c", "quote": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Some commentary characterized the Cybertruck as a commercial failure.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "ba6c83f8e1dea815fa631e37003dea5c965c38d9", "quote": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful."}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Other commentary framed the end of Cybertruck production as a benefit to the broader EV market and battery supply chain.",
+      "sources": [
+        {"outlet": "wired", "item_id": "42d5d53495396899f93d46948abfb1c0b5526c4f", "quote": "It could be a huge benefit for the US battery supply chain."}
       ]
     }
   ],
@@ -81,29 +59,13 @@
     {
       "kind": "framing",
       "severity": "low",
-      "claim_ids": [
-        "c1",
-        "c3"
-      ],
-      "explanation": "The Guardian and Ars Technica frame the wind-down as the end of a failed product, while Engadget and TechCrunch describe it neutrally as a capacity shift toward the Cybercab.",
+      "claim_ids": ["c5", "c6"],
+      "explanation": "Outlets differ on whether the end of the Cybertruck is a commercial failure or a positive development for the EV market.",
       "quotes": [
-        {
-          "outlet": "theguardian",
-          "item_id": "a4e5b28d6d5a36a5bec655a4012595060e84330d",
-          "quote": "marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US."
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "5fba130d4ec8c6d3ba2499a14c6857bc57ebb2ac",
-          "quote": "Tesla Cybertruck production will wind down in the middle of 2027 to make room for the Cybercab robotaxi."
-        }
+        {"outlet": "arstechnica", "item_id": "ba6c83f8e1dea815fa631e37003dea5c965c38d9", "quote": "No more Cybertrucks; Musk moves on from the angular metallic flop"},
+        {"outlet": "wired", "item_id": "42d5d53495396899f93d46948abfb1c0b5526c4f", "quote": "The Cybertruck’s Death Is Actually Great News for EVs"}
       ]
     }
   ],
-  "agreement": "partial",
-  "cluster_id": "2026-11-06-b6d4e6",
-  "cluster_version": 2,
-  "backend": "claude_code",
-  "model": "claude-sonnet-5",
-  "generated_at": "2026-11-10T02:23:32Z"
+  "agreement": "partial"
 }

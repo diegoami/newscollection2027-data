@@ -1,0 +1,24 @@
+{
+  "anchor": "e93ab3188f132b184af39bfe1adea5b04ee38484",
+  "id": "2026-11-11-8dee3e",
+  "items": [
+    {
+      "item_id": "e93ab3188f132b184af39bfe1adea5b04ee38484",
+      "lede": "SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom.",
+      "outlet": "tomshardware",
+      "published": "2026-11-11T14:29:43Z",
+      "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk\u2019s claim it was defaulting",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity"
+    },
+    {
+      "item_id": "ddf7a6c150d0e1d190454d644319cb5e66d1221b",
+      "lede": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "outlet": "techcrunch",
+      "published": "2026-11-12T17:00:52Z",
+      "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

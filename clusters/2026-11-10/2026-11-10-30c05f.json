@@ -25,8 +25,16 @@
       "published": "2026-11-11T20:54:20Z",
       "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
       "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+    },
+    {
+      "item_id": "023d1c79ca20cb05e6182888453906096dd0785c",
+      "lede": "This is Fireworks' second data breach in as many months.",
+      "outlet": "techcrunch",
+      "published": "2026-11-12T15:02:28Z",
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

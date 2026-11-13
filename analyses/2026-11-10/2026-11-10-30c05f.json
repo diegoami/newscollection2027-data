@@ -1,1 +1,44 @@
-{"cluster_id": "2026-11-10-30c05f", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-12T02:24:41Z", "headline": "Fireworks AI breach via cloud provider exposes Notion customer chat data", "summary": "Fireworks AI disclosed a new security breach after attackers compromised a third-party cloud provider and accessed its development machines. Notion later said the breach at its AI infrastructure provider, Fireworks, exposed Notion AI chat transcripts in a small number of workspaces, as Fireworks' customer data exposure widened.", "claims": [{"id": "c1", "statement": "Fireworks AI disclosed a new security breach after attackers compromised a third-party cloud provider and accessed its development machines.", "sources": [{"outlet": "bleepingcomputer", "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d", "quote": "Fireworks AI discloses new breach after cloud provider hack"}, {"outlet": "bleepingcomputer", "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d", "quote": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider."}, {"outlet": "theregister", "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588", "quote": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants"}]}, {"id": "c2", "statement": "The Fireworks breach exposed Notion's customer AI chat transcripts in a small number of workspaces.", "sources": [{"outlet": "bleepingcomputer", "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9", "quote": "Notion says Fireworks breach exposed customer AI chat transcripts"}, {"outlet": "bleepingcomputer", "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9", "quote": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces."}]}, {"id": "c3", "statement": "The incident marks a second breach for Fireworks AI, with the scope of customer data exposure widening.", "sources": [{"outlet": "theregister", "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588", "quote": "Fireworks AI gets burned twice as customer data exposure widens"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-11-10-30c05f",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "Fireworks AI discloses second breach exposing Notion customers' chat transcripts",
+  "summary": "Fireworks AI disclosed a new security breach, its second in as many months, after attackers accessed its development machines by breaching a third-party cloud provider. The breach exposed AI chat transcripts belonging to Notion customers, affecting a small number of workspaces, according to Notion.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Fireworks AI disclosed a new breach, its second data breach in as many months.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d", "quote": "Fireworks AI discloses new breach after cloud provider hack"},
+        {"outlet": "theregister", "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588", "quote": "Fireworks AI gets burned twice as customer data exposure widens"},
+        {"outlet": "techcrunch", "item_id": "023d1c79ca20cb05e6182888453906096dd0785c", "quote": "This is Fireworks' second data breach in as many months."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Attackers accessed Fireworks' development machines after breaching a third-party cloud provider.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d", "quote": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The breach exposed Notion customers' AI chat transcripts.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9", "quote": "Notion says Fireworks breach exposed customer AI chat transcripts"},
+        {"outlet": "techcrunch", "item_id": "023d1c79ca20cb05e6182888453906096dd0785c", "quote": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Notion said the exposure affected a small number of workspaces.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9", "quote": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

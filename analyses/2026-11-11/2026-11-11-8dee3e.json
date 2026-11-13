@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-11-8dee3e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "SoftBank cancels AI data-center gas turbine orders, posts billion-dollar loss",
+  "summary": "SoftBank pulled out of natural gas turbine orders meant to power AI data centers after overestimating how much capacity it needed, taking a loss of several billion dollars. The move comes days after SoftBank denied Elon Musk's claim that it was defaulting on the orders.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "SoftBank lost money by canceling natural gas turbine orders meant for AI data centers.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "e93ab3188f132b184af39bfe1adea5b04ee38484", "quote": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders"},
+        {"outlet": "techcrunch", "item_id": "ddf7a6c150d0e1d190454d644319cb5e66d1221b", "quote": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "SoftBank had overestimated how many turbines it could use amid the AI data center buildout.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "e93ab3188f132b184af39bfe1adea5b04ee38484", "quote": "it has pulled out of deals for unwanted power units after overestimating how many it could use amid the AI data center buildout boom"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The cancellation came days after SoftBank denied Elon Musk's claim that it was defaulting on the turbine orders.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "e93ab3188f132b184af39bfe1adea5b04ee38484", "quote": "days after denying Elon Musk’s claim it was defaulting"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

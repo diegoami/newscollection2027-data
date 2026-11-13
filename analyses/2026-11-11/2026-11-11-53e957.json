@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-11-53e957",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Attackers exploit ScreenConnect flaw to breach MSPs, spread malware",
+  "summary": "Attackers are actively exploiting ScreenConnect to breach managed service providers and spread malware to customer systems, with hundreds of PCs affected. ConnectWise disabled third-party extensions across 400 environments in response. The outlets differ on how the compromise occurred: one cites an authentication flaw letting attackers bypass MFA, the other describes compromised ScreenConnect environments used to deploy rogue remote-access clients.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Attackers are exploiting ScreenConnect to breach MSPs and spread malware to customer devices.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+          "quote": "ScreenConnect attacks breach MSPs"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+          "quote": "exploiting ScreenConnect plugin flaw to spread malware"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "ConnectWise disabled third-party extensions across 400 environments in response.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+          "quote": "disables third-party extensions in 400 environments"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "explanation": "The outlets differ on how attackers gained access: one cites an authentication flaw letting attackers bypass MFA, the other describes compromised ScreenConnect environments deploying rogue remote-access clients without naming a specific flaw.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+          "quote": "bughunters uncover auth hole may let crims bypass MFA"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+          "quote": "uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

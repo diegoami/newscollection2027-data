@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-12-13ebe8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Microsoft confirms November security update fails on some Windows 11 PCs",
+  "summary": "Microsoft confirmed that the November 2026 security update is failing to install on Windows 11 systems that already have the October preview update. A fix is reportedly on the way.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft confirmed the November 2026 security update fails to install on Windows 11 systems with the October preview update.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+          "quote": "the November 2026 security updates are failing to install on Windows 11 systems with the October preview update"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+          "quote": "This month’s security update is failing on some systems already running the preview update released in October"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "A fix for the installation failure is reportedly forthcoming.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+          "quote": "there is a fix afoot"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

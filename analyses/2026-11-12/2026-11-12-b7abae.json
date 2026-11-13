@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-12-b7abae",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:30:00Z",
+  "headline": "Microsoft confirms Windows updates causing SQL Server performance issues",
+  "summary": "Microsoft confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability problems, including linked server connections that fail to close properly.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft confirmed Windows updates since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+          "quote": "Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "c07419c8738019944d45f11a21730f2d858cf7be",
+          "quote": "Microsoft admits SQL Servers might wobble after October update"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The issue involves linked server connections that persist longer than expected.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "c07419c8738019944d45f11a21730f2d858cf7be",
+          "quote": "Linked server connections can linger long past their welcome"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

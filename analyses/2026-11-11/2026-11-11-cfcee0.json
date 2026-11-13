@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-11-cfcee0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "Roku discontinues smart home products to focus on streaming",
+  "summary": "Roku will stop selling smart home devices, including video doorbells and its home monitoring system, to refocus on streaming. The move follows the company's sale to Fox.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Roku will stop selling smart home devices and refocus on streaming.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "df647e229562555f9ecdef418b65328ac99a623b", "quote": "Roku will stop selling smart home devices and refocus on streaming"},
+        {"outlet": "zdnet", "item_id": "cdb9497980b8c703529f3170338b660f2d5c8798", "quote": "Roku drops smart home products to focus on streaming – what that means for your devices"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The discontinued products include video doorbells and the home monitoring system.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "df647e229562555f9ecdef418b65328ac99a623b", "quote": "The company will stop selling video doorbells, its home monitoring system and other products."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The move follows Roku's sale to Fox.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "cdb9497980b8c703529f3170338b660f2d5c8798", "quote": "Roku is winding down its smart home business following its sale to Fox."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "81c693f5ead5e9cbbf6740e9711d1f585ccf36b9",
+  "id": "2026-11-11-862484",
+  "items": [
+    {
+      "item_id": "81c693f5ead5e9cbbf6740e9711d1f585ccf36b9",
+      "lede": "The company plans on linking two 520-qubit chips before next year is over.",
+      "outlet": "arstechnica",
+      "published": "2026-11-11T16:33:08Z",
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+    },
+    {
+      "item_id": "2594dbc7b7b52674d54ecd86a14f066d41370d0d",
+      "lede": "New unit sports more qubits and is planned to be part of future fault-tolerant rig",
+      "outlet": "theregister",
+      "published": "2026-11-12T13:37:02Z",
+      "title": "Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor",
+      "url": "https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "6c25034ee4bd8791a45b32fcf0a3d83849b71c65",
+  "id": "2026-11-12-0fd473",
+  "items": [
+    {
+      "item_id": "6c25034ee4bd8791a45b32fcf0a3d83849b71c65",
+      "lede": "Now enables backup by default and hints a little on-prem infra never hurt anyone",
+      "outlet": "theregister",
+      "published": "2026-11-12T01:10:24Z",
+      "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+      "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234"
+    },
+    {
+      "item_id": "d3cb434486f283453bcaae0b38d75f4b39ed8f9e",
+      "lede": "Yandex Cloud boasted that it had 'restored access to more than 97% of customer data' after Ukrainian drone attack damage.",
+      "outlet": "tomshardware",
+      "published": "2026-11-12T21:00:00Z",
+      "title": "Russia\u2019s Google says nearly 3% of its data was lost after crippling Ukraine drone strikes, opens secret availability zones",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/russias-google-says-nearly-3-percent-of-its-data-was-lost-after-crippling-ukraine-drone-strikes-opens-secret-availability-zones-yandex-cloud-blames-lack-of-user-backups-for-lost-data-now-forcibly-applies-backup-rules-by-default"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "c07419c8738019944d45f11a21730f2d858cf7be",
+  "id": "2026-11-12-b7abae",
+  "items": [
+    {
+      "item_id": "c07419c8738019944d45f11a21730f2d858cf7be",
+      "lede": "Linked server connections can linger long past their welcome",
+      "outlet": "theregister",
+      "published": "2026-11-12T12:06:04Z",
+      "title": "Microsoft admits SQL Servers might wobble after October update",
+      "url": "https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349"
+    },
+    {
+      "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+      "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-12T12:11:11Z",
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

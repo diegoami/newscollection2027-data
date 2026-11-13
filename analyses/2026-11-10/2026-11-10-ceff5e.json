@@ -1,1 +1,44 @@
-{"cluster_id": "2026-11-10-ceff5e", "cluster_version": 1, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-11T02:30:00Z", "headline": "Google's $30 Pixel Tag item tracker is now available", "summary": "Google's Pixel Tag, a $30 Android item tracker similar to Apple's AirTag, is now available for purchase, working with Google's tracking network renamed Find Hub.", "claims": [{"id": "c1", "statement": "Google's Pixel Tag, a $30 item tracker similar to Apple's AirTag, is now available for purchase.", "sources": [{"outlet": "techcrunch", "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a", "quote": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"}, {"outlet": "techcrunch", "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a", "quote": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."}, {"outlet": "theverge", "item_id": "cc0d880dedf58bdfda961d45855c538b9afd279a", "quote": "Google’s Pixel Tag tracker is now available"}]}, {"id": "c2", "statement": "The Pixel Tag works with Google's tracking network and app, renamed Find Hub, and is priced similarly to AirTag.", "sources": [{"outlet": "theverge", "item_id": "cc0d880dedf58bdfda961d45855c538b9afd279a", "quote": "the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-11-10-ceff5e",
+  "cluster_version": 2,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "Google's Pixel Tag tracker goes on sale, matching Apple's AirTag pricing",
+  "summary": "Google's Pixel Tag item tracker is now available for purchase, priced similarly to Apple's AirTag at about $30, and works with Google's Find Hub tracking network. Some of its best features require a Bluetooth 6.0-compatible phone, limiting functionality on older Android devices.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google's Pixel Tag tracker is now available for purchase.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cc0d880dedf58bdfda961d45855c538b9afd279a", "quote": "Google’s Pixel Tag tracker is now available"},
+        {"outlet": "techcrunch", "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a", "quote": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Pixel Tag is priced around $30, similar to Apple's AirTag.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "8237f511443bcf977dd31c1d475ea511fb69718a", "quote": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available"},
+        {"outlet": "theverge", "item_id": "cc0d880dedf58bdfda961d45855c538b9afd279a", "quote": "The Pixel Tag is priced similar to Apple's AirTag"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Pixel Tag works with Google's tracking network and app, renamed Find Hub.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cc0d880dedf58bdfda961d45855c538b9afd279a", "quote": "designed to work with Google's tracking network and app that was renamed the Find Hub last year"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Some of the tracker's best features require a Bluetooth 6.0-compatible phone, limiting support on older Android devices.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "def4195ae702bcc23f1633fd896dd452e7883cd4", "quote": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list"},
+        {"outlet": "zdnet", "item_id": "def4195ae702bcc23f1633fd896dd452e7883cd4", "quote": "Several of the tracker’s best features require Bluetooth 6.0-compatible device."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

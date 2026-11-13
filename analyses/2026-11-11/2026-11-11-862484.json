@@ -1,0 +1,41 @@
+{
+  "cluster_id": "2026-11-11-862484",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-13T02:22:25Z",
+  "headline": "IBM plans dual-chip quantum system topping 1,000 qubits by 2027",
+  "summary": "IBM plans to offer access to a dual-processor quantum system by 2027, linking two 520-qubit chips to scale beyond 1,000 qubits using its new Nighthawk r3 processor, intended as part of a future fault-tolerant machine.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "IBM plans to offer access to a dual-processor quantum system by 2027.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "81c693f5ead5e9cbbf6740e9711d1f585ccf36b9", "quote": "IBM to offer access to a dual-processor quantum system in 2027"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The plan links two 520-qubit chips together.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "81c693f5ead5e9cbbf6740e9711d1f585ccf36b9", "quote": "The company plans on linking two 520-qubit chips before next year is over."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "IBM plans to scale beyond 1,000 qubits in 2027 using the new Nighthawk r3 processor.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "2594dbc7b7b52674d54ecd86a14f066d41370d0d", "quote": "Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The new processor has more qubits and is planned to be part of a future fault-tolerant quantum system.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "2594dbc7b7b52674d54ecd86a14f066d41370d0d", "quote": "New unit sports more qubits and is planned to be part of future fault-tolerant rig"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
