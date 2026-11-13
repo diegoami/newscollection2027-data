@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+    "lede": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T12:27:40Z",
+    "title": "Microsoft says November security updates cause printing issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/"
+  },
+  "b": {
+    "item_id": "6cc65111539402d1c7bdb430191c479bd1bcff17",
+    "lede": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T09:07:27Z",
+    "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/"
+  },
+  "score": 0.618857
+}

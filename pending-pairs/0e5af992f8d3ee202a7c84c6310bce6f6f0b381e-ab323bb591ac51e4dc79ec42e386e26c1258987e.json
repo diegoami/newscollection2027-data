@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+    "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T13:15:20Z",
+    "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  "score": 0.713221
+}

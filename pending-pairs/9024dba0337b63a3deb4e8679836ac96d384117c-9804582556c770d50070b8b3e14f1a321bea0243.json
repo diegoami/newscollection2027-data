@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+    "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T13:34:53Z",
+    "title": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+  },
+  "b": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "score": 0.685013
+}

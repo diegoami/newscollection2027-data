@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "101466b87ed4795a6226810866da59db96581552",
+    "lede": "\u2018Actions taken thus far have not provided the anticipated relief\u2019",
+    "outlet": "theregister",
+    "published": "2026-11-12T23:06:06Z",
+    "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+    "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531"
+  },
+  "b": {
+    "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+    "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T13:34:53Z",
+    "title": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+  },
+  "score": 0.587667
+}

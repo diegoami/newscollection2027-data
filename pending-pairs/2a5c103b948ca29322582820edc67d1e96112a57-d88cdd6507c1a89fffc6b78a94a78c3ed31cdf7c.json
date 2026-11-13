@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a5c103b948ca29322582820edc67d1e96112a57",
+    "lede": "Microsoft's latest Surface is a beautiful flagship device for NVIDIA's RTX Spark.",
+    "outlet": "engadget",
+    "published": "2026-11-13T13:00:00Z",
+    "title": "Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple",
+    "url": "https://www.engadget.com/2314873/surface-laptop-ultra-review/"
+  },
+  "b": {
+    "item_id": "d88cdd6507c1a89fffc6b78a94a78c3ed31cdf7c",
+    "lede": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-11T00:34:24Z",
+    "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+    "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling"
+  },
+  "score": 0.575342
+}

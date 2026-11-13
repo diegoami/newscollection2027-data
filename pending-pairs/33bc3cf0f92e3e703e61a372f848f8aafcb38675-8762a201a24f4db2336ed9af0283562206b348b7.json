@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+    "lede": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T18:33:26Z",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/"
+  },
+  "b": {
+    "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
+    "lede": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T09:36:18Z",
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/"
+  },
+  "score": 0.66525
+}

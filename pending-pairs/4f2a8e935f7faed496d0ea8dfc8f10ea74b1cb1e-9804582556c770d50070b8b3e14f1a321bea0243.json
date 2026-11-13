@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
+    "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft's massive M365 outage stretches past 18 hours as its fixes keep failing",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-18-hours-as-its-fixes-keep-failing/5309609"
+  },
+  "b": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "score": 0.574039
+}

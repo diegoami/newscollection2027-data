@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+    "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+    "outlet": "theguardian",
+    "published": "2026-11-13T13:22:49Z",
+    "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+  },
+  "b": {
+    "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+    "lede": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "outlet": "engadget",
+    "published": "2026-11-12T19:17:32Z",
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
+  },
+  "score": 0.680349
+}

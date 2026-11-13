@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T19:45:52Z",
+    "title": "Several Microsoft services appear to be down \u2013 what we know",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "b": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "score": 0.62935
+}

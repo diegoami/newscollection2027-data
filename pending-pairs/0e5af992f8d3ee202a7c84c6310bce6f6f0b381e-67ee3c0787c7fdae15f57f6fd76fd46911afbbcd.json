@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "67ee3c0787c7fdae15f57f6fd76fd46911afbbcd",
+    "lede": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T11:43:27Z",
+    "title": "What we know so far about the Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+  },
+  "score": 0.583176
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "b": {
+    "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+    "lede": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-12T20:43:02Z",
+    "title": "Microsoft Outlook is down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+  },
+  "score": 0.601246
+}

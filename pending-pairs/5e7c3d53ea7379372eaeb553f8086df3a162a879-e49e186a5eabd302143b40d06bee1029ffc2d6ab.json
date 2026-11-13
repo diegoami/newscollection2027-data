@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5e7c3d53ea7379372eaeb553f8086df3a162a879",
+    "lede": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T19:51:16Z",
+    "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+    "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+  },
+  "b": {
+    "item_id": "e49e186a5eabd302143b40d06bee1029ffc2d6ab",
+    "lede": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T10:44:22Z",
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/"
+  },
+  "score": 0.59963
+}

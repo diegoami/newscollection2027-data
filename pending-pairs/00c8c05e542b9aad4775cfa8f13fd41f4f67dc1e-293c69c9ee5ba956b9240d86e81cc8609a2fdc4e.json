@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+    "lede": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T12:11:11Z",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+  },
+  "b": {
+    "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+    "lede": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T12:27:40Z",
+    "title": "Microsoft says November security updates cause printing issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/"
+  },
+  "score": 0.689555
+}

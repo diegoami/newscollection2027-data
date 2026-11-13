@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82",
+    "lede": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T16:04:00Z",
+    "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/"
+  },
+  "b": {
+    "item_id": "e49e186a5eabd302143b40d06bee1029ffc2d6ab",
+    "lede": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T10:44:22Z",
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/"
+  },
+  "score": 0.635106
+}

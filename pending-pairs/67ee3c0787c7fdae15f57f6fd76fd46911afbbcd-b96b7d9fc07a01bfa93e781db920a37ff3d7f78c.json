@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "67ee3c0787c7fdae15f57f6fd76fd46911afbbcd",
+    "lede": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T11:43:27Z",
+    "title": "What we know so far about the Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+  },
+  "b": {
+    "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+    "lede": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-12T20:43:02Z",
+    "title": "Microsoft Outlook is down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+  },
+  "score": 0.588097
+}

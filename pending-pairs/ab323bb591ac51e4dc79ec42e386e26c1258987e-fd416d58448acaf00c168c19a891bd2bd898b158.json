@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+    "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T13:15:20Z",
+    "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.67229
+}

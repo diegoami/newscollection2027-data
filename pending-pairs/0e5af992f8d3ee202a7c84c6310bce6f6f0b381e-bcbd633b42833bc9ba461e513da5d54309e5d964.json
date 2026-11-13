@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+    "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+    "outlet": "theguardian",
+    "published": "2026-11-13T13:22:49Z",
+    "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+  },
+  "score": 0.740531
+}

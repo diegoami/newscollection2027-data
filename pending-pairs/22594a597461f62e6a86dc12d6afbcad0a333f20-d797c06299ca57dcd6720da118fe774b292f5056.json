@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "22594a597461f62e6a86dc12d6afbcad0a333f20",
+    "lede": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir\u2019s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had published a",
+    "outlet": "theguardian",
+    "published": "2026-11-12T11:00:47Z",
+    "title": "NHS England deletes \u2018misleading\u2019 claim 137 trusts benefiting from Palantir AI tools",
+    "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools"
+  },
+  "b": {
+    "item_id": "d797c06299ca57dcd6720da118fe774b292f5056",
+    "lede": "Official figures put uptake at just six trusts, while FoI responses raise questions about which are actually benefiting",
+    "outlet": "theregister",
+    "published": "2026-11-13T09:30:00Z",
+    "title": "Palantir's NHS cancer app gets plenty of praise, precious few users",
+    "url": "https://www.theregister.com/public-sector/2026/11/13/palantirs-nhs-cancer-app-gets-plenty-of-praise-precious-few-users/5309316"
+  },
+  "score": 0.573082
+}

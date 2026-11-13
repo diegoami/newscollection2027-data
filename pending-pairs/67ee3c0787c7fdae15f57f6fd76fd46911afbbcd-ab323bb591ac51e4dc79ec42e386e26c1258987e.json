@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "67ee3c0787c7fdae15f57f6fd76fd46911afbbcd",
+    "lede": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T11:43:27Z",
+    "title": "What we know so far about the Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+  },
+  "b": {
+    "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+    "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T13:15:20Z",
+    "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  "score": 0.652241
+}

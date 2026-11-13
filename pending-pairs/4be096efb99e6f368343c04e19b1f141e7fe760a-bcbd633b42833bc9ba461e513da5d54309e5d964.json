@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4be096efb99e6f368343c04e19b1f141e7fe760a",
+    "lede": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-13T12:48:03Z",
+    "title": "Microsoft\u2019s massive Outlook outage continues",
+    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+  },
+  "b": {
+    "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+    "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+    "outlet": "theguardian",
+    "published": "2026-11-13T13:22:49Z",
+    "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+  },
+  "score": 0.733736
+}

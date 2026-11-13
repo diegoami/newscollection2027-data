@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a20ff2b991b55d372eae09b597238730556a7cfd",
+    "lede": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T19:03:39Z",
+    "title": "Microsoft\u2019s Outlook email hit by new outage",
+    "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
+  },
+  "b": {
+    "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+    "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T13:15:20Z",
+    "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  "score": 0.632501
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "67ee3c0787c7fdae15f57f6fd76fd46911afbbcd",
+    "lede": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T11:43:27Z",
+    "title": "What we know so far about the Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.809821
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
+    "lede": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T09:36:18Z",
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/"
+  },
+  "b": {
+    "item_id": "9814f0299437ed94f968444686da06c4e17d02c8",
+    "lede": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T20:04:36Z",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/"
+  },
+  "score": 0.738369
+}

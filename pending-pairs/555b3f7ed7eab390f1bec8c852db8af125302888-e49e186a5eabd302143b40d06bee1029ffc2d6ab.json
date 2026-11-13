@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+    "lede": "ConnectWise disables third-party extensions in 400 environments as bughunters uncover auth hole may let crims bypass MFA",
+    "outlet": "theregister",
+    "published": "2026-11-12T13:02:00Z",
+    "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
+    "url": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
+  },
+  "b": {
+    "item_id": "e49e186a5eabd302143b40d06bee1029ffc2d6ab",
+    "lede": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T10:44:22Z",
+    "title": "Check Point warns of zero-day flaw exploited for root access",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/"
+  },
+  "score": 0.594071
+}

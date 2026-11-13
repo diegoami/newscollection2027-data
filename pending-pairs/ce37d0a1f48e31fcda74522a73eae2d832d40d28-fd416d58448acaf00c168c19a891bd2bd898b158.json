@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ce37d0a1f48e31fcda74522a73eae2d832d40d28",
+    "lede": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
+    "outlet": "tomshardware",
+    "published": "2026-11-13T12:57:37Z",
+    "title": "Japanese workers return to fax machines during ongoing Microsoft 365 outage",
+    "url": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs"
+  },
+  "b": {
+    "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+    "lede": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T20:15:16Z",
+    "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/"
+  },
+  "score": 0.584141
+}

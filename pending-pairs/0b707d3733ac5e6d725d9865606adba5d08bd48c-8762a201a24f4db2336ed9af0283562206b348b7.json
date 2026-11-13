@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+    "lede": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing",
+    "outlet": "theregister",
+    "published": "2026-11-11T14:55:00Z",
+    "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+    "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059"
+  },
+  "b": {
+    "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
+    "lede": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T09:36:18Z",
+    "title": "Microsoft confirms Windows activation failures after November updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/"
+  },
+  "score": 0.668614
+}

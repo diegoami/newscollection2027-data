@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "101466b87ed4795a6226810866da59db96581552",
+    "lede": "\u2018Actions taken thus far have not provided the anticipated relief\u2019",
+    "outlet": "theregister",
+    "published": "2026-11-12T23:06:06Z",
+    "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+    "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531"
+  },
+  "b": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "score": 0.580509
+}
