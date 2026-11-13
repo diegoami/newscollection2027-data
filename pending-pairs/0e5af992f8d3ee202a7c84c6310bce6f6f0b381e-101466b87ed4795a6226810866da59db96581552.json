@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "101466b87ed4795a6226810866da59db96581552",
+    "lede": "\u2018Actions taken thus far have not provided the anticipated relief\u2019",
+    "outlet": "theregister",
+    "published": "2026-11-12T23:06:06Z",
+    "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+    "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531"
+  },
+  "score": 0.593682
+}

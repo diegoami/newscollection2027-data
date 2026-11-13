@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4065836ff3f518ca3fddf7b232f9cddee3d4ebc4",
+    "lede": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+    "outlet": "arstechnica",
+    "published": "2026-11-09T17:24:26Z",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/"
+  },
+  "b": {
+    "item_id": "674c4b85088a00cec1d782ea873d587cbb99cb76",
+    "lede": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T22:25:30Z",
+    "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/"
+  },
+  "score": 0.601261
+}

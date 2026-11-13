@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "55d7d41513d8574ac5f81945b6274410df15163a",
+    "lede": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T22:42:51Z",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+  },
+  "b": {
+    "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
+    "lede": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-10T03:58:13Z",
+    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+    "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+  },
+  "score": 0.667338
+}

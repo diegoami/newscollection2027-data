@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5cd056a31d5df370b0a1bbf40517b9afdd0b2a5b",
+    "lede": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "outlet": "techcrunch",
+    "published": "2026-11-10T14:00:00Z",
+    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+  },
+  "b": {
+    "item_id": "73823819d236140178d9848057a16c0571f26944",
+    "lede": "Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks",
+    "outlet": "theregister",
+    "published": "2026-11-12T20:48:45Z",
+    "title": "OpenAI launches security products, tells orgs they\u2019re doomed if they don\u2019t use them",
+    "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
+  },
+  "score": 0.579083
+}

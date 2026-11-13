@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "55d7d41513d8574ac5f81945b6274410df15163a",
+    "lede": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "outlet": "techcrunch",
+    "published": "2026-11-12T22:42:51Z",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+  },
+  "b": {
+    "item_id": "dab7fe82b75437b2c10b6dddef85fe52b8f5719c",
+    "lede": "Class-action lawsuit and legal investigations against Nvidia over securities fraud start flying",
+    "outlet": "tomshardware",
+    "published": "2026-11-10T00:03:08Z",
+    "title": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/law-firm-files-class-action-lawsuit-against-nvidia-after-ceo-jensen-huang-confirms-affair-with-alleged-chinese-spy-more-to-come-as-multiple-other-law-firms-investigate-securities-fraud-following-stock-drop"
+  },
+  "score": 0.587436
+}
