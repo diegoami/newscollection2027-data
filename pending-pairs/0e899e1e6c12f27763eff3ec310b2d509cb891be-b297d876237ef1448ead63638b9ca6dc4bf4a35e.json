@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e899e1e6c12f27763eff3ec310b2d509cb891be",
+    "lede": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-10T10:10:20Z",
+    "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/"
+  },
+  "b": {
+    "item_id": "b297d876237ef1448ead63638b9ca6dc4bf4a35e",
+    "lede": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T16:21:43Z",
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+  },
+  "score": 0.592997
+}

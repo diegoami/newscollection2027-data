@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+    "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T13:34:53Z",
+    "title": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+  },
+  "b": {
+    "item_id": "9348b056f21d61017c0f9d63df642ebba2d2aaa3",
+    "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609"
+  },
+  "score": 0.65066
+}

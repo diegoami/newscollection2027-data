@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5388d13b7a3706f06f67878e412264d1664be3e5",
+    "lede": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T17:38:19Z",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+  },
+  "b": {
+    "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+    "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+    "outlet": "theguardian",
+    "published": "2026-11-13T13:22:49Z",
+    "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+  },
+  "score": 0.586736
+}

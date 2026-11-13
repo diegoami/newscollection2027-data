@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "bc69dd8c0cd7be03f5187f6d6636a327a542e1ba",
+    "lede": "The House of Representatives, health care providers, schools and many other organizations were affected.",
+    "outlet": "engadget",
+    "published": "2026-11-13T16:35:36Z",
+    "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
+    "url": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/"
+  },
+  "score": 0.613359
+}

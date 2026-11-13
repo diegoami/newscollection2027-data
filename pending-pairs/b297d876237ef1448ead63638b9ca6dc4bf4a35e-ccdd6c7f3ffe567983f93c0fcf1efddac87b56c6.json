@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b297d876237ef1448ead63638b9ca6dc4bf4a35e",
+    "lede": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T16:21:43Z",
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+  },
+  "b": {
+    "item_id": "ccdd6c7f3ffe567983f93c0fcf1efddac87b56c6",
+    "lede": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-11T22:56:21Z",
+    "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+    "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+  },
+  "score": 0.633611
+}

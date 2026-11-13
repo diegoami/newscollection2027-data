@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5388d13b7a3706f06f67878e412264d1664be3e5",
+    "lede": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T17:38:19Z",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+  },
+  "b": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "score": 0.613724
+}

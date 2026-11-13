@@ -529,8 +529,16 @@
       "published": "2026-11-12T21:35:00Z",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "item_id": "59c58e3f39cc6e58a783c75a9a943a4b3b30b92c",
+      "lede": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "outlet": "techcrunch",
+      "published": "2026-11-13T15:58:00Z",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
     }
   ],
-  "status": "analyzed",
-  "version": 7
+  "status": "pending",
+  "version": 8
 }

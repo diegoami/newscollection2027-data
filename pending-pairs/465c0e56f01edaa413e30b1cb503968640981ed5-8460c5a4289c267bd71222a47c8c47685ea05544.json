@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "465c0e56f01edaa413e30b1cb503968640981ed5",
+    "lede": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-10T11:01:00Z",
+    "title": "Seagate\u2019s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology"
+  },
+  "b": {
+    "item_id": "8460c5a4289c267bd71222a47c8c47685ea05544",
+    "lede": "HPE aims for the market with faster, more cost-effective HPC storage to combat rising costs",
+    "outlet": "theregister",
+    "published": "2026-11-13T16:15:00Z",
+    "title": "HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing",
+    "url": "https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679"
+  },
+  "score": 0.576118
+}

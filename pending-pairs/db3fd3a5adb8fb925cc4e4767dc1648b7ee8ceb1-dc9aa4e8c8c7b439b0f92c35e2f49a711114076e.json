@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "db3fd3a5adb8fb925cc4e4767dc1648b7ee8ceb1",
+    "lede": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T15:01:11Z",
+    "title": "How one AI agent exposed five critical enterprise security gaps",
+    "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/"
+  },
+  "b": {
+    "item_id": "dc9aa4e8c8c7b439b0f92c35e2f49a711114076e",
+    "lede": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+    "outlet": "zdnet",
+    "published": "2026-11-10T13:03:52Z",
+    "title": "How AI security failures are endangering your supply chain \u2013 and what you can do",
+    "url": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/"
+  },
+  "score": 0.62334
+}

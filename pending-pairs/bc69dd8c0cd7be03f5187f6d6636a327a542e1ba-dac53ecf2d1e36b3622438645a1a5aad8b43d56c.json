@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bc69dd8c0cd7be03f5187f6d6636a327a542e1ba",
+    "lede": "The House of Representatives, health care providers, schools and many other organizations were affected.",
+    "outlet": "engadget",
+    "published": "2026-11-13T16:35:36Z",
+    "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
+    "url": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/"
+  },
+  "b": {
+    "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+    "lede": "Outlook and Teams are among the platforms impacted by \"elevated load\" issues.",
+    "outlet": "engadget",
+    "published": "2026-11-12T19:17:32Z",
+    "title": "Multiple Microsoft 365 services are experiencing an outage",
+    "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
+  },
+  "score": 0.595211
+}

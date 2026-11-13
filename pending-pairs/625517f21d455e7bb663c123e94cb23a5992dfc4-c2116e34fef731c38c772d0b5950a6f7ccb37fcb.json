@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "625517f21d455e7bb663c123e94cb23a5992dfc4",
+    "lede": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+    "outlet": "arstechnica",
+    "published": "2026-11-13T15:26:53Z",
+    "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+    "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+  },
+  "b": {
+    "item_id": "c2116e34fef731c38c772d0b5950a6f7ccb37fcb",
+    "lede": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company\u2019s systems to get things done. And next time could be even worse.",
+    "outlet": "wired",
+    "published": "2026-11-13T17:15:54Z",
+    "title": "The Microsoft Outage Is a Warning for the World",
+    "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/"
+  },
+  "score": 0.600772
+}

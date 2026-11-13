@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3ca0085eba4f5e008c5f67a4858d5578838046d9",
+    "lede": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-12T09:38:00Z",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+  },
+  "b": {
+    "item_id": "b297d876237ef1448ead63638b9ca6dc4bf4a35e",
+    "lede": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T16:21:43Z",
+    "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+    "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/"
+  },
+  "score": 0.578921
+}
