@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aa65033692fb6eff4409b103e3b4c79ac13a8ce4",
+    "lede": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips \u2014 statistical analysis on model weights reveals high correlation to Nvidia hardware",
+    "outlet": "tomshardware",
+    "published": "2026-11-14T14:50:00Z",
+    "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware"
+  },
+  "b": {
+    "item_id": "cddb1e41144b5d8f176cab14d0f3255d468d7a46",
+    "lede": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models",
+    "outlet": "theregister",
+    "published": "2026-11-13T21:16:22Z",
+    "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891"
+  },
+  "score": 0.679794
+}

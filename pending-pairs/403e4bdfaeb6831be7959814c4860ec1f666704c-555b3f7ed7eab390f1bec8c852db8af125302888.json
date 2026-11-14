@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "403e4bdfaeb6831be7959814c4860ec1f666704c",
+    "lede": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-14T17:27:25Z",
+    "title": "Cursor confirms security breach led to malicious Claude Code extension",
+    "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+  },
+  "b": {
+    "item_id": "555b3f7ed7eab390f1bec8c852db8af125302888",
+    "lede": "ConnectWise disables third-party extensions in 400 environments as bughunters uncover auth hole may let crims bypass MFA",
+    "outlet": "theregister",
+    "published": "2026-11-12T13:02:00Z",
+    "title": "Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs",
+    "url": "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361"
+  },
+  "score": 0.5927
+}

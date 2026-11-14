@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43",
+    "lede": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+    "outlet": "techcrunch",
+    "published": "2026-11-14T17:45:04Z",
+    "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
+    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+  },
+  "b": {
+    "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+    "lede": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+    "outlet": "wired",
+    "published": "2026-11-13T21:42:57Z",
+    "title": "FAA Grounds All US Flights Until Further Notice",
+    "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+  },
+  "score": 0.573805
+}
