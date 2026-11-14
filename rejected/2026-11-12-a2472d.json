@@ -1,0 +1,89 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
+            "outlet": "bleepingcomputer",
+            "quote": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
+          },
+          {
+            "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+            "outlet": "engadget",
+            "quote": "Multiple Microsoft 365 services are experiencing an outage"
+          },
+          {
+            "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+            "outlet": "zdnet",
+            "quote": "Several Microsoft services appear to be down"
+          },
+          {
+            "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+            "outlet": "theverge",
+            "quote": "Microsoft Outlook is down"
+          }
+        ],
+        "statement": "Multiple Microsoft 365 services, including Outlook, Teams and Copilot, experienced a worldwide outage."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+            "outlet": "engadget",
+            "quote": "elevated load"
+          },
+          {
+            "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+            "outlet": "wired",
+            "quote": "elevated loads"
+          },
+          {
+            "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+            "outlet": "theverge",
+            "quote": "experiencing elevated load across multiple regions"
+          }
+        ],
+        "statement": "Microsoft attributed the outage to elevated load on its infrastructure."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "a20ff2b991b55d372eae09b597238730556a7cfd",
+            "outlet": "techcrunch",
+            "quote": "Microsoft hasn't yet given a cause for the outage"
+          }
+        ],
+        "statement": "Microsoft had not given a cause for the outage as of the earliest report."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+            "outlet": "zdnet",
+            "quote": "Reports of the outage are beginning to drop as Microsoft restarts affected servers."
+          }
+        ],
+        "statement": "Reports of the outage began to drop as Microsoft restarted affected servers."
+      }
+    ],
+    "cluster_id": "2026-11-12-a2472d",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-13T02:30:00Z",
+    "headline": "Microsoft 365 outage disrupts Outlook, Teams and Copilot worldwide",
+    "model": "claude-sonnet-5",
+    "summary": "Multiple Microsoft 365 services, including Outlook, Teams and Copilot, went down worldwide. Microsoft attributed the disruption to elevated load on a portion of its infrastructure across multiple regions, and reports of the outage began dropping as Microsoft restarted affected servers."
+  },
+  "cluster_id": "2026-11-12-a2472d",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-14T02:33:11Z"
+}

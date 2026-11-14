@@ -1,41 +1,42 @@
 {
   "cluster_id": "2026-11-11-18bf53",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-13T02:22:25Z",
-  "headline": "United Airlines bars AI agents from booking or managing flights",
-  "summary": "United Airlines says it will not let AI agents or personal AI assistants book flights or manage reservations, citing security, cybersecurity and regulatory concerns, including possible DOT and FAA rule violations. One report notes United hasn't yet seen many people try using AI agents to book flights.",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "United Airlines blocks AI agents from booking and managing flights",
+  "summary": "United Airlines said it will not let AI agents or personal assistants book flights or manage reservations, citing security, privacy and regulatory concerns, including possible DOT and FAA rule violations. The airline said it hasn't yet seen many customers try this. One outlet frames the move as requiring human-only safety checks rather than citing specific regulations.",
   "claims": [
     {
       "id": "c1",
-      "statement": "United will not allow AI agents to book flights.",
+      "statement": "United is blocking AI agents from booking flights.",
       "sources": [
         {"outlet": "engadget", "item_id": "f4434bb8778d8d4e684980403d431ce84133f078", "quote": "United is restricting AI agents from booking flights"},
-        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "United won’t let your AI agent book your flight"},
-        {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"}
+        {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "United Airlines blocks AI agents from booking flights"},
+        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "United won’t let your AI agent book your flight"}
       ]
     },
     {
       "id": "c2",
-      "statement": "United also won't let AI agents manage reservations.",
-      "sources": [
-        {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."}
-      ]
-    },
-    {
-      "id": "c3",
-      "statement": "United cites security risk concerns, including possible violations of DOT and FAA rules.",
+      "statement": "United cites security, privacy and regulatory concerns, including possible DOT and FAA rule violations.",
       "sources": [
         {"outlet": "engadget", "item_id": "f4434bb8778d8d4e684980403d431ce84133f078", "quote": "The airline believes AI poses security risks and may violate DOT and FAA rules."},
+        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "citing both privacy and regulatory concerns"},
         {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "citing cybersecurity risks"}
       ]
     },
     {
-      "id": "c4",
-      "statement": "United also cites privacy and regulatory concerns, and says it hasn't yet seen many people try using AI agents to book flights.",
+      "id": "c3",
+      "statement": "United hasn't yet seen many customers try to use AI agents to book flights.",
       "sources": [
-        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns."}
+        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "it hasn't yet seen many people try to use AI agents to book their flights"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The restriction also covers managing existing reservations, not just booking.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "to book flights and manage reservations"}
       ]
     }
   ],
@@ -43,11 +44,10 @@
     {
       "kind": "framing",
       "severity": "low",
-      "claim_ids": ["c3", "c4"],
-      "explanation": "Outlets differ in which of United's stated reasons they emphasize: security and regulatory risk versus privacy concerns.",
+      "explanation": "The Register frames the restriction around safety checks needing a human touch, while other outlets emphasize privacy, regulatory and cybersecurity concerns.",
       "quotes": [
-        {"outlet": "engadget", "item_id": "f4434bb8778d8d4e684980403d431ce84133f078", "quote": "The airline believes AI poses security risks and may violate DOT and FAA rules."},
-        {"outlet": "theverge", "item_id": "33bddd1c40023b58eaf4a3ecbd49b558f751d1f7", "quote": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns."}
+        {"outlet": "theregister", "item_id": "c28621f64a14946f6025a988eda31f6030ec3573", "quote": "safety checks that require a human touch"},
+        {"outlet": "techcrunch", "item_id": "f5707a3468d9b42ec474b2f9dc0c0539a829b3b8", "quote": "citing cybersecurity risks"}
       ]
     }
   ],

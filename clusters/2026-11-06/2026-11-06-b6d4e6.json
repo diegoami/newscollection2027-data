@@ -65,8 +65,24 @@
       "published": "2026-11-12T17:00:17Z",
       "title": "\u2018The end of Tesla!\u2019: Cybertruck diehards turn on Elon Musk after he pulls the plug",
       "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash"
+    },
+    {
+      "item_id": "8e4423778bcd57e5c9b00862c297e6304f725945",
+      "lede": "Tesla\u2019s unpredictable CEO is ready to move on from the company\u2019s most controversial vehicle, but owners aren\u2019t about to let him off the hook for what they see as a poor decision.",
+      "outlet": "wired",
+      "published": "2026-11-13T10:30:00Z",
+      "title": "\u2018Call Him Out\u2019: Cybertruck Loyalists Are in Mourning\u2014and They Want Answers From Elon Musk",
+      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/"
+    },
+    {
+      "item_id": "0b5a0ff784f16406b2a3ddb2e2d7f98cdfb51f8d",
+      "lede": "Eccentric and overhyped, Tesla\u2019s Cybertruck became a stand-in for Elon Musk during his ascent in the Republican party. It will join the ranks of other vehicles symbolic of their eras \u2013 for better or for worse Three days after a historic blue tsunami changed America\u2019s political landscape, Elon Musk announced Tesla would end production of its hulking Cybertruck next year.",
+      "outlet": "theguardian",
+      "published": "2026-11-13T11:00:17Z",
+      "title": "Farewell, Cybertruck: why the winding down of the \u2018Maga hat on wheels\u2019 is a sign of the times",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end"
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

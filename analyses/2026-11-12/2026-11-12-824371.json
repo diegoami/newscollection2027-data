@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-12-824371",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "New Windows zero-day, SignDrop, grants SYSTEM-level privileges",
+  "summary": "A security researcher released a new Windows zero-day exploit, dubbed SignDrop, that lets attackers gain SYSTEM-level privileges. One outlet identifies the researcher as Abdelhamid Naceri, also known as Nightmare Eclipse, and describes them as disgruntled. Accounts differ on whether the flaw is exploitable broadly or requires local user access.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A new Windows zero-day exploit called SignDrop gives SYSTEM-level privileges.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82", "quote": "New Windows SignDrop zero-day gives hackers SYSTEM privileges"},
+        {"outlet": "arstechnica", "item_id": "fcdcf30ed87c56814f54a3198cbc3ea5c0025b14", "quote": "exploit lets local users gain all-powerful System rights."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The exploit was released by security researcher Abdelhamid Naceri, also known as Nightmare Eclipse.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82", "quote": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica describes the researcher as disgruntled.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "fcdcf30ed87c56814f54a3198cbc3ea5c0025b14", "quote": "dropped by disgruntled researcher"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "medium",
+      "explanation": "Ars Technica specifies the exploit requires local user access, which BleepingComputer's text does not state.",
+      "quotes": [
+        {"outlet": "arstechnica", "item_id": "fcdcf30ed87c56814f54a3198cbc3ea5c0025b14", "quote": "exploit lets local users gain all-powerful System rights."},
+        {"outlet": "bleepingcomputer", "item_id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82", "quote": "can let attackers gain SYSTEM privileges."}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

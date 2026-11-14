@@ -49,8 +49,144 @@
       "published": "2026-11-12T20:43:02Z",
       "title": "Microsoft Outlook is down",
       "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+    },
+    {
+      "item_id": "101466b87ed4795a6226810866da59db96581552",
+      "lede": "\u2018Actions taken thus far have not provided the anticipated relief\u2019",
+      "outlet": "theregister",
+      "published": "2026-11-12T23:06:06Z",
+      "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
+      "url": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531"
+    },
+    {
+      "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+      "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T02:38:02Z",
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+    },
+    {
+      "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
+      "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+      "outlet": "theregister",
+      "published": "2026-11-13T06:40:06Z",
+      "title": "Microsoft's massive M365 outage stretches past 18 hours as its fixes keep failing",
+      "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-18-hours-as-its-fixes-keep-failing/5309609"
+    },
+    {
+      "item_id": "9348b056f21d61017c0f9d63df642ebba2d2aaa3",
+      "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+      "outlet": "theregister",
+      "published": "2026-11-13T06:40:06Z",
+      "title": "Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing",
+      "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609"
+    },
+    {
+      "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+      "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T07:18:17Z",
+      "title": "What happened overnight with the Microsoft global outage?",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+    },
+    {
+      "item_id": "67ee3c0787c7fdae15f57f6fd76fd46911afbbcd",
+      "lede": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T11:43:27Z",
+      "title": "What we know so far about the Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po"
+    },
+    {
+      "item_id": "4be096efb99e6f368343c04e19b1f141e7fe760a",
+      "lede": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-13T12:48:03Z",
+      "title": "Microsoft\u2019s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+    },
+    {
+      "item_id": "ce37d0a1f48e31fcda74522a73eae2d832d40d28",
+      "lede": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage.",
+      "outlet": "tomshardware",
+      "published": "2026-11-13T12:57:37Z",
+      "title": "Japanese workers return to fax machines during ongoing Microsoft 365 outage",
+      "url": "https://www.tomshardware.com/software/japanese-workers-return-to-fax-machines-during-ongoing-microsoft-365-outage-were-going-full-analog-say-workers-forced-to-ditch-pdfs"
+    },
+    {
+      "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+      "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "outlet": "techcrunch",
+      "published": "2026-11-13T13:15:20Z",
+      "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+    },
+    {
+      "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+      "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+      "outlet": "theguardian",
+      "published": "2026-11-13T13:22:49Z",
+      "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+    },
+    {
+      "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+      "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T13:34:53Z",
+      "title": "What we know about the global Microsoft outage",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+    },
+    {
+      "item_id": "625517f21d455e7bb663c123e94cb23a5992dfc4",
+      "lede": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "outlet": "arstechnica",
+      "published": "2026-11-13T15:26:53Z",
+      "title": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+    },
+    {
+      "item_id": "bc69dd8c0cd7be03f5187f6d6636a327a542e1ba",
+      "lede": "The House of Representatives, health care providers, schools and many other organizations were affected.",
+      "outlet": "engadget",
+      "published": "2026-11-13T16:35:36Z",
+      "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
+      "url": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/"
+    },
+    {
+      "item_id": "c2116e34fef731c38c772d0b5950a6f7ccb37fcb",
+      "lede": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company\u2019s systems to get things done. And next time could be even worse.",
+      "outlet": "wired",
+      "published": "2026-11-13T17:15:54Z",
+      "title": "The Microsoft Outage Is a Warning for the World",
+      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/"
+    },
+    {
+      "item_id": "5388d13b7a3706f06f67878e412264d1664be3e5",
+      "lede": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T17:38:19Z",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+    },
+    {
+      "item_id": "1876ce8bb4f476705585c2e4e32e0dd4f53ba278",
+      "lede": "The company says a bad update\u2014not a cyberattack or AI\u2014caused its servers around the world to crash.",
+      "outlet": "wired",
+      "published": "2026-11-13T19:08:57Z",
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+    },
+    {
+      "item_id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
+      "lede": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-13T20:49:52Z",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

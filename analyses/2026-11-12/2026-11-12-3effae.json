@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-12-3effae",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "Google positions new AI glasses as more private than Meta's",
+  "summary": "Google is positioning its new smart glasses as more privacy-focused than Meta's, aiming to distinguish itself after Meta's glasses earned a negative reputation, nicknamed \"pervert glasses.\" One reviewer says Google's glasses give Meta real competition in the smart-glasses market.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google is positioning its new smart glasses as more privacy-minded than Meta's.",
+      "sources": [
+        {"outlet": "wired", "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb", "quote": "Here’s How Google Says It’s Making Its Smart Glasses More Private"},
+        {"outlet": "wired", "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb", "quote": "Google is positioning its frames as the more privacy-minded option"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta's smart glasses earned a negative privacy reputation, nicknamed \"pervert glasses.\"",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1a2134123f8d1686384cd9a879fa7ae8477461b4", "quote": "its privacy reputation led to the \"pervert glasses\" moniker"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Google's new glasses give Meta real competition in the smart glasses market.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1a2134123f8d1686384cd9a879fa7ae8477461b4", "quote": "Meta’s finally got real competition"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

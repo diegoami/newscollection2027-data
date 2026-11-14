@@ -1,0 +1,1 @@
+{"backend": "claude_code", "item_id_a": "a20ff2b991b55d372eae09b597238730556a7cfd", "item_id_b": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c", "judged_at": "2026-11-14T02:24:08Z", "model": "claude-sonnet-5", "pair_id": "a20ff2b991b55d372eae09b597238730556a7cfd-dac53ecf2d1e36b3622438645a1a5aad8b43d56c", "reason": "Both report the same Microsoft 365 outage", "same_story": true}

@@ -1,0 +1,44 @@
+{
+  "cluster_id": "2026-11-12-f67e4a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "Whoop launches Whoop Humans, a social network for sharing fitness data",
+  "summary": "Whoop launched Whoop Humans, a social network letting members share sleep, recovery and workout data, post photo-based \"Moments,\" and react to other users' posts. One outlet says the bigger strategic goal is turning Whoop into a broader personal health brand, with CEO Will Ahmed hinting at future acquisitions.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Whoop launched a new social network called Whoop Humans.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "44c5c5c963e85d2185e1bd1c7baccdc41dc61c3e", "quote": "Whoop just launched a social network"},
+        {"outlet": "theverge", "item_id": "e7ee854152044798c9e52aa1d66acff4ba7acce6", "quote": "Whoop launched a social network"},
+        {"outlet": "engadget", "item_id": "c5a0d0cd239807ee1a2bdfb589c935214d1fb84c", "quote": "Whoop Humans is a social network designed for fitness enthusiasts"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Members can share sleep, recovery, and workout data with other users.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "44c5c5c963e85d2185e1bd1c7baccdc41dc61c3e", "quote": "lets members share their sleep, recovery, and workout data"},
+        {"outlet": "theverge", "item_id": "e7ee854152044798c9e52aa1d66acff4ba7acce6", "quote": "Users can make their metrics, activities, and achievements visible to other Whoop wearers"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Users can post photo-based \"Moments\" and react to other members' posts.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "e7ee854152044798c9e52aa1d66acff4ba7acce6", "quote": "post Story-like \"Moments\" with photos and captions, and add comments and reactions on other members' posts"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The bigger strategic bet is building Whoop into a personal health brand, with the CEO hinting at acquisitions.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "44c5c5c963e85d2185e1bd1c7baccdc41dc61c3e", "quote": "the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

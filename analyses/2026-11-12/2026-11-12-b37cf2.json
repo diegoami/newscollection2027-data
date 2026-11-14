@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-11-12-b37cf2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "Meta's Muse AI can now place calls for paid subscribers",
+  "summary": "Meta's Muse AI agent can now place outbound calls to US businesses on a user's behalf, such as scheduling appointments, making reservations, and waiting on hold, but the feature requires a paid subscription.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta's Muse AI agent can now place calls to US businesses on a user's behalf.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "1a628d755dc37d52cf4e65d9812fd51f0bc17b8e", "quote": "Muse can now place calls to US businesses"},
+        {"outlet": "engadget", "item_id": "7a023e844510b0790c1f4f2f7652dd4ab90b8dcd", "quote": "Meta's Muse can now make calls on your behalf"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The calling feature requires a paid subscription.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "1a628d755dc37d52cf4e65d9812fd51f0bc17b8e", "quote": "it's not free"},
+        {"outlet": "engadget", "item_id": "7a023e844510b0790c1f4f2f7652dd4ab90b8dcd", "quote": "if you have a paid subscription"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Muse can schedule appointments, make reservations, and wait on hold.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "7a023e844510b0790c1f4f2f7652dd4ab90b8dcd", "quote": "The AI agent can schedule appointments, make reservations and wait on hold for you."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

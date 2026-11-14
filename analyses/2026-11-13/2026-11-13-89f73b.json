@@ -1,0 +1,54 @@
+{
+  "cluster_id": "2026-11-13-89f73b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "OpenAI launches ChatGPT Wallet for AI agent purchases",
+  "summary": "OpenAI launched ChatGPT Wallet, letting its Dots AI agents shop and check out on a user's behalf, starting with a limited rollout to US ChatGPT Pro subscribers using eligible American Express, Chase, Mastercard or Visa cards. One outlet frames the feature cautiously as sharing banking information with ChatGPT.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "OpenAI launched ChatGPT Wallet, letting AI agents shop and make purchases on a user's behalf.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "c231d25e54b9ad3f2848bb1e8db8beaf5c2cc7f1", "quote": "ChatGPT’s new Wallet lets AI agents shop and check out for you"},
+        {"outlet": "engadget", "item_id": "ea82e02e86f5780cb13b6bd0aa29c17edda7e6fe", "quote": "The new Wallet feature will allow its AI agents to make purchases on your behalf."},
+        {"outlet": "theverge", "item_id": "951c84561943a913ab406f8a580e6d4eb345df50", "quote": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The rollout is limited to US ChatGPT Pro subscribers aged 18 and older.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "c231d25e54b9ad3f2848bb1e8db8beaf5c2cc7f1", "quote": "starting with a limited rollout to U.S. Pro subscribers."},
+        {"outlet": "theverge", "item_id": "951c84561943a913ab406f8a580e6d4eb345df50", "quote": "rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Wallet works with OpenAI's Dots AI agents platform, launched earlier this year.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "951c84561943a913ab406f8a580e6d4eb345df50", "quote": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Eligible cards include US-issued American Express, Chase, Mastercard and Visa.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "951c84561943a913ab406f8a580e6d4eb345df50", "quote": "eligible US-issued American Express, Chase, Mastercard and Visa cards."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Engadget frames the Wallet feature with skepticism about sharing banking information, while other outlets describe it neutrally.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "ea82e02e86f5780cb13b6bd0aa29c17edda7e6fe", "quote": "tempt fate and give your banking information to ChatGPT"},
+        {"outlet": "techcrunch", "item_id": "c231d25e54b9ad3f2848bb1e8db8beaf5c2cc7f1", "quote": "ChatGPT’s new Wallet lets AI agents shop and check out for you"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

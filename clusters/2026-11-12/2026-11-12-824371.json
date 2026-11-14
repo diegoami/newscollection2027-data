@@ -1,0 +1,24 @@
+{
+  "anchor": "ad9757975fce9e1bcb3375939fae67c6d6c29e82",
+  "id": "2026-11-12-824371",
+  "items": [
+    {
+      "item_id": "ad9757975fce9e1bcb3375939fae67c6d6c29e82",
+      "lede": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-12T16:04:00Z",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/"
+    },
+    {
+      "item_id": "fcdcf30ed87c56814f54a3198cbc3ea5c0025b14",
+      "lede": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "outlet": "arstechnica",
+      "published": "2026-11-13T16:26:32Z",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

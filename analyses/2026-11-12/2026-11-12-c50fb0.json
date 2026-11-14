@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-12-c50fb0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "UK police watchdog warns facial recognition risks wrongful arrests",
+  "summary": "A UK police watchdog report found that facial recognition technology risks causing wrongful arrests, particularly of ethnic minorities, after inspectors found some officers acted on retrospective-search matches without sufficient checks. The report says the technology can aid crime-fighting but is undermined by errors, bias and inconsistent governance, and calls for change.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A police watchdog report found facial recognition risks lead to wrongful arrests, especially for ethnic minorities.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "81a2eb1db642adb2388b04caf8b1faa40dc0ed66", "quote": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns"},
+        {"outlet": "theregister", "item_id": "c1c74e2579b4b1d21d45c7885ce49391c66399e5", "quote": "Brit police watchdog says cops' use of facial recog risks wrongful arrests"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Inspectors found some officers acted on retrospective-search matches without making enough checks.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "81a2eb1db642adb2388b04caf8b1faa40dc0ed66", "quote": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The report calls for change, citing inconsistent governance and officers' misunderstanding of the technology's limits.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "c1c74e2579b4b1d21d45c7885ce49391c66399e5", "quote": "New report calls for change, highlights hodgepodge governance and misunderstanding about tech’s limitations among officers"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The technology can help fight crime but is beset by errors and biases.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "81a2eb1db642adb2388b04caf8b1faa40dc0ed66", "quote": "the technology can help fight crime"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

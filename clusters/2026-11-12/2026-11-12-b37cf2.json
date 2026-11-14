@@ -1,0 +1,24 @@
+{
+  "anchor": "1a628d755dc37d52cf4e65d9812fd51f0bc17b8e",
+  "id": "2026-11-12-b37cf2",
+  "items": [
+    {
+      "item_id": "1a628d755dc37d52cf4e65d9812fd51f0bc17b8e",
+      "lede": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free.",
+      "outlet": "techcrunch",
+      "published": "2026-11-12T22:22:28Z",
+      "title": "Muse can now place calls to US businesses \u2014 if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+    },
+    {
+      "item_id": "7a023e844510b0790c1f4f2f7652dd4ab90b8dcd",
+      "lede": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
+      "outlet": "engadget",
+      "published": "2026-11-12T23:32:00Z",
+      "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+      "url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

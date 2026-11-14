@@ -1,50 +1,42 @@
 {
   "cluster_id": "2026-11-12-e1b2a2",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-13T02:30:00Z",
-  "headline": "Reviews of Apple's first HomeView smart display, a Siri-powered home hub",
-  "summary": "Reviewers tried Apple's first smart display, HomeView, which includes Siri AI and acts as a home hub. One review called it versatile and convenient with no caveats noted; another was largely positive but noted Siri AI is still slow at times and the device was not a hit with the reviewer's daughter.",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "Apple's first smart display, HomeView, reviewed as capable but imperfect",
+  "summary": "Reviewers call Apple's $299 HomeView, the company's first smart display, a strong smart home hub that also works well as a speaker and photo frame. It includes Apple's first Siri AI-powered smart speaker, which reviewers say is improved but still sometimes slow.",
   "claims": [
     {
       "id": "c1",
-      "statement": "HomeView is Apple's first smart display and includes Siri AI, acting as a home hub.",
+      "statement": "The HomeView is Apple's first smart display and includes its first Siri AI-powered speaker.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "5fdf2386a2c7a02404cacd51592ea5f8f04dd394",
-          "quote": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home."
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "1ce0e205860b9100a50e1dd286063f700073b97d",
-          "quote": "first Apple smart speaker with Siri AI, which is an improvement, if still slow at times"
-        }
+        {"outlet": "engadget", "item_id": "5fdf2386a2c7a02404cacd51592ea5f8f04dd394", "quote": "With its first smart display, Apple provides a lot of convenience"},
+        {"outlet": "theverge", "item_id": "1ce0e205860b9100a50e1dd286063f700073b97d", "quote": "the first Apple smart speaker with Siri AI"}
       ]
-    }
-  ],
-  "discrepancies": [
+    },
     {
-      "kind": "framing",
-      "severity": "low",
-      "explanation": "One review frames HomeView as simply versatile and convenient, while the other is largely positive but notes Siri AI is still slow at times and that the device did not win over the reviewer's daughter.",
-      "claim_ids": [
-        "c1"
-      ],
-      "quotes": [
-        {
-          "outlet": "engadget",
-          "item_id": "5fdf2386a2c7a02404cacd51592ea5f8f04dd394",
-          "quote": "A versatile smart display and Siri-powered home hub"
-        },
-        {
-          "outlet": "theverge",
-          "item_id": "1ce0e205860b9100a50e1dd286063f700073b97d",
-          "quote": "but not my daughter’s"
-        }
+      "id": "c2",
+      "statement": "The HomeView costs $299.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "39f4c129e4341242cbc5ce146881e95788a083b5", "quote": "The $299 HomeView"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Reviewers praise it for smart home control, as a speaker, and as a photo frame.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1ce0e205860b9100a50e1dd286063f700073b97d", "quote": "It's superb at controlling my smart home; it's an excellent hands-free kitchen companion, a good speaker, and a gorgeous digital photo frame."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Siri AI integration is an improvement but still slow at times.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "1ce0e205860b9100a50e1dd286063f700073b97d", "quote": "which is an improvement, if still slow at times"}
       ]
     }
   ],
-  "agreement": "partial"
+  "discrepancies": [],
+  "agreement": "full"
 }

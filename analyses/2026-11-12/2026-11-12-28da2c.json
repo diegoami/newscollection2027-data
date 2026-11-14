@@ -1,0 +1,49 @@
+{
+  "cluster_id": "2026-11-12-28da2c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-14T02:25:33Z",
+  "headline": "Google's Gemini 4 Hydrogen improves AI Mode's complex-query answers",
+  "summary": "Google says its new Gemini 4 Hydrogen model makes AI Mode better at understanding complex, multi-part questions, breaking them into parts and answering each one, while surfacing more relevant links and richer visual responses. The upgrade is rolling out today across Search, the Gemini app and all Google subscription tiers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google's new Gemini 4 Hydrogen model improves AI Mode's ability to understand complex queries.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "ce9a468b53e9785d338c2900287075aa8b7382e5", "quote": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries"},
+        {"outlet": "theverge", "item_id": "3403360ccc1df753cef2b348364e95c4489ba5c7", "quote": "Google’s new Gemini model is better at understanding complicated questions"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The model handles questions with multiple parts, typos, or highly specific requests.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "3403360ccc1df753cef2b348364e95c4489ba5c7", "quote": "questions with multiple parts, hard-to-understand typos, or highly specific requests."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The model can break a question into parts and address each part in its response.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "3403360ccc1df753cef2b348364e95c4489ba5c7", "quote": "The new model can break down your questions and address each part in its responses."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The upgrade is available today in Search, the Gemini app, and all Google tiers.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "3403360ccc1df753cef2b348364e95c4489ba5c7", "quote": "It's available starting today in search, the Gemini app, all tiers of Google"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The new model also surfaces relevant links and richer visual responses.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "ce9a468b53e9785d338c2900287075aa8b7382e5", "quote": "surfacing relevant links, and delivering richer visual responses."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
