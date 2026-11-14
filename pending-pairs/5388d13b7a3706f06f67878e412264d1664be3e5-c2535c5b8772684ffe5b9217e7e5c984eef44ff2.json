@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5388d13b7a3706f06f67878e412264d1664be3e5",
+    "lede": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T17:38:19Z",
+    "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+    "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo"
+  },
+  "b": {
+    "item_id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
+    "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-27-hours-as-its-fixes-keep-failing/5309609"
+  },
+  "score": 0.584848
+}

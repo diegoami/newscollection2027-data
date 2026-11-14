@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf",
+    "lede": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T21:44:38Z",
+    "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+    "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+  },
+  "b": {
+    "item_id": "1ff2d9e323bc2f07b6b3776bf5baffc381090803",
+    "lede": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-14T01:53:04Z",
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+  },
+  "score": 0.6689
+}

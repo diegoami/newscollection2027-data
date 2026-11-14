@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4a58886a7a4ae768e35fee41742b5df529d48b84",
+    "lede": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+    "outlet": "wired",
+    "published": "2026-11-14T01:46:40Z",
+    "title": "The FAA Nationwide Ground Stop Is Over",
+    "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/"
+  },
+  "b": {
+    "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+    "lede": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+    "outlet": "wired",
+    "published": "2026-11-13T21:42:57Z",
+    "title": "FAA Grounds All US Flights Until Further Notice",
+    "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+  },
+  "score": 0.580803
+}
