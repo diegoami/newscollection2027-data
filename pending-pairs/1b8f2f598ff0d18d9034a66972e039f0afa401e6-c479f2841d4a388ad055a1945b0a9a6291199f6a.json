@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6",
+    "lede": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "outlet": "engadget",
+    "published": "2026-11-14T06:35:40Z",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+  },
+  "b": {
+    "item_id": "c479f2841d4a388ad055a1945b0a9a6291199f6a",
+    "lede": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
+    "outlet": "arstechnica",
+    "published": "2026-11-13T21:20:47Z",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  "score": 0.639389
+}

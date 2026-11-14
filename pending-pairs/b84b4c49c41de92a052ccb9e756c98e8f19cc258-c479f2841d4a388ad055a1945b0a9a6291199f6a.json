@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b84b4c49c41de92a052ccb9e756c98e8f19cc258",
+    "lede": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
+    "outlet": "wired",
+    "published": "2026-11-14T11:00:00Z",
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+  },
+  "b": {
+    "item_id": "c479f2841d4a388ad055a1945b0a9a6291199f6a",
+    "lede": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
+    "outlet": "arstechnica",
+    "published": "2026-11-13T21:20:47Z",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+  },
+  "score": 0.658716
+}

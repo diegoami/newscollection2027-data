@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6",
+    "lede": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "outlet": "engadget",
+    "published": "2026-11-14T06:35:40Z",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+  },
+  "b": {
+    "item_id": "b84b4c49c41de92a052ccb9e756c98e8f19cc258",
+    "lede": "Normally, aviation is slow to embrace new technology\u2014but AI has come for the skies.",
+    "outlet": "wired",
+    "published": "2026-11-14T11:00:00Z",
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+  },
+  "score": 0.575604
+}

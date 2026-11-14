@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6",
+    "lede": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "outlet": "engadget",
+    "published": "2026-11-14T06:35:40Z",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+  },
+  "b": {
+    "item_id": "4a58886a7a4ae768e35fee41742b5df529d48b84",
+    "lede": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+    "outlet": "wired",
+    "published": "2026-11-14T01:46:40Z",
+    "title": "The FAA Nationwide Ground Stop Is Over",
+    "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/"
+  },
+  "score": 0.605522
+}

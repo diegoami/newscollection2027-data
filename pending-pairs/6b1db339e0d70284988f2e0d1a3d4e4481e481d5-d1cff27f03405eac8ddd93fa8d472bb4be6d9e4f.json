@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6b1db339e0d70284988f2e0d1a3d4e4481e481d5",
+    "lede": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won\u2019t run.",
+    "outlet": "wired",
+    "published": "2026-11-14T12:00:00Z",
+    "title": "How to Run SteamOS on Your Mac",
+    "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/"
+  },
+  "b": {
+    "item_id": "d1cff27f03405eac8ddd93fa8d472bb4be6d9e4f",
+    "lede": "macOS on PCs becomes possible thanks to Apple Silicon translator for x86-64 \u2014 Hackintoshes",
+    "outlet": "tomshardware",
+    "published": "2026-11-13T10:00:00Z",
+    "title": "macOS on PC becomes possible again thanks to Apple Silicon translator for x86-64",
+    "url": "https://www.tomshardware.com/software/macos/macos-on-pc-becomes-possible-again-thanks-to-apple-silicon-translator-for-x86-64-hackintosh-revival-project-currently-slow-and-not-very-stable"
+  },
+  "score": 0.631437
+}

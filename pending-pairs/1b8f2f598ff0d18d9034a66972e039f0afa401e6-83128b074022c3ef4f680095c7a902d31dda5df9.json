@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6",
+    "lede": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "outlet": "engadget",
+    "published": "2026-11-14T06:35:40Z",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+  },
+  "b": {
+    "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+    "lede": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+    "outlet": "wired",
+    "published": "2026-11-13T21:42:57Z",
+    "title": "FAA Grounds All US Flights Until Further Notice",
+    "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+  },
+  "score": 0.728746
+}

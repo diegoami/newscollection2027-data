@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b96b7d9fc07a01bfa93e781db920a37ff3d7f78c",
+    "lede": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-12T20:43:02Z",
+    "title": "Microsoft Outlook is down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+  },
+  "b": {
+    "item_id": "d73553036ac227c2303ea74241c2c7772246ef90",
+    "lede": "If your Microsoft business services were offline last week, you\u2019re probably entitled to a partial credit on your next monthly bill.",
+    "outlet": "wired",
+    "published": "2026-11-14T07:00:00Z",
+    "title": "Outlook Went Down? Microsoft May Owe You Money",
+    "url": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/"
+  },
+  "score": 0.581471
+}

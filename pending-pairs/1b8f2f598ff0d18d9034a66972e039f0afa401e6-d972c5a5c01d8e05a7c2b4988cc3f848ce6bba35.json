@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6",
+    "lede": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "outlet": "engadget",
+    "published": "2026-11-14T06:35:40Z",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
+  },
+  "b": {
+    "item_id": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
+    "lede": "Safety reasons and unspecified communications issue cited",
+    "outlet": "theregister",
+    "published": "2026-11-13T22:42:28Z",
+    "title": "FAA lifts ground stop after hours-long delays snag travelers",
+    "url": "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912"
+  },
+  "score": 0.637354
+}

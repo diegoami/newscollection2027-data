@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+    "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T13:34:53Z",
+    "title": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+  },
+  "b": {
+    "item_id": "b67c4d635d9d2a1fe957879126e76a2f815b98a6",
+    "lede": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers",
+    "outlet": "theguardian",
+    "published": "2026-11-14T11:54:31Z",
+    "title": "Microsoft says services fully restored after global outage hits governments",
+    "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+  },
+  "score": 0.600001
+}
