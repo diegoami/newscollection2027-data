@@ -1,0 +1,83 @@
+{
+  "cluster_id": "2026-11-13-2f475b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-15T12:00:00Z",
+  "headline": "FAA ground stop halts US flights for hours amid disputed cause",
+  "summary": "The FAA issued a nationwide ground stop on Friday, halting US flights for about five hours before lifting it that evening. The government initially cited a communications failure among air traffic control systems, and the transportation secretary later blamed obsolete equipment; he subsequently described the cause as a \"routine\" equipment upgrade and said there was no evidence anything AI-related was involved.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The FAA issued a nationwide ground stop on Friday, halting flights across the United States.",
+      "sources": [
+        {"outlet": "wired", "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9", "quote": "FAA Grounds All US Flights Until Further Notice"},
+        {"outlet": "techcrunch", "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf", "quote": "US government grounds all flights across the United States ‘due to extraordinary circumstances’"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The government cited a nationwide communications failure among air traffic control systems as the cause.",
+      "sources": [
+        {"outlet": "wired", "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9", "quote": "a nationwide communications failure among air traffic control systems"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "An FAA spokesperson said the ground stop followed communication issues affecting multiple Air Route Traffic Control Centers.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf", "quote": "following communication issues impacting multiple Air Route Traffic Control Centers"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The ground stop was lifted after hours-long delays affecting travelers.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35", "quote": "FAA lifts ground stop after hours-long delays snag travelers"},
+        {"outlet": "engadget", "item_id": "1b8f2f598ff0d18d9034a66972e039f0afa401e6", "quote": "FAA allows flights to resume after hours-long ground stop across the US"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Transportation Secretary Sean Duffy blamed obsolete equipment for the outage.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "a3eec27e07e130fe80e657125739ad17a69bf6b7", "quote": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The ground stop lasted about five hours before being lifted Friday evening.",
+      "sources": [
+        {"outlet": "wired", "item_id": "4a58886a7a4ae768e35fee41742b5df529d48b84", "quote": "The five-hour ordeal ended Friday evening."}
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "The transportation secretary later attributed the grounding to a \"routine\" equipment upgrade.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43", "quote": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide"}
+      ]
+    },
+    {
+      "id": "c8",
+      "statement": "FAA administrator Bryan Bedford said there was no evidence anything AI-related caused the incident.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43", "quote": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "Outlets gave different accounts of what caused the ground stop, variously citing a communications failure, obsolete equipment, and a routine equipment upgrade.",
+      "quotes": [
+        {"outlet": "wired", "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9", "quote": "a nationwide communications failure among air traffic control systems"},
+        {"outlet": "arstechnica", "item_id": "a3eec27e07e130fe80e657125739ad17a69bf6b7", "quote": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."},
+        {"outlet": "techcrunch", "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43", "quote": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide"}
+      ],
+      "claim_ids": ["c2", "c5", "c7"]
+    }
+  ],
+  "agreement": "partial"
+}

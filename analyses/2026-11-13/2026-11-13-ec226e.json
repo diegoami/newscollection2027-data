@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-13-ec226e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-15T12:00:00Z",
+  "headline": "Research says top Chinese AI models trained on banned Nvidia chips",
+  "summary": "New research reportedly found that leading Chinese AI models were trained using export-banned Nvidia Blackwell chips. One analysis said it found Blackwell's \"fingerprint\" in DeepSeek, Moonshot AI, MiniMax and Ant Group models, while another cited statistical analysis of model weights showing high correlation to Nvidia hardware in DeepSeek, Kimi and other models.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "New research found that the most advanced Chinese AI models were trained on export-banned Nvidia chips.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3dc626ea28ff3a7d36faf15e5d26f4a556a6f010", "quote": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."},
+        {"outlet": "theregister", "item_id": "cddb1e41144b5d8f176cab14d0f3255d468d7a46", "quote": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "A forensic report found evidence of Nvidia Blackwell chips in DeepSeek, Moonshot AI, MiniMax and Ant Group models.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "cddb1e41144b5d8f176cab14d0f3255d468d7a46", "quote": "Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Researchers said statistical analysis of model weights showed high correlation to Nvidia hardware in DeepSeek, Kimi and other Chinese models.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "aa65033692fb6eff4409b103e3b4c79ac13a8ce4", "quote": "statistical analysis on model weights reveals high correlation to Nvidia hardware"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The claim about Chinese labs training on Blackwell chips is attributed to a former OpenAI engineer.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "cddb1e41144b5d8f176cab14d0f3255d468d7a46", "quote": "says ex-OpenAI engineer"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

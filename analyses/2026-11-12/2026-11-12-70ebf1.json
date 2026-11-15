@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-12-70ebf1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-15T12:00:00Z",
+  "headline": "Microsoft's November Windows update breaks printing for some users",
+  "summary": "Microsoft's November 2026 security updates for Windows are causing printing problems, including issues triggered by zero-size graphics, and some administrators have also reported activation failures. Microsoft said the updates may break printing specifically for documents with complex formatting.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft's November 2026 Windows security updates caused printing problems for some users.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77", "quote": "Zero-size graphics can derail printing"},
+        {"outlet": "bleepingcomputer", "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e", "quote": "Microsoft says November security updates cause printing issues"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Some administrators also faced activation failures after installing the update.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77", "quote": "some admins also face activation failures"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Microsoft warned that the update may break printing specifically for documents with complex formatting.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e", "quote": "the November 2026 security updates may break printing for documents with complex formatting"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

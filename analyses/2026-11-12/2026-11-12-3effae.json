@@ -1,32 +1,32 @@
 {
   "cluster_id": "2026-11-12-3effae",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-14T02:25:33Z",
-  "headline": "Google positions new AI glasses as more private than Meta's",
-  "summary": "Google is positioning its new smart glasses as more privacy-focused than Meta's, aiming to distinguish itself after Meta's glasses earned a negative reputation, nicknamed \"pervert glasses.\" One reviewer says Google's glasses give Meta real competition in the smart-glasses market.",
+  "generated_at": "2026-11-15T12:00:00Z",
+  "headline": "Google positions new smart glasses as more private than Meta's",
+  "summary": "Google is marketing its new smart glasses around privacy, explicitly contrasting them with Meta's glasses, which have drawn criticism and the nickname \"pervert glasses\" over privacy concerns. Coverage describes Google's privacy messaging as attention-seeking, while noting that some of the underlying policies are genuinely good.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Google is positioning its new smart glasses as more privacy-minded than Meta's.",
+      "statement": "Google is positioning its new smart glasses as the more privacy-minded option compared with Meta's.",
       "sources": [
-        {"outlet": "wired", "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb", "quote": "Here’s How Google Says It’s Making Its Smart Glasses More Private"},
-        {"outlet": "wired", "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb", "quote": "Google is positioning its frames as the more privacy-minded option"}
+        {"outlet": "wired", "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb", "quote": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option."},
+        {"outlet": "engadget", "item_id": "b22f0cca2937b7032c4bb441479665fd4180afd8", "quote": "Google really needs you to know it cares about smart glasses privacy"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Meta's smart glasses earned a negative privacy reputation, nicknamed \"pervert glasses.\"",
+      "statement": "Meta's smart glasses have drawn a negative privacy reputation, including being dubbed \"pervert glasses.\"",
       "sources": [
         {"outlet": "theverge", "item_id": "1a2134123f8d1686384cd9a879fa7ae8477461b4", "quote": "its privacy reputation led to the \"pervert glasses\" moniker"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Google's new glasses give Meta real competition in the smart glasses market.",
+      "statement": "Coverage described Google's privacy messaging as somewhat attention-seeking, while saying some of the actual policies are good.",
       "sources": [
-        {"outlet": "theverge", "item_id": "1a2134123f8d1686384cd9a879fa7ae8477461b4", "quote": "Meta’s finally got real competition"}
+        {"outlet": "engadget", "item_id": "b22f0cca2937b7032c4bb441479665fd4180afd8", "quote": "Yes, it's a bit attention-seeking, but some of these policies are genuinely good."}
       ]
     }
   ],

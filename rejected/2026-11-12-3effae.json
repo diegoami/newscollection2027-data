@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "5b3ccb68d89bbabe95a6e721c9d2fd99d2177ebb",
+            "outlet": "wired",
+            "quote": "Eager to separate its glasses from Meta\u2019s offerings, Google is positioning its frames as the more privacy-minded option."
+          },
+          {
+            "item_id": "b22f0cca2937b7032c4bb441479665fd4180afd8",
+            "outlet": "engadget",
+            "quote": "Google really needs you to know it cares about smart glasses privacy"
+          }
+        ],
+        "statement": "Google is positioning its new smart glasses as the more privacy-minded option compared with Meta's."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "1a2134123f8d1686384cd9a879fa7ae8477461b4",
+            "outlet": "theverge",
+            "quote": "its privacy reputation led to the \u201cpervert glasses\u201d moniker"
+          }
+        ],
+        "statement": "Meta's smart glasses have drawn a negative privacy reputation, including being dubbed \u201cpervert glasses.\u201d"
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "b22f0cca2937b7032c4bb441479665fd4180afd8",
+            "outlet": "engadget",
+            "quote": "Yes, it's a bit attention-seeking, but some of these policies are genuinely good."
+          }
+        ],
+        "statement": "Coverage described Google's privacy messaging as somewhat attention-seeking, while saying some of the actual policies are good."
+      }
+    ],
+    "cluster_id": "2026-11-12-3effae",
+    "cluster_version": 2,
+    "discrepancies": [],
+    "generated_at": "2026-11-15T12:00:00Z",
+    "headline": "Google positions new smart glasses as more private than Meta's",
+    "model": "claude-sonnet-5",
+    "summary": "Google is marketing its new smart glasses around privacy, explicitly contrasting them with Meta's glasses, which have drawn criticism and the nickname \u201cpervert glasses\u201d over privacy concerns. Coverage describes Google's privacy messaging as attention-seeking, while noting that some of the underlying policies are genuinely good."
+  },
+  "cluster_id": "2026-11-12-3effae",
+  "problems": [
+    "quote: not verbatim in theverge 1a2134123f8d1686384cd9a879fa7ae8477461b4's title or lede: 'its privacy reputation led to the \u201cpervert glasses\u201d moniker'"
+  ],
+  "rejected_at": "2026-11-15T02:33:09Z"
+}

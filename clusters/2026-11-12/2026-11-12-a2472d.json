@@ -19,14 +19,6 @@
       "url": "https://www.engadget.com/2315259/multiple-microsoft-365-services-are-experiencing-an-outage/"
     },
     {
-      "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
-      "lede": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
-      "outlet": "zdnet",
-      "published": "2026-11-12T19:45:52Z",
-      "title": "Several Microsoft services appear to be down \u2013 what we know",
-      "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
-    },
-    {
       "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
       "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
       "outlet": "wired",
@@ -81,6 +73,14 @@
       "published": "2026-11-13T06:40:06Z",
       "title": "Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing",
       "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609"
+    },
+    {
+      "item_id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
+      "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+      "outlet": "theregister",
+      "published": "2026-11-13T06:40:06Z",
+      "title": "Microsoft's massive M365 outage stretches past 27 hours as its fixes keep failing",
+      "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-27-hours-as-its-fixes-keep-failing/5309609"
     },
     {
       "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
@@ -179,14 +179,30 @@
       "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
     },
     {
+      "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+      "lede": "One think tank\u2019s estimate puts the cost of the outage at $7 billion.",
+      "outlet": "zdnet",
+      "published": "2026-11-13T21:43:32Z",
+      "title": "Microsoft doesn\u2019t \u2018have an ETA for full recovery\u2019 on outage yet",
+      "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+    },
+    {
       "item_id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
-      "lede": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "lede": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "outlet": "bbc-technology",
-      "published": "2026-11-13T20:49:52Z",
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "published": "2026-11-14T06:42:27Z",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+    },
+    {
+      "item_id": "b67c4d635d9d2a1fe957879126e76a2f815b98a6",
+      "lede": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers",
+      "outlet": "theguardian",
+      "published": "2026-11-14T11:54:31Z",
+      "title": "Microsoft says services fully restored after global outage hits governments",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }
