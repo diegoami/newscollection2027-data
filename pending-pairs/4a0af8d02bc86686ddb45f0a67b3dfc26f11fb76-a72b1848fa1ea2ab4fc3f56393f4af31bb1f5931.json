@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4a0af8d02bc86686ddb45f0a67b3dfc26f11fb76",
+    "lede": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:50:24Z",
+    "title": "Google Wallet just turned your Android phone into a digital house key \u2013 how it works",
+    "url": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/"
+  },
+  "b": {
+    "item_id": "a72b1848fa1ea2ab4fc3f56393f4af31bb1f5931",
+    "lede": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
+    "outlet": "engadget",
+    "published": "2026-11-15T00:00:00Z",
+    "title": "There's a hidden way you can check which services are running on your Android phone",
+    "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/"
+  },
+  "score": 0.575352
+}

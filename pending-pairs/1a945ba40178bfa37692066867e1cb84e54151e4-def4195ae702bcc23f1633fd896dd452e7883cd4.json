@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a945ba40178bfa37692066867e1cb84e54151e4",
+    "lede": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
+    "outlet": "engadget",
+    "published": "2026-11-14T22:30:00Z",
+    "title": "This underrated Google Health app feature can make food tracking less annoying",
+    "url": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/"
+  },
+  "b": {
+    "item_id": "def4195ae702bcc23f1633fd896dd452e7883cd4",
+    "lede": "Several of the tracker\u2019s best features require Bluetooth 6.0-compatible device.",
+    "outlet": "zdnet",
+    "published": "2026-11-12T17:11:16Z",
+    "title": "Google\u2019s Pixel Tag tracker won\u2019t work as well on older Android phones \u2013 check our list",
+    "url": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/"
+  },
+  "score": 0.598884
+}
