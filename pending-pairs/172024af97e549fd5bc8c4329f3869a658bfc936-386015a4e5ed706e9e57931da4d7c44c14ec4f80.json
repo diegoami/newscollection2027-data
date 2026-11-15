@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "172024af97e549fd5bc8c4329f3869a658bfc936",
+    "lede": "\u2018FaceStealer\u2019 scam tied to $400M+ theft, 900+ webcam recordings",
+    "outlet": "theregister",
+    "published": "2026-11-12T23:51:00Z",
+    "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523"
+  },
+  "b": {
+    "item_id": "386015a4e5ed706e9e57931da4d7c44c14ec4f80",
+    "lede": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software \u2014 gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+    "outlet": "tomshardware",
+    "published": "2026-11-15T16:30:00Z",
+    "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software"
+  },
+  "score": 0.572496
+}

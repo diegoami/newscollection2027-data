@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "386015a4e5ed706e9e57931da4d7c44c14ec4f80",
+    "lede": "US DoJ partially disrupts FaceStealer campaign that's taken $400m from victims and threatens open-source software \u2014 gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+    "outlet": "tomshardware",
+    "published": "2026-11-15T16:30:00Z",
+    "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software"
+  },
+  "b": {
+    "item_id": "e253199b5be0045675eed657cd907f9773eec9ae",
+    "lede": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-14T15:15:49Z",
+    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+    "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+  },
+  "score": 0.669801
+}

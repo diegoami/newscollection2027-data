@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9be794d8d1a19106bd33389e3b33bb5f0474c5a4",
+    "lede": "Some USB connectors, including USB-A, feature two small holes that have an important purpose. Other USB connectors lack these holes for a reason, too.",
+    "outlet": "engadget",
+    "published": "2026-11-15T16:45:00Z",
+    "title": "Why do some USB connectors have those 2 square holes?",
+    "url": "https://www.engadget.com/2313749/why-some-usb-connectors-have-2-square-holes/"
+  },
+  "b": {
+    "item_id": "d85d34951177d34afcc26ca9f4fe90a444012faf",
+    "lede": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+    "outlet": "engadget",
+    "published": "2026-11-14T21:15:00Z",
+    "title": "Why some USB ports are yellow (and less common than others)",
+    "url": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/"
+  },
+  "score": 0.662238
+}
