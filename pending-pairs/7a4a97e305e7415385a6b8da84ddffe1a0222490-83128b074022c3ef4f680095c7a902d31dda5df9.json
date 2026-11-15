@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7a4a97e305e7415385a6b8da84ddffe1a0222490",
+    "lede": "Safety reasons and unspecified communications issue cited",
+    "outlet": "theregister",
+    "published": "2026-11-13T22:42:28Z",
+    "title": "FAA blames ground stop on faulty copper wiring",
+    "url": "https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912"
+  },
+  "b": {
+    "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+    "lede": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+    "outlet": "wired",
+    "published": "2026-11-13T21:42:57Z",
+    "title": "FAA Grounds All US Flights Until Further Notice",
+    "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+  },
+  "score": 0.63762
+}

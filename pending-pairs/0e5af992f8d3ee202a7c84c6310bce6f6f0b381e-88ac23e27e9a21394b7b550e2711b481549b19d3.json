@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
+    "lede": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T02:38:02Z",
+    "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+    "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+  },
+  "b": {
+    "item_id": "88ac23e27e9a21394b7b550e2711b481549b19d3",
+    "lede": "The company restored service to email and other Microsoft 365 and related services to all customers by Friday night",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft services restored to all customers, company says it's 'deeply sorry'",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609"
+  },
+  "score": 0.579622
+}

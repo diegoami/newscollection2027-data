@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
+    "lede": "Microsoft says its systems are experiencing \u201celevated loads\u201d as the company races to end an outage impacting its business and enterprise customers.",
+    "outlet": "wired",
+    "published": "2026-11-12T20:01:33Z",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/"
+  },
+  "b": {
+    "item_id": "88ac23e27e9a21394b7b550e2711b481549b19d3",
+    "lede": "The company restored service to email and other Microsoft 365 and related services to all customers by Friday night",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft services restored to all customers, company says it's 'deeply sorry'",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609"
+  },
+  "score": 0.583416
+}
