@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a1dd8f56b81d84a7fb9d5a9b1efdfa0d306dae79",
+    "lede": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T12:53:18Z",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
+  },
+  "b": {
+    "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+    "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T08:26:52Z",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+  },
+  "score": 0.581894
+}

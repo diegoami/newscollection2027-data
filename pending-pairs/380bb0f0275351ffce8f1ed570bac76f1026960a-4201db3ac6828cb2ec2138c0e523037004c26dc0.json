@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
+    "lede": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "outlet": "theregister",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "url": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+  },
+  "b": {
+    "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0",
+    "lede": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-15T18:29:53Z",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+  },
+  "score": 0.580301
+}

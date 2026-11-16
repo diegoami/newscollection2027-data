@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a1dd8f56b81d84a7fb9d5a9b1efdfa0d306dae79",
+    "lede": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T12:53:18Z",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
+  },
+  "b": {
+    "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
+    "lede": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T13:15:20Z",
+    "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+    "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  "score": 0.585151
+}

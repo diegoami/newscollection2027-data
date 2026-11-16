@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+    "lede": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-13T12:27:40Z",
+    "title": "Microsoft says November security updates cause printing issues",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/"
+  },
+  "b": {
+    "item_id": "a1dd8f56b81d84a7fb9d5a9b1efdfa0d306dae79",
+    "lede": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T12:53:18Z",
+    "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
+  },
+  "score": 0.580452
+}

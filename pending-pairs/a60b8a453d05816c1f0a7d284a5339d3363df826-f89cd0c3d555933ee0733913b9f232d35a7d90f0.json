@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+    "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T08:26:52Z",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+  },
+  "b": {
+    "item_id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+    "lede": "Summer code change caused a Fall fail \u2013 frantic engineers had to patch the patch instead of rolling back",
+    "outlet": "theregister",
+    "published": "2026-11-16T11:15:07Z",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+  },
+  "score": 0.611374
+}

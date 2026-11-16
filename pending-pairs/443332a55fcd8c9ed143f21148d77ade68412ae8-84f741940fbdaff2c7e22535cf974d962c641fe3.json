@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "443332a55fcd8c9ed143f21148d77ade68412ae8",
+    "lede": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-16T03:04:01Z",
+    "title": "Intel sued by investors after PC sales slump hits share price",
+    "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do"
+  },
+  "b": {
+    "item_id": "84f741940fbdaff2c7e22535cf974d962c641fe3",
+    "lede": "The PC sales slump \"more than offset\u201d AI boom gains, shareholders say.",
+    "outlet": "arstechnica",
+    "published": "2026-11-16T20:37:47Z",
+    "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+  },
+  "score": 0.701463
+}

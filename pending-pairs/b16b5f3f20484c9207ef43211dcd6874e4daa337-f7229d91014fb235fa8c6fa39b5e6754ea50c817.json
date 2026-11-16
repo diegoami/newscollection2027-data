@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b16b5f3f20484c9207ef43211dcd6874e4daa337",
+    "lede": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T20:07:13Z",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.641034
+}

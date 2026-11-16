@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e40619c86da1dec170df0799c375132a3a24e2f",
+    "lede": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T14:00:00Z",
+    "title": "Google warns that fully-automated AI attacks are coming soon",
+    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+  },
+  "b": {
+    "item_id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
+    "lede": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "outlet": "theregister",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "url": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+  },
+  "score": 0.585295
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2c71ce6bc9f80c25fa9568f747be9f901ec76c39",
+    "lede": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode, which [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T18:44:16Z",
+    "title": "Apple is adding face unlock to the iPhone Duo \u2014 without new hardware",
+    "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
+  },
+  "b": {
+    "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+    "lede": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T19:24:40Z",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  },
+  "score": 0.662088
+}

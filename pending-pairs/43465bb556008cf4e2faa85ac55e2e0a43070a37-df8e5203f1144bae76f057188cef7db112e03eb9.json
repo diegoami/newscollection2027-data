@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43465bb556008cf4e2faa85ac55e2e0a43070a37",
+    "lede": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T15:02:34Z",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
+  },
+  "b": {
+    "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9",
+    "lede": "Trump bets China won\u2019t mind US blocking remote access to AI chips.",
+    "outlet": "arstechnica",
+    "published": "2026-11-16T19:10:09Z",
+    "title": "US moves to cut China\u2019s remote access to AI chips",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  "score": 0.668662
+}

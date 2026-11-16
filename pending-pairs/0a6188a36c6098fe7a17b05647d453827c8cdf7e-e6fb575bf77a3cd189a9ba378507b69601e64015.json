@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0a6188a36c6098fe7a17b05647d453827c8cdf7e",
+    "lede": "The outage lasted two weeks but full functionality is expected to resume soon.",
+    "outlet": "engadget",
+    "published": "2026-11-15T21:33:18Z",
+    "title": "AO3 is back online but with limited features",
+    "url": "https://www.engadget.com/2317218/ao3-is-back-online-but-with-limited-features/"
+  },
+  "b": {
+    "item_id": "e6fb575bf77a3cd189a9ba378507b69601e64015",
+    "lede": "Following a weeks-long shutdown, the home to over 18 million works of fan fiction is back online, with some limitations.",
+    "outlet": "wired",
+    "published": "2026-11-16T16:40:33Z",
+    "title": "AO3 Is Back. This Is Not a Drill",
+    "url": "https://www.wired.com/story/ao3-is-back-this-is-not-a-drill/"
+  },
+  "score": 0.580239
+}

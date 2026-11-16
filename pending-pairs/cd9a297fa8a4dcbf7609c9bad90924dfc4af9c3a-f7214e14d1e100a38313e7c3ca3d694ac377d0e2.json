@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+    "lede": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T19:24:40Z",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  },
+  "b": {
+    "item_id": "f7214e14d1e100a38313e7c3ca3d694ac377d0e2",
+    "lede": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T01:26:56Z",
+    "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+  },
+  "score": 0.579919
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0",
+    "lede": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-15T18:29:53Z",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+  },
+  "b": {
+    "item_id": "f66e964ba9d367ad77193a099947754f0e79d9cc",
+    "lede": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T19:57:13Z",
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+  },
+  "score": 0.718223
+}

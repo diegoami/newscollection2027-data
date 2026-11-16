@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
+    "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
+    "outlet": "theregister",
+    "published": "2026-11-13T06:40:06Z",
+    "title": "Microsoft's massive M365 outage stretches past 18 hours as its fixes keep failing",
+    "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-18-hours-as-its-fixes-keep-failing/5309609"
+  },
+  "b": {
+    "item_id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+    "lede": "Summer code change caused a Fall fail \u2013 frantic engineers had to patch the patch instead of rolling back",
+    "outlet": "theregister",
+    "published": "2026-11-16T11:15:07Z",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+  },
+  "score": 0.602234
+}

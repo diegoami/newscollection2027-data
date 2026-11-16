@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "44cdf1d92efd091f9e976e2f2950fd723ff41c8b",
+    "lede": "Amazon has suffered a major setback in its plans to offer a viable Starlink rival, after 40 satellites destined for low earth orbit were destroyed in a failed rocket launch.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T13:30:00Z",
+    "title": "Amazon\u2019s Starlink rival sees major setback after 40 satellites destroyed in rocket failure",
+    "url": "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
+  },
+  "b": {
+    "item_id": "ec0f2a5616775225fc3b3555b619f17fdb7a5c23",
+    "lede": "United Launch Alliance\u2019s Vulcan LEO didn\u2019t reach orbit",
+    "outlet": "theregister",
+    "published": "2026-11-16T01:32:57Z",
+    "title": "Amazon loses first batch of broadband satellites launched on custom rocket",
+    "url": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000"
+  },
+  "score": 0.703154
+}

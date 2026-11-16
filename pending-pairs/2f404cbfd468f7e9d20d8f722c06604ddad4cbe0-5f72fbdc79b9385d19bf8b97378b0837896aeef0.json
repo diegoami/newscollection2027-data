@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f404cbfd468f7e9d20d8f722c06604ddad4cbe0",
+    "lede": "Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Childlight \u2013 Global Child Safety Institute says AI-related child abuse material, including deepfakes using \u201cnudify apps\u201d, had risen from",
+    "outlet": "theguardian",
+    "published": "2026-11-16T00:01:27Z",
+    "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes"
+  },
+  "b": {
+    "item_id": "5f72fbdc79b9385d19bf8b97378b0837896aeef0",
+    "lede": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T19:23:45Z",
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier"
+  },
+  "score": 0.576618
+}

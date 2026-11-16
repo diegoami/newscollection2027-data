@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0",
+    "lede": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-15T18:29:53Z",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+  },
+  "b": {
+    "item_id": "8849b2e51996023f3d4a992fc73a4a2e7923c5f1",
+    "lede": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it\u2019s a double-edged sword \u2013 and a gift to hackers.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T13:14:25Z",
+    "title": "AI finds zero-day flaws for just $4 now \u2013 even mediocre hackers can cash in",
+    "url": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/"
+  },
+  "score": 0.571045
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b16b5f3f20484c9207ef43211dcd6874e4daa337",
+    "lede": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T20:07:13Z",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  "b": {
+    "item_id": "d0b83026be95e613438e227140ead304c194682f",
+    "lede": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:46:01Z",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  "score": 0.712657
+}

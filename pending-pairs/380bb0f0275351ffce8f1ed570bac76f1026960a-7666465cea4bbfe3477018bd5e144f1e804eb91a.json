@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
+    "lede": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "outlet": "theregister",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "url": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+  },
+  "b": {
+    "item_id": "7666465cea4bbfe3477018bd5e144f1e804eb91a",
+    "lede": "Look ma, no human in the loop!",
+    "outlet": "theregister",
+    "published": "2026-11-16T14:00:00Z",
+    "title": "Google: AI agent turned a security patch into a working exploit with no human help",
+    "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
+  },
+  "score": 0.614344
+}

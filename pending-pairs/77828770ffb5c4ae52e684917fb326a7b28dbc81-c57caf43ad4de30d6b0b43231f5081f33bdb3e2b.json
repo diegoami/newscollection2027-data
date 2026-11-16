@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "77828770ffb5c4ae52e684917fb326a7b28dbc81",
+    "lede": "Apple's new app for a study will answer everyday medical questions",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T01:30:00Z",
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+  },
+  "b": {
+    "item_id": "c57caf43ad4de30d6b0b43231f5081f33bdb3e2b",
+    "lede": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T19:25:57Z",
+    "title": "Apple could build its AI health chatbot from this study \u2013 how to enroll",
+    "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/"
+  },
+  "score": 0.785785
+}

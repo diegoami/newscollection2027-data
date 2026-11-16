@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18b00fe2b40c75f5775251690dd3cb31f76bbebd",
+    "lede": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T16:43:24Z",
+    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
+  },
+  "b": {
+    "item_id": "4be096efb99e6f368343c04e19b1f141e7fe760a",
+    "lede": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-13T12:48:03Z",
+    "title": "Microsoft\u2019s massive Outlook outage continues",
+    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+  },
+  "score": 0.668833
+}

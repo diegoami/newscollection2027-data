@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398",
+    "lede": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T19:26:55Z",
+    "title": "Apple adds \u2018face unlock\u2019 to the iPhone Duo, but it\u2019s not Face ID",
+    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+  },
+  "b": {
+    "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+    "lede": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T19:24:40Z",
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+  },
+  "score": 0.605327
+}

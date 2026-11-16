@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2035ef31cc0cf65eab97b814bd4f50ab81457e21",
+    "lede": "A safety warning went missing, chemical levels soared, and five guests ended up in hospital",
+    "outlet": "theregister",
+    "published": "2026-11-16T14:42:00Z",
+    "title": "Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087"
+  },
+  "b": {
+    "item_id": "e08296fe8bccbd0dd02a004a2c056b3aa9538863",
+    "lede": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+    "outlet": "tomshardware",
+    "published": "2026-11-15T15:41:13Z",
+    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized"
+  },
+  "score": 0.644374
+}

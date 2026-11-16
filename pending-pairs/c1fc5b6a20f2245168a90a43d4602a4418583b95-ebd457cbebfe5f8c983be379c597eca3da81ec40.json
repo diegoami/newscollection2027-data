@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c1fc5b6a20f2245168a90a43d4602a4418583b95",
+    "lede": "Double capture eludes company for now as booster fumbled",
+    "outlet": "theregister",
+    "published": "2026-11-16T12:30:00Z",
+    "title": "SpaceX catches Starship on the first try",
+    "url": "https://www.theregister.com/science/2026/11/16/spacex-catches-starship-on-the-first-try/5310059"
+  },
+  "b": {
+    "item_id": "ebd457cbebfe5f8c983be379c597eca3da81ec40",
+    "lede": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
+    "outlet": "engadget",
+    "published": "2026-11-14T20:54:14Z",
+    "title": "SpaceX successfully catches Starship after launch for the first time",
+    "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/"
+  },
+  "score": 0.730099
+}
