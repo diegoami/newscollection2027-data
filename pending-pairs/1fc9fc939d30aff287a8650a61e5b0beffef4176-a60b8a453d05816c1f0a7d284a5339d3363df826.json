@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "One think tank\u2019s estimate puts the cost of the outage at $7 billion.",
+    "outlet": "zdnet",
+    "published": "2026-11-13T21:43:32Z",
+    "title": "Microsoft doesn\u2019t \u2018have an ETA for full recovery\u2019 on outage yet",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "b": {
+    "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+    "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T08:26:52Z",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+  },
+  "score": 0.581967
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9804582556c770d50070b8b3e14f1a321bea0243",
+    "lede": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T07:18:17Z",
+    "title": "What happened overnight with the Microsoft global outage?",
+    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o"
+  },
+  "b": {
+    "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+    "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T08:26:52Z",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+  },
+  "score": 0.585685
+}

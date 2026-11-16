@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
+    "lede": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-13T13:34:53Z",
+    "title": "What we know about the global Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+  },
+  "b": {
+    "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+    "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T08:26:52Z",
+    "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+  },
+  "score": 0.626228
+}

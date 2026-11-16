@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
+    "lede": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+    "outlet": "arstechnica",
+    "published": "2026-11-15T23:11:54Z",
+    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+  },
+  "b": {
+    "item_id": "ec0f2a5616775225fc3b3555b619f17fdb7a5c23",
+    "lede": "United Launch Alliance\u2019s Vulcan LEO didn\u2019t reach orbit",
+    "outlet": "theregister",
+    "published": "2026-11-16T01:32:57Z",
+    "title": "Amazon loses first batch of broadband satellites launched on custom rocket",
+    "url": "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000"
+  },
+  "score": 0.678981
+}
