@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1207b5c1c70bbc649c4833862a588f3ea7c47f65",
+    "lede": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-15T19:15:43Z",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+  },
+  "b": {
+    "item_id": "198b16a285bdd85182e1593f7c683db3d03984f7",
+    "lede": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-15T14:56:21Z",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+  },
+  "score": 0.615896
+}
