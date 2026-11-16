@@ -1,1 +1,115 @@
-{"cluster_id": "2026-11-10-4e941c", "cluster_version": 2, "backend": "claude_code", "model": "claude-sonnet-5", "generated_at": "2026-11-12T02:27:19Z", "headline": "Microsoft's November Windows 11 patch fixes flaws but hits install errors", "summary": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11 (KB5132061 and KB5131087), fixing over a thousand security flaws, adding a customizable File Explorer right-click menu, and resolving a USB audio issue dating to September. Some users reported the update failing to install, throwing specific error codes, with no comment from Microsoft.", "claims": [{"id": "c1", "statement": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11 (KB5132061 and KB5131087) to fix security vulnerabilities and bugs and add features.", "sources": [{"outlet": "bleepingcomputer", "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675", "quote": "Windows 11 KB5132061 & KB5131087 cumulative updates released"}, {"outlet": "bleepingcomputer", "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675", "quote": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features."}]}, {"id": "c2", "statement": "The update let users customize the File Explorer right-click menu and fixed 1,094 security flaws, including an actively exploited one.", "sources": [{"outlet": "zdnet", "item_id": "3d913a90d15051292e417c874afe2e704b336f52", "quote": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw"}, {"outlet": "zdnet", "item_id": "3d913a90d15051292e417c874afe2e704b336f52", "quote": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too."}]}, {"id": "c3", "statement": "The same update resolved a USB audio issue that had been affecting Windows users since the September security updates.", "sources": [{"outlet": "bleepingcomputer", "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68", "quote": "Microsoft fixes audio issues caused by September security updates"}, {"outlet": "bleepingcomputer", "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68", "quote": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September."}]}, {"id": "c4", "statement": "Some users experienced KB5132061 failing to install, throwing specific error codes, with no comment from Microsoft.", "sources": [{"outlet": "theregister", "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c", "quote": "Microsoft's Patch Tuesday can't break stuff if it won't install"}, {"outlet": "theregister", "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c", "quote": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing"}]}], "discrepancies": [], "agreement": "full"}
+{
+  "cluster_id": "2026-11-10-4e941c",
+  "cluster_version": 3,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "Windows 11 November update fixes bugs, hits installation issues",
+  "summary": "Microsoft's November 2026 Patch Tuesday update for Windows 11 fixed over a thousand security flaws, added a customizable right-click menu, and resolved USB audio problems from September's updates. Some users then reported installation failures with specific error codes on systems running October's preview update; Microsoft confirmed the issue and said a fix was underway.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Microsoft released the November 2026 Patch Tuesday cumulative updates (KB5132061 and KB5131087) for Windows 11.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
+          "quote": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+          "quote": "KB5132061 throws 0x800F0993 and 0x800F0989 errors"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The update fixes a large number of security vulnerabilities, including an actively exploited flaw.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+          "quote": "It fixes 1,094 security flaws, too."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+          "quote": "patches an exploited flaw"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The update adds a customizable right-click File Explorer menu.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
+          "quote": "you can finally customize your right-click menu in Windows 11"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The update fixes USB audio issues that had affected Windows systems since September's updates.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68",
+          "quote": "Microsoft fixes audio issues caused by September security updates"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68",
+          "quote": "resolve USB audio issues plaguing Windows users who have installed security updates released since September"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Some users reported the update failing to install, with specific error codes.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+          "quote": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+          "quote": "Microsoft confirms Windows security updates installation issues"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Microsoft confirmed the installation failures affect systems running the October preview update.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+          "quote": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update."
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+          "quote": "This month’s security update is failing on some systems already running the preview update released in October."
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "A fix for the installation failures was reported to be underway.",
+      "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+          "quote": "But there is a fix afoot."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

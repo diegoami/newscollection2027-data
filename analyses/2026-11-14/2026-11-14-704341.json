@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-11-14-704341",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "Elon Musk, others sign petition for Jensen Huang's return",
+  "summary": "Elon Musk and other tech executives signed an online petition urging Nvidia to reinstate ousted CEO Jensen Huang. Reports differ on the petition's size, with one citing more than 115,000 signatures and another, published a day later, citing just over 91,000.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Elon Musk and other tech executives signed a petition calling on Nvidia to reinstate Jensen Huang as CEO.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+          "quote": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+          "quote": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The petition had gathered tens of thousands of signatures.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+          "quote": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+          "quote": "An online petition with over 91,000 signatures"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Techcrunch reports more than 115,000 signatures as of Saturday while tomshardware, published the next day, cites just over 91,000.",
+      "claim_ids": [
+        "c2"
+      ],
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+          "quote": "more than 115,000 signatures as of Saturday afternoon"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+          "quote": "over 91,000 signatures"
+        }
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

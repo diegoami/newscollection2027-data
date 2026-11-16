@@ -1,0 +1,24 @@
+{
+  "anchor": "a4a92fbcda03532a99162b220c95547cd159c057",
+  "id": "2026-11-14-704341",
+  "items": [
+    {
+      "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+      "lede": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "outlet": "techcrunch",
+      "published": "2026-11-14T21:41:22Z",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+      "lede": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO.",
+      "outlet": "tomshardware",
+      "published": "2026-11-15T12:00:00Z",
+      "title": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO",
+      "url": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
+  "id": "2026-11-15-56f978",
+  "items": [
+    {
+      "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
+      "lede": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-15T21:05:02Z",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    },
+    {
+      "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
+      "lede": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "outlet": "arstechnica",
+      "published": "2026-11-15T23:11:54Z",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,82 @@
+{
+  "cluster_id": "2026-11-14-919f9d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "Italy fines Meta over Facebook photo access without consent",
+  "summary": "Italy's data protection authority fined Meta roughly €805m ($887m) after finding its Facebook app accessed users' photos and videos without specific consent. One report says 20 million users were not informed. Meta reportedly plans to appeal the decision.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Italy's data protection authority fined Meta over how its Facebook app accessed users' photos.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+          "quote": "Italy fines Meta €805m over accessing users' photos"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
+          "quote": "Italy fines Meta $887m for accessing Android users’ photos and videos"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d96882a012b0874521476f3cdac18519c5ecc23d",
+          "quote": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The fine was reported as €805m, equivalent to about $887m.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+          "quote": "€805m"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
+          "quote": "€805m ($887m)"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Meta is accused of accessing users' photos without obtaining specific consent.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+          "quote": "accused of not informing 20 million users it had access to their photos"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d96882a012b0874521476f3cdac18519c5ecc23d",
+          "quote": "for not obtaining specific consent over user photos"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Meta plans to appeal the fine.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
+          "quote": "Meta says it plans to appeal the decision"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "d96882a012b0874521476f3cdac18519c5ecc23d",
+          "quote": "Meta is reportedly planning to appeal the fine."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

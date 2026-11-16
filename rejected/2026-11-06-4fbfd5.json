@@ -30,7 +30,7 @@
           {
             "item_id": "69c75581d56ff5e1da78b460d1c1cfcddb739c3c",
             "outlet": "techcrunch",
-            "quote": "China's Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO"
+            "quote": "China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO"
           }
         ],
         "statement": "China's Ministry of State Security recruited Megaspeed executive Alice Huang to gather information through Jensen Huang."
@@ -94,7 +94,7 @@
           {
             "item_id": "05d31a5bc4a78da30a726281ba43adb03d26a603",
             "outlet": "techcrunch",
-            "quote": "Nvidia's stock slid more than 4% after its board opened an investigation"
+            "quote": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation"
           }
         ],
         "statement": "Nvidia's stock fell after the board opened its investigation."
@@ -285,8 +285,7 @@
   },
   "cluster_id": "2026-11-06-4fbfd5",
   "problems": [
-    "quote: not verbatim in techcrunch 69c75581d56ff5e1da78b460d1c1cfcddb739c3c's title or lede: \"China's Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO\"",
-    "quote: not verbatim in techcrunch 05d31a5bc4a78da30a726281ba43adb03d26a603's title or lede: \"Nvidia's stock slid more than 4% after its board opened an investigation\""
+    "cluster: analysis is for version 10, cluster is at version 11"
   ],
-  "rejected_at": "2026-11-15T02:33:09Z"
+  "rejected_at": "2026-11-16T02:21:20Z"
 }

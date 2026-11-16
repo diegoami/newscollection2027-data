@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-15-56f978",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "Vulcan rocket failure destroys Amazon's Leo satellites",
+  "summary": "A ULA Vulcan rocket suffered its first total mission failure in the company's 20-year history, destroying 40 satellites for Amazon's Leo network, a rival to SpaceX's Starlink.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "ULA's Vulcan rocket suffered its first mission failure in the company's 20-year history, destroying 40 Amazon Leo satellites.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
+          "quote": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
+          "quote": "This was the first total mission failure in United Launch Alliance's 20-year history."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The failure is a setback for Amazon's Leo satellite network, a competitor to SpaceX's Starlink.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
+          "quote": "Leo is Amazon's competitor to SpaceX's Starlink"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
+          "quote": "dealing major blow to SpaceX competitors"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

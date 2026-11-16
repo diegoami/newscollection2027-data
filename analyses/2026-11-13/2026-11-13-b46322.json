@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-13-b46322",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "Amazon reportedly building database of online products",
+  "summary": "Amazon is reportedly building a database indexing products sold anywhere online, including items it does not sell itself, according to Reuters. The project has been described as the 'World Product Graph.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon is building a product database covering items sold online, including products it does not sell itself.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "04367a7d0b10c58a54bc55e39e9949ebf226c15e",
+          "quote": "Amazon has a plan to index the world’s online shopping data"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ca6e48547ac3352840315505d9dd49970b1e4c3d",
+          "quote": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The database is reported to include products Amazon does not sell.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "04367a7d0b10c58a54bc55e39e9949ebf226c15e",
+          "quote": "even products Amazon doesn't sell"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "ca6e48547ac3352840315505d9dd49970b1e4c3d",
+          "quote": "This would include products that the online commerce giant doesn't even sell."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -19,6 +19,7 @@
       "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/"
     }
   ],
-  "status": "analyzed",
+  "status": "superseded",
+  "superseded_by": "2026-11-10-4e941c",
   "version": 1
 }

@@ -1,0 +1,32 @@
+{
+  "anchor": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+  "id": "2026-11-14-919f9d",
+  "items": [
+    {
+      "item_id": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+      "lede": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-14T18:28:06Z",
+      "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+    },
+    {
+      "item_id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
+      "lede": "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decision Italy\u2019s data protection agency has fined Facebook parent company Meta \u20ac805m ($887m) for accessing users\u2019 photos without their specific consent. Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to",
+      "outlet": "theguardian",
+      "published": "2026-11-15T02:02:01Z",
+      "title": "Italy fines Meta $887m for accessing Android users\u2019 photos and videos",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"
+    },
+    {
+      "item_id": "d96882a012b0874521476f3cdac18519c5ecc23d",
+      "lede": "Meta is reportedly planning to appeal the fine.",
+      "outlet": "engadget",
+      "published": "2026-11-15T17:44:06Z",
+      "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
+      "url": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

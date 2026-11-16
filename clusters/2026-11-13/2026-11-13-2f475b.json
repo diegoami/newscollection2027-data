@@ -19,6 +19,14 @@
       "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
     },
     {
+      "item_id": "7a4a97e305e7415385a6b8da84ddffe1a0222490",
+      "lede": "Safety reasons and unspecified communications issue cited",
+      "outlet": "theregister",
+      "published": "2026-11-13T22:42:28Z",
+      "title": "FAA blames ground stop on faulty copper wiring",
+      "url": "https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912"
+    },
+    {
       "item_id": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
       "lede": "Safety reasons and unspecified communications issue cited",
       "outlet": "theregister",
@@ -59,14 +67,30 @@
       "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/"
     },
     {
+      "item_id": "43a64e6ec908a093b5f025a7b2d1f2a2fdff7f40",
+      "lede": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-14T17:44:28Z",
+      "title": "Work to replace old copper wire led to the FAA\u2019s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+    },
+    {
       "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43",
       "lede": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
       "outlet": "techcrunch",
       "published": "2026-11-14T17:45:04Z",
       "title": "Transportation secretary blames \u2018routine\u2019 equipment upgrade for grounding flights nationwide",
       "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
+    },
+    {
+      "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+      "lede": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop.",
+      "outlet": "tomshardware",
+      "published": "2026-11-15T13:42:51Z",
+      "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+      "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

@@ -67,6 +67,14 @@
       "url": "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-18-hours-as-its-fixes-keep-failing/5309609"
     },
     {
+      "item_id": "88ac23e27e9a21394b7b550e2711b481549b19d3",
+      "lede": "The company restored service to email and other Microsoft 365 and related services to all customers by Friday night",
+      "outlet": "theregister",
+      "published": "2026-11-13T06:40:06Z",
+      "title": "Microsoft services restored to all customers, company says it's 'deeply sorry'",
+      "url": "https://www.theregister.com/saas/2026/11/13/microsoft-services-restored-to-all-customers-company-says-its-deeply-sorry/5309609"
+    },
+    {
       "item_id": "9348b056f21d61017c0f9d63df642ebba2d2aaa3",
       "lede": "Hasn't completely ruled out cyberattack as cause of incident that's damaged Exchange Online and services that rely on it",
       "outlet": "theregister",
@@ -204,5 +212,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

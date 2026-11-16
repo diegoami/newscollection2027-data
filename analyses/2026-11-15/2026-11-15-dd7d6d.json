@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-11-15-dd7d6d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-16T02:18:05Z",
+  "headline": "South Korea tax exam top scorer admits using AI to cheat",
+  "summary": "The top scorer on South Korea's national tax accountancy exam admitted to cheating with AI. One report says he sent photos of exam questions to a generative AI tool, while another says he used a hidden camera and AI, identifying him as Han Won-seok, 34.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The top scorer on South Korea's national tax accountancy exam admitted to cheating using AI.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "aa2588991e1a8a3ee8d17ab849823122e422b59d",
+          "quote": "top scorer in South Korea tax exam admits AI cheating"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "a7491076c63ab89281fee94c82637971cfebc789",
+          "quote": "South Korea's top scorer in tax accountancy exam admits cheating"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The test taker is identified as Han Won-seok, 34.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "a7491076c63ab89281fee94c82637971cfebc789",
+          "quote": "Han Won-seok, 34, confessed to using a hidden camera and AI"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "He used a hidden camera and AI to get a near-perfect mark.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "a7491076c63ab89281fee94c82637971cfebc789",
+          "quote": "using a hidden camera and AI to get a near-perfect mark on the significant test"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "He sent photos of exam questions to a generative AI tool.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "aa2588991e1a8a3ee8d17ab849823122e422b59d",
+          "quote": "sending photos of questions to AI tool"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "medium",
+      "explanation": "BBC's account centers on a hidden camera as part of the cheating method, which the Guardian's account does not mention, describing only photos sent to an AI tool.",
+      "claim_ids": [
+        "c3",
+        "c4"
+      ],
+      "quotes": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "a7491076c63ab89281fee94c82637971cfebc789",
+          "quote": "using a hidden camera and AI to get a near-perfect mark"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "aa2588991e1a8a3ee8d17ab849823122e422b59d",
+          "quote": "sending photos of questions to AI tool"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
