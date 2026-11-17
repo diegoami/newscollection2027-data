@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-16-4cde39",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:20:20Z",
+  "headline": "Jensen Huang's allies push for his return as Nvidia CEO",
+  "summary": "Allies of Jensen Huang are working to secure his reinstatement as Nvidia CEO just days after his resignation amid scandal.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Jensen Huang's allies are working to get him back as Nvidia CEO just days after his resignation.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7", "quote": "allies rally to push the AI chipmaker to take him back just days after he was ousted"},
+        {"outlet": "arstechnica", "item_id": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa", "quote": "Huang is weighing a return just days after resigning amid a deepening scandal."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Huang's allies have formed a \"war room\" to drive his reinstatement.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa", "quote": "Jensen Huang allies build a \"war room\" to get him back at Nvidia"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

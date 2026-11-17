@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-16-6249cb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:22:32Z",
+  "headline": "Study: US data centers rival states and countries in power use",
+  "summary": "A new Harvard study finds US hyperscale data centers consume electricity comparable to an entire US state or a midsized country, accounting for roughly 2% of total US electricity, with fossil fuels still the dominant power source for these facilities.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A new study finds US hyperscale data centers consume electricity on the scale of entire US states or midsized countries.",
+      "sources": [
+        {"outlet": "wired", "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7", "quote": "Just 400 US Data Centers Use More Electricity Than Michigan"},
+        {"outlet": "theverge", "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68", "quote": "US data centers now burn more electricity than a midsized country"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Hyperscale data centers account for about 2% of total US electricity use.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "1a436479b568fcdcf6c527ab6ecb9ef6a4c654be", "quote": "Hyperscale data centers use 2% of US electricity"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Fossil fuels remain the primary electricity source powering these hyperscale facilities.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68", "quote": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The estimate is based on new Harvard research into data-center power demand.",
+      "sources": [
+        {"outlet": "wired", "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7", "quote": "New Harvard research shows that data-center power demand is outstripping states"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

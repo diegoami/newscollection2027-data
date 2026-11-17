@@ -1,45 +1,57 @@
 {
   "cluster_id": "2026-11-15-56f978",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-16T02:18:05Z",
-  "headline": "Vulcan rocket failure destroys Amazon's Leo satellites",
-  "summary": "A ULA Vulcan rocket suffered its first total mission failure in the company's 20-year history, destroying 40 satellites for Amazon's Leo network, a rival to SpaceX's Starlink.",
+  "generated_at": "2026-11-17T02:21:09Z",
+  "headline": "Vulcan rocket failure destroys 40 Amazon satellites in ULA's first mission failure",
+  "summary": "United Launch Alliance's Vulcan rocket failed during launch, destroying 40 satellites bound for Amazon's Leo broadband constellation, Amazon's rival to SpaceX's Starlink. Outlets describe it as the first total mission failure in ULA's 20-year history, though one report frames that record as unconfirmed.",
   "claims": [
     {
       "id": "c1",
-      "statement": "ULA's Vulcan rocket suffered its first mission failure in the company's 20-year history, destroying 40 Amazon Leo satellites.",
+      "statement": "ULA's Vulcan rocket failed during launch, destroying 40 Amazon Leo satellites.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
-          "quote": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
-          "quote": "This was the first total mission failure in United Launch Alliance's 20-year history."
-        }
+        {"outlet": "theverge", "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629", "quote": "Vulcan rocket fails, destroying 40 Amazon Leo satellites"},
+        {"outlet": "engadget", "item_id": "50969f1926a0c4077acc32567e2b36659bfae62b", "quote": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites"},
+        {"outlet": "tomshardware", "item_id": "44cdf1d92efd091f9e976e2f2950fd723ff41c8b", "quote": "40 satellites destined for low earth orbit were destroyed in a failed rocket launch"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The failure is a setback for Amazon's Leo satellite network, a competitor to SpaceX's Starlink.",
+      "statement": "This is described as ULA's first total mission failure in its 20-year history.",
       "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
-          "quote": "Leo is Amazon's competitor to SpaceX's Starlink"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
-          "quote": "dealing major blow to SpaceX competitors"
-        }
+        {"outlet": "arstechnica", "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52", "quote": "This was the first total mission failure in United Launch Alliance's 20-year history."},
+        {"outlet": "theverge", "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629", "quote": "suffered what is reportedly its first mission failure in its 20-year history"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The satellites belonged to Amazon Leo, the company's rival to SpaceX's Starlink.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629", "quote": "Leo is Amazon's competitor to SpaceX's Starlink"},
+        {"outlet": "tomshardware", "item_id": "44cdf1d92efd091f9e976e2f2950fd723ff41c8b", "quote": "Amazon’s Starlink rival sees major setback"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The rocket failed to reach orbit, so the satellites were not delivered.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "ec0f2a5616775225fc3b3555b619f17fdb7a5c23", "quote": "Vulcan LEO didn’t reach orbit"},
+        {"outlet": "theverge", "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629", "quote": "failing to deliver 40 Amazon Leo satellites to orbit"}
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet hedges the 'first mission failure' claim as unconfirmed while another states it as settled fact.",
+      "claim_ids": ["c2"],
+      "quotes": [
+        {"outlet": "theverge", "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629", "quote": "suffered what is reportedly its first mission failure in its 20-year history"},
+        {"outlet": "arstechnica", "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52", "quote": "This was the first total mission failure in United Launch Alliance's 20-year history."}
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

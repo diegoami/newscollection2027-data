@@ -1,0 +1,24 @@
+{
+  "anchor": "7d4f6584a3c990347a501878d6b95c00f9bb675b",
+  "id": "2026-11-16-de819f",
+  "items": [
+    {
+      "item_id": "7d4f6584a3c990347a501878d6b95c00f9bb675b",
+      "lede": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-16T09:30:04Z",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/"
+    },
+    {
+      "item_id": "37fc6c082fdbd9f0d698426a261acf9cff082a25",
+      "lede": "Flaw can take down an entire host, even when the vulnerable service is running inside a container",
+      "outlet": "theregister",
+      "published": "2026-11-16T18:28:00Z",
+      "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
+      "url": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

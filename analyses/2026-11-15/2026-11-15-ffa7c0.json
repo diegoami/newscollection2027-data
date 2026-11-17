@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-11-15-ffa7c0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:21:09Z",
+  "headline": "Fan fiction site AO3 returns online after weeks-long outage, with limitations",
+  "summary": "Archive of Our Own, which hosts over 18 million works of fan fiction, is back online after an outage that lasted about two weeks, though some features remain limited while full functionality is expected to resume soon.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "AO3 is back online after an extended outage, though with some limitations.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "0a6188a36c6098fe7a17b05647d453827c8cdf7e", "quote": "AO3 is back online but with limited features"},
+        {"outlet": "wired", "item_id": "e6fb575bf77a3cd189a9ba378507b69601e64015", "quote": "is back online, with some limitations"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The outage lasted about two weeks.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "0a6188a36c6098fe7a17b05647d453827c8cdf7e", "quote": "The outage lasted two weeks"},
+        {"outlet": "wired", "item_id": "e6fb575bf77a3cd189a9ba378507b69601e64015", "quote": "Following a weeks-long shutdown"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "AO3 hosts over 18 million works of fan fiction.",
+      "sources": [
+        {"outlet": "wired", "item_id": "e6fb575bf77a3cd189a9ba378507b69601e64015", "quote": "the home to over 18 million works of fan fiction"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Full functionality is expected to resume soon.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "0a6188a36c6098fe7a17b05647d453827c8cdf7e", "quote": "full functionality is expected to resume soon"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

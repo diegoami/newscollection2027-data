@@ -1,0 +1,41 @@
+{
+  "cluster_id": "2026-11-16-08f6a2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:20:20Z",
+  "headline": "Mercedes-Benz unveils new point-to-point driving assist",
+  "summary": "Mercedes-Benz is launching MB.Drive Assist Pro, a point-to-point driving assist system coming to the US and Germany in 2027 to compete with Tesla's FSD.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Mercedes-Benz's new MB.Drive Assist Pro system is a step toward self-driving.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "5fb9160586264eba1226e3248054bd987bb50595", "quote": "Benz takes us another step towards self-driving."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The system includes a point-to-point driver assist that handles complex traffic.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c485adc10855baba6c751cf87c7138350f18123d", "quote": "Mercedes' clever new driving assist handles complex traffic like a champ"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The point-to-point driver assist is coming to the US and Germany in 2027.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c485adc10855baba6c751cf87c7138350f18123d", "quote": "The point-to-point driver assist is coming to the US and Germany in 2027."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The launch includes two features, hands-free highway driving and point-to-point city navigation, competing with Tesla's FSD.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "7f9b9998e7081f6b154623fbb80250c829d62ce1", "quote": "the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-14-704341",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-16T02:18:05Z",
-  "headline": "Elon Musk, others sign petition for Jensen Huang's return",
-  "summary": "Elon Musk and other tech executives signed an online petition urging Nvidia to reinstate ousted CEO Jensen Huang. Reports differ on the petition's size, with one citing more than 115,000 signatures and another, published a day later, citing just over 91,000.",
+  "generated_at": "2026-11-17T02:22:23Z",
+  "headline": "Musk and tech executives petition Nvidia to reinstate Jensen Huang",
+  "summary": "Elon Musk and other tech executives signed a petition or open letter urging Nvidia's board to reinstate ousted CEO Jensen Huang. Outlets reported differing signature totals at different points as the petition grew, and the Guardian said Huang himself is reportedly already plotting a return.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Elon Musk and other tech executives signed a petition calling on Nvidia to reinstate Jensen Huang as CEO.",
+      "statement": "Elon Musk and other tech executives signed a petition or open letter calling for Nvidia to reinstate Jensen Huang.",
       "sources": [
         {
           "outlet": "techcrunch",
@@ -20,13 +20,46 @@
           "outlet": "tomshardware",
           "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
           "quote": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+          "quote": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The petition had gathered tens of thousands of signatures.",
+      "statement": "The Guardian reported that Huang himself is already reportedly plotting a return to Nvidia.",
       "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+          "quote": "amid reports the former chief executive is already plotting a return to"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Guardian said the US treasury secretary is urging a 'dramatic shake-up' at Nvidia.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+          "quote": "as US treasury secretary urges ‘dramatic shake-up’"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "Outlets give different petition signature totals at different moments as the campaign grew.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
         {
           "outlet": "techcrunch",
           "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
@@ -35,32 +68,15 @@
         {
           "outlet": "tomshardware",
           "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
-          "quote": "An online petition with over 91,000 signatures"
-        }
-      ]
-    }
-  ],
-  "discrepancies": [
-    {
-      "kind": "number",
-      "severity": "high",
-      "explanation": "Techcrunch reports more than 115,000 signatures as of Saturday while tomshardware, published the next day, cites just over 91,000.",
-      "claim_ids": [
-        "c2"
-      ],
-      "quotes": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
-          "quote": "more than 115,000 signatures as of Saturday afternoon"
+          "quote": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO."
         },
         {
-          "outlet": "tomshardware",
-          "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
-          "quote": "over 91,000 signatures"
+          "outlet": "theguardian",
+          "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+          "quote": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
         }
       ]
     }
   ],
-  "agreement": "conflicting"
+  "agreement": "partial"
 }

@@ -1,0 +1,32 @@
+{
+  "anchor": "443332a55fcd8c9ed143f21148d77ade68412ae8",
+  "id": "2026-11-16-3a7a77",
+  "items": [
+    {
+      "item_id": "443332a55fcd8c9ed143f21148d77ade68412ae8",
+      "lede": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-16T03:04:01Z",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do"
+    },
+    {
+      "item_id": "e98eac5295b7202121d1ee1fef43c1c102f42011",
+      "lede": "The Southfield Fire and Police Retirement System pension fund accuses Intel of withholding important information about its business performance.",
+      "outlet": "tomshardware",
+      "published": "2026-11-16T12:50:08Z",
+      "title": "Intel sued by shareholders for misleading investors after stock plunges 29%",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds"
+    },
+    {
+      "item_id": "84f741940fbdaff2c7e22535cf974d962c641fe3",
+      "lede": "The PC sales slump \"more than offset\u201d AI boom gains, shareholders say.",
+      "outlet": "arstechnica",
+      "published": "2026-11-16T20:37:47Z",
+      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-16-8fb487",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:20:20Z",
+  "headline": "Google Maps adds AI trip-planning features",
+  "summary": "Google Maps' new Ask Maps feature can build real-time trip itineraries and is rolling out today on Android and iOS.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google Maps can now build trip itineraries with real-time details for each stop via Ask Maps.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "cc64e684881ce25786e9509971919d05bbb57841", "quote": "Google Maps can now build trip itineraries with real-time details about each stop"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Ask Maps can plan trips ranging from a day trip to a multi-day road trip.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "cc64e684881ce25786e9509971919d05bbb57841", "quote": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Ask Maps features start rolling out today on Android and iOS.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "fc944f79ae5506aa09a4d18ee9f5cc79fb3df556", "quote": "Google’s Ask Maps features start rolling out today on Android and iOS."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

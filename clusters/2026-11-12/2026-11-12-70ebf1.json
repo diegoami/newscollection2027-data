@@ -11,14 +11,38 @@
       "url": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435"
     },
     {
+      "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
+      "lede": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-13T09:36:18Z",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/"
+    },
+    {
       "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
       "lede": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
       "outlet": "bleepingcomputer",
       "published": "2026-11-13T12:27:40Z",
       "title": "Microsoft says November security updates cause printing issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/"
+    },
+    {
+      "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+      "lede": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-16T08:26:52Z",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+    },
+    {
+      "item_id": "187099f24a31363a3316b3ec6aeffa4d2c6190cf",
+      "lede": "Another unscheduled patch for IT teams already having quite enough fun with Redmond",
+      "outlet": "theregister",
+      "published": "2026-11-16T17:27:00Z",
+      "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+      "url": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

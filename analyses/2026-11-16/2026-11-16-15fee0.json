@@ -1,0 +1,44 @@
+{
+  "cluster_id": "2026-11-16-15fee0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:21:09Z",
+  "headline": "Apple launches AI health study app to learn how people use AI tools",
+  "summary": "Apple has launched the Apple Health AI Usage Study, a research app aimed at understanding how people interact with conversational AI health tools and how useful their responses are, built in collaboration with clinical AI platform OpenEvidence.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple launched a new research app, the Apple Health AI Usage Study, to learn how people use AI health tools.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "f7214e14d1e100a38313e7c3ca3d694ac377d0e2", "quote": "the Apple Health AI Usage Study"},
+        {"outlet": "zdnet", "item_id": "c57caf43ad4de30d6b0b43231f5081f33bdb3e2b", "quote": "the launch of its Apple Health AI Usage Study"},
+        {"outlet": "engadget", "item_id": "83b4e6be39032642077b2b1deb68380d95e1c1c6", "quote": "a new research study with the aim of learning how people use AI health tools"},
+        {"outlet": "techcrunch", "item_id": "77828770ffb5c4ae52e684917fb326a7b28dbc81", "quote": "Apple launches new app to study how people use AI for health"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The study is conducted in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "f7214e14d1e100a38313e7c3ca3d694ac377d0e2", "quote": "in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The app will answer everyday medical questions.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "77828770ffb5c4ae52e684917fb326a7b28dbc81", "quote": "Apple's new app for a study will answer everyday medical questions"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Apple could use findings from the study to build its own AI health chatbot.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "c57caf43ad4de30d6b0b43231f5081f33bdb3e2b", "quote": "Apple could build its AI health chatbot from this study"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

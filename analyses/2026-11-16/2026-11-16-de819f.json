@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-16-de819f",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:20:20Z",
+  "headline": "11-year-old Linux kernel bug lets attackers crash servers remotely",
+  "summary": "An 11-year-old Linux kernel vulnerability called NoisyTCP can be used to remotely crash servers running common services with default configurations.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "NoisyTCP is an 11-year-old Linux kernel vulnerability that lets attackers remotely crash Linux servers.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7d4f6584a3c990347a501878d6b95c00f9bb675b", "quote": "New NoisyTCP vulnerability lets attackers crash Linux servers"},
+        {"outlet": "theregister", "item_id": "37fc6c082fdbd9f0d698426a261acf9cff082a25", "quote": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The flaw affects systems running Nginx, Apache, and SSH servers with default configurations.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "7d4f6584a3c990347a501878d6b95c00f9bb675b", "quote": "lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The flaw can take down an entire host even when the vulnerable service runs inside a container.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "37fc6c082fdbd9f0d698426a261acf9cff082a25", "quote": "Flaw can take down an entire host, even when the vulnerable service is running inside a container"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

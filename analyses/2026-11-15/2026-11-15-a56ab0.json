@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-15-a56ab0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:21:09Z",
+  "headline": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+  "summary": "The FBI says hackers are using the AI-powered ARTEX penetration-testing framework to automate cyberattacks on organizations worldwide, including breaches tied to a US IT company, South Korea's financial sector, and a ConnectWise supply-chain incident affecting Microsoft 365 customers.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The FBI warns the ARTEX AI tool is being used to power cyberattacks against organizations worldwide.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0", "quote": "ARTEX AI hacking tool is powering global cyberattacks"},
+        {"outlet": "techcrunch", "item_id": "690a9aa8938dfa2f5ba40b5df54d72683f323714", "quote": "Artex AI open-source hacking tool used to breach networks"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "A ConnectWise supply-chain breach that compromised Microsoft 365 customer environments is cited as an example of ARTEX's use.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0", "quote": "a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The tool was also used to breach networks targeting a US IT company and South Korea's financial industry.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "690a9aa8938dfa2f5ba40b5df54d72683f323714", "quote": "targeting a U.S. IT giant and the South Korean financial industry"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Attackers reportedly breached networks in under three hours using the tool.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "690a9aa8938dfa2f5ba40b5df54d72683f323714", "quote": "under three hours"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

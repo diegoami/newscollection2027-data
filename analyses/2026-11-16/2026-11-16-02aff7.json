@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-11-16-02aff7",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-17T02:20:20Z",
+  "headline": "GTA 6 hacker pleads guilty to Rockstar breach",
+  "summary": "Arion Kurtaj, 21, pleaded guilty to hacking Rockstar Games and leaking GTA 6 footage, a breach he carried out as a teenager in 2022.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Arion Kurtaj pleaded guilty to hacking Rockstar Games and leaking GTA 6 gameplay footage.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "pleaded guilty to the Rockstar Games hack and others"},
+        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Kurtaj is 21 years old and carried out the hacks as a teenager.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Kurtaj breached Rockstar's systems in 2022.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "breaching Rockstar's systems in 2022"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Kurtaj was deemed fit to stand trial earlier this year and has since been released from a secure hospital.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "after release from secure hospital"},
+        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "Arion Kurtaj was deemed fit to stand trial earlier this year"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

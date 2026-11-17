@@ -209,8 +209,40 @@
       "published": "2026-11-14T11:54:31Z",
       "title": "Microsoft says services fully restored after global outage hits governments",
       "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+    },
+    {
+      "item_id": "e08296fe8bccbd0dd02a004a2c056b3aa9538863",
+      "lede": "The 'maintenance safety system' relied on Microsoft Outlook to send warning messages to the operator.",
+      "outlet": "tomshardware",
+      "published": "2026-11-15T15:41:13Z",
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized"
+    },
+    {
+      "item_id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+      "lede": "Summer code change caused a Fall fail \u2013 frantic engineers had to patch the patch instead of rolling back",
+      "outlet": "theregister",
+      "published": "2026-11-16T11:15:07Z",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+    },
+    {
+      "item_id": "2035ef31cc0cf65eab97b814bd4f50ab81457e21",
+      "lede": "A safety warning went missing, chemical levels soared, and five guests ended up in hospital",
+      "outlet": "theregister",
+      "published": "2026-11-16T14:42:00Z",
+      "title": "Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087"
+    },
+    {
+      "item_id": "18b00fe2b40c75f5775251690dd3cb31f76bbebd",
+      "lede": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-16T16:43:24Z",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
     }
   ],
   "status": "analyzed",
-  "version": 4
+  "version": 5
 }

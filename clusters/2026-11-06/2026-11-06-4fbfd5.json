@@ -633,8 +633,16 @@
       "published": "2026-11-15T06:00:06Z",
       "title": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
       "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare"
+    },
+    {
+      "item_id": "1ffad99369471f4e5e39051a009baacda14d40f9",
+      "lede": "After a shocking downfall, Nvidia\u2019s CEO is out of a job. WIRED\u2019s Lauren Goode explains what that means for the world\u2019s most critical chip company, the AI industry, and Jensen Huang himself.",
+      "outlet": "wired",
+      "published": "2026-11-16T16:12:51Z",
+      "title": "Jensen Huang Is Gone. Now What?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/"
     }
   ],
   "status": "analyzed",
-  "version": 11
+  "version": 12
 }
