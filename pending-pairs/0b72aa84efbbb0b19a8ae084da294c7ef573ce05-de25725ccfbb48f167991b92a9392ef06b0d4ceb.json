@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05",
+    "lede": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-17T14:25:45Z",
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo"
+  },
+  "b": {
+    "item_id": "de25725ccfbb48f167991b92a9392ef06b0d4ceb",
+    "lede": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers around the world.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T21:50:00Z",
+    "title": "New US rules aim to restrict Chinese firms\u2019 remote access to AI servers and infrastructure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls"
+  },
+  "score": 0.674242
+}

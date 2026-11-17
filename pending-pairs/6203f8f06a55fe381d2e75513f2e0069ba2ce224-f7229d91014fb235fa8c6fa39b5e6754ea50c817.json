@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6203f8f06a55fe381d2e75513f2e0069ba2ce224",
+    "lede": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
+    "outlet": "wired",
+    "published": "2026-11-17T11:00:00Z",
+    "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.613751
+}

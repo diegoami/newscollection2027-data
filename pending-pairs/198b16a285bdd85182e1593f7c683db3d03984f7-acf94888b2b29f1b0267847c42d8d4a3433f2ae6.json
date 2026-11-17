@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "198b16a285bdd85182e1593f7c683db3d03984f7",
+    "lede": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-16T01:47:57Z",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+  },
+  "b": {
+    "item_id": "acf94888b2b29f1b0267847c42d8d4a3433f2ae6",
+    "lede": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-17T11:17:32Z",
+    "title": "US government confirms investigation into tech firm Megaspeed",
+    "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o"
+  },
+  "score": 0.610717
+}

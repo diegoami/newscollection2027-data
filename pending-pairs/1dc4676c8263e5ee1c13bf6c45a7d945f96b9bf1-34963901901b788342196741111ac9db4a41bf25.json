@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dc4676c8263e5ee1c13bf6c45a7d945f96b9bf1",
+    "lede": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T11:19:51Z",
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/"
+  },
+  "b": {
+    "item_id": "34963901901b788342196741111ac9db4a41bf25",
+    "lede": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T16:08:03Z",
+    "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+    "url": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/"
+  },
+  "score": 0.827102
+}

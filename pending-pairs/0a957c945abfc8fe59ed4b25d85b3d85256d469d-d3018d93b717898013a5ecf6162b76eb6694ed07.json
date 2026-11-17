@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0a957c945abfc8fe59ed4b25d85b3d85256d469d",
+    "lede": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
+    "outlet": "theregister",
+    "published": "2026-11-16T17:03:00Z",
+    "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+    "url": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122"
+  },
+  "b": {
+    "item_id": "d3018d93b717898013a5ecf6162b76eb6694ed07",
+    "lede": "570 bogus accounts, one rewritten welcome email, and a fake YouTube page, but CEO says no breach",
+    "outlet": "theregister",
+    "published": "2026-11-16T17:03:00Z",
+    "title": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
+    "url": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122"
+  },
+  "score": 0.999774
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "43415dbe0ed950913d04dbf200593ec9b2f4f428",
+    "lede": "BBC, Zoom, HSBC, and GitLab among those caught up in supply chain attack targeting visitors' crypto wallets, credit cards, and iPhones",
+    "outlet": "theregister",
+    "published": "2026-11-17T14:00:00Z",
+    "title": "Optimizely hack turns world's biggest websites into malware dispensers",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448"
+  },
+  "b": {
+    "item_id": "50204565d4ff3ec594527116d00c72641b361c95",
+    "lede": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T02:12:17Z",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+  },
+  "score": 0.726928
+}

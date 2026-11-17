@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10c5b3de5ba9e43ebbf1c799a220d726e97da8a7",
+    "lede": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity Microsoft has identified the root causes of the global outage that crippled Outlook, Exchange and a host of other vital office software last week. The office software giant issued an initial report on Monday that identified three factors that led to the 24-hour blackout",
+    "outlet": "theguardian",
+    "published": "2026-11-16T20:54:40Z",
+    "title": "Microsoft identifies months-old bug as a root cause of global outage",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
+  },
+  "b": {
+    "item_id": "18b00fe2b40c75f5775251690dd3cb31f76bbebd",
+    "lede": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T16:43:24Z",
+    "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
+  },
+  "score": 0.610206
+}

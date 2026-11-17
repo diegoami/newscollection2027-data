@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1876ce8bb4f476705585c2e4e32e0dd4f53ba278",
+    "lede": "The company says a bad update\u2014not a cyberattack or AI\u2014caused its servers around the world to crash.",
+    "outlet": "wired",
+    "published": "2026-11-13T19:08:57Z",
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+  },
+  "b": {
+    "item_id": "8a7d08d3e2055bbf6ef8f1fa37170cda0bba55d3",
+    "lede": "Microsoft has revealed more information on what knocked Teams, Outlook and its other services offline for almost a day.",
+    "outlet": "engadget",
+    "published": "2026-11-17T12:57:51Z",
+    "title": "Microsoft reveals that an old bug caused the massive outage that took its services offline",
+    "url": "https://www.engadget.com/2318906/microsoft-reveals-that-an-old-bug-caused-the-massive-outage-that-took-its-services-offline/"
+  },
+  "score": 0.571497
+}

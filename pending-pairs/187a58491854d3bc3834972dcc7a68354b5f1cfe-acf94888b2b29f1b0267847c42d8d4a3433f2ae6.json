@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "187a58491854d3bc3834972dcc7a68354b5f1cfe",
+    "lede": "Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over suspicious purchases of 917 AI servers.",
+    "outlet": "tomshardware",
+    "published": "2026-11-13T16:15:28Z",
+    "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus"
+  },
+  "b": {
+    "item_id": "acf94888b2b29f1b0267847c42d8d4a3433f2ae6",
+    "lede": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-17T11:17:32Z",
+    "title": "US government confirms investigation into tech firm Megaspeed",
+    "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o"
+  },
+  "score": 0.597826
+}

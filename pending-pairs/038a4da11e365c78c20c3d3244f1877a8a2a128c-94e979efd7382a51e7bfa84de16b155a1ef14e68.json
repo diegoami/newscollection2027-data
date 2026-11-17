@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "038a4da11e365c78c20c3d3244f1877a8a2a128c",
+    "lede": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 TWh of electricity in a year.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T10:30:00Z",
+    "title": "403 hyperscale US data centers used staggering 82 terawatts of electricity in a year, more than 80% of Michigan\u2019s entire consumption",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates"
+  },
+  "b": {
+    "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68",
+    "lede": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:27:58Z",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+  },
+  "score": 0.69491
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10c5b3de5ba9e43ebbf1c799a220d726e97da8a7",
+    "lede": "Report identifies three factors that led to blackout: a bug, malfunctioning internal connections and server capacity Microsoft has identified the root causes of the global outage that crippled Outlook, Exchange and a host of other vital office software last week. The office software giant issued an initial report on Monday that identified three factors that led to the 24-hour blackout",
+    "outlet": "theguardian",
+    "published": "2026-11-16T20:54:40Z",
+    "title": "Microsoft identifies months-old bug as a root cause of global outage",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
+  },
+  "b": {
+    "item_id": "1fc9fc939d30aff287a8650a61e5b0beffef4176",
+    "lede": "One think tank\u2019s estimate puts the cost of the outage at $7 billion.",
+    "outlet": "zdnet",
+    "published": "2026-11-13T21:43:32Z",
+    "title": "Microsoft doesn\u2019t \u2018have an ETA for full recovery\u2019 on outage yet",
+    "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/"
+  },
+  "score": 0.571383
+}

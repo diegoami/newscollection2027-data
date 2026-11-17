@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01a55254756a0ec1ecbd884fbc82b81cd7748c95",
+    "lede": "AMD is touting the benefits of the native FP64 support provided by its MI430X accelerator at Supercomputing 2026. The company says that Ozaki FP64 emulation only covers the needs of a small portion of HPC workloads, making the MI430X a unique foundation for next-gen supercomputing installations.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T14:30:00Z",
+    "title": "AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X \u2014 says Ozaki schemes fit less than 10% of HPC workloads and triple memory use and emulated FP64 is a poor fit for many HPC workloads",
+    "url": "https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads"
+  },
+  "b": {
+    "item_id": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7",
+    "lede": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T19:05:24Z",
+    "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
+  },
+  "score": 0.613667
+}

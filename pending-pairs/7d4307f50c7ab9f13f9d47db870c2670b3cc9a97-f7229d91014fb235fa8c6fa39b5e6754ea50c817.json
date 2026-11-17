@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d4307f50c7ab9f13f9d47db870c2670b3cc9a97",
+    "lede": "The lawsuit stems from an earlier incident where the tech company\u2019s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public\u2019s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents \u2013 semi-autonomous AI software that can carry out",
+    "outlet": "theguardian",
+    "published": "2026-11-16T21:41:10Z",
+    "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.691118
+}
