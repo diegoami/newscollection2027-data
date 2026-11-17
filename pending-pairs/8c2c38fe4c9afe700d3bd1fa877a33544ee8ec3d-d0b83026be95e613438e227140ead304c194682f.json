@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8c2c38fe4c9afe700d3bd1fa877a33544ee8ec3d",
+    "lede": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "outlet": "bbc-technology",
+    "published": "2026-11-16T23:12:24Z",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo"
+  },
+  "b": {
+    "item_id": "d0b83026be95e613438e227140ead304c194682f",
+    "lede": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:46:01Z",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  "score": 0.66167
+}

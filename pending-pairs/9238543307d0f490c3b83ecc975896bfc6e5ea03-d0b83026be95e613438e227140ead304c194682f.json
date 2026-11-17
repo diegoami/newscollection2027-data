@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9238543307d0f490c3b83ecc975896bfc6e5ea03",
+    "lede": "A-G cites Hugging Face incident as example of why industry must be accountable",
+    "outlet": "theregister",
+    "published": "2026-11-16T23:43:17Z",
+    "title": "California sues OpenAI for misleading public about AI safety",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297"
+  },
+  "b": {
+    "item_id": "d0b83026be95e613438e227140ead304c194682f",
+    "lede": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:46:01Z",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  "score": 0.673256
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "de25725ccfbb48f167991b92a9392ef06b0d4ceb",
+    "lede": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers around the world.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T21:50:00Z",
+    "title": "New US rules aim to restrict Chinese firms\u2019 remote access to AI servers and infrastructure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls"
+  },
+  "b": {
+    "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9",
+    "lede": "Trump bets China won\u2019t mind US blocking remote access to AI chips.",
+    "outlet": "arstechnica",
+    "published": "2026-11-16T19:10:09Z",
+    "title": "US moves to cut China\u2019s remote access to AI chips",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  "score": 0.607468
+}

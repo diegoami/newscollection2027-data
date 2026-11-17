@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7",
+    "lede": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T19:05:24Z",
+    "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
+  },
+  "b": {
+    "item_id": "edeaa98d177d968de353d74e769bf1b0571a607b",
+    "lede": "The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T22:17:02Z",
+    "title": "China retains fastest supercomputer in the world crown as AI data centers soak up new hardware",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years"
+  },
+  "score": 0.580177
+}

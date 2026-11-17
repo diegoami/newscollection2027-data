@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1365ce44c412c161d2cc54d6f3417cb72973cd5e",
+    "lede": "In the age of AI, the top spot on the bi-annual ranking is whoever willing to run HPL instead of LLMs",
+    "outlet": "theregister",
+    "published": "2026-11-16T19:00:00Z",
+    "title": "China\u2019s grip on Top500 remains uncontested as US chases AI-HPC fusion",
+    "url": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205"
+  },
+  "b": {
+    "item_id": "ca41c6ce4b1248919f76a9ad385d242039a2a719",
+    "lede": "The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn't think the HPC world is moving away from those complex calculations in the wake of AI.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T21:30:00Z",
+    "title": "Researchers \u2018recognize that AI will never replace HPC,\u2019 says AMD executive \u2014 high-precision workloads will \u2018exist for a very long time\u2019 even as AI usage expands",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands"
+  },
+  "score": 0.586223
+}

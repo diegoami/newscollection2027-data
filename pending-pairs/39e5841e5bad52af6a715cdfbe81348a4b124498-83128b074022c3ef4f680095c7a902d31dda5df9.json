@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "39e5841e5bad52af6a715cdfbe81348a4b124498",
+    "lede": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+    "outlet": "engadget",
+    "published": "2026-11-16T22:38:43Z",
+    "title": "United Airlines has fixed issue that caused 'widespread system outage'",
+    "url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/"
+  },
+  "b": {
+    "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+    "lede": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+    "outlet": "wired",
+    "published": "2026-11-13T21:42:57Z",
+    "title": "FAA Grounds All US Flights Until Further Notice",
+    "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/"
+  },
+  "score": 0.621779
+}

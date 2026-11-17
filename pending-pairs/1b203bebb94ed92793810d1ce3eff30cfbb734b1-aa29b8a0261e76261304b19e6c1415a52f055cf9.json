@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b203bebb94ed92793810d1ce3eff30cfbb734b1",
+    "lede": "You won't need to wait for TouchID on your $2,000 foldable.",
+    "outlet": "engadget",
+    "published": "2026-11-16T21:17:24Z",
+    "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+    "url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/"
+  },
+  "b": {
+    "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9",
+    "lede": "Originally launching only with Touch ID, Apple\u2019s folding phone now borrows a feature from the new HomeView and can recognize your mug, but it\u2019s likely not as secure as Face ID.",
+    "outlet": "wired",
+    "published": "2026-11-16T18:26:26Z",
+    "title": "The iPhone Duo Is Getting a Limited Version of Face ID",
+    "url": "https://www.wired.com/story/iphone-duo-is-getting-a-limited-version-of-face-id/"
+  },
+  "score": 0.686308
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "39e5841e5bad52af6a715cdfbe81348a4b124498",
+    "lede": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+    "outlet": "engadget",
+    "published": "2026-11-16T22:38:43Z",
+    "title": "United Airlines has fixed issue that caused 'widespread system outage'",
+    "url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/"
+  },
+  "b": {
+    "item_id": "bcbd633b42833bc9ba461e513da5d54309e5d964",
+    "lede": "Microsoft reports it is seeing some \u2018positive results\u2019 in its efforts to get its services back online for millions of customers around the world. Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential services that remain",
+    "outlet": "theguardian",
+    "published": "2026-11-13T13:22:49Z",
+    "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
+    "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+  },
+  "score": 0.607666
+}

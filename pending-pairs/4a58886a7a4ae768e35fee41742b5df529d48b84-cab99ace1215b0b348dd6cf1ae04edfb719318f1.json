@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4a58886a7a4ae768e35fee41742b5df529d48b84",
+    "lede": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+    "outlet": "wired",
+    "published": "2026-11-14T01:46:40Z",
+    "title": "The FAA Nationwide Ground Stop Is Over",
+    "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/"
+  },
+  "b": {
+    "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+    "lede": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T22:54:59Z",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  "score": 0.635785
+}

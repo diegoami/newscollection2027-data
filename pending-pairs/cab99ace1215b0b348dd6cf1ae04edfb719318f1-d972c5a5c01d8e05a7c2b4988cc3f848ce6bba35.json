@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+    "lede": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T22:54:59Z",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  "b": {
+    "item_id": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
+    "lede": "Safety reasons and unspecified communications issue cited",
+    "outlet": "theregister",
+    "published": "2026-11-13T22:42:28Z",
+    "title": "FAA lifts ground stop after hours-long delays snag travelers",
+    "url": "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912"
+  },
+  "score": 0.621065
+}

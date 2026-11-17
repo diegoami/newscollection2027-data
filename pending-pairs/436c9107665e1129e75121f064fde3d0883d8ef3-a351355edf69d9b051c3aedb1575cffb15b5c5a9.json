@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "436c9107665e1129e75121f064fde3d0883d8ef3",
+    "lede": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T22:12:31Z",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access \u2018company information\u2019",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+  },
+  "b": {
+    "item_id": "a351355edf69d9b051c3aedb1575cffb15b5c5a9",
+    "lede": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T14:57:55Z",
+    "title": "Uber confirms hackers stole thousands of drivers\u2019 license information in data breach",
+    "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+  },
+  "score": 0.586106
+}

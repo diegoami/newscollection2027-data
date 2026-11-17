@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9238543307d0f490c3b83ecc975896bfc6e5ea03",
+    "lede": "A-G cites Hugging Face incident as example of why industry must be accountable",
+    "outlet": "theregister",
+    "published": "2026-11-16T23:43:17Z",
+    "title": "California sues OpenAI for misleading public about AI safety",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297"
+  },
+  "b": {
+    "item_id": "b16b5f3f20484c9207ef43211dcd6874e4daa337",
+    "lede": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T20:07:13Z",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+  },
+  "score": 0.586252
+}

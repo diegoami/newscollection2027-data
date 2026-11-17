@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "436c9107665e1129e75121f064fde3d0883d8ef3",
+    "lede": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T22:12:31Z",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access \u2018company information\u2019",
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+  },
+  "b": {
+    "item_id": "f66e964ba9d367ad77193a099947754f0e79d9cc",
+    "lede": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T19:57:13Z",
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+  },
+  "score": 0.576845
+}

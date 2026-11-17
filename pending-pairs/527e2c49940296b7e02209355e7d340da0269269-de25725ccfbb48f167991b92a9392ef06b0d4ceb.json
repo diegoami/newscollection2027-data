@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "527e2c49940296b7e02209355e7d340da0269269",
+    "lede": "'Know Your Customer's Workload' requirements imposed on cloud operators across Asia, Brazil",
+    "outlet": "theregister",
+    "published": "2026-11-17T00:55:39Z",
+    "title": "US extends chip sale restrictions to more Asian countries to reduce risk of \u2018diversion\u2019 to China",
+    "url": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307"
+  },
+  "b": {
+    "item_id": "de25725ccfbb48f167991b92a9392ef06b0d4ceb",
+    "lede": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers around the world.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T21:50:00Z",
+    "title": "New US rules aim to restrict Chinese firms\u2019 remote access to AI servers and infrastructure",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls"
+  },
+  "score": 0.602438
+}

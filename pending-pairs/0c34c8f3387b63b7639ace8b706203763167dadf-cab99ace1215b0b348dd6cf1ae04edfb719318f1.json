@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf",
+    "lede": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+    "outlet": "techcrunch",
+    "published": "2026-11-13T21:44:38Z",
+    "title": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019",
+    "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
+  },
+  "b": {
+    "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+    "lede": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T22:54:59Z",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  "score": 0.701299
+}

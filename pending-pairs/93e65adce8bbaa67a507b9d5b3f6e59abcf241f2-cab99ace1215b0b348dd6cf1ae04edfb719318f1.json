@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+    "lede": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop.",
+    "outlet": "tomshardware",
+    "published": "2026-11-15T13:42:51Z",
+    "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+    "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging"
+  },
+  "b": {
+    "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+    "lede": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T22:54:59Z",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  "score": 0.59087
+}
