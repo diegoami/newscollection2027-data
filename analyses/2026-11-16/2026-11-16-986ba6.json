@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-16-986ba6",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:42:00Z",
+  "headline": "Palantir's NHS England contract to run until 2029 before ending",
+  "summary": "UK ministers decided Palantir's NHS England data contract will continue until 2029, to give time to line up British replacement suppliers, despite calls from some Labour MPs to end the arrangement sooner. Critics said the extension gives the US supplier more time to entrench itself, while the government framed the move as ending, rather than renewing, the contract.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ministers decided Palantir's NHS England contract will not end until 2029, to allow time to line up British replacements.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "6ed8ff198f2a8708a5d6641997ad3873d70a49fe", "quote": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Critics warned the extension gives the US supplier more time to entrench itself.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "088ceeaac8bcfcc44c56ec25980f5a6a8a896506", "quote": "Ministers promise fresh procurement, but critics warn extension gives US supplier more time to dig in"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Despite calls from some Labour MPs to end the arrangement, ministers say a new contract will not be awarded until 2029.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "d3447927e6ad3dcdada4e8180560ec22caee5d74", "quote": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "One outlet frames the decision as Palantir winning a further two-year extension, while another frames it as ministers formally ending the contract, albeit only from 2029.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "088ceeaac8bcfcc44c56ec25980f5a6a8a896506", "quote": "MPs ask what the break clause was for as Palantir wins two more years in the NHS"},
+        {"outlet": "theguardian", "item_id": "6ed8ff198f2a8708a5d6641997ad3873d70a49fe", "quote": "Ministers to end Palantir’s contract with NHS in England in 2029"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

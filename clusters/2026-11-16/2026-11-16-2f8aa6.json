@@ -1,0 +1,24 @@
+{
+  "anchor": "a59dd1871e2ff467ab262761849d8835168d2752",
+  "id": "2026-11-16-2f8aa6",
+  "items": [
+    {
+      "item_id": "a59dd1871e2ff467ab262761849d8835168d2752",
+      "lede": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "outlet": "techcrunch",
+      "published": "2026-11-16T21:01:02Z",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+    },
+    {
+      "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+      "lede": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+      "outlet": "engadget",
+      "published": "2026-11-17T06:22:11Z",
+      "title": "Apple adds new disk controls to prevent AI agents from running amok",
+      "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

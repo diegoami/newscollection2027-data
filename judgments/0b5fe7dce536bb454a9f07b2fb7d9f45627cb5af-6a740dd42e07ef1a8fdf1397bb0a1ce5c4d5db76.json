@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af",
+  "item_id_b": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af-6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "reason": "Altman's comment on the industry without Huang is a separate story from the board's refusal",
+  "same_story": false
+}

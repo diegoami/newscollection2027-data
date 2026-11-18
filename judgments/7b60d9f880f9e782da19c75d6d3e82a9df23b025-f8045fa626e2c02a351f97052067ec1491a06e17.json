@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7b60d9f880f9e782da19c75d6d3e82a9df23b025-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "the board chair recap and Nvidia's refusal to reappoint Huang are one story",
+  "same_story": true
+}

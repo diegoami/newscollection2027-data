@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "item_id_b": "d2f90fb918d969fea2700eeb179e551b04192fab",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-d2f90fb918d969fea2700eeb179e551b04192fab",
+  "reason": "both concern Huang's stated wish to return as CEO, statement and reaction to it",
+  "same_story": true
+}

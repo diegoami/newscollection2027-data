@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-17-d2fac3",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:53:00Z",
+  "headline": "Uber and Zipline launch drone deliveries in Texas",
+  "summary": "Uber Eats officially launched drone delivery in partnership with Zipline, starting in the Houston suburb of Spring, Texas, with Dallas next and dozens more US cities planned. The companies aim to reach one million drone deliveries a day by the end of 2029.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Uber Eats started drone deliveries in Texas.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "27e78938f15cc2f182f9e93181d9d38450ba7246", "quote": "Uber Eats starts drone deliveries in Texas"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Uber Eats officially launched drone delivery with Zipline, starting in Spring, Texas, near Houston, with Dallas and dozens more cities to follow.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "b904315f11002d2e6ec2d56ea62d7295c10bd523", "quote": "Uber Eats is officially launching drone delivery in partnership with Zipline starting Tuesday. The initial rollout begins in the Houston suburb of Spring, Texas, with Dallas next in line and dozens of additional US cities planned."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Uber and Zipline aim to reach one million drone deliveries per day by the end of 2029.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "27e78938f15cc2f182f9e93181d9d38450ba7246", "quote": "Uber hopes to hit 1 million daily drone deliveries by 2029."},
+        {"outlet": "techcrunch", "item_id": "5a12ee8825b732b30740e09f77d930e0d9dd1b22", "quote": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

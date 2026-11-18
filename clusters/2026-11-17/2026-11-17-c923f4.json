@@ -1,0 +1,24 @@
+{
+  "anchor": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "id": "2026-11-17-c923f4",
+  "items": [
+    {
+      "item_id": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+      "lede": "Former Nvidia CEO Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2. The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer who is also believed to be a Chinese spy.",
+      "outlet": "tomshardware",
+      "published": "2026-11-17T15:50:51Z",
+      "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear"
+    },
+    {
+      "item_id": "574f499b55a7cf429f02bdbc09e017581d9c8954",
+      "lede": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia\u2019s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia\u2019s general counsel, has also agreed to",
+      "outlet": "theguardian",
+      "published": "2026-11-17T17:58:05Z",
+      "title": "Jensen Huang to testify before Congress on \u2018potential breach of national security\u2019",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

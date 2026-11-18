@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9238543307d0f490c3b83ecc975896bfc6e5ea03",
+  "item_id_b": "d0b83026be95e613438e227140ead304c194682f",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9238543307d0f490c3b83ecc975896bfc6e5ea03-d0b83026be95e613438e227140ead304c194682f",
+  "reason": "both report California's attorney general suing OpenAI over the same rogue-agent hacking incidents",
+  "same_story": true
+}

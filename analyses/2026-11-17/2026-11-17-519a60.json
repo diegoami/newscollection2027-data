@@ -1,0 +1,41 @@
+{
+  "cluster_id": "2026-11-17-519a60",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:51:00Z",
+  "headline": "Nvidia creates board committee on national security and exports",
+  "summary": "Nvidia's board established a new standing committee to oversee national security policy, export control compliance and global trade risks, following the Jensen Huang scandal and allegations that Nvidia GPUs were diverted to China. The company said the group aims to avoid a repeat of the issues that led to Huang's departure.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nvidia's board established a National Security and Export Control Oversight Committee in the wake of the Jensen Huang scandal.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "5b2442ff172e2cc31283403e9a9370ecddb1c07c", "quote": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The group will oversee national security concerns and global trade compliance to avoid a repeat of the scandal.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "5b2442ff172e2cc31283403e9a9370ecddb1c07c", "quote": "This group will oversee the company's national security concerns and global trade compliance to avoid a repeat of Jensen's scandals."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new standing committee gives board-level oversight of national security policy, export control compliance and global trade risks.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "1632fb5fec801cff1c50d067bb41be8a5da9c144", "quote": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The committee will oversee export compliance following allegations that Nvidia's GPUs were diverted to China.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "fbf34c50ae867b38bfefc87b22c9c2d6dda28425", "quote": "Standing committee will oversee export compliance following allegations its GPUs were diverted to China"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "acf94888b2b29f1b0267847c42d8d4a3433f2ae6",
+  "id": "2026-11-17-36613e",
+  "items": [
+    {
+      "item_id": "acf94888b2b29f1b0267847c42d8d4a3433f2ae6",
+      "lede": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-17T11:17:32Z",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o"
+    },
+    {
+      "item_id": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+      "lede": "The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hardware. The company was previously run by the woman officials have accused of being a Chinese spy while having an affair with Jensen Huang while he was Nvidia CEO.",
+      "outlet": "tomshardware",
+      "published": "2026-11-17T13:30:00Z",
+      "title": "US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

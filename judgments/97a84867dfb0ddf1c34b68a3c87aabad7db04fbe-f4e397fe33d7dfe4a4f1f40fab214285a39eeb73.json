@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "reason": "the open letter calling for reinstatement and the criminal probe into Megaspeed are different developments",
+  "same_story": false
+}

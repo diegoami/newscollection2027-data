@@ -1,0 +1,40 @@
+{
+  "anchor": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+  "id": "2026-11-17-cebaca",
+  "items": [
+    {
+      "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+      "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "outlet": "arstechnica",
+      "published": "2026-11-17T16:50:10Z",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+    },
+    {
+      "item_id": "3cd1140f446ec5dd5ab968aad8e49287631e6d6e",
+      "lede": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
+      "outlet": "theregister",
+      "published": "2026-11-17T17:00:00Z",
+      "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517"
+    },
+    {
+      "item_id": "6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+      "lede": "You\u2019ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google\u2019s AI.",
+      "outlet": "zdnet",
+      "published": "2026-11-17T18:01:38Z",
+      "title": "Google is making it easier to opt out of Gemini AI model training \u2013 here\u2019s how",
+      "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/"
+    },
+    {
+      "item_id": "560e703561a25cd9d0c971fce416fe23e434cbe4",
+      "lede": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "outlet": "techcrunch",
+      "published": "2026-11-17T18:48:23Z",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

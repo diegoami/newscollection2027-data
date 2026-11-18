@@ -1,35 +1,46 @@
 {
   "cluster_id": "2026-11-16-23453b",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:22:32Z",
-  "headline": "Apple tests limited face unlock for iPhone Duo via camera",
-  "summary": "Apple is testing a software-based face-unlock feature for the current iPhone Duo in the iOS 27.3 beta, using the front camera rather than dedicated Face ID hardware, which outlets note falls short of true Face ID security. Separately, leaked prototypes suggest the next-generation Duo 2 could gain full Face ID and other features by 2027.",
+  "generated_at": "2026-11-18T02:39:00Z",
+  "headline": "iPhone Duo gains limited face unlock in iOS 27.3 beta",
+  "summary": "Apple is adding a limited face-unlock feature to the iPhone Duo through the iOS 27.3 beta, without new hardware; it is described as recognizing faces but less secure than Face ID. Until now the foldable could only be unlocked with Touch ID or a passcode. Separately, leaked iPhone Duo 2 prototypes suggest future FaceID and Action Button features, some of which may not arrive until a third generation.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Apple is testing a face-unlock feature for the current iPhone Duo using the front camera in the iOS 27.3 beta.",
+      "statement": "Apple is adding a limited face-unlock feature to the iPhone Duo without new hardware.",
       "sources": [
-        {"outlet": "wired", "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9", "quote": "can recognize your mug, but it’s likely not as secure as Face ID"},
-        {"outlet": "theverge", "item_id": "2c71ce6bc9f80c25fa9568f747be9f901ec76c39", "quote": "working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today"},
-        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo"}
+        {"outlet": "theverge", "item_id": "2c71ce6bc9f80c25fa9568f747be9f901ec76c39", "quote": "Apple is adding face unlock to the iPhone Duo — without new hardware"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Outlets note the new feature is not true Face ID.",
+      "statement": "The feature is being tested in the iOS 27.3 developer beta.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"},
-        {"outlet": "wired", "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9", "quote": "it’s likely not as secure as Face ID"}
+        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."}
       ]
     },
     {
       "id": "c3",
-      "statement": "Separately, leaked prototypes suggest the next-generation iPhone Duo 2 may get true Face ID and other features in 2027.",
+      "statement": "The new feature is a limited version and is likely not as secure as Face ID.",
       "sources": [
-        {"outlet": "zdnet", "item_id": "63e6891010a204b953661a98390a981855b7a27e", "quote": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features"},
-        {"outlet": "zdnet", "item_id": "63e6891010a204b953661a98390a981855b7a27e", "quote": "it’s unclear which of several feature upgrades may have to wait until the foldable’s third generation"}
+        {"outlet": "wired", "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9", "quote": "it’s likely not as secure as Face ID"},
+        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Until now, the only way to unlock the iPhone Duo was Touch ID or a passcode.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "2c71ce6bc9f80c25fa9568f747be9f901ec76c39", "quote": "Currently, the only way to unlock the iPhone Duo is by using Touch ID or entering a passcode"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Separately, leaked iPhone Duo 2 prototypes suggest possible future features such as FaceID and an Action Button.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "63e6891010a204b953661a98390a981855b7a27e", "quote": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features"}
       ]
     }
   ],
@@ -37,11 +48,11 @@
     {
       "kind": "omission",
       "severity": "low",
-      "claim_ids": ["c3", "c2"],
-      "explanation": "zdnet's report concerns Face ID possibly arriving on the next-generation iPhone Duo 2 in 2027, a different product generation from the current-model face unlock the other outlets describe.",
+      "claim_ids": ["c2", "c5"],
+      "explanation": "Most outlets report the face-unlock feature is already in testing now for the current iPhone Duo, while one report discusses similar features as potentially arriving only with a future generation.",
       "quotes": [
-        {"outlet": "zdnet", "item_id": "63e6891010a204b953661a98390a981855b7a27e", "quote": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features"},
-        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID"}
+        {"outlet": "techcrunch", "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398", "quote": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."},
+        {"outlet": "zdnet", "item_id": "63e6891010a204b953661a98390a981855b7a27e", "quote": "With manufacturing deadlines looming, it’s unclear which of several feature upgrades may have to wait until the foldable’s third generation."}
       ]
     }
   ],

@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-17-cc9255",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:47:00Z",
+  "headline": "Optimizely supply-chain hack spreads malware to major websites",
+  "summary": "A suspected supply-chain attack on web-personalization vendor Optimizely loaded malicious JavaScript on numerous major websites, including CNN, Fox News, BBC, Zoom, Salesforce, GitLab and HSBC, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit iOS vulnerabilities.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A suspected supply-chain attack on Optimizely loaded malicious JavaScript on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce and GitLab.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "50204565d4ff3ec594527116d00c72641b361c95", "quote": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The scripts were designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "50204565d4ff3ec594527116d00c72641b361c95", "quote": "exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "HSBC was also among the sites caught up in the attack, which targeted visitors' crypto wallets, credit cards and iPhones.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "43415dbe0ed950913d04dbf200593ec9b2f4f428", "quote": "BBC, Zoom, HSBC, and GitLab among those caught up in supply chain attack targeting visitors' crypto wallets, credit cards, and iPhones"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

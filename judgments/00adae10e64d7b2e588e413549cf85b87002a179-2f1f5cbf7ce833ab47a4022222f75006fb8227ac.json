@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+  "item_id_b": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+  "reason": "the board's refusal and the Stepback newsletter roundup of rumors are not the same report",
+  "same_story": false
+}

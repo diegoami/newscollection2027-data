@@ -1,40 +1,31 @@
 {
   "cluster_id": "2026-11-16-02aff7",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:20:20Z",
-  "headline": "GTA 6 hacker pleads guilty to Rockstar breach",
-  "summary": "Arion Kurtaj, 21, pleaded guilty to hacking Rockstar Games and leaking GTA 6 footage, a breach he carried out as a teenager in 2022.",
+  "generated_at": "2026-11-18T02:35:00Z",
+  "headline": "GTA VI hacker Arion Kurtaj pleads guilty to Rockstar breach",
+  "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group, pleaded guilty to hacking Rockstar Games and leaking Grand Theft Auto VI gameplay footage in 2022. He also hacked other companies, including BT/EE. Kurtaj, now 21, was earlier deemed fit to stand trial after the breach.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Arion Kurtaj pleaded guilty to hacking Rockstar Games and leaking GTA 6 gameplay footage.",
-      "sources": [
-        {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "pleaded guilty to the Rockstar Games hack and others"},
-        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage"}
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "Kurtaj is 21 years old and carried out the hacks as a teenager.",
+      "statement": "Arion Kurtaj pleaded guilty to the Rockstar Games hack and other hacks he carried out as a teenager.",
       "sources": [
         {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."}
       ]
     },
     {
-      "id": "c3",
-      "statement": "Kurtaj breached Rockstar's systems in 2022.",
+      "id": "c2",
+      "statement": "Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022.",
       "sources": [
-        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "breaching Rockstar's systems in 2022"}
+        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "Arion Kurtaj was deemed fit to stand trial earlier this year after breaching Rockstar's systems in 2022"}
       ]
     },
     {
-      "id": "c4",
-      "statement": "Kurtaj was deemed fit to stand trial earlier this year and has since been released from a secure hospital.",
+      "id": "c3",
+      "statement": "Kurtaj, a member of the Lapsus$ cybercrime group, leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other companies.",
       "sources": [
-        {"outlet": "bbc-technology", "item_id": "9255e5d8b08b8cc20729625601347aef0ea51d10", "quote": "after release from secure hospital"},
-        {"outlet": "engadget", "item_id": "9ebe2306875650f52b7c4326f5c16ded819c7abc", "quote": "Arion Kurtaj was deemed fit to stand trial earlier this year"}
+        {"outlet": "theverge", "item_id": "ad0107f66629afcd71b0b33ccf6376f3d79a76a1", "quote": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS)."}
       ]
     }
   ],

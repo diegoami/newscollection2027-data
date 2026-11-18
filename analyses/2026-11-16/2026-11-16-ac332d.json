@@ -1,0 +1,41 @@
+{
+  "cluster_id": "2026-11-16-ac332d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:44:00Z",
+  "headline": "United Airlines outage disrupts departures, company says it's fixed",
+  "summary": "United Airlines suffered a widespread system outage that disrupted departing flights, coming less than a week after a separate nationwide FAA ground stop caused by an air traffic control communications and radar issue. United said at 6:13pm ET that the technology-related problem affecting departures had been fixed.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "United Airlines said it fixed the issue that caused a widespread system outage.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "39e5841e5bad52af6a715cdfbe81348a4b124498", "quote": "United Airlines has fixed issue that caused 'widespread system outage'"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The outage came just days after a nationwide ground stop halted thousands of flights.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "39e5841e5bad52af6a715cdfbe81348a4b124498", "quote": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The earlier ground stop was caused by an issue with air traffic control communications and radar.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1", "quote": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "United said at 6:13pm ET that the technology-related problem had been fixed.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1", "quote": "At 6:13PM ET, United said the problem has been fixed:"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

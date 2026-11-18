@@ -25,8 +25,24 @@
       "published": "2026-11-16T20:52:10Z",
       "title": "Hyperscale data centers use 2% of US electricity",
       "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+    },
+    {
+      "item_id": "038a4da11e365c78c20c3d3244f1877a8a2a128c",
+      "lede": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 TWh of electricity in a year.",
+      "outlet": "tomshardware",
+      "published": "2026-11-17T10:30:00Z",
+      "title": "403 hyperscale US data centers used staggering 82 terawatts of electricity in a year, more than 80% of Michigan\u2019s entire consumption",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates"
+    },
+    {
+      "item_id": "9db549367d396a5bd6a5acac4f4eca45083908a1",
+      "lede": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+      "outlet": "theregister",
+      "published": "2026-11-17T18:29:00Z",
+      "title": "America's hyperscale bit barns draw as much power as entire states",
+      "url": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

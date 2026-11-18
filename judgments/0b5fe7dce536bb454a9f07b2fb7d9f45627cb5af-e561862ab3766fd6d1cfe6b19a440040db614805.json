@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af",
+  "item_id_b": "e561862ab3766fd6d1cfe6b19a440040db614805",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af-e561862ab3766fd6d1cfe6b19a440040db614805",
+  "reason": "Altman's comment on the industry without Huang is a separate story from Huang's own statement",
+  "same_story": false
+}

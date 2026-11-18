@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "70a676dfa314e150e3bba688e3702ef96912c3f7-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "Huang's statement and Nvidia's refusal to reappoint him are one story",
+  "same_story": true
+}

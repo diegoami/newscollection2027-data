@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-17-029aae",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:54:00Z",
+  "headline": "Instagram launches content protection tool against copycat videos",
+  "summary": "Instagram began rolling out a 'content protection' feature that lets eligible creators automatically detect and review copies of their original videos posted elsewhere on the platform, alerting them to matches. The tool targets unauthorized reposts and AI-modified videos, likely responding to creators' concerns about content being copied and manipulated using generative AI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Instagram's new tool for creators targets unauthorized reposts and AI-modified videos.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6cb4d094922f9b1fda500146500c3b51cb60551a", "quote": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The move likely responds to creators' concerns about how easily content can be copied and redistributed, especially given generative AI.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "6cb4d094922f9b1fda500146500c3b51cb60551a", "quote": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Instagram is rolling out a 'content protection' feature that lets eligible creators automatically detect and review copies of their original videos.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "99d0991b3141f39bffa714f046fa9968608083b4", "quote": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

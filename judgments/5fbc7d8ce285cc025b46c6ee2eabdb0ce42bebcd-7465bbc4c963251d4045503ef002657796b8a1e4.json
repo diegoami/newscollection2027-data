@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "item_id_b": "7465bbc4c963251d4045503ef002657796b8a1e4",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-7465bbc4c963251d4045503ef002657796b8a1e4",
+  "reason": "the Q3 earnings piece reports the same board refusal to reinstate Huang as Huang's statement responds to",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1dff6dd6c93a2fcc7e2837f7756a860c6fe038c2",
+  "item_id_b": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1dff6dd6c93a2fcc7e2837f7756a860c6fe038c2-3c89973ca788a5a4f68b490af1e739ad6f5e2f9f",
+  "reason": "both report the same Fugaku supercomputer breach being taken offline after the attack",
+  "same_story": true
+}

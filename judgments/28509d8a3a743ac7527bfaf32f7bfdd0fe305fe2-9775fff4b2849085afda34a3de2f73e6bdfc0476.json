@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "Nvidia's China chip strategy shift is a separate story from Huang's own statement",
+  "same_story": false
+}

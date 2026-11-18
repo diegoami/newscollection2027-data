@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6e2564c29c662909b17247e8126b40f1a92f4ae7",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6e2564c29c662909b17247e8126b40f1a92f4ae7-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "the SEC probe and Huang's own statement are separate developments",
+  "same_story": false
+}

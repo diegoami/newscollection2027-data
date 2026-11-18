@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "a59424729711a810deeaa47646753880df5aff39",
+  "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "a59424729711a810deeaa47646753880df5aff39-b380dfe95e531269be955d7c80b2adee42e4e519",
+  "reason": "the tech leaders' plot theory and Trump's reinstatement call are the same reinstatement story",
+  "same_story": true
+}

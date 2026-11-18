@@ -1,25 +1,45 @@
 {
   "cluster_id": "2026-11-16-55c1e5",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:22:32Z",
-  "headline": "US tightens export rules to block China's remote AI chip access",
-  "summary": "The US issued an interim rule requiring export licenses for AI chip deals that could give China or other restricted countries remote access to compute, extending export controls beyond physical chip shipments.",
+  "generated_at": "2026-11-18T02:36:00Z",
+  "headline": "US tightens export rules on AI chips and remote compute access",
+  "summary": "The US issued a new interim rule tightening AI chip export controls, requiring licenses for firms whose chips could provide compute to China or other restricted countries. The rule targets remote-access workarounds, imposing 'Know Your Customer's Workload' requirements on cloud operators across more Asian countries and Brazil to prevent chip export restrictions from being bypassed.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The US now requires export licenses for AI chip arrangements that could let China or other restricted countries access compute remotely.",
+      "statement": "The new interim rule requires firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "43465bb556008cf4e2faa85ac55e2e0a43070a37", "quote": "require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries"},
-        {"outlet": "arstechnica", "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9", "quote": "US moves to cut China’s remote access to AI chips"}
+        {"outlet": "techcrunch", "item_id": "43465bb556008cf4e2faa85ac55e2e0a43070a37", "quote": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."}
       ]
     },
     {
       "id": "c2",
-      "statement": "The administration is betting China will not strongly object to the restriction.",
+      "statement": "The move aims to cut off China's remote access to AI chips.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9", "quote": "Trump bets China won’t mind US blocking remote access to AI chips."}
+        {"outlet": "arstechnica", "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9", "quote": "US moves to cut China’s remote access to AI chips"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Bureau of Industry and Security announced the interim final rule to stop export restrictions being bypassed by remote access to AI hardware in data centers worldwide.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "de25725ccfbb48f167991b92a9392ef06b0d4ceb", "quote": "The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers around the world."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The rule imposes 'Know Your Customer's Workload' requirements on cloud operators across more Asian countries and Brazil.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "527e2c49940296b7e02209355e7d340da0269269", "quote": "'Know Your Customer's Workload' requirements imposed on cloud operators across Asia, Brazil"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The new rules restrict both chip exports and access to their computing power, which China relies on heavily.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05", "quote": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily."}
       ]
     }
   ],

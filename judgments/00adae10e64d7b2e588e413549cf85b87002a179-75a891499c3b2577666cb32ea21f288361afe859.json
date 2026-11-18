@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+  "item_id_b": "75a891499c3b2577666cb32ea21f288361afe859",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-75a891499c3b2577666cb32ea21f288361afe859",
+  "reason": "an employee's resignation over transparency is a different story from the board's reinstatement refusal",
+  "same_story": false
+}

@@ -17,8 +17,16 @@
       "published": "2026-11-16T17:50:38Z",
       "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
       "url": "https://www.engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/"
+    },
+    {
+      "item_id": "ad0107f66629afcd71b0b33ccf6376f3d79a76a1",
+      "lede": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-16T23:35:58Z",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

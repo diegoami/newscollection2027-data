@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "64fdbf62780a2a633c77cb945450704b7ee0eb0c",
+  "item_id_b": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "64fdbf62780a2a633c77cb945450704b7ee0eb0c-cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+  "reason": "both report Apple's new daily usage limits for Siri AI features",
+  "same_story": true
+}

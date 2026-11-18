@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-17-36613e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:50:00Z",
+  "headline": "US probes Megaspeed over Nvidia AI chip exports to China",
+  "summary": "The US Justice and Commerce Departments confirmed a criminal investigation into Megaspeed, a Singapore-based company suspected of helping ship high-end Nvidia AI chips to China in violation of export rules. Megaspeed was previously run by the woman officials have accused of being a Chinese spy who had an affair with former Nvidia CEO Jensen Huang.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Singapore-based company Megaspeed is suspected of helping ship high-end Nvidia AI chips to China, violating US export rules.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "acf94888b2b29f1b0267847c42d8d4a3433f2ae6", "quote": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Justice and Commerce Departments announced an investigation into Megaspeed over possible illegal export of Nvidia's AI hardware.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73", "quote": "The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hardware."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Megaspeed was previously run by the woman officials have accused of being a Chinese spy who had an affair with Jensen Huang while he was Nvidia CEO.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73", "quote": "The company was previously run by the woman officials have accused of being a Chinese spy while having an affair with Jensen Huang while he was Nvidia CEO."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

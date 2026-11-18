@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "a59424729711a810deeaa47646753880df5aff39",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-a59424729711a810deeaa47646753880df5aff39",
+  "reason": "the plotting-return report and the tech leaders' plot theory are the same developing reinstatement story",
+  "same_story": true
+}

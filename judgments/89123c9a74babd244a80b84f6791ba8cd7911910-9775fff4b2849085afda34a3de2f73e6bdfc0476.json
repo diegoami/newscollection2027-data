@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "89123c9a74babd244a80b84f6791ba8cd7911910",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "89123c9a74babd244a80b84f6791ba8cd7911910-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "both report the same 'honored to return' statement from Huang",
+  "same_story": true
+}

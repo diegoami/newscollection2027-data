@@ -1,0 +1,24 @@
+{
+  "anchor": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+  "id": "2026-11-16-4899b9",
+  "items": [
+    {
+      "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+      "lede": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-16T19:24:40Z",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+    },
+    {
+      "item_id": "64fdbf62780a2a633c77cb945450704b7ee0eb0c",
+      "lede": "The more you pay for an iCloud+ plan, the more you\u2019ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.",
+      "outlet": "zdnet",
+      "published": "2026-11-17T17:16:38Z",
+      "title": "Apple reveals daily limits on your Siri AI use \u2013 here\u2019s how much you\u2019ll have to pay",
+      "url": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

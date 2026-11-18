@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+  "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "d1bee759e86a69db18c4fb9a1fc7d6751dc37f25-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "reason": "Trump's national-security comment and the criminal probe into Megaspeed are different developments",
+  "same_story": false
+}

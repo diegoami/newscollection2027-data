@@ -1,0 +1,69 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7",
+            "outlet": "wired",
+            "quote": "Just 400 US Data Centers Use More Electricity Than Michigan"
+          },
+          {
+            "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68",
+            "outlet": "theverge",
+            "quote": "US data centers now burn more electricity than a midsized country"
+          }
+        ],
+        "statement": "A new study finds US hyperscale data centers consume electricity on the scale of entire US states or midsized countries."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "1a436479b568fcdcf6c527ab6ecb9ef6a4c654be",
+            "outlet": "arstechnica",
+            "quote": "Hyperscale data centers use 2% of US electricity"
+          }
+        ],
+        "statement": "Hyperscale data centers account for about 2% of total US electricity use."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68",
+            "outlet": "theverge",
+            "quote": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US"
+          }
+        ],
+        "statement": "Fossil fuels remain the primary electricity source powering these hyperscale facilities."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7",
+            "outlet": "wired",
+            "quote": "New Harvard research shows that data-center power demand is outstripping states"
+          }
+        ],
+        "statement": "The estimate is based on new Harvard research into data-center power demand."
+      }
+    ],
+    "cluster_id": "2026-11-16-6249cb",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-17T02:22:32Z",
+    "headline": "Study: US data centers rival states and countries in power use",
+    "model": "claude-sonnet-5",
+    "summary": "A new Harvard study finds US hyperscale data centers consume electricity comparable to an entire US state or a midsized country, accounting for roughly 2% of total US electricity, with fossil fuels still the dominant power source for these facilities."
+  },
+  "cluster_id": "2026-11-16-6249cb",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-18T02:20:52Z"
+}

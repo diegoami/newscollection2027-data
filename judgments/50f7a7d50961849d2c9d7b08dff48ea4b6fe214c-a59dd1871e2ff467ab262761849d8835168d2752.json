@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+  "item_id_b": "a59dd1871e2ff467ab262761849d8835168d2752",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c-a59dd1871e2ff467ab262761849d8835168d2752",
+  "reason": "both report Apple's new Mac security controls limiting AI agent disk access",
+  "same_story": true
+}

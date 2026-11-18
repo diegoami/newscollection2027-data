@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "item_id_b": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9775fff4b2849085afda34a3de2f73e6bdfc0476-c0787d91eb5d8df5c2b15d0788c4567031b00dfa",
+  "reason": "Huang's own statement and allies' effort to get him back are the same reinstatement push",
+  "same_story": true
+}

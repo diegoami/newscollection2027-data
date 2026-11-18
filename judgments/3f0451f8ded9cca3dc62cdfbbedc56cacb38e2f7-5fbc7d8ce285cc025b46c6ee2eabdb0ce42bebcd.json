@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "reason": "the plotting-return report and Huang's own later statement are the same developing reinstatement story",
+  "same_story": true
+}

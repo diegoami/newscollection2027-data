@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "325059606130af6e123a75e4cbde03f1361a3e87",
+  "item_id_b": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "325059606130af6e123a75e4cbde03f1361a3e87-6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "reason": "the earlier board dismissal of the reinstatement campaign and the board's later refusal are the same story",
+  "same_story": true
+}

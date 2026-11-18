@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05",
+  "item_id_b": "de25725ccfbb48f167991b92a9392ef06b0d4ceb",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05-de25725ccfbb48f167991b92a9392ef06b0d4ceb",
+  "reason": "both report the same new US rule restricting Chinese firms' remote access to AI chips/compute",
+  "same_story": true
+}

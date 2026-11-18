@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "item_id_b": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9775fff4b2849085afda34a3de2f73e6bdfc0476-9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "reason": "the reinstatement statement and the congressional testimony announcement are separate developments",
+  "same_story": false
+}

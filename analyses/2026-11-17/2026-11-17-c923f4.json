@@ -1,0 +1,41 @@
+{
+  "cluster_id": "2026-11-17-c923f4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:55:00Z",
+  "headline": "Jensen Huang set to testify before Congress on December 1",
+  "summary": "Former Nvidia CEO Jensen Huang will testify before congressional committees, including the House Foreign Affairs, Intelligence and China Select Committees, on December 1, following his resignation over an admitted affair with a woman accused of being a Chinese spy. Nvidia's general counsel Tim Teter has also agreed to testify, a day after Huang.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following on December 2.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7", "quote": "Former Nvidia CEO Jensen Huang will appear before the House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him on December 2."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer, believed to be a Chinese spy.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7", "quote": "The appearances follow Huang's admission of an affair with a woman who worked for an Nvidia customer who is also believed to be a Chinese spy."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Huang will testify before several congressional committees on December 1, in the wake of his resignation.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "574f499b55a7cf429f02bdbc09e017581d9c8954", "quote": "Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Nvidia's general counsel Tim Teter has also agreed to testify.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "574f499b55a7cf429f02bdbc09e017581d9c8954", "quote": "Tim Teter, Nvidia’s general counsel, has also agreed to"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

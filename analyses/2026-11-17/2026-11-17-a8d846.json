@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-17-a8d846",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:48:00Z",
+  "headline": "Japan's Fugaku supercomputer breached, taken offline after cyberattack",
+  "summary": "Japan's Fugaku supercomputer, among the world's most powerful, was targeted after a status-page hack exposed credentials, letting attackers attempt logins. It suffered a suspected data breach potentially exposing more than 4,000 users' personal information, and was later taken offline following the security breach.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Attackers tried logging into Fugaku after a status-page hack exposed credentials.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f", "quote": "Attackers try logging in to Earth’s ninth most powerful machine after status page hack exposed credentials"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Fugaku suffered a suspected data breach, with more than 4,000 users' personal data potentially stolen.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "684263f3ef3efc54f1bf963e2309833f924beb23", "quote": "Fugaku, Japan's most powerful supercomputer, has suffered a suspected data breach, with the information of more than 4,000 of its users potentially stolen as a result."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Japan's RIKEN Center took Fugaku offline following the security breach.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "1dff6dd6c93a2fcc7e2837f7756a860c6fe038c2", "quote": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

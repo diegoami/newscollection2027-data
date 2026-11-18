@@ -1,6 +1,6 @@
 {
   "analysis": {
-    "agreement": "conflicting",
+    "agreement": "partial",
     "backend": "claude_code",
     "claims": [
       {
@@ -15,13 +15,48 @@
             "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
             "outlet": "tomshardware",
             "quote": "Elon Musk signs petition to reinstate Jensen Huang as Nvidia CEO"
+          },
+          {
+            "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+            "outlet": "theguardian",
+            "quote": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
           }
         ],
-        "statement": "Elon Musk and other tech executives signed a petition calling on Nvidia to reinstate Jensen Huang as CEO."
+        "statement": "Elon Musk and other tech executives signed a petition or open letter calling for Nvidia to reinstate Jensen Huang."
       },
       {
         "id": "c2",
         "sources": [
+          {
+            "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+            "outlet": "theguardian",
+            "quote": "amid reports the former chief executive is already plotting a return to"
+          }
+        ],
+        "statement": "The Guardian reported that Huang himself is already reportedly plotting a return to Nvidia."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+            "outlet": "theguardian",
+            "quote": "as US treasury secretary urges \u2018dramatic shake-up\u2019"
+          }
+        ],
+        "statement": "The Guardian said the US treasury secretary is urging a 'dramatic shake-up' at Nvidia."
+      }
+    ],
+    "cluster_id": "2026-11-14-704341",
+    "cluster_version": 2,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1"
+        ],
+        "explanation": "Outlets give different petition signature totals at different moments as the campaign grew.",
+        "kind": "number",
+        "quotes": [
           {
             "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
             "outlet": "techcrunch",
@@ -30,44 +65,25 @@
           {
             "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
             "outlet": "tomshardware",
-            "quote": "An online petition with over 91,000 signatures"
-          }
-        ],
-        "statement": "The petition had gathered tens of thousands of signatures."
-      }
-    ],
-    "cluster_id": "2026-11-14-704341",
-    "cluster_version": 1,
-    "discrepancies": [
-      {
-        "claim_ids": [
-          "c2"
-        ],
-        "explanation": "Techcrunch reports more than 115,000 signatures as of Saturday while tomshardware, published the next day, cites just over 91,000.",
-        "kind": "number",
-        "quotes": [
-          {
-            "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
-            "outlet": "techcrunch",
-            "quote": "more than 115,000 signatures as of Saturday afternoon"
+            "quote": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO."
           },
           {
-            "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
-            "outlet": "tomshardware",
-            "quote": "over 91,000 signatures"
+            "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+            "outlet": "theguardian",
+            "quote": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
           }
         ],
-        "severity": "high"
+        "severity": "medium"
       }
     ],
-    "generated_at": "2026-11-16T02:18:05Z",
-    "headline": "Elon Musk, others sign petition for Jensen Huang's return",
+    "generated_at": "2026-11-17T02:22:23Z",
+    "headline": "Musk and tech executives petition Nvidia to reinstate Jensen Huang",
     "model": "claude-sonnet-5",
-    "summary": "Elon Musk and other tech executives signed an online petition urging Nvidia to reinstate ousted CEO Jensen Huang. Reports differ on the petition's size, with one citing more than 115,000 signatures and another, published a day later, citing just over 91,000."
+    "summary": "Elon Musk and other tech executives signed a petition or open letter urging Nvidia's board to reinstate ousted CEO Jensen Huang. Outlets reported differing signature totals at different points as the petition grew, and the Guardian said Huang himself is reportedly already plotting a return."
   },
   "cluster_id": "2026-11-14-704341",
   "problems": [
-    "cluster: analysis is for version 1, cluster is at version 2"
+    "cluster: 2026-11-14-704341 is superseded by 2026-11-06-4fbfd5; an analysis written against it is history, not current"
   ],
-  "rejected_at": "2026-11-17T02:21:29Z"
+  "rejected_at": "2026-11-18T02:20:52Z"
 }

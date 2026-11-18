@@ -12,12 +12,17 @@
             "quote": "Microsoft\u2019s Outlook email hit by new outage"
           },
           {
+            "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
+            "outlet": "engadget",
+            "quote": "Multiple Microsoft 365 services are experiencing an outage"
+          },
+          {
             "item_id": "fd416d58448acaf00c168c19a891bd2bd898b158",
             "outlet": "bleepingcomputer",
             "quote": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
           }
         ],
-        "statement": "A major outage disrupted Microsoft 365 services including Outlook, Teams and Copilot worldwide."
+        "statement": "A major Microsoft 365 outage began on November 12, disrupting Outlook and other services worldwide."
       },
       {
         "id": "c2",
@@ -25,37 +30,47 @@
           {
             "item_id": "dac53ecf2d1e36b3622438645a1a5aad8b43d56c",
             "outlet": "engadget",
-            "quote": "elevated load"
+            "quote": "\"elevated load\" issues."
           },
           {
             "item_id": "6790f790a6d0fbade8a75d10c8e9a4abb1710c16",
             "outlet": "wired",
-            "quote": "elevated loads"
+            "quote": "experiencing \u201celevated loads\u201d"
           }
         ],
-        "statement": "Microsoft initially described the issue as elevated load on its systems."
+        "statement": "Microsoft initially attributed the disruption to elevated load on its infrastructure."
       },
       {
         "id": "c3",
         "sources": [
           {
-            "item_id": "0e5af992f8d3ee202a7c84c6310bce6f6f0b381e",
-            "outlet": "bbc-technology",
-            "quote": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems."
+            "item_id": "101466b87ed4795a6226810866da59db96581552",
+            "outlet": "theregister",
+            "quote": "taken down email and Intune"
+          },
+          {
+            "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
+            "outlet": "theregister",
+            "quote": "damaged Exchange Online and services that rely on it"
           }
         ],
-        "statement": "Microsoft said the outage was caused by servers unexpectedly becoming unavailable, straining other systems."
+        "statement": "The outage also took down Microsoft Intune and Exchange Online."
       },
       {
         "id": "c4",
         "sources": [
           {
-            "item_id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
-            "outlet": "theregister",
-            "quote": "Hasn't completely ruled out cyberattack as cause"
+            "item_id": "625517f21d455e7bb663c123e94cb23a5992dfc4",
+            "outlet": "arstechnica",
+            "quote": "Governments, hospitals, courts scrambled by global Microsoft outage."
+          },
+          {
+            "item_id": "bc69dd8c0cd7be03f5187f6d6636a327a542e1ba",
+            "outlet": "engadget",
+            "quote": "The House of Representatives, health care providers, schools and many other organizations were affected."
           }
         ],
-        "statement": "Microsoft had not completely ruled out a cyberattack as a cause of the incident."
+        "statement": "The disruption affected governments, hospitals and schools around the world."
       },
       {
         "id": "c5",
@@ -64,52 +79,57 @@
             "item_id": "9024dba0337b63a3deb4e8679836ac96d384117c",
             "outlet": "bbc-technology",
             "quote": "the outage was not caused by a cyber-security incident"
-          }
-        ],
-        "statement": "Microsoft later said the outage was not caused by a cyber-security incident."
-      },
-      {
-        "id": "c6",
-        "sources": [
+          },
           {
             "item_id": "1876ce8bb4f476705585c2e4e32e0dd4f53ba278",
             "outlet": "wired",
             "quote": "a bad update\u2014not a cyberattack or AI\u2014caused its servers around the world to crash"
           }
         ],
-        "statement": "Microsoft ultimately attributed the outage to a bad update rather than a cyberattack or AI."
+        "statement": "Microsoft said the outage was not caused by a cyberattack."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
+            "outlet": "theregister",
+            "quote": "Hasn't completely ruled out cyberattack as cause"
+          }
+        ],
+        "statement": "Earlier in the incident, Microsoft had not ruled out a cyberattack as the cause."
       },
       {
         "id": "c7",
         "sources": [
           {
-            "item_id": "bc69dd8c0cd7be03f5187f6d6636a327a542e1ba",
-            "outlet": "engadget",
-            "quote": "The House of Representatives, health care providers, schools and many other organizations were affected."
+            "item_id": "5388d13b7a3706f06f67878e412264d1664be3e5",
+            "outlet": "bbc-technology",
+            "quote": "Microsoft has apologised for the issue"
           },
           {
-            "item_id": "c2116e34fef731c38c772d0b5950a6f7ccb37fcb",
-            "outlet": "wired",
-            "quote": "Countless businesses, schools, hospitals, and governments have found out the hard way"
+            "item_id": "88ac23e27e9a21394b7b550e2711b481549b19d3",
+            "outlet": "theregister",
+            "quote": "company says it's 'deeply sorry'"
           }
         ],
-        "statement": "The outage affected organizations well beyond Microsoft, including government bodies, hospitals and schools."
+        "statement": "Microsoft apologized for the outage, saying it was 'deeply sorry'."
       },
       {
         "id": "c8",
         "sources": [
           {
-            "item_id": "ab323bb591ac51e4dc79ec42e386e26c1258987e",
-            "outlet": "techcrunch",
-            "quote": "Microsoft's day-long outage began with Outlook and Teams"
+            "item_id": "88ac23e27e9a21394b7b550e2711b481549b19d3",
+            "outlet": "theregister",
+            "quote": "The company restored service to email and other Microsoft 365 and related services to all customers by Friday night"
           },
           {
-            "item_id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
-            "outlet": "bbc-technology",
-            "quote": "Microsoft says services fully restored after day-long global outage"
+            "item_id": "b67c4d635d9d2a1fe957879126e76a2f815b98a6",
+            "outlet": "theguardian",
+            "quote": "Microsoft says services fully restored after global outage hits governments"
           }
         ],
-        "statement": "The outage persisted for roughly a day before services began to be restored."
+        "statement": "Microsoft said services were fully restored to all affected customers."
       },
       {
         "id": "c9",
@@ -120,60 +140,65 @@
             "quote": "One think tank\u2019s estimate puts the cost of the outage at $7 billion."
           }
         ],
-        "statement": "One estimate put the financial cost of the outage at $7 billion."
+        "statement": "One estimate put the economic cost of the outage at $7 billion."
       },
       {
         "id": "c10",
         "sources": [
           {
-            "item_id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
-            "outlet": "bbc-technology",
-            "quote": "Microsoft says services fully restored after day-long global outage"
-          },
-          {
-            "item_id": "b67c4d635d9d2a1fe957879126e76a2f815b98a6",
-            "outlet": "theguardian",
-            "quote": "Microsoft says services fully restored after global outage hits governments"
+            "item_id": "ce37d0a1f48e31fcda74522a73eae2d832d40d28",
+            "outlet": "tomshardware",
+            "quote": "Japanese workers are breaking out fax machines to deal with Microsoft's 365 outage."
           }
         ],
-        "statement": "Microsoft said services were fully restored to all customers and affected regions."
+        "statement": "Workers in Japan resorted to fax machines to cope with the outage."
       },
       {
         "id": "c11",
         "sources": [
           {
-            "item_id": "ce37d0a1f48e31fcda74522a73eae2d832d40d28",
-            "outlet": "tomshardware",
-            "quote": "Japanese workers return to fax machines during ongoing Microsoft 365 outage"
+            "item_id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+            "outlet": "theregister",
+            "quote": "Microsoft blames monster email outage on software defect introduced in July fix"
+          },
+          {
+            "item_id": "18b00fe2b40c75f5775251690dd3cb31f76bbebd",
+            "outlet": "bleepingcomputer",
+            "quote": "triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive."
           }
         ],
-        "statement": "Some Japanese workers resorted to fax machines during the outage."
+        "statement": "Microsoft later said the outage was caused by a software defect introduced in a July update, which triggered a cascading failure across its networking gateway servers."
       },
       {
         "id": "c12",
         "sources": [
           {
-            "item_id": "625517f21d455e7bb663c123e94cb23a5992dfc4",
-            "outlet": "arstechnica",
-            "quote": "Microsoft\u2019s global outage may be worse than Amazon's or CrowdStrike's, expert says"
+            "item_id": "e08296fe8bccbd0dd02a004a2c056b3aa9538863",
+            "outlet": "tomshardware",
+            "quote": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests"
+          },
+          {
+            "item_id": "2035ef31cc0cf65eab97b814bd4f50ab81457e21",
+            "outlet": "theregister",
+            "quote": "A safety warning went missing, chemical levels soared, and five guests ended up in hospital"
           }
         ],
-        "statement": "An expert said the outage's impact could be worse than past outages at Amazon or CrowdStrike."
+        "statement": "The outage was later linked to a chlorine gas poisoning incident at a hotel after a safety warning system that relied on Outlook failed."
       }
     ],
     "cluster_id": "2026-11-12-a2472d",
-    "cluster_version": 4,
+    "cluster_version": 5,
     "discrepancies": [
       {
         "claim_ids": [
-          "c4",
-          "c5"
+          "c5",
+          "c6"
         ],
-        "explanation": "One report says Microsoft had not completely ruled out a cyberattack as the cause, while a later report says Microsoft confirmed the outage was not caused by a cyber-security incident.",
+        "explanation": "The Register reported Microsoft had not ruled out a cyberattack, while the BBC and Wired reported Microsoft had already ruled a cyberattack out as the cause.",
         "kind": "contradiction",
         "quotes": [
           {
-            "item_id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
+            "item_id": "4f2a8e935f7faed496d0ea8dfc8f10ea74b1cb1e",
             "outlet": "theregister",
             "quote": "Hasn't completely ruled out cyberattack as cause"
           },
@@ -183,42 +208,17 @@
             "quote": "the outage was not caused by a cyber-security incident"
           }
         ],
-        "severity": "high"
-      },
-      {
-        "claim_ids": [
-          "c8"
-        ],
-        "explanation": "Outlets gave different figures for the outage's length, from a report of it stretching past 27 hours to a headline calling it a 24-hour outage and another describing it as an almost two-day outage.",
-        "kind": "number",
-        "quotes": [
-          {
-            "item_id": "c2535c5b8772684ffe5b9217e7e5c984eef44ff2",
-            "outlet": "theregister",
-            "quote": "stretches past 27 hours"
-          },
-          {
-            "item_id": "1876ce8bb4f476705585c2e4e32e0dd4f53ba278",
-            "outlet": "wired",
-            "quote": "24-Hour Outage"
-          },
-          {
-            "item_id": "4be096efb99e6f368343c04e19b1f141e7fe760a",
-            "outlet": "theverge",
-            "quote": "almost two-day outage"
-          }
-        ],
-        "severity": "high"
+        "severity": "medium"
       }
     ],
-    "generated_at": "2026-11-16T02:18:05Z",
-    "headline": "Microsoft 365 outage disrupts Outlook, Teams worldwide for a day",
+    "generated_at": "2026-11-17T02:21:21Z",
+    "headline": "Microsoft 365 outage disrupts Outlook and Teams worldwide",
     "model": "claude-sonnet-5",
-    "summary": "A widespread Microsoft 365 outage disrupted Outlook, Teams and Copilot worldwide, affecting governments, hospitals and schools. Microsoft initially cited elevated load, then said servers unexpectedly became unavailable, and finally blamed a bad update rather than a cyberattack. Reports differ on whether a cyberattack was ruled out early on and on the outage's total duration."
+    "summary": "A widespread Microsoft 365 outage on November 12 knocked out Outlook, Teams, Intune and other services for about a day, hitting governments, hospitals and schools. Microsoft later said the cause was a July software defect, not a cyberattack, and said service was fully restored."
   },
   "cluster_id": "2026-11-12-a2472d",
   "problems": [
-    "cluster: analysis is for version 4, cluster is at version 5"
+    "cluster: analysis is for version 5, cluster is at version 6"
   ],
-  "rejected_at": "2026-11-17T02:21:29Z"
+  "rejected_at": "2026-11-18T02:20:52Z"
 }

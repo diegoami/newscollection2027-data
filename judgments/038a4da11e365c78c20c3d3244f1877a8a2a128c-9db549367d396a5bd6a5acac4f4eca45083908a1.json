@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "038a4da11e365c78c20c3d3244f1877a8a2a128c",
+  "item_id_b": "9db549367d396a5bd6a5acac4f4eca45083908a1",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "038a4da11e365c78c20c3d3244f1877a8a2a128c-9db549367d396a5bd6a5acac4f4eca45083908a1",
+  "reason": "both report the same Harvard-led hyperscale data center electricity study",
+  "same_story": true
+}

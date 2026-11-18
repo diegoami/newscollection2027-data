@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "item_id_b": "75a891499c3b2577666cb32ea21f288361afe859",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "70a676dfa314e150e3bba688e3702ef96912c3f7-75a891499c3b2577666cb32ea21f288361afe859",
+  "reason": "Huang's own statement and an engineer's resignation over transparency are different stories",
+  "same_story": false
+}

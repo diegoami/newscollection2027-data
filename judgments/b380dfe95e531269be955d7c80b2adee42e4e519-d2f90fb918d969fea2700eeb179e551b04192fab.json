@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "item_id_b": "d2f90fb918d969fea2700eeb179e551b04192fab",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "b380dfe95e531269be955d7c80b2adee42e4e519-d2f90fb918d969fea2700eeb179e551b04192fab",
+  "reason": "Trump's reinstatement call and the critics' reaction to Huang's return bid are the same reinstatement story",
+  "same_story": true
+}

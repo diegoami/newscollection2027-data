@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-17-82428c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:46:00Z",
+  "headline": "Meta launches Direct messaging app for Instagram in two countries",
+  "summary": "Meta introduced Direct, a standalone messaging app for Instagram, for now available only in Turkey and Thailand and usable with or without an Instagram account. Reports differ on whether the app has fully launched or is still being tested.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta introduced Direct, a standalone messaging app for Instagram.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "45f18158044fff309f61810a0774a1ad56994925", "quote": "Meta launches Direct, a standalone messaging app for Instagram"},
+        {"outlet": "engadget", "item_id": "a6df2494566bd69efb379f66347362e8cb106f21", "quote": "Meta is testing Direct, a standalone messaging app for Instagram"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Direct is only available in Turkey and Thailand for now.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "a6df2494566bd69efb379f66347362e8cb106f21", "quote": "Meta's new DM app for Instagram is only available in Turkey and Thailand, for now."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Direct can be used with or without an Instagram account.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "45f18158044fff309f61810a0774a1ad56994925", "quote": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1"],
+      "explanation": "Outlets differ on whether Direct has fully launched or is still being tested.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "45f18158044fff309f61810a0774a1ad56994925", "quote": "Meta launches Direct, a standalone messaging app for Instagram"},
+        {"outlet": "engadget", "item_id": "a6df2494566bd69efb379f66347362e8cb106f21", "quote": "Meta is testing Direct, a standalone messaging app for Instagram"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

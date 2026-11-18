@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3feac09277102c220aa904da8ec9278323db94c4",
+  "item_id_b": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3feac09277102c220aa904da8ec9278323db94c4-70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "reason": "Nvidia's open-source strategy reassurance is a separate story from Huang's reinstatement statement",
+  "same_story": false
+}

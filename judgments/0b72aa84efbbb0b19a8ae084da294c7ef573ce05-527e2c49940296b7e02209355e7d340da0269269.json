@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05",
+  "item_id_b": "527e2c49940296b7e02209355e7d340da0269269",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0b72aa84efbbb0b19a8ae084da294c7ef573ce05-527e2c49940296b7e02209355e7d340da0269269",
+  "reason": "both report the same new US rule extending chip-sale restrictions across Asia",
+  "same_story": true
+}

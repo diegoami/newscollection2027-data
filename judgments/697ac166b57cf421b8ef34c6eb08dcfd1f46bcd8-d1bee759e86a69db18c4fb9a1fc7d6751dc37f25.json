@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8",
+  "item_id_b": "d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8-d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+  "reason": "the chip-sales export policy angle and Trump's national-security comment are different developments",
+  "same_story": false
+}

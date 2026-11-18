@@ -1,0 +1,32 @@
+{
+  "anchor": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+  "id": "2026-11-17-fe88ce",
+  "items": [
+    {
+      "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+      "lede": "California\u2019s DMV banned Waymo\u2019s self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d",
+      "outlet": "wired",
+      "published": "2026-11-17T19:38:08Z",
+      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+    },
+    {
+      "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4",
+      "lede": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+      "outlet": "techcrunch",
+      "published": "2026-11-17T19:49:41Z",
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+    },
+    {
+      "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+      "lede": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
+      "outlet": "engadget",
+      "published": "2026-11-17T21:57:49Z",
+      "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
+      "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

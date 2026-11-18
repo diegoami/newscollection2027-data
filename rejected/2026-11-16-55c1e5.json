@@ -1,0 +1,47 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "43465bb556008cf4e2faa85ac55e2e0a43070a37",
+            "outlet": "techcrunch",
+            "quote": "require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries"
+          },
+          {
+            "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9",
+            "outlet": "arstechnica",
+            "quote": "US moves to cut China\u2019s remote access to AI chips"
+          }
+        ],
+        "statement": "The US now requires export licenses for AI chip arrangements that could let China or other restricted countries access compute remotely."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9",
+            "outlet": "arstechnica",
+            "quote": "Trump bets China won\u2019t mind US blocking remote access to AI chips."
+          }
+        ],
+        "statement": "The administration is betting China will not strongly object to the restriction."
+      }
+    ],
+    "cluster_id": "2026-11-16-55c1e5",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-17T02:22:32Z",
+    "headline": "US tightens export rules to block China's remote AI chip access",
+    "model": "claude-sonnet-5",
+    "summary": "The US issued an interim rule requiring export licenses for AI chip deals that could give China or other restricted countries remote access to compute, extending export controls beyond physical chip shipments."
+  },
+  "cluster_id": "2026-11-16-55c1e5",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-18T02:20:52Z"
+}

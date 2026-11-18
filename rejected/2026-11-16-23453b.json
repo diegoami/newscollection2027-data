@@ -1,0 +1,95 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9",
+            "outlet": "wired",
+            "quote": "can recognize your mug, but it\u2019s likely not as secure as Face ID"
+          },
+          {
+            "item_id": "2c71ce6bc9f80c25fa9568f747be9f901ec76c39",
+            "outlet": "theverge",
+            "quote": "working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today"
+          },
+          {
+            "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398",
+            "outlet": "techcrunch",
+            "quote": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo"
+          }
+        ],
+        "statement": "Apple is testing a face-unlock feature for the current iPhone Duo using the front camera in the iOS 27.3 beta."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398",
+            "outlet": "techcrunch",
+            "quote": "Apple adds \u2018face unlock\u2019 to the iPhone Duo, but it\u2019s not Face ID"
+          },
+          {
+            "item_id": "aa29b8a0261e76261304b19e6c1415a52f055cf9",
+            "outlet": "wired",
+            "quote": "it\u2019s likely not as secure as Face ID"
+          }
+        ],
+        "statement": "Outlets note the new feature is not true Face ID."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "63e6891010a204b953661a98390a981855b7a27e",
+            "outlet": "zdnet",
+            "quote": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features"
+          },
+          {
+            "item_id": "63e6891010a204b953661a98390a981855b7a27e",
+            "outlet": "zdnet",
+            "quote": "it\u2019s unclear which of several feature upgrades may have to wait until the foldable\u2019s third generation"
+          }
+        ],
+        "statement": "Separately, leaked prototypes suggest the next-generation iPhone Duo 2 may get true Face ID and other features in 2027."
+      }
+    ],
+    "cluster_id": "2026-11-16-23453b",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c3",
+          "c2"
+        ],
+        "explanation": "zdnet's report concerns Face ID possibly arriving on the next-generation iPhone Duo 2 in 2027, a different product generation from the current-model face unlock the other outlets describe.",
+        "kind": "omission",
+        "quotes": [
+          {
+            "item_id": "63e6891010a204b953661a98390a981855b7a27e",
+            "outlet": "zdnet",
+            "quote": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features"
+          },
+          {
+            "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398",
+            "outlet": "techcrunch",
+            "quote": "Apple adds \u2018face unlock\u2019 to the iPhone Duo, but it\u2019s not Face ID"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-11-17T02:22:32Z",
+    "headline": "Apple tests limited face unlock for iPhone Duo via camera",
+    "model": "claude-sonnet-5",
+    "summary": "Apple is testing a software-based face-unlock feature for the current iPhone Duo in the iOS 27.3 beta, using the front camera rather than dedicated Face ID hardware, which outlets note falls short of true Face ID security. Separately, leaked prototypes suggest the next-generation Duo 2 could gain full Face ID and other features by 2027."
+  },
+  "cluster_id": "2026-11-16-23453b",
+  "problems": [
+    "cluster: analysis is for version 1, cluster is at version 2"
+  ],
+  "rejected_at": "2026-11-18T02:20:52Z"
+}

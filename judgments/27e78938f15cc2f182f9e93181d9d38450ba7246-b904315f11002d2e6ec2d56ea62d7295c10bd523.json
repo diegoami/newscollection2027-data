@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "27e78938f15cc2f182f9e93181d9d38450ba7246",
+  "item_id_b": "b904315f11002d2e6ec2d56ea62d7295c10bd523",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "27e78938f15cc2f182f9e93181d9d38450ba7246-b904315f11002d2e6ec2d56ea62d7295c10bd523",
+  "reason": "both report Uber Eats and Zipline's drone delivery launch in Texas",
+  "same_story": true
+}

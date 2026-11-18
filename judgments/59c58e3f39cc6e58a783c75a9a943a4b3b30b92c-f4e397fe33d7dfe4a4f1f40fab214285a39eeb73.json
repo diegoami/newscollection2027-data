@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "59c58e3f39cc6e58a783c75a9a943a4b3b30b92c",
+  "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "59c58e3f39cc6e58a783c75a9a943a4b3b30b92c-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "reason": "the scandal timeline roundup and the criminal probe into Megaspeed are different developments",
+  "same_story": false
+}

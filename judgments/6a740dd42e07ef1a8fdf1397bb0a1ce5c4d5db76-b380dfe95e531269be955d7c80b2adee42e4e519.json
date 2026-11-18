@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-b380dfe95e531269be955d7c80b2adee42e4e519",
+  "reason": "the board's no-reinstatement stance and Trump's reinstatement call are the same story",
+  "same_story": true
+}

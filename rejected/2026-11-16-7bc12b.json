@@ -1,0 +1,79 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "b380dfe95e531269be955d7c80b2adee42e4e519",
+            "outlet": "tomshardware",
+            "quote": "Trump calls for Jensen Huang reinstatement as Nvidia CEO"
+          },
+          {
+            "item_id": "325059606130af6e123a75e4cbde03f1361a3e87",
+            "outlet": "bbc-technology",
+            "quote": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched"
+          }
+        ],
+        "statement": "President Trump has called for Nvidia to reinstate ousted CEO Jensen Huang."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "325059606130af6e123a75e4cbde03f1361a3e87",
+            "outlet": "bbc-technology",
+            "quote": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
+          }
+        ],
+        "statement": "A number of tech figures are pushing Nvidia's board to give Huang his job back."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "b380dfe95e531269be955d7c80b2adee42e4e519",
+            "outlet": "tomshardware",
+            "quote": "a new report says the board is not considering the move"
+          }
+        ],
+        "statement": "Nvidia's board is reportedly not considering reinstating Huang."
+      }
+    ],
+    "cluster_id": "2026-11-16-7bc12b",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c3"
+        ],
+        "explanation": "tomshardware reports the board is not considering reinstating Huang, a detail absent from the bbc report's text.",
+        "kind": "omission",
+        "quotes": [
+          {
+            "item_id": "b380dfe95e531269be955d7c80b2adee42e4e519",
+            "outlet": "tomshardware",
+            "quote": "a new report says the board is not considering the move"
+          },
+          {
+            "item_id": "325059606130af6e123a75e4cbde03f1361a3e87",
+            "outlet": "bbc-technology",
+            "quote": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-11-17T02:22:32Z",
+    "headline": "Trump calls for Nvidia to reinstate Jensen Huang",
+    "model": "claude-sonnet-5",
+    "summary": "President Trump called for Nvidia to bring back ousted CEO Jensen Huang, as tech figures push the board to reinstate him, though one report says the board is not considering the move."
+  },
+  "cluster_id": "2026-11-16-7bc12b",
+  "problems": [
+    "cluster: 2026-11-16-7bc12b is superseded by 2026-11-06-4fbfd5; an analysis written against it is history, not current"
+  ],
+  "rejected_at": "2026-11-18T02:20:52Z"
+}

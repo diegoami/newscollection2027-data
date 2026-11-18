@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3cd1140f446ec5dd5ab968aad8e49287631e6d6e",
+  "item_id_b": "6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3cd1140f446ec5dd5ab968aad8e49287631e6d6e-6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+  "reason": "both report the same new Google Gemini chat retention and model-training opt-out change",
+  "same_story": true
+}

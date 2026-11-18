@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+  "item_id_b": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c-bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "reason": "the board's refusal (via earnings results) and the board's refusal are the same reinstatement story",
+  "same_story": true
+}

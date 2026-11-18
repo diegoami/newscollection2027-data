@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-17-461582",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:49:00Z",
+  "headline": "TRMNL launches $1,300 full-color E Ink display frame",
+  "summary": "E-paper company TRMNL introduced a new $1,300 full-color E Ink display, described as its biggest and most colorful product yet. It can show artwork and photos and double as a customizable dashboard like TRMNL's other E Ink devices, though it is not the company's first color E Ink device.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "TRMNL launched its biggest and most colorful product yet, a $1,300 full-color e-paper display.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "b2f0a0b1ba81c61f1a8e89dc0a3dd1f921d33bc2", "quote": "TRMNL, the company known for e-paper frames and kits, just launched its biggest and most colorful product yet."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The display can function as a customizable dashboard and is well suited for showing artwork and photos.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "0ebb0cfec741a8fe726005e13bc2df92bb0f64e6", "quote": "Trmnl, a company best known for its highly customizable E Ink dashboards that can function as anything from a desktop calendar to a stock tracker, has introduced a new display that's also well suited for showing artwork and photos."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "It is not the company's first color E Ink device.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "0ebb0cfec741a8fe726005e13bc2df92bb0f64e6", "quote": "It's not the company's first color E Ink device"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1", "c3"],
+      "explanation": "One outlet describes the display as the company's most colorful product yet, while another notes it is not the company's first color E Ink device.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "b2f0a0b1ba81c61f1a8e89dc0a3dd1f921d33bc2", "quote": "just launched its biggest and most colorful product yet"},
+        {"outlet": "theverge", "item_id": "0ebb0cfec741a8fe726005e13bc2df92bb0f64e6", "quote": "It's not the company's first color E Ink device"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

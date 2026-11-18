@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1b203bebb94ed92793810d1ce3eff30cfbb734b1",
+  "item_id_b": "63e6891010a204b953661a98390a981855b7a27e",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1b203bebb94ed92793810d1ce3eff30cfbb734b1-63e6891010a204b953661a98390a981855b7a27e",
+  "reason": "the iPhone Duo's current FaceID software feature and iPhone Duo 2 hardware prototypes are different products and events",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2",
+  "item_id_b": "75a891499c3b2577666cb32ea21f288361afe859",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2-75a891499c3b2577666cb32ea21f288361afe859",
+  "reason": "Nvidia's China chip strategy shift is a separate story from an employee's resignation over transparency",
+  "same_story": false
+}

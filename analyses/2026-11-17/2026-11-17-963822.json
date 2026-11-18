@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-17-963822",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:57:00Z",
+  "headline": "Apple hit by outage affecting iCloud and other services",
+  "summary": "Apple suffered an outage affecting multiple services, including iCloud, App Store, Apple Music, iCloud Mail, Account & Sign In, Apple School Manager and Schoolwork. Apple's status page confirmed the disruptions but had not confirmed a cause, and the full extent of the outage was not yet known.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "iCloud and other Apple services went down in an apparent outage, with the full extent not yet known.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "8fb0189a672fc668327f1db724edb00382e73df3", "quote": "iCloud and other Apple services are down in an apparent outage"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Apple's status page confirmed outages across services including iCloud, App Store and Apple Music, without confirming a cause.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3", "quote": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"},
+        {"outlet": "techcrunch", "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3", "quote": "Apple's status page confirms its services are facing outages, but has not confirmed the cause."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Apple reported disruptions affecting iCloud Mail, iCloud Account & Sign In, Apple School Manager and Schoolwork.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "6b76a35deee9b6075840752e0db612a29640fbd2", "quote": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

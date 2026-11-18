@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7465bbc4c963251d4045503ef002657796b8a1e4",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7465bbc4c963251d4045503ef002657796b8a1e4-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "the Q3 earnings piece's board refusal and Nvidia's refusal to reappoint Huang are the same story",
+  "same_story": true
+}

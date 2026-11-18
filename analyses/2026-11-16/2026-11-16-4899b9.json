@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-16-4899b9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-18T02:40:00Z",
+  "headline": "Apple to limit daily Siri AI use, tied to iCloud+ plan",
+  "summary": "Apple is testing daily usage limits for more complex Siri AI and Apple Intelligence interactions in iOS, iPadOS and macOS 27.3 betas. Basic Siri commands will remain free and unlimited, but advanced, server-side features will be capped, with how much a user can use tied to their iCloud+ plan.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is testing daily usage limits for more complex Siri AI interactions.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a", "quote": "Apple is testing daily usage limits for more complex Siri AI interactions"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Basic Siri commands and requests will remain free and unlimited.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a", "quote": "Basic Siri commands and requests will remain free and unlimited"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "How much Siri AI and Apple Intelligence advanced server-side use someone gets depends on how much they pay for an iCloud+ plan.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "64fdbf62780a2a633c77cb945450704b7ee0eb0c", "quote": "The more you pay for an iCloud+ plan, the more you’ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

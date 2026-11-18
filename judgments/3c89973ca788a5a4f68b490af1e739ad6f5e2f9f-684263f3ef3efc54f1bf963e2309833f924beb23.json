@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f",
+  "item_id_b": "684263f3ef3efc54f1bf963e2309833f924beb23",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f-684263f3ef3efc54f1bf963e2309833f924beb23",
+  "reason": "both report the same Fugaku supercomputer breach, from login attempts to confirmed data theft",
+  "same_story": true
+}

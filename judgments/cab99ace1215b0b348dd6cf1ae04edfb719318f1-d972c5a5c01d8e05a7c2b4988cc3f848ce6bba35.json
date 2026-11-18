@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+  "item_id_b": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1-d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
+  "reason": "the later, separate United outage and the FAA lifting its ground stop are different incidents",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "574f499b55a7cf429f02bdbc09e017581d9c8954",
+  "item_id_b": "6e2564c29c662909b17247e8126b40f1a92f4ae7",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "574f499b55a7cf429f02bdbc09e017581d9c8954-6e2564c29c662909b17247e8126b40f1a92f4ae7",
+  "reason": "the congressional testimony announcement and the SEC probe are different developments",
+  "same_story": false
+}

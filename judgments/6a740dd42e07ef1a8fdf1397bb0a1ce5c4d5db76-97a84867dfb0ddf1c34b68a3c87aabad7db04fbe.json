@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "item_id_b": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "reason": "the board's refusal and the open letter calling for reinstatement are the same reinstatement story",
+  "same_story": true
+}

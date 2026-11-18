@@ -1,39 +1,45 @@
 {
   "cluster_id": "2026-11-16-6249cb",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:22:32Z",
-  "headline": "Study: US data centers rival states and countries in power use",
-  "summary": "A new Harvard study finds US hyperscale data centers consume electricity comparable to an entire US state or a midsized country, accounting for roughly 2% of total US electricity, with fossil fuels still the dominant power source for these facilities.",
+  "generated_at": "2026-11-18T02:37:00Z",
+  "headline": "Harvard study finds hyperscale data centers' power use rising fast",
+  "summary": "A Harvard-led study in Nature Sustainability found that hyperscale US data centers consume roughly 2% of US electricity, with about 403 facilities using roughly 82 TWh in a year, more than Michigan's entire consumption. Fossil fuels remain the largest electricity source for these facilities, and the study found their attributable emissions are two to three times higher than in 2018.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A new study finds US hyperscale data centers consume electricity on the scale of entire US states or midsized countries.",
+      "statement": "Roughly 400 US hyperscale data centers use more electricity than the state of Michigan.",
       "sources": [
-        {"outlet": "wired", "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7", "quote": "Just 400 US Data Centers Use More Electricity Than Michigan"},
-        {"outlet": "theverge", "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68", "quote": "US data centers now burn more electricity than a midsized country"}
+        {"outlet": "wired", "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7", "quote": "Just 400 US Data Centers Use More Electricity Than Michigan"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Hyperscale data centers account for about 2% of total US electricity use.",
+      "statement": "Fossil fuels remain the biggest electricity source for US hyperscale data centers.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68", "quote": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Hyperscale data centers were found to use about 2% of US electricity.",
       "sources": [
         {"outlet": "arstechnica", "item_id": "1a436479b568fcdcf6c527ab6ecb9ef6a4c654be", "quote": "Hyperscale data centers use 2% of US electricity"}
       ]
     },
     {
-      "id": "c3",
-      "statement": "Fossil fuels remain the primary electricity source powering these hyperscale facilities.",
+      "id": "c4",
+      "statement": "The study estimated 403 US hyperscale data centers used about 82 TWh of electricity in a year.",
       "sources": [
-        {"outlet": "theverge", "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68", "quote": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US"}
+        {"outlet": "tomshardware", "item_id": "038a4da11e365c78c20c3d3244f1877a8a2a128c", "quote": "A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 TWh of electricity in a year."}
       ]
     },
     {
-      "id": "c4",
-      "statement": "The estimate is based on new Harvard research into data-center power demand.",
+      "id": "c5",
+      "statement": "The study found data-center-attributable emissions are two to three times higher than in 2018.",
       "sources": [
-        {"outlet": "wired", "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7", "quote": "New Harvard research shows that data-center power demand is outstripping states"}
+        {"outlet": "theregister", "item_id": "9db549367d396a5bd6a5acac4f4eca45083908a1", "quote": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018"}
       ]
     }
   ],

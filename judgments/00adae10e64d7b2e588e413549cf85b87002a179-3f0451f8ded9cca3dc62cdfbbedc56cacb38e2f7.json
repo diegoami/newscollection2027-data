@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+  "item_id_b": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "reason": "the board's refusal and the plotting-return report are the same developing reinstatement story",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "e561862ab3766fd6d1cfe6b19a440040db614805",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "e561862ab3766fd6d1cfe6b19a440040db614805-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "Huang's offer to return and Nvidia's same-day refusal to reappoint him are one story, the ask and the answer",
+  "same_story": true
+}

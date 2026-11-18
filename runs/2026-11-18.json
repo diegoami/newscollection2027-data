@@ -1,0 +1,105 @@
+{
+  "agent_seconds": 1260.035,
+  "counts": {
+    "analyses_total": 730,
+    "analyses_written": 25,
+    "clusters": 749,
+    "judgments": 9994,
+    "pending": 0,
+    "rejected": 87,
+    "unjudged_pairs": 271
+  },
+  "date": "2026-11-18",
+  "duration_seconds": 1405.18,
+  "finished_at": "2026-11-18T02:30:01Z",
+  "note": "Judged 150 borderline pairs by hand after Jev answered 168; 25 pending clusters analyzed, none rejected or abandoned.",
+  "started_at": "2026-11-18T02:06:36Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.511
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 138.747
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.729
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.511
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.631
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.897
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.029
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.704
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.028
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.088
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.046
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.046
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.027
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.052
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.044
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.032
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 1.023
+    }
+  ]
+}

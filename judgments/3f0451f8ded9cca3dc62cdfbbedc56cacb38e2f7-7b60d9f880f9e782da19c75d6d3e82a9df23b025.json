@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "reason": "the plotting-return report and the board chair recap are the same developing reinstatement story",
+  "same_story": true
+}

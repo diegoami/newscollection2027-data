@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "item_id_b": "e561862ab3766fd6d1cfe6b19a440040db614805",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "bf22fc83169f6030cd521b2bfbd7481e1e19523a-e561862ab3766fd6d1cfe6b19a440040db614805",
+  "reason": "the board's refusal and Huang's own statement are the same reinstatement story",
+  "same_story": true
+}

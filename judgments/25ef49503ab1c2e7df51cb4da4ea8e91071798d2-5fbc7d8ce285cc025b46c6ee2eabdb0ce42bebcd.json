@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+  "item_id_b": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2-5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "reason": "Musk's petition and Huang's own statement are the same reinstatement story",
+  "same_story": true
+}

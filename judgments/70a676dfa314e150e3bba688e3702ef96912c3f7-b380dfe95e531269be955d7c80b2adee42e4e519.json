@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "70a676dfa314e150e3bba688e3702ef96912c3f7-b380dfe95e531269be955d7c80b2adee42e4e519",
+  "reason": "Huang's openness statement and Trump's reinstatement call are the same reinstatement push, told from two sides",
+  "same_story": true
+}

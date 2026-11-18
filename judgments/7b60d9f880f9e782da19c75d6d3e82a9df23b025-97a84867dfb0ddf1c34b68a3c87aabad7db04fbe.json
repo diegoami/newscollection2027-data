@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "item_id_b": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7b60d9f880f9e782da19c75d6d3e82a9df23b025-97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "reason": "the board chair recap and the open letter calling for reinstatement are the same reinstatement story",
+  "same_story": true
+}

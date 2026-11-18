@@ -1,86 +1,61 @@
 {
   "cluster_id": "2026-11-10-30c05f",
-  "cluster_version": 6,
+  "cluster_version": 7,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:22:23Z",
-  "headline": "Fireworks AI breach exposes Notion and Uber driver data",
-  "summary": "AI infrastructure firm Fireworks AI disclosed a breach traced to a compromised cloud provider, which exposed Notion AI chat transcripts and Uber driver license data. Techcrunch said it was Fireworks' second breach in two months; a later report put the number of affected Uber driver licenses at close to 150,000.",
+  "generated_at": "2026-11-18T02:25:00Z",
+  "headline": "Fireworks AI breach exposes Notion chats and Uber driver license data",
+  "summary": "AI infrastructure provider Fireworks AI suffered a breach after attackers compromised a third-party cloud provider, its second breach within two months. The intrusion exposed Notion AI chat transcripts in a small number of workspaces and let attackers steal driver's license information for close to 150,000 Uber drivers, using stolen credentials. Uber has notified affected drivers.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Fireworks AI disclosed a new breach after its cloud provider was compromised.",
+      "statement": "Fireworks AI disclosed a new breach after attackers gained access through a compromised third-party cloud provider.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d",
-          "quote": "Fireworks AI discloses new breach after cloud provider hack"
-        }
+        {"outlet": "bleepingcomputer", "item_id": "7d2482c88528a363bca1a1c8e7678983e970a73d", "quote": "Fireworks AI discloses new breach after cloud provider hack"}
       ]
     },
     {
       "id": "c2",
-      "statement": "The breach has been linked to LLMJacking attackers who breached the cloud provider.",
+      "statement": "This was Fireworks AI's second data breach within roughly two months.",
       "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588",
-          "quote": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants"
-        }
+        {"outlet": "theregister", "item_id": "8546ce92cc9b47a348afa12aedcdeab70d39f588", "quote": "Fireworks AI gets burned twice as customer data exposure widens"},
+        {"outlet": "techcrunch", "item_id": "023d1c79ca20cb05e6182888453906096dd0785c", "quote": "This is Fireworks' second data breach in as many months."}
       ]
     },
     {
       "id": "c3",
-      "statement": "The breach exposed Notion AI chat transcripts in a small number of workspaces.",
+      "statement": "The breach at Fireworks AI exposed Notion AI chat transcripts in a small number of workspaces.",
       "sources": [
-        {
-          "outlet": "bleepingcomputer",
-          "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9",
-          "quote": "Notion says Fireworks breach exposed customer AI chat transcripts"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "023d1c79ca20cb05e6182888453906096dd0785c",
-          "quote": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts"
-        }
+        {"outlet": "bleepingcomputer", "item_id": "4555dea146472ff79618938ae11c76a7e4ecbcd9", "quote": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces."}
       ]
     },
     {
       "id": "c4",
-      "statement": "This was Fireworks' second data breach in as many months.",
+      "statement": "Uber confirmed that drivers' license information stored at Fireworks AI was stolen.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "023d1c79ca20cb05e6182888453906096dd0785c",
-          "quote": "This is Fireworks' second data breach in as many months."
-        }
+        {"outlet": "techcrunch", "item_id": "a351355edf69d9b051c3aedb1575cffb15b5c5a9", "quote": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident."}
       ]
     },
     {
       "id": "c5",
-      "statement": "Uber confirmed hackers stole drivers' license information that was stored by Fireworks AI.",
+      "statement": "Uber sent warnings to drivers whose information was stolen.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "a351355edf69d9b051c3aedb1575cffb15b5c5a9",
-          "quote": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident."
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "d3b13942bbdb32a417e2d436f88cab50a88984ac",
-          "quote": "Uber sends warning to drivers whose information was stolen in a data breach."
-        }
+        {"outlet": "engadget", "item_id": "d3b13942bbdb32a417e2d436f88cab50a88984ac", "quote": "Uber sends warning to drivers whose information was stolen in a data breach."}
       ]
     },
     {
       "id": "c6",
-      "statement": "A later report said close to 150,000 driver's licenses were affected.",
+      "statement": "The breach affected close to 150,000 Uber drivers' license records.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "e7daa89d962c4074e5849ca04023edccfd3d5794",
-          "quote": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"
-        }
+        {"outlet": "techcrunch", "item_id": "e7daa89d962c4074e5849ca04023edccfd3d5794", "quote": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach"},
+        {"outlet": "bleepingcomputer", "item_id": "3ad387c63ed54320d27224ff9f1996ce3e7ca131", "quote": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October."}
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Attackers used stolen credentials to access the driver's license data.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "fefdba50a8b539d6c7be8413432d52dbaa322901", "quote": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data"}
       ]
     }
   ],

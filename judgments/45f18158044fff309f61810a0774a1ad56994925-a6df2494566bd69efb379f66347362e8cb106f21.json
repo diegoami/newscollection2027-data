@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "45f18158044fff309f61810a0774a1ad56994925",
+  "item_id_b": "a6df2494566bd69efb379f66347362e8cb106f21",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "45f18158044fff309f61810a0774a1ad56994925-a6df2494566bd69efb379f66347362e8cb106f21",
+  "reason": "both report Meta's Direct messaging app launching in Turkey and Thailand",
+  "same_story": true
+}

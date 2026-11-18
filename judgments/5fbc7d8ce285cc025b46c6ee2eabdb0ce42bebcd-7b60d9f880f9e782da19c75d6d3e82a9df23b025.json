@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "item_id_b": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "reason": "Huang's statement and the board chair recap are the same reinstatement story",
+  "same_story": true
+}

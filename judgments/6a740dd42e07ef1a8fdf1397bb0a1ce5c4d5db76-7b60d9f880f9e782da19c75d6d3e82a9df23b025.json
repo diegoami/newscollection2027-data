@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "item_id_b": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "reason": "the board's refusal and a recap of the same board chair remarks are one story",
+  "same_story": true
+}

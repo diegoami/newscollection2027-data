@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "item_id_b": "f8e9566cc8a8c29300cf7580345360cde4dc24d0",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-f8e9566cc8a8c29300cf7580345360cde4dc24d0",
+  "reason": "Huang's statement and the employee's internal warning are the same reinstatement push",
+  "same_story": true
+}

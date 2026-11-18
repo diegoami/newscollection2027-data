@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "3feac09277102c220aa904da8ec9278323db94c4",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-3feac09277102c220aa904da8ec9278323db94c4",
+  "reason": "Huang's plotting-return report and Nvidia's open-source strategy reassurance are different stories",
+  "same_story": false
+}

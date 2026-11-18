@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6e2564c29c662909b17247e8126b40f1a92f4ae7",
+  "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6e2564c29c662909b17247e8126b40f1a92f4ae7-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "reason": "the SEC probe into Nvidia and the criminal probe into Megaspeed are different investigations by different agencies",
+  "same_story": false
+}

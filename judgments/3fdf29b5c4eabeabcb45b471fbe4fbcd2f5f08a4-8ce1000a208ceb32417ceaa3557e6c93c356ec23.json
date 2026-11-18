@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3fdf29b5c4eabeabcb45b471fbe4fbcd2f5f08a4",
+  "item_id_b": "8ce1000a208ceb32417ceaa3557e6c93c356ec23",
+  "judged_at": "2026-11-18T02:15:50Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3fdf29b5c4eabeabcb45b471fbe4fbcd2f5f08a4-8ce1000a208ceb32417ceaa3557e6c93c356ec23",
+  "reason": "a 3-day-old announcement and a later opinion piece on it, with no new development named, are not one story",
+  "same_story": false
+}
