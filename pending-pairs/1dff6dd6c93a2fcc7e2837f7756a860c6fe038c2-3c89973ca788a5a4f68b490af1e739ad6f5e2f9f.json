@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1dff6dd6c93a2fcc7e2837f7756a860c6fe038c2",
+    "lede": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T20:51:21Z",
+    "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+  },
+  "b": {
+    "item_id": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f",
+    "lede": "Attackers try logging in to Earth\u2019s ninth most powerful machine after status page hack exposed credentials",
+    "outlet": "theregister",
+    "published": "2026-11-17T05:27:04Z",
+    "title": "Japan's Fugaku supercomputer has decidedly un-super security",
+    "url": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
+  },
+  "score": 0.635893
+}

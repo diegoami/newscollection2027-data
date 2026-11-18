@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "470ab561f6f813ddb347d81abb68407e4fd3fe58",
+    "lede": "A lawyer\u2019s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash\u2019s most-used experts at NVFP4 precision instead of 2-bit.",
+    "outlet": "tomshardware",
+    "published": "2026-11-14T12:50:00Z",
+    "title": "Lawyer\u2019s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu"
+  },
+  "b": {
+    "item_id": "ab0676cf6917bd60a350e5bcccfec14079b68d45",
+    "lede": "Nvidia's Vera CPU, powered by its custom Olympus Arm cores, already offers strong performance with unoptimized code, but at SC26, the company demonstrated that further software optimizations can improve performance by nearly 39% with certain workloads.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T17:30:00Z",
+    "title": "Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 \u2014 architectural fine-tuning is needed to fully unleash custom Olympus cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores"
+  },
+  "score": 0.574257
+}

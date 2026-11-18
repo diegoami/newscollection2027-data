@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "60f99194645fc286dd11b403560ccc345f16493f",
+    "lede": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T22:54:00Z",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/"
+  },
+  "b": {
+    "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+    "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T16:50:10Z",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  },
+  "score": 0.587891
+}

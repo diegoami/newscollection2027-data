@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68",
+    "lede": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:27:58Z",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+  },
+  "b": {
+    "item_id": "9db549367d396a5bd6a5acac4f4eca45083908a1",
+    "lede": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+    "outlet": "theregister",
+    "published": "2026-11-17T18:29:00Z",
+    "title": "America's hyperscale bit barns draw as much power as entire states",
+    "url": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471"
+  },
+  "score": 0.641777
+}

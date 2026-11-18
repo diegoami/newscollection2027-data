@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4",
+    "lede": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T19:49:41Z",
+    "title": "Waymo suspends freeway rides nationwide after California DMV order",
+    "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+  },
+  "b": {
+    "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+    "lede": "California\u2019s DMV banned Waymo\u2019s self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d",
+    "outlet": "wired",
+    "published": "2026-11-17T19:38:08Z",
+    "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+    "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+  },
+  "score": 0.813887
+}

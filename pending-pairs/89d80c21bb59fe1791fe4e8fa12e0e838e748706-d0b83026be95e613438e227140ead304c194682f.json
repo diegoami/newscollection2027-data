@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+    "lede": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T18:13:34Z",
+    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+  },
+  "b": {
+    "item_id": "d0b83026be95e613438e227140ead304c194682f",
+    "lede": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:46:01Z",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  "score": 0.697157
+}

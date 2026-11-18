@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3",
+    "lede": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T18:55:40Z",
+    "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+    "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+  },
+  "b": {
+    "item_id": "77828770ffb5c4ae52e684917fb326a7b28dbc81",
+    "lede": "Apple's new app for a study will answer everyday medical questions",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T01:30:00Z",
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+  },
+  "score": 0.574769
+}

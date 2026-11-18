@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6b76a35deee9b6075840752e0db612a29640fbd2",
+    "lede": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T19:24:07Z",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+  },
+  "b": {
+    "item_id": "8fb0189a672fc668327f1db724edb00382e73df3",
+    "lede": "The full extent of the disruption isn't known yet.",
+    "outlet": "engadget",
+    "published": "2026-11-17T18:15:04Z",
+    "title": "iCloud and other Apple services are down in an apparent outage",
+    "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/"
+  },
+  "score": 0.594019
+}

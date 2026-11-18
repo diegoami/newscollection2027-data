@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2299a815403671ff100215620e1605a9947363cb",
+    "lede": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+    "outlet": "zdnet",
+    "published": "2026-11-17T23:14:05Z",
+    "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+    "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/"
+  },
+  "b": {
+    "item_id": "6630c5d9a2c57d72ab3e915142b746e4c95dc95c",
+    "lede": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
+    "outlet": "zdnet",
+    "published": "2026-11-17T22:42:44Z",
+    "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+    "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/"
+  },
+  "score": 0.604203
+}

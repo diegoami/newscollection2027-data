@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "e7daa89d962c4074e5849ca04023edccfd3d5794",
+    "lede": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T19:53:00Z",
+    "title": "Uber says hackers stole information on close to 150,000 driver\u2019s licenses during data breach",
+    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+  },
+  "b": {
+    "item_id": "fefdba50a8b539d6c7be8413432d52dbaa322901",
+    "lede": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
+    "outlet": "theregister",
+    "published": "2026-11-17T16:15:00Z",
+    "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
+    "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+  },
+  "score": 0.751777
+}

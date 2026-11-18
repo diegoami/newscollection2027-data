@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9db549367d396a5bd6a5acac4f4eca45083908a1",
+    "lede": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+    "outlet": "theregister",
+    "published": "2026-11-17T18:29:00Z",
+    "title": "America's hyperscale bit barns draw as much power as entire states",
+    "url": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471"
+  },
+  "b": {
+    "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7",
+    "lede": "New Harvard research shows that data-center power demand is outstripping states\u2014and that doesn\u2019t even include facilities with off-grid gas plants.",
+    "outlet": "wired",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+    "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"
+  },
+  "score": 0.572581
+}

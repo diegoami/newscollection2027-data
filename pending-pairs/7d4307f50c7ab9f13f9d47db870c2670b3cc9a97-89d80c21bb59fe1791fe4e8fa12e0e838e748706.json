@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d4307f50c7ab9f13f9d47db870c2670b3cc9a97",
+    "lede": "The lawsuit stems from an earlier incident where the tech company\u2019s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public\u2019s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents \u2013 semi-autonomous AI software that can carry out",
+    "outlet": "theguardian",
+    "published": "2026-11-16T21:41:10Z",
+    "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+    "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit"
+  },
+  "b": {
+    "item_id": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+    "lede": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T18:13:34Z",
+    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+  },
+  "score": 0.584922
+}

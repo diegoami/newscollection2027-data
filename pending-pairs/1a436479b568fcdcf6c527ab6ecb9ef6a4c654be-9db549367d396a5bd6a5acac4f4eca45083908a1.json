@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a436479b568fcdcf6c527ab6ecb9ef6a4c654be",
+    "lede": "Study attempts to tally hyperscalers\u2019 energy use and emissions.",
+    "outlet": "arstechnica",
+    "published": "2026-11-16T20:52:10Z",
+    "title": "Hyperscale data centers use 2% of US electricity",
+    "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+  },
+  "b": {
+    "item_id": "9db549367d396a5bd6a5acac4f4eca45083908a1",
+    "lede": "Harvard study claims emissions attributable to datacenters are two to three times higher than in 2018",
+    "outlet": "theregister",
+    "published": "2026-11-17T18:29:00Z",
+    "title": "America's hyperscale bit barns draw as much power as entire states",
+    "url": "https://www.theregister.com/off-prem/2026/11/17/americas-hyperscale-bit-barns-draw-as-much-power-as-entire-states/5310471"
+  },
+  "score": 0.625737
+}

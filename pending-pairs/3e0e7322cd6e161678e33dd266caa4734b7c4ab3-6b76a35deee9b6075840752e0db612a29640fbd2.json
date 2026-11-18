@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3",
+    "lede": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T18:55:40Z",
+    "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+    "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+  },
+  "b": {
+    "item_id": "6b76a35deee9b6075840752e0db612a29640fbd2",
+    "lede": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T19:24:07Z",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+  },
+  "score": 0.708419
+}

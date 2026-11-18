@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0",
+    "lede": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-15T18:29:53Z",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+  },
+  "b": {
+    "item_id": "c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+    "lede": "Email, flights, banks; network failures are piling up. Here\u2019s how WIRED investigates if they\u2019re the result of hacker mayhem. (Hint: usually not.)",
+    "outlet": "wired",
+    "published": "2026-11-17T19:40:57Z",
+    "title": "How to Tell If It\u2019s a Cyberattack or Just an Outage",
+    "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+  },
+  "score": 0.596471
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2990c14363c162898eb2254096cddad1aa2581e2",
+    "lede": "Alongside the Ryzen 7 9800X3D and Radeon RX 9070, buyers get a 360mm AIO liquid cooler, 850W PSU, 32GB DDR5-5600 memory, and a 1TB SSD, all inside a premium mid-tower chassis with RGB lighting.",
+    "outlet": "tomshardware",
+    "published": "2026-11-14T15:00:00Z",
+    "title": "AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount",
+    "url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig"
+  },
+  "b": {
+    "item_id": "ab0676cf6917bd60a350e5bcccfec14079b68d45",
+    "lede": "Nvidia's Vera CPU, powered by its custom Olympus Arm cores, already offers strong performance with unoptimized code, but at SC26, the company demonstrated that further software optimizations can improve performance by nearly 39% with certain workloads.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T17:30:00Z",
+    "title": "Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 \u2014 architectural fine-tuning is needed to fully unleash custom Olympus cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores"
+  },
+  "score": 0.578344
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+    "lede": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T18:13:34Z",
+    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+  },
+  "b": {
+    "item_id": "8c2c38fe4c9afe700d3bd1fa877a33544ee8ec3d",
+    "lede": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+    "outlet": "bbc-technology",
+    "published": "2026-11-16T23:12:24Z",
+    "title": "California sues OpenAI over Hugging Face attack",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo"
+  },
+  "score": 0.580612
+}

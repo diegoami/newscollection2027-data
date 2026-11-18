@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3cd1140f446ec5dd5ab968aad8e49287631e6d6e",
+    "lede": "From 72 hours to 2 months in a single quiet announcement. Careful what you ask Google's AI, because it's storing it even if you ask it not to",
+    "outlet": "theregister",
+    "published": "2026-11-17T17:00:00Z",
+    "title": "Opting out of Gemini tracking? Google will still hold your data 20x longer",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517"
+  },
+  "b": {
+    "item_id": "6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+    "lede": "You\u2019ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google\u2019s AI.",
+    "outlet": "zdnet",
+    "published": "2026-11-17T18:01:38Z",
+    "title": "Google is making it easier to opt out of Gemini AI model training \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/"
+  },
+  "score": 0.638844
+}

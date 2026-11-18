@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "560e703561a25cd9d0c971fce416fe23e434cbe4",
+    "lede": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T18:48:23Z",
+    "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+    "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+  },
+  "b": {
+    "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+    "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T16:50:10Z",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  },
+  "score": 0.595799
+}

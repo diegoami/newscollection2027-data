@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d3b13942bbdb32a417e2d436f88cab50a88984ac",
+    "lede": "Uber sends warning to drivers whose information was stolen in a data breach.",
+    "outlet": "engadget",
+    "published": "2026-11-14T16:47:44Z",
+    "title": "Uber drivers' information stolen in a third-party hack",
+    "url": "https://www.engadget.com/2316881/uber-drivers-information-stolen-in-a-third-party-hack/"
+  },
+  "b": {
+    "item_id": "fefdba50a8b539d6c7be8413432d52dbaa322901",
+    "lede": "Ride-hailing biz says stolen credentials allowed crooks to help themselves to driver's license data",
+    "outlet": "theregister",
+    "published": "2026-11-17T16:15:00Z",
+    "title": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
+    "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+  },
+  "score": 0.770486
+}

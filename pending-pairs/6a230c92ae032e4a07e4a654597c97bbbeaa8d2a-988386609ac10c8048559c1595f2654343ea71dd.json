@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+    "lede": "You\u2019ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google\u2019s AI.",
+    "outlet": "zdnet",
+    "published": "2026-11-17T18:01:38Z",
+    "title": "Google is making it easier to opt out of Gemini AI model training \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/"
+  },
+  "b": {
+    "item_id": "988386609ac10c8048559c1595f2654343ea71dd",
+    "lede": "Editing the AI's memory is one way you can shape its responses.",
+    "outlet": "engadget",
+    "published": "2026-11-18T00:00:00Z",
+    "title": "You can now see and edit what Google Gemini remembers about you",
+    "url": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you/"
+  },
+  "score": 0.593811
+}

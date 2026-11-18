@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "34963901901b788342196741111ac9db4a41bf25",
+    "lede": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T16:08:03Z",
+    "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+    "url": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/"
+  },
+  "b": {
+    "item_id": "63617dc37e283c3f9dc1e82657e061502987b56b",
+    "lede": "Intune feature blocks normal sign-ins without wiping data, while another test build drops Offline Maps settings",
+    "outlet": "theregister",
+    "published": "2026-11-17T15:29:00Z",
+    "title": "Windows 11 previews remote padlock only IT can open",
+    "url": "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402"
+  },
+  "score": 0.676838
+}

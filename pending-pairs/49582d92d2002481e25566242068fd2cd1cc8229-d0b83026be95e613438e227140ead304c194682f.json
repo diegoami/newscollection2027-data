@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49582d92d2002481e25566242068fd2cd1cc8229",
+    "lede": "Oregon's Attorney General filed a lawsuit against the maker of ChatGPT over alleged child safety issues.",
+    "outlet": "engadget",
+    "published": "2026-11-17T23:45:32Z",
+    "title": "Oregon is the latest state to sue OpenAI over child safety",
+    "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/"
+  },
+  "b": {
+    "item_id": "d0b83026be95e613438e227140ead304c194682f",
+    "lede": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:46:01Z",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+  },
+  "score": 0.591863
+}

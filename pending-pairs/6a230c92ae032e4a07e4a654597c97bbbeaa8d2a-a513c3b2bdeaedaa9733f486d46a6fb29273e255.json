@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a230c92ae032e4a07e4a654597c97bbbeaa8d2a",
+    "lede": "You\u2019ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google\u2019s AI.",
+    "outlet": "zdnet",
+    "published": "2026-11-17T18:01:38Z",
+    "title": "Google is making it easier to opt out of Gemini AI model training \u2013 here\u2019s how",
+    "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/"
+  },
+  "b": {
+    "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+    "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T16:50:10Z",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  },
+  "score": 0.816101
+}
