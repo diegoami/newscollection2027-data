@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6b76a35deee9b6075840752e0db612a29640fbd2",
+    "lede": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T19:24:07Z",
+    "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+    "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+  },
+  "b": {
+    "item_id": "d4ef9b25c8f439f5b5c5ce2e2bd968a183edc3a9",
+    "lede": "Google\u2019s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google\u2019s Gmail and Apple\u2019s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of",
+    "outlet": "theguardian",
+    "published": "2026-11-17T22:23:56Z",
+    "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+    "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption"
+  },
+  "score": 0.639174
+}

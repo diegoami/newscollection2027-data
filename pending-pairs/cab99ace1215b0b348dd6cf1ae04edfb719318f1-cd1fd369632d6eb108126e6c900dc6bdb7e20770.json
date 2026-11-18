@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+    "lede": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T22:54:59Z",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures"
+  },
+  "b": {
+    "item_id": "cd1fd369632d6eb108126e6c900dc6bdb7e20770",
+    "lede": "The FAA has also disabled the other 68 routers that had already been installed.",
+    "outlet": "engadget",
+    "published": "2026-11-18T09:05:26Z",
+    "title": "FAA suspends installation of router that led to a ground stop of flights across the US",
+    "url": "https://www.engadget.com/2320202/faa-suspends-installation-router-ground-stop-flights-across-us/"
+  },
+  "score": 0.607286
+}

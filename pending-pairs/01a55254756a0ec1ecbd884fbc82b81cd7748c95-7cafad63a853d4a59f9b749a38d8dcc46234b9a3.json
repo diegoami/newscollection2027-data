@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01a55254756a0ec1ecbd884fbc82b81cd7748c95",
+    "lede": "AMD is touting the benefits of the native FP64 support provided by its MI430X accelerator at Supercomputing 2026. The company says that Ozaki FP64 emulation only covers the needs of a small portion of HPC workloads, making the MI430X a unique foundation for next-gen supercomputing installations.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T14:30:00Z",
+    "title": "AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X \u2014 says Ozaki schemes fit less than 10% of HPC workloads and triple memory use and emulated FP64 is a poor fit for many HPC workloads",
+    "url": "https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads"
+  },
+  "b": {
+    "item_id": "7cafad63a853d4a59f9b749a38d8dcc46234b9a3",
+    "lede": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X",
+    "outlet": "theregister",
+    "published": "2026-11-17T22:37:46Z",
+    "title": "GPU giants throw HPC users some tasty crumbs",
+    "url": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611"
+  },
+  "score": 0.607666
+}

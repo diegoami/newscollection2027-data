@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "974fa73c40bb81890eddd251beb10c0cefb03a4d",
+    "lede": "User group says access terms favor enterprises that can migrate one ERP system at a time",
+    "outlet": "theregister",
+    "published": "2026-11-18T10:14:00Z",
+    "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
+    "url": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056"
+  },
+  "b": {
+    "item_id": "ad96c0d893c3780550e00e0f5f117b6481b9edf8",
+    "lede": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T14:00:00Z",
+    "title": "Your enterprise AI access can be sold for pennies \u2013 beware \u2018LLM Mixers\u2019",
+    "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/"
+  },
+  "score": 0.589312
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+    "lede": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop.",
+    "outlet": "tomshardware",
+    "published": "2026-11-15T13:42:51Z",
+    "title": "Two HPE Juniper network routers grounded all US flights on Friday",
+    "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging"
+  },
+  "b": {
+    "item_id": "cd1fd369632d6eb108126e6c900dc6bdb7e20770",
+    "lede": "The FAA has also disabled the other 68 routers that had already been installed.",
+    "outlet": "engadget",
+    "published": "2026-11-18T09:05:26Z",
+    "title": "FAA suspends installation of router that led to a ground stop of flights across the US",
+    "url": "https://www.engadget.com/2320202/faa-suspends-installation-router-ground-stop-flights-across-us/"
+  },
+  "score": 0.65403
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aa453d94b5f44ad6708d6acb6ab08ba36df41a64",
+    "lede": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T05:10:02Z",
+    "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+    "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o"
+  },
+  "b": {
+    "item_id": "d4ef9b25c8f439f5b5c5ce2e2bd968a183edc3a9",
+    "lede": "Google\u2019s Gmail also affected after problems reported in technological infrastructure in the US and worldwide Thousands reported disruptions to Google\u2019s Gmail and Apple\u2019s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector . Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of",
+    "outlet": "theguardian",
+    "published": "2026-11-17T22:23:56Z",
+    "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+    "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption"
+  },
+  "score": 0.60829
+}

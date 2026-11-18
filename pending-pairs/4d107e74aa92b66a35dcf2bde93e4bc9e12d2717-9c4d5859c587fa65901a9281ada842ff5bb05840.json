@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+    "lede": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
+    "outlet": "engadget",
+    "published": "2026-11-17T21:57:49Z",
+    "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
+    "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/"
+  },
+  "b": {
+    "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
+    "lede": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T03:07:22Z",
+    "title": "Waymo pulls driverless taxis from all US freeways",
+    "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo"
+  },
+  "score": 0.751697
+}
