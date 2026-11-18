@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0f3c66386c82c2889e12015b06b4c78bfd3e6145",
+    "lede": "Even Elon Musk said the monthly fee is \"too high.\"",
+    "outlet": "techcrunch",
+    "published": "2026-11-14T20:04:44Z",
+    "title": "Tesla opens Cybercab pre-orders \u2018for personal use,\u2019 with geo restrictions and a $299 monthly fee",
+    "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+  },
+  "b": {
+    "item_id": "198345eef087eeb8ca3781a95a8730161555fe03",
+    "lede": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T14:01:45Z",
+    "title": "Tesla\u2019s $30,000 Cybercab comes with a $299 monthly catch",
+    "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/"
+  },
+  "score": 0.665629
+}

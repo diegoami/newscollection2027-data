@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e40619c86da1dec170df0799c375132a3a24e2f",
+    "lede": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T14:00:00Z",
+    "title": "Google warns that fully-automated AI attacks are coming soon",
+    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+  },
+  "b": {
+    "item_id": "708e52618cd98258b59ef3d798df27d7a7ea8293",
+    "lede": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "outlet": "techcrunch",
+    "published": "2026-11-18T17:32:10Z",
+    "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+  },
+  "score": 0.570515
+}

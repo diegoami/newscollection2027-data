@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80289cb2685bdea8c2b09212bab7a2d7e9cd6398",
+    "lede": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T19:26:55Z",
+    "title": "Apple adds \u2018face unlock\u2019 to the iPhone Duo, but it\u2019s not Face ID",
+    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+  },
+  "b": {
+    "item_id": "9915ec5a3e84aa1945274b20faebb73755bd7d56",
+    "lede": "Coming next month, Apple\u2019s new Health app relies on AI for certain features, which means you\u2019ll need an iPhone that supports Apple Intelligence.",
+    "outlet": "zdnet",
+    "published": "2026-11-18T18:00:48Z",
+    "title": "5 new AI features in iOS 27.3\u2019s Health app \u2013 which iPhones can try them",
+    "url": "https://www.zdnet.com/health/5-new-ai-features-in-apples-health-app-for-ios-27-3-and-which-iphones-can-try-them/"
+  },
+  "score": 0.699249
+}

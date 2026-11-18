@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
+    "lede": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T03:07:22Z",
+    "title": "Waymo pulls driverless taxis from all US freeways",
+    "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo"
+  },
+  "b": {
+    "item_id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
+    "lede": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles",
+    "outlet": "theregister",
+    "published": "2026-11-18T17:45:00Z",
+    "title": "California tells Waymo to take the next exit after freeway mishaps",
+    "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
+  },
+  "score": 0.751787
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "708e52618cd98258b59ef3d798df27d7a7ea8293",
+    "lede": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "outlet": "techcrunch",
+    "published": "2026-11-18T17:32:10Z",
+    "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.591446
+}

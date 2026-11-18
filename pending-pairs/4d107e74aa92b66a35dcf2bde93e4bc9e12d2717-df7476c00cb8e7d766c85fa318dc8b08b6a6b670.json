@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+    "lede": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
+    "outlet": "engadget",
+    "published": "2026-11-17T21:57:49Z",
+    "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
+    "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/"
+  },
+  "b": {
+    "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+    "lede": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T16:24:34Z",
+    "title": "Waymo has stopped its robotaxis from driving on the freeway\u2014here\u2019s why",
+    "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+  },
+  "score": 0.673216
+}

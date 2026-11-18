@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1b203bebb94ed92793810d1ce3eff30cfbb734b1",
+    "lede": "You won't need to wait for TouchID on your $2,000 foldable.",
+    "outlet": "engadget",
+    "published": "2026-11-16T21:17:24Z",
+    "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+    "url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/"
+  },
+  "b": {
+    "item_id": "9915ec5a3e84aa1945274b20faebb73755bd7d56",
+    "lede": "Coming next month, Apple\u2019s new Health app relies on AI for certain features, which means you\u2019ll need an iPhone that supports Apple Intelligence.",
+    "outlet": "zdnet",
+    "published": "2026-11-18T18:00:48Z",
+    "title": "5 new AI features in iOS 27.3\u2019s Health app \u2013 which iPhones can try them",
+    "url": "https://www.zdnet.com/health/5-new-ai-features-in-apples-health-app-for-ios-27-3-and-which-iphones-can-try-them/"
+  },
+  "score": 0.60864
+}

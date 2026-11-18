@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+    "lede": "California\u2019s DMV banned Waymo\u2019s self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d",
+    "outlet": "wired",
+    "published": "2026-11-17T19:38:08Z",
+    "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+    "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+  },
+  "b": {
+    "item_id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
+    "lede": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles",
+    "outlet": "theregister",
+    "published": "2026-11-18T17:45:00Z",
+    "title": "California tells Waymo to take the next exit after freeway mishaps",
+    "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
+  },
+  "score": 0.66326
+}

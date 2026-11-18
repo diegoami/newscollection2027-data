@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
+    "lede": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles",
+    "outlet": "theregister",
+    "published": "2026-11-18T17:45:00Z",
+    "title": "California tells Waymo to take the next exit after freeway mishaps",
+    "url": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841"
+  },
+  "b": {
+    "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+    "lede": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T16:24:34Z",
+    "title": "Waymo has stopped its robotaxis from driving on the freeway\u2014here\u2019s why",
+    "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+  },
+  "score": 0.720652
+}

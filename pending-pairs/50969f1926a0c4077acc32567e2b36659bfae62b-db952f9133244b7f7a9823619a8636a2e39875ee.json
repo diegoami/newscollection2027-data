@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50969f1926a0c4077acc32567e2b36659bfae62b",
+    "lede": "United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.",
+    "outlet": "engadget",
+    "published": "2026-11-16T04:56:53Z",
+    "title": "ULA Vulcan rocket failure destroys 40 Amazon Leo satellites",
+    "url": "https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/"
+  },
+  "b": {
+    "item_id": "db952f9133244b7f7a9823619a8636a2e39875ee",
+    "lede": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T16:58:32Z",
+    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/"
+  },
+  "score": 0.599156
+}

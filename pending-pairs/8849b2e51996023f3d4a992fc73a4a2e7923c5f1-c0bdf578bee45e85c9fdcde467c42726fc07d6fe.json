@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8849b2e51996023f3d4a992fc73a4a2e7923c5f1",
+    "lede": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it\u2019s a double-edged sword \u2013 and a gift to hackers.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T13:14:25Z",
+    "title": "AI finds zero-day flaws for just $4 now \u2013 even mediocre hackers can cash in",
+    "url": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/"
+  },
+  "b": {
+    "item_id": "c0bdf578bee45e85c9fdcde467c42726fc07d6fe",
+    "lede": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+    "outlet": "wired",
+    "published": "2026-11-18T16:35:24Z",
+    "title": "Artex Is Criminals\u2019 New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+    "url": "https://www.wired.com/story/artex-ai-hacking-tools/"
+  },
+  "score": 0.621926
+}

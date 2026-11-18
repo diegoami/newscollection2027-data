@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "aa453d94b5f44ad6708d6acb6ab08ba36df41a64",
+    "lede": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T05:10:02Z",
+    "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+    "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o"
+  },
+  "b": {
+    "item_id": "bb9ae133864288b11e2c1d4238c1698a0ac0938d",
+    "lede": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T13:16:53Z",
+    "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+    "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o"
+  },
+  "score": 0.579317
+}

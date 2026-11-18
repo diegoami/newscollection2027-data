@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e40619c86da1dec170df0799c375132a3a24e2f",
+    "lede": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T14:00:00Z",
+    "title": "Google warns that fully-automated AI attacks are coming soon",
+    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+  },
+  "b": {
+    "item_id": "3439be5ca6040b728f34768d75a5177d4bfe0515",
+    "lede": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "outlet": "techcrunch",
+    "published": "2026-11-18T16:59:00Z",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+  },
+  "score": 0.576602
+}
