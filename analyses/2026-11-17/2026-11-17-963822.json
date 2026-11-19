@@ -1,32 +1,46 @@
 {
   "cluster_id": "2026-11-17-963822",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-18T02:57:00Z",
-  "headline": "Apple hit by outage affecting iCloud and other services",
-  "summary": "Apple suffered an outage affecting multiple services, including iCloud, App Store, Apple Music, iCloud Mail, Account & Sign In, Apple School Manager and Schoolwork. Apple's status page confirmed the disruptions but had not confirmed a cause, and the full extent of the outage was not yet known.",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Apple and Google services hit by outage",
+  "summary": "iCloud and other Apple services, including iCloud Mail, Apple School Manager and Schoolwork, suffered an outage; Google's Gmail was also affected. Apple's status page confirmed the outage, and Apple later said it was resolved, while Google said it saw no internal signs of a problem.",
   "claims": [
     {
       "id": "c1",
-      "statement": "iCloud and other Apple services went down in an apparent outage, with the full extent not yet known.",
+      "statement": "iCloud and other Apple services suffered an outage.",
       "sources": [
-        {"outlet": "engadget", "item_id": "8fb0189a672fc668327f1db724edb00382e73df3", "quote": "iCloud and other Apple services are down in an apparent outage"}
+        {"outlet": "engadget", "item_id": "8fb0189a672fc668327f1db724edb00382e73df3", "quote": "iCloud and other Apple services are down in an apparent outage"},
+        {"outlet": "techcrunch", "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3", "quote": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Apple's status page confirmed outages across services including iCloud, App Store and Apple Music, without confirming a cause.",
+      "statement": "Apple's status page confirmed the outages but had not confirmed the cause.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3", "quote": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage"},
         {"outlet": "techcrunch", "item_id": "3e0e7322cd6e161678e33dd266caa4734b7c4ab3", "quote": "Apple's status page confirms its services are facing outages, but has not confirmed the cause."}
       ]
     },
     {
       "id": "c3",
-      "statement": "Apple reported disruptions affecting iCloud Mail, iCloud Account & Sign In, Apple School Manager and Schoolwork.",
+      "statement": "The outage affected iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork, among other services.",
       "sources": [
         {"outlet": "bleepingcomputer", "item_id": "6b76a35deee9b6075840752e0db612a29640fbd2", "quote": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Google's Gmail was also affected around the same time as the Apple outage.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "d4ef9b25c8f439f5b5c5ce2e2bd968a183edc3a9", "quote": "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwide"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Apple said it had resolved the outages, while Google said it had not seen internal signs of a problem.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "d4ef9b25c8f439f5b5c5ce2e2bd968a183edc3a9", "quote": "Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of"}
       ]
     }
   ],

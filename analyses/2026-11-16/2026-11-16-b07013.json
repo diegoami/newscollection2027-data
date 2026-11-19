@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-16-b07013",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Nvidia unveils Rubin HPC GPU at Supercomputing 2026",
+  "summary": "Nvidia unveiled its Rubin HPC GPU at Supercomputing 2026, offering over 50,000 CUDA cores for agentic HPC workloads when it arrives in 2028, positioned to challenge AMD's 288 teraFLOPS MI430X.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nvidia unveiled its Rubin HPC GPU at Supercomputing 2026.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7", "quote": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026"},
+        {"outlet": "theregister", "item_id": "7cafad63a853d4a59f9b749a38d8dcc46234b9a3", "quote": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Rubin GPU gives over 50,000 CUDA cores and will arrive in 2028.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7", "quote": "This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Rubin GPU is positioned to challenge AMD's 288 teraFLOPS MI430X chip.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "7cafad63a853d4a59f9b749a38d8dcc46234b9a3", "quote": "to challenge AMD's 288 teraFLOPS MI430X"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

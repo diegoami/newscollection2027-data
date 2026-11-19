@@ -1,0 +1,54 @@
+{
+  "cluster_id": "2026-11-18-63fde8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Voyager 1 nears one-light-day distance from Earth",
+  "summary": "Voyager 1, launched nearly 49 years ago and still storing data on an eight-track tape, is reported to be the first human-made object to reach a light-day from Earth, meaning a message now takes 24 hours to arrive; Tom's Hardware instead says NASA anticipates the milestone will occur on Wednesday.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Voyager 1 has become the first human-made object to be a light-day away from Earth.",
+      "sources": [
+        {"outlet": "wired", "item_id": "72953edab3136c80bb1725ebdfa32a8b1af56154", "quote": "Now, it’s the first human-made object to travel a light-day away from Earth."},
+        {"outlet": "theregister", "item_id": "f0ab239b37cd5f9806510344af465dfa49472f40", "quote": "Space robot legend Voyager 1 is now more than 1 light-day away"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The spacecraft stores data on an eight-track tape and has stayed in contact with scientists for decades.",
+      "sources": [
+        {"outlet": "wired", "item_id": "72953edab3136c80bb1725ebdfa32a8b1af56154", "quote": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "It now takes 24 hours to send a message to Voyager 1.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "816053abbdb6d7499ff21fb6056641e432a10ae7", "quote": "It now takes 24 hours to send a message to Voyager 1"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Voyager 1 launched about 49 years ago, almost half a century before this milestone.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "bf35e281a9cbdc1b3bf1aa6eadc4a339b83350f2", "quote": "Voyager 1 spacecraft crosses milestones distance of one-light day from Earth 49 years after launch"},
+        {"outlet": "theregister", "item_id": "f0ab239b37cd5f9806510344af465dfa49472f40", "quote": "almost half a century after launch"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "contradiction",
+      "severity": "medium",
+      "explanation": "Tom's Hardware says NASA anticipates Voyager 1 will reach the light-day milestone on Wednesday, while Wired and The Register report it has already reached that distance.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "tomshardware", "item_id": "bf35e281a9cbdc1b3bf1aa6eadc4a339b83350f2", "quote": "NASA anticipates that Voyager 1 will be the first human-made object to reach space beyond one light-day away from Earth on Wednesday."},
+        {"outlet": "wired", "item_id": "72953edab3136c80bb1725ebdfa32a8b1af56154", "quote": "Now, it’s the first human-made object to travel a light-day away from Earth."}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

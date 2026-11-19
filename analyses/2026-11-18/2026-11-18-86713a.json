@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-11-18-86713a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "US loses measles elimination status as cases spread",
+  "summary": "The US has lost its measles elimination status as the highly contagious disease, which became endemic months ago, continues to spread and may be accelerating; it will take years to regain the status.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The US has lost its measles elimination status.",
+      "sources": [
+        {"outlet": "wired", "item_id": "5e2a0f7bd3cb0a0551e6ea0cb2e6f32572de4481", "quote": "The US Lost Its Measles Elimination Status."},
+        {"outlet": "arstechnica", "item_id": "81a31047b5cac73e796adb414adfbccf9da2d40c", "quote": "that lost the US its elimination status"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Measles is spreading across the country and may be accelerating.",
+      "sources": [
+        {"outlet": "wired", "item_id": "5e2a0f7bd3cb0a0551e6ea0cb2e6f32572de4481", "quote": "The highly contagious disease is spreading across the country, and “may even be gaining speed.”"},
+        {"outlet": "arstechnica", "item_id": "81a31047b5cac73e796adb414adfbccf9da2d40c", "quote": "it's only accelerating."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "It will take years for the US to regain its elimination status.",
+      "sources": [
+        {"outlet": "wired", "item_id": "5e2a0f7bd3cb0a0551e6ea0cb2e6f32572de4481", "quote": "It’ll Take Years to Get It Back"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Measles became endemic in the US months ago.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "81a31047b5cac73e796adb414adfbccf9da2d40c", "quote": "Measles became endemic in the US months ago"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

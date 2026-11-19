@@ -1,0 +1,37 @@
+{
+  "cluster_id": "2026-11-18-e6f622",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Instagram lets users edit Stories after posting",
+  "summary": "Instagram now lets users edit a Story after posting, without losing views, likes or replies, within a 15-minute window to change text, music, stickers and drawings; the feature was announced by Instagram head Adam Mosseri.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Instagram now lets users edit a Story after posting without deleting it or losing views, likes, or replies.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "e5de50812514358fd2a63ff6e5ce4719a290aebc", "quote": "You can finally edit an Instagram Story without deleting it"},
+        {"outlet": "theverge", "item_id": "936f18e64ab6d5c40bc6fd4751e83a714aa3e425", "quote": "will allow you to edit your Stories without losing your views, likes, or replies."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Users have a 15-minute window after posting to edit text, music, stickers, and drawings.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "e5de50812514358fd2a63ff6e5ce4719a290aebc", "quote": "There's a 15-minute window to fix typos and make other changes."},
+        {"outlet": "theverge", "item_id": "936f18e64ab6d5c40bc6fd4751e83a714aa3e425", "quote": "You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Instagram head Adam Mosseri announced the feature, which a reverse engineer had spotted in development in April.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "936f18e64ab6d5c40bc6fd4751e83a714aa3e425", "quote": "Instagram head Adam Mosseri has announced."},
+        {"outlet": "theverge", "item_id": "936f18e64ab6d5c40bc6fd4751e83a714aa3e425", "quote": "Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

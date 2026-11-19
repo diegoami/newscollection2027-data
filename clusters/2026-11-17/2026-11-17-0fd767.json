@@ -1,0 +1,24 @@
+{
+  "anchor": "126567e065a77521fe2d7559a71b0adc07c1293c",
+  "id": "2026-11-17-0fd767",
+  "items": [
+    {
+      "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c",
+      "lede": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-17T23:04:21Z",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+    },
+    {
+      "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e",
+      "lede": "Attackers can crash the JVM or achieve unauthenticated RCE",
+      "outlet": "theregister",
+      "published": "2026-11-18T04:33:05Z",
+      "title": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps",
+      "url": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

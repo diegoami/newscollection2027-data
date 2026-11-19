@@ -1,0 +1,24 @@
+{
+  "anchor": "e5de50812514358fd2a63ff6e5ce4719a290aebc",
+  "id": "2026-11-18-e6f622",
+  "items": [
+    {
+      "item_id": "e5de50812514358fd2a63ff6e5ce4719a290aebc",
+      "lede": "There's a 15-minute window to fix typos and make other changes.",
+      "outlet": "engadget",
+      "published": "2026-11-18T19:14:19Z",
+      "title": "You can finally edit an Instagram Story without deleting it",
+      "url": "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/"
+    },
+    {
+      "item_id": "936f18e64ab6d5c40bc6fd4751e83a714aa3e425",
+      "lede": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-18T19:29:10Z",
+      "title": "Instagram now lets you edit your stories after you post them",
+      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,39 @@
+{
+  "cluster_id": "2026-11-18-de2465",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Nvidia offers pay raises after Jensen Huang's departure",
+  "summary": "At Nvidia's first all-hands since Jensen Huang's departure, interim CEO Collette Kress promised pay raises and more equity, on an accelerated schedule before December, to ease employee concerns. Outlets differ on whether Huang's exit was an ouster or a resignation.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "At Nvidia's first all-hands since Jensen Huang's departure, interim CEO Collette Kress promised pay raises and more equity to ease employee concerns.",
+      "sources": [
+        {"outlet": "wired", "item_id": "30748ff8ddfb6ee1f4131c55443fa3d8c81aa7c3", "quote": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation."},
+        {"outlet": "tomshardware", "item_id": "dad98a146398db05905bfa84c1634d1c2d45649d", "quote": "Interim CEO Collete Kress reportedly offered staffers higher wages and more equity on an advanced schedule at the company's first all-hands after Jensen Huang resigned."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The raises and equity will be delivered on an accelerated schedule, before December.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "dad98a146398db05905bfa84c1634d1c2d45649d", "quote": "Nvidia promises employee pay raises, equity before December to quell unrest in wake of Jensen Huang scandal"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "Wired describes Jensen Huang's departure as an 'ouster' while Tom's Hardware says he resigned.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "wired", "item_id": "30748ff8ddfb6ee1f4131c55443fa3d8c81aa7c3", "quote": "following Jensen Huang’s ouster"},
+        {"outlet": "tomshardware", "item_id": "dad98a146398db05905bfa84c1634d1c2d45649d", "quote": "after Jensen Huang resigned."}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

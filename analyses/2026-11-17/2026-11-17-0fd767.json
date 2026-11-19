@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-17-0fd767",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Critical Java4Shell flaw enables remote code execution in Java apps",
+  "summary": "A critical OpenJDK vulnerability called Java4Shell, disclosed by Oracle, lets unauthenticated attackers remotely execute code or crash the JVM on major Java applications including Jenkins, Atlassian Jira, Confluence, and Keycloak.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A critical OpenJDK vulnerability called Java4Shell allows unauthenticated attackers to remotely execute code on major Java applications.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "Critical Java4Shell flaw allows RCE attacks on major Java applications"},
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Attackers can crash the JVM or achieve unauthenticated RCE"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Affected applications include Jenkins, Atlassian Jira, Confluence, and Keycloak.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "including Jenkins, Atlassian Jira, Confluence, and Keycloak."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Attackers can also crash the JVM, not only achieve RCE.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Attackers can crash the JVM or achieve unauthenticated RCE"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Oracle disclosed the bug.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

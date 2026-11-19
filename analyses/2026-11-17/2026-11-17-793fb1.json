@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-17-793fb1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Google Wallet launches on iOS without tap-to-pay",
+  "summary": "Google Wallet is launching on iOS, bringing Gemini agentic shopping to US-based iPhone users, but the app does not support tap-to-pay.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google Wallet is launching on iOS.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "4d46774341fea55bc9c2b1b273d8fd9223846c4d", "quote": "Google Wallet is launching on iOS"},
+        {"outlet": "zdnet", "item_id": "fd132605e70e02b5ab0605897d4e059b696e264a", "quote": "Google Wallet comes to your iPhone"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The iOS version of Google Wallet does not support tap-to-pay.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "fd132605e70e02b5ab0605897d4e059b696e264a", "quote": "sorry, no tap-to-pay."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The app brings Gemini agentic shopping to US-based iOS users.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "fd132605e70e02b5ab0605897d4e059b696e264a", "quote": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

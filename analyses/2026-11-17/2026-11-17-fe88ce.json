@@ -1,38 +1,47 @@
 {
   "cluster_id": "2026-11-17-fe88ce",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-18T02:58:00Z",
-  "headline": "Waymo suspends freeway rides after California safety ban",
-  "summary": "California's DMV banned Waymo's self-driving cars from freeways, calling the freeway operations an imminent hazard to public safety after a driverless Waymo was caught trying to pass a Highway Patrol vehicle slowing traffic. Waymo is suspending freeway rides nationwide, and restrictions will stay until it demonstrates effective corrective actions.",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Waymo suspends freeway robotaxi rides after California DMV order",
+  "summary": "California's DMV ordered Waymo to stop freeway robotaxi rides nationwide, saying the operations pose an imminent hazard to public safety; restrictions stay until Waymo shows effective corrective action. The order follows incidents including a Waymo trying to pass a Highway Patrol vehicle, and an earlier May recall over construction-zone incursions.",
   "claims": [
     {
       "id": "c1",
-      "statement": "California's DMV banned Waymo's self-driving cars from freeways, determining they pose an imminent hazard to public safety.",
+      "statement": "California's DMV ordered Waymo to halt freeway robotaxi rides, saying the operations pose an imminent hazard to public safety.",
       "sources": [
-        {"outlet": "wired", "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee", "quote": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”"}
+        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety."},
+        {"outlet": "bbc-technology", "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840", "quote": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."}
       ]
     },
     {
       "id": "c2",
-      "statement": "Restrictions will remain until Waymo demonstrates it has taken effective corrective actions to address the deficiencies.",
+      "statement": "Restrictions remain until Waymo demonstrates it has taken effective corrective actions.",
       "sources": [
         {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies."}
       ]
     },
     {
       "id": "c3",
-      "statement": "Waymo is suspending freeway rides nationwide.",
+      "statement": "The order followed a driverless Waymo being caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Waymo suspends freeway rides nationwide after California DMV order"}
+        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic."}
       ]
     },
     {
       "id": "c4",
-      "statement": "The restrictions followed an incident where a driverless Waymo was caught trying to pass a Highway Patrol vehicle slowing traffic.",
+      "statement": "Waymo's robotaxis had already been recalled in May after entering highway construction zones.",
       "sources": [
-        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic."}
+        {"outlet": "arstechnica", "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670", "quote": "Robotaxis already had to be recalled in May after they entered highway construction zones."}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The suspension of freeway rides is nationwide.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Waymo suspends freeway rides nationwide after California DMV order"},
+        {"outlet": "bbc-technology", "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840", "quote": "Waymo pulls driverless taxis from all US freeways"}
       ]
     }
   ],

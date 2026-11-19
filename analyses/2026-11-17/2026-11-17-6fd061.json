@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-17-6fd061",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "CFTC orders Kalshi to halt bets on Trump's speeches",
+  "summary": "The CFTC ordered prediction-market platform Kalshi to stop letting users bet on what Trump will say in his speeches, saying the bets may violate the US ban on easily manipulated contracts; Kalshi's CEO complied but opposed the move.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The CFTC ordered Kalshi to stop letting users bet on what Trump will say in his speeches.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "73f1f3ec5e849783a0ce7335ad70230f45aa80e6", "quote": "CFTC tells Kalshi to stop letting people bet on Trump's speeches"},
+        {"outlet": "arstechnica", "item_id": "313425cc9651e42aa68d146e36660e48f69edd8b", "quote": "Trump admin orders Kalshi to halt wagers on what words Trump will say"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Kalshi's CEO complied with the order but opposed it.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "73f1f3ec5e849783a0ce7335ad70230f45aa80e6", "quote": "The prediction market platform's CEO has complied but opposed the move."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The CFTC says the bets may violate the US ban on contracts that can be easily manipulated.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "313425cc9651e42aa68d146e36660e48f69edd8b", "quote": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "explanation": "Engadget attributes the order to the CFTC while Ars Technica frames it as coming from the Trump administration.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "engadget", "item_id": "73f1f3ec5e849783a0ce7335ad70230f45aa80e6", "quote": "CFTC tells Kalshi to stop letting people bet on Trump's speeches"},
+        {"outlet": "arstechnica", "item_id": "313425cc9651e42aa68d146e36660e48f69edd8b", "quote": "Trump admin orders Kalshi to halt wagers on what words Trump will say"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

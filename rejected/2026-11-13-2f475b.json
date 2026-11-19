@@ -1,0 +1,160 @@
+{
+  "analysis": {
+    "agreement": "conflicting",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+            "outlet": "wired",
+            "quote": "FAA Grounds All US Flights Until Further Notice"
+          },
+          {
+            "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf",
+            "outlet": "techcrunch",
+            "quote": "US government grounds all flights across the United States \u2018due to extraordinary circumstances\u2019"
+          }
+        ],
+        "statement": "The FAA issued a nationwide ground stop halting flights across the US."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "83128b074022c3ef4f680095c7a902d31dda5df9",
+            "outlet": "wired",
+            "quote": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday."
+          },
+          {
+            "item_id": "0c34c8f3387b63b7639ace8b706203763167dadf",
+            "outlet": "techcrunch",
+            "quote": "following communication issues impacting multiple Air Route Traffic Control Centers,"
+          }
+        ],
+        "statement": "The stop was attributed to a nationwide communications failure among air traffic control systems."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "4a58886a7a4ae768e35fee41742b5df529d48b84",
+            "outlet": "wired",
+            "quote": "The five-hour ordeal ended Friday evening."
+          },
+          {
+            "item_id": "d972c5a5c01d8e05a7c2b4988cc3f848ce6bba35",
+            "outlet": "theregister",
+            "quote": "FAA lifts ground stop after hours-long delays snag travelers"
+          }
+        ],
+        "statement": "The FAA lifted the ground stop after about five hours, Friday evening."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "a3eec27e07e130fe80e657125739ad17a69bf6b7",
+            "outlet": "arstechnica",
+            "quote": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage."
+          },
+          {
+            "item_id": "43a64e6ec908a093b5f025a7b2d1f2a2fdff7f40",
+            "outlet": "theverge",
+            "quote": "work to replace old copper wire led to the FAA\u2019s ground stop"
+          }
+        ],
+        "statement": "Transportation Secretary Sean Duffy said the outage stemmed from routine work replacing old copper wiring with fiber optic lines at a remote FAA facility."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "43a64e6ec908a093b5f025a7b2d1f2a2fdff7f40",
+            "outlet": "theverge",
+            "quote": "The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort."
+          }
+        ],
+        "statement": "Duffy called the work routine maintenance, not a major modernization effort."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "2aae0ad36a1c00891dc6ce7481f1fcb98c230f43",
+            "outlet": "techcrunch",
+            "quote": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""
+          }
+        ],
+        "statement": "FAA administrator Bryan Bedford said there was zero evidence of anything AI-related."
+      },
+      {
+        "id": "c7",
+        "sources": [
+          {
+            "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+            "outlet": "tomshardware",
+            "quote": "Two HPE Juniper network routers grounded all US flights on Friday"
+          },
+          {
+            "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+            "outlet": "tomshardware",
+            "quote": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop."
+          }
+        ],
+        "statement": "The FAA determined a rogue feature in two newly installed HPE Juniper routers caused the communications glitches behind the ground stop."
+      },
+      {
+        "id": "c8",
+        "sources": [
+          {
+            "item_id": "cd1fd369632d6eb108126e6c900dc6bdb7e20770",
+            "outlet": "engadget",
+            "quote": "FAA suspends installation of router that led to a ground stop of flights across the US"
+          },
+          {
+            "item_id": "cd1fd369632d6eb108126e6c900dc6bdb7e20770",
+            "outlet": "engadget",
+            "quote": "The FAA has also disabled the other 68 routers that had already been installed."
+          }
+        ],
+        "statement": "The FAA suspended installation of the router model and disabled 68 other routers already installed."
+      }
+    ],
+    "cluster_id": "2026-11-13-2f475b",
+    "cluster_version": 3,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c4",
+          "c7"
+        ],
+        "explanation": "Transportation Secretary Duffy attributed the ground stop to routine copper-to-fiber wiring work, while Tom's Hardware reports the FAA later blamed a rogue feature in newly installed HPE Juniper routers.",
+        "kind": "contradiction",
+        "quotes": [
+          {
+            "item_id": "43a64e6ec908a093b5f025a7b2d1f2a2fdff7f40",
+            "outlet": "theverge",
+            "quote": "work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\""
+          },
+          {
+            "item_id": "93e65adce8bbaa67a507b9d5b3f6e59abcf241f2",
+            "outlet": "tomshardware",
+            "quote": "The FAA determined that a rogue feature in two newly installed routers are to blame for the communications glitches that caused the nationwide ground stop."
+          }
+        ],
+        "severity": "high"
+      }
+    ],
+    "generated_at": "2026-11-19T02:20:18Z",
+    "headline": "FAA's nationwide ground stop halts US flights for hours",
+    "model": "claude-sonnet-5",
+    "summary": "The FAA ordered a nationwide ground stop that halted US flights for about five hours on Friday, citing a communications failure among air traffic control systems, then lifted it that evening. Transportation Secretary Duffy first blamed routine copper-to-fiber wiring work; Tom's Hardware later reported the FAA traced the glitch to a rogue feature in newly installed routers, and suspended further installs."
+  },
+  "cluster_id": "2026-11-13-2f475b",
+  "problems": [
+    "quote: not verbatim in theverge 43a64e6ec908a093b5f025a7b2d1f2a2fdff7f40's title or lede: 'work to replace old copper wire led to the FAA\u2019s ground stop'"
+  ],
+  "rejected_at": "2026-11-19T02:27:55Z"
+}

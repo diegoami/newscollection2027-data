@@ -771,6 +771,14 @@
       "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing"
     },
     {
+      "item_id": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b",
+      "lede": "But the new chairman shot that idea down on the company's earnings call",
+      "outlet": "theregister",
+      "published": "2026-11-17T21:15:42Z",
+      "title": "Jensen Huang thrilled to be spending time with family, but will retake leadership burden if Nvidia asks",
+      "url": "https://www.theregister.com/systems/2026/11/17/jensen-huang-thrilled-to-be-spending-time-with-family-but-will-retake-leadership-burden-if-nvidia-asks/5310585"
+    },
+    {
       "item_id": "7465bbc4c963251d4045503ef002657796b8a1e4",
       "lede": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [\u2026]",
       "outlet": "theverge",
@@ -819,12 +827,12 @@
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
     },
     {
-      "item_id": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
-      "lede": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
-      "outlet": "bbc-technology",
-      "published": "2026-11-17T23:03:39Z",
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+      "item_id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+      "lede": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spy Nvidia \u201cdoes not intend to reinstate Jensen as CEO\u201d, the chairman of the company\u2019s board said Tuesday. Harvey Jones made the remark during Nvidia\u2019s first quarterly earnings report since Jensen Huang\u2019s ouster. Nvidia announced the same day that its quarterly revenue beat expectations,",
+      "outlet": "theguardian",
+      "published": "2026-11-17T23:32:16Z",
+      "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
     },
     {
       "item_id": "83a48772429ae19970eaa58f3c4350d4e171265c",
@@ -833,8 +841,24 @@
       "published": "2026-11-18T00:16:50Z",
       "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
       "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    },
+    {
+      "item_id": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+      "lede": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-18T01:18:18Z",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+    },
+    {
+      "item_id": "f816757e046db752418023807eda6c93e27132de",
+      "lede": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "outlet": "techcrunch",
+      "published": "2026-11-18T16:14:09Z",
+      "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
     }
   ],
   "status": "analyzed",
-  "version": 13
+  "version": 14
 }

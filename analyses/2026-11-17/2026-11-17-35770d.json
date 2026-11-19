@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-17-35770d",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Reviews of Xreal Aura AR glasses diverge on controls",
+  "summary": "Reviewers tested the Xreal Aura, lightweight AR glasses paired with a battery-powered Computing Puck; one outlet found the controls frustrating despite good screens, while another called the overall experience a true next-gen spatial computing experience.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Xreal Aura pairs lightweight AR glasses with a separate battery-powered compute puck and is more comfortable than a bulky VR headset.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2e372b5f969444d6ca92378d819731e743d7af7a", "quote": "Xreal’s Aura glasses are much comfier than a bulky VR headset."},
+        {"outlet": "tomshardware", "item_id": "1620d2c3fa51aef9d661ce0bcb3e1f57be90a0fd", "quote": "The Xreal Aura combines lightweight glasses with a battery-powered Computing Puck"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Wired found the Aura's controls frustrating despite good screens.",
+      "sources": [
+        {"outlet": "wired", "item_id": "2e372b5f969444d6ca92378d819731e743d7af7a", "quote": "I just wish they weren’t so frustrating to control."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Tom's Hardware says the Aura delivers a true next-gen spatial computing experience.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "1620d2c3fa51aef9d661ce0bcb3e1f57be90a0fd", "quote": "delivers a true next-gen spatial computing experience"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Wired criticizes the Aura's controls as frustrating while Tom's Hardware characterizes the overall experience positively as next-gen.",
+      "claim_ids": ["c2", "c3"],
+      "quotes": [
+        {"outlet": "wired", "item_id": "2e372b5f969444d6ca92378d819731e743d7af7a", "quote": "Frustrating Controls"},
+        {"outlet": "tomshardware", "item_id": "1620d2c3fa51aef9d661ce0bcb3e1f57be90a0fd", "quote": "delivers a true next-gen spatial computing experience"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

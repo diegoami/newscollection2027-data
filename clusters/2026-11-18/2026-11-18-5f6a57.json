@@ -1,0 +1,32 @@
+{
+  "anchor": "0ad69605a84900f72e560156ae22f11a73993ada",
+  "id": "2026-11-18-5f6a57",
+  "items": [
+    {
+      "item_id": "0ad69605a84900f72e560156ae22f11a73993ada",
+      "lede": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-18T08:24:18Z",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/"
+    },
+    {
+      "item_id": "965b9ee2c71225ef753fb0aad8184efda6146414",
+      "lede": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-18T09:28:35Z",
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o"
+    },
+    {
+      "item_id": "9610a86cb8015f07b24abaf1430978e874e51804",
+      "lede": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+      "outlet": "techcrunch",
+      "published": "2026-11-18T14:55:13Z",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

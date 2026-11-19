@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-17-5a02b6",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Anthropic heads toward blockbuster stock market debut",
+  "summary": "Anthropic, the company behind the Claude chatbot, is heading for a US stock market listing this week expected to be one of the largest debuts in history, a move expected to make its seven founders multi-billionaires.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic is going public on the US stock market this week in a debut expected to be one of the largest in history.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "6344945c046955542a08855a3be046ddc1da7171", "quote": "is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history."},
+        {"outlet": "bbc-technology", "item_id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559", "quote": "is about to sell its shares on the US stock market"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The IPO is expected to make Anthropic's seven founders multi-billionaires.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559", "quote": "The seven Anthropic founders who are about to become multi-billionaires"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

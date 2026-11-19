@@ -14,39 +14,61 @@
           {
             "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
             "outlet": "arstechnica",
-            "quote": "This was the first total mission failure in United Launch Alliance's 20-year history."
+            "quote": "This was the first total mission failure in United Launch Alliance\u2019s 20-year history."
           }
         ],
-        "statement": "ULA's Vulcan rocket suffered its first mission failure in the company's 20-year history, destroying 40 Amazon Leo satellites."
+        "statement": "ULA's Vulcan rocket failed during launch, destroying 40 Amazon Leo satellites, in ULA's first total mission failure in 20 years."
       },
       {
         "id": "c2",
         "sources": [
           {
-            "item_id": "c8f9f37dbdfe70243a6908a36018e1a14e463629",
-            "outlet": "theverge",
-            "quote": "Leo is Amazon's competitor to SpaceX's Starlink"
-          },
-          {
             "item_id": "2eef4a5b12a1999551eb51b8733ad549321c2a52",
             "outlet": "arstechnica",
             "quote": "dealing major blow to SpaceX competitors"
+          },
+          {
+            "item_id": "44cdf1d92efd091f9e976e2f2950fd723ff41c8b",
+            "outlet": "tomshardware",
+            "quote": "Amazon has suffered a major setback in its plans to offer a viable Starlink rival, after 40 satellites destined for low earth orbit were destroyed in a failed rocket launch."
           }
         ],
-        "statement": "The failure is a setback for Amazon's Leo satellite network, a competitor to SpaceX's Starlink."
+        "statement": "The failure is a major setback for Amazon's Leo satellite network, a rival to SpaceX's Starlink."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "db952f9133244b7f7a9823619a8636a2e39875ee",
+            "outlet": "arstechnica",
+            "quote": "Vulcan failure caused by inadequate fuel supply to engines, ULA says"
+          }
+        ],
+        "statement": "ULA later said the failure was caused by inadequate fuel supply to the engines."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "db952f9133244b7f7a9823619a8636a2e39875ee",
+            "outlet": "arstechnica",
+            "quote": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\""
+          }
+        ],
+        "statement": "A partner said it still considers ULA valued and looks forward to Vulcan's return to flight."
       }
     ],
     "cluster_id": "2026-11-15-56f978",
-    "cluster_version": 1,
+    "cluster_version": 3,
     "discrepancies": [],
-    "generated_at": "2026-11-16T02:18:05Z",
-    "headline": "Vulcan rocket failure destroys Amazon's Leo satellites",
+    "generated_at": "2026-11-19T02:40:00Z",
+    "headline": "ULA's Vulcan rocket fails, destroying 40 Amazon satellites",
     "model": "claude-sonnet-5",
-    "summary": "A ULA Vulcan rocket suffered its first total mission failure in the company's 20-year history, destroying 40 satellites for Amazon's Leo network, a rival to SpaceX's Starlink."
+    "summary": "United Launch Alliance's Vulcan rocket failed during launch, destroying 40 Amazon Leo satellites in ULA's first total mission failure in 20 years and setting back Amazon's Starlink rival; ULA later said the failure was caused by inadequate fuel supply to the engines."
   },
   "cluster_id": "2026-11-15-56f978",
   "problems": [
-    "cluster: analysis is for version 1, cluster is at version 2"
+    "quote: not verbatim in arstechnica 2eef4a5b12a1999551eb51b8733ad549321c2a52's title or lede: 'This was the first total mission failure in United Launch Alliance\u2019s 20-year history.'"
   ],
-  "rejected_at": "2026-11-17T02:21:29Z"
+  "rejected_at": "2026-11-19T02:31:16Z"
 }

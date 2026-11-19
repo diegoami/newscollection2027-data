@@ -1,0 +1,24 @@
+{
+  "anchor": "5e2a0f7bd3cb0a0551e6ea0cb2e6f32572de4481",
+  "id": "2026-11-18-86713a",
+  "items": [
+    {
+      "item_id": "5e2a0f7bd3cb0a0551e6ea0cb2e6f32572de4481",
+      "lede": "The highly contagious disease is spreading across the country, and \u201cmay even be gaining speed.\u201d",
+      "outlet": "wired",
+      "published": "2026-11-18T17:53:08Z",
+      "title": "The US Lost Its Measles Elimination Status. It\u2019ll Take Years to Get It Back",
+      "url": "https://www.wired.com/story/us-lost-measles-elimination-status-years-to-recover/"
+    },
+    {
+      "item_id": "81a31047b5cac73e796adb414adfbccf9da2d40c",
+      "lede": "Measles became endemic in the US months ago\u2014and it's only accelerating.",
+      "outlet": "arstechnica",
+      "published": "2026-11-18T18:30:23Z",
+      "title": "The \"shameful\" measles data that lost the US its elimination status",
+      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "cluster_id": "2026-11-17-18b770",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:40:00Z",
+  "headline": "Tesla's Cybercab comes with ownership restrictions and monthly fee",
+  "summary": "Tesla has invited some buyers to reserve a personal Cybercab robotaxi, priced at $30,000 plus a $299 monthly fee, with Tesla able to restrict where the vehicles drive and block owners from reselling them.",
+  "claims": [
+    {
+      "id": "c1",
+      "sources": [
+        {"item_id": "8ce1000a208ceb32417ceaa3557e6c93c356ec23", "outlet": "wired", "quote": "The electric-auto maker says it has invited some buyers to reserve a personal robotaxi."}
+      ],
+      "statement": "Tesla has invited some buyers to reserve a personal Cybercab robotaxi."
+    },
+    {
+      "id": "c2",
+      "sources": [
+        {"item_id": "198345eef087eeb8ca3781a95a8730161555fe03", "outlet": "arstechnica", "quote": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch"}
+      ],
+      "statement": "The Cybercab costs $30,000 plus a $299 monthly fee."
+    },
+    {
+      "id": "c3",
+      "sources": [
+        {"item_id": "198345eef087eeb8ca3781a95a8730161555fe03", "outlet": "arstechnica", "quote": "Tesla can restrict where Cybercabs drive and even block owners from reselling them."}
+      ],
+      "statement": "Tesla can restrict where Cybercabs are driven and block owners from reselling them."
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

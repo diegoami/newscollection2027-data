@@ -1,0 +1,24 @@
+{
+  "anchor": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7",
+  "id": "2026-11-16-b07013",
+  "items": [
+    {
+      "item_id": "bdc8e7eacc0c5b79217925f7d96bbd6ebbfcafe7",
+      "lede": "Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028.",
+      "outlet": "tomshardware",
+      "published": "2026-11-16T19:05:24Z",
+      "title": "Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028"
+    },
+    {
+      "item_id": "7cafad63a853d4a59f9b749a38d8dcc46234b9a3",
+      "lede": "Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X",
+      "outlet": "theregister",
+      "published": "2026-11-17T22:37:46Z",
+      "title": "GPU giants throw HPC users some tasty crumbs",
+      "url": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

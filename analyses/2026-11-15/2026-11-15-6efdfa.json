@@ -1,0 +1,21 @@
+{
+  "cluster_id": "2026-11-15-6efdfa",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-19T02:20:18Z",
+  "headline": "Workers around the world take time off to play GTA VI",
+  "summary": "Outlets report that many people are taking sick days, vacation days, or gaming at the office to mark the long-awaited release of Grand Theft Auto VI.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Many employees are taking time off, or gaming at work, to mark GTA VI's release.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "3f4c07423abdecbd03ef94ec73d3d213732cfc64", "quote": "is the whole world really taking the day off work to play GTA VI?"},
+        {"outlet": "wired", "item_id": "616214ffcc077ace6f75e3f8e6f97bb48bab6374", "quote": "many are going all out to embrace the franchise’s long-awaited release."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
