@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d1d45343ebee717a71b7983085933831dd3cedde",
+    "lede": "The Trump administration announced plans to clamp down on China\u2019s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+    "outlet": "wired",
+    "published": "2026-11-18T21:15:00Z",
+    "title": "America\u2019s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+    "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/"
+  },
+  "b": {
+    "item_id": "df8e5203f1144bae76f057188cef7db112e03eb9",
+    "lede": "Trump bets China won\u2019t mind US blocking remote access to AI chips.",
+    "outlet": "arstechnica",
+    "published": "2026-11-16T19:10:09Z",
+    "title": "US moves to cut China\u2019s remote access to AI chips",
+    "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+  },
+  "score": 0.601056
+}

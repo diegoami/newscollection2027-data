@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+    "lede": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
+    "outlet": "engadget",
+    "published": "2026-11-17T21:57:49Z",
+    "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
+    "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/"
+  },
+  "b": {
+    "item_id": "d12f9f378b12d2df91f5d11841db53c44ed2dbd0",
+    "lede": "Waymo temporarily paused service in San Francisco after several robotaxis caused traffic jams as they were unable to navigate flooded streets during a storm.",
+    "outlet": "engadget",
+    "published": "2026-11-18T23:23:57Z",
+    "title": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+    "url": "https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/"
+  },
+  "score": 0.577038
+}
