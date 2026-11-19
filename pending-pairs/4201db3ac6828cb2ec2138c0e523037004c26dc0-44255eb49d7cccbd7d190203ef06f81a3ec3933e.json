@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4201db3ac6828cb2ec2138c0e523037004c26dc0",
+    "lede": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-15T18:29:53Z",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+  },
+  "b": {
+    "item_id": "44255eb49d7cccbd7d190203ef06f81a3ec3933e",
+    "lede": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+    "outlet": "techcrunch",
+    "published": "2026-11-18T23:45:00Z",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+  },
+  "score": 0.600042
+}

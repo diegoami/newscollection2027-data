@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "198b16a285bdd85182e1593f7c683db3d03984f7",
+    "lede": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-16T01:47:57Z",
+    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+  },
+  "b": {
+    "item_id": "66a7c55dd51c0bc44f7cb81ceb6d32e81fe0d898",
+    "lede": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+    "outlet": "wired",
+    "published": "2026-11-18T22:00:00Z",
+    "title": "Even His Own Officials Don\u2019t Think Trump\u2019s China Trip Will Lead to Progress on AI",
+    "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/"
+  },
+  "score": 0.581933
+}
