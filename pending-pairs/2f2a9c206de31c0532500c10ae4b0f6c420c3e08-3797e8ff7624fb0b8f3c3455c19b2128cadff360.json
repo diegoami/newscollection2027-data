@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08",
+    "lede": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T08:47:06Z",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo"
+  },
+  "b": {
+    "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+    "lede": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T10:30:00Z",
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  },
+  "score": 0.581455
+}

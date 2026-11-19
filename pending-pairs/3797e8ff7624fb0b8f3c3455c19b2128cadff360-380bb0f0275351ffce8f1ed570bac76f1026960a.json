@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+    "lede": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T10:30:00Z",
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  },
+  "b": {
+    "item_id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
+    "lede": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "outlet": "theregister",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "url": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+  },
+  "score": 0.573256
+}

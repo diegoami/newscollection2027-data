@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+    "lede": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T10:30:00Z",
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  },
+  "b": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "score": 0.613835
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "94e979efd7382a51e7bfa84de16b155a1ef14e68",
+    "lede": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-16T20:27:58Z",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+  },
+  "b": {
+    "item_id": "aae72e4c06797373ec59fb581b73e62654a5a8df",
+    "lede": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world\u2019s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world\u2019s energy watchdog. The International Energy Agency (IEA) warned",
+    "outlet": "theguardian",
+    "published": "2026-11-19T05:00:18Z",
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+  },
+  "score": 0.634031
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c",
+    "lede": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T23:04:21Z",
+    "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+  },
+  "b": {
+    "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+    "lede": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T10:30:00Z",
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  },
+  "score": 0.625375
+}

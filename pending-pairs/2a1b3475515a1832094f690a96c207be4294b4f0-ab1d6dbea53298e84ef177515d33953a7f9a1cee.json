@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2a1b3475515a1832094f690a96c207be4294b4f0",
+    "lede": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide after California banned them from freeways in response to recent traffic incidents. Waymo had allowed riders to",
+    "outlet": "theguardian",
+    "published": "2026-11-18T22:05:49Z",
+    "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+    "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+  },
+  "b": {
+    "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+    "lede": "California\u2019s DMV banned Waymo\u2019s self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d",
+    "outlet": "wired",
+    "published": "2026-11-17T19:38:08Z",
+    "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+    "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/"
+  },
+  "score": 0.75557
+}
