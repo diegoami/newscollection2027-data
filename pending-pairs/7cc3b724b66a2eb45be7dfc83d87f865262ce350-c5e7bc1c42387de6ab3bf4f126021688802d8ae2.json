@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cc3b724b66a2eb45be7dfc83d87f865262ce350",
+    "lede": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T14:57:24Z",
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"
+  },
+  "b": {
+    "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+    "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T16:28:23Z",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+  },
+  "score": 0.651925
+}

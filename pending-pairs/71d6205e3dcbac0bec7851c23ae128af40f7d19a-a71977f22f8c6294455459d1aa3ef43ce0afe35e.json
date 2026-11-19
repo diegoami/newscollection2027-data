@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "71d6205e3dcbac0bec7851c23ae128af40f7d19a",
+    "lede": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T23:10:39Z",
+    "title": "Ukraine blew up Putin\u2019s bridge using relay drones to bypass Starlink limits",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+  },
+  "b": {
+    "item_id": "a71977f22f8c6294455459d1aa3ef43ce0afe35e",
+    "lede": "Ukrainian forces ditched Elon Musk's Starlink and used a network of \"flying modems\" to build a relay network that allowed them to maintain a live feed of an attack on the Crimean Bridge, even as Russia tried to block the signal.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T11:11:29Z",
+    "title": "Ukraine deploys homemade 'flying modems' in daring drone attack to destroy Crimean Bridge, ditching Elon Musk's Starlink",
+    "url": "https://www.tomshardware.com/networking/ukraine-deploys-homemade-flying-modems-in-daring-drone-attack-to-destroy-crimean-bridge-ditching-elon-musks-starlink-airborne-relay-stations-allow-pilots-to-dodge-russian-air-defences-to-deliver-1-200kg-payload"
+  },
+  "score": 0.650675
+}

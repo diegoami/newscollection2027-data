@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "7cc3b724b66a2eb45be7dfc83d87f865262ce350",
+    "lede": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T14:57:24Z",
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"
+  },
+  "score": 0.572944
+}

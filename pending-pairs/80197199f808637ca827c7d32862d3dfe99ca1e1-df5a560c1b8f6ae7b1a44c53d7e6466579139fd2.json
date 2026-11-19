@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+    "lede": "At least one dangerous RCE bug will get a fix on Thursday",
+    "outlet": "theregister",
+    "published": "2026-11-18T22:38:12Z",
+    "title": "Get ready for another critical PHP security release to drop",
+    "url": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+  },
+  "b": {
+    "item_id": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+    "lede": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T13:08:08Z",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+  },
+  "score": 0.605755
+}

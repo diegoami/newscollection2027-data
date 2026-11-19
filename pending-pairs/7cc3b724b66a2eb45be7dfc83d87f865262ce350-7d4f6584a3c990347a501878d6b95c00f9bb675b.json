@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7cc3b724b66a2eb45be7dfc83d87f865262ce350",
+    "lede": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T14:57:24Z",
+    "title": "Critical NGINX \u2018NGINX2Root\u2019 bugs let attackers hijack servers",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"
+  },
+  "b": {
+    "item_id": "7d4f6584a3c990347a501878d6b95c00f9bb675b",
+    "lede": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T09:30:04Z",
+    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+    "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/"
+  },
+  "score": 0.684727
+}

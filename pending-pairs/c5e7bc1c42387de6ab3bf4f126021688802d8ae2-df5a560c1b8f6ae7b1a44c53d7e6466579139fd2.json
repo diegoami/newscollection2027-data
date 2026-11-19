@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+    "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T16:28:23Z",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+  },
+  "b": {
+    "item_id": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+    "lede": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T13:08:08Z",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+  },
+  "score": 0.724442
+}

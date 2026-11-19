@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+    "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T16:28:23Z",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+  },
+  "score": 0.733514
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
+    "lede": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "outlet": "techcrunch",
+    "published": "2026-11-19T18:09:11Z",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+  },
+  "b": {
+    "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+    "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T16:50:10Z",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  },
+  "score": 0.625392
+}

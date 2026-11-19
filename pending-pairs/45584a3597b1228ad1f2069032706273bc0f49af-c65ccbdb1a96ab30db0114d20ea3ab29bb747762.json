@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "45584a3597b1228ad1f2069032706273bc0f49af",
+    "lede": "When everything goes down, don\u2019t assume it\u2019s a cyberattack.",
+    "outlet": "arstechnica",
+    "published": "2026-11-19T11:13:01Z",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+  },
+  "b": {
+    "item_id": "c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+    "lede": "Email, flights, banks; network failures are piling up. Here\u2019s how WIRED investigates if they\u2019re the result of hacker mayhem. (Hint: usually not.)",
+    "outlet": "wired",
+    "published": "2026-11-17T19:40:57Z",
+    "title": "How to Tell If It\u2019s a Cyberattack or Just an Outage",
+    "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+  },
+  "score": 0.628412
+}

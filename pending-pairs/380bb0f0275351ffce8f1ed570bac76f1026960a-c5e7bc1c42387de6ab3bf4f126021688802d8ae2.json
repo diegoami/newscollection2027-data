@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "380bb0f0275351ffce8f1ed570bac76f1026960a",
+    "lede": "PARTNER CONTENT: AI agents are making security vulnerabilities easier to find and exploit in your code. Software engineering and application security teams need new ways to find and fix them",
+    "outlet": "theregister",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Has AI\u2019s \u2018Black October\u2019 changed the way you secure your code?",
+    "url": "https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
+  },
+  "b": {
+    "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+    "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T16:28:23Z",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+  },
+  "score": 0.629354
+}

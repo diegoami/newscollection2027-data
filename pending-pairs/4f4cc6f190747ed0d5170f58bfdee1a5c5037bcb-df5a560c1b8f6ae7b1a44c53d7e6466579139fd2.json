@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+    "lede": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T13:08:08Z",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+  },
+  "score": 0.765976
+}
