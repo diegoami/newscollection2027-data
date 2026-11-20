@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6344945c046955542a08855a3be046ddc1da7171",
+ "item_id_b": "c990fb12100073c5af348dbb99733b4f2e615cde",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6344945c046955542a08855a3be046ddc1da7171-c990fb12100073c5af348dbb99733b4f2e615cde",
+ "reason": "Guardian piece is a consumer how-to-buy-shares explainer, not an event report, while TechCrunch is an analysis of AI financing risk.",
+ "same_story": false
+}

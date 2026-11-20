@@ -1,0 +1,77 @@
+{
+  "cluster_id": "2026-11-18-c53ac1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:23:31Z",
+  "headline": "Senate panel approves Trump's FCC nominee 15-0 as Democrats skip vote",
+  "summary": "The Senate commerce committee, chaired by Ted Cruz, approved President Trump's FCC nominee 15-0 after all 14 Republican members attended while Democratic members were absent. One outlet describes Democrats as skipping the vote; another says they tried to prevent a quorum and accused the nominee, Thumann, of lying about not having worked on media issues.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Senate commerce committee approved Trump's FCC nominee 15-0 along party lines after Democrats did not take part in the vote.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "afeb4fa99a1cd3e33ee9952618105fda6a341960",
+          "quote": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "37938fc8163d31b760bc8ad018d1c6860a615e04",
+          "quote": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Committee Chair Ted Cruz began the Wednesday meeting to confirm Trump's nominee with a lopsided dais, as all 14 Republican members attended, including Majority Leader John Thune, while about a dozen seats were empty.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "afeb4fa99a1cd3e33ee9952618105fda6a341960",
+          "quote": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "afeb4fa99a1cd3e33ee9952618105fda6a341960",
+          "quote": "To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Democrats sought to prevent a quorum and said the nominee, Thumann, had lied about not having worked on media issues.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "37938fc8163d31b760bc8ad018d1c6860a615e04",
+          "quote": "Democrats try to prevent quorum, say Thumann lied about not working on media issues."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet frames the Democrats' absence as simply skipping the vote, while the other frames it as an active attempt to deny the committee a quorum.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "afeb4fa99a1cd3e33ee9952618105fda6a341960",
+          "quote": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "37938fc8163d31b760bc8ad018d1c6860a615e04",
+          "quote": "Democrats try to prevent quorum, say Thumann lied about not working on media issues."
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

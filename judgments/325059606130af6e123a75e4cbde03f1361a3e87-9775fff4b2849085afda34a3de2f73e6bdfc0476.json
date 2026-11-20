@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "325059606130af6e123a75e4cbde03f1361a3e87",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "325059606130af6e123a75e4cbde03f1361a3e87-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "BBC covers Nvidia dismissing the third-party 'Bring Jensen Back' campaign; Guardian covers Huang's own separate return statement.",
+  "same_story": false
+}

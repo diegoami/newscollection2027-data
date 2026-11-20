@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-b380dfe95e531269be955d7c80b2adee42e4e519",
+  "reason": "One reports the later Arm-CEO search, the other Trump's earlier reinstatement call and the board's refusal; different days' news.",
+  "same_story": false
+}

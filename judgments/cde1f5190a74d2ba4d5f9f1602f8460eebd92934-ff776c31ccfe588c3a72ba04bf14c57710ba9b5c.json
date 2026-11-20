@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
+ "item_id_b": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934-ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
+ "reason": "Guardian is a reader-engagement callout asking if people are playing GTA 6; BBC reports actual critic reviews of the game.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "49a1ce094a2bb6551f75a46bc22b309f516b5c2a",
+ "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "49a1ce094a2bb6551f75a46bc22b309f516b5c2a-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+ "reason": "Different people's separate reinstatement appeals two days apart: Trump's remarks versus Palmer Luckey's comments.",
+ "same_story": false
+}

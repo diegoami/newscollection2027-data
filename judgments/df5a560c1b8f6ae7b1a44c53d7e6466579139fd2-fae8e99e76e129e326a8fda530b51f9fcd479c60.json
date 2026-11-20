@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+ "item_id_b": "fae8e99e76e129e326a8fda530b51f9fcd479c60",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2-fae8e99e76e129e326a8fda530b51f9fcd479c60",
+ "reason": "Different software patches: a Drupal RCE fix versus a separate critical PHP security release.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b",
+  "item_id_b": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b-4e7369e1579face71a3747c7a0bef52108d5ebd3",
+  "reason": "Register covers the earnings-call rejection of Huang's return; Tom's Hardware is a later separate report of a board faction still pushing.",
+  "same_story": false
+}

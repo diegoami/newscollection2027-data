@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "A report of allies forming a 'war room' for Huang's return and Luckey's own comments are separate events two days apart.",
+  "same_story": false
+}

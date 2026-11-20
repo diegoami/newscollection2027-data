@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "e8245ff116b5637d94e6e290410a787677e8a40e",
+  "item_id_b": "ede0be0f4a862f9e0ffb1920f368487c935f6394",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "e8245ff116b5637d94e6e290410a787677e8a40e-ede0be0f4a862f9e0ffb1920f368487c935f6394",
+  "reason": "Both cover Elon Musk's 'I'm not MAGA' remarks at the DealBook Summit.",
+  "same_story": true
+}

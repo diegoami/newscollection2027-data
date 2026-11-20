@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "572cb816e5113ab37b3bc714e572271f8f0f9291",
+  "item_id_b": "9b9f66e814c29bdd06a36e3490c2be2083349707",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "572cb816e5113ab37b3bc714e572271f8f0f9291-9b9f66e814c29bdd06a36e3490c2be2083349707",
+  "reason": "Both report the Germ encrypted-messaging app's launch on Android.",
+  "same_story": true
+}

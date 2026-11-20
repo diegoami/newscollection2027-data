@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "item_id_b": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7-daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+  "reason": "Huang's scheduled Dec 1 testimony and Nvidia's earnings/no-reinstate announcement are different events.",
+  "same_story": false
+}

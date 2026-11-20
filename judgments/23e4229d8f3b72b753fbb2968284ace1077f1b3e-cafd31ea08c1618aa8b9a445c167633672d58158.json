@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+  "item_id_b": "cafd31ea08c1618aa8b9a445c167633672d58158",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-cafd31ea08c1618aa8b9a445c167633672d58158",
+  "reason": "Guardian covers Amodei's opening-bell risk remarks; Wired is an analysis piece on Anthropic's safety-strategy reputation, not the same reported moment.",
+  "same_story": false
+}

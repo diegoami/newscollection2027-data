@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe",
+  "item_id_b": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe-fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "reason": "Both report the same Anthropic IPO: the overnight pricing at $83/share and its public market debut the next day.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "item_id_b": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7b60d9f880f9e782da19c75d6d3e82a9df23b025-9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "reason": "Verge covers the board chair's earnings-call remarks; Tom's Hardware covers Huang's upcoming House committee appearance, different events.",
+  "same_story": false
+}

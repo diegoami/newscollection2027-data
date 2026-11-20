@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "Verge piece is a newsletter roundup of general Nvidia drama; TechCrunch reports Palmer Luckey's specific reinstatement comments, different events.",
+  "same_story": false
+}

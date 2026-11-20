@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53",
+ "item_id_b": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53-6908e71926e8ed83b5048a4c073a47593616d2d5",
+ "reason": "BBC reports the Nov 19 trading debut while TechCrunch's Nov 17 piece reports pre-debut ownership-stake percentages, a different stage.",
+ "same_story": false
+}

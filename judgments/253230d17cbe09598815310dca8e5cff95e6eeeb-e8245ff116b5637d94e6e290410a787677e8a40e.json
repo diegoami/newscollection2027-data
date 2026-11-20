@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "253230d17cbe09598815310dca8e5cff95e6eeeb",
+  "item_id_b": "e8245ff116b5637d94e6e290410a787677e8a40e",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "253230d17cbe09598815310dca8e5cff95e6eeeb-e8245ff116b5637d94e6e290410a787677e8a40e",
+  "reason": "Both report the same Musk remarks calling his midterm spending 'foolish' and distancing himself from MAGA.",
+  "same_story": true
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+  "item_id_b": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01-6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+  "reason": "Both report the same $300 Muse Charm pricing scoop, with Meta declining to deny it.",
+  "same_story": true
+}

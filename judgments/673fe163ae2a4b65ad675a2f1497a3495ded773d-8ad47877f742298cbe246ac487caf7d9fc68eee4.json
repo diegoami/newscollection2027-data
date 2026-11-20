@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "One reports the Arm-CEO search, the other Palmer Luckey's opinion urging Huang's reinstatement; different events.",
+  "same_story": false
+}

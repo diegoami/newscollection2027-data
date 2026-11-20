@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "Both report Nvidia's board statement that it does not intend to reinstate Jensen Huang as CEO.",
+  "same_story": true
+}

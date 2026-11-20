@@ -1,0 +1,109 @@
+{
+  "cluster_id": "2026-11-19-9245a9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Job listing suggests Apple is building its own AI agent",
+  "summary": "A job listing spotted by Bloomberg suggests Apple is working on its own agentic AI assistant that could browse the web, work across apps, write code and call services. Outlets differ on the seniority of the role described: one says Apple seeks an engineer to lead the project, another says it is a senior engineering manager role. One outlet also uniquely frames the project as an agent that would run the user's Mac and compete with named rivals.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple is reportedly developing its own AI agent, based on a job listing.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+          "quote": "Apple is hiring engineers to build its own AI agent"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4454632f6d6a4a1d26b38a862efff10711c7bde6",
+          "quote": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "8f4728ffc5b95bfc4916a6cb26d72d09b7b2e597",
+          "quote": "Apple may be developing its own AI agent that runs your Mac"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The job listing, spotted by Bloomberg, seeks an engineer to lead creation of an agentic AI assistant that can browse the web, work across apps, write code, and call services.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+          "quote": "That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Apple is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "4454632f6d6a4a1d26b38a862efff10711c7bde6",
+          "quote": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The reported agent could compete with AI agents from Meta, Instinct, Claude, and OpenAI.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8f4728ffc5b95bfc4916a6cb26d72d09b7b2e597",
+          "quote": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Outlets describe the reported role at different seniority: one says Apple is hiring an engineer to lead the project, another says it is a senior engineering manager role.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+          "quote": "Apple is looking for an engineer to lead the creation of an agentic AI assistant"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4454632f6d6a4a1d26b38a862efff10711c7bde6",
+          "quote": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools."
+        }
+      ],
+      "claim_ids": [
+        "c2",
+        "c3"
+      ]
+    },
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "TechCrunch uniquely frames the reported agent as one that would run the user's Mac and compete with named rivals; the other outlets' given text does not mention this.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8f4728ffc5b95bfc4916a6cb26d72d09b7b2e597",
+          "quote": "Apple may be developing its own AI agent that runs your Mac"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+          "quote": "Apple is hiring engineers to build its own AI agent"
+        }
+      ],
+      "claim_ids": [
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

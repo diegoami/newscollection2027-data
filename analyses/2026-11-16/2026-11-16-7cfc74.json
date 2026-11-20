@@ -1,11 +1,11 @@
 {
   "cluster_id": "2026-11-16-7cfc74",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-17T02:22:32Z",
-  "headline": "Instagram adds Amazon affiliate links to Reels and posts",
-  "summary": "Instagram now lets creators attach Amazon affiliate links directly within Reels and feed posts, extending a feature previously limited to stories, DMs and bios, with the rollout arriving ahead of the Black Friday shopping season.",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "headline": "Instagram adds Amazon affiliate links to Reels and feed posts",
+  "summary": "Instagram now lets creators add Amazon affiliate links directly within Reels and feed posts, rather than only through stories, DMs, or bios as before. One outlet reports creators can attach up to 30 affiliate links per Reel. Coverage also notes that some content creators are suspicious of the new affiliate program.",
   "claims": [
     {
       "id": "c1",
@@ -18,23 +18,23 @@
     },
     {
       "id": "c2",
-      "statement": "Creators can attach up to 30 affiliate links per Reel.",
+      "statement": "Creators can attach up to 30 affiliate links to a single Reel under the new feature.",
       "sources": [
-        {"outlet": "wired", "item_id": "50fc25aa4031800b64a2cbde154f8bdcb18b68b3", "quote": "lets creators attach up to 30 affiliate links per Reel"}
+        {"outlet": "wired", "item_id": "50fc25aa4031800b64a2cbde154f8bdcb18b68b3", "quote": "attach up to 30 affiliate links per Reel"}
       ]
     },
     {
       "id": "c3",
-      "statement": "The feature rolled out ahead of Black Friday.",
+      "statement": "Creators have previously shared Amazon affiliate links by other means, such as stories, DMs, and bios.",
       "sources": [
-        {"outlet": "engadget", "item_id": "db8a19d6a146b3d6e04ade78f6d6ee94aaf1df56", "quote": "just in time for Black Friday"}
+        {"outlet": "techcrunch", "item_id": "f1ee60c21c32fea33ae2bed8a42823effcf65700", "quote": "creators have long shared Amazon affiliate links through stories, DMs, and their bios"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Creators had previously shared Amazon affiliate links only through stories, DMs and bios.",
+      "statement": "Some content creators are suspicious of the new Instagram-Amazon affiliate program.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "f1ee60c21c32fea33ae2bed8a42823effcf65700", "quote": "creators have long shared Amazon affiliate links through stories, DMs, and their bios"}
+        {"outlet": "theverge", "item_id": "191f99a064df691bda266f561ae5614866961350", "quote": "some content creators are suspicious"}
       ]
     }
   ],

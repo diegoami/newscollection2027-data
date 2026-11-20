@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+  "item_id_b": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "80197199f808637ca827c7d32862d3dfe99ca1e1-c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+  "reason": "Both report the same PHP security release fixing critical RCE bugs, published at the same time.",
+  "same_story": true
+}

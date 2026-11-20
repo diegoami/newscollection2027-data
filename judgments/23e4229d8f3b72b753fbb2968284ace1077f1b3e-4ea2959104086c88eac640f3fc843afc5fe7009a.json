@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+ "item_id_b": "4ea2959104086c88eac640f3fc843afc5fe7009a",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-4ea2959104086c88eac640f3fc843afc5fe7009a",
+ "reason": "Both report Anthropic's Nov 19 Nasdaq trading debut, including Amodei's own remarks made that day.",
+ "same_story": true
+}

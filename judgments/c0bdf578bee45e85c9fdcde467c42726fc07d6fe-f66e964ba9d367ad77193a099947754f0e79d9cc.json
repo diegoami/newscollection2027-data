@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "c0bdf578bee45e85c9fdcde467c42726fc07d6fe",
+  "item_id_b": "f66e964ba9d367ad77193a099947754f0e79d9cc",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "c0bdf578bee45e85c9fdcde467c42726fc07d6fe-f66e964ba9d367ad77193a099947754f0e79d9cc",
+  "reason": "A is a general trend piece on criminals using the Artex tool; B reports a specific Barracuda breach, a narrower distinct event.",
+  "same_story": false
+}

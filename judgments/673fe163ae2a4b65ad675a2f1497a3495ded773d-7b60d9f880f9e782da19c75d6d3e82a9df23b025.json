@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+  "reason": "One reports the Arm-CEO search, the other is a recap of the board chair's earlier earnings-call remarks; different events.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+  "item_id_b": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6908e71926e8ed83b5048a4c073a47593616d2d5-fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "reason": "One reports Amazon/Google's post-IPO ownership stakes, the other the trading-debut valuation; different facts.",
+  "same_story": false
+}

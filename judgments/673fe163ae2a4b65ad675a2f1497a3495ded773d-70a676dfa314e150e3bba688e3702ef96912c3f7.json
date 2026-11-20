@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "item_id_b": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-70a676dfa314e150e3bba688e3702ef96912c3f7",
+ "reason": "Guardian covers the later CEO-search approach to Arm's Rene Haas; Wired covers Huang's own earlier statement about returning.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8",
+  "reason": "Tom's Hardware covers a return-push rumor; Wired covers chip-export policy fallout for China sales, different specific events.",
+  "same_story": false
+}

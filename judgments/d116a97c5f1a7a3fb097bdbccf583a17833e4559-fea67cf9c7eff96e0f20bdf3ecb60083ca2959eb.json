@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "d116a97c5f1a7a3fb097bdbccf583a17833e4559",
+  "item_id_b": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559-fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+  "reason": "One previews founders' paper wealth before the IPO, the other reports the actual trading-debut valuation; different facts.",
+  "same_story": false
+}

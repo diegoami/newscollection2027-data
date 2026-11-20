@@ -1,0 +1,66 @@
+{
+  "cluster_id": "2026-11-18-66fb8c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:23:31Z",
+  "headline": "Cyberattack on IT provider exposes data at dozens of Irish credit unions",
+  "summary": "A cyberattack on IT provider Wellington IT has exposed sensitive data belonging to members of Irish credit unions, with outlets differing on whether 40 or 50 unions were affected. The October attack came to light in November, and Ireland's minister called the notification delay 'not acceptable.'",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A cyberattack on IT provider Wellington IT exposed sensitive data belonging to members of Irish credit unions.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+          "quote": "Data breach impacts 40 Irish credit unions in reported IT provider hack"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+          "quote": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "796c0101f860286d3645861aa2df208b2728257c",
+          "quote": "Cyberattack on service provider exposes payee data at 40 Irish credit unions"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The underlying attack happened in October and only came to light in November; Ireland's minister called the notification delay unacceptable.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "796c0101f860286d3645861aa2df208b2728257c",
+          "quote": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "One outlet's lede puts the number of affected credit unions at 50, while another outlet's title states 40.",
+      "quotes": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+          "quote": "50 credit unions, the majority of which are located in Ireland"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "796c0101f860286d3645861aa2df208b2728257c",
+          "quote": "40 Irish credit unions"
+        }
+      ],
+      "claim_ids": [
+        "c1"
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

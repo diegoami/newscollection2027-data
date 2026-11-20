@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "423b8c753c11c2429c2ef4f1f94307e9ae56d411",
+  "item_id_b": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "423b8c753c11c2429c2ef4f1f94307e9ae56d411-c0787d91eb5d8df5c2b15d0788c4567031b00dfa",
+  "reason": "TechCrunch is a multi-event scandal timeline roundup; Ars reports one specific 'war room' effort, not the same single event.",
+  "same_story": false
+}

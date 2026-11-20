@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+  "item_id_b": "8c2c38fe4c9afe700d3bd1fa877a33544ee8ec3d",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "89d80c21bb59fe1791fe4e8fa12e0e838e748706-8c2c38fe4c9afe700d3bd1fa877a33544ee8ec3d",
+  "reason": "Both report California AG Bonta's lawsuit against OpenAI over AI safety failures, filed around the same day.",
+  "same_story": true
+}

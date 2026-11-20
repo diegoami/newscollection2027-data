@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "ec899582b9e66a4ff32db95d5420647eec33abcd",
+ "item_id_b": "f1dd0bea0b97e4abfbaa2b8509705a722431113b",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "ec899582b9e66a4ff32db95d5420647eec33abcd-f1dd0bea0b97e4abfbaa2b8509705a722431113b",
+ "reason": "Both report the same-day outcome of Anthropic's IPO debut, one on valuation and one on founder payouts from it.",
+ "same_story": true
+}

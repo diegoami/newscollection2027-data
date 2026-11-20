@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "07547d58b9a1af12e16f067cbaafb344e2c2a20e",
+ "item_id_b": "c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e-c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+ "reason": "The Register reports a specific Chase/Visa/Mastercard breach; Wired's piece is a generic explainer on telling outages from cyberattacks.",
+ "same_story": false
+}

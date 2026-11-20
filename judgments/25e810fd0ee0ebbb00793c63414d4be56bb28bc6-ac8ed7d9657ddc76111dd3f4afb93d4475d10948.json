@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "25e810fd0ee0ebbb00793c63414d4be56bb28bc6",
+  "item_id_b": "ac8ed7d9657ddc76111dd3f4afb93d4475d10948",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "25e810fd0ee0ebbb00793c63414d4be56bb28bc6-ac8ed7d9657ddc76111dd3f4afb93d4475d10948",
+  "reason": "One is a post-earnings tally of Kress's reassurances, the other a pre-earnings preview of questions Nvidia should answer.",
+  "same_story": false
+}

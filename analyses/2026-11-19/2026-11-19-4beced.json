@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-11-19-4beced",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Leaked images give new look at Motorola's upcoming foldable",
+  "summary": "New leaked images reportedly give the best look yet at Motorola's upcoming foldable phone, showing the Razr Flex from several angles in two finishes. Outlets differ on how to characterize the device: one calls it a wide foldable, the other compares it to the rumored iPhone Duo.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "New leaked images reportedly give the best look yet at Motorola's upcoming foldable phone, showing it from several angles in two finishes.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f3fc0af98cb56719a673c729872a2f8ee3e7f8ac",
+          "quote": "this new crop of images reveal the Motorola Razr Flex from several angles in two finishes"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "2e2dbf3be8dcbc690ade2a713f0c75fa50b4bbb3",
+          "quote": "We may have our best look yet at Motorola's upcoming foldable."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "One outlet characterizes the leaked device as a wide foldable, the Motorola Razr Flex.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f3fc0af98cb56719a673c729872a2f8ee3e7f8ac",
+          "quote": "Leaked images reveal Motorola’s wide foldable"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Another outlet characterizes the leaked device as Motorola's answer to the iPhone Duo.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "2e2dbf3be8dcbc690ade2a713f0c75fa50b4bbb3",
+          "quote": "Leaked images may show Motorola's answer to the iPhone Duo"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Outlets characterize the same leaked device differently: one frames it as a wide-format foldable, the other as a book-style device comparable to the rumored iPhone Duo.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "f3fc0af98cb56719a673c729872a2f8ee3e7f8ac",
+          "quote": "Leaked images reveal Motorola’s wide foldable"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "2e2dbf3be8dcbc690ade2a713f0c75fa50b4bbb3",
+          "quote": "Leaked images may show Motorola's answer to the iPhone Duo"
+        }
+      ],
+      "claim_ids": [
+        "c2",
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-11-18-fa9060",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:23:31Z",
+  "headline": "Google adds private 'temporary threads' mode to AI Mode search",
+  "summary": "Google has introduced 'temporary threads' in AI Mode, letting users hold conversations that are not saved to their search or chat history, associated with their account, or used to influence future recommendations.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google introduced 'temporary threads' letting users have AI Mode conversations that are not added to their search history.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "890e2f7b3ac9f81cefb555b610c56703faeb0f6f",
+          "quote": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history"
+        },
+        {
+          "outlet": "zdnet",
+          "item_id": "2158c1df379a1a18466bceeefd616e7634a1c39c",
+          "quote": "any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

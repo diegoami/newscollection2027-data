@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "10b8f45b778fe3437ddb99bf1a97a9b41017d92c",
+  "item_id_b": "d525b207a49ba5ce02d08aa98cb91151749b7edd",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "10b8f45b778fe3437ddb99bf1a97a9b41017d92c-d525b207a49ba5ce02d08aa98cb91151749b7edd",
+  "reason": "Both report Rockstar/Sony/MS's GTA VI resolution and frame-rate spec reveal (1440p/30fps, no 60fps mode).",
+  "same_story": true
+}

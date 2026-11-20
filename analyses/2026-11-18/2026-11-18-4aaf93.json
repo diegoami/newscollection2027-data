@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-18-4aaf93",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "headline": "Germ DM encrypted messaging app arrives on Android",
+  "summary": "Germ DM, an encrypted messaging platform, is now available on Android. It uses what one outlet calls 'burner cards' instead of phone numbers or usernames so users can compartmentalize conversations, and lets people maintain multiple identities without tying them to a phone number. One report describes it as Bluesky's preferred messaging app; the other does not mention that connection.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Germ DM, an encrypted messaging platform pitched as a Signal alternative, is now available on Android.",
+      "sources": [
+        {"outlet": "wired", "item_id": "572cb816e5113ab37b3bc714e572271f8f0f9291", "quote": "Exclusive: Germ DM Is a Signal Alternative"},
+        {"outlet": "theregister", "item_id": "9b9f66e814c29bdd06a36e3490c2be2083349707", "quote": "Germ Network infects Android, but in a good way"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "It uses 'burner cards' instead of phone numbers or usernames, letting users compartmentalize their conversations.",
+      "sources": [
+        {"outlet": "wired", "item_id": "572cb816e5113ab37b3bc714e572271f8f0f9291", "quote": "uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "One outlet describes it as Bluesky's preferred encrypted messaging app, allowing multiple identities without tying users to a phone number.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "9b9f66e814c29bdd06a36e3490c2be2083349707", "quote": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "One outlet identifies Germ DM as Bluesky's preferred messaging app, a connection the other outlet's text does not mention.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "9b9f66e814c29bdd06a36e3490c2be2083349707", "quote": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number"},
+        {"outlet": "wired", "item_id": "572cb816e5113ab37b3bc714e572271f8f0f9291", "quote": "Exclusive: Germ DM Is a Signal Alternative"}
+      ],
+      "claim_ids": ["c1", "c3"]
+    }
+  ],
+  "agreement": "partial"
+}

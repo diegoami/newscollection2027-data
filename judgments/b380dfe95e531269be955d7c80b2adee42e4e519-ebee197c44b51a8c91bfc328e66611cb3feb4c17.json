@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "b380dfe95e531269be955d7c80b2adee42e4e519",
+ "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "b380dfe95e531269be955d7c80b2adee42e4e519-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "reason": "Tom's Hardware reports Trump's reinstatement push and the board's refusal; TechCrunch reports Nadella's unrelated confidence statement two days later.",
+ "same_story": false
+}

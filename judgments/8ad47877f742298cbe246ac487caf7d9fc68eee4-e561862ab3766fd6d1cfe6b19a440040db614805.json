@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "item_id_b": "e561862ab3766fd6d1cfe6b19a440040db614805",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8ad47877f742298cbe246ac487caf7d9fc68eee4-e561862ab3766fd6d1cfe6b19a440040db614805",
+  "reason": "One is Palmer Luckey's own comments wanting Huang reinstated, the other is Huang's separate statement a day earlier.",
+  "same_story": false
+}

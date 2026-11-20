@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "191f99a064df691bda266f561ae5614866961350",
+  "item_id_b": "50fc25aa4031800b64a2cbde154f8bdcb18b68b3",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "191f99a064df691bda266f561ae5614866961350-50fc25aa4031800b64a2cbde154f8bdcb18b68b3",
+  "reason": "Wired reports the Instagram-Amazon affiliate feature launch, the Verge piece is a later skepticism reaction.",
+  "same_story": false
+}

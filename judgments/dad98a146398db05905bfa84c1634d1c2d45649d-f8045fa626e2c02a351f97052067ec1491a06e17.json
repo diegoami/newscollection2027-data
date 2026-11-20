@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "dad98a146398db05905bfa84c1634d1c2d45649d",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "dad98a146398db05905bfa84c1634d1c2d45649d-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "Tom's Hardware reports a later pay-raise/equity promise at an all-hands; TechCrunch reports the earlier earnings-call reinstatement refusal.",
+  "same_story": false
+}

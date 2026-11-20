@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+ "item_id_b": "df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "80197199f808637ca827c7d32862d3dfe99ca1e1-df5a560c1b8f6ae7b1a44c53d7e6466579139fd2",
+ "reason": "The Register piece covers an upcoming PHP security release while BleepingComputer reports an unrelated Drupal RCE patch.",
+ "same_story": false
+}

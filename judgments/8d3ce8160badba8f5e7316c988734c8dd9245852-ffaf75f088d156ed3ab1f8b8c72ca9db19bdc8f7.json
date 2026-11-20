@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8d3ce8160badba8f5e7316c988734c8dd9245852",
+  "item_id_b": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8d3ce8160badba8f5e7316c988734c8dd9245852-ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+  "reason": "Both report the same global GTA 6 launch-day event.",
+  "same_story": true
+}

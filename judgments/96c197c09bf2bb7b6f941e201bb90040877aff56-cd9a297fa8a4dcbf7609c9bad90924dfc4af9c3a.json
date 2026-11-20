@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "96c197c09bf2bb7b6f941e201bb90040877aff56",
+  "item_id_b": "cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "96c197c09bf2bb7b6f941e201bb90040877aff56-cd9a297fa8a4dcbf7609c9bad90924dfc4af9c3a",
+  "reason": "One covers new Health-app features, the other Siri usage-limit testing; different features of iOS 27.3, not one event.",
+  "same_story": false
+}

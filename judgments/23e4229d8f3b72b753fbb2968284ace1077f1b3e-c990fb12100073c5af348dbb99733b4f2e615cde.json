@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+  "item_id_b": "c990fb12100073c5af348dbb99733b4f2e615cde",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-c990fb12100073c5af348dbb99733b4f2e615cde",
+  "reason": "One reports Amodei's opening-bell risk remarks, the other is a separate analysis of AI's circular financing.",
+  "same_story": false
+}

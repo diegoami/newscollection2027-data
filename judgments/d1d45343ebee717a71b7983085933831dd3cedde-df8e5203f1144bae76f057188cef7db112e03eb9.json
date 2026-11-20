@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "d1d45343ebee717a71b7983085933831dd3cedde",
+ "item_id_b": "df8e5203f1144bae76f057188cef7db112e03eb9",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "d1d45343ebee717a71b7983085933831dd3cedde-df8e5203f1144bae76f057188cef7db112e03eb9",
+ "reason": "Wired's opinion piece mentions the chip-access crackdown only as context for the Huang scandal; Ars Technica is the actual two-days-earlier policy report.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3acab62649d69cffea48f1a4349716e187e8c7d2",
+  "item_id_b": "bf35e281a9cbdc1b3bf1aa6eadc4a339b83350f2",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3acab62649d69cffea48f1a4349716e187e8c7d2-bf35e281a9cbdc1b3bf1aa6eadc4a339b83350f2",
+  "reason": "Both report Voyager 1 crossing the one-light-day distance milestone from Earth.",
+  "same_story": true
+}

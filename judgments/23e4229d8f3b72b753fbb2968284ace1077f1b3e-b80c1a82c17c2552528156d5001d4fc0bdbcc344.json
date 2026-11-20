@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+  "item_id_b": "b80c1a82c17c2552528156d5001d4fc0bdbcc344",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-b80c1a82c17c2552528156d5001d4fc0bdbcc344",
+  "reason": "Both report quotes from Dario Amodei's same Nasdaq opening-bell speech after Anthropic's IPO.",
+  "same_story": true
+}

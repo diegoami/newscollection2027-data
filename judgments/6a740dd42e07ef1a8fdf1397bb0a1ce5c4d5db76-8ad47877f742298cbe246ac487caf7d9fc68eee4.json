@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "Nvidia board's 'no plans to reinstate' statement and Luckey's reaction a day later are different events.",
+  "same_story": false
+}

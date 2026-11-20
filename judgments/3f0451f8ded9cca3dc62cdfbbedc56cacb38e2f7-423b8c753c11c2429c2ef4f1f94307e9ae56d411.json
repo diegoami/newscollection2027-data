@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "423b8c753c11c2429c2ef4f1f94307e9ae56d411",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-423b8c753c11c2429c2ef4f1f94307e9ae56d411",
+  "reason": "The TechCrunch piece is a roundup timeline of the scandal, not a report of the same single event.",
+  "same_story": false
+}

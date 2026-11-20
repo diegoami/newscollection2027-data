@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+  "item_id_b": "dad98a146398db05905bfa84c1634d1c2d45649d",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-dad98a146398db05905bfa84c1634d1c2d45649d",
+  "reason": "Huang's own return remark and Nvidia's pay-raise/equity promise at an all-hands are different events.",
+  "same_story": false
+}

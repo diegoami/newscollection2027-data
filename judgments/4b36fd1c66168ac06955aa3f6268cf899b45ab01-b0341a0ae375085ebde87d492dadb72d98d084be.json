@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+  "item_id_b": "b0341a0ae375085ebde87d492dadb72d98d084be",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01-b0341a0ae375085ebde87d492dadb72d98d084be",
+  "reason": "Both report The Information's scoop that Meta's Muse Charm will cost $300.",
+  "same_story": true
+}

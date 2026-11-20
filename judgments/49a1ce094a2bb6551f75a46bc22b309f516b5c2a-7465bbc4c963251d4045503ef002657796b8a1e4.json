@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "49a1ce094a2bb6551f75a46bc22b309f516b5c2a",
+  "item_id_b": "7465bbc4c963251d4045503ef002657796b8a1e4",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "49a1ce094a2bb6551f75a46bc22b309f516b5c2a-7465bbc4c963251d4045503ef002657796b8a1e4",
+  "reason": "Trump's reinstatement endorsement (Nov 16) and Nvidia's Q3 earnings report (Nov 17) are different events.",
+  "same_story": false
+}

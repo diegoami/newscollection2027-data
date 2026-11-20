@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af",
+ "item_id_b": "7465bbc4c963251d4045503ef002657796b8a1e4",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af-7465bbc4c963251d4045503ef002657796b8a1e4",
+ "reason": "TechCrunch reports Altman's remarks on Nvidia without Huang; Verge reports the separate Q3 earnings call the next day.",
+ "same_story": false
+}

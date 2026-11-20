@@ -1,0 +1,32 @@
+{
+  "anchor": "b0341a0ae375085ebde87d492dadb72d98d084be",
+  "id": "2026-11-19-67e8b4",
+  "items": [
+    {
+      "item_id": "b0341a0ae375085ebde87d492dadb72d98d084be",
+      "lede": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-19T20:22:17Z",
+      "title": "Meta\u2019s Muse Charm might cost $300",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+    },
+    {
+      "item_id": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+      "lede": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "outlet": "techcrunch",
+      "published": "2026-11-19T21:58:06Z",
+      "title": "Meta\u2019s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+    },
+    {
+      "item_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+      "lede": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
+      "outlet": "engadget",
+      "published": "2026-11-19T22:56:42Z",
+      "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+      "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

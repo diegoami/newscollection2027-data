@@ -1,0 +1,67 @@
+{
+  "cluster_id": "2026-11-18-8118b2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:23:31Z",
+  "headline": "GTA VI targets 30 fps on consoles, with lower resolution on Series S",
+  "summary": "GTA VI will target 30 frames per second on PlayStation and Xbox consoles, with no 60 fps performance mode, now or in future patches. On PS5 and Xbox Series X the game runs at 1440p; Xbox Series S is limited to 720p with upscaling. Different anti-aliasing and upscaling technologies are used per platform, including Sony's PSSR 2 and AMD's FSR 4. Reports note the developer has a history of shipping games at lower framerates than competitors.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "GTA VI will target 30 fps on current-generation consoles, with no 60 fps performance mode, now or in future patches.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "d525b207a49ba5ce02d08aa98cb91151749b7edd",
+          "quote": "GTA VI will target 30FPS across PlayStation and Xbox consoles"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "10b8f45b778fe3437ddb99bf1a97a9b41017d92c",
+          "quote": "Why GTA 6 doesn't have a 60 fps performance mode"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "e1788a99bca8e9697ec08ecf3d87d8b0baf34f21",
+          "quote": "You can forget about a 60 fps mode on current-gen consoles, even in future patches."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "GTA VI runs at 1440p on PS5 and Xbox Series X, but only 720p with upscaling on Xbox Series S.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "d525b207a49ba5ce02d08aa98cb91151749b7edd",
+          "quote": "GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Rockstar uses different upscaling and anti-aliasing technology per platform: its own solution on PS5 and Series X, Sony's PSSR 2 on PS5 Pro, and AMD's FSR 4 on Series S.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "d525b207a49ba5ce02d08aa98cb91151749b7edd",
+          "quote": "Rockstar using its own temporal anti-aliasing solution on the PS5 and Xbox Series X, Sony's PSSR 2 on the PS5 Pro, and AMD's FSR 4 on the Xbox Series S"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Rockstar has a history of releasing its games at lower framerates than competing titles.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "10b8f45b778fe3437ddb99bf1a97a9b41017d92c",
+          "quote": "Rockstar has a history of releasing its games at lower framerates than rival titles."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

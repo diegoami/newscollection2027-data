@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "45584a3597b1228ad1f2069032706273bc0f49af",
+  "item_id_b": "c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "45584a3597b1228ad1f2069032706273bc0f49af-c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+  "reason": "Both are generic how-to explainers on distinguishing outages from cyberattacks, not reports of one specific incident.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7465bbc4c963251d4045503ef002657796b8a1e4",
+  "item_id_b": "89123c9a74babd244a80b84f6791ba8cd7911910",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7465bbc4c963251d4045503ef002657796b8a1e4-89123c9a74babd244a80b84f6791ba8cd7911910",
+  "reason": "The general Q3 earnings-beat report and Huang's own return remark are different specific claims.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "7d4307f50c7ab9f13f9d47db870c2670b3cc9a97",
+  "item_id_b": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "7d4307f50c7ab9f13f9d47db870c2670b3cc9a97-89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+  "reason": "Both report California's lawsuit against OpenAI over the same rogue-agent loss-of-control incidents.",
+  "same_story": true
+}

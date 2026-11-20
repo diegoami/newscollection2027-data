@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "4e7369e1579face71a3747c7a0bef52108d5ebd3-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "A leaked report of a board faction wanting Huang back differs from Luckey's separate public comments.",
+  "same_story": false
+}

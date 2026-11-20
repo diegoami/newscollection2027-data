@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+ "item_id_b": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac-673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "reason": "Verge piece is a roundup newsletter of multiple Huang-drama rumors from days earlier, not a report of the later Arm CEO-search approach.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "75a891499c3b2577666cb32ea21f288361afe859",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "75a891499c3b2577666cb32ea21f288361afe859-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "Tom's Hardware covers an engineer's resignation statement; Guardian covers Huang's own separate return statement, different events.",
+  "same_story": false
+}

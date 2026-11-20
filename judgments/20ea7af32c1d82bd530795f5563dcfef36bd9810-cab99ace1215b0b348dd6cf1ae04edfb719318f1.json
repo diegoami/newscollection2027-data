@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "20ea7af32c1d82bd530795f5563dcfef36bd9810",
+  "item_id_b": "cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "20ea7af32c1d82bd530795f5563dcfef36bd9810-cab99ace1215b0b348dd6cf1ae04edfb719318f1",
+  "reason": "One covers the Nov 13 FAA ground stop, the other a separate later United Airlines system outage; different incidents.",
+  "same_story": false
+}

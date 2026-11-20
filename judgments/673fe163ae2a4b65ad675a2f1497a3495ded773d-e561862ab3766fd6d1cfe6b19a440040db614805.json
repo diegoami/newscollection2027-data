@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "item_id_b": "e561862ab3766fd6d1cfe6b19a440040db614805",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-e561862ab3766fd6d1cfe6b19a440040db614805",
+ "reason": "Guardian reports Nvidia's headhunters approaching Arm's Rene Haas for CEO; Tom's Hardware reports Huang's own earlier statement he'd be open to returning.",
+ "same_story": false
+}

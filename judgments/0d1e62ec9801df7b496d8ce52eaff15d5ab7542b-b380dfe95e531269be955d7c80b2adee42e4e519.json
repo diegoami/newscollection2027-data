@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b",
+  "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0d1e62ec9801df7b496d8ce52eaff15d5ab7542b-b380dfe95e531269be955d7c80b2adee42e4e519",
+  "reason": "Huang's family-time remark rebuffed on the Nov 17 earnings call and Trump's Nov 16 reinstatement call are different occasions.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "75a891499c3b2577666cb32ea21f288361afe859",
+  "item_id_b": "ac8ed7d9657ddc76111dd3f4afb93d4475d10948",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "75a891499c3b2577666cb32ea21f288361afe859-ac8ed7d9657ddc76111dd3f4afb93d4475d10948",
+  "reason": "Tom's Hardware covers an engineer's resignation statement; TechCrunch is a pre-earnings-call question preview, different events.",
+  "same_story": false
+}

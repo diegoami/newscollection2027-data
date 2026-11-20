@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d",
+  "item_id_b": "aae72e4c06797373ec59fb581b73e62654a5a8df",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d-aae72e4c06797373ec59fb581b73e62654a5a8df",
+  "reason": "Both report the same IEA report, pulling different stats (power demand doubling, 70% more emissions) from it.",
+  "same_story": true
+}

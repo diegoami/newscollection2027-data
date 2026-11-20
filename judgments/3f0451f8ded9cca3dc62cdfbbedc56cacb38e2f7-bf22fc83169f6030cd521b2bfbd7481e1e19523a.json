@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+  "item_id_b": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "reason": "Tom's Hardware is an earlier 'report claims' rumor of a return push; Verge covers the next day's official earnings-call rejection statement.",
+  "same_story": false
+}

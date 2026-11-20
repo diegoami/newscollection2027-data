@@ -1,50 +1,56 @@
 {
   "cluster_id": "2026-11-17-fe88ce",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-19T02:20:18Z",
-  "headline": "Waymo suspends freeway robotaxi rides after California DMV order",
-  "summary": "California's DMV ordered Waymo to stop freeway robotaxi rides nationwide, saying the operations pose an imminent hazard to public safety; restrictions stay until Waymo shows effective corrective action. The order follows incidents including a Waymo trying to pass a Highway Patrol vehicle, and an earlier May recall over construction-zone incursions.",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "headline": "Waymo pulls robotaxis from US freeways after California safety ban",
+  "summary": "California's DMV banned Waymo's driverless cars from state freeways, citing an imminent hazard to public safety, after incidents including one vehicle trying to pass a Highway Patrol car slowing traffic. Waymo responded by suspending freeway rides nationwide while it works on corrective actions. Coverage differs on which specific incident is cited as the immediate cause, with some outlets also noting a related recall in May over construction-zone incursions.",
   "claims": [
     {
       "id": "c1",
-      "statement": "California's DMV ordered Waymo to halt freeway robotaxi rides, saying the operations pose an imminent hazard to public safety.",
+      "statement": "California's DMV banned Waymo's self-driving cars from freeways, saying they pose an imminent hazard to public safety.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety."},
-        {"outlet": "bbc-technology", "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840", "quote": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."}
+        {"outlet": "wired", "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee", "quote": "Waymo Pauses All Highway Rides After California Safety Ban"},
+        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Waymo's freeway operations pose an imminent hazard to public safety"},
+        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "the robotaxis are 'imminent hazard to public safety'"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Restrictions remain until Waymo demonstrates it has taken effective corrective actions.",
+      "statement": "In response, Waymo suspended its driverless freeway rides nationwide, not only in California.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies."}
+        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Waymo suspends freeway rides nationwide after California DMV order"},
+        {"outlet": "bbc-technology", "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840", "quote": "Waymo pulls driverless taxis from all US freeways"},
+        {"outlet": "theguardian", "item_id": "2a1b3475515a1832094f690a96c207be4294b4f0", "quote": "Waymo pulls driverless taxis from freeways across the US after California ban"}
       ]
     },
     {
       "id": "c3",
-      "statement": "The order followed a driverless Waymo being caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
+      "statement": "Waymo's robotaxis were already recalled in May after entering highway construction zones.",
       "sources": [
-        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic."}
+        {"outlet": "arstechnica", "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670", "quote": "Robotaxis already had to be recalled in May after they entered highway construction zones"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Waymo's robotaxis had already been recalled in May after entering highway construction zones.",
+      "statement": "At least one incident cited is a driverless Waymo attempting to pass a Highway Patrol vehicle that was slowing traffic.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670", "quote": "Robotaxis already had to be recalled in May after they entered highway construction zones."}
-      ]
-    },
-    {
-      "id": "c5",
-      "statement": "The suspension of freeway rides is nationwide.",
-      "sources": [
-        {"outlet": "techcrunch", "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4", "quote": "Waymo suspends freeway rides nationwide after California DMV order"},
-        {"outlet": "bbc-technology", "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840", "quote": "Waymo pulls driverless taxis from all US freeways"}
+        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic"}
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Outlets differ on which specific incident is cited as the trigger: one names a Waymo passing a Highway Patrol vehicle, another points to earlier construction-zone incursions.",
+      "quotes": [
+        {"outlet": "engadget", "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717", "quote": "a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic"},
+        {"outlet": "theregister", "item_id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8", "quote": "construction zone incursions and a run-in with patrol vehicles"}
+      ],
+      "claim_ids": ["c3", "c4"]
+    }
+  ],
+  "agreement": "partial"
 }

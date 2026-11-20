@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "item_id_b": "acaf00569e865f08061f916ae153f8f7cca84b33",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9775fff4b2849085afda34a3de2f73e6bdfc0476-acaf00569e865f08061f916ae153f8f7cca84b33",
+  "reason": "Huang's own return remark and TechCrunch's analysis piece on Nvidia's security team are different, unrelated items.",
+  "same_story": false
+}

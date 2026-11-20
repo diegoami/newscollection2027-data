@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-18-dba1be",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:23:31Z",
+  "headline": "GTA 6 launches worldwide after 13 years, players explore Vice City",
+  "summary": "Grand Theft Auto VI launched worldwide. The game, in development for 13 years, is expected to be one of the most popular entertainment releases ever. Coverage included a live blog tracking reactions as players began exploring the game, and reports from Australia describing players renovating houses, fixing cars, lifting weights and following the story in the Miami-inspired Vice City, with some feeling like Christmas had come early.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Grand Theft Auto VI launched and became available worldwide.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "8d3ce8160badba8f5e7316c988734c8dd9245852",
+          "quote": "GTA 6 launch day"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "5873d97881414033caf584a74fbb6e4c1dba6c68",
+          "quote": "UK joins in GTA 6 frenzy as game becomes available worldwide"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "In GTA VI, players can renovate houses, fix cars, lift weights and follow the story in a Miami-inspired Vice City.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+          "quote": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "GTA VI was in development for 13 years and is expected to be one of the most popular entertainment products ever.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "5873d97881414033caf584a74fbb6e4c1dba6c68",
+          "quote": "The game, which was in development for 13 years"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Gamers in Australia were among the first in the world to play GTA VI at launch.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+          "quote": "Gamers across Australia woke up Thursday morning feeling like Christmas had come early"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,42 +1,68 @@
 {
   "cluster_id": "2026-11-17-0fd767",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-19T02:20:18Z",
-  "headline": "Critical Java4Shell flaw enables remote code execution in Java apps",
-  "summary": "A critical OpenJDK vulnerability called Java4Shell, disclosed by Oracle, lets unauthenticated attackers remotely execute code or crash the JVM on major Java applications including Jenkins, Atlassian Jira, Confluence, and Keycloak.",
+  "generated_at": "2026-11-20T00:00:00Z",
+  "headline": "Critical Java4Shell flaw enables remote code execution across Java apps",
+  "summary": "A critical vulnerability called Java4Shell in OpenJDK can let unauthenticated attackers remotely execute code on major applications such as Jenkins, Jira, Confluence, and Keycloak, and can be triggered simply by inputting repeated text. Oracle has disclosed the bug as urgent, though one report attributes its discovery to an AI-driven startup that had previously found a PHP flaw. Millions of sites and services are described as at risk.",
   "claims": [
     {
       "id": "c1",
-      "statement": "A critical OpenJDK vulnerability called Java4Shell allows unauthenticated attackers to remotely execute code on major Java applications.",
+      "statement": "A critical Java4Shell vulnerability in OpenJDK can let unauthenticated attackers remotely execute code or crash affected systems.",
       "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "Critical Java4Shell flaw allows RCE attacks on major Java applications"},
-        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Attackers can crash the JVM or achieve unauthenticated RCE"}
+        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "A critical vulnerability dubbed Java4Shell in OpenJDK"},
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Attackers can crash the JVM or achieve unauthenticated RCE"},
+        {"outlet": "tomshardware", "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360", "quote": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution"}
       ]
     },
     {
       "id": "c2",
-      "statement": "Affected applications include Jenkins, Atlassian Jira, Confluence, and Keycloak.",
+      "statement": "The flaw affects popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak.",
       "sources": [
-        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "including Jenkins, Atlassian Jira, Confluence, and Keycloak."}
+        {"outlet": "bleepingcomputer", "item_id": "126567e065a77521fe2d7559a71b0adc07c1293c", "quote": "including Jenkins, Atlassian Jira, Confluence, and Keycloak"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Attackers can also crash the JVM, not only achieve RCE.",
+      "statement": "Oracle has revealed the bug, describing it as needing to be fixed urgently.",
       "sources": [
-        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Attackers can crash the JVM or achieve unauthenticated RCE"}
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps"}
       ]
     },
     {
       "id": "c4",
-      "statement": "Oracle disclosed the bug.",
+      "statement": "One report says the bug was discovered by a tech start-up using AI, the same start-up that previously found a PHP flaw.",
       "sources": [
-        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps"}
+        {"outlet": "bbc-technology", "item_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08", "quote": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Attackers can trigger the bug simply by inputting repeated text.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360", "quote": "Attackers can trigger the bug by just inputting repeated text"}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Java is described as the world's third-largest programming language.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08", "quote": "world's third-largest programming language"}
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "Outlets differ on who is credited with finding the flaw: one says Oracle revealed it, another says an AI-driven start-up discovered it.",
+      "quotes": [
+        {"outlet": "theregister", "item_id": "73da2b3248e17f68530088ddd10aa129a1a6dd7e", "quote": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps"},
+        {"outlet": "bbc-technology", "item_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08", "quote": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug"}
+      ],
+      "claim_ids": ["c3", "c4"]
+    }
+  ],
+  "agreement": "partial"
 }

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+  "item_id_b": "b0341a0ae375085ebde87d492dadb72d98d084be",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd-b0341a0ae375085ebde87d492dadb72d98d084be",
+  "reason": "Both report The Information's leak that Meta's Muse Charm wearable will cost $300.",
+  "same_story": true
+}

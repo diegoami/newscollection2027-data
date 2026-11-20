@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+  "item_id_b": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-6908e71926e8ed83b5048a4c073a47593616d2d5",
+  "reason": "One covers Amodei's AI-risk remarks at the opening bell, the other Amazon/Google's post-IPO ownership stakes; different facts.",
+  "same_story": false
+}

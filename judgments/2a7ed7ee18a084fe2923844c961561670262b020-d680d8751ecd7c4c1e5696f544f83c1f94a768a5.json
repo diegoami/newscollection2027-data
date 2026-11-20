@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2a7ed7ee18a084fe2923844c961561670262b020",
+  "item_id_b": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2a7ed7ee18a084fe2923844c961561670262b020-d680d8751ecd7c4c1e5696f544f83c1f94a768a5",
+  "reason": "One reports Anthropic's IPO price being set at $83, the other the next day's trading-debut result; launch vs later review.",
+  "same_story": false
+}

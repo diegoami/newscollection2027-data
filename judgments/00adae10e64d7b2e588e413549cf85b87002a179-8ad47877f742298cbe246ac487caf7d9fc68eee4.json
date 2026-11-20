@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "Nvidia's board chair statement on the earnings call and Luckey's separate comments a day later are different events.",
+  "same_story": false
+}

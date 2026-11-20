@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "89123c9a74babd244a80b84f6791ba8cd7911910",
+  "item_id_b": "f8e9566cc8a8c29300cf7580345360cde4dc24d0",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "89123c9a74babd244a80b84f6791ba8cd7911910-f8e9566cc8a8c29300cf7580345360cde4dc24d0",
+  "reason": "Huang's own 'honored to return' remark and an employee's internal exodus-warning letter are different statements.",
+  "same_story": false
+}

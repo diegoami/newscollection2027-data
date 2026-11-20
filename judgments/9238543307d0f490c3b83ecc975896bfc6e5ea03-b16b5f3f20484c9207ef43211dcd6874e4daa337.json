@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "9238543307d0f490c3b83ecc975896bfc6e5ea03",
+  "item_id_b": "b16b5f3f20484c9207ef43211dcd6874e4daa337",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "9238543307d0f490c3b83ecc975896bfc6e5ea03-b16b5f3f20484c9207ef43211dcd6874e4daa337",
+  "reason": "Both report the California AG's Nov 16 lawsuit against OpenAI over the rogue-agent/Hugging Face incident.",
+  "same_story": true
+}

@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-11-19-b90051",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "512GB Steam Machine no longer requires a waitlist",
+  "summary": "Valve says customers can now buy the 512GB Steam Machine without joining its waitlist, which had previously been required for interested buyers. One outlet also reports potential bad news about future supply tied to a RAM shortage, a risk not mentioned in the other outlet's given text.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Customers can now buy the 512GB Steam Machine without being on Valve's waitlist.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "579463838a59802d0b3830650154be67cb10f695",
+          "quote": "You can now buy a Steam Machine without getting on a waitlist"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "fc763823abb91dacf1a7b81e8eef93b3a8129b0b",
+          "quote": "You can now purchase the 512GB Steam Machine like a normal console"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "fc763823abb91dacf1a7b81e8eef93b3a8129b0b",
+          "quote": "Valve has worked through the waitlist for the smaller version of its gaming PC."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "There is potential bad news about future Steam Machine supply tied to a RAM shortage.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "579463838a59802d0b3830650154be67cb10f695",
+          "quote": "potential bad news about future supply due to RAMaggedon"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "The Verge's lede flags a potential future supply risk tied to a RAM shortage; Engadget's given text does not mention any such risk.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "579463838a59802d0b3830650154be67cb10f695",
+          "quote": "potential bad news about future supply due to RAMaggedon"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "fc763823abb91dacf1a7b81e8eef93b3a8129b0b",
+          "quote": "You can now purchase the 512GB Steam Machine like a normal console"
+        }
+      ],
+      "claim_ids": [
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

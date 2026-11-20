@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+ "item_id_b": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd-673fe163ae2a4b65ad675a2f1497a3495ded773d",
+ "reason": "TechCrunch covers Huang's own statement on returning; Guardian covers the separate, later CEO-search approach to Arm's Rene Haas.",
+ "same_story": false
+}

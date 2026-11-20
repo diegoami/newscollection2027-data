@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "29eb633a1a4008b5349ad9f0972186af0bdb4c57",
+  "item_id_b": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "29eb633a1a4008b5349ad9f0972186af0bdb4c57-ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
+  "reason": "Both report critics' reviews calling Grand Theft Auto VI a masterpiece.",
+  "same_story": true
+}

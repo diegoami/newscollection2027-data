@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3feac09277102c220aa904da8ec9278323db94c4",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3feac09277102c220aa904da8ec9278323db94c4-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "Nvidia's open-source/Hugging Face strategy statement and Huang's own willingness-to-return remark are distinct claims made the same day.",
+  "same_story": false
+}

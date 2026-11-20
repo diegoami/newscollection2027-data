@@ -33,8 +33,16 @@
       "published": "2026-11-18T14:57:00Z",
       "title": "Space robot legend Voyager 1 is now more than 1 light-day away",
       "url": "https://www.theregister.com/science/2026/11/18/space-robot-legend-voyager-1-is-now-more-than-1-light-day-away/5310751"
+    },
+    {
+      "item_id": "3acab62649d69cffea48f1a4349716e187e8c7d2",
+      "lede": "Carrier signal still reaches Earth, but science and engineering data have gone AWOL",
+      "outlet": "theregister",
+      "published": "2026-11-19T13:15:00Z",
+      "title": "Voyager 1 celebrates one light-day with a nice lie-down",
+      "url": "https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

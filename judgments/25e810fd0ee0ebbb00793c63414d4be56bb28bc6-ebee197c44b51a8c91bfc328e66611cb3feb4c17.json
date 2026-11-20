@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "25e810fd0ee0ebbb00793c63414d4be56bb28bc6",
+ "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "25e810fd0ee0ebbb00793c63414d4be56bb28bc6-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "reason": "Wired tallies Kress's own reassurance quotes; TechCrunch reports Nadella's separate confidence statement.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+  "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "bf22fc83169f6030cd521b2bfbd7481e1e19523a-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "reason": "One is Nvidia's board statement on not reinstating Huang, the other Nadella's unrelated confidence remark.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "66a7c55dd51c0bc44f7cb81ceb6d32e81fe0d898",
+  "item_id_b": "d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "66a7c55dd51c0bc44f7cb81ceb6d32e81fe0d898-d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+  "reason": "A is about fallout from the scandal affecting Trump's China trip diplomacy; B is Trump's specific national-security remark a day earlier.",
+  "same_story": false
+}

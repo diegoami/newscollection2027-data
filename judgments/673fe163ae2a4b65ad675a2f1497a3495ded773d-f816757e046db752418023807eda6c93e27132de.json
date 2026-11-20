@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "f816757e046db752418023807eda6c93e27132de",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-f816757e046db752418023807eda6c93e27132de",
+  "reason": "One covers Nvidia approaching Arm's Rene Haas as a CEO candidate, the other is Sam Altman's remark on Jensen's departure; different events.",
+  "same_story": false
+}

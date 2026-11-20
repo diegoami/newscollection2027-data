@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5a369153dd1e85ed4201a022db51be4433b0c79c",
+ "item_id_b": "755ddb3468878b19461cd60ece2f0b827bd3ed10",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5a369153dd1e85ed4201a022db51be4433b0c79c-755ddb3468878b19461cd60ece2f0b827bd3ed10",
+ "reason": "One is a co-creator interview on franchise history, the other a feature on the Heat gameplay mechanic; different specific subjects, not one event.",
+ "same_story": false
+}

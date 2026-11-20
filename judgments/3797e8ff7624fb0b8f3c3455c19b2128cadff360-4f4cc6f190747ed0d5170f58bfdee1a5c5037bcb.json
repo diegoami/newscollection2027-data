@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+ "item_id_b": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360-4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+ "reason": "Two different RCE vulnerabilities in different software: an OpenJDK/Java bug versus an exploited Apache Roller flaw.",
+ "same_story": false
+}

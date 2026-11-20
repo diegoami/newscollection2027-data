@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "item_id_b": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe-9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "reason": "Musk's reinstatement open letter and Huang's scheduled Dec 1 congressional testimony are different events.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "reason": "One reports the later Arm-CEO search, the other the board's earlier statement ruling out Huang's return; different events.",
+  "same_story": false
+}

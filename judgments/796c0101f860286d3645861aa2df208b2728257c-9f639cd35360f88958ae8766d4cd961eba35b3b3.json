@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "796c0101f860286d3645861aa2df208b2728257c",
+  "item_id_b": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "796c0101f860286d3645861aa2df208b2728257c-9f639cd35360f88958ae8766d4cd961eba35b3b3",
+  "reason": "Both report the Wellington IT breach exposing data at roughly 40 Irish credit unions.",
+  "same_story": true
+}

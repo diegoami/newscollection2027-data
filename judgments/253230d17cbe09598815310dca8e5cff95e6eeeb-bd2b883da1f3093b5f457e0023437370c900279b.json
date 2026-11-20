@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "253230d17cbe09598815310dca8e5cff95e6eeeb",
+  "item_id_b": "bd2b883da1f3093b5f457e0023437370c900279b",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "253230d17cbe09598815310dca8e5cff95e6eeeb-bd2b883da1f3093b5f457e0023437370c900279b",
+  "reason": "Both report Musk's DealBook Summit remarks calling midterm spending foolish and denying he's MAGA.",
+  "same_story": true
+}

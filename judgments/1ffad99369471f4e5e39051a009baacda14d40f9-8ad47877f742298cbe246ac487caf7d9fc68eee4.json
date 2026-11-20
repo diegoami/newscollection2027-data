@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1ffad99369471f4e5e39051a009baacda14d40f9",
+  "item_id_b": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1ffad99369471f4e5e39051a009baacda14d40f9-8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "reason": "Wired's 'now what' explainer/podcast is not a specific event; Luckey's reinstatement comments report a different occasion.",
+  "same_story": false
+}

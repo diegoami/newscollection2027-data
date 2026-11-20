@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "2a1b3475515a1832094f690a96c207be4294b4f0",
+ "item_id_b": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "2a1b3475515a1832094f690a96c207be4294b4f0-df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+ "reason": "Both report Waymo suspending freeway driverless rides nationwide right after California's freeway ban.",
+ "same_story": true
+}

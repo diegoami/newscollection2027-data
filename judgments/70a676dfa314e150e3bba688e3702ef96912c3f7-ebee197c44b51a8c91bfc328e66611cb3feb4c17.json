@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+  "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "70a676dfa314e150e3bba688e3702ef96912c3f7-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "reason": "One is Huang's statement about returning, the other Nadella's confidence remark; different statements by different people.",
+  "same_story": false
+}

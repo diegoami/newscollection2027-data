@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-11-19-e9e3cb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Amazon pushes alerts opposing NYC's Delivery Protection Act",
+  "summary": "Amazon is showing push notifications, homepage banners and an in-app pop-up warning shoppers that New York City's proposed Delivery Protection Act could add up to $5 per order. The bill is backed by Mayor Zohran Mamdani and labor groups including the Teamsters. One outlet frames this as Amazon using its shopping platform for political purposes.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon is pushing alerts and a homepage banner opposing NYC's Delivery Protection Act.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
+          "quote": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
+          "quote": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The bill could add up to $5 per order in New York City.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
+          "quote": "warning that a new bill could add up to $5 per order in New York City"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Delivery Protection Act is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
+          "quote": "The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Amazon is using its shopping platform for political purposes, per one outlet's framing.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
+          "quote": "Amazon now uses its shopping platform for political purposes."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet frames Amazon's alerts as warnings about the bill opposing it; the other frames the same campaign as Amazon using its shopping platform for political purposes.",
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
+          "quote": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
+          "quote": "Amazon now uses its shopping platform for political purposes."
+        }
+      ],
+      "claim_ids": [
+        "c1",
+        "c4"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

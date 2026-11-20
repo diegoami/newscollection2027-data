@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "b380dfe95e531269be955d7c80b2adee42e4e519",
+  "item_id_b": "f816757e046db752418023807eda6c93e27132de",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "b380dfe95e531269be955d7c80b2adee42e4e519-f816757e046db752418023807eda6c93e27132de",
+  "reason": "Trump's reinstatement call plus board-refusal report and Sam Altman's remark on Jensen are different events.",
+  "same_story": false
+}

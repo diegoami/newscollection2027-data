@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "0fc744e43d6095d814ec901071eb723b7740d007",
+  "item_id_b": "a628e3d51eab8a75a863fde19a231f5300f06379",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "0fc744e43d6095d814ec901071eb723b7740d007-a628e3d51eab8a75a863fde19a231f5300f06379",
+  "reason": "One covers Gemini Tasks' expanded access, the other a separate Gemini-on-Mac computer-use feature announcement.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08",
+  "item_id_b": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08-3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+  "reason": "Both report the same critical Java remote-code-execution flaw disclosure from the same security researchers.",
+  "same_story": true
+}

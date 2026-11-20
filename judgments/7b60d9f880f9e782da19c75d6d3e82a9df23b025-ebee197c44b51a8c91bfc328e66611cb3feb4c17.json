@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+ "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7b60d9f880f9e782da19c75d6d3e82a9df23b025-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "reason": "Verge covers the board chair's Q3 earnings-call remarks on Huang; TechCrunch reports Nadella's separate, later confidence statement about Kress.",
+ "same_story": false
+}

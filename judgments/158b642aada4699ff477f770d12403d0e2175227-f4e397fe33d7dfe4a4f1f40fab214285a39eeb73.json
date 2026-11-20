@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "158b642aada4699ff477f770d12403d0e2175227",
+  "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "158b642aada4699ff477f770d12403d0e2175227-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+  "reason": "BBC is an earlier analysis of Singapore's reputational fallout; Tom's Hardware reports the later confirmed criminal probe into Megaspeed.",
+  "same_story": false
+}

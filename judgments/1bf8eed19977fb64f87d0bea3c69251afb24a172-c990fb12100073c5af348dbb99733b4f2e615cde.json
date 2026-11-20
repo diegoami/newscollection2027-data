@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1bf8eed19977fb64f87d0bea3c69251afb24a172",
+  "item_id_b": "c990fb12100073c5af348dbb99733b4f2e615cde",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1bf8eed19977fb64f87d0bea3c69251afb24a172-c990fb12100073c5af348dbb99733b4f2e615cde",
+  "reason": "Both discuss Anthropic's IPO but as separate analysis pieces, one on bubble risk and the other on circular financing.",
+  "same_story": false
+}

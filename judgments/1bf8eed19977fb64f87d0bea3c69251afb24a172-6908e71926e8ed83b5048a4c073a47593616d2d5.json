@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "1bf8eed19977fb64f87d0bea3c69251afb24a172",
+  "item_id_b": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "1bf8eed19977fb64f87d0bea3c69251afb24a172-6908e71926e8ed83b5048a4c073a47593616d2d5",
+  "reason": "The BBC piece is an opinion/analysis column about the AI bubble, not a report of the ownership-stake news.",
+  "same_story": false
+}

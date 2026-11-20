@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8ad47877f742298cbe246ac487caf7d9fc68eee4-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+  "reason": "Luckey's reinstatement comments and Huang's own 'honored to return' statement are different speakers' statements a day apart.",
+  "same_story": false
+}

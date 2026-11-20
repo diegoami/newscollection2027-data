@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "e561862ab3766fd6d1cfe6b19a440040db614805",
+  "item_id_b": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "e561862ab3766fd6d1cfe6b19a440040db614805-ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+  "reason": "Huang's own return statement and Nadella's separate confidence remarks the next day are different events.",
+  "same_story": false
+}

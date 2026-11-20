@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2e2dbf3be8dcbc690ade2a713f0c75fa50b4bbb3",
+  "item_id_b": "f3fc0af98cb56719a673c729872a2f8ee3e7f8ac",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2e2dbf3be8dcbc690ade2a713f0c75fa50b4bbb3-f3fc0af98cb56719a673c729872a2f8ee3e7f8ac",
+  "reason": "Both report the same leaked images of Motorola's wide foldable (Razr Flex) phone.",
+  "same_story": true
+}

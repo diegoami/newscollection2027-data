@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+  "item_id_b": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac-89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+  "reason": "A is an explicit newsletter roundup of ongoing Nvidia drama, not a report of B's specific earnings/no-reinstate event.",
+  "same_story": false
+}

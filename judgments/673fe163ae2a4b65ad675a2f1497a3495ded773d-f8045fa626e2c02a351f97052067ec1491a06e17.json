@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+  "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "673fe163ae2a4b65ad675a2f1497a3495ded773d-f8045fa626e2c02a351f97052067ec1491a06e17",
+  "reason": "Nvidia approaching Arm's Rene Haas for CEO and its earlier statement ruling out reappointing Huang are different events.",
+  "same_story": false
+}

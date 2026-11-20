@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "574f499b55a7cf429f02bdbc09e017581d9c8954",
+  "item_id_b": "f816757e046db752418023807eda6c93e27132de",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "574f499b55a7cf429f02bdbc09e017581d9c8954-f816757e046db752418023807eda6c93e27132de",
+  "reason": "Huang's congressional testimony report and Sam Altman's remark on Jensen are different events.",
+  "same_story": false
+}

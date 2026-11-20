@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "37938fc8163d31b760bc8ad018d1c6860a615e04",
+  "item_id_b": "afeb4fa99a1cd3e33ee9952618105fda6a341960",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "37938fc8163d31b760bc8ad018d1c6860a615e04-afeb4fa99a1cd3e33ee9952618105fda6a341960",
+  "reason": "Both report the same Senate committee vote approving Trump's FCC nominee as Democrats boycotted.",
+  "same_story": true
+}

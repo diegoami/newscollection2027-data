@@ -1,0 +1,24 @@
+{
+  "anchor": "890e2f7b3ac9f81cefb555b610c56703faeb0f6f",
+  "id": "2026-11-18-fa9060",
+  "items": [
+    {
+      "item_id": "890e2f7b3ac9f81cefb555b610c56703faeb0f6f",
+      "lede": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "outlet": "techcrunch",
+      "published": "2026-11-18T18:04:05Z",
+      "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/"
+    },
+    {
+      "item_id": "2158c1df379a1a18466bceeefd616e7634a1c39c",
+      "lede": "With temporary threads, any searches you run in Google\u2019s AI Mode won\u2019t be associated with your account or saved to your chat history.",
+      "outlet": "zdnet",
+      "published": "2026-11-19T17:12:31Z",
+      "title": "Your Google AI mode searches can stay private now with \u2018temporary threads\u2019 \u2013 here\u2019s how",
+      "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

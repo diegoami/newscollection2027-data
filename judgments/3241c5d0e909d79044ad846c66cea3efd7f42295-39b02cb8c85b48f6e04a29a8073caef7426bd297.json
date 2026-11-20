@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "3241c5d0e909d79044ad846c66cea3efd7f42295",
+  "item_id_b": "39b02cb8c85b48f6e04a29a8073caef7426bd297",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "3241c5d0e909d79044ad846c66cea3efd7f42295-39b02cb8c85b48f6e04a29a8073caef7426bd297",
+  "reason": "Both report Flipper Devices' launch of the $399 Flipper One Kickstarter campaign.",
+  "same_story": true
+}

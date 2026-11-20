@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "item_id_b": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8ad47877f742298cbe246ac487caf7d9fc68eee4-daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+  "reason": "Luckey's reinstatement comments (Nov 18) and Nvidia's earnings/no-reinstate announcement (Nov 17) are different events.",
+  "same_story": false
+}

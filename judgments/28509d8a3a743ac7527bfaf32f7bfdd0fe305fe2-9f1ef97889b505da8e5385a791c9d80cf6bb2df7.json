@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2",
+  "item_id_b": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2-9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+  "reason": "Nvidia's China-exit announcement and Huang's scheduled Dec 1 testimony are different events.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f",
+  "item_id_b": "6344945c046955542a08855a3be046ddc1da7171",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f-6344945c046955542a08855a3be046ddc1da7171",
+  "reason": "One reports the completed $81bn Anthropic IPO debut, the other is a pre-IPO 'how to buy shares' explainer.",
+  "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "191f99a064df691bda266f561ae5614866961350",
+  "item_id_b": "f1ee60c21c32fea33ae2bed8a42823effcf65700",
+  "judged_at": "2026-11-20T02:11:52Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "191f99a064df691bda266f561ae5614866961350-f1ee60c21c32fea33ae2bed8a42823effcf65700",
+  "reason": "One reports Instagram's Amazon affiliate-link launch, the other a later piece on creators' skepticism of it.",
+  "same_story": false
+}

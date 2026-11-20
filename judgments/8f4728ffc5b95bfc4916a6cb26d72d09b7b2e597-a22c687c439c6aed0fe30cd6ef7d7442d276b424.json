@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8f4728ffc5b95bfc4916a6cb26d72d09b7b2e597",
+  "item_id_b": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8f4728ffc5b95bfc4916a6cb26d72d09b7b2e597-a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+  "reason": "Both report Apple's plans/hiring for its own AI agent, based on the same job-listing report.",
+  "same_story": true
+}

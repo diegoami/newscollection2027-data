@@ -25,8 +25,16 @@
       "published": "2026-11-16T17:00:00Z",
       "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
       "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+    },
+    {
+      "item_id": "191f99a064df691bda266f561ae5614866961350",
+      "lede": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-19T19:12:30Z",
+      "title": "Some creators are skeptical of Instagram\u2019s new affiliate program",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

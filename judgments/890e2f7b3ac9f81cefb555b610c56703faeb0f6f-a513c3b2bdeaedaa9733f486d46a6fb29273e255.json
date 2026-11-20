@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "890e2f7b3ac9f81cefb555b610c56703faeb0f6f",
+  "item_id_b": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+  "judged_at": "2026-11-20T02:13:48Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "890e2f7b3ac9f81cefb555b610c56703faeb0f6f-a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+  "reason": "TechCrunch covers Google Search AI Mode's new incognito threads; Ars covers separate Gemini chat/training toggles, different product features.",
+  "same_story": false
+}

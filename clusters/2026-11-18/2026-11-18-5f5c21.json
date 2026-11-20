@@ -1,0 +1,24 @@
+{
+  "anchor": "d2cb25e8bf7044cb22ac2002694697f2bbb8273c",
+  "id": "2026-11-18-5f5c21",
+  "items": [
+    {
+      "item_id": "d2cb25e8bf7044cb22ac2002694697f2bbb8273c",
+      "lede": "Football players say they are \u2018traumatized\u2019 after being handcuffed and detained by police while waiting for rides home Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them",
+      "outlet": "theguardian",
+      "published": "2026-11-18T23:53:51Z",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit"
+    },
+    {
+      "item_id": "a18d40e53c3a1f3821af5dffd1b3171a7e2d9742",
+      "lede": "Lawsuit: Over 99% of school system\u2019s AI gun alerts were false positives.",
+      "outlet": "arstechnica",
+      "published": "2026-11-19T20:19:28Z",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

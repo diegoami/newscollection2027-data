@@ -1,0 +1,93 @@
+{
+  "cluster_id": "2026-11-19-67e8b4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Meta's Muse Charm may cost $300, per The Information",
+  "summary": "Meta reportedly plans to price its Muse Charm AI gadget at $300, according to The Information, and Meta has not denied the report, saying only that it will share more soon. Zuckerberg revealed the device earlier this year and said Meta expected to ship it by the December holidays. One outlet reports it may also include a free Verizon 5G data plan, a detail the other outlets' given text does not mention.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta is reportedly planning to price the Muse Charm at $300, according to The Information.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b0341a0ae375085ebde87d492dadb72d98d084be",
+          "quote": "Meta’s Muse Charm might cost $300"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+          "quote": "Meta’s new Muse Charm device may cost $300"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+          "quote": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta has not denied the $300 price reporting, saying only that it will share more soon.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "6f0f2d869f0fe635e8e9efd051b08a1909a6c1dd",
+          "quote": "Meta hasn't denied the reporting from The Information"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Muse Charm might come with a free Verizon 5G data plan.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+          "quote": "will reportedly cost $300 and come with free Verizon 5G"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+          "quote": "it might come with a free data plan"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Zuckerberg revealed the gadget earlier this year and said Meta expected to ship it in time for the December holidays.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "b0341a0ae375085ebde87d492dadb72d98d084be",
+          "quote": "CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\""
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "Engadget reports the Muse Charm will come with a free Verizon 5G data plan, a detail absent from the other outlets' given text.",
+      "quotes": [
+        {
+          "outlet": "engadget",
+          "item_id": "4b36fd1c66168ac06955aa3f6268cf899b45ab01",
+          "quote": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "b0341a0ae375085ebde87d492dadb72d98d084be",
+          "quote": "Meta’s Muse Charm might cost $300"
+        }
+      ],
+      "claim_ids": [
+        "c3"
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

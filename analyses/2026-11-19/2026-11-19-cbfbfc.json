@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-19-cbfbfc",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Google gives Gemini computer-use ability on the Mac",
+  "summary": "Google's Gemini app for macOS now has a computer-use feature that can perform multistep tasks such as organizing files, filling out forms and working across local files, desktop apps and the web. Google suggests it could help speed up workflows, fill in forms, make presentations and list items for sale.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google's Gemini app for Mac now has a computer-use feature that can perform multistep tasks.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
+          "quote": "Google gives Gemini the ability to use your Mac for you"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
+          "quote": "Gemini on Mac can now use your computer"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The feature can organize files, fill out forms and tackle multistep workflows, and get tasks done across local files, desktop apps and the web.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
+          "quote": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
+          "quote": "get multi-step tasks done across your local files, desktop apps, and the web"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Google suggests use cases including speeding up workflows, filling in forms, making presentations and listing items for sale.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
+          "quote": "Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

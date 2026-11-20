@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+ "item_id_b": "d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+ "judged_at": "2026-11-20T02:13:52Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9775fff4b2849085afda34a3de2f73e6bdfc0476-d1bee759e86a69db18c4fb9a1fc7d6751dc37f25",
+ "reason": "Guardian covers Huang's own statement on willingness to return; TechCrunch covers Trump's separate remarks on the national-security angle of the affair.",
+ "same_story": false
+}

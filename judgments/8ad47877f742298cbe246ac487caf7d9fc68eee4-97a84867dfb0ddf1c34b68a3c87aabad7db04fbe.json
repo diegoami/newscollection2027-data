@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "8ad47877f742298cbe246ac487caf7d9fc68eee4",
+  "item_id_b": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "8ad47877f742298cbe246ac487caf7d9fc68eee4-97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+  "reason": "Palmer Luckey's own reinstatement comments (Nov 18) are a separate statement from Musk's 165,000-signature open letter (Nov 16).",
+  "same_story": false
+}

@@ -1,0 +1,24 @@
+{
+  "anchor": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+  "id": "2026-11-18-66fb8c",
+  "items": [
+    {
+      "item_id": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+      "lede": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-18T19:39:33Z",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+    },
+    {
+      "item_id": "796c0101f860286d3645861aa2df208b2728257c",
+      "lede": "Minister calls notification delay 'not acceptable' after October attack on Irish banking player Wellington IT came to light in November",
+      "outlet": "theregister",
+      "published": "2026-11-19T11:45:00Z",
+      "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
+      "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

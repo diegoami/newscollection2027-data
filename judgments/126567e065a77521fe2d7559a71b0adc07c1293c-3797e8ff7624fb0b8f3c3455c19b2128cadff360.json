@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "126567e065a77521fe2d7559a71b0adc07c1293c",
+  "item_id_b": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+  "judged_at": "2026-11-20T02:13:05Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "126567e065a77521fe2d7559a71b0adc07c1293c-3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+  "reason": "Both report disclosure of the same critical Java4Shell / OpenJDK remote-code-execution vulnerability.",
+  "same_story": true
+}

@@ -1,0 +1,32 @@
+{
+  "anchor": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+  "id": "2026-11-18-f986f2",
+  "items": [
+    {
+      "item_id": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+      "lede": "At least one dangerous RCE bug will get a fix on Thursday",
+      "outlet": "theregister",
+      "published": "2026-11-18T22:38:12Z",
+      "title": "Get ready for another critical PHP security release to drop",
+      "url": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+    },
+    {
+      "item_id": "fae8e99e76e129e326a8fda530b51f9fcd479c60",
+      "lede": "At least one dangerous RCE bug gota fix on Thursday",
+      "outlet": "theregister",
+      "published": "2026-11-18T22:38:12Z",
+      "title": "Another critical PHP security release has dropped",
+      "url": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911"
+    },
+    {
+      "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+      "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-19T16:28:23Z",
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

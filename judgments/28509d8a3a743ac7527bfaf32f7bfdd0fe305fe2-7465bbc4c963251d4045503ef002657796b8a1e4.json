@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2",
+  "item_id_b": "7465bbc4c963251d4045503ef002657796b8a1e4",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2-7465bbc4c963251d4045503ef002657796b8a1e4",
+  "reason": "Nvidia's China-exit announcement and the general Q3 earnings-beat report are different specific claims from the same call.",
+  "same_story": false
+}

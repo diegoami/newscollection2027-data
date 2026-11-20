@@ -1,0 +1,10 @@
+{
+  "backend": "claude_code",
+  "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+  "item_id_b": "75a891499c3b2577666cb32ea21f288361afe859",
+  "judged_at": "2026-11-20T00:00:00Z",
+  "model": "claude-sonnet-5",
+  "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-75a891499c3b2577666cb32ea21f288361afe859",
+  "reason": "The board's no-reinstatement decision (Nov 17) and an engineer's resignation over transparency (Nov 15) are separate events on different days.",
+  "same_story": false
+}

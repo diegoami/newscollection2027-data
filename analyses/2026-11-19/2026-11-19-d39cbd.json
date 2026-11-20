@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-19-d39cbd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-20T02:22:04Z",
+  "headline": "Meta adds 3D movie purchases and rentals to Quest TV app",
+  "summary": "Meta now offers more than 150 3D movies to buy or rent for viewing in VR on its Quest 3 and 3S headsets, available through its TV app. The headlining title is a Billie Eilish 3D concert experience co-directed by James Cameron.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta now offers 3D movies to buy or rent through its Quest TV app on Quest 3 and 3S headsets.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "26f6ba33d703d7a46e6298c36f1857478dde3b0e",
+          "quote": "Meta Quest adds 3D movie purchases and rentals to its TV app"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "7a39639263596a9f326977bf63e044546eb6a11e",
+          "quote": "Meta now sells 3D movies on Quest VR headsets"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Meta now offers more than 150 3D movies to buy or rent, viewable in VR on Quest 3 and 3S headsets.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "7a39639263596a9f326977bf63e044546eb6a11e",
+          "quote": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "26f6ba33d703d7a46e6298c36f1857478dde3b0e",
+          "quote": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
