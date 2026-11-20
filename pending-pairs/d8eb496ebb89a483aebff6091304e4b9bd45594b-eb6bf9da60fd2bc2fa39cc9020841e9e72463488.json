@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "d8eb496ebb89a483aebff6091304e4b9bd45594b",
+    "lede": "At least if Tasks disappoints, it won\u2019t cost you \u2013 unlike OpenAI and Anthropic\u2019s subscription-based agents.",
+    "outlet": "zdnet",
+    "published": "2026-11-18T17:11:39Z",
+    "title": "You can use Google\u2019s Spark AI agent, renamed Tasks, for free now \u2013 with limits",
+    "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/"
+  },
+  "b": {
+    "item_id": "eb6bf9da60fd2bc2fa39cc9020841e9e72463488",
+    "lede": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance.",
+    "outlet": "engadget",
+    "published": "2026-11-20T07:31:25Z",
+    "title": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+    "url": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/"
+  },
+  "score": 0.664338
+}
