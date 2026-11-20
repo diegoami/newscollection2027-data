@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e",
+    "lede": "First service outages, then data breaches\u2026what's next?!",
+    "outlet": "theregister",
+    "published": "2026-11-19T21:12:33Z",
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+    "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+  },
+  "b": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "score": 0.794588
+}

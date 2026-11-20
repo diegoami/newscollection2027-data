@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "b": {
+    "item_id": "df29d71aedcbd867e50bcbcf272961d862d3691c",
+    "lede": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T22:25:42Z",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+  },
+  "score": 0.580623
+}

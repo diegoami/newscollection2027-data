@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7aba46b2e297d42b9d6cc37604972f962cdb2a46",
+    "lede": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T09:23:21Z",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/"
+  },
+  "b": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "score": 0.579262
+}

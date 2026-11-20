@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+    "lede": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.",
+    "outlet": "engadget",
+    "published": "2026-11-20T12:36:11Z",
+    "title": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+    "url": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"
+  },
+  "b": {
+    "item_id": "a513c3b2bdeaedaa9733f486d46a6fb29273e255",
+    "lede": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "outlet": "arstechnica",
+    "published": "2026-11-17T16:50:10Z",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+  },
+  "score": 0.571073
+}

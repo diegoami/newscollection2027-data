@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c5e24a06d3952b8fed09aba57fe3defdf43b7a53",
+    "lede": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T00:26:25Z",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+  },
+  "b": {
+    "item_id": "d9a325150570d699b071a03f952ae4935f5b6523",
+    "lede": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T13:18:36Z",
+    "title": "N-able says recent security breach led to major service outage",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+  },
+  "score": 0.593257
+}

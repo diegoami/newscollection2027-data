@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "045881cd2c0c2e2fc53b2fd296f39fbc2f3deb35",
+    "lede": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T11:30:00Z",
+    "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions"
+  },
+  "b": {
+    "item_id": "edeaa98d177d968de353d74e769bf1b0571a607b",
+    "lede": "The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T22:17:02Z",
+    "title": "China retains fastest supercomputer in the world crown as AI data centers soak up new hardware",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years"
+  },
+  "score": 0.655611
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "01ccb47fede430d7fdba361fe929000b01248489",
+    "lede": "The Phison Pascari X201P 15.36TB U.2 data center SSD meets its rated speeds and saves AI checkpoints quickly, though it trails on low-queue-depth writes.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T13:13:48Z",
+    "title": "Phison Pascari X201P 15.36TB SSD Review: Fast PCIe 5.0 write performance for AI and ingest servers",
+    "url": "https://www.tomshardware.com/pc-components/ssds/phison-pascari-x201p-15-36tb-ssd-review"
+  },
+  "b": {
+    "item_id": "d65a607443e34d1367a1871c1725b64bca1f0138",
+    "lede": "Phison showed a computational-storage SSD with an NPU and 64GB of memory, plus Mixed Media pSLC and QLC drives, at SC26.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T14:00:00Z",
+    "title": "Phison details SSD with a built-in NPU and 64GB of memory that supports AI frameworks on the drive",
+    "url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller"
+  },
+  "score": 0.592433
+}

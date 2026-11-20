@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1977168802e4655023574f20c3a5cbbf719997ca",
+    "lede": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T18:20:01Z",
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
+  },
+  "b": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "score": 0.578819
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+    "lede": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+  },
+  "b": {
+    "item_id": "447a475adcedf3c157f8e13220609d30154bb73f",
+    "lede": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T17:20:41Z",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+  },
+  "score": 0.587403
+}

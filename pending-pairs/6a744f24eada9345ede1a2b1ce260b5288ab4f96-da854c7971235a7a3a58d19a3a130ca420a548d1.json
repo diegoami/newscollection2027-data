@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a744f24eada9345ede1a2b1ce260b5288ab4f96",
+    "lede": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T10:57:43Z",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+  },
+  "b": {
+    "item_id": "da854c7971235a7a3a58d19a3a130ca420a548d1",
+    "lede": "Following devastating hacks that caused European fridges to reach 50 degrees Celsius, destroying food stocks, the U.K. has implemented nationwide patching to ensure similar attacks won't affect its fridges.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T13:30:00Z",
+    "title": "Thousands of vulnerable fridges patched against cyberattacks in secret operation",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/thousands-of-vulnerable-fridges-patched-against-cyberattacks-in-secret-operation-uk-takes-action-following-hacks-that-destroyed-food-supplies-with-50-degree-defrosting-hijack"
+  },
+  "score": 0.571413
+}

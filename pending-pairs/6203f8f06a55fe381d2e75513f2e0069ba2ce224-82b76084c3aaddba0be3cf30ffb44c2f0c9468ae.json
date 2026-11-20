@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6203f8f06a55fe381d2e75513f2e0069ba2ce224",
+    "lede": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can\u2019t let AI be controlled by the few.",
+    "outlet": "wired",
+    "published": "2026-11-17T11:00:00Z",
+    "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/"
+  },
+  "b": {
+    "item_id": "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae",
+    "lede": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+    "outlet": "theregister",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+    "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+  },
+  "score": 0.57018
+}

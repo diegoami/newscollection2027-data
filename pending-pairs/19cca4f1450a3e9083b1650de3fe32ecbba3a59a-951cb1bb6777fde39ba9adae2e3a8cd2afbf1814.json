@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19cca4f1450a3e9083b1650de3fe32ecbba3a59a",
+    "lede": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:00:10Z",
+    "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind.",
+    "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/"
+  },
+  "b": {
+    "item_id": "951cb1bb6777fde39ba9adae2e3a8cd2afbf1814",
+    "lede": "There's no need to fear moving from one password manager to another with failsafes in place to make the transfer easy, efficient, and secure.",
+    "outlet": "engadget",
+    "published": "2026-11-17T17:15:00Z",
+    "title": "How to switch between password managers without losing your information",
+    "url": "https://www.engadget.com/2315260/switch-password-managers-without-losing-information/"
+  },
+  "score": 0.659023
+}

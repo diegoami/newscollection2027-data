@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6b32b3a765865b84dda1e5ae460818c8946dbdf0",
+    "lede": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-17T18:04:15Z",
+    "title": "Tor releases emergency update amid ongoing DDoS attack",
+    "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+  },
+  "b": {
+    "item_id": "d9a325150570d699b071a03f952ae4935f5b6523",
+    "lede": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T13:18:36Z",
+    "title": "N-able says recent security breach led to major service outage",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+  },
+  "score": 0.572186
+}

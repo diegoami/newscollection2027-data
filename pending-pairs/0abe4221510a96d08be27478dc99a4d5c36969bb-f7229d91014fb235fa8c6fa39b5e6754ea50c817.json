@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+    "lede": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.619441
+}

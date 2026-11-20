@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "b": {
+    "item_id": "e7daa89d962c4074e5849ca04023edccfd3d5794",
+    "lede": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+    "outlet": "techcrunch",
+    "published": "2026-11-16T19:53:00Z",
+    "title": "Uber says hackers stole information on close to 150,000 driver\u2019s licenses during data breach",
+    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+  },
+  "score": 0.572376
+}

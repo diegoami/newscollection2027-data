@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "ab0676cf6917bd60a350e5bcccfec14079b68d45",
+    "lede": "Nvidia's Vera CPU, powered by its custom Olympus Arm cores, already offers strong performance with unoptimized code, but at SC26, the company demonstrated that further software optimizations can improve performance by nearly 39% with certain workloads.",
+    "outlet": "tomshardware",
+    "published": "2026-11-17T17:30:00Z",
+    "title": "Nvidia claims its Vera CPU can gain up to 39% performance boost via software optimization at SC26 \u2014 architectural fine-tuning is needed to fully unleash custom Olympus cores",
+    "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-claims-its-vera-cpu-can-gain-up-to-39-percent-performance-boost-via-software-optimization-at-sc26-architectural-fine-tuning-is-needed-to-fully-unleash-custom-olympus-cores"
+  },
+  "b": {
+    "item_id": "c89059a3750750b933f505b185eb1999ad933023",
+    "lede": "A lawyer\u2019s private AI server now runs DeepSeek V4.1 Flash on 12 used Nvidia V100 GPUs, with every expert at 4-bit NVFP4.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T12:30:00Z",
+    "title": "Lawyer\u2019s $9,450 private AI server with 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time"
+  },
+  "score": 0.571214
+}

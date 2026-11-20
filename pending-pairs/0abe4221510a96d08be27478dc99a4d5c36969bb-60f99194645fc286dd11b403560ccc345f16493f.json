@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+    "lede": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+  },
+  "b": {
+    "item_id": "60f99194645fc286dd11b403560ccc345f16493f",
+    "lede": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T22:54:00Z",
+    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+    "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/"
+  },
+  "score": 0.602386
+}

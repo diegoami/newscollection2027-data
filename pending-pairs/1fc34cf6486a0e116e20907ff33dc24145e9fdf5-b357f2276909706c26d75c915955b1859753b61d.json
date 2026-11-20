@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fc34cf6486a0e116e20907ff33dc24145e9fdf5",
+    "lede": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T10:35:05Z",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/"
+  },
+  "b": {
+    "item_id": "b357f2276909706c26d75c915955b1859753b61d",
+    "lede": "App problems in Windows after default hotpatching? Who could have foreseen that?",
+    "outlet": "theregister",
+    "published": "2026-11-20T13:39:00Z",
+    "title": "Microsoft suggests Registry hack to work around hotpatch woes",
+    "url": "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279"
+  },
+  "score": 0.672029
+}

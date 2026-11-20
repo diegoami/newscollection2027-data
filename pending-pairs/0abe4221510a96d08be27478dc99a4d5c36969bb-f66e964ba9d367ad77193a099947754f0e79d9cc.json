@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+    "lede": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+  },
+  "b": {
+    "item_id": "f66e964ba9d367ad77193a099947754f0e79d9cc",
+    "lede": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T19:57:13Z",
+    "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+    "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+  },
+  "score": 0.594171
+}

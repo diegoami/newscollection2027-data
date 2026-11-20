@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f23871144f33361ec503a8a137db8418e48d2d7",
+    "lede": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T16:30:08Z",
+    "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+  },
+  "b": {
+    "item_id": "859ee3ec8c206bcf248f3227ddbf4c2b0af2026d",
+    "lede": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-20T16:34:13Z",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+  },
+  "score": 0.780541
+}

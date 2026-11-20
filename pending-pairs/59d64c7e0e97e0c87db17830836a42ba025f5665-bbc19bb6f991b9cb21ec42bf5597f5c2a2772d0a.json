@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "59d64c7e0e97e0c87db17830836a42ba025f5665",
+    "lede": "The company is investigating",
+    "outlet": "theregister",
+    "published": "2026-11-16T21:53:28Z",
+    "title": "Infoblox customer and staff data exposed in Sharepoint breach",
+    "url": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
+  },
+  "b": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "score": 0.664228
+}

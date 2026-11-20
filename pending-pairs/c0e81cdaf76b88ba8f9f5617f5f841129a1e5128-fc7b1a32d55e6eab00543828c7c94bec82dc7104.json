@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c0e81cdaf76b88ba8f9f5617f5f841129a1e5128",
+    "lede": "As recently as the beginning of the year, 16GB of RAM was common on sub-$800 Windows laptops, which helped compensate for an increasingly bloated-feeling Windows 11. But with the cost of RAM skyrocketing this year, 8GB is once again typical for a starting configuration. The MacBook Neo got away with it, but Windows laptops, including [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-17T14:00:00Z",
+    "title": "Windows 11 actually runs better on 8GB of RAM now",
+    "url": "https://www.theverge.com/tech/1035159/windows-11-8gb-ram-updates-performance-improvements-surface-laptop-testing"
+  },
+  "b": {
+    "item_id": "fc7b1a32d55e6eab00543828c7c94bec82dc7104",
+    "lede": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T12:14:28Z",
+    "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/"
+  },
+  "score": 0.576423
+}

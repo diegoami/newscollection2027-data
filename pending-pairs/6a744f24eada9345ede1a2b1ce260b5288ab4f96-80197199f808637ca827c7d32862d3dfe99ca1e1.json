@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a744f24eada9345ede1a2b1ce260b5288ab4f96",
+    "lede": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T10:57:43Z",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+  },
+  "b": {
+    "item_id": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+    "lede": "At least one dangerous RCE bug will get a fix on Thursday",
+    "outlet": "theregister",
+    "published": "2026-11-18T22:38:12Z",
+    "title": "Get ready for another critical PHP security release to drop",
+    "url": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+  },
+  "score": 0.580732
+}

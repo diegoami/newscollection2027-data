@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6c623452a14a6d231ad59fba2e65f23ed355f3b0",
+    "lede": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T18:51:43Z",
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+  },
+  "b": {
+    "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a",
+    "lede": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:58:06Z",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  "score": 0.599214
+}

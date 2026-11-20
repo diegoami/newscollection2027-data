@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0abe4221510a96d08be27478dc99a4d5c36969bb",
+    "lede": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+  },
+  "b": {
+    "item_id": "c0bdf578bee45e85c9fdcde467c42726fc07d6fe",
+    "lede": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+    "outlet": "wired",
+    "published": "2026-11-18T16:35:24Z",
+    "title": "Artex Is Criminals\u2019 New Favorite \u2018Point-and-Shoot\u2019 AI Hacking Tool",
+    "url": "https://www.wired.com/story/artex-ai-hacking-tools/"
+  },
+  "score": 0.596979
+}

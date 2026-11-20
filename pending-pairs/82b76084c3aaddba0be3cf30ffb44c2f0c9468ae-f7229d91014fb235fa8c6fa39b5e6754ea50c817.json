@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "82b76084c3aaddba0be3cf30ffb44c2f0c9468ae",
+    "lede": "'Agents kept adapting for nearly a full day without human direction,' Amazon CISO said",
+    "outlet": "theregister",
+    "published": "2026-11-20T17:30:00Z",
+    "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+    "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+  },
+  "b": {
+    "item_id": "f7229d91014fb235fa8c6fa39b5e6754ea50c817",
+    "lede": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T20:59:44Z",
+    "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+    "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/"
+  },
+  "score": 0.616704
+}

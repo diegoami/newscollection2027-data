@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "170cd467c630bfa77ba05953b8a786a7c597be35",
+    "lede": "Devices found to misinterpret medication instructions and other scenarios impacting human safety",
+    "outlet": "theregister",
+    "published": "2026-11-20T16:44:00Z",
+    "title": "Dutch data watchdog highlights safety issues with AI glasses",
+    "url": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"
+  },
+  "b": {
+    "item_id": "f185109c2e3b1ded5afb8de1ff338b8c7f82d45e",
+    "lede": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+    "outlet": "bbc-technology",
+    "published": "2026-11-19T16:33:17Z",
+    "title": "Dutch watchdog tells people not to buy AI smart glasses",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o"
+  },
+  "score": 0.636437
+}

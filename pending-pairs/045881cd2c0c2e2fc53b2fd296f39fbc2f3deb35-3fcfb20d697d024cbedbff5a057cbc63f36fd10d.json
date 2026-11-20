@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "045881cd2c0c2e2fc53b2fd296f39fbc2f3deb35",
+    "lede": "Faster GPUs are no longer enough as power constraints, network congestion, and communication overhead force the industry to rethink how massive AI systems are built.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T11:30:00Z",
+    "title": "Power and cooling limits force AI clusters with 100,000+ accelerators to use multiple data centers",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/power-and-cooling-limits-push-100-000-accelerator-ai-clusters-past-single-data-centers-google-cisco-and-marvell-target-scale-across-networking-across-regions"
+  },
+  "b": {
+    "item_id": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d",
+    "lede": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T21:00:00Z",
+    "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts"
+  },
+  "score": 0.645495
+}
