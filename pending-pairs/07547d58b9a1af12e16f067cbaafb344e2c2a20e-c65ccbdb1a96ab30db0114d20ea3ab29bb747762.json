@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e",
+    "lede": "First service outages, then data breaches\u2026what's next?!",
+    "outlet": "theregister",
+    "published": "2026-11-19T21:12:33Z",
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+    "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+  },
+  "b": {
+    "item_id": "c65ccbdb1a96ab30db0114d20ea3ab29bb747762",
+    "lede": "Email, flights, banks; network failures are piling up. Here\u2019s how WIRED investigates if they\u2019re the result of hacker mayhem. (Hint: usually not.)",
+    "outlet": "wired",
+    "published": "2026-11-17T19:40:57Z",
+    "title": "How to Tell If It\u2019s a Cyberattack or Just an Outage",
+    "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/"
+  },
+  "score": 0.588525
+}

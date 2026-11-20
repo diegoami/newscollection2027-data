@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5bd459c4aabe40e7ea55ebac63f99cbe5470f930",
+    "lede": "In today\u2019s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
+    "outlet": "zdnet",
+    "published": "2026-11-19T12:00:00Z",
+    "title": "90% of employers reject resumes that look like AI \u2013 yet half use AI to interview",
+    "url": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/"
+  },
+  "b": {
+    "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+    "lede": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-19T22:31:41Z",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  "score": 0.570125
+}

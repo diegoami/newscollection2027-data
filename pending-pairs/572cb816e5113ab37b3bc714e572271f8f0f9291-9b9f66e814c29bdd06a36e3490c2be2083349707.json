@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "572cb816e5113ab37b3bc714e572271f8f0f9291",
+    "lede": "Germ DM is an encrypted messaging platform that uses \u201cburner cards\u201d instead of phone numbers or usernames to compartmentalize your conversations.",
+    "outlet": "wired",
+    "published": "2026-11-18T11:00:00Z",
+    "title": "Exclusive: Germ DM Is a Signal Alternative That\u2019s Now on Android",
+    "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android/"
+  },
+  "b": {
+    "item_id": "9b9f66e814c29bdd06a36e3490c2be2083349707",
+    "lede": "Bluesky's preferred encrypted messaging app allows multiple identities without tying you to a phone number",
+    "outlet": "theregister",
+    "published": "2026-11-20T00:06:35Z",
+    "title": "Germ Network infects Android, but in a good way",
+    "url": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186"
+  },
+  "score": 0.683013
+}

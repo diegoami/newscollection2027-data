@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+    "lede": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-19T22:31:41Z",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  "b": {
+    "item_id": "c57caf43ad4de30d6b0b43231f5081f33bdb3e2b",
+    "lede": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T19:25:57Z",
+    "title": "Apple could build its AI health chatbot from this study \u2013 how to enroll",
+    "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/"
+  },
+  "score": 0.625602
+}

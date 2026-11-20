@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d",
+    "lede": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T21:00:00Z",
+    "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts"
+  },
+  "b": {
+    "item_id": "aae72e4c06797373ec59fb581b73e62654a5a8df",
+    "lede": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world\u2019s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world\u2019s energy watchdog. The International Energy Agency (IEA) warned",
+    "outlet": "theguardian",
+    "published": "2026-11-19T05:00:18Z",
+    "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+    "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+  },
+  "score": 0.632674
+}

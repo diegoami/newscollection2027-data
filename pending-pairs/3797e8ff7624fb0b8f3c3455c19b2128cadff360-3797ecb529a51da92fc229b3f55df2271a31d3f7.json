@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3797e8ff7624fb0b8f3c3455c19b2128cadff360",
+    "lede": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T10:30:00Z",
+    "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text"
+  },
+  "b": {
+    "item_id": "3797ecb529a51da92fc229b3f55df2271a31d3f7",
+    "lede": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T21:15:59Z",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+  },
+  "score": 0.599913
+}

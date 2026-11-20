@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "9f639cd35360f88958ae8766d4cd961eba35b3b3",
+    "lede": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T19:39:33Z",
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+  },
+  "b": {
+    "item_id": "df29d71aedcbd867e50bcbcf272961d862d3691c",
+    "lede": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T22:25:42Z",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+  },
+  "score": 0.586938
+}

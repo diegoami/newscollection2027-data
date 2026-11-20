@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3797ecb529a51da92fc229b3f55df2271a31d3f7",
+    "lede": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T21:15:59Z",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+  },
+  "b": {
+    "item_id": "c5e7bc1c42387de6ab3bf4f126021688802d8ae2",
+    "lede": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T16:28:23Z",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+  },
+  "score": 0.645822
+}

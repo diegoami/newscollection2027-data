@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7d4f6584a3c990347a501878d6b95c00f9bb675b",
+    "lede": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-16T09:30:04Z",
+    "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+    "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/"
+  },
+  "b": {
+    "item_id": "c5e24a06d3952b8fed09aba57fe3defdf43b7a53",
+    "lede": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T00:26:25Z",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+  },
+  "score": 0.579941
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3797ecb529a51da92fc229b3f55df2271a31d3f7",
+    "lede": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T21:15:59Z",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+  },
+  "b": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "score": 0.592307
+}

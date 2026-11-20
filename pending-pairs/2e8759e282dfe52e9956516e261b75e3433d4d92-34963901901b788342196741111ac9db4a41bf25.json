@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2e8759e282dfe52e9956516e261b75e3433d4d92",
+    "lede": "Windows 0-day lets attackers run software by partially bypass the lock screen with just some keystrokes \u2014 even BitLocker-protected machines are seemingly vulnerable",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T21:30:00Z",
+    "title": "New Windows 11 lock screen zero-day unlocks BitLocker-protected PCs with just a few keystrokes",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-windows-11-lock-screen-zero-day-unlocks-bitlocker-protected-pcs-with-just-a-few-keystrokes-win-u-keyboard-trick-lets-physical-attackers-run-usb-payloads-or-create-new-admin-accounts"
+  },
+  "b": {
+    "item_id": "34963901901b788342196741111ac9db4a41bf25",
+    "lede": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+    "outlet": "zdnet",
+    "published": "2026-11-16T16:08:03Z",
+    "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+    "url": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/"
+  },
+  "score": 0.670892
+}

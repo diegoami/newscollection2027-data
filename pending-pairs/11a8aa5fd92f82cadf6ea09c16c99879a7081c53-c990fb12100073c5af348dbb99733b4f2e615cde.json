@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53",
+    "lede": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-19T23:33:51Z",
+    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
+  },
+  "b": {
+    "item_id": "c990fb12100073c5af348dbb99733b4f2e615cde",
+    "lede": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "outlet": "techcrunch",
+    "published": "2026-11-19T14:54:39Z",
+    "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+  },
+  "score": 0.658583
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d",
+    "lede": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T21:00:00Z",
+    "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts"
+  },
+  "b": {
+    "item_id": "cada92ad26481251bef0901f2ceee971ed3dc0b7",
+    "lede": "New Harvard research shows that data-center power demand is outstripping states\u2014and that doesn\u2019t even include facilities with off-grid gas plants.",
+    "outlet": "wired",
+    "published": "2026-11-16T16:00:00Z",
+    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+    "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"
+  },
+  "score": 0.59612
+}

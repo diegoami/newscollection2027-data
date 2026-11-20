@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2269ea7d3413edeec97499cf3a5a88841237acdc",
+    "lede": "Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked",
+    "outlet": "theregister",
+    "published": "2026-11-19T18:52:53Z",
+    "title": "Nvidia adds possible hack to list of very bad things under investigation",
+    "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
+  },
+  "b": {
+    "item_id": "7aba46b2e297d42b9d6cc37604972f962cdb2a46",
+    "lede": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T09:23:21Z",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/"
+  },
+  "score": 0.597643
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+    "lede": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+    "outlet": "engadget",
+    "published": "2026-11-17T06:22:11Z",
+    "title": "Apple adds new disk controls to prevent AI agents from running amok",
+    "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/"
+  },
+  "b": {
+    "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+    "lede": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-19T22:31:41Z",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  "score": 0.61592
+}

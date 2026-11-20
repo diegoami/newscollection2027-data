@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53",
+    "lede": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-19T23:33:51Z",
+    "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o"
+  },
+  "b": {
+    "item_id": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+    "lede": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T22:29:05Z",
+    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+  },
+  "score": 0.589668
+}

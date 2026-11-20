@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3fcfb20d697d024cbedbff5a057cbc63f36fd10d",
+    "lede": "IEA's report says that power production and distribution is barely keeping up with the rapid growth of AI data centers.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T21:00:00Z",
+    "title": "AI data center power demand will double by 2030 thanks to $4 trillion in spending, adding an entire Great Britain to energy strain",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts"
+  },
+  "b": {
+    "item_id": "edeaa98d177d968de353d74e769bf1b0571a607b",
+    "lede": "The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories.",
+    "outlet": "tomshardware",
+    "published": "2026-11-16T22:17:02Z",
+    "title": "China retains fastest supercomputer in the world crown as AI data centers soak up new hardware",
+    "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years"
+  },
+  "score": 0.576748
+}

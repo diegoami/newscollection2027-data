@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1fe5c6c3b7969d24933f7d046688a6ba935006fd",
+    "lede": "Critical Virtzilla bugs, plus a strange Digital Ocean reaction to a nested virtualization issue",
+    "outlet": "theregister",
+    "published": "2026-11-20T00:57:45Z",
+    "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+    "url": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193"
+  },
+  "b": {
+    "item_id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08",
+    "lede": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T08:47:06Z",
+    "title": "Security flaw found in Java, world's third-largest programming language",
+    "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo"
+  },
+  "score": 0.574171
+}
