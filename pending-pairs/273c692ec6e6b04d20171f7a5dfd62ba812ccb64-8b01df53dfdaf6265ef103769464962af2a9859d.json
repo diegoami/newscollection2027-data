@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+    "lede": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+    "outlet": "theregister",
+    "published": "2026-11-20T20:42:04Z",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  "b": {
+    "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d",
+    "lede": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
+    "outlet": "engadget",
+    "published": "2026-11-20T20:18:09Z",
+    "title": "Signal now blocks screenshots by default to stymie AI agents",
+    "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/"
+  },
+  "score": 0.61451
+}

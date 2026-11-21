@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f23871144f33361ec503a8a137db8418e48d2d7",
+    "lede": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T16:30:08Z",
+    "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+  },
+  "b": {
+    "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+    "lede": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T23:08:57Z",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "score": 0.789064
+}

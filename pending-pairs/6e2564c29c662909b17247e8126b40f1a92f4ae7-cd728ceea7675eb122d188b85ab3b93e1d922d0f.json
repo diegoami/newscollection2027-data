@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6e2564c29c662909b17247e8126b40f1a92f4ae7",
+    "lede": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T21:48:07Z",
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+  },
+  "b": {
+    "item_id": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+    "lede": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d",
+    "outlet": "wired",
+    "published": "2026-11-20T19:52:21Z",
+    "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+  },
+  "score": 0.621862
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+    "lede": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+    "outlet": "theregister",
+    "published": "2026-11-20T20:42:04Z",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  "b": {
+    "item_id": "a22c687c439c6aed0fe30cd6ef7d7442d276b424",
+    "lede": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-19T22:31:41Z",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+  },
+  "score": 0.639678
+}

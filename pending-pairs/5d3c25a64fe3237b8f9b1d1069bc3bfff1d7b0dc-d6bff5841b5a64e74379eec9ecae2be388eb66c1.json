@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+    "lede": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T23:08:57Z",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "b": {
+    "item_id": "d6bff5841b5a64e74379eec9ecae2be388eb66c1",
+    "lede": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+    "outlet": "techcrunch",
+    "published": "2026-11-20T19:32:08Z",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  },
+  "score": 0.615488
+}

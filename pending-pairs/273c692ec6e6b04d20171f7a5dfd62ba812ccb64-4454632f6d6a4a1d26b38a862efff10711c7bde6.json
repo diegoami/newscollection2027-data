@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+    "lede": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+    "outlet": "theregister",
+    "published": "2026-11-20T20:42:04Z",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  "b": {
+    "item_id": "4454632f6d6a4a1d26b38a862efff10711c7bde6",
+    "lede": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+    "outlet": "engadget",
+    "published": "2026-11-20T00:03:22Z",
+    "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+    "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/"
+  },
+  "score": 0.597893
+}

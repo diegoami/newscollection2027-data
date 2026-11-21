@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+    "lede": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T23:08:57Z",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "b": {
+    "item_id": "c990fb12100073c5af348dbb99733b4f2e615cde",
+    "lede": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "outlet": "techcrunch",
+    "published": "2026-11-19T14:54:39Z",
+    "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+  },
+  "score": 0.625365
+}

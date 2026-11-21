@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+    "lede": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+    "outlet": "theregister",
+    "published": "2026-11-20T20:42:04Z",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  "b": {
+    "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+    "lede": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+    "outlet": "engadget",
+    "published": "2026-11-17T06:22:11Z",
+    "title": "Apple adds new disk controls to prevent AI agents from running amok",
+    "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/"
+  },
+  "score": 0.700578
+}

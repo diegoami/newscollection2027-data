@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d",
+    "lede": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
+    "outlet": "engadget",
+    "published": "2026-11-20T20:18:09Z",
+    "title": "Signal now blocks screenshots by default to stymie AI agents",
+    "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/"
+  },
+  "b": {
+    "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
+    "lede": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
+    "outlet": "zdnet",
+    "published": "2026-11-20T17:03:37Z",
+    "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
+    "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/"
+  },
+  "score": 0.59248
+}
