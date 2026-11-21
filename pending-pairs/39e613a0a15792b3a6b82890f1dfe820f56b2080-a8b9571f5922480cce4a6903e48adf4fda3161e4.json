@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "39e613a0a15792b3a6b82890f1dfe820f56b2080",
+    "lede": "A homelab builder runs Qwen 3.6 35B on three used Nvidia Tesla V100 GPUs at about 100 tokens per second, in a $1,042 build.",
+    "outlet": "tomshardware",
+    "published": "2026-11-19T11:00:00Z",
+    "title": "Three 'e-waste' Nvidia V100s hit 100 tokens per second on Qwen 3.6 35B in a $1,042 homelab rig",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/three-e-waste-nvidia-v100s-hit-100-tokens-per-second-on-qwen-3-6-35b-in-a-usd1-042-homelab-rig-decommissioned-gpus-outpace-a-usd5-399-m5-max-mac-studio-at-long-contexts"
+  },
+  "b": {
+    "item_id": "a8b9571f5922480cce4a6903e48adf4fda3161e4",
+    "lede": "A Reddit homelabber\u2019s Optane PMem 200 server now runs Moonshot AI\u2019s Kimi K3 at 3.11 tokens/s with two RTX 3090s and a RAM drive.",
+    "outlet": "tomshardware",
+    "published": "2026-11-21T12:00:00Z",
+    "title": "Homelabber\u2019s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-second-gen-optane-build-runs-2-8-trillion-parameter-kimi-k3-at-3-11-tokens-per-second-after-adding-two-rtx-3090s-moving-nearly-half-the-model-into-a-ram-drive-boosted-performance-by-41-percent"
+  },
+  "score": 0.613979
+}

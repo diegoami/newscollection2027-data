@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
+    "lede": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T20:54:12Z",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+  },
+  "b": {
+    "item_id": "95067d171bc4ab8145a2c6eba39a566a46a96b87",
+    "lede": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+    "outlet": "tomshardware",
+    "published": "2026-11-21T16:29:39Z",
+    "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition"
+  },
+  "score": 0.615146
+}

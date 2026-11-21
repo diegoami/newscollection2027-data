@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6a744f24eada9345ede1a2b1ce260b5288ab4f96",
+    "lede": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T10:57:43Z",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+  },
+  "b": {
+    "item_id": "9dd04be51f1df2a0e04a2df184e1756af495a765",
+    "lede": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "outlet": "wired",
+    "published": "2026-11-21T13:00:00Z",
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+  },
+  "score": 0.600276
+}

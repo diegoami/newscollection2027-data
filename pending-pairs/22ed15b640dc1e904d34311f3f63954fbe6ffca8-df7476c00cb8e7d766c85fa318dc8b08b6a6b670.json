@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "22ed15b640dc1e904d34311f3f63954fbe6ffca8",
+    "lede": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
+    "outlet": "engadget",
+    "published": "2026-11-21T16:01:32Z",
+    "title": "Waymo recalls robotaxis after they drove into closed freeway lanes",
+    "url": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/"
+  },
+  "b": {
+    "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+    "lede": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+    "outlet": "arstechnica",
+    "published": "2026-11-18T16:24:34Z",
+    "title": "Waymo has stopped its robotaxis from driving on the freeway\u2014here\u2019s why",
+    "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/"
+  },
+  "score": 0.719335
+}

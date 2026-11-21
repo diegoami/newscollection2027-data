@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4",
+    "lede": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety. Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
+    "outlet": "techcrunch",
+    "published": "2026-11-17T19:49:41Z",
+    "title": "Waymo suspends freeway rides nationwide after California DMV order",
+    "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+  },
+  "b": {
+    "item_id": "22ed15b640dc1e904d34311f3f63954fbe6ffca8",
+    "lede": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
+    "outlet": "engadget",
+    "published": "2026-11-21T16:01:32Z",
+    "title": "Waymo recalls robotaxis after they drove into closed freeway lanes",
+    "url": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/"
+  },
+  "score": 0.661741
+}

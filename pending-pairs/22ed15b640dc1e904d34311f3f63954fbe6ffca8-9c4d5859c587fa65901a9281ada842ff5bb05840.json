@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "22ed15b640dc1e904d34311f3f63954fbe6ffca8",
+    "lede": "The recalls come after the California DMV banned Waymo from operating on its state freeways.",
+    "outlet": "engadget",
+    "published": "2026-11-21T16:01:32Z",
+    "title": "Waymo recalls robotaxis after they drove into closed freeway lanes",
+    "url": "https://www.engadget.com/2324099/waymo-recalls-robotaxis-after-they-drove-into-closed-freeway-lanes/"
+  },
+  "b": {
+    "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
+    "lede": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T03:07:22Z",
+    "title": "Waymo pulls driverless taxis from all US freeways",
+    "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo"
+  },
+  "score": 0.723442
+}

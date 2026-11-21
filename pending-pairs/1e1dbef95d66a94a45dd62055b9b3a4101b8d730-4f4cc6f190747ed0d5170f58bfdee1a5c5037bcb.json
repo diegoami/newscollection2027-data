@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e1dbef95d66a94a45dd62055b9b3a4101b8d730",
+    "lede": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-21T18:01:58Z",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+  },
+  "b": {
+    "item_id": "4f4cc6f190747ed0d5170f58bfdee1a5c5037bcb",
+    "lede": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-18T10:35:05Z",
+    "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+  },
+  "score": 0.624647
+}

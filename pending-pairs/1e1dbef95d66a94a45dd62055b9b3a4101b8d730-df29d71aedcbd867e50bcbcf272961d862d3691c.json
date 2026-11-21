@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e1dbef95d66a94a45dd62055b9b3a4101b8d730",
+    "lede": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-21T18:01:58Z",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+  },
+  "b": {
+    "item_id": "df29d71aedcbd867e50bcbcf272961d862d3691c",
+    "lede": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-19T22:25:42Z",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+  },
+  "score": 0.571689
+}

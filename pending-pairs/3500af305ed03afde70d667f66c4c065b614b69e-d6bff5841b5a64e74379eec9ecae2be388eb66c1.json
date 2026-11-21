@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+    "lede": "Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company\u2019s software has helped crack one of the most important unsolved problems in mathematics. Levent Alp\u00f6ge, a Turkish American mathematician, on Friday posted a note",
+    "outlet": "theguardian",
+    "published": "2026-11-21T16:39:49Z",
+    "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+  },
+  "b": {
+    "item_id": "d6bff5841b5a64e74379eec9ecae2be388eb66c1",
+    "lede": "Mathematicians are having their minds blown by the latest AI-driven result \u2014 and there's a competing human solution, too.",
+    "outlet": "techcrunch",
+    "published": "2026-11-20T19:32:08Z",
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis \u2014 and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+  },
+  "score": 0.583129
+}

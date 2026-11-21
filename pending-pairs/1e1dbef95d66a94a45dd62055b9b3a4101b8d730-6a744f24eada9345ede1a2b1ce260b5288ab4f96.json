@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e1dbef95d66a94a45dd62055b9b3a4101b8d730",
+    "lede": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-21T18:01:58Z",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+  },
+  "b": {
+    "item_id": "6a744f24eada9345ede1a2b1ce260b5288ab4f96",
+    "lede": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T10:57:43Z",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+  },
+  "score": 0.590652
+}
