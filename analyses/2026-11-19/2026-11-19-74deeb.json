@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-19-74deeb",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "Vendor breach exposes Chase, Visa, Mastercard customer data",
+  "summary": "A cyberattack on a third-party service provider exposed customer information held by Chase, Visa and Mastercard. Chase confirmed the breach, saying the exposed data included customers' personal and marketing information.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A breach at a third-party vendor exposed Chase, Visa and Mastercard customer information.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "07547d58b9a1af12e16f067cbaafb344e2c2a20e", "quote": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info"},
+        {"outlet": "bleepingcomputer", "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a", "quote": "Vendor data breach exposes Chase, Visa, Mastercard customer info"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Chase said the exposed data included customers' personal information and marketing data.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "bbc19bb6f991b9cb21ec42bf5597f5c2a2772d0a", "quote": "exposed customers' personal information and marketing data"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

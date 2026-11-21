@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "ebee197c44b51a8c91bfc328e66611cb3feb4c17",
+ "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "ebee197c44b51a8c91bfc328e66611cb3feb4c17-f8045fa626e2c02a351f97052067ec1491a06e17",
+ "reason": "A: \"Microsoft CEO Satya Nadella remains confident in Nvidi…\" and B: \"Nvidia says it doesn’t plan to reappoint Jensen Huang…\" report different specific events.",
+ "same_story": false
+}

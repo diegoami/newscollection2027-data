@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "c990fb12100073c5af348dbb99733b4f2e615cde",
+ "item_id_b": "fd2811614640e90d1bfb8ca46043542593c9d4da",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "c990fb12100073c5af348dbb99733b4f2e615cde-fd2811614640e90d1bfb8ca46043542593c9d4da",
+ "reason": "A: \"Anthropic’s IPO puts AI’s circular financing boom to t…\" and B: \"Anthropic shares slump on second day of trading as mar…\" report different specific events.",
+ "same_story": false
+}

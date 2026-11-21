@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3666cb96e0a17460b759ee8c85932a3ee95b40bd",
+ "item_id_b": "63dff3aa762e93c520e53f6d26e586ee8d4d5bf5",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3666cb96e0a17460b759ee8c85932a3ee95b40bd-63dff3aa762e93c520e53f6d26e586ee8d4d5bf5",
+ "reason": "A: \"Nvidia CEO Jensen Huang resigns as CEO in the wake of…\" and B: \"Nvidia board reportedly approached Arm CEO Rene Haas d…\" report different specific events.",
+ "same_story": false
+}

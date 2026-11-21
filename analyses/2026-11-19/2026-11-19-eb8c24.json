@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-19-eb8c24",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:20:30Z",
+  "headline": "Google adds AI chat sidebar to its search homepage",
+  "summary": "Google redesigned its search homepage to add a collapsible sidebar for viewing and continuing AI chats, part of a wider push to make AI tools easier to reach from the search page. The redesign also removes the traditional search button.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google redesigned its search homepage to add a sidebar for AI chat history.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6900f6014b2aa0cd6970bee3e5314c440fb0c321",
+          "quote": "Google is putting AI chats right on the homepage"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "5a49fd4a2d776cb4eec81646cc7ff2ccc386008f",
+          "quote": "Google rolls out new search homepage with AI chat history and no search button"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The sidebar lets users view and continue previous AI chats.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "6900f6014b2aa0cd6970bee3e5314c440fb0c321",
+          "quote": "open a collapsible sidebar to view and continue your AI chats"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The redesigned homepage removes the traditional search button.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "5a49fd4a2d776cb4eec81646cc7ff2ccc386008f",
+          "quote": "no search button"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa",
+ "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "c0787d91eb5d8df5c2b15d0788c4567031b00dfa-f8045fa626e2c02a351f97052067ec1491a06e17",
+ "reason": "A: \"Jensen Huang allies build a \"war room\" to get him back…\" and B: \"Nvidia says it doesn’t plan to reappoint Jensen Huang…\" report different specific events.",
+ "same_story": false
+}

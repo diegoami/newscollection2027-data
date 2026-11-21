@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "21379e0f60462e40419d965b3b6c73abc4f79a74",
+ "item_id_b": "aee7c90e22f036cbe3394cdfb14de4e53af370d5",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "21379e0f60462e40419d965b3b6c73abc4f79a74-aee7c90e22f036cbe3394cdfb14de4e53af370d5",
+ "reason": "A: \"Bank your stolen cash, bring a change of clothes, go e…\" and B: \"‘Grand Theft Auto 6’ Is a Perfect Game. Rushing Throug…\" report different specific events.",
+ "same_story": false
+}

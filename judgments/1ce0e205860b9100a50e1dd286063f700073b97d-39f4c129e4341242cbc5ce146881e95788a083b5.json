@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1ce0e205860b9100a50e1dd286063f700073b97d",
+ "item_id_b": "39f4c129e4341242cbc5ce146881e95788a083b5",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1ce0e205860b9100a50e1dd286063f700073b97d-39f4c129e4341242cbc5ce146881e95788a083b5",
+ "reason": "Both are the same Verge reviewer's coverage of her Apple HomeView review.",
+ "same_story": true
+}

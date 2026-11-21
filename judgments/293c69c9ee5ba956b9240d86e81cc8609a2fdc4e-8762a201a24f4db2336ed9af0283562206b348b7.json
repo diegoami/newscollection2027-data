@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+ "item_id_b": "8762a201a24f4db2336ed9af0283562206b348b7",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e-8762a201a24f4db2336ed9af0283562206b348b7",
+ "reason": "A: \"Microsoft says November security updates cause printin…\" and B: \"Microsoft confirms Windows activation failures after N…\" report different specific events.",
+ "same_story": false
+}

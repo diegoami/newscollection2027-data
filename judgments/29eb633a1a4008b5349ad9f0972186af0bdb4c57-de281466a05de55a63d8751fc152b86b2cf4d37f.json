@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "29eb633a1a4008b5349ad9f0972186af0bdb4c57",
+ "item_id_b": "de281466a05de55a63d8751fc152b86b2cf4d37f",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "29eb633a1a4008b5349ad9f0972186af0bdb4c57-de281466a05de55a63d8751fc152b86b2cf4d37f",
+ "reason": "A: \"‘Most extraordinary virtual world’: critics hail Grand…\" and B: \"Grand Theft Auto VI review – gaming’s most depraved wo…\" report different specific events.",
+ "same_story": false
+}

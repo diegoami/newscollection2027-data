@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+ "item_id_b": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "reason": "A: \"NVIDIA's board chair says the company is not consideri…\" and B: \"Behind Jensen Huang’s exit, questions about a manageme…\" report different specific events.",
+ "same_story": false
+}

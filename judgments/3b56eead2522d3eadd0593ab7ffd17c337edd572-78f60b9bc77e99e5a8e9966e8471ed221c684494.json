@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3b56eead2522d3eadd0593ab7ffd17c337edd572",
+ "item_id_b": "78f60b9bc77e99e5a8e9966e8471ed221c684494",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3b56eead2522d3eadd0593ab7ffd17c337edd572-78f60b9bc77e99e5a8e9966e8471ed221c684494",
+ "reason": "A: \"How Shanghai fund manager Kang Wei introduced his wife…\" and B: \"Suspected Chinese spy at center of Jensen Huang affair…\" report different specific events.",
+ "same_story": false
+}

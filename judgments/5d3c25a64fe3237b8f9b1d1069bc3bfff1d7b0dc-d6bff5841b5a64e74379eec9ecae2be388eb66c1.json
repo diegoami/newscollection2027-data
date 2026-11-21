@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+ "item_id_b": "d6bff5841b5a64e74379eec9ecae2be388eb66c1",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc-d6bff5841b5a64e74379eec9ecae2be388eb66c1",
+ "reason": "Both report an Anthropic mathematician's claimed AI-assisted proof of the Riemann hypothesis.",
+ "same_story": true
+}

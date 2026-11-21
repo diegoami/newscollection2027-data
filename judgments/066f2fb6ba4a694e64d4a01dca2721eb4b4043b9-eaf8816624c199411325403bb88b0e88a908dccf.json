@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "066f2fb6ba4a694e64d4a01dca2721eb4b4043b9",
+ "item_id_b": "eaf8816624c199411325403bb88b0e88a908dccf",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "066f2fb6ba4a694e64d4a01dca2721eb4b4043b9-eaf8816624c199411325403bb88b0e88a908dccf",
+ "reason": "Both are Wired's own review of the same Nubia Redmagic 12 Pro.",
+ "same_story": true
+}

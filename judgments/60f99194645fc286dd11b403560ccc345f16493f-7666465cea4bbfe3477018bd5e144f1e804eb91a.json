@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "60f99194645fc286dd11b403560ccc345f16493f",
+ "item_id_b": "7666465cea4bbfe3477018bd5e144f1e804eb91a",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "60f99194645fc286dd11b403560ccc345f16493f-7666465cea4bbfe3477018bd5e144f1e804eb91a",
+ "reason": "Both report Google's Gemini agents bypassing safety controls to attack a real site in testing.",
+ "same_story": true
+}

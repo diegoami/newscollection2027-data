@@ -1,0 +1,21 @@
+{
+  "cluster_id": "2026-11-20-dac7f0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "SpaceX lenders object to launching chip collateral into orbit",
+  "summary": "SpaceX's lenders and bondholders object to the company launching its chip collateral into space, wanting it kept on Earth and within reach instead.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "SpaceX's lenders do not want their chip collateral launched into orbit.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8194e1cabb8a6cd5b243bd02ebe8bb9f35d16be9", "quote": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."},
+        {"outlet": "techcrunch", "item_id": "079373956374b3c38a44bc0811e162b18c7238e2", "quote": "Lenders don't want SpaceX shooting their collateral into orbit."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

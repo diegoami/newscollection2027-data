@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9",
+ "item_id_b": "c03d0c3333a00d9dc9690e4809bda23e7d270cfb",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "15c28179b2dc3ec9cbc8a50fc5e36f988b136eb9-c03d0c3333a00d9dc9690e4809bda23e7d270cfb",
+ "reason": "A: \"Everything we know so far about the Nvidia spy scandal…\" and B: \"‘It’s a mistake’: reactions from tech leaders on Jense…\" report different specific events.",
+ "same_story": false
+}

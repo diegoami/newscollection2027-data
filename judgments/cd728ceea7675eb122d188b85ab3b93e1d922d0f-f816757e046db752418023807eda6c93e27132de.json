@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "item_id_b": "f816757e046db752418023807eda6c93e27132de",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cd728ceea7675eb122d188b85ab3b93e1d922d0f-f816757e046db752418023807eda6c93e27132de",
+ "reason": "A: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" and B: \"OpenAI CEO Sam Altman says it’s ‘hard to imagine the A…\" report different specific events.",
+ "same_story": false
+}

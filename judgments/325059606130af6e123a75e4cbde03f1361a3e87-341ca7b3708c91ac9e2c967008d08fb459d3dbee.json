@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "325059606130af6e123a75e4cbde03f1361a3e87",
+ "item_id_b": "341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "325059606130af6e123a75e4cbde03f1361a3e87-341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+ "reason": "A: \"Nvidia dismisses 'Bring Jensen Back' campaign as Trump…\" and B: \"Don’t Bring Jensen Back\" report different specific events.",
+ "same_story": false
+}

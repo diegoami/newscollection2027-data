@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6e2564c29c662909b17247e8126b40f1a92f4ae7",
+ "item_id_b": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6e2564c29c662909b17247e8126b40f1a92f4ae7-cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "reason": "A: \"SEC reportedly investigating Nvidia amid Huang exit\" and B: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" report different specific events.",
+ "same_story": false
+}

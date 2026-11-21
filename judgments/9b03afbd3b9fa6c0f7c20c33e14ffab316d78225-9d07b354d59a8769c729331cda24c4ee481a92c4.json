@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9b03afbd3b9fa6c0f7c20c33e14ffab316d78225",
+ "item_id_b": "9d07b354d59a8769c729331cda24c4ee481a92c4",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9b03afbd3b9fa6c0f7c20c33e14ffab316d78225-9d07b354d59a8769c729331cda24c4ee481a92c4",
+ "reason": "A: \"Killer tunes: how Grand Theft Auto conquered the music…\" and B: \"Ten years, thousands of staff and a billion dollars: t…\" report different specific events.",
+ "same_story": false
+}

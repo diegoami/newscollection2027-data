@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7b60d9f880f9e782da19c75d6d3e82a9df23b025",
+ "item_id_b": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7b60d9f880f9e782da19c75d6d3e82a9df23b025-7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "reason": "A: \"Read everything that Nvidia’s board chair had to say a…\" and B: \"Behind Jensen Huang’s exit, questions about a manageme…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "89d80c21bb59fe1791fe4e8fa12e0e838e748706",
+ "item_id_b": "f74519cfe40ccdb9ac5a5016d9e82fffd71d6f7c",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "89d80c21bb59fe1791fe4e8fa12e0e838e748706-f74519cfe40ccdb9ac5a5016d9e82fffd71d6f7c",
+ "reason": "Both report California's new lawsuit against OpenAI over loss-of-control incidents.",
+ "same_story": true
+}

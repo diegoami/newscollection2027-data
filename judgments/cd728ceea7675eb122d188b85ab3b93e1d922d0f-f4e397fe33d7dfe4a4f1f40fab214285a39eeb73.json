@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cd728ceea7675eb122d188b85ab3b93e1d922d0f-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "reason": "A: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" and B: \"US government confirms criminal investigation into Sin…\" report different specific events.",
+ "same_story": false
+}

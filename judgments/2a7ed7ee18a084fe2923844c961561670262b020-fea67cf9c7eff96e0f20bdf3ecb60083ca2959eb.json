@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "2a7ed7ee18a084fe2923844c961561670262b020",
+ "item_id_b": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "2a7ed7ee18a084fe2923844c961561670262b020-fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+ "reason": "A: \"Anthropic sets share price at $83 for stock market deb…\" and B: \"Anthropic begins public trading at $2tn valuation afte…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
+ "item_id_b": "e0006c8114bab179935f34a15389c3039cfda5c8",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934-e0006c8114bab179935f34a15389c3039cfda5c8",
+ "reason": "A: \"Tell us: are you playing Grand Theft Auto VI?\" and B: \"‘The greatest game ever made’: readers and Guardian st…\" report different specific events.",
+ "same_story": false
+}

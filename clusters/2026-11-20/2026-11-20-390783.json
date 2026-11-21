@@ -1,0 +1,24 @@
+{
+  "anchor": "2c3757b0893a7b0c3a70d2f789d0fa9245702810",
+  "id": "2026-11-20-390783",
+  "items": [
+    {
+      "item_id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810",
+      "lede": "State attorney says scandal \u2018raises bright red flags\u2019 and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state\u2019s attorney general, issued the subpoena as part of an investigation into whether exports of the",
+      "outlet": "theguardian",
+      "published": "2026-11-20T09:18:30Z",
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+    },
+    {
+      "item_id": "85c8a58c4cf33796176bf4463848f7be9c95c571",
+      "lede": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "outlet": "techcrunch",
+      "published": "2026-11-20T13:21:11Z",
+      "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

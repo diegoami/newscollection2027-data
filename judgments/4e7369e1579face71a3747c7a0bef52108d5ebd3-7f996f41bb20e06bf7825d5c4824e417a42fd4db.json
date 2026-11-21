@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
+ "item_id_b": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4e7369e1579face71a3747c7a0bef52108d5ebd3-7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "reason": "A: \"Nvidia board faction angling for Jensen Huang return a…\" and B: \"Behind Jensen Huang’s exit, questions about a manageme…\" report different specific events.",
+ "same_story": false
+}

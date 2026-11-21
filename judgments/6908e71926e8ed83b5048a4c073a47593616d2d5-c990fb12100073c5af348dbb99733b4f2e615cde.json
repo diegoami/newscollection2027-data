@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+ "item_id_b": "c990fb12100073c5af348dbb99733b4f2e615cde",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6908e71926e8ed83b5048a4c073a47593616d2d5-c990fb12100073c5af348dbb99733b4f2e615cde",
+ "reason": "A: \"Amazon and Google will together own nearly 30% of Anth…\" and B: \"Anthropic’s IPO puts AI’s circular financing boom to t…\" report different specific events.",
+ "same_story": false
+}

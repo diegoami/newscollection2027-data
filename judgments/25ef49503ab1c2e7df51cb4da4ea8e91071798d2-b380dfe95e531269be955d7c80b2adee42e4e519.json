@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+ "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2-b380dfe95e531269be955d7c80b2adee42e4e519",
+ "reason": "A: \"Elon Musk signs petition to reinstate Jensen Huang as…\" and B: \"Trump calls for Jensen Huang reinstatement as Nvidia C…\" report different specific events.",
+ "same_story": false
+}

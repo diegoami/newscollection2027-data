@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "5a49fd4a2d776cb4eec81646cc7ff2ccc386008f",
+ "item_id_b": "6900f6014b2aa0cd6970bee3e5314c440fb0c321",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "5a49fd4a2d776cb4eec81646cc7ff2ccc386008f-6900f6014b2aa0cd6970bee3e5314c440fb0c321",
+ "reason": "Both report Google's new search homepage with an AI chat sidebar replacing the search button.",
+ "same_story": true
+}

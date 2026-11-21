@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
+ "item_id_b": "b380dfe95e531269be955d7c80b2adee42e4e519",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4e7369e1579face71a3747c7a0bef52108d5ebd3-b380dfe95e531269be955d7c80b2adee42e4e519",
+ "reason": "A: \"Nvidia board faction angling for Jensen Huang return a…\" and B: \"Trump calls for Jensen Huang reinstatement as Nvidia C…\" report different specific events.",
+ "same_story": false
+}

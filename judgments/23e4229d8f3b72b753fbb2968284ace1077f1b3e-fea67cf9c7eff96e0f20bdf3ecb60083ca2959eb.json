@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+ "item_id_b": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e-fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+ "reason": "Both cover Anthropic's Nasdaq opening-bell debut moment.",
+ "same_story": true
+}

@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-20-f6f724",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "Trump threatens to punish firms over overseas AI data centers",
+  "summary": "President Trump threatened action against US companies building AI data centers outside the country, though outlets differ on whether he described it as a tax or a ban, and he gave little detail.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Trump threatened a policy targeting US companies that build AI data centers outside the country.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991", "quote": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"},
+        {"outlet": "bbc-technology", "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65", "quote": "Trump threatens ban on US firms building AI data centres overseas"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Trump said the US would not allow its companies to build data centers outside the country.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991", "quote": "We're not going to allow our companies to build data centers outside of our country"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Trump gave little detail on the potential policy, and his own team was reportedly hearing about it for the first time.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65", "quote": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "One outlet characterizes the threatened policy as a tax, the other as an outright ban, even though the policy itself remains undetailed.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "theverge", "item_id": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991", "quote": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"},
+        {"outlet": "bbc-technology", "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65", "quote": "Trump threatens ban on US firms building AI data centres overseas"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

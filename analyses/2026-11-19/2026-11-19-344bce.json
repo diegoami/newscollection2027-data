@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-19-344bce",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:20:30Z",
+  "headline": "Microsoft offers registry workaround for Windows 11 hotpatch app bugs",
+  "summary": "Microsoft confirmed that this month's Windows 11 hotpatch broke installation and launch of Office and other third-party applications, and shared a workaround involving a Windows Registry change while a proper fix is prepared.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "This month's Windows 11 hotpatch caused installation and launch issues for Office and third-party apps.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "1fc34cf6486a0e116e20907ff33dc24145e9fdf5",
+          "quote": "Microsoft confirms app installation, launch issues after hotpatch"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "1fc34cf6486a0e116e20907ff33dc24145e9fdf5",
+          "quote": "installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Microsoft suggested a Windows Registry change as a workaround for the problem.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b357f2276909706c26d75c915955b1859753b61d",
+          "quote": "Microsoft suggests Registry hack to work around hotpatch woes"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "1fc34cf6486a0e116e20907ff33dc24145e9fdf5",
+          "quote": "Microsoft has shared a workaround for installation and launch issues"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

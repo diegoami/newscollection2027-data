@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "item_id_b": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cd728ceea7675eb122d188b85ab3b93e1d922d0f-daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+ "reason": "A: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" and B: \"Nvidia doubles revenue as board says it does not inten…\" report different specific events.",
+ "same_story": false
+}

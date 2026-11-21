@@ -1,0 +1,24 @@
+{
+  "anchor": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991",
+  "id": "2026-11-20-f6f724",
+  "items": [
+    {
+      "item_id": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991",
+      "lede": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-20T18:50:19Z",
+      "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+      "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
+      "lede": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-20T20:54:12Z",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

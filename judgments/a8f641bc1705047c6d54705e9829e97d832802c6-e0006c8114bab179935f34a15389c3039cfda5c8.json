@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "a8f641bc1705047c6d54705e9829e97d832802c6",
+ "item_id_b": "e0006c8114bab179935f34a15389c3039cfda5c8",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "a8f641bc1705047c6d54705e9829e97d832802c6-e0006c8114bab179935f34a15389c3039cfda5c8",
+ "reason": "A: \"GTA 6 breaks records as estimated sales top $2.3bn\" and B: \"‘The greatest game ever made’: readers and Guardian st…\" report different specific events.",
+ "same_story": false
+}

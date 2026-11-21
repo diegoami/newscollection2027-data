@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f",
+ "item_id_b": "ab107cfc887ac1635eceef4a93762b8fba37724a",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f-ab107cfc887ac1635eceef4a93762b8fba37724a",
+ "reason": "A: \"Anthropic raises $81bn in record-breaking stock market…\" and B: \"Protesters rally against Anthropic in New York and San…\" report different specific events.",
+ "same_story": false
+}

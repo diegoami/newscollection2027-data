@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "item_id_b": "e561862ab3766fd6d1cfe6b19a440040db614805",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "cd728ceea7675eb122d188b85ab3b93e1d922d0f-e561862ab3766fd6d1cfe6b19a440040db614805",
+ "reason": "A: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" and B: \"Jensen Huang says he would be ‘honored’ to return as N…\" report different specific events.",
+ "same_story": false
+}

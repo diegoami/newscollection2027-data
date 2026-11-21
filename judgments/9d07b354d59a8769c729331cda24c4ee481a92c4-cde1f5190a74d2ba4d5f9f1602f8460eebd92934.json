@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9d07b354d59a8769c729331cda24c4ee481a92c4",
+ "item_id_b": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9d07b354d59a8769c729331cda24c4ee481a92c4-cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
+ "reason": "A: \"Ten years, thousands of staff and a billion dollars: t…\" and B: \"Tell us: are you playing Grand Theft Auto VI?\" report different specific events.",
+ "same_story": false
+}

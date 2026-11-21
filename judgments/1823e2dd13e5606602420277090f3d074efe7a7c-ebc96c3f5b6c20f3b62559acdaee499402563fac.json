@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1823e2dd13e5606602420277090f3d074efe7a7c",
+ "item_id_b": "ebc96c3f5b6c20f3b62559acdaee499402563fac",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1823e2dd13e5606602420277090f3d074efe7a7c-ebc96c3f5b6c20f3b62559acdaee499402563fac",
+ "reason": "A: \"Jensen Huang resigns as Nvidia CEO after alleged affai…\" and B: \"The AI poster boy, the ‘Chinese spy’ and Trump: how an…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-11-20-7ea0fe",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "Teenage Engineering launches its first CD player",
+  "summary": "Teenage Engineering announced its first CD player, the EP/BC-1, which exposes the spinning disc rather than hiding it, as the start of a new $329 \"broadcast\" product line.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Teenage Engineering announced its first CD player, the EP/BC-1, which leaves the spinning disc exposed.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "5b66ad549a6a833e610b188bf7e3f43cc912b2d4", "quote": "Teenage Engineering’s first CD player puts the spinning disc on display"},
+        {"outlet": "engadget", "item_id": "661e14d077b73798177cf11bc7579cd86439c9e3", "quote": "Teenage Engineering's first CD player kind of looks like a turntable"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The EP/BC-1 is the first product in a new \"broadcast\" audio line.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "5b66ad549a6a833e610b188bf7e3f43cc912b2d4", "quote": "the EP/BC-1 is the first entry in its new broadcast series"},
+        {"outlet": "engadget", "item_id": "661e14d077b73798177cf11bc7579cd86439c9e3", "quote": "marks the start of a new line of \"broadcast\" audio equipment."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The EP/BC-1 costs $329.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "661e14d077b73798177cf11bc7579cd86439c9e3", "quote": "The EP/BC-1 costs $329"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

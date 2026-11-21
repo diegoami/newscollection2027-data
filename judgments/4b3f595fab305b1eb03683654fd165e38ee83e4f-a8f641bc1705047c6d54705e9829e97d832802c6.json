@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+ "item_id_b": "a8f641bc1705047c6d54705e9829e97d832802c6",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f-a8f641bc1705047c6d54705e9829e97d832802c6",
+ "reason": "Both report GTA VI's record-breaking first-day sales figure from Rockstar's announcement.",
+ "same_story": true
+}

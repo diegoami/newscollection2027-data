@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "19b409e5379f615fc4d0edba5fd59334e1d47e44",
+ "item_id_b": "5acca80642f369203ed1b170f2c8291e64d9a455",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "19b409e5379f615fc4d0edba5fd59334e1d47e44-5acca80642f369203ed1b170f2c8291e64d9a455",
+ "reason": "The second-affair revelation and the board's resulting move to oust Huang are one developing story.",
+ "same_story": true
+}

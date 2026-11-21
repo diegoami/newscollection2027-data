@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "40b88ba9f8273e71057cc0fd57ac0388effc7039",
+ "item_id_b": "6f33045a1898004a3fc5e4f2d7da9615499e347a",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "40b88ba9f8273e71057cc0fd57ac0388effc7039-6f33045a1898004a3fc5e4f2d7da9615499e347a",
+ "reason": "Both report the Disney+ app on Meta Quest adding 3D movies.",
+ "same_story": true
+}

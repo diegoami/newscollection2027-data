@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+ "item_id_b": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64-50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
+ "reason": "Apple's new AI-agent disk controls are the direct response to the agent-privacy alarm Signal raised.",
+ "same_story": true
+}

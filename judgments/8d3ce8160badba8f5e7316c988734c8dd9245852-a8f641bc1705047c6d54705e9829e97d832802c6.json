@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "8d3ce8160badba8f5e7316c988734c8dd9245852",
+ "item_id_b": "a8f641bc1705047c6d54705e9829e97d832802c6",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "8d3ce8160badba8f5e7316c988734c8dd9245852-a8f641bc1705047c6d54705e9829e97d832802c6",
+ "reason": "Both cover GTA VI's launch day and its record-breaking sales figure.",
+ "same_story": true
+}

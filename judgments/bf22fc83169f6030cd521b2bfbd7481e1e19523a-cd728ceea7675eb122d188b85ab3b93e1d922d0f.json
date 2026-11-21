@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+ "item_id_b": "cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "bf22fc83169f6030cd521b2bfbd7481e1e19523a-cd728ceea7675eb122d188b85ab3b93e1d922d0f",
+ "reason": "A: \"Nvidia says it does not intend to reinstate Jensen Hua…\" and B: \"Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of H…\" report different specific events.",
+ "same_story": false
+}

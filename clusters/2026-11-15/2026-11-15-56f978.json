@@ -43,6 +43,14 @@
       "url": "https://www.tomshardware.com/tech-industry/space/amazons-starlink-rival-sees-major-setback-after-40-satellites-destroyed-in-rocket-failure-anomaly-occurred-10-minutes-after-the-vulcan-launch-on-sunday"
     },
     {
+      "item_id": "1cc34e861f35d556a7d57bab485576e71373fa01",
+      "lede": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "outlet": "arstechnica",
+      "published": "2026-11-17T18:00:51Z",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/"
+    },
+    {
       "item_id": "db952f9133244b7f7a9823619a8636a2e39875ee",
       "lede": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
       "outlet": "arstechnica",
@@ -52,5 +60,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 3
+  "version": 4
 }

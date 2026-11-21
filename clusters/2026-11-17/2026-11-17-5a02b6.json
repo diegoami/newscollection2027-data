@@ -115,6 +115,22 @@
       "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/"
     },
     {
+      "item_id": "6dd2ec3981ff138f72c5737ac4c1e2c3a5f68d0a",
+      "lede": "The company counts physicists, a former journalist and an associate of the pope among its guiding lights The paper fortunes of Anthropic\u2019s seven co-founders reached a total of more than $180bn on Thursday as shares in their company started trading at a price ahead of expectations. The opening price of $111.50 (\u00a385) per share valued the entrepreneurs\u2019 stakes \u2013 including",
+      "outlet": "theguardian",
+      "published": "2026-11-19T20:05:13Z",
+      "title": "Who are Anthropic\u2019s seven co-founders, now worth $180bn?",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders"
+    },
+    {
+      "item_id": "ab107cfc887ac1635eceef4a93762b8fba37724a",
+      "lede": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic\u2019s headquarters in San Francisco As the artificial intelligence startup Anthropic debuted on the US stock market at an eye-popping $2tn valuation on Thursday, protesters from anti-AI groups rallied in front of the Nasdaq exchange at its New York City headquarters in Times Square and several were arrested.",
+      "outlet": "theguardian",
+      "published": "2026-11-19T21:52:19Z",
+      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests"
+    },
+    {
       "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53",
       "lede": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "outlet": "bbc-technology",
@@ -132,5 +148,5 @@
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

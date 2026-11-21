@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-20-6c1a33",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "Anthropic shares fall on second trading day amid tech sell-off",
+  "summary": "Anthropic's shares fell on the second day of trading as a broader sell-off hit AI-linked and tech stocks, following the company's record-breaking IPO debut.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic's shares fell on the second day of trading amid a wider tech sell-off.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "fd2811614640e90d1bfb8ca46043542593c9d4da", "quote": "Anthropic shares slump on second day of trading as markets reel from AI sell-off"},
+        {"outlet": "bbc-technology", "item_id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99", "quote": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The Nasdaq erased its 2026 gains and Asian markets had their worst week since 2020.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "fd2811614640e90d1bfb8ca46043542593c9d4da", "quote": "Nasdaq erases 2026 gains and Asian markets record worst week since 2020"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

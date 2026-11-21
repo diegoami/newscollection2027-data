@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "ab107cfc887ac1635eceef4a93762b8fba37724a",
+ "item_id_b": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "ab107cfc887ac1635eceef4a93762b8fba37724a-d680d8751ecd7c4c1e5696f544f83c1f94a768a5",
+ "reason": "A: \"Protesters rally against Anthropic in New York and San…\" and B: \"Anthropic hits Nasdaq exchanges at $111, 33% above IPO…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+ "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "341ca7b3708c91ac9e2c967008d08fb459d3dbee-f8045fa626e2c02a351f97052067ec1491a06e17",
+ "reason": "A: \"Don’t Bring Jensen Back\" and B: \"Nvidia says it doesn’t plan to reappoint Jensen Huang…\" report different specific events.",
+ "same_story": false
+}

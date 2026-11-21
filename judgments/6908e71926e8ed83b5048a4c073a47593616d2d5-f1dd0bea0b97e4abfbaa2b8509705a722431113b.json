@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6908e71926e8ed83b5048a4c073a47593616d2d5",
+ "item_id_b": "f1dd0bea0b97e4abfbaa2b8509705a722431113b",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6908e71926e8ed83b5048a4c073a47593616d2d5-f1dd0bea0b97e4abfbaa2b8509705a722431113b",
+ "reason": "A: \"Amazon and Google will together own nearly 30% of Anth…\" and B: \"Anthropic’s 7 founders cashed out nearly $2B in record…\" report different specific events.",
+ "same_story": false
+}

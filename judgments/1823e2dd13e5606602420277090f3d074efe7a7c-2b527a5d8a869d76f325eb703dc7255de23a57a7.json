@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1823e2dd13e5606602420277090f3d074efe7a7c",
+ "item_id_b": "2b527a5d8a869d76f325eb703dc7255de23a57a7",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1823e2dd13e5606602420277090f3d074efe7a7c-2b527a5d8a869d76f325eb703dc7255de23a57a7",
+ "reason": "A: \"Jensen Huang resigns as Nvidia CEO after alleged affai…\" and B: \"Nvidia opens investigation after report CEO Jensen Hua…\" report different specific events.",
+ "same_story": false
+}

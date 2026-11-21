@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+ "item_id_b": "e0006c8114bab179935f34a15389c3039cfda5c8",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f-e0006c8114bab179935f34a15389c3039cfda5c8",
+ "reason": "A: \"Rockstar says GTA VI made $3.79 billion in its first d…\" and B: \"‘The greatest game ever made’: readers and Guardian st…\" report different specific events.",
+ "same_story": false
+}

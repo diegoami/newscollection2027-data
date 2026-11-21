@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0ca5cf57ee5146c092855f3228e956b0c14a5a07",
+ "item_id_b": "bc55171edc52873bff3207dae3b200bbde4d2777",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0ca5cf57ee5146c092855f3228e956b0c14a5a07-bc55171edc52873bff3207dae3b200bbde4d2777",
+ "reason": "A: \"Jensen Huang accused of having another affair — with a…\" and B: \"Nvidia will investigate CEO Jensen Huang’s relationshi…\" report different specific events.",
+ "same_story": false
+}

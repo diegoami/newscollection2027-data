@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+ "item_id_b": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76-70a676dfa314e150e3bba688e3702ef96912c3f7",
+ "reason": "A: \"Nvidia’s Board Has No Plans to Bring Back Jensen Huang\" and B: \"Jensen Huang Says He’s Open to Coming Back to Nvidia\" report different specific events.",
+ "same_story": false
+}

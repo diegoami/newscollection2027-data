@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "item_id_b": "d2f90fb918d969fea2700eeb179e551b04192fab",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7f996f41bb20e06bf7825d5c4824e417a42fd4db-d2f90fb918d969fea2700eeb179e551b04192fab",
+ "reason": "A: \"Behind Jensen Huang’s exit, questions about a manageme…\" and B: \"“Trump was in bed with Jensen”: Critics balk at Huang’…\" report different specific events.",
+ "same_story": false
+}

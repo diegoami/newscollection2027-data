@@ -1,0 +1,24 @@
+{
+  "anchor": "41a84fbefbc879dba3ef3c04cf8d6bc2504e63f4",
+  "id": "2026-11-19-2b0e92",
+  "items": [
+    {
+      "item_id": "41a84fbefbc879dba3ef3c04cf8d6bc2504e63f4",
+      "lede": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "outlet": "techcrunch",
+      "published": "2026-11-19T15:32:20Z",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+    },
+    {
+      "item_id": "f3d31e5642221177b7956a000bb97b22be58feef",
+      "lede": "Notice's existence can be acknowledged without harming national security, but its precise demands remain under wraps",
+      "outlet": "theregister",
+      "published": "2026-11-20T12:18:19Z",
+      "title": "Spy court blasts UK secrecy, forces government to admit Apple \u2018backdoor\u2019 demand",
+      "url": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

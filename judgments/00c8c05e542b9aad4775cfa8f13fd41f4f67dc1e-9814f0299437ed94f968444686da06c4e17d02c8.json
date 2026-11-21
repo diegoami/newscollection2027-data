@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+ "item_id_b": "9814f0299437ed94f968444686da06c4e17d02c8",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e-9814f0299437ed94f968444686da06c4e17d02c8",
+ "reason": "A: \"Microsoft: Recent Windows updates cause SQL Server per…\" and B: \"Microsoft releases Windows 10 KB5131096 extended secur…\" report different specific events.",
+ "same_story": false
+}

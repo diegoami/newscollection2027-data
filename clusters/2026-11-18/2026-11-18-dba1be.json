@@ -25,8 +25,32 @@
       "published": "2026-11-19T12:26:39Z",
       "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
       "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo"
+    },
+    {
+      "item_id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+      "lede": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "outlet": "bbc-technology",
+      "published": "2026-11-20T02:54:40Z",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+    },
+    {
+      "item_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+      "lede": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-20T19:35:06Z",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
+    },
+    {
+      "item_id": "8416762df11a6e300d167c672186fe7c219ea2b9",
+      "lede": "The historic launch is happening while Rockstar workers vote on union recognition.",
+      "outlet": "engadget",
+      "published": "2026-11-20T21:02:54Z",
+      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
+      "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

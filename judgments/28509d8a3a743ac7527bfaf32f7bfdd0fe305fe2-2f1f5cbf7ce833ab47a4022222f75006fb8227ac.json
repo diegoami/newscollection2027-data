@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2",
+ "item_id_b": "2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "28509d8a3a743ac7527bfaf32f7bfdd0fe305fe2-2f1f5cbf7ce833ab47a4022222f75006fb8227ac",
+ "reason": "A: \"Nvidia is abandoning China after Jensen Huang’s ouster\" and B: \"Jensen Huang might be plotting a return and more of th…\" report different specific events.",
+ "same_story": false
+}

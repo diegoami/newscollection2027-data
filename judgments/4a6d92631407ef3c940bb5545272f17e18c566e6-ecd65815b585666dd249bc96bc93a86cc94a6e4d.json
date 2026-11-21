@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4a6d92631407ef3c940bb5545272f17e18c566e6",
+ "item_id_b": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4a6d92631407ef3c940bb5545272f17e18c566e6-ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+ "reason": "A: \"Nvidia is reportedly preparing to fire Jensen Huang\" and B: \"Nvidia is investigating Jensen Huang’s relationship wi…\" report different specific events.",
+ "same_story": false
+}

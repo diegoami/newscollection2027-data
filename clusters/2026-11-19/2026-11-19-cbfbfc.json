@@ -3,6 +3,14 @@
   "id": "2026-11-19-cbfbfc",
   "items": [
     {
+      "item_id": "0fc744e43d6095d814ec901071eb723b7740d007",
+      "lede": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "outlet": "techcrunch",
+      "published": "2026-11-17T19:02:20Z",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/"
+    },
+    {
       "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
       "lede": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
       "outlet": "techcrunch",
@@ -17,8 +25,16 @@
       "published": "2026-11-19T18:21:13Z",
       "title": "Gemini on Mac can now use your computer",
       "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    },
+    {
+      "item_id": "8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+      "lede": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.",
+      "outlet": "engadget",
+      "published": "2026-11-20T12:36:11Z",
+      "title": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+      "url": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

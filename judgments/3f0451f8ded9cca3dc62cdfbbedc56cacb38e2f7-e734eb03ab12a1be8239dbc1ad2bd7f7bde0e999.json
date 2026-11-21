@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+ "item_id_b": "e734eb03ab12a1be8239dbc1ad2bd7f7bde0e999",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-e734eb03ab12a1be8239dbc1ad2bd7f7bde0e999",
+ "reason": "A: \"Jensen Huang could be plotting return as Nvidia CEO, r…\" and B: \"‘Broken and shattered’ Nvidia CEO Jensen Huang surrend…\" report different specific events.",
+ "same_story": false
+}

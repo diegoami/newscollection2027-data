@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4b25c29524b346552e61fd4d8d4f5085879e94bd",
+ "item_id_b": "9123eab16f505ab8cba0b05f1f1c009527dca79a",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4b25c29524b346552e61fd4d8d4f5085879e94bd-9123eab16f505ab8cba0b05f1f1c009527dca79a",
+ "reason": "A: \"Grab a DDR5 gaming PC with a 10GB GPU for only $949\" and B: \"Save up to $800 on an iBuyPower gaming PC right now in…\" report different specific events.",
+ "same_story": false
+}

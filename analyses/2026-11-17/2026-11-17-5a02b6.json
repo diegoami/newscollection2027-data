@@ -1,134 +1,199 @@
 {
   "cluster_id": "2026-11-17-5a02b6",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-20T00:00:00Z",
-  "headline": "Anthropic prices IPO at $83, valuation tops $2 trillion in debut",
-  "summary": "Anthropic priced its IPO at $83 a share, above the expected range, in what outlets called one of history's biggest stock debuts. Shares jumped roughly a third on their Nasdaq debut, pushing Anthropic's valuation above $2 trillion. Reports differ on how much capital was raised, from about $81bn to nearly $105bn, and on the pre-trading valuation of $1.5 trillion fully diluted. CEO Dario Amodei recommitted to pacing AI development while acknowledging real risks.",
+  "generated_at": "2026-11-21T02:20:30Z",
+  "headline": "Anthropic goes public in one of the biggest IPOs in history",
+  "summary": "Anthropic priced its IPO at $83 a share, above the expected range, and shares jumped more than 30% on their Nasdaq debut, briefly valuing the company at roughly $2 trillion. The deal made its seven founders far wealthier and CEO Dario Amodei both touted AI's promise and warned of its risks. Protesters rallied against the company, and outlets gave differing figures for the funds raised, the valuation, and the first-day share gain.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Anthropic's IPO was widely described as one of the biggest stock market debuts in history.",
+      "statement": "Anthropic priced its IPO shares at $83, above the expected range.",
       "sources": [
-        {"outlet": "theguardian", "item_id": "6344945c046955542a08855a3be046ddc1da7171", "quote": "one of the largest debuts in history"},
-        {"outlet": "theguardian", "item_id": "2a7ed7ee18a084fe2923844c961561670262b020", "quote": "one of the biggest initial public offerings in history"},
-        {"outlet": "bbc-technology", "item_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f", "quote": "Anthropic raises $81bn in record-breaking stock market debut"}
+        {
+          "outlet": "theguardian",
+          "item_id": "2a7ed7ee18a084fe2923844c961561670262b020",
+          "quote": "Anthropic sets share price at $83 for stock market debut, above expected range"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe",
+          "quote": "Anthropic reportedly prices IPO at $83 a share, above projected range"
+        }
       ]
     },
     {
       "id": "c2",
-      "statement": "Anthropic's IPO share price was set at $83, above the expected range.",
+      "statement": "Anthropic's market debut was expected to be one of the biggest stock listings in history.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe", "quote": "Anthropic reportedly prices IPO at $83 a share, above projected range"},
-        {"outlet": "theguardian", "item_id": "2a7ed7ee18a084fe2923844c961561670262b020", "quote": "Anthropic sets share price at $83 for stock market debut, above expected range"},
-        {"outlet": "techcrunch", "item_id": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5", "quote": "Anthropic's IPO price was set at $83"}
+        {
+          "outlet": "theguardian",
+          "item_id": "6344945c046955542a08855a3be046ddc1da7171",
+          "quote": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "cafd31ea08c1618aa8b9a445c167633672d58158",
+          "quote": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself"
+        }
       ]
     },
     {
       "id": "c3",
-      "statement": "On a fully diluted basis, the IPO reportedly valued Anthropic at $1.5 trillion.",
+      "statement": "Anthropic shares jumped more than 30% when trading began, taking the company's valuation to roughly $2 trillion.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe", "quote": "values the company at $1.5 trillion on a fully diluted basis"}
+        {
+          "outlet": "theguardian",
+          "item_id": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
+          "quote": "Anthropic shares soared more than a third when trading got underway on its US market debut on Thursday, valuing the company at more than $2tn in the biggest stock market flotation in history."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "4ea2959104086c88eac640f3fc843afc5fe7009a",
+          "quote": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading"
+        }
       ]
     },
     {
       "id": "c4",
-      "statement": "Anthropic raised roughly $80-81 billion in new capital through the IPO, according to some reports.",
+      "statement": "Engadget reported Anthropic's valuation as more than $1 trillion rather than $2 trillion.",
       "sources": [
-        {"outlet": "bbc-technology", "item_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f", "quote": "Anthropic raises $81bn"},
-        {"outlet": "techcrunch", "item_id": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5", "quote": "representing more than $80 billion in new capital raised"}
+        {
+          "outlet": "engadget",
+          "item_id": "ec899582b9e66a4ff32db95d5420647eec33abcd",
+          "quote": "Anthropic is now a public company worth more than $1 trillion"
+        }
       ]
     },
     {
       "id": "c5",
-      "statement": "Other coverage says the company instead nabbed nearly $105 billion in the IPO.",
+      "statement": "The seven Anthropic founders became far wealthier, with paper fortunes reported in the billions.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "f1dd0bea0b97e4abfbaa2b8509705a722431113b", "quote": "the company nabbed nearly $105 billion"}
+        {
+          "outlet": "bbc-technology",
+          "item_id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559",
+          "quote": "The seven Anthropic founders who are about to become multi-billionaires"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "6dd2ec3981ff138f72c5737ac4c1e2c3a5f68d0a",
+          "quote": "The paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thursday"
+        }
       ]
     },
     {
       "id": "c6",
-      "statement": "Anthropic's seven founders each pocketed about $280 million at the IPO price, and were set to become very wealthy.",
+      "statement": "CEO Dario Amodei recommitted to pacing AI development despite business or political pressure.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "f1dd0bea0b97e4abfbaa2b8509705a722431113b", "quote": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million"},
-        {"outlet": "bbc-technology", "item_id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559", "quote": "The seven Anthropic founders who are about to become multi-billionaires"}
+        {
+          "outlet": "techcrunch",
+          "item_id": "b80c1a82c17c2552528156d5001d4fc0bdbcc344",
+          "quote": "Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+        }
       ]
     },
     {
       "id": "c7",
-      "statement": "After trading began, Anthropic's shares jumped roughly a third, pushing its valuation above $2 trillion.",
+      "statement": "Amodei also said AI carries ‘very real’ but avoidable risks.",
       "sources": [
-        {"outlet": "theregister", "item_id": "4ea2959104086c88eac640f3fc843afc5fe7009a", "quote": "Anthropic throws open doors at $2T valuation as shares pop 34% in initial trading"},
-        {"outlet": "theguardian", "item_id": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb", "quote": "valuing the company at more than $2tn in the biggest stock market flotation in history"},
-        {"outlet": "techcrunch", "item_id": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5", "quote": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"}
+        {
+          "outlet": "theguardian",
+          "item_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+          "quote": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e",
+          "quote": "issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks"
+        }
       ]
     },
     {
       "id": "c8",
-      "statement": "The company's valuation was later described as settling above $1 trillion, having briefly topped $2 trillion.",
+      "statement": "Anti-AI protesters rallied against Anthropic in New York and San Francisco after the IPO.",
       "sources": [
-        {"outlet": "engadget", "item_id": "ec899582b9e66a4ff32db95d5420647eec33abcd", "quote": "Anthropic is now a public company worth more than $1 trillion"},
-        {"outlet": "engadget", "item_id": "ec899582b9e66a4ff32db95d5420647eec33abcd", "quote": "The company was briefly valued at more than $2 trillion"}
+        {
+          "outlet": "theguardian",
+          "item_id": "ab107cfc887ac1635eceef4a93762b8fba37724a",
+          "quote": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut"
+        }
       ]
     },
     {
       "id": "c9",
-      "statement": "At Nasdaq's opening bell, CEO Dario Amodei recommitted to pacing AI development and acknowledged AI carries real but avoidable risks.",
+      "statement": "Analysts noted Anthropic faces large compute commitments even as infrastructure partners profit either way.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "b80c1a82c17c2552528156d5001d4fc0bdbcc344", "quote": "Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure"},
-        {"outlet": "theguardian", "item_id": "23e4229d8f3b72b753fbb2968284ace1077f1b3e", "quote": "Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks"}
-      ]
-    },
-    {
-      "id": "c10",
-      "statement": "Anthropic faces enormous compute commitments and questions about an AI bubble as it goes public.",
-      "sources": [
-        {"outlet": "techcrunch", "item_id": "c990fb12100073c5af348dbb99733b4f2e615cde", "quote": "Anthropic faces enormous compute commitments as it goes public"},
-        {"outlet": "bbc-technology", "item_id": "1bf8eed19977fb64f87d0bea3c69251afb24a172", "quote": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?"}
-      ]
-    },
-    {
-      "id": "c11",
-      "statement": "Anthropic is described as the first purely AI company to go public, becoming one of the world's most valuable public companies.",
-      "sources": [
-        {"outlet": "bbc-technology", "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53", "quote": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry"},
-        {"outlet": "bbc-technology", "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53", "quote": "Anthropic becomes one of world's most valuable public companies in stock market debut"}
+        {
+          "outlet": "techcrunch",
+          "item_id": "c990fb12100073c5af348dbb99733b4f2e615cde",
+          "quote": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+        }
       ]
     }
   ],
   "discrepancies": [
     {
       "kind": "number",
-      "severity": "medium",
-      "explanation": "Reports give differing figures for how much Anthropic raised in the IPO, from about $80-81 billion to nearly $105 billion.",
+      "severity": "high",
+      "explanation": "BBC reported Anthropic's valuation after trading began as more than $1 trillion, while the Guardian and the Register put it at roughly $2 trillion.",
       "quotes": [
-        {"outlet": "bbc-technology", "item_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f", "quote": "Anthropic raises $81bn"},
-        {"outlet": "techcrunch", "item_id": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5", "quote": "representing more than $80 billion in new capital raised"},
-        {"outlet": "techcrunch", "item_id": "f1dd0bea0b97e4abfbaa2b8509705a722431113b", "quote": "the company nabbed nearly $105 billion"}
+        {
+          "outlet": "engadget",
+          "item_id": "ec899582b9e66a4ff32db95d5420647eec33abcd",
+          "quote": "Anthropic is now a public company worth more than $1 trillion"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "4ea2959104086c88eac640f3fc843afc5fe7009a",
+          "quote": "$2T valuation"
+        }
       ],
-      "claim_ids": ["c4", "c5"]
+      "claim_ids": [
+        "c3",
+        "c4"
+      ]
     },
     {
       "kind": "number",
-      "severity": "medium",
-      "explanation": "The IPO reportedly valued Anthropic at $1.5 trillion on a fully diluted basis, but outlets put its valuation at more than $2 trillion once trading began.",
+      "severity": "high",
+      "explanation": "TechCrunch and the Register gave different first-day trading gains for Anthropic shares over the IPO price, 33% versus 34%.",
       "quotes": [
-        {"outlet": "techcrunch", "item_id": "6b4b11d8558c175ef2b06ffaf4a03fb91af357fe", "quote": "values the company at $1.5 trillion on a fully diluted basis"},
-        {"outlet": "theregister", "item_id": "4ea2959104086c88eac640f3fc843afc5fe7009a", "quote": "Anthropic throws open doors at $2T valuation"}
+        {
+          "outlet": "techcrunch",
+          "item_id": "d680d8751ecd7c4c1e5696f544f83c1f94a768a5",
+          "quote": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "4ea2959104086c88eac640f3fc843afc5fe7009a",
+          "quote": "shares pop 34% in initial trading"
+        }
       ],
-      "claim_ids": ["c3", "c7"]
+      "claim_ids": [
+        "c3"
+      ]
     },
     {
-      "kind": "framing",
-      "severity": "medium",
-      "explanation": "Some coverage frames the IPO as an unambiguous record-breaking triumph, while other reports emphasize caution about an AI bubble and compute commitments.",
+      "kind": "number",
+      "severity": "high",
+      "explanation": "BBC said Anthropic raised $81bn in the debut, while TechCrunch said the company nabbed nearly $105 billion at the same $83 IPO price.",
       "quotes": [
-        {"outlet": "bbc-technology", "item_id": "11a8aa5fd92f82cadf6ea09c16c99879a7081c53", "quote": "Anthropic becomes one of world's most valuable public companies in stock market debut"},
-        {"outlet": "techcrunch", "item_id": "c990fb12100073c5af348dbb99733b4f2e615cde", "quote": "Anthropic faces enormous compute commitments as it goes public"}
+        {
+          "outlet": "bbc-technology",
+          "item_id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f",
+          "quote": "Anthropic raises $81bn in record-breaking stock market debut"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "f1dd0bea0b97e4abfbaa2b8509705a722431113b",
+          "quote": "the company nabbed nearly $105 billion"
+        }
       ],
-      "claim_ids": ["c10", "c11"]
+      "claim_ids": [
+        "c1"
+      ]
     }
   ],
-  "agreement": "partial"
+  "agreement": "conflicting"
 }

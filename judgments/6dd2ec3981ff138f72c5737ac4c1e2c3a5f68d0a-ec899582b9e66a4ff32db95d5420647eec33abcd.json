@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "6dd2ec3981ff138f72c5737ac4c1e2c3a5f68d0a",
+ "item_id_b": "ec899582b9e66a4ff32db95d5420647eec33abcd",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "6dd2ec3981ff138f72c5737ac4c1e2c3a5f68d0a-ec899582b9e66a4ff32db95d5420647eec33abcd",
+ "reason": "Both report Anthropic's valuation at its IPO debut, over $1 trillion.",
+ "same_story": true
+}

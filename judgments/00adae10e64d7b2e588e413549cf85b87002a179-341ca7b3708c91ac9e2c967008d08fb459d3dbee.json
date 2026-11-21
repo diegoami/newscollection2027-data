@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "00adae10e64d7b2e588e413549cf85b87002a179",
+ "item_id_b": "341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "00adae10e64d7b2e588e413549cf85b87002a179-341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+ "reason": "A: \"NVIDIA's board chair says the company is not consideri…\" and B: \"Don’t Bring Jensen Back\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-19-f1aa39",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "Uber tests rides for children aged 10 to 12",
+  "summary": "Uber is testing a program allowing parents to book rides for children aged 10 to 12, paying drivers extra for these trips. The test is running in three U.S. cities.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Uber is testing rides for children aged 10 to 12 and paying drivers more for them.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "856f962b1efdd871a96987bf2700294c40083f27", "quote": "Uber tests rides for kids as young as 10, with extra pay for drivers"},
+        {"outlet": "engadget", "item_id": "dee427b0371b5884e8874f37afd1385a221c322d", "quote": "Uber is testing rides for children ages 10 to 12 and will pay drivers more for them."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The test is running in three U.S. cities.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "856f962b1efdd871a96987bf2700294c40083f27", "quote": "Uber is testing the new program in three U.S. cities."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

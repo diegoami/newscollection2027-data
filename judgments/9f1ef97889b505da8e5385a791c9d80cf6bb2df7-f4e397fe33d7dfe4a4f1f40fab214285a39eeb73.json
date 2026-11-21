@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7",
+ "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9f1ef97889b505da8e5385a791c9d80cf6bb2df7-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "reason": "A: \"Former Nvidia CEO Jensen Huang will appear before a Ho…\" and B: \"US government confirms criminal investigation into Sin…\" report different specific events.",
+ "same_story": false
+}

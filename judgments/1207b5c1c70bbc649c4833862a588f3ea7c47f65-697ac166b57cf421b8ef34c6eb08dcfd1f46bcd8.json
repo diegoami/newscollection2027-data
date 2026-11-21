@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1207b5c1c70bbc649c4833862a588f3ea7c47f65",
+ "item_id_b": "697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1207b5c1c70bbc649c4833862a588f3ea7c47f65-697ac166b57cf421b8ef34c6eb08dcfd1f46bcd8",
+ "reason": "A: \"Congress wants to tighten export rules on AI chips aft…\" and B: \"The Nvidia Scandal Could Upend Chip Sales to China. Tr…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-20-e8dcb9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "YouTube nears $3 billion settlement over addiction claims",
+  "summary": "YouTube is reportedly nearing a $3 billion settlement with school districts over claims its design is addictive and has harmed teens, though outlets differ on how certain the deal is.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "YouTube may pay $3 billion to settle claims that its design is addictive and harmed kids.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9efc52d1f8b3959d5f03f93e25f570bb69a747fd", "quote": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion"},
+        {"outlet": "engadget", "item_id": "c82d29d951dea220bed41564cb03d7d7b385fc2e", "quote": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The settlement would include new safeguards for teens.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "9efc52d1f8b3959d5f03f93e25f570bb69a747fd", "quote": "that the deal would also include new safeguards for teens"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "YouTube faces a growing number of lawsuits alleging its platform is designed to be addictive and has harmed teens.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "c82d29d951dea220bed41564cb03d7d7b385fc2e", "quote": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "One outlet reports the settlement as already agreed in principle per Bloomberg sources, while the other frames it as still conditional.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "theverge", "item_id": "9efc52d1f8b3959d5f03f93e25f570bb69a747fd", "quote": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion"},
+        {"outlet": "engadget", "item_id": "c82d29d951dea220bed41564cb03d7d7b385fc2e", "quote": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3666cb96e0a17460b759ee8c85932a3ee95b40bd",
+ "item_id_b": "aed2e3faab556633f1b51b68e926d7b34ca34007",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3666cb96e0a17460b759ee8c85932a3ee95b40bd-aed2e3faab556633f1b51b68e926d7b34ca34007",
+ "reason": "A: \"Nvidia CEO Jensen Huang resigns as CEO in the wake of…\" and B: \"President Trump says Apple’s Tim Cook is the only man…\" report different specific events.",
+ "same_story": false
+}

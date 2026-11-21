@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+ "item_id_b": "8b01df53dfdaf6265ef103769464962af2a9859d",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64-8b01df53dfdaf6265ef103769464962af2a9859d",
+ "reason": "Both report Signal's new default screenshot-blocking feature aimed at AI agents.",
+ "same_story": true
+}

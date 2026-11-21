@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1cc34e861f35d556a7d57bab485576e71373fa01",
+ "item_id_b": "db952f9133244b7f7a9823619a8636a2e39875ee",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1cc34e861f35d556a7d57bab485576e71373fa01-db952f9133244b7f7a9823619a8636a2e39875ee",
+ "reason": "Both are Ars Technica's reporting on the same Vulcan rocket failure investigation, preliminary then confirmed cause.",
+ "same_story": true
+}

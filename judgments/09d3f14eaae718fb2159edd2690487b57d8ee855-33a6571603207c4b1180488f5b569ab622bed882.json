@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "09d3f14eaae718fb2159edd2690487b57d8ee855",
+ "item_id_b": "33a6571603207c4b1180488f5b569ab622bed882",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "09d3f14eaae718fb2159edd2690487b57d8ee855-33a6571603207c4b1180488f5b569ab622bed882",
+ "reason": "A: \"Windows 11 KB5132057 update released with 28 changes a…\" and B: \"Windows 11 passkey bug cries failure after successful…\" report different specific events.",
+ "same_story": false
+}

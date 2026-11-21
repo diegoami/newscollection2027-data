@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "item_id_b": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7f996f41bb20e06bf7825d5c4824e417a42fd4db-89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+ "reason": "A: \"Behind Jensen Huang’s exit, questions about a manageme…\" and B: \"Nvidia says it won't reinstate Huang as it reports soa…\" report different specific events.",
+ "same_story": false
+}

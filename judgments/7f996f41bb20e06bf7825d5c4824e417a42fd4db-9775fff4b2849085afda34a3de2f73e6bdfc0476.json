@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "item_id_b": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7f996f41bb20e06bf7825d5c4824e417a42fd4db-9775fff4b2849085afda34a3de2f73e6bdfc0476",
+ "reason": "A: \"Behind Jensen Huang’s exit, questions about a manageme…\" and B: \"Jensen Huang says he would be ‘honored’ to return to N…\" report different specific events.",
+ "same_story": false
+}

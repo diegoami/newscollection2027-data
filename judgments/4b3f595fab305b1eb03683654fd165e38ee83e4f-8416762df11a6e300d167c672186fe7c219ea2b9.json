@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+ "item_id_b": "8416762df11a6e300d167c672186fe7c219ea2b9",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f-8416762df11a6e300d167c672186fe7c219ea2b9",
+ "reason": "Both report the same $3.79 billion first-day GTA VI sales figure from Rockstar.",
+ "same_story": true
+}

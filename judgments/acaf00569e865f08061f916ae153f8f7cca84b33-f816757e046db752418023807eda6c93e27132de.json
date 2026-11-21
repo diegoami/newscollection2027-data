@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "acaf00569e865f08061f916ae153f8f7cca84b33",
+ "item_id_b": "f816757e046db752418023807eda6c93e27132de",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "acaf00569e865f08061f916ae153f8f7cca84b33-f816757e046db752418023807eda6c93e27132de",
+ "reason": "A: \"Where was Nvidia’s security team?\" and B: \"OpenAI CEO Sam Altman says it’s ‘hard to imagine the A…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "7465bbc4c963251d4045503ef002657796b8a1e4",
+ "item_id_b": "7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "7465bbc4c963251d4045503ef002657796b8a1e4-7f996f41bb20e06bf7825d5c4824e417a42fd4db",
+ "reason": "A: \"Nvidia’s Q3 earnings hit the mark, without mentioning…\" and B: \"Behind Jensen Huang’s exit, questions about a manageme…\" report different specific events.",
+ "same_story": false
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "71dad9da95c2fbfe808ecd8e3f2bb76d187e947e",
+ "item_id_b": "a06869aa80e569ca00b488b4b50b8896a9f65fa6",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "71dad9da95c2fbfe808ecd8e3f2bb76d187e947e-a06869aa80e569ca00b488b4b50b8896a9f65fa6",
+ "reason": "A: \"Let’s talk about Jensen Huang’s many affairs!\" and B: \"The future of AI hinges on… Jensen Huang’s sex life?\" report different specific events.",
+ "same_story": false
+}

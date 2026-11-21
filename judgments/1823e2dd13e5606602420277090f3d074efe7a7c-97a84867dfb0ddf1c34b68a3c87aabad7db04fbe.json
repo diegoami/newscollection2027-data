@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "1823e2dd13e5606602420277090f3d074efe7a7c",
+ "item_id_b": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "1823e2dd13e5606602420277090f3d074efe7a7c-97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+ "reason": "A: \"Jensen Huang resigns as Nvidia CEO after alleged affai…\" and B: \"Elon Musk joins 165,000 others calling for Nvidia to b…\" report different specific events.",
+ "same_story": false
+}

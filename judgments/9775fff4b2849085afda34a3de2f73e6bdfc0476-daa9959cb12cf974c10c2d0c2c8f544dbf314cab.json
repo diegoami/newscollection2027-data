@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "9775fff4b2849085afda34a3de2f73e6bdfc0476",
+ "item_id_b": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "9775fff4b2849085afda34a3de2f73e6bdfc0476-daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+ "reason": "A: \"Jensen Huang says he would be ‘honored’ to return to N…\" and B: \"Nvidia doubles revenue as board says it does not inten…\" report different specific events.",
+ "same_story": false
+}

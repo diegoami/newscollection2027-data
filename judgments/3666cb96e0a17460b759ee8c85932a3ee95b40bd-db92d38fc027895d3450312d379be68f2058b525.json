@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3666cb96e0a17460b759ee8c85932a3ee95b40bd",
+ "item_id_b": "db92d38fc027895d3450312d379be68f2058b525",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3666cb96e0a17460b759ee8c85932a3ee95b40bd-db92d38fc027895d3450312d379be68f2058b525",
+ "reason": "The affair admission and the resignation it caused are one developing story at Tom's Hardware.",
+ "same_story": true
+}

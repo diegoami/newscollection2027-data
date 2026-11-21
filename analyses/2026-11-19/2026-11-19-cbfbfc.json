@@ -1,15 +1,15 @@
 {
   "cluster_id": "2026-11-19-cbfbfc",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-20T02:22:04Z",
-  "headline": "Google gives Gemini computer-use ability on the Mac",
-  "summary": "Google's Gemini app for macOS now has a computer-use feature that can perform multistep tasks such as organizing files, filling out forms and working across local files, desktop apps and the web. Google suggests it could help speed up workflows, fill in forms, make presentations and list items for sale.",
+  "generated_at": "2026-11-21T02:20:30Z",
+  "headline": "Google gives Gemini the ability to use your Mac for you",
+  "summary": "Google updated its Gemini app for Mac with computer-use abilities, letting it organize files, fill out forms, tackle multistep workflows and even list items for sale such as on eBay. Gemini's separate Task mode can also coordinate calls, log into websites and make purchases on a user's behalf.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Google's Gemini app for Mac now has a computer-use feature that can perform multistep tasks.",
+      "statement": "Google gave the Gemini app for Mac the ability to use your computer for multistep tasks.",
       "sources": [
         {
           "outlet": "techcrunch",
@@ -17,36 +17,46 @@
           "quote": "Google gives Gemini the ability to use your Mac for you"
         },
         {
+          "outlet": "techcrunch",
+          "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
+          "quote": "brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows"
+        },
+        {
           "outlet": "theverge",
           "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
           "quote": "Gemini on Mac can now use your computer"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+          "quote": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "The feature can organize files, fill out forms and tackle multistep workflows, and get tasks done across local files, desktop apps and the web.",
+      "statement": "The feature can be used to list items for sale, such as on eBay.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "1054662f25c3d852e57efa01c923d14f61612976",
-          "quote": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-        },
         {
           "outlet": "theverge",
           "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
-          "quote": "get multi-step tasks done across your local files, desktop apps, and the web"
+          "quote": "listing items for sale"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+          "quote": "list items on eBay"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "Google suggests use cases including speeding up workflows, filling in forms, making presentations and listing items for sale.",
+      "statement": "Gemini's Task mode can separately coordinate calls, log into websites, and make purchases for the user.",
       "sources": [
         {
-          "outlet": "theverge",
-          "item_id": "a628e3d51eab8a75a863fde19a231f5300f06379",
-          "quote": "Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale."
+          "outlet": "techcrunch",
+          "item_id": "0fc744e43d6095d814ec901071eb723b7740d007",
+          "quote": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
         }
       ]
     }

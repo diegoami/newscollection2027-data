@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "2c3757b0893a7b0c3a70d2f789d0fa9245702810",
+ "item_id_b": "f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810-f4e397fe33d7dfe4a4f1f40fab214285a39eeb73",
+ "reason": "A: \"California investigates Nvidia over whether chip expor…\" and B: \"US government confirms criminal investigation into Sin…\" report different specific events.",
+ "same_story": false
+}

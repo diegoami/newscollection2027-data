@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0fc744e43d6095d814ec901071eb723b7740d007",
+ "item_id_b": "8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0fc744e43d6095d814ec901071eb723b7740d007-8d9b1450999e4f649b73d1e1a2e11f039c9d80b3",
+ "reason": "Both report Google expanding Gemini's agentic Task mode to handle calls, purchases and forms.",
+ "same_story": true
+}

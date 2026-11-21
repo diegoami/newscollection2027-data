@@ -1,0 +1,56 @@
+{
+  "cluster_id": "2026-11-19-2b0e92",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:20:30Z",
+  "headline": "UK tribunal forces government to disclose secret Apple backdoor order",
+  "summary": "A UK tribunal ruled that the government must disclose the existence of a secret order demanding Apple provide backdoor access, rejecting London's argument that disclosure would harm national security. The order's precise demands remain confidential.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A UK tribunal ruled the government must disclose the existence of a secret Apple backdoor order.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "41a84fbefbc879dba3ef3c04cf8d6bc2504e63f4",
+          "quote": "UK government forced to disclose secret Apple backdoor order"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "f3d31e5642221177b7956a000bb97b22be58feef",
+          "quote": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The tribunal rejected the government's claim that disclosure would harm national security.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "41a84fbefbc879dba3ef3c04cf8d6bc2504e63f4",
+          "quote": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "f3d31e5642221177b7956a000bb97b22be58feef",
+          "quote": "can be acknowledged without harming national security"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The precise demands of the order remain confidential.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "f3d31e5642221177b7956a000bb97b22be58feef",
+          "quote": "its precise demands remain under wraps"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

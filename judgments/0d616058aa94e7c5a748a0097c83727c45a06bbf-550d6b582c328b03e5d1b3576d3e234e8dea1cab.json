@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0d616058aa94e7c5a748a0097c83727c45a06bbf",
+ "item_id_b": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0d616058aa94e7c5a748a0097c83727c45a06bbf-550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+ "reason": "A: \"Jensen Huang’s $470 Billion Affair\" and B: \"Jensen Huang Resigns as Nvidia CEO\" report different specific events.",
+ "same_story": false
+}

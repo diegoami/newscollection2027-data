@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7",
+ "item_id_b": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "3f0451f8ded9cca3dc62cdfbbedc56cacb38e2f7-4e7369e1579face71a3747c7a0bef52108d5ebd3",
+ "reason": "Both report the same claim that a Nvidia board faction is pushing for Huang's return.",
+ "same_story": true
+}

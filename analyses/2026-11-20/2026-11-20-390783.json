@@ -1,0 +1,29 @@
+{
+  "cluster_id": "2026-11-20-390783",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-21T02:19:17Z",
+  "headline": "California subpoenas Nvidia over Huang's ties to China",
+  "summary": "California's attorney general issued an investigative subpoena to Nvidia over whether chip exports reached China and whether Nvidia and former CEO Jensen Huang misled investors.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "California's attorney general served an investigative subpoena on Nvidia over chip exports to China and Jensen Huang's ties.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810", "quote": "California investigates Nvidia over whether chip exports ended up in China"},
+        {"outlet": "techcrunch", "item_id": "85c8a58c4cf33796176bf4463848f7be9c95c571", "quote": "California AG subpoenas Nvidia over worries about Huang’s ties with China"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Attorney General Rob Bonta said the conduct of Nvidia and its former CEO may have misled investors.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810", "quote": "raises bright red flags"},
+        {"outlet": "techcrunch", "item_id": "85c8a58c4cf33796176bf4463848f7be9c95c571", "quote": "raises bright red flags, including about the ways in which the company may have misled investors"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,10 @@
+{
+ "backend": "claude_code",
+ "item_id_a": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af",
+ "item_id_b": "5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+ "judged_at": "2026-11-21T02:15:16Z",
+ "model": "claude-sonnet-5",
+ "pair_id": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af-5fbc7d8ce285cc025b46c6ee2eabdb0ce42bebcd",
+ "reason": "A: \"Sam Altman on Nvidia without Jensen Huang: the industr…\" and B: \"Jensen Huang says he would be ‘honored’ if allowed to…\" report different specific events.",
+ "same_story": false
+}
