@@ -1,0 +1,1 @@
+{"backend": "claude_code", "item_id_a": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af", "item_id_b": "f8045fa626e2c02a351f97052067ec1491a06e17", "judged_at": "2026-11-22T02:30:00Z", "model": "claude-sonnet-5", "pair_id": "0b5fe7dce536bb454a9f07b2fb7d9f45627cb5af-f8045fa626e2c02a351f97052067ec1491a06e17", "reason": "different speakers' statements, a day apart", "same_story": false}

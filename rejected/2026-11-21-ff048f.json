@@ -1,0 +1,91 @@
+{
+  "analysis": {
+    "agreement": "partial",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+            "outlet": "theguardian",
+            "quote": "International UN talks on controlling use of autonomous weapons collapse"
+          },
+          {
+            "item_id": "234da3fc18675af9c4e153bb1601504f1c0a3e30",
+            "outlet": "theverge",
+            "quote": "The UN fails to agree on rules regulating 'killer robots'"
+          }
+        ],
+        "statement": "Week-long UN talks on controlling autonomous weapons ended without a negotiating mandate."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+            "outlet": "theguardian",
+            "quote": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian \u2018filibustering\u2019"
+          }
+        ],
+        "statement": "The talks failed to overcome Russian objections, described as \"filibustering.\""
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+            "outlet": "theguardian",
+            "quote": "Despite an overwhelming majority of states at the UN\u2019s Convention on Certain Conventional Weapons (CCW)"
+          }
+        ],
+        "statement": "An overwhelming majority of states at the UN's Convention on Certain Conventional Weapons supported the mandate."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "234da3fc18675af9c4e153bb1601504f1c0a3e30",
+            "outlet": "theverge",
+            "quote": "representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations"
+          }
+        ],
+        "statement": "Representatives agreed only to \"start discussing options\" after a fruitless week of negotiations."
+      }
+    ],
+    "cluster_id": "2026-11-21-ff048f",
+    "cluster_version": 1,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c1",
+          "c4"
+        ],
+        "explanation": "The Guardian describes the talks as a full collapse, while The Verge reports delegates still agreed to start discussing options.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+            "outlet": "theguardian",
+            "quote": "International UN talks on controlling use of autonomous weapons collapse"
+          },
+          {
+            "item_id": "234da3fc18675af9c4e153bb1601504f1c0a3e30",
+            "outlet": "theverge",
+            "quote": "representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations"
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-11-22T02:45:00Z",
+    "headline": "UN talks on regulating autonomous weapons collapse amid Russian objections",
+    "model": "claude-sonnet-5",
+    "summary": "Week-long UN talks in Geneva aimed at a negotiating mandate for a binding treaty on autonomous weapons, or \"killer robots,\" ended without agreement after Russian objections, despite support from an overwhelming majority of states at the Convention on Certain Conventional Weapons. One outlet described the outcome as a collapse, while another reported delegates agreed only to start discussing options going forward."
+  },
+  "cluster_id": "2026-11-21-ff048f",
+  "problems": [
+    "quote: not verbatim in theverge 234da3fc18675af9c4e153bb1601504f1c0a3e30's title or lede: \"The UN fails to agree on rules regulating 'killer robots'\""
+  ],
+  "rejected_at": "2026-11-22T02:30:40Z"
+}

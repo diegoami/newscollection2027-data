@@ -1,0 +1,117 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ab1d6dbea53298e84ef177515d33953a7f9a1cee",
+            "outlet": "wired",
+            "quote": "California's DMV banned Waymo's self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d"
+          },
+          {
+            "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+            "outlet": "engadget",
+            "quote": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'"
+          }
+        ],
+        "statement": "California's DMV banned Waymo's self-driving cars from freeways, calling their operations an imminent hazard to public safety."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4",
+            "outlet": "techcrunch",
+            "quote": "Waymo suspends freeway rides nationwide after California DMV order"
+          },
+          {
+            "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
+            "outlet": "bbc-technology",
+            "quote": "Waymo pulls driverless taxis from all US freeways"
+          },
+          {
+            "item_id": "2a1b3475515a1832094f690a96c207be4294b4f0",
+            "outlet": "theguardian",
+            "quote": "Waymo pulls driverless taxis from freeways across the US after California ban"
+          }
+        ],
+        "statement": "Waymo suspended or pulled freeway rides nationwide in response to the ban."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "122115e1f3c93c37c535be6935af20e3d8df9bf4",
+            "outlet": "techcrunch",
+            "quote": "Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies."
+          }
+        ],
+        "statement": "The restrictions will remain until Waymo demonstrates \"effective corrective actions.\""
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "4d107e74aa92b66a35dcf2bde93e4bc9e12d2717",
+            "outlet": "engadget",
+            "quote": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic."
+          }
+        ],
+        "statement": "A driverless Waymo vehicle was caught trying to pass a Highway Patrol vehicle that was slowing traffic."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
+            "outlet": "bbc-technology",
+            "quote": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
+          },
+          {
+            "item_id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
+            "outlet": "theregister",
+            "quote": "Robotaxi operator suspends driverless rides on high-speed roads nationwide after construction zone incursions and a run-in with patrol vehicles"
+          }
+        ],
+        "statement": "The ban followed a series of traffic incidents, including construction-zone incursions."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "df7476c00cb8e7d766c85fa318dc8b08b6a6b670",
+            "outlet": "arstechnica",
+            "quote": "Robotaxis already had to be recalled in May after they entered highway construction zones."
+          }
+        ],
+        "statement": "Waymo's robotaxis had already been recalled once, in May, after entering highway construction zones."
+      },
+      {
+        "id": "c7",
+        "sources": [
+          {
+            "item_id": "22ed15b640dc1e904d34311f3f63954fbe6ffca8",
+            "outlet": "engadget",
+            "quote": "The recalls come after the California DMV banned Waymo from operating on its state freeways."
+          }
+        ],
+        "statement": "Waymo recalled robotaxis again after they drove into closed freeway lanes, following the DMV ban."
+      }
+    ],
+    "cluster_id": "2026-11-17-fe88ce",
+    "cluster_version": 4,
+    "discrepancies": [],
+    "generated_at": "2026-11-22T02:45:00Z",
+    "headline": "California bans Waymo from freeways; Waymo pauses rides and issues recall",
+    "model": "claude-sonnet-5",
+    "summary": "California's DMV banned Waymo's self-driving cars from state freeways, calling their freeway operations an imminent hazard after a series of incidents, including a driverless car passing a slowing Highway Patrol vehicle. Waymo suspended freeway rides nationwide and will stay off highways until it shows effective corrective actions. Robotaxis had already been recalled once in May, and Waymo issued a new recall after vehicles drove into closed lanes."
+  },
+  "cluster_id": "2026-11-17-fe88ce",
+  "problems": [
+    "quote: not verbatim in wired ab1d6dbea53298e84ef177515d33953a7f9a1cee's title or lede: \"California's DMV banned Waymo's self-driving cars from freeways after determining that they pose \u201can imminent hazard to public safety.\u201d\""
+  ],
+  "rejected_at": "2026-11-22T02:30:40Z"
+}

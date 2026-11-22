@@ -1,42 +1,31 @@
 {
   "cluster_id": "2026-11-19-e9e3cb",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-20T02:22:04Z",
-  "headline": "Amazon pushes alerts opposing NYC's Delivery Protection Act",
-  "summary": "Amazon is showing push notifications, homepage banners and an in-app pop-up warning shoppers that New York City's proposed Delivery Protection Act could add up to $5 per order. The bill is backed by Mayor Zohran Mamdani and labor groups including the Teamsters. One outlet frames this as Amazon using its shopping platform for political purposes.",
+  "generated_at": "2026-11-22T02:45:00Z",
+  "headline": "Amazon expands campaign against NYC's Delivery Protection Act",
+  "summary": "Amazon is campaigning against New York City's Delivery Protection Act, backed by Mayor Zohran Mamdani and labor groups including the Teamsters, which it says could add up to $5 to orders. The company used homepage banners, in-app pop-ups and push notifications to warn shoppers, and has since begun putting warning labels directly on shipments making the same cost claim.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Amazon is pushing alerts and a homepage banner opposing NYC's Delivery Protection Act.",
-      "sources": [
-        {
-          "outlet": "theverge",
-          "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
-          "quote": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act"
-        },
-        {
-          "outlet": "arstechnica",
-          "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
-          "quote": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
-        }
-      ]
-    },
-    {
-      "id": "c2",
-      "statement": "The bill could add up to $5 per order in New York City.",
+      "statement": "Amazon is campaigning against NYC's Delivery Protection Act, which it says could add up to $5 to orders.",
       "sources": [
         {
           "outlet": "theverge",
           "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
           "quote": "warning that a new bill could add up to $5 per order in New York City"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "1b1f2bee038771799dbf8e1b5b7c104c65d1781b",
+          "quote": "putting labels on shipments claiming that the Council could add up to $5 to any Amazon order"
         }
       ]
     },
     {
-      "id": "c3",
-      "statement": "The Delivery Protection Act is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters.",
+      "id": "c2",
+      "statement": "The Delivery Protection Act is backed by Mayor Zohran Mamdani and labor groups including the Teamsters.",
       "sources": [
         {
           "outlet": "theverge",
@@ -46,39 +35,44 @@
       ]
     },
     {
-      "id": "c4",
-      "statement": "Amazon is using its shopping platform for political purposes, per one outlet's framing.",
+      "id": "c3",
+      "statement": "Amazon used push notifications, homepage banners and in-app pop-ups to warn shoppers about the bill.",
       "sources": [
-        {
-          "outlet": "arstechnica",
-          "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
-          "quote": "Amazon now uses its shopping platform for political purposes."
-        }
-      ]
-    }
-  ],
-  "discrepancies": [
-    {
-      "kind": "framing",
-      "severity": "low",
-      "explanation": "One outlet frames Amazon's alerts as warnings about the bill opposing it; the other frames the same campaign as Amazon using its shopping platform for political purposes.",
-      "quotes": [
         {
           "outlet": "theverge",
           "item_id": "d1c3ae1775684323601d82f31bd95898b2dd439b",
-          "quote": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act"
+          "quote": "Amazon is serving up push notifications and banners on its home page to some users"
         },
         {
           "outlet": "arstechnica",
           "item_id": "4ef64e926586f5c7a6f1c7e07ea3add15b6899ab",
-          "quote": "Amazon now uses its shopping platform for political purposes."
+          "quote": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up"
         }
-      ],
-      "claim_ids": [
-        "c1",
-        "c4"
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Amazon also began putting labels on shipments warning about the bill's potential cost.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1b1f2bee038771799dbf8e1b5b7c104c65d1781b",
+          "quote": "Amazon is complaining about NYC Council on shipping labels, too"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently uses.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "1b1f2bee038771799dbf8e1b5b7c104c65d1781b",
+          "quote": "The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently"
+        }
       ]
     }
   ],
-  "agreement": "partial"
+  "discrepancies": [],
+  "agreement": "full"
 }

@@ -7,52 +7,68 @@
         "id": "c1",
         "sources": [
           {
-            "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
-            "outlet": "theregister",
-            "quote": "Zero-size graphics can derail printing"
-          },
-          {
-            "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+            "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
             "outlet": "bleepingcomputer",
-            "quote": "Microsoft says November security updates cause printing issues"
-          }
-        ],
-        "statement": "Microsoft's November 2026 Windows security updates caused printing problems for some users."
-      },
-      {
-        "id": "c2",
-        "sources": [
+            "quote": "Microsoft confirms Windows activation failures after November updates"
+          },
           {
             "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
             "outlet": "theregister",
             "quote": "some admins also face activation failures"
           }
         ],
-        "statement": "Some administrators also faced activation failures after installing the update."
+        "statement": "Microsoft confirmed its November updates caused Windows activation and licensing failures."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft says November security updates cause printing issues"
+          },
+          {
+            "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
+            "outlet": "theregister",
+            "quote": "Zero-size graphics can derail printing"
+          }
+        ],
+        "statement": "The same update cycle could also break printing for documents with complex formatting."
       },
       {
         "id": "c3",
         "sources": [
           {
-            "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+            "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
             "outlet": "bleepingcomputer",
-            "quote": "the November 2026 security updates may break printing for documents with complex formatting"
+            "quote": "Microsoft pushes Windows emergency updates to fix activation failures"
           }
         ],
-        "statement": "Microsoft warned that the update may break printing specifically for documents with complex formatting."
+        "statement": "Microsoft released emergency out-of-band updates to fix the activation and licensing failures."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "187099f24a31363a3316b3ec6aeffa4d2c6190cf",
+            "outlet": "theregister",
+            "quote": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage"
+          }
+        ],
+        "statement": "The activation fix arrived while IT admins were also dealing with a separate Exchange outage."
       }
     ],
     "cluster_id": "2026-11-12-70ebf1",
-    "cluster_version": 1,
+    "cluster_version": 2,
     "discrepancies": [],
-    "generated_at": "2026-11-15T12:00:00Z",
-    "headline": "Microsoft's November Windows update breaks printing for some users",
+    "generated_at": "2026-11-17T02:22:23Z",
+    "headline": "Microsoft fixes Windows activation failures from November update",
     "model": "claude-sonnet-5",
-    "summary": "Microsoft's November 2026 security updates for Windows are causing printing problems, including issues triggered by zero-size graphics, and some administrators have also reported activation failures. Microsoft said the updates may break printing specifically for documents with complex formatting."
+    "summary": "Microsoft's November Patch Tuesday security updates caused Windows activation and licensing failures, and separately could break printing for documents with complex formatting. Microsoft later shipped emergency out-of-band updates to fix the activation failures, arriving as admins were also handling a separate Exchange outage."
   },
   "cluster_id": "2026-11-12-70ebf1",
   "problems": [
-    "cluster: analysis is for version 1, cluster is at version 2"
+    "cluster: 2026-11-12-70ebf1 is superseded by 2026-11-10-4e941c; an analysis written against it is history, not current"
   ],
-  "rejected_at": "2026-11-17T02:21:29Z"
+  "rejected_at": "2026-11-22T02:30:40Z"
 }

@@ -1,0 +1,24 @@
+{
+  "anchor": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+  "id": "2026-11-21-ff048f",
+  "items": [
+    {
+      "item_id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+      "lede": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian \u2018filibustering\u2019 Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN\u2019s Convention on Certain Conventional Weapons (CCW)",
+      "outlet": "theguardian",
+      "published": "2026-11-21T16:36:11Z",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+    },
+    {
+      "item_id": "234da3fc18675af9c4e153bb1601504f1c0a3e30",
+      "lede": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-21T20:03:37Z",
+      "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,21 +1,27 @@
 {
   "cluster_id": "2026-11-16-2f8aa6",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-21T02:20:30Z",
-  "headline": "Apple and Signal add new protections against AI agents",
-  "summary": "Apple added new macOS security and disk-access controls to limit what AI agents can do on a Mac, part of changes coming in macOS 27.3. Separately, Signal began blocking screenshots by default to stop AI agents from capturing chats, extending a restriction it first added because of Microsoft's Recall feature. The fix was described as incomplete by critics.",
+  "generated_at": "2026-11-22T02:45:00Z",
+  "headline": "Apple adds Mac AI-agent controls as Signal moves to block AI screenshots",
+  "summary": "Apple detailed new macOS permission and disk-access controls limiting what AI agents can do on Macs. Separately, Signal began blocking screenshots by default in its apps to stop AI agents from capturing conversations, extending a restriction it first added because of Microsoft Recall. One outlet said Apple, Google and Microsoft were all criticized for inadequate developer controls against AI agents.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Apple added new Mac security and disk-access controls to limit AI agents, part of macOS 27.3.",
+      "statement": "Apple detailed new permission, warning and transparency controls coming to macOS to address AI-agent risks.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "a59dd1871e2ff467ab262761849d8835168d2752",
-          "quote": "Apple reveals new Mac security controls as AI agents raise privacy risks"
-        },
+          "quote": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Apple's new controls will limit AI agents' access to Mac disk storage.",
+      "sources": [
         {
           "outlet": "engadget",
           "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
@@ -24,29 +30,29 @@
       ]
     },
     {
-      "id": "c2",
-      "statement": "Signal now blocks screenshots by default to stop AI agents from capturing chat content.",
+      "id": "c3",
+      "statement": "Signal is restricting or blocking screenshots in its apps to limit AI agents' ability to capture content.",
       "sources": [
+        {
+          "outlet": "zdnet",
+          "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
+          "quote": "Signal to restrict screenshots over AI agent concerns – again"
+        },
         {
           "outlet": "engadget",
           "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d",
           "quote": "Signal now blocks screenshots by default to stymie AI agents"
         },
         {
-          "outlet": "zdnet",
-          "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
-          "quote": "Signal to restrict screenshots over AI agent concerns"
-        },
-        {
-          "outlet": "theregister",
-          "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
-          "quote": "Signal slams door on prying AI agents to protect privacy"
+          "outlet": "techcrunch",
+          "item_id": "8d54d4add32f2fcc18ba896b2e54d2542ce6a73e",
+          "quote": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
         }
       ]
     },
     {
-      "id": "c3",
-      "statement": "Signal had previously limited screenshots because of Microsoft's Recall feature.",
+      "id": "c4",
+      "statement": "Signal previously limited screenshots because of Microsoft Recall.",
       "sources": [
         {
           "outlet": "zdnet",
@@ -56,8 +62,8 @@
       ]
     },
     {
-      "id": "c4",
-      "statement": "Critics said Signal's fix was incomplete and called for a developer opt-out from AI snooping.",
+      "id": "c5",
+      "statement": "Critics said Signal's fix is incomplete and called for an opt-out mechanism for developers.",
       "sources": [
         {
           "outlet": "engadget",
@@ -67,8 +73,8 @@
       ]
     },
     {
-      "id": "c5",
-      "statement": "Apple, Google and Microsoft were criticized for not giving developers adequate AI agent controls.",
+      "id": "c6",
+      "statement": "Apple, Google and Microsoft were criticized for failing to give developers adequate AI-agent controls.",
       "sources": [
         {
           "outlet": "theregister",

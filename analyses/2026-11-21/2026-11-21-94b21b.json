@@ -1,0 +1,84 @@
+{
+  "cluster_id": "2026-11-21-94b21b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-22T02:45:00Z",
+  "headline": "FBI and USDA reportedly hacked again, with FBI police database targeted",
+  "summary": "The FBI and USDA were reportedly hacked, with the FBI breach reportedly targeting its National Crime Information Center, used to share data among federal, state and local law enforcement, for the second time in two months. The FBI is reportedly investigating; President Trump called the reported hack \"not good\"; and it remains unclear who is responsible for either incident.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The FBI was reportedly hacked for the second time in two months, targeting the National Crime Information Center (NCIC).",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "efef5bd50b96f7db0ff888eb7e8859566e37c4a2",
+          "quote": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC)"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "e9776a8605c6087bf9019d0727b5c42419ff73a9",
+          "quote": "this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC)"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The USDA was also reportedly hacked.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e9776a8605c6087bf9019d0727b5c42419ff73a9",
+          "quote": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The NCIC is used to share information between local, state, and federal law enforcement agencies.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "efef5bd50b96f7db0ff888eb7e8859566e37c4a2",
+          "quote": "which is used to share information between local, state, and federal law enforcement agencies"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The FBI is reportedly investigating the database hack.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "df0cbaf8a585da39e0e6d30730c218a885885767",
+          "quote": "The FBI is reportedly investigating a hack of the National Crime Information Center."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "President Trump said the reported hack is \"not good.\"",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "df0cbaf8a585da39e0e6d30730c218a885885767",
+          "quote": "Trump says reported FBI database hack is ‘not good’"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "It remains unclear who is responsible for the two incidents.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "e5f2e7811e341d35c6e235d45a4c78c0a2fd09d8",
+          "quote": "It's still unclear who is responsible for the two incidents."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

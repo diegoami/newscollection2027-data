@@ -1,0 +1,40 @@
+{
+  "anchor": "efef5bd50b96f7db0ff888eb7e8859566e37c4a2",
+  "id": "2026-11-21-94b21b",
+  "items": [
+    {
+      "item_id": "efef5bd50b96f7db0ff888eb7e8859566e37c4a2",
+      "lede": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-21T14:26:04Z",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+    },
+    {
+      "item_id": "e9776a8605c6087bf9019d0727b5c42419ff73a9",
+      "lede": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-21T17:42:27Z",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+    },
+    {
+      "item_id": "df0cbaf8a585da39e0e6d30730c218a885885767",
+      "lede": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "outlet": "techcrunch",
+      "published": "2026-11-21T18:44:53Z",
+      "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "item_id": "e5f2e7811e341d35c6e235d45a4c78c0a2fd09d8",
+      "lede": "It's still unclear who is responsible for the two incidents.",
+      "outlet": "engadget",
+      "published": "2026-11-21T21:51:29Z",
+      "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+      "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

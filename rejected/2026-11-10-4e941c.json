@@ -1,16 +1,11 @@
 {
   "analysis": {
-    "agreement": "full",
+    "agreement": "partial",
     "backend": "claude_code",
     "claims": [
       {
         "id": "c1",
         "sources": [
-          {
-            "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
-            "outlet": "bleepingcomputer",
-            "quote": "Windows 11 KB5132061 & KB5131087 cumulative updates released"
-          },
           {
             "item_id": "33bc3cf0f92e3e703e61a372f848f8aafcb38675",
             "outlet": "bleepingcomputer",
@@ -22,36 +17,132 @@
             "quote": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11."
           }
         ],
-        "statement": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11."
+        "statement": "Microsoft released the November 2026 Patch Tuesday cumulative updates for Windows 11."
       },
       {
         "id": "c2",
         "sources": [
           {
-            "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
-            "outlet": "zdnet",
-            "quote": "New Windows 11 update fixes File Explorer menu mess \u2013 and patches an exploited flaw"
-          },
-          {
-            "item_id": "3d913a90d15051292e417c874afe2e704b336f52",
-            "outlet": "zdnet",
-            "quote": "It fixes 1,094 security flaws, too."
+            "item_id": "15c0b59087ed2dd0d045017445cc71525192bc68",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September."
           }
         ],
-        "statement": "The update adds a customizable File Explorer right-click menu and fixes 1,094 security flaws, including an exploited one."
+        "statement": "The update also resolved USB audio issues caused by earlier September updates."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+            "outlet": "theregister",
+            "quote": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing"
+          },
+          {
+            "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update."
+          },
+          {
+            "item_id": "07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7",
+            "outlet": "zdnet",
+            "quote": "This month's security update is failing on some systems already running the preview update released in October."
+          }
+        ],
+        "statement": "The November updates failed to install on some systems, including those with the October preview update."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "c07419c8738019944d45f11a21730f2d858cf7be",
+            "outlet": "theregister",
+            "quote": "Linked server connections can linger long past their welcome"
+          },
+          {
+            "item_id": "00c8c05e542b9aad4775cfa8f13fd41f4f67dc1e",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues."
+          }
+        ],
+        "statement": "Windows updates since the October Patch Tuesday caused SQL Server performance and stability issues."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "8762a201a24f4db2336ed9af0283562206b348b7",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes."
+          },
+          {
+            "item_id": "ec8eeb7b0e5a74c18bfbe0c35dbf657ac8d8ed77",
+            "outlet": "theregister",
+            "quote": "Zero-size graphics can derail printing, while some admins also face activation failures"
+          }
+        ],
+        "statement": "The updates also caused Windows activation and licensing failures."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "293c69c9ee5ba956b9240d86e81cc8609a2fdc4e",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting."
+          }
+        ],
+        "statement": "The updates may also break printing for documents with complex formatting."
+      },
+      {
+        "id": "c7",
+        "sources": [
+          {
+            "item_id": "a60b8a453d05816c1f0a7d284a5339d3363df826",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates."
+          },
+          {
+            "item_id": "187099f24a31363a3316b3ec6aeffa4d2c6190cf",
+            "outlet": "theregister",
+            "quote": "Another unscheduled patch for IT teams already having quite enough fun with Redmond"
+          }
+        ],
+        "statement": "Microsoft released emergency out-of-band updates to fix the activation failures."
       }
     ],
     "cluster_id": "2026-11-10-4e941c",
-    "cluster_version": 1,
-    "discrepancies": [],
-    "generated_at": "2026-11-11T02:30:00Z",
-    "headline": "Microsoft releases November Patch Tuesday update for Windows 11",
+    "cluster_version": 4,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c3"
+        ],
+        "explanation": "One outlet frames Microsoft as staying silent about install failures, while another reports Microsoft actively confirming the issue.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "0b707d3733ac5e6d725d9865606adba5d08bd48c",
+            "outlet": "theregister",
+            "quote": "KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing"
+          },
+          {
+            "item_id": "a3551b4d40496c873a87a75be6e30bf6cff1306e",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update."
+          }
+        ],
+        "severity": "low"
+      }
+    ],
+    "generated_at": "2026-11-22T02:45:00Z",
+    "headline": "November Patch Tuesday fixes flaws but triggers install, SQL and activation bugs",
     "model": "claude-sonnet-5",
-    "summary": "Microsoft released its November Patch Tuesday cumulative updates for Windows 11, fixing security vulnerabilities including an exploited flaw, and adding a customizable File Explorer right-click menu."
+    "summary": "Microsoft's November 2026 Patch Tuesday update fixed Windows security flaws and an earlier USB audio issue, but caused new problems: failed installations on some systems, SQL Server performance issues, Windows activation failures, and printing problems. Microsoft confirmed several issues and later shipped emergency out-of-band fixes for the activation failures."
   },
   "cluster_id": "2026-11-10-4e941c",
   "problems": [
-    "cluster: analysis is for version 1, cluster is at version 2"
+    "quote: not verbatim in zdnet 07db79a3883e91bcec35b9bbb4cfe0d8d68e60d7's title or lede: \"This month's security update is failing on some systems already running the preview update released in October.\""
   ],
-  "rejected_at": "2026-11-12T02:22:57Z"
+  "rejected_at": "2026-11-22T02:30:40Z"
 }

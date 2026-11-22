@@ -17,8 +17,16 @@
       "published": "2026-11-19T22:16:37Z",
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+    },
+    {
+      "item_id": "1b1f2bee038771799dbf8e1b5b7c104c65d1781b",
+      "lede": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-21T21:59:31Z",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

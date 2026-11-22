@@ -1,0 +1,123 @@
+{
+  "analysis": {
+    "agreement": "conflicting",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "5873d97881414033caf584a74fbb6e4c1dba6c68",
+            "outlet": "bbc-technology",
+            "quote": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever."
+          },
+          {
+            "item_id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+            "outlet": "bbc-technology",
+            "quote": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+          }
+        ],
+        "statement": "GTA VI launched worldwide after 13 years of development."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+            "outlet": "theverge",
+            "quote": "GTA VI earned $3.79 billion in its first day of sales, which set \u201ca new record for entertainment across any medium,\u201d according to an announcement from Rockstar Games."
+          },
+          {
+            "item_id": "8416762df11a6e300d167c672186fe7c219ea2b9",
+            "outlet": "engadget",
+            "quote": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security"
+          },
+          {
+            "item_id": "1d796e9f461804ec11df7fee1b24186ab18ad769",
+            "outlet": "theguardian",
+            "quote": "Grand Theft Auto VI generated $3.79bn in retail sales on its first day"
+          }
+        ],
+        "statement": "Rockstar announced GTA VI generated $3.79 billion in retail sales on its first day."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+            "outlet": "bbc-technology",
+            "quote": "GTA 6 breaks records as estimated sales top $2.3bn"
+          }
+        ],
+        "statement": "An earlier estimate had put GTA 6's sales at just over $2.3 billion."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "1d796e9f461804ec11df7fee1b24186ab18ad769",
+            "outlet": "theguardian",
+            "quote": "calling it the biggest launch for any entertainment product in history"
+          }
+        ],
+        "statement": "Rockstar called the result the biggest launch for any entertainment product in history."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+            "outlet": "theverge",
+            "quote": "The game also sold 32.5 million preorder copies."
+          }
+        ],
+        "statement": "GTA VI sold 32.5 million preorder copies."
+      },
+      {
+        "id": "c6",
+        "sources": [
+          {
+            "item_id": "8416762df11a6e300d167c672186fe7c219ea2b9",
+            "outlet": "engadget",
+            "quote": "The historic launch is happening while Rockstar workers vote on union recognition."
+          }
+        ],
+        "statement": "The launch happened while Rockstar workers were voting on union recognition."
+      }
+    ],
+    "cluster_id": "2026-11-18-dba1be",
+    "cluster_version": 3,
+    "discrepancies": [
+      {
+        "claim_ids": [
+          "c2",
+          "c3"
+        ],
+        "explanation": "An early estimate of $2.3bn in first-day sales differs sharply from Rockstar's later official figure of $3.79bn reported by other outlets.",
+        "kind": "number",
+        "quotes": [
+          {
+            "item_id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+            "outlet": "bbc-technology",
+            "quote": "GTA 6 breaks records as estimated sales top $2.3bn"
+          },
+          {
+            "item_id": "4b3f595fab305b1eb03683654fd165e38ee83e4f",
+            "outlet": "theverge",
+            "quote": "GTA VI earned $3.79 billion in its first day of sales"
+          }
+        ],
+        "severity": "high"
+      }
+    ],
+    "generated_at": "2026-11-22T02:45:00Z",
+    "headline": "GTA VI launches worldwide; Rockstar reports $3.79 billion in first-day sales",
+    "model": "claude-sonnet-5",
+    "summary": "Grand Theft Auto VI launched worldwide after 13 years of development. Rockstar Games later announced the game earned $3.79 billion in retail sales on its first day, calling it the biggest entertainment launch in history, after an earlier BBC estimate put first-day sales at just over $2.3 billion. One outlet reported 32.5 million preorder copies sold, and another noted the launch coincided with a Rockstar workers' union vote."
+  },
+  "cluster_id": "2026-11-18-dba1be",
+  "problems": [
+    "quote: not verbatim in theverge 4b3f595fab305b1eb03683654fd165e38ee83e4f's title or lede: 'GTA VI earned $3.79 billion in its first day of sales, which set \u201ca new record for entertainment across any medium,\u201d according to an announcement from Rockstar Games.'"
+  ],
+  "rejected_at": "2026-11-22T02:30:40Z"
+}
