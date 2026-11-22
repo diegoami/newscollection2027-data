@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2361e0929a29e0d7998f1c83504e0e9d8cc15146",
+    "lede": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-22T15:15:25Z",
+    "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+    "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+  },
+  "b": {
+    "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
+    "lede": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
+    "outlet": "zdnet",
+    "published": "2026-11-20T17:03:37Z",
+    "title": "Signal to restrict screenshots over AI agent concerns \u2013 again",
+    "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/"
+  },
+  "score": 0.625705
+}

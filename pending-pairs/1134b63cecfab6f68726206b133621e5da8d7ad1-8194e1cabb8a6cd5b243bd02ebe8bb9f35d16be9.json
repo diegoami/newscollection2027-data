@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1134b63cecfab6f68726206b133621e5da8d7ad1",
+    "lede": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them.",
+    "outlet": "tomshardware",
+    "published": "2026-11-22T12:00:00Z",
+    "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee"
+  },
+  "b": {
+    "item_id": "8194e1cabb8a6cd5b243bd02ebe8bb9f35d16be9",
+    "lede": "Bondholders want SpaceX\u2019s valuable chip collateral kept on Earth and within reach.",
+    "outlet": "arstechnica",
+    "published": "2026-11-20T14:15:21Z",
+    "title": "SpaceX lenders don\u2019t want Elon Musk launching their collateral into space",
+    "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+  },
+  "score": 0.602158
+}
