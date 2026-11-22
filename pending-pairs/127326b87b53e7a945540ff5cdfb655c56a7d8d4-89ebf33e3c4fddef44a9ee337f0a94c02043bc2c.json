@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "127326b87b53e7a945540ff5cdfb655c56a7d8d4",
+    "lede": "We got two very different pictures of Nvidia \u2014 the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return.",
+    "outlet": "techcrunch",
+    "published": "2026-11-21T21:07:42Z",
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+  },
+  "b": {
+    "item_id": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
+    "lede": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-18T01:18:18Z",
+    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+  },
+  "score": 0.658313
+}

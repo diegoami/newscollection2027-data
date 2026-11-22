@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3f23871144f33361ec503a8a137db8418e48d2d7",
+    "lede": "An anthropic mathematician claims to have solved the Riemann hypothesis using Claude.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T16:30:08Z",
+    "title": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+  },
+  "b": {
+    "item_id": "79aefadf4299e78fe83bcdb8d24abe90263b7978",
+    "lede": "Levent Alp\u00f6ge says he worked with Claude to discover a proof of the Riemann Hypothesis.",
+    "outlet": "engadget",
+    "published": "2026-11-21T19:45:01Z",
+    "title": "Anthropic employee claims to have proven the most famous math problem using Claude",
+    "url": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/"
+  },
+  "score": 0.697879
+}

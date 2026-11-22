@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "df0cbaf8a585da39e0e6d30730c218a885885767",
+    "lede": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+    "outlet": "techcrunch",
+    "published": "2026-11-21T18:44:53Z",
+    "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+  },
+  "b": {
+    "item_id": "e9776a8605c6087bf9019d0727b5c42419ff73a9",
+    "lede": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-21T17:42:27Z",
+    "title": "The FBI and USDA were reportedly hacked",
+    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+  },
+  "score": 0.776491
+}
