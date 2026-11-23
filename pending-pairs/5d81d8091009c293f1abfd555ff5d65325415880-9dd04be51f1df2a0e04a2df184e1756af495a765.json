@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d81d8091009c293f1abfd555ff5d65325415880",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T07:44:19Z",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  "b": {
+    "item_id": "9dd04be51f1df2a0e04a2df184e1756af495a765",
+    "lede": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "outlet": "wired",
+    "published": "2026-11-21T13:00:00Z",
+    "title": "The Outages Are Just Getting Started",
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+  },
+  "score": 0.5709
+}
