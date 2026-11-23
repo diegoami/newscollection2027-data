@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19cca4f1450a3e9083b1650de3fe32ecbba3a59a",
+    "lede": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T15:00:10Z",
+    "title": "Still tracking company passwords in spreadsheets? You\u2019re flying blind.",
+    "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/"
+  },
+  "b": {
+    "item_id": "2428b477d259bdd854244855a5281433c2fa6f53",
+    "lede": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+    "outlet": "engadget",
+    "published": "2026-11-22T21:00:00Z",
+    "title": "How Secure Is Your Password? Here's How To Test It",
+    "url": "https://www.engadget.com/2319522/how-secure-is-password/"
+  },
+  "score": 0.747187
+}

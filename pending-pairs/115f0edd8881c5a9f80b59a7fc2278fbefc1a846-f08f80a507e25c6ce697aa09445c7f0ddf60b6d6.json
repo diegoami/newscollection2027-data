@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "115f0edd8881c5a9f80b59a7fc2278fbefc1a846",
+    "lede": "A community-developed project brings DirectX 12 and Vulkan 1.4 support to Microsoft's retired operating system, allowing modern Nvidia, AMD, and Intel graphics cards to work with Windows 7.",
+    "outlet": "tomshardware",
+    "published": "2026-11-22T20:03:52Z",
+    "title": "17-year-old Windows 7 gets unofficial DirectX 12 and Vulkan 1.4 support",
+    "url": "https://www.tomshardware.com/software/windows/17-year-old-windows-7-gets-unofficial-directx-12-and-vulkan-1-4-support-enthusiasts-bring-nvidia-rtx-50-amd-rx-9000-and-intel-arc-gpus-to-the-aging-os"
+  },
+  "b": {
+    "item_id": "f08f80a507e25c6ce697aa09445c7f0ddf60b6d6",
+    "lede": "MSI's EdgeMesa N AI+ brings Nvidia RTX Spark N1X power to a Windows-on-Arm mini PC with 128GB of unified memory, strong local AI performance, and the ability to game on the side. But its high $7,499 price isn't that much cheaper than more versatile DGX Spark systems.",
+    "outlet": "tomshardware",
+    "published": "2026-11-20T12:00:00Z",
+    "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review"
+  },
+  "score": 0.585268
+}
