@@ -1,89 +1,64 @@
 {
   "cluster_id": "2026-11-16-2f8aa6",
-  "cluster_version": 3,
+  "cluster_version": 4,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-22T02:45:00Z",
-  "headline": "Apple adds Mac AI-agent controls as Signal moves to block AI screenshots",
-  "summary": "Apple detailed new macOS permission and disk-access controls limiting what AI agents can do on Macs. Separately, Signal began blocking screenshots by default in its apps to stop AI agents from capturing conversations, extending a restriction it first added because of Microsoft Recall. One outlet said Apple, Google and Microsoft were all criticized for inadequate developer controls against AI agents.",
+  "generated_at": "2026-11-23T02:13:12Z",
+  "headline": "Apple and Signal add new controls to block AI agents from private data",
+  "summary": "Apple detailed new macOS permission and transparency controls, due in macOS 27.3, to limit AI agents' access to Mac systems. Signal separately rolled out screenshot restrictions on iOS and Android to stop AI assistants such as Siri and Gemini from capturing conversations, extending a protection it first added against Microsoft Recall. One outlet also reported that Apple, Google, and Microsoft were criticized for not giving developers adequate AI agent controls.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Apple detailed new permission, warning and transparency controls coming to macOS to address AI-agent risks.",
+      "statement": "Apple detailed new permission and transparency controls for macOS, coming in macOS 27.3, to address risks from AI agents.",
       "sources": [
-        {
-          "outlet": "techcrunch",
-          "item_id": "a59dd1871e2ff467ab262761849d8835168d2752",
-          "quote": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps."
-        }
+        {"outlet": "techcrunch", "item_id": "a59dd1871e2ff467ab262761849d8835168d2752", "quote": "Apple reveals new Mac security controls as AI agents raise privacy risks"},
+        {"outlet": "engadget", "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c", "quote": "Apple is taking steps to limit Mac disk access to AI agents."}
       ]
     },
     {
       "id": "c2",
-      "statement": "Apple's new controls will limit AI agents' access to Mac disk storage.",
+      "statement": "Signal is restricting screenshots on iOS and Android to stop AI assistants from capturing conversations.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "50f7a7d50961849d2c9d7b08dff48ea4b6fe214c",
-          "quote": "Apple adds new disk controls to prevent AI agents from running amok"
-        }
+        {"outlet": "techcrunch", "item_id": "8d54d4add32f2fcc18ba896b2e54d2542ce6a73e", "quote": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."},
+        {"outlet": "bleepingcomputer", "item_id": "2361e0929a29e0d7998f1c83504e0e9d8cc15146", "quote": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"},
+        {"outlet": "zdnet", "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44", "quote": "Signal to restrict screenshots over AI agent concerns"},
+        {"outlet": "engadget", "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d", "quote": "Signal now blocks screenshots by default to stymie AI agents"},
+        {"outlet": "theregister", "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64", "quote": "Signal slams door on prying AI agents to protect privacy"}
       ]
     },
     {
       "id": "c3",
-      "statement": "Signal is restricting or blocking screenshots in its apps to limit AI agents' ability to capture content.",
+      "statement": "Signal previously limited screenshots over concerns about Microsoft Recall.",
       "sources": [
-        {
-          "outlet": "zdnet",
-          "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
-          "quote": "Signal to restrict screenshots over AI agent concerns – again"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d",
-          "quote": "Signal now blocks screenshots by default to stymie AI agents"
-        },
-        {
-          "outlet": "techcrunch",
-          "item_id": "8d54d4add32f2fcc18ba896b2e54d2542ce6a73e",
-          "quote": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-        }
+        {"outlet": "zdnet", "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44", "quote": "The messaging app similarly limited screenshots because of Microsoft Recall last year."}
       ]
     },
     {
       "id": "c4",
-      "statement": "Signal previously limited screenshots because of Microsoft Recall.",
+      "statement": "Apple, Google, and Microsoft were criticized for not giving developers adequate AI agent controls.",
       "sources": [
-        {
-          "outlet": "zdnet",
-          "item_id": "be6af8d0ab8744b796a865e5b09bb59c0aadca44",
-          "quote": "The messaging app similarly limited screenshots because of Microsoft Recall last year."
-        }
+        {"outlet": "theregister", "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64", "quote": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls"}
       ]
     },
     {
       "id": "c5",
-      "statement": "Critics said Signal's fix is incomplete and called for an opt-out mechanism for developers.",
+      "statement": "One outlet described Signal's screenshot fix as incomplete and called for a developer opt-out from AI snooping.",
       "sources": [
-        {
-          "outlet": "engadget",
-          "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d",
-          "quote": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping."
-        }
-      ]
-    },
-    {
-      "id": "c6",
-      "statement": "Apple, Google and Microsoft were criticized for failing to give developers adequate AI-agent controls.",
-      "sources": [
-        {
-          "outlet": "theregister",
-          "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
-          "quote": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls"
-        }
+        {"outlet": "engadget", "item_id": "8b01df53dfdaf6265ef103769464962af2a9859d", "quote": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping."}
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": ["c1", "c4"],
+      "explanation": "TechCrunch frames Apple's new controls as addressing AI agent privacy risks, while The Register frames Apple as having failed to give developers adequate AI agent controls.",
+      "quotes": [
+        {"outlet": "techcrunch", "item_id": "a59dd1871e2ff467ab262761849d8835168d2752", "quote": "Apple reveals new Mac security controls as AI agents raise privacy risks"},
+        {"outlet": "theregister", "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64", "quote": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls"}
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

@@ -1,18 +1,40 @@
 {
   "cluster_id": "2026-11-20-dac7f0",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-21T02:19:17Z",
-  "headline": "SpaceX lenders object to launching chip collateral into orbit",
-  "summary": "SpaceX's lenders and bondholders object to the company launching its chip collateral into space, wanting it kept on Earth and within reach instead.",
+  "generated_at": "2026-11-23T02:13:12Z",
+  "headline": "Lenders worry SpaceX's orbital chip collateral would be unreachable if Musk defaults",
+  "summary": "In a $43 billion Nvidia GPU financing deal for SpaceX, a separate company buys the chips while SpaceX pays quarterly to use them. Lenders are reportedly uneasy that if the chips are launched into orbit for space data centers, the collateral could become impossible to reclaim should SpaceX default, so bondholders want the collateral kept on Earth and within reach.",
   "claims": [
     {
       "id": "c1",
-      "statement": "SpaceX's lenders do not want their chip collateral launched into orbit.",
+      "statement": "Lenders are worried SpaceX could launch their chip collateral into orbit, making it hard to reclaim if Musk defaults.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "8194e1cabb8a6cd5b243bd02ebe8bb9f35d16be9", "quote": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."},
-        {"outlet": "techcrunch", "item_id": "079373956374b3c38a44bc0811e162b18c7238e2", "quote": "Lenders don't want SpaceX shooting their collateral into orbit."}
+        {"outlet": "arstechnica", "item_id": "8194e1cabb8a6cd5b243bd02ebe8bb9f35d16be9", "quote": "SpaceX lenders don’t want Elon Musk launching their collateral into space"},
+        {"outlet": "techcrunch", "item_id": "079373956374b3c38a44bc0811e162b18c7238e2", "quote": "Lenders don't want SpaceX shooting their collateral into orbit."},
+        {"outlet": "tomshardware", "item_id": "1134b63cecfab6f68726206b133621e5da8d7ad1", "quote": "worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The $43 billion loan is structured so a different company buys the Nvidia chips while SpaceX makes quarterly payments to use them.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "1134b63cecfab6f68726206b133621e5da8d7ad1", "quote": "The $43 billion loan is structured as a unique arrangement in which a different company buys the Nvidia chips, while SpaceX makes quarterly payments to use them."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The financing concern extends to space data centers more broadly, not just this one deal.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "079373956374b3c38a44bc0811e162b18c7238e2", "quote": "What does that mean for space data centers writ large?"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Bondholders want the chip collateral kept on Earth and within reach.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "8194e1cabb8a6cd5b243bd02ebe8bb9f35d16be9", "quote": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach."}
       ]
     }
   ],
