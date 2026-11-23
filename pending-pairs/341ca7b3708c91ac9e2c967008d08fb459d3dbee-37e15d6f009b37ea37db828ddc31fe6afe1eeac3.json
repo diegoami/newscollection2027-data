@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "341ca7b3708c91ac9e2c967008d08fb459d3dbee",
+    "lede": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It\u2019s a bad idea.",
+    "outlet": "wired",
+    "published": "2026-11-20T16:00:00Z",
+    "title": "Don\u2019t Bring Jensen Back",
+    "url": "https://www.wired.com/story/dont-bring-jensen-back/"
+  },
+  "b": {
+    "item_id": "37e15d6f009b37ea37db828ddc31fe6afe1eeac3",
+    "lede": "BoomerHuang CEO returns",
+    "outlet": "theregister",
+    "published": "2026-11-23T14:35:50Z",
+    "title": "Nvidia board puts Jensen Huang back as boss",
+    "url": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674"
+  },
+  "score": 0.632012
+}

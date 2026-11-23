@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "99727b65c29013d05b70e741fec154eec257fafa",
+    "lede": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "outlet": "arstechnica",
+    "published": "2026-11-20T20:59:08Z",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+  },
+  "b": {
+    "item_id": "ad3d2932dda18cd65b8ac463d46ec85f4b173ef9",
+    "lede": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T20:00:20Z",
+    "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+    "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/"
+  },
+  "score": 0.570452
+}

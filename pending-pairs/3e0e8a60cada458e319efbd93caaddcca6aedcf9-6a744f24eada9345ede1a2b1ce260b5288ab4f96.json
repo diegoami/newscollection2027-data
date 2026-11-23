@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3e0e8a60cada458e319efbd93caaddcca6aedcf9",
+    "lede": "CISA, F6 sound the alarm after PoC exploit made public",
+    "outlet": "theregister",
+    "published": "2026-11-23T17:56:56Z",
+    "title": "Critical Cisco remote code execution bug under attack",
+    "url": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722"
+  },
+  "b": {
+    "item_id": "6a744f24eada9345ede1a2b1ce260b5288ab4f96",
+    "lede": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T10:57:43Z",
+    "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+    "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+  },
+  "score": 0.678792
+}

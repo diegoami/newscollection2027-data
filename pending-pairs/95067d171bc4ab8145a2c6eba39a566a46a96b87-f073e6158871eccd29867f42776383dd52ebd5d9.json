@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "95067d171bc4ab8145a2c6eba39a566a46a96b87",
+    "lede": "The president wants U.S. data center companies to stay within U.S. borders or pay a hefty fee if they want to build in foreign countries.",
+    "outlet": "tomshardware",
+    "published": "2026-11-21T16:29:39Z",
+    "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition"
+  },
+  "b": {
+    "item_id": "f073e6158871eccd29867f42776383dd52ebd5d9",
+    "lede": "President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work",
+    "outlet": "theregister",
+    "published": "2026-11-23T13:40:00Z",
+    "title": "Trump says he won't allow US companies to build datacenters abroad",
+    "url": "https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640"
+  },
+  "score": 0.678764
+}

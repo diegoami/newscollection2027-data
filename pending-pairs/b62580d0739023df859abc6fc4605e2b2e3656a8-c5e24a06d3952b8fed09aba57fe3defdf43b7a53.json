@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "b62580d0739023df859abc6fc4605e2b2e3656a8",
+    "lede": "China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter",
+    "outlet": "theregister",
+    "published": "2026-11-23T04:39:19Z",
+    "title": "Google claims last week\u2019s critical VMware bug was under attack in September",
+    "url": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+  },
+  "b": {
+    "item_id": "c5e24a06d3952b8fed09aba57fe3defdf43b7a53",
+    "lede": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T00:26:25Z",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+  },
+  "score": 0.632729
+}

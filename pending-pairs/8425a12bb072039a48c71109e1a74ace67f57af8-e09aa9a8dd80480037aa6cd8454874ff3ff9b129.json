@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8425a12bb072039a48c71109e1a74ace67f57af8",
+    "lede": "The company\u2019s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+    "outlet": "wired",
+    "published": "2026-11-23T14:27:35Z",
+    "title": "Jensen Huang Is Back as Nvidia CEO",
+    "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+  },
+  "b": {
+    "item_id": "e09aa9a8dd80480037aa6cd8454874ff3ff9b129",
+    "lede": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+    "outlet": "arstechnica",
+    "published": "2026-11-23T15:46:18Z",
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+  },
+  "score": 0.734514
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4be13f5936eab78fe8236a5b9b27e908619fa652",
+    "lede": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T13:28:45Z",
+    "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
+  },
+  "b": {
+    "item_id": "d23101ba3a41c903245f9dc5eb7cf276e739e48a",
+    "lede": "Connecting Bluetooth headphones to your Xbox Series X can be frustrating due to incompatibility. However, there are a few workarounds to solve this problem.",
+    "outlet": "engadget",
+    "published": "2026-11-23T19:30:00Z",
+    "title": "How to connect your Bluetooth headphones to your Xbox Series X",
+    "url": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/"
+  },
+  "score": 0.643922
+}

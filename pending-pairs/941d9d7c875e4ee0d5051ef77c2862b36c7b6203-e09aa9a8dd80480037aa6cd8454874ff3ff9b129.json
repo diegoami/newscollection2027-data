@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "941d9d7c875e4ee0d5051ef77c2862b36c7b6203",
+    "lede": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-23T16:12:35Z",
+    "title": "How important are Nvidia and Jensen Huang to the US economy?",
+    "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo"
+  },
+  "b": {
+    "item_id": "e09aa9a8dd80480037aa6cd8454874ff3ff9b129",
+    "lede": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+    "outlet": "arstechnica",
+    "published": "2026-11-23T15:46:18Z",
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+  },
+  "score": 0.586947
+}

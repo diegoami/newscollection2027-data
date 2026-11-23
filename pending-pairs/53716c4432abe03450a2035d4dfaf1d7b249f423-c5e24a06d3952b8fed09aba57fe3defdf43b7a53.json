@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423",
+    "lede": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T19:42:20Z",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+  },
+  "b": {
+    "item_id": "c5e24a06d3952b8fed09aba57fe3defdf43b7a53",
+    "lede": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-20T00:26:25Z",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+  },
+  "score": 0.598539
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "37e15d6f009b37ea37db828ddc31fe6afe1eeac3",
+    "lede": "BoomerHuang CEO returns",
+    "outlet": "theregister",
+    "published": "2026-11-23T14:35:50Z",
+    "title": "Nvidia board puts Jensen Huang back as boss",
+    "url": "https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674"
+  },
+  "b": {
+    "item_id": "e09aa9a8dd80480037aa6cd8454874ff3ff9b129",
+    "lede": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+    "outlet": "arstechnica",
+    "published": "2026-11-23T15:46:18Z",
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+  },
+  "score": 0.679824
+}

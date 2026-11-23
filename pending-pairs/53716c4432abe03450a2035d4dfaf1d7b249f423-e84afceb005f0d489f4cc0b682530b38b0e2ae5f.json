@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423",
+    "lede": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T19:42:20Z",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+  },
+  "b": {
+    "item_id": "e84afceb005f0d489f4cc0b682530b38b0e2ae5f",
+    "lede": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-22T18:45:37Z",
+    "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+  },
+  "score": 0.570079
+}

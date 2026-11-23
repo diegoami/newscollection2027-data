@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
+    "lede": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T20:54:12Z",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+  },
+  "b": {
+    "item_id": "f073e6158871eccd29867f42776383dd52ebd5d9",
+    "lede": "President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work",
+    "outlet": "theregister",
+    "published": "2026-11-23T13:40:00Z",
+    "title": "Trump says he won't allow US companies to build datacenters abroad",
+    "url": "https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640"
+  },
+  "score": 0.654121
+}

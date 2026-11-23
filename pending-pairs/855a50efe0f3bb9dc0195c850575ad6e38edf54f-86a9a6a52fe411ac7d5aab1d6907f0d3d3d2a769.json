@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "855a50efe0f3bb9dc0195c850575ad6e38edf54f",
+    "lede": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-22T15:43:04Z",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+  },
+  "b": {
+    "item_id": "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769",
+    "lede": "Payments platform hasn't disclosed how the data was captured or the scale of the breach",
+    "outlet": "theregister",
+    "published": "2026-11-23T11:48:00Z",
+    "title": "Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573"
+  },
+  "score": 0.801021
+}

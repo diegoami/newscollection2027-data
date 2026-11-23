@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "3a0cb236fd3220dadae4a6fd3e0ec1c41d437991",
+    "lede": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-20T18:50:19Z",
+    "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+  },
+  "b": {
+    "item_id": "f073e6158871eccd29867f42776383dd52ebd5d9",
+    "lede": "President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work",
+    "outlet": "theregister",
+    "published": "2026-11-23T13:40:00Z",
+    "title": "Trump says he won't allow US companies to build datacenters abroad",
+    "url": "https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640"
+  },
+  "score": 0.778388
+}
