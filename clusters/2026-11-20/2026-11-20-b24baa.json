@@ -1,0 +1,24 @@
+{
+  "anchor": "c4b0222f29f2f6aecc6784f862973faaca739a6c",
+  "id": "2026-11-20-b24baa",
+  "items": [
+    {
+      "item_id": "c4b0222f29f2f6aecc6784f862973faaca739a6c",
+      "lede": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?",
+      "outlet": "arstechnica",
+      "published": "2026-11-20T21:47:10Z",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    },
+    {
+      "item_id": "982123aceb9bba6b15f596e55b26dbae196de87f",
+      "lede": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "outlet": "techcrunch",
+      "published": "2026-11-23T17:13:45Z",
+      "title": "Meta throws out its net-zero goal \u2014 its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

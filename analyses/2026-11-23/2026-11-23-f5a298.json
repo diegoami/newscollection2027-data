@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-23-f5a298",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "CISA warns critical Cisco RCE flaw now under active exploitation",
+  "summary": "CISA has warned federal agencies that attackers are actively exploiting a recently patched critical remote code execution vulnerability in Cisco Expressway. The Register reports that CISA and F6 raised the alarm after a proof-of-concept exploit was made public.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "CISA says a critical Cisco Expressway remote code execution flaw is being actively exploited in attacks.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "5d81d8091009c293f1abfd555ff5d65325415880", "quote": "CISA flags critical Cisco RCE flaw as actively exploited in attacks"},
+        {"outlet": "theregister", "item_id": "3e0e8a60cada458e319efbd93caaddcca6aedcf9", "quote": "Critical Cisco remote code execution bug under attack"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "CISA warned federal agencies that attackers are exploiting a recently patched Cisco Expressway vulnerability.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "5d81d8091009c293f1abfd555ff5d65325415880", "quote": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "CISA and F6 raised the alarm after a proof-of-concept exploit was made public.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "3e0e8a60cada458e319efbd93caaddcca6aedcf9", "quote": "CISA, F6 sound the alarm after PoC exploit made public"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

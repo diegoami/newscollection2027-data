@@ -1,0 +1,24 @@
+{
+  "anchor": "c82dcfbd0de1cf61b0354fd688cb7e34680a8630",
+  "id": "2026-11-23-cf18e2",
+  "items": [
+    {
+      "item_id": "c82dcfbd0de1cf61b0354fd688cb7e34680a8630",
+      "lede": "The attorneys general of Oregon and Virginia are suing several of Elon Musk\u2019s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+      "outlet": "wired",
+      "published": "2026-11-23T11:00:00Z",
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+    },
+    {
+      "item_id": "6c80453d9c991e4b0de07314d0bb627f9708118b",
+      "lede": "Oregon and Virginia's attorneys general said the company broke state consumer protection laws.",
+      "outlet": "engadget",
+      "published": "2026-11-23T15:57:49Z",
+      "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
+      "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

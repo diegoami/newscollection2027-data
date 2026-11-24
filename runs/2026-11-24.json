@@ -1,0 +1,190 @@
+{
+  "agent_seconds": 1182.099,
+  "counts": {
+    "analyses_total": 794,
+    "analyses_written": 16,
+    "clusters": 815,
+    "judgments": 11373,
+    "pending": 0,
+    "rejected": 95,
+    "unjudged_pairs": 0
+  },
+  "date": "2026-11-24",
+  "duration_seconds": 1276.175,
+  "finished_at": "2026-11-24T02:28:04Z",
+  "note": "",
+  "started_at": "2026-11-24T02:06:48Z",
+  "status": "ok",
+  "steps": [
+    {
+      "name": "sync pull",
+      "ok": true,
+      "seconds": 0.339
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 60.151
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.797
+    },
+    {
+      "name": "judge",
+      "ok": false,
+      "seconds": 0.682
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.771
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 3.153
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.733
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.696
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.707
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.718
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.749
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.782
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.697
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.619
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.729
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.816
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.841
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.918
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.718
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 0.8
+    },
+    {
+      "name": "judge",
+      "ok": true,
+      "seconds": 1.748
+    },
+    {
+      "name": "cluster",
+      "ok": true,
+      "seconds": 0.977
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.029
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.03
+    },
+    {
+      "name": "validate",
+      "ok": false,
+      "seconds": 0.676
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.03
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.05
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.033
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.03
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.038
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.032
+    },
+    {
+      "name": "pending",
+      "ok": true,
+      "seconds": 0.029
+    },
+    {
+      "name": "validate",
+      "ok": true,
+      "seconds": 0.038
+    },
+    {
+      "name": "build",
+      "ok": true,
+      "seconds": 0.92
+    }
+  ]
+}

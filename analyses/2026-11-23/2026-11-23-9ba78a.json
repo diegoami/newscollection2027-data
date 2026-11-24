@@ -1,0 +1,43 @@
+{
+  "cluster_id": "2026-11-23-9ba78a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Azure API Management flaw exploited, linked to Norway energy attacks",
+  "summary": "A security vulnerability in Azure API Management Classic tiers was exploited to steal customers' stored API credentials. Norwegian authorities have linked the flaw to cyberattacks against energy companies. Microsoft says mitigation is in place but is telling admins to investigate possible compromise and rotate secrets.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A flaw in Azure API Management was exploited to steal customers' API credentials.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "9d23693381162a5275c39d31de2818c36ad94dbc", "quote": "Norway links energy firm cyberattacks to critical Azure API Management flaw"},
+        {"outlet": "bleepingcomputer", "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423", "quote": "Microsoft Azure flaw exploited to steal customers' API credentials"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Norwegian authorities have linked the flaw to cyberattacks against energy companies.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "9d23693381162a5275c39d31de2818c36ad94dbc", "quote": "Norway links energy firm cyberattacks to critical Azure API Management flaw"},
+        {"outlet": "bleepingcomputer", "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423", "quote": "with Norwegian authorities linking the flaw to cyberattacks against energy companies"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Microsoft says mitigation is in place but admins must investigate possible compromise and rotate secrets.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "9d23693381162a5275c39d31de2818c36ad94dbc", "quote": "Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The vulnerability specifically affects Azure API Management (APIM) Classic tiers.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423", "quote": "a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

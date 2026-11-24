@@ -1,0 +1,44 @@
+{
+  "cluster_id": "2026-11-20-025465",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Google to retire Nest app and Google Assistant on smart speakers in 2027",
+  "summary": "Google is shutting down the Nest app in favor of the Google Home app and retiring Google Assistant from smart speakers and displays. The Nest app shutdown is scheduled for January 25th, 2027, and outlets are advising users on how to transfer or save their data before then.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Google is retiring the Nest app in favor of the Google Home app.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d1e87ef3ac123454dc679da676d2acfed8ebd165", "quote": "will shut down the Nest app in favor of the Google Home app"},
+        {"outlet": "engadget", "item_id": "f54d493d94d6de590a8f38f5b351e7eef569b150", "quote": "Google is finally retiring the Nest app early next year"},
+        {"outlet": "zdnet", "item_id": "9fce426e159c1cffdc0ef211b6bf98b53f525225", "quote": "Google is retiring the Nest app in favor of the Google Home app."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Google is also retiring Google Assistant from smart speakers and displays.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d1e87ef3ac123454dc679da676d2acfed8ebd165", "quote": "Google says it’s going to shut off Google Assistant on smart speakers next year"},
+        {"outlet": "engadget", "item_id": "f54d493d94d6de590a8f38f5b351e7eef569b150", "quote": "It's also removing Google Assistant from smart speakers and displays."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Nest app shutdown is scheduled for January 25th, 2027.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "d1e87ef3ac123454dc679da676d2acfed8ebd165", "quote": "The Nest app shutdown takes place on January 25th, 2027"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "ZDNet is advising users how to save their Nest app data before the shutdown.",
+      "sources": [
+        {"outlet": "zdnet", "item_id": "9fce426e159c1cffdc0ef211b6bf98b53f525225", "quote": "How to save your Google Nest app videos before the January shutdown"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

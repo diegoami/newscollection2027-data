@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-23-a5aad4",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Reports say Russia is readying a nuclear-armed anti-satellite weapon",
+  "summary": "Intelligence agencies believe Russia has spent years developing Sputnik-S, a nuclear-armed satellite that could destroy rival satellites in low-Earth orbit. Tom's Hardware reports it is expected to launch before the end of 2026, while Ars Technica reports it could launch as soon as next month. Ars Technica notes a nuclear detonation in space could degrade thousands of satellites.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Intelligence reports say Russia has been developing a nuclear-armed satellite capable of destroying other satellites in orbit.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "5a939ccdb541269a2fb6fb191e95124aac152f4f", "quote": "Russia readying nuclear-armed satellite that could destroy every low-Earth-orbit satellite, report claims"},
+        {"outlet": "arstechnica", "item_id": "34d720d7557eb60d0cfe1c39101259e48d1409d1", "quote": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The satellite, known as Sputnik-S, has reportedly been in development for several years and is expected to launch before the end of 2026.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "5a939ccdb541269a2fb6fb191e95124aac152f4f", "quote": "Russia has spent the last several years readying Sputnik-S"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A nuclear detonation in space could cause rapid loss or degradation of thousands of satellites.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "34d720d7557eb60d0cfe1c39101259e48d1409d1", "quote": "could cause rapid and sudden loss or degradation of thousands of satellites"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Tom's Hardware reports the satellite is expected to launch before the end of 2026, while Ars Technica reports it could launch as soon as next month.",
+      "claim_ids": ["c2"],
+      "quotes": [
+        {"outlet": "tomshardware", "item_id": "5a939ccdb541269a2fb6fb191e95124aac152f4f", "quote": "it's expected to launch before the end of 2026"},
+        {"outlet": "arstechnica", "item_id": "34d720d7557eb60d0cfe1c39101259e48d1409d1", "quote": "Reports: Russia may launch nuclear weapon into orbit as soon as next month"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

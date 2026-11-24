@@ -25,8 +25,16 @@
       "published": "2026-11-21T16:29:39Z",
       "title": "Trump wants to ban US companies from building overseas data centers as bans slow development",
       "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition"
+    },
+    {
+      "item_id": "f073e6158871eccd29867f42776383dd52ebd5d9",
+      "lede": "President threatens 'tremendous tax' on overseas builds, but analysts question how restrictions would work",
+      "outlet": "theregister",
+      "published": "2026-11-23T13:40:00Z",
+      "title": "Trump says he won't allow US companies to build datacenters abroad",
+      "url": "https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

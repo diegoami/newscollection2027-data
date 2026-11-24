@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-23-f80095",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Kodak's SlideTag photo frame doubles as an AirTag-style tracker",
+  "summary": "Kodak's new SlideTag is a tiny digital photo frame that also functions as a tracker, similar to an AirTag. It follows Reto's small Kodak Charmera camera, and the SlideTag will be sold in a blind box with nine different designs.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Kodak SlideTag is a tiny digital photo frame that also works as a tracker.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "fa0361298b0609e5a721e94a0ffed1fb7a7d55a2", "quote": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker"},
+        {"outlet": "engadget", "item_id": "bd33ed28bba7aa57d1aab342d041eef8bd76f6b0", "quote": "Kodak's SlideTag combines a digital photo frame and an AirTag"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The SlideTag follows Reto's tiny Kodak Charmera camera as a similarly small device.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "fa0361298b0609e5a721e94a0ffed1fb7a7d55a2", "quote": "Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The SlideTag will be sold in a blind box with nine fun designs.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "bd33ed28bba7aa57d1aab342d041eef8bd76f6b0", "quote": "The SlideTag will come in a blind box with nine fun designs."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

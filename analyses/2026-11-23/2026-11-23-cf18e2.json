@@ -1,0 +1,46 @@
+{
+  "cluster_id": "2026-11-23-cf18e2",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Oregon and Virginia sue SpaceX over sexually explicit Grok deepfakes",
+  "summary": "Oregon and Virginia's attorneys general are suing SpaceX over sexually explicit Grok deepfakes, alleging weak safeguards against sexualized imagery of real people, including children, and that the company broke state consumer protection laws. Wired reports the suit targets several of Elon Musk's companies, while Engadget describes it as targeting the one company.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Oregon and Virginia's attorneys general are suing SpaceX over sexually explicit Grok deepfakes.",
+      "sources": [
+        {"outlet": "wired", "item_id": "c82dcfbd0de1cf61b0354fd688cb7e34680a8630", "quote": "States Sue SpaceX Over Grok Deepfakes"},
+        {"outlet": "engadget", "item_id": "6c80453d9c991e4b0de07314d0bb627f9708118b", "quote": "Two states sue SpaceX over sexually explicit Grok deepfakes"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The suit alleges weak safeguards against sexualized imagery of real people, including children.",
+      "sources": [
+        {"outlet": "wired", "item_id": "c82dcfbd0de1cf61b0354fd688cb7e34680a8630", "quote": "alleging they implemented weak safeguards against sexualized imagery of real people, including children"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The attorneys general say the company broke state consumer protection laws.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "6c80453d9c991e4b0de07314d0bb627f9708118b", "quote": "Oregon and Virginia's attorneys general said the company broke state consumer protection laws."}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "low",
+      "explanation": "Wired reports the suit names several of Elon Musk's companies, while Engadget's lede refers only to the one company being sued.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "wired", "item_id": "c82dcfbd0de1cf61b0354fd688cb7e34680a8630", "quote": "are suing several of Elon Musk’s companies"},
+        {"outlet": "engadget", "item_id": "6c80453d9c991e4b0de07314d0bb627f9708118b", "quote": "Oregon and Virginia's attorneys general said the company broke state consumer protection laws."}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

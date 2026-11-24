@@ -1,0 +1,39 @@
+{
+  "cluster_id": "2026-11-22-af5ad8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Cleverbridge confirms hackers stole credit card and CVV numbers",
+  "summary": "Cleverbridge is warning customers that hackers breached its systems and stole payment card data, including credit card numbers and CVV security codes. The Register reports that Cleverbridge has not disclosed how the data was captured or the scale of the breach.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Hackers stole Cleverbridge customers' credit card numbers and CVV security codes.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "855a50efe0f3bb9dc0195c850575ad6e38edf54f", "quote": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach"},
+        {"outlet": "theregister", "item_id": "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769", "quote": "Cleverbridge admits attackers stole customers' credit card and CVV numbers"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Cleverbridge has not disclosed how the data was captured or the scale of the breach.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769", "quote": "Payments platform hasn't disclosed how the data was captured or the scale of the breach"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "BleepingComputer describes Cleverbridge as an e-commerce platform, while The Register characterizes it as a payments platform.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "bleepingcomputer", "item_id": "855a50efe0f3bb9dc0195c850575ad6e38edf54f", "quote": "E-commerce platform Cleverbridge is warning that hackers breached its systems"},
+        {"outlet": "theregister", "item_id": "86a9a6a52fe411ac7d5aab1d6907f0d3d3d2a769", "quote": "Payments platform hasn't disclosed how the data was captured"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

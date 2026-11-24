@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-23-646eae",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "GTA 6 hacker released on licence after guilty plea",
+  "summary": "Arion Kurtaj, 21, who pleaded guilty to the Rockstar Games hack and other offenses committed as a teenager, has been released on licence. A judge warned him not to let it happen again.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The hacker behind the GTA 6 leak has been released after pleading guilty.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "89f46f6bc2614d82b1025f7cc046ae7aae67a68d", "quote": "GTA 6 hacker released on licence with warning 'don't let this happen again'"},
+        {"outlet": "engadget", "item_id": "154cfbbe2bffba8f1d4c34540c891f4f1752e83d", "quote": "The infamous GTA 6 hacker has been released after pleading guilty"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and other offenses he carried out as a teenager.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "89f46f6bc2614d82b1025f7cc046ae7aae67a68d", "quote": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "A judge warned the hacker not to let this happen again.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "154cfbbe2bffba8f1d4c34540c891f4f1752e83d", "quote": "A judge warned the hacker not to \"let this happen again.\""}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,36 @@
+{
+  "cluster_id": "2026-11-23-801de0",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Anthropic launches Claude Ship to let AI agents review and fix code",
+  "summary": "Anthropic has launched Claude Ship, a new product letting Claude AI agents review, fix and approve pull requests and ship code changes on their own. The feature builds on Claude's existing Code Review capability, and TechCrunch notes it aims to remove a routine-approval bottleneck as AI-generated code piles up.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Anthropic's new Claude Ship lets Claude AI agents review, fix and approve pull requests and ship code changes.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "49ef9cf5084cd81be3d8fae177f58a2dec453603", "quote": "Claude AI can review pull requests and ship fixes on its own now"},
+        {"outlet": "techcrunch", "item_id": "27065c561fbc5a7f071e179bcb981a859fd5628e", "quote": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"},
+        {"outlet": "zdnet", "item_id": "159f7e3e33dfc507f7d209e57bba5cdc015ca8ad", "quote": "Claude can ship code for you now"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The feature builds on Claude's existing Code Review capability, which already let Claude review and fix pull requests.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "49ef9cf5084cd81be3d8fae177f58a2dec453603", "quote": "Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The new tools aim to remove a bottleneck of routine approvals as AI-generated code piles up.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "27065c561fbc5a7f071e179bcb981a859fd5628e", "quote": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

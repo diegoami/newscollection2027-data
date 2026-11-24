@@ -1,0 +1,24 @@
+{
+  "anchor": "23de3667e273dfc78f7c46aa62ca7157a7ff1c0c",
+  "id": "2026-11-23-e99254",
+  "items": [
+    {
+      "item_id": "23de3667e273dfc78f7c46aa62ca7157a7ff1c0c",
+      "lede": "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app.",
+      "outlet": "techcrunch",
+      "published": "2026-11-23T14:00:00Z",
+      "title": "Uber now lets you book rides that record the drive by default",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/"
+    },
+    {
+      "item_id": "8c5069acf5115d72156a605a55501fb2024ec32c",
+      "lede": "Uber's Recorded Rides option is rolling out to Baltimore, Raleigh, Indianapolis and St. Louis first.",
+      "outlet": "engadget",
+      "published": "2026-11-23T18:24:49Z",
+      "title": "Uber now lets riders request drivers who are recording their trips",
+      "url": "https://www.engadget.com/2325472/uber-now-lets-riders-request-drivers-who-are-recording-their-trips/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-20-b24baa",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Meta reconsiders 2030 net-zero goal amid AI data center emissions",
+  "summary": "Meta is reconsidering its 2030 net-zero sustainability goal following record emissions from AI data centers, according to its 2026 sustainability report. Ars Technica describes the goal as being re-evaluated, while TechCrunch reports Meta has already walked it back, and both outlets note the decision could affect other tech companies' climate commitments.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta is reconsidering or has walked back its 2030 net-zero goal.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c4b0222f29f2f6aecc6784f862973faaca739a6c", "quote": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"},
+        {"outlet": "techcrunch", "item_id": "982123aceb9bba6b15f596e55b26dbae196de87f", "quote": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "This move could influence or affect other companies in the tech industry.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "c4b0222f29f2f6aecc6784f862973faaca739a6c", "quote": "Will others follow?"},
+        {"outlet": "techcrunch", "item_id": "982123aceb9bba6b15f596e55b26dbae196de87f", "quote": "a decision that could send ripples throughout the tech industry"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "Ars Technica frames the goal as still being re-evaluated, while TechCrunch's headline reports it has already been thrown out.",
+      "claim_ids": ["c1"],
+      "quotes": [
+        {"outlet": "arstechnica", "item_id": "c4b0222f29f2f6aecc6784f862973faaca739a6c", "quote": "re-evaluating"},
+        {"outlet": "techcrunch", "item_id": "982123aceb9bba6b15f596e55b26dbae196de87f", "quote": "Meta throws out its net-zero goal"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -25,8 +25,24 @@
       "published": "2026-11-21T21:59:31Z",
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
       "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+    },
+    {
+      "item_id": "5158548f46fe6e7c37f5ffcb813d1512141ee61e",
+      "lede": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic.",
+      "outlet": "engadget",
+      "published": "2026-11-23T09:35:53Z",
+      "title": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+      "url": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/"
+    },
+    {
+      "item_id": "f46bae4b16286eb37c1f0ba5f2e3d49c4b89b669",
+      "lede": "Amazon now uses its packages for political purposes.",
+      "outlet": "arstechnica",
+      "published": "2026-11-23T19:38:13Z",
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

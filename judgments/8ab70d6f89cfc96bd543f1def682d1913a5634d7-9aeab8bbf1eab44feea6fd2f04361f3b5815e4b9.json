@@ -1,0 +1,1 @@
+{"backend": "claude_code", "item_id_a": "8ab70d6f89cfc96bd543f1def682d1913a5634d7", "item_id_b": "9aeab8bbf1eab44feea6fd2f04361f3b5815e4b9", "judged_at": "2026-11-24T02:19:28Z", "model": "claude-sonnet-5", "pair_id": "8ab70d6f89cfc96bd543f1def682d1913a5634d7-9aeab8bbf1eab44feea6fd2f04361f3b5815e4b9", "reason": "Opinion column vs stock-reaction news report.", "same_story": false}

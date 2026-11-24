@@ -1,0 +1,42 @@
+{
+  "cluster_id": "2026-11-23-e3a5bc",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Megaspeed heads for US blacklist after Nvidia chip-smuggling scandal",
+  "summary": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist that would bar it from doing business with US companies without a special federal license. The company has been accused of funneling AI chips to China after a former executive's affair with Huang became public.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Megaspeed appears headed for a US blacklist tied to the Jensen Huang scandal.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9d1f6a725104cec1c99d83713b648c4cdaa6751b", "quote": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"},
+        {"outlet": "bbc-technology", "item_id": "3c7214ece71fcc2e37d8038621ac384738cfe870", "quote": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Being blacklisted would bar Megaspeed from doing business with US companies unless those companies obtain a special federal license.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9d1f6a725104cec1c99d83713b648c4cdaa6751b", "quote": "would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "3c7214ece71fcc2e37d8038621ac384738cfe870", "quote": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The techcrunch report notes Megaspeed was previously led by Alice Huang.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "9d1f6a725104cec1c99d83713b648c4cdaa6751b", "quote": "Megaspeed, which was previously led by Alice Huang"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

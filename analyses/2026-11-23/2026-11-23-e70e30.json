@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-23-e70e30",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-24T02:21:27Z",
+  "headline": "Nvidia's Jensen Huang scheduled to testify before Senate on December 3",
+  "summary": "Nvidia CEO Jensen Huang is scheduled to testify publicly before senators on December 3, following his reinstatement as CEO. TechCrunch reports the public hearing follows bipartisan calls for Huang to testify about his affair with a suspected Chinese spy.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Jensen Huang is scheduled to testify before the Senate following his reinstatement as Nvidia CEO.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "a2f14d06f82b7f3a79c022f0d975e49b1ccbfddd", "quote": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"},
+        {"outlet": "engadget", "item_id": "1b8677e4d08ec873ff1de3670aa73d02b37cd3d2", "quote": "NVIDIA's Jensen Huang will testify publicly before senators on December 3"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The public hearing follows bipartisan calls for Huang to testify about his affair with a suspected Chinese spy.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "a2f14d06f82b7f3a79c022f0d975e49b1ccbfddd", "quote": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The testimony comes during a busy few days in Washington DC for the newly reinstated CEO.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "1b8677e4d08ec873ff1de3670aa73d02b37cd3d2", "quote": "It's going to be a busy few days in Washington DC for the freshly reinstated CEO."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
