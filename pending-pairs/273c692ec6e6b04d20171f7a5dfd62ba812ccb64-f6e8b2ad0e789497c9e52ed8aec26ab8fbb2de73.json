@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "273c692ec6e6b04d20171f7a5dfd62ba812ccb64",
+    "lede": "Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls",
+    "outlet": "theregister",
+    "published": "2026-11-20T20:42:04Z",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "url": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+  },
+  "b": {
+    "item_id": "f6e8b2ad0e789497c9e52ed8aec26ab8fbb2de73",
+    "lede": "No sophisticated malware or attack framework required",
+    "outlet": "theregister",
+    "published": "2026-11-24T17:00:00Z",
+    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+    "url": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+  },
+  "score": 0.585485
+}

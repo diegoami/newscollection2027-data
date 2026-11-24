@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+    "lede": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people\u2014including data that could let attackers \u201cown\u201d a victim\u2019s digital life.",
+    "outlet": "wired",
+    "published": "2026-11-24T11:00:00Z",
+    "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+    "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/"
+  },
+  "b": {
+    "item_id": "adb18ca6aea028ca5b727bf87934998b11744b97",
+    "lede": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T17:49:05Z",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  "score": 0.579596
+}

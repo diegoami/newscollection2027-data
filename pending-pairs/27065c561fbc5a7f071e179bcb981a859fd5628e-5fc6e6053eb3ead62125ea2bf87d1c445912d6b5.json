@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "27065c561fbc5a7f071e179bcb981a859fd5628e",
+    "lede": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "outlet": "techcrunch",
+    "published": "2026-11-23T22:05:50Z",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+  },
+  "b": {
+    "item_id": "5fc6e6053eb3ead62125ea2bf87d1c445912d6b5",
+    "lede": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
+    "outlet": "theregister",
+    "published": "2026-11-24T14:29:00Z",
+    "title": "Claude Ship puts AI at the helm of pull request approvals",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883"
+  },
+  "score": 0.683109
+}

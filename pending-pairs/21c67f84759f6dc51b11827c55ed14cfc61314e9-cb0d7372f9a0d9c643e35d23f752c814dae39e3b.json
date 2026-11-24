@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "21c67f84759f6dc51b11827c55ed14cfc61314e9",
+    "lede": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+    "outlet": "arstechnica",
+    "published": "2026-11-24T12:30:05Z",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+  },
+  "b": {
+    "item_id": "cb0d7372f9a0d9c643e35d23f752c814dae39e3b",
+    "lede": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  "score": 0.627724
+}

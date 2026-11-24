@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "26c3ceae08944feb53c155d971fbcf4c495f40b4",
+    "lede": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T16:46:00Z",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+  },
+  "b": {
+    "item_id": "86c1a3cf86276bbd84db9986bdd941c289d2f1ec",
+    "lede": "The company expects to purge 29 million tracks starting on December 9.",
+    "outlet": "engadget",
+    "published": "2026-11-24T17:58:04Z",
+    "title": "Tidal is banning AI-generated music entirely",
+    "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
+  },
+  "score": 0.684289
+}

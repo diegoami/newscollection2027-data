@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+    "lede": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+    "outlet": "wired",
+    "published": "2026-11-24T10:15:00Z",
+    "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+    "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+  },
+  "b": {
+    "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+    "lede": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company\u2019s software has helped crack one of the most important unsolved problems in mathematics \u2013 and experts say the claim checks out. Levent Alp\u00f6ge, a Turkish American",
+    "outlet": "theguardian",
+    "published": "2026-11-22T17:55:27Z",
+    "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+  },
+  "score": 0.690532
+}

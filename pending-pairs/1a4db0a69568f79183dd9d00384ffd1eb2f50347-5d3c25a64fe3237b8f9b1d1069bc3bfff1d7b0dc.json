@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+    "lede": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+    "outlet": "wired",
+    "published": "2026-11-24T10:15:00Z",
+    "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+    "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+  },
+  "b": {
+    "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+    "lede": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T23:08:57Z",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "score": 0.773594
+}

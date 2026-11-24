@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49ef9cf5084cd81be3d8fae177f58a2dec453603",
+    "lede": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-23T20:00:00Z",
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+  },
+  "b": {
+    "item_id": "5fc6e6053eb3ead62125ea2bf87d1c445912d6b5",
+    "lede": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
+    "outlet": "theregister",
+    "published": "2026-11-24T14:29:00Z",
+    "title": "Claude Ship puts AI at the helm of pull request approvals",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883"
+  },
+  "score": 0.572785
+}

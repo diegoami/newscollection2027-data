@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "a903b208e0b06d44368bc390ad480fc2dd92949d",
+    "lede": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T15:01:11Z",
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
+  },
+  "b": {
+    "item_id": "cb0d7372f9a0d9c643e35d23f752c814dae39e3b",
+    "lede": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  "score": 0.578936
+}

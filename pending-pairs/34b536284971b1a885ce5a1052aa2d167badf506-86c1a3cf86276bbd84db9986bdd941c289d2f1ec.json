@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "34b536284971b1a885ce5a1052aa2d167badf506",
+    "lede": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+    "outlet": "arstechnica",
+    "published": "2026-11-24T17:34:34Z",
+    "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+    "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+  },
+  "b": {
+    "item_id": "86c1a3cf86276bbd84db9986bdd941c289d2f1ec",
+    "lede": "The company expects to purge 29 million tracks starting on December 9.",
+    "outlet": "engadget",
+    "published": "2026-11-24T17:58:04Z",
+    "title": "Tidal is banning AI-generated music entirely",
+    "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
+  },
+  "score": 0.721646
+}

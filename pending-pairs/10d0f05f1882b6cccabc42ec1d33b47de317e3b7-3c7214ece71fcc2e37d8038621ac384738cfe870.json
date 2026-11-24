@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "10d0f05f1882b6cccabc42ec1d33b47de317e3b7",
+    "lede": "Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses",
+    "outlet": "theregister",
+    "published": "2026-11-24T15:15:00Z",
+    "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
+    "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901"
+  },
+  "b": {
+    "item_id": "3c7214ece71fcc2e37d8038621ac384738cfe870",
+    "lede": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-23T22:45:51Z",
+    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+  },
+  "score": 0.597485
+}

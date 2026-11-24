@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+    "lede": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+    "outlet": "wired",
+    "published": "2026-11-24T10:15:00Z",
+    "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+    "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+  },
+  "b": {
+    "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+    "lede": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+    "outlet": "theregister",
+    "published": "2026-11-24T00:18:17Z",
+    "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775"
+  },
+  "score": 0.630641
+}
