@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+    "lede": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+    "outlet": "theregister",
+    "published": "2026-11-24T00:18:17Z",
+    "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775"
+  },
+  "b": {
+    "item_id": "859ee3ec8c206bcf248f3227ddbf4c2b0af2026d",
+    "lede": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-20T16:34:13Z",
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+  },
+  "score": 0.625634
+}

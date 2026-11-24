@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+    "lede": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+    "outlet": "theregister",
+    "published": "2026-11-24T00:18:17Z",
+    "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775"
+  },
+  "b": {
+    "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+    "lede": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-20T23:08:57Z",
+    "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "score": 0.644379
+}
