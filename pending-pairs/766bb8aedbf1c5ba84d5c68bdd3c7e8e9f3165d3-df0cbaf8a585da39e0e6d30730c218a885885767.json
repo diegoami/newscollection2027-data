@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+    "lede": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T01:00:00Z",
+    "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+  },
+  "b": {
+    "item_id": "df0cbaf8a585da39e0e6d30730c218a885885767",
+    "lede": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+    "outlet": "techcrunch",
+    "published": "2026-11-21T18:44:53Z",
+    "title": "Trump says reported FBI database hack is \u2018not good\u2019",
+    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+  },
+  "score": 0.613849
+}

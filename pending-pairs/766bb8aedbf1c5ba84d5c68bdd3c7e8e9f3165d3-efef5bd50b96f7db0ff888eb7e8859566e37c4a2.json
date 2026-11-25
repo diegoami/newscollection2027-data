@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+    "lede": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T01:00:00Z",
+    "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+  },
+  "b": {
+    "item_id": "efef5bd50b96f7db0ff888eb7e8859566e37c4a2",
+    "lede": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-21T14:26:04Z",
+    "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+  },
+  "score": 0.657643
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+    "lede": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T21:37:30Z",
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+  },
+  "b": {
+    "item_id": "adb18ca6aea028ca5b727bf87934998b11744b97",
+    "lede": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T17:49:05Z",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  "score": 0.657771
+}

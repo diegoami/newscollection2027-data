@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc",
+    "lede": "The verdict follows a months-long trial in New York.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-25T02:59:27Z",
+    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+  },
+  "b": {
+    "item_id": "4e956f5da2942ccbca160aa34eeb85802d9b0b29",
+    "lede": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-24T22:23:27Z",
+    "title": "Huawei found guilty of stealing trade secrets",
+    "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+  },
+  "score": 0.706304
+}
