@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49df1091dd045cdbc0172968c83d9285e1d9820f",
+    "lede": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T11:12:42Z",
+    "title": "Microsoft declares \u2018Code Red\u2019 after huge Outlook outage",
+    "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+  },
+  "b": {
+    "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+    "lede": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T11:16:32Z",
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+  },
+  "score": 0.688879
+}

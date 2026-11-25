@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c77d4e597e1d221eb5d3d21f30285af786eb7f3c",
+    "lede": "Criminal masterminds claimed to work for \u2018Weihua\u2019 or to have source code from \u2018oscic\u2019 instead of Cisco",
+    "outlet": "theregister",
+    "published": "2026-11-25T06:16:02Z",
+    "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
+    "url": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024"
+  },
+  "b": {
+    "item_id": "db953fd913e9a6ded6ea9a344b483af51875aa6a",
+    "lede": "A jury found Huawei guilty on 10 out of 12 counts, although it was acquitted of racketeering and conspiracy to obstruct justice.",
+    "outlet": "tomshardware",
+    "published": "2026-11-25T12:43:50Z",
+    "title": "Huawei convicted of money laundering, conspiracy to steal trade secrets, and fraud by US jury",
+    "url": "https://www.tomshardware.com/tech-industry/huawei-convicted-of-money-laundering-conspiracy-to-steal-trade-secrets-and-fraud-by-us-jury-fbi-says-chinese-tech-giant-built-its-success-on-deception-and-theft"
+  },
+  "score": 0.627411
+}

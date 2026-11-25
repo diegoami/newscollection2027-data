@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d81d8091009c293f1abfd555ff5d65325415880",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T07:44:19Z",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  "b": {
+    "item_id": "7bb089ac45e5adb87c1510472312f70f252ea9d3",
+    "lede": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T10:10:20Z",
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  "score": 0.59632
+}

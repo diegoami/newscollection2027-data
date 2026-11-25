@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d81d8091009c293f1abfd555ff5d65325415880",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T07:44:19Z",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  "b": {
+    "item_id": "5d8223f882df762548cb02cded6ee9a0fff1fef9",
+    "lede": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T15:00:00Z",
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+  },
+  "score": 0.586976
+}

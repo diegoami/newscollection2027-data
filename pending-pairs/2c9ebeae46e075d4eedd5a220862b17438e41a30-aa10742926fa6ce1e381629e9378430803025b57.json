@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2c9ebeae46e075d4eedd5a220862b17438e41a30",
+    "lede": "This 15.6-inch Acer Nitro gaming laptop features an RTX 5060 GPU, a 10-core Intel CPU, and a 512GB SSD for $1,049",
+    "outlet": "tomshardware",
+    "published": "2026-11-25T11:22:34Z",
+    "title": "This Acer Nitro V laptop with Nvidia RTX 5060 GPU is $1,049 at Best Buy",
+    "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-acer-nitro-v-laptop-with-nvidia-rtx-5060-gpu-is-usd1-049-at-best-buy-16-inch-boasts-16gb-ddr5-ram-and-a-512gb-ssd"
+  },
+  "b": {
+    "item_id": "aa10742926fa6ce1e381629e9378430803025b57",
+    "lede": "A homelab builder runs four used Nvidia Tesla V100 32GB GPUs off a Lenovo ThinkCentre M720q Tiny over OCuLink for 128GB of VRAM.",
+    "outlet": "tomshardware",
+    "published": "2026-11-23T11:00:00Z",
+    "title": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b"
+  },
+  "score": 0.700336
+}

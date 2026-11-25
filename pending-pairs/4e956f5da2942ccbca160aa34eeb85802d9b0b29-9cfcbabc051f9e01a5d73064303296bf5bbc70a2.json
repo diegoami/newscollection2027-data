@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4e956f5da2942ccbca160aa34eeb85802d9b0b29",
+    "lede": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-24T22:23:27Z",
+    "title": "Huawei found guilty of stealing trade secrets",
+    "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+  },
+  "b": {
+    "item_id": "9cfcbabc051f9e01a5d73064303296bf5bbc70a2",
+    "lede": "Huawei didn\u2019t try very hard to hide thefts of US trade secrets, DOJ says.",
+    "outlet": "arstechnica",
+    "published": "2026-11-25T16:33:45Z",
+    "title": "Jury convicts Huawei of stealing US trade secrets, evading Iran sanctions",
+    "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/"
+  },
+  "score": 0.64411
+}

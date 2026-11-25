@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1c6bec95482d678881fddaff51aeafa7486c5cc4",
+    "lede": "The charges against the Chinese tech company date back to 2019.",
+    "outlet": "engadget",
+    "published": "2026-11-24T22:40:07Z",
+    "title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules",
+    "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/"
+  },
+  "b": {
+    "item_id": "c77d4e597e1d221eb5d3d21f30285af786eb7f3c",
+    "lede": "Criminal masterminds claimed to work for \u2018Weihua\u2019 or to have source code from \u2018oscic\u2019 instead of Cisco",
+    "outlet": "theregister",
+    "published": "2026-11-25T06:16:02Z",
+    "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
+    "url": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024"
+  },
+  "score": 0.608175
+}

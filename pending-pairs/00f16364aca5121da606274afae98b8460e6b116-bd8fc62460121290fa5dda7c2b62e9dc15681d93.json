@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00f16364aca5121da606274afae98b8460e6b116",
+    "lede": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T09:02:57Z",
+    "title": "Microsoft confirms authentication issues after November updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+  },
+  "b": {
+    "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+    "lede": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T11:16:32Z",
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+  },
+  "score": 0.609257
+}

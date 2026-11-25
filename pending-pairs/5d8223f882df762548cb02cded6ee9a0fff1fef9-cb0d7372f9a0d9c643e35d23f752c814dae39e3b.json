@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d8223f882df762548cb02cded6ee9a0fff1fef9",
+    "lede": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T15:00:00Z",
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+  },
+  "b": {
+    "item_id": "cb0d7372f9a0d9c643e35d23f752c814dae39e3b",
+    "lede": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  "score": 0.590251
+}

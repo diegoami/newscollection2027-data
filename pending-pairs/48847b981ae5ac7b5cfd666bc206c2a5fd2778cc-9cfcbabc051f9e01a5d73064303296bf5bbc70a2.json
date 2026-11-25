@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc",
+    "lede": "The verdict follows a months-long trial in New York.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-25T02:59:27Z",
+    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+  },
+  "b": {
+    "item_id": "9cfcbabc051f9e01a5d73064303296bf5bbc70a2",
+    "lede": "Huawei didn\u2019t try very hard to hide thefts of US trade secrets, DOJ says.",
+    "outlet": "arstechnica",
+    "published": "2026-11-25T16:33:45Z",
+    "title": "Jury convicts Huawei of stealing US trade secrets, evading Iran sanctions",
+    "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/"
+  },
+  "score": 0.631817
+}

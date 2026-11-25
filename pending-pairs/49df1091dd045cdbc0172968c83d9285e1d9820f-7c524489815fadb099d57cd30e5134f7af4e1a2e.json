@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "49df1091dd045cdbc0172968c83d9285e1d9820f",
+    "lede": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking gateway servers since July without any impact to [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T11:12:42Z",
+    "title": "Microsoft declares \u2018Code Red\u2019 after huge Outlook outage",
+    "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+  },
+  "b": {
+    "item_id": "7c524489815fadb099d57cd30e5134f7af4e1a2e",
+    "lede": "July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery",
+    "outlet": "theregister",
+    "published": "2026-11-23T16:16:00Z",
+    "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+    "url": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656"
+  },
+  "score": 0.601725
+}

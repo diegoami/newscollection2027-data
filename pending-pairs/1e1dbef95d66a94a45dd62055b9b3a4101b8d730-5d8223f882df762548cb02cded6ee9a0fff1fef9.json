@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1e1dbef95d66a94a45dd62055b9b3a4101b8d730",
+    "lede": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-21T18:01:58Z",
+    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+  },
+  "b": {
+    "item_id": "5d8223f882df762548cb02cded6ee9a0fff1fef9",
+    "lede": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T15:00:00Z",
+    "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/"
+  },
+  "score": 0.575455
+}

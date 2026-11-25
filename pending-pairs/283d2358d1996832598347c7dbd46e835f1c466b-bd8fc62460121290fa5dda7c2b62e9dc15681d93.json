@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "283d2358d1996832598347c7dbd46e835f1c466b",
+    "lede": "Microsoft recommended Classic or the web client while two rounds of fixes restored normal service",
+    "outlet": "theregister",
+    "published": "2026-11-23T12:30:00Z",
+    "title": "New Outlook's attachment issues sent users into the arms of its predecessor",
+    "url": "https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576"
+  },
+  "b": {
+    "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+    "lede": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T11:16:32Z",
+    "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+  },
+  "score": 0.63395
+}

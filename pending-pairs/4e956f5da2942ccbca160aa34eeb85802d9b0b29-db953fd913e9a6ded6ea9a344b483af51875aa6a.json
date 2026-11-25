@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "4e956f5da2942ccbca160aa34eeb85802d9b0b29",
+    "lede": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-24T22:23:27Z",
+    "title": "Huawei found guilty of stealing trade secrets",
+    "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+  },
+  "b": {
+    "item_id": "db953fd913e9a6ded6ea9a344b483af51875aa6a",
+    "lede": "A jury found Huawei guilty on 10 out of 12 counts, although it was acquitted of racketeering and conspiracy to obstruct justice.",
+    "outlet": "tomshardware",
+    "published": "2026-11-25T12:43:50Z",
+    "title": "Huawei convicted of money laundering, conspiracy to steal trade secrets, and fraud by US jury",
+    "url": "https://www.tomshardware.com/tech-industry/huawei-convicted-of-money-laundering-conspiracy-to-steal-trade-secrets-and-fraud-by-us-jury-fbi-says-chinese-tech-giant-built-its-success-on-deception-and-theft"
+  },
+  "score": 0.709828
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "00f16364aca5121da606274afae98b8460e6b116",
+    "lede": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T09:02:57Z",
+    "title": "Microsoft confirms authentication issues after November updates",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/"
+  },
+  "b": {
+    "item_id": "53716c4432abe03450a2035d4dfaf1d7b249f423",
+    "lede": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T19:42:20Z",
+    "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+  },
+  "score": 0.574785
+}

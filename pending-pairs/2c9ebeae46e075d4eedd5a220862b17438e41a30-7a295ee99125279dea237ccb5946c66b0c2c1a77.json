@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2c9ebeae46e075d4eedd5a220862b17438e41a30",
+    "lede": "This 15.6-inch Acer Nitro gaming laptop features an RTX 5060 GPU, a 10-core Intel CPU, and a 512GB SSD for $1,049",
+    "outlet": "tomshardware",
+    "published": "2026-11-25T11:22:34Z",
+    "title": "This Acer Nitro V laptop with Nvidia RTX 5060 GPU is $1,049 at Best Buy",
+    "url": "https://www.tomshardware.com/laptops/gaming-laptops/this-acer-nitro-v-laptop-with-nvidia-rtx-5060-gpu-is-usd1-049-at-best-buy-16-inch-boasts-16gb-ddr5-ram-and-a-512gb-ssd"
+  },
+  "b": {
+    "item_id": "7a295ee99125279dea237ccb5946c66b0c2c1a77",
+    "lede": "AMD's Radeon RX 9060 XT has reached a new GPU frequency world record of 4,837 MHz. AMD VP Jack Huynh and veteran overclocker Bill Alverson used liquid nitrogen cooling to help the smaller RDNA 4 GPU open a 48MHz gap over the previous world record run.",
+    "outlet": "tomshardware",
+    "published": "2026-11-25T11:30:00Z",
+    "title": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz",
+    "url": "https://www.tomshardware.com/pc-components/gpus/radeon-rx-9060-xt-sets-new-gpu-frequency-world-record-of-4-837-ghz-amd-overclocking-team-pushes-mid-range-rdna-4-gpu-to-the-max-under-liquid-nitrogen"
+  },
+  "score": 0.639201
+}
