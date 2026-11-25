@@ -1,0 +1,24 @@
+{
+  "anchor": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+  "id": "2026-11-24-f6530e",
+  "items": [
+    {
+      "item_id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+      "lede": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
+      "outlet": "theregister",
+      "published": "2026-11-24T11:32:41Z",
+      "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+    },
+    {
+      "item_id": "cad292c7e46bbd2df97862b9eeb1a2594d84fd31",
+      "lede": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-24T16:22:44Z",
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

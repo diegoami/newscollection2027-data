@@ -17,8 +17,32 @@
       "published": "2026-11-23T22:45:51Z",
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+    },
+    {
+      "item_id": "10d0f05f1882b6cccabc42ec1d33b47de317e3b7",
+      "lede": "Chip boss gets his old job back, but Washington isn't done investigating one of his former flame's businesses",
+      "outlet": "theregister",
+      "published": "2026-11-24T15:15:00Z",
+      "title": "US blacklists Megaspeed hours after Jensen Huang returns to Nvidia",
+      "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901"
+    },
+    {
+      "item_id": "0f36c410d0bb6f0846fd0b321bc138856e7b2a72",
+      "lede": "No American company, including NVIDIA, can sell technologies to Megaspeed without a license from the federal government.",
+      "outlet": "engadget",
+      "published": "2026-11-24T16:11:17Z",
+      "title": "Commerce Department adds Megaspeed to trade blacklist",
+      "url": "https://www.engadget.com/2326638/commerce-department-adds-megaspeed-to-trade-blacklist/"
+    },
+    {
+      "item_id": "708d9a0ef56778767f8ca7cc3f4fdee57f020613",
+      "lede": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-24T16:37:03Z",
+      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

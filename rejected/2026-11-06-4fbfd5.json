@@ -9,15 +9,15 @@
           {
             "item_id": "8250334af19793e3f5138f072419939ef05bb89a",
             "outlet": "arstechnica",
-            "quote": "summoned by Congress over Chinese espionage concerns"
+            "quote": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns"
           },
           {
             "item_id": "317e2e130bafb150202988e1bb4a801d102e9551",
             "outlet": "tomshardware",
-            "quote": "officially called to Congress due to reports of a Chinese spy plot"
+            "quote": "Nvidia's Jensen Huang officially called to Congress due to reports of a Chinese spy plot"
           }
         ],
-        "statement": "Jensen Huang was summoned to testify before Congress over concerns about contact with a Chinese intelligence asset."
+        "statement": "Congress summoned Jensen Huang to answer questions over his alleged ties to a Chinese intelligence asset."
       },
       {
         "id": "c2",
@@ -25,7 +25,7 @@
           {
             "item_id": "1bc7ba2a28c4372d5a55dc2bc089052afc7ec8f1",
             "outlet": "theverge",
-            "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang"
+            "quote": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times."
           },
           {
             "item_id": "6a04b93c2a9ad7f017201fa05e4c7d2474c689e6",
@@ -33,26 +33,42 @@
             "quote": "China's main intelligence agency reportedly recruited the spy who targeted NVIDIA's CEO"
           }
         ],
-        "statement": "China's intelligence agency allegedly recruited Megaspeed executive Alice Huang to spy on Jensen Huang and Nvidia."
+        "statement": "China's Ministry of State Security recruited Megaspeed executive Alice Huang to gather information on Nvidia through Jensen Huang."
       },
       {
         "id": "c3",
         "sources": [
           {
-            "item_id": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
-            "outlet": "theverge",
-            "quote": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang"
+            "item_id": "eb20fdeaf759b817570219357b949a0b0640f9f6",
+            "outlet": "tomshardware",
+            "quote": "US intelligence believes Jensen Huang had affair with Chinese spy in honeypot operation"
           },
           {
-            "item_id": "2b527a5d8a869d76f325eb703dc7255de23a57a7",
-            "outlet": "theguardian",
-            "quote": "is initiating an independent investigation in light of recent reporting"
+            "item_id": "db92d38fc027895d3450312d379be68f2058b525",
+            "outlet": "tomshardware",
+            "quote": "Nvidia CEO Jensen Huang admits to having an affair with suspected Chinese spy"
           }
         ],
-        "statement": "Nvidia's board announced an independent investigation into Huang's relationship with the suspected spy."
+        "statement": "Jensen Huang and Alice Huang were romantically involved, and Huang later admitted to the affair."
       },
       {
         "id": "c4",
+        "sources": [
+          {
+            "item_id": "ecd65815b585666dd249bc96bc93a86cc94a6e4d",
+            "outlet": "theverge",
+            "quote": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy"
+          },
+          {
+            "item_id": "bc55171edc52873bff3207dae3b200bbde4d2777",
+            "outlet": "techcrunch",
+            "quote": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy"
+          }
+        ],
+        "statement": "Nvidia's board opened an independent investigation into Huang's relationship with Alice Huang."
+      },
+      {
+        "id": "c5",
         "sources": [
           {
             "item_id": "bc55171edc52873bff3207dae3b200bbde4d2777",
@@ -62,34 +78,34 @@
           {
             "item_id": "67abd93f196f854c598d858791643758806b6b1a",
             "outlet": "theverge",
-            "quote": "Huang sent a memo to Nvidia employees acknowledging the affair"
+            "quote": "Huang sent a memo to Nvidia employees acknowledging the affair."
           }
         ],
-        "statement": "Huang admitted in a memo to employees that he had an affair."
-      },
-      {
-        "id": "c5",
-        "sources": [
-          {
-            "item_id": "cfcba81110793f095aea6af4fcbc28efb2f821eb",
-            "outlet": "bbc-technology",
-            "quote": "wiped hundreds of billions of dollars from the value of Nvidia"
-          },
-          {
-            "item_id": "05d31a5bc4a78da30a726281ba43adb03d26a603",
-            "outlet": "techcrunch",
-            "quote": "Nvidia\u2019s stock slid more than 4%"
-          }
-        ],
-        "statement": "Nvidia's stock fell sharply after the board disclosed the investigation."
+        "statement": "Huang acknowledged the affair in a memo to Nvidia employees."
       },
       {
         "id": "c6",
         "sources": [
           {
+            "item_id": "cfcba81110793f095aea6af4fcbc28efb2f821eb",
+            "outlet": "bbc-technology",
+            "quote": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy"
+          },
+          {
+            "item_id": "05d31a5bc4a78da30a726281ba43adb03d26a603",
+            "outlet": "techcrunch",
+            "quote": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy"
+          }
+        ],
+        "statement": "Nvidia's stock fell after the board's investigation into Huang was announced."
+      },
+      {
+        "id": "c7",
+        "sources": [
+          {
             "item_id": "ea1ae81d170544b432de0a9cbbe108f456ad9cd2",
             "outlet": "bbc-technology",
-            "quote": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+            "quote": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
           },
           {
             "item_id": "d4c70ff2f272178a44c089cb6b28e003451a3f7e",
@@ -97,190 +113,307 @@
             "quote": "President Trump says the FBI is investigating Jensen Huang\u2019s affair"
           }
         ],
-        "statement": "President Trump said he had spoken with Huang about the affair and that the FBI was investigating."
-      },
-      {
-        "id": "c7",
-        "sources": [
-          {
-            "item_id": "dab7fe82b75437b2c10b6dddef85fe52b8f5719c",
-            "outlet": "tomshardware",
-            "quote": "Law firm files class-action lawsuit against Nvidia after CEO Jensen Huang confirms affair with alleged Chinese spy"
-          },
-          {
-            "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
-            "outlet": "theguardian",
-            "quote": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO\u2019s links with Alice Huang"
-          }
-        ],
-        "statement": "Shareholders and law firms filed lawsuits against Nvidia and Huang over the scandal."
+        "statement": "President Trump said the FBI was investigating Huang's affair."
       },
       {
         "id": "c8",
         "sources": [
           {
-            "item_id": "19b409e5379f615fc4d0edba5fd59334e1d47e44",
-            "outlet": "tomshardware",
-            "quote": "reportedly had an extramarital affair with a direct report"
+            "item_id": "78aa026d0c91fe6f6fde41a489531cc5fcf57874",
+            "outlet": "theguardian",
+            "quote": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy"
           },
           {
-            "item_id": "0ca5cf57ee5146c092855f3228e956b0c14a5a07",
-            "outlet": "techcrunch",
-            "quote": "has been accused of having a separate affair with an Nvidia subordinate"
+            "item_id": "32c88b13d141381f4021dc08e0540423017fb4d6",
+            "outlet": "engadget",
+            "quote": "NVIDIA shareholders are suing the company and CEO Jensen Huang"
           }
         ],
-        "statement": "Huang was accused of a second affair, with an Nvidia executive who reported to him."
+        "statement": "Shareholders filed lawsuits against Nvidia and Huang over the scandal."
       },
       {
         "id": "c9",
         "sources": [
           {
-            "item_id": "e153c4dc0f7fcb2944a91f7e2843b53d91ac6bfc",
+            "item_id": "19b409e5379f615fc4d0edba5fd59334e1d47e44",
+            "outlet": "tomshardware",
+            "quote": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt"
+          },
+          {
+            "item_id": "0ca5cf57ee5146c092855f3228e956b0c14a5a07",
             "outlet": "techcrunch",
-            "quote": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+            "quote": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec"
           }
         ],
-        "statement": "Reuters reported Huang was having a third affair, with another Nvidia employee."
+        "statement": "A second alleged affair, with an Nvidia executive who reported to Huang, was reported."
       },
       {
         "id": "c10",
         "sources": [
           {
-            "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
-            "outlet": "wired",
-            "quote": "Resigns as Nvidia CEO"
+            "item_id": "4a6d92631407ef3c940bb5545272f17e18c566e6",
+            "outlet": "theverge",
+            "quote": "Nvidia is reportedly preparing to fire Jensen Huang"
           },
           {
-            "item_id": "84726a0527db89d81e58ff4f5d90aa33fe90725f",
-            "outlet": "techcrunch",
-            "quote": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO"
+            "item_id": "5acca80642f369203ed1b170f2c8291e64d9a455",
+            "outlet": "tomshardware",
+            "quote": "Nvidia\u2019s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges"
           }
         ],
-        "statement": "Huang resigned as Nvidia's president, CEO and board member; CFO Colette Kress became interim CEO."
+        "statement": "Nvidia's board moved to remove Huang as CEO following the report of a second affair."
       },
       {
         "id": "c11",
         "sources": [
           {
-            "item_id": "a5ee8976426905143d28d08fd6cd6d6b02dbfd4b",
-            "outlet": "techcrunch",
-            "quote": "only one man can take Jensen Huang's place as head of Nvidia: Tim Cook"
+            "item_id": "3666cb96e0a17460b759ee8c85932a3ee95b40bd",
+            "outlet": "tomshardware",
+            "quote": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately."
           },
           {
-            "item_id": "aed2e3faab556633f1b51b68e926d7b34ca34007",
-            "outlet": "tomshardware",
-            "quote": "President Trump says Tim Cook should replace Jensen Huang as CEO of Nvidia."
+            "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
+            "outlet": "wired",
+            "quote": "Jensen Huang Resigns as Nvidia CEO"
           }
         ],
-        "statement": "President Trump said Apple's Tim Cook should replace Huang as Nvidia CEO."
+        "statement": "Huang resigned as president, CEO and a board member, effective immediately."
       },
       {
         "id": "c12",
         "sources": [
           {
-            "item_id": "0fd7ae7044e59d7b5fa6a4a987b0026f41882528",
+            "item_id": "84726a0527db89d81e58ff4f5d90aa33fe90725f",
             "outlet": "techcrunch",
-            "quote": "agreed to testify Wednesday after several senior lawmakers threatened to subpoena him"
+            "quote": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO"
+          },
+          {
+            "item_id": "e28bd745fc51657069bb19edf13fafc063e49d35",
+            "outlet": "wired",
+            "quote": "Meet Colette Kress, Nvidia\u2019s New Interim CEO"
           }
         ],
-        "statement": "Huang agreed to testify before Congress after lawmakers threatened a subpoena."
+        "statement": "Nvidia named CFO Colette Kress as interim CEO."
       },
       {
         "id": "c13",
         "sources": [
           {
-            "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+            "item_id": "e153c4dc0f7fcb2944a91f7e2843b53d91ac6bfc",
             "outlet": "techcrunch",
-            "quote": "more than 115,000 signatures"
-          },
-          {
-            "item_id": "49a1ce094a2bb6551f75a46bc22b309f516b5c2a",
-            "outlet": "theguardian",
-            "quote": "US president says he thinks Huang \u2018learned a big lesson\u2019"
+            "quote": "Jensen Huang was having a third affair, Reuters reports"
           }
         ],
-        "statement": "A petition campaign for Huang's reinstatement, backed by Elon Musk and other tech figures, grew and drew Trump's support."
+        "statement": "Reuters reported Huang had a third affair, with another Nvidia employee."
       },
       {
         "id": "c14",
         "sources": [
           {
-            "item_id": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
-            "outlet": "theverge",
-            "quote": "the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO"
+            "item_id": "a5ee8976426905143d28d08fd6cd6d6b02dbfd4b",
+            "outlet": "techcrunch",
+            "quote": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor"
           },
           {
-            "item_id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
-            "outlet": "theguardian",
-            "quote": "does not intend to reinstate Jensen as CEO"
+            "item_id": "aed2e3faab556633f1b51b68e926d7b34ca34007",
+            "outlet": "tomshardware",
+            "quote": "President Trump says Apple\u2019s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO"
           }
         ],
-        "statement": "Nvidia board chair Harvey Jones said on the Q3 earnings call that the board does not intend to reinstate Huang."
+        "statement": "President Trump suggested Apple's Tim Cook as a potential replacement for Huang."
       },
       {
         "id": "c15",
         "sources": [
           {
-            "item_id": "4e7369e1579face71a3747c7a0bef52108d5ebd3",
-            "outlet": "tomshardware",
-            "quote": "some directors are reportedly still pushing for that to happen"
+            "item_id": "0fd7ae7044e59d7b5fa6a4a987b0026f41882528",
+            "outlet": "techcrunch",
+            "quote": "Jensen Huang agrees to testify before Congress"
+          },
+          {
+            "item_id": "0b81faf06100c3abaf408250da8b09f3136263c9",
+            "outlet": "engadget",
+            "quote": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving."
           }
         ],
-        "statement": "Despite the board's public stance, a faction of Nvidia directors reportedly kept pushing for Huang's return."
+        "statement": "Huang agreed to testify before Congress."
+      },
+      {
+        "id": "c16",
+        "sources": [
+          {
+            "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+            "outlet": "techcrunch",
+            "quote": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang"
+          },
+          {
+            "item_id": "97a84867dfb0ddf1c34b68a3c87aabad7db04fbe",
+            "outlet": "theguardian",
+            "quote": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter"
+          }
+        ],
+        "statement": "A campaign backed by Elon Musk and other tech leaders petitioned for Huang's reinstatement."
+      },
+      {
+        "id": "c17",
+        "sources": [
+          {
+            "item_id": "e561862ab3766fd6d1cfe6b19a440040db614805",
+            "outlet": "tomshardware",
+            "quote": "Jensen Huang says he would be \u2018honored\u2019 to return as Nvidia CEO"
+          },
+          {
+            "item_id": "70a676dfa314e150e3bba688e3702ef96912c3f7",
+            "outlet": "wired",
+            "quote": "Huang said in a statement that he \u201cwould be honored\u201d to return as Nvidia CEO if the board of directors supported the decision."
+          }
+        ],
+        "statement": "Huang said he would be willing to return as CEO if the board supported it."
+      },
+      {
+        "id": "c18",
+        "sources": [
+          {
+            "item_id": "bf22fc83169f6030cd521b2bfbd7481e1e19523a",
+            "outlet": "theverge",
+            "quote": "the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO."
+          },
+          {
+            "item_id": "6a740dd42e07ef1a8fdf1397bb0a1ce5c4d5db76",
+            "outlet": "wired",
+            "quote": "Nvidia\u2019s Board Has No Plans to Bring Back Jensen Huang"
+          }
+        ],
+        "statement": "Nvidia's board chair said the board did not intend to reinstate Huang."
+      },
+      {
+        "id": "c19",
+        "sources": [
+          {
+            "item_id": "4d9a1ae90f4b653ce88f5ab08bc88f564280dc67",
+            "outlet": "tomshardware",
+            "quote": "Nvidia has reinstated Jensen Huang as CEO, president, and a board member."
+          },
+          {
+            "item_id": "90f831b4fd3ecc8c5ebe6468b32763281390f807",
+            "outlet": "techcrunch",
+            "quote": "Nvidia reverses course and brings Jensen Huang back as CEO"
+          }
+        ],
+        "statement": "Nvidia's board reinstated Huang as CEO, president and board member after a unanimous vote."
+      },
+      {
+        "id": "c20",
+        "sources": [
+          {
+            "item_id": "81a464b2bd018e0d300a54c3525b86f52902ee62",
+            "outlet": "techcrunch",
+            "quote": "Trump reportedly called into Nvidia board meeting to advocate for Huang\u2019s return"
+          },
+          {
+            "item_id": "e09aa9a8dd80480037aa6cd8454874ff3ff9b129",
+            "outlet": "arstechnica",
+            "quote": "Trump says he spoke to the board and that Huang \"did nothing wrong.\""
+          }
+        ],
+        "statement": "President Trump said he personally spoke with Nvidia's board and persuaded it to reinstate Huang."
       }
     ],
     "cluster_id": "2026-11-06-4fbfd5",
-    "cluster_version": 16,
+    "cluster_version": 18,
     "discrepancies": [
       {
         "claim_ids": [
-          "c10"
+          "c16"
         ],
-        "explanation": "Outlets split on whether Huang's departure was a voluntary resignation or the board forcing him out.",
-        "kind": "framing",
+        "explanation": "TechCrunch reported over 115,000 petition signatures on Nov 14, while Tom's Hardware reported about 91,000 the next day.",
+        "kind": "number",
         "quotes": [
           {
-            "item_id": "550d6b582c328b03e5d1b3576d3e234e8dea1cab",
-            "outlet": "wired",
-            "quote": "Resigns as Nvidia CEO"
+            "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
+            "outlet": "techcrunch",
+            "quote": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
           },
           {
-            "item_id": "4a6d92631407ef3c940bb5545272f17e18c566e6",
-            "outlet": "theverge",
-            "quote": "preparing to fire Jensen Huang"
+            "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+            "outlet": "tomshardware",
+            "quote": "An online petition with over 91,000 signatures is calling for the reinstatement of Nvidia's disgraced former CEO."
           }
         ],
         "severity": "medium"
       },
       {
         "claim_ids": [
-          "c13"
+          "c19",
+          "c20"
         ],
-        "explanation": "The reinstatement petition's reported signature count dropped between two outlets' reports a day apart.",
-        "kind": "number",
+        "explanation": "Tom's Hardware frames the reinstatement as the board's own unanimous decision, while Trump is quoted claiming he personally convinced the board.",
+        "kind": "attribution",
         "quotes": [
           {
-            "item_id": "a4a92fbcda03532a99162b220c95547cd159c057",
-            "outlet": "techcrunch",
-            "quote": "more than 115,000 signatures"
+            "item_id": "4d9a1ae90f4b653ce88f5ab08bc88f564280dc67",
+            "outlet": "tomshardware",
+            "quote": "Nvidia reinstates Jensen Huang as CEO following unanimous vote by company board"
           },
           {
-            "item_id": "25ef49503ab1c2e7df51cb4da4ea8e91071798d2",
+            "item_id": "81a464b2bd018e0d300a54c3525b86f52902ee62",
+            "outlet": "techcrunch",
+            "quote": "I spoke to them, let me put it that way \u2026 And I convinced them"
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "claim_ids": [
+          "c4",
+          "c19"
+        ],
+        "explanation": "A Guardian opinion piece says the board's investigation into the affair was not complete when Huang was reinstated, while Trump said there was no evidence of wrongdoing.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "52c0662f82f87b027b48f9e4909eff024c508ce7",
+            "outlet": "theguardian",
+            "quote": "board hasn\u2019t completed investigation into reports of affair with alleged Chinese spy"
+          },
+          {
+            "item_id": "aa93777566bc104e91581c10ed2b05f9c45dba7d",
+            "outlet": "techcrunch",
+            "quote": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing"
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "claim_ids": [
+          "c10",
+          "c11"
+        ],
+        "explanation": "Nvidia's own announcement frames Huang's exit as a resignation, while a later report describes it as a forced departure.",
+        "kind": "framing",
+        "quotes": [
+          {
+            "item_id": "3666cb96e0a17460b759ee8c85932a3ee95b40bd",
             "outlet": "tomshardware",
-            "quote": "over 91,000 signatures"
+            "quote": "Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately."
+          },
+          {
+            "item_id": "e734eb03ab12a1be8239dbc1ad2bd7f7bde0e999",
+            "outlet": "tomshardware",
+            "quote": "after his forced departure"
           }
         ],
         "severity": "medium"
       }
     ],
-    "generated_at": "2026-11-21T02:30:00Z",
-    "headline": "Nvidia CEO resigns amid Chinese spy affair, reinstatement push rejected",
+    "generated_at": "2026-11-25T02:30:00Z",
+    "headline": "Nvidia's Jensen Huang resigns over affairs, then is reinstated as CEO",
     "model": "claude-sonnet-5",
-    "summary": "Jensen Huang resigned as Nvidia CEO after admitting an affair tied to an alleged Chinese intelligence operation, with further affairs, lawsuits, a congressional summons and a reinstatement campaign backed by Trump and Musk following. Nvidia's board named Colette Kress interim CEO and said it will not bring Huang back."
+    "summary": "Nvidia CEO Jensen Huang was investigated, then resigned, after reports of an affair with a Chinese-intelligence-linked executive and a separate affair with an Nvidia subordinate. The scandal drew a congressional summons, shareholder lawsuits, a stock slide and a reported FBI inquiry. CFO Colette Kress served as interim CEO for about eleven days. A reinstatement campaign backed by Elon Musk and other tech leaders, plus pressure from President Trump, preceded the board's unanimous vote to bring Huang back."
   },
   "cluster_id": "2026-11-06-4fbfd5",
   "problems": [
-    "cluster: analysis is for version 16, cluster is at version 17"
+    "discrepancy 3: quotes span 1 outlet(s); a disagreement needs at least two"
   ],
-  "rejected_at": "2026-11-24T02:25:16Z"
+  "rejected_at": "2026-11-25T02:24:52Z"
 }

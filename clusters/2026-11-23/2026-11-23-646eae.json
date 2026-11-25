@@ -17,8 +17,16 @@
       "published": "2026-11-23T19:42:43Z",
       "title": "The infamous GTA 6 hacker has been released after pleading guilty",
       "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/"
+    },
+    {
+      "item_id": "eca24540e6636e085839333a9dd07a917d100ab2",
+      "lede": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-23T23:25:01Z",
+      "title": "The hacker behind early GTA VI leaks has been sentenced \u2014 and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

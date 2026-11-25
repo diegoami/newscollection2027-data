@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-23-c7a95b",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "CrowdStrike to acquire Zscaler for $44 billion",
+  "summary": "CrowdStrike agreed to acquire cybersecurity firm Zscaler for $44 billion, in a deal The Register says promises tighter integration between the companies' products. TechCrunch frames the deal as helping customers adopt AI agents, while The Register reports sysadmins fear it will bring higher prices and vendor lock-in.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "CrowdStrike agreed to acquire Zscaler for $44 billion.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "c32e65acfc497d43afb3bca49796fed9fd2159b7",
+          "quote": "CrowdStrike to acquire Zscaler for $44 billion"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "ba152944e2e86ab6adee858d1e2b520515340b85",
+          "quote": "CrowdStrike splashes $44B on Zscaler"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The deal is expected to bring tighter integration between the two companies' products.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "ba152944e2e86ab6adee858d1e2b520515340b85",
+          "quote": "Record-breaking cybersecurity deal promises tighter integration"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "explanation": "TechCrunch frames the deal as better equipping customers to use AI agents, while The Register frames it as a cost and lock-in risk for customers.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "c32e65acfc497d43afb3bca49796fed9fd2159b7",
+          "quote": "will better equip their customers to use AI agents"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "ba152944e2e86ab6adee858d1e2b520515340b85",
+          "quote": "sysadmins fear higher prices and vendor lock-in"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

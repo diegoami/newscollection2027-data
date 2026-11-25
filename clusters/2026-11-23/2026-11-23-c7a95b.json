@@ -1,0 +1,24 @@
+{
+  "anchor": "c32e65acfc497d43afb3bca49796fed9fd2159b7",
+  "id": "2026-11-23-c7a95b",
+  "items": [
+    {
+      "item_id": "c32e65acfc497d43afb3bca49796fed9fd2159b7",
+      "lede": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
+      "outlet": "techcrunch",
+      "published": "2026-11-23T16:20:11Z",
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+    },
+    {
+      "item_id": "ba152944e2e86ab6adee858d1e2b520515340b85",
+      "lede": "Record-breaking cybersecurity deal promises tighter integration, but sysadmins fear higher prices and vendor lock-in",
+      "outlet": "theregister",
+      "published": "2026-11-24T12:22:17Z",
+      "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
+      "url": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

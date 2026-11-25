@@ -1,0 +1,72 @@
+{
+  "cluster_id": "2026-11-24-b932d9",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Tidal to ban fully AI-generated music starting December 9th",
+  "summary": "Tidal announced it will ban and delete fully AI-generated tracks starting December 9th, while still accepting songs made with AI assistance. Going forward it expects to reject 80,000 to 85,000 newly submitted AI tracks per day. The Verge and Engadget put the number of tracks to be deleted at around 29 million, while Ars Technica reports 27 million.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Tidal will ban and remove fully AI-generated tracks, starting December 9th.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c7d2da5c582fe3f0d662074b4d81b5e69ad85696",
+          "quote": "Tidal will start banning AI-generated music next month"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c7d2da5c582fe3f0d662074b4d81b5e69ad85696",
+          "quote": "Tidal is officially banning AI-generated music on December 9th."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Tidal will still accept songs made with AI assistance, but not tracks that are fully AI-generated.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "26c3ceae08944feb53c155d971fbcf4c495f40b4",
+          "quote": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Going forward, Tidal expects to reject tens of thousands of newly submitted AI tracks per day.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c7d2da5c582fe3f0d662074b4d81b5e69ad85696",
+          "quote": "reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "The Verge and Engadget report Tidal will delete around 29 million AI-generated tracks, while Ars Technica reports 27 million.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "theverge",
+          "item_id": "c7d2da5c582fe3f0d662074b4d81b5e69ad85696",
+          "quote": "Tidal will delete around 29 million AI-generated songs"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "34b536284971b1a885ce5a1052aa2d167badf506",
+          "quote": "27 million tracks will be deleted"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

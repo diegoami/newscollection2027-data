@@ -1,0 +1,45 @@
+{
+  "cluster_id": "2026-11-23-589d5c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Samsung launches 1,100Hz dual-mode Odyssey G60H gaming monitor",
+  "summary": "Samsung launched the Odyssey G60H gaming monitor, which it calls the world's first to hit a 1,100Hz refresh rate. Both outlets agree that top rate is only reachable in HD mode, with a lower 600Hz rate available at QHD resolution.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Samsung launched the dual-mode Odyssey G60H gaming monitor, which reaches 1,100Hz in HD mode.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3ddb18b84c3269e4356ca8779622a48acf7dea75",
+          "quote": "The Samsung Odyssey G6 G60H is the world's first 1,100Hz gaming monitor"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "2fd4e2c8f6aa6a4cb336dbb9cce88ee221f35318",
+          "quote": "dual-mode Odyssey G60H offers 1,100 Hz in HD"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The monitor's top refresh rate is only available in HD resolution, not at higher resolutions.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "3ddb18b84c3269e4356ca8779622a48acf7dea75",
+          "quote": "this monitor's refresh rate only gets that high in HD mode"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "2fd4e2c8f6aa6a4cb336dbb9cce88ee221f35318",
+          "quote": "with QHD 600Hz and HD 1100HZ display modes"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

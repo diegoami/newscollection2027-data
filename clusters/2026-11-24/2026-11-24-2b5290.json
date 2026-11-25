@@ -1,0 +1,24 @@
+{
+  "anchor": "4625e961d860c8452aa7184d5eeae08c03a49445",
+  "id": "2026-11-24-2b5290",
+  "items": [
+    {
+      "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+      "lede": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people\u2014including data that could let attackers \u201cown\u201d a victim\u2019s digital life.",
+      "outlet": "wired",
+      "published": "2026-11-24T11:00:00Z",
+      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+      "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/"
+    },
+    {
+      "item_id": "3d65497402051664982dec823e1d08a9e42c1b85",
+      "lede": "The scale of the exposed data underscores how important it is to take steps to stay safe online.",
+      "outlet": "engadget",
+      "published": "2026-11-24T16:15:17Z",
+      "title": "Researchers find 3.6 billion usernames, passwords and documents in unsecured databases",
+      "url": "https://www.engadget.com/2326647/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-database/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

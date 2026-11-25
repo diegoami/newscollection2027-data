@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-24-2b5290",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Unsecured databases expose billions of leaked credentials",
+  "summary": "Researchers discovered a pair of unsecured databases exposing billions of usernames, passwords and documents, which Wired warns could let attackers take over victims' digital lives. Wired puts the total at 3.5 billion exposed records, while Engadget reports 3.6 billion.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Researchers found unsecured databases exposing billions of usernames, passwords and documents.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+          "quote": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3d65497402051664982dec823e1d08a9e42c1b85",
+          "quote": "Researchers find 3.6 billion usernames, passwords and documents in unsecured databases"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The exposed data could let attackers take over a victim's digital life.",
+      "sources": [
+        {
+          "outlet": "wired",
+          "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+          "quote": "data that could let attackers “own” a victim’s digital life"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "medium",
+      "explanation": "Wired reports 3.5 billion exposed credentials, while Engadget reports 3.6 billion.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "wired",
+          "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+          "quote": "3.5 Billion Usernames, Passwords, and Documents"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "3d65497402051664982dec823e1d08a9e42c1b85",
+          "quote": "3.6 billion usernames, passwords and documents"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

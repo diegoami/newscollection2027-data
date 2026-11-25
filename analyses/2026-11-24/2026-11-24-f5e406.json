@@ -1,0 +1,51 @@
+{
+  "cluster_id": "2026-11-24-f5e406",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Meta brings its Muse AI assistant into Instagram DMs",
+  "summary": "Meta is integrating its Muse AI assistant directly into Instagram, including its DMs, removing the need to switch between apps. Instagram will also prompt users to use Muse to sort through their saved content.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Meta is bringing its Muse AI assistant directly into Instagram, including Instagram DMs.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a11f32d676a44570361c8a9572dc5e54a9ea032e",
+          "quote": "Meta is bringing Muse to Instagram"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "eaadf2423721fd74ac0dee23052f15ec07d6a5b6",
+          "quote": "Meta brings its Muse AI assistant directly into Instagram DMs"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The integration removes the need to switch between the Instagram and Muse apps to use the assistant.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "eaadf2423721fd74ac0dee23052f15ec07d6a5b6",
+          "quote": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Instagram will prompt users to use Muse to sort through their saved content.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "a11f32d676a44570361c8a9572dc5e54a9ea032e",
+          "quote": "Instagram will prompt people to use the agent to sort through their saved content."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

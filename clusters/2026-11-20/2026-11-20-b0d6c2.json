@@ -35,22 +35,38 @@
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
     },
     {
-      "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
-      "lede": "Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company\u2019s software has helped crack one of the most important unsolved problems in mathematics. Levent Alp\u00f6ge, a Turkish American mathematician, on Friday posted a note",
-      "outlet": "theguardian",
-      "published": "2026-11-21T16:39:49Z",
-      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
-    },
-    {
       "item_id": "79aefadf4299e78fe83bcdb8d24abe90263b7978",
       "lede": "Levent Alp\u00f6ge says he worked with Claude to discover a proof of the Riemann Hypothesis.",
       "outlet": "engadget",
       "published": "2026-11-21T19:45:01Z",
       "title": "Anthropic employee claims to have proven the most famous math problem using Claude",
       "url": "https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/"
+    },
+    {
+      "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+      "lede": "Anthropic\u2019s Levent Alp\u00f6ge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company\u2019s software has helped crack one of the most important unsolved problems in mathematics \u2013 and experts say the claim checks out. Levent Alp\u00f6ge, a Turkish American",
+      "outlet": "theguardian",
+      "published": "2026-11-22T17:55:27Z",
+      "title": "Two groups verify mathematician\u2019s claim that Claude helped prove mathematics problem",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+    },
+    {
+      "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+      "lede": "If the AI can't explain what it's proven, are we actually any closer to understanding?",
+      "outlet": "theregister",
+      "published": "2026-11-24T00:18:17Z",
+      "title": "Anthropic says Claude solved an age-old math problem, but the written proof is 250,000 pages of slop",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775"
+    },
+    {
+      "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+      "lede": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "outlet": "wired",
+      "published": "2026-11-24T10:15:00Z",
+      "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
     }
   ],
   "status": "analyzed",
-  "version": 2
+  "version": 3
 }

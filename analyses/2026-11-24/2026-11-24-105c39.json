@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-24-105c39",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Huang reportedly admitted more affairs before Nvidia reinstatement",
+  "summary": "Jensen Huang reportedly admitted to Nvidia's board that he had more affairs than the two previously reported, in a meeting before the board agreed to reinstate him as CEO, president and board member, according to a report attributed to The Wall Street Journal.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Jensen Huang reportedly admitted to more affairs than the two previously reported, before his reinstatement as Nvidia CEO.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8852b52f599dfaacf76f81891bb59ce4867511d6",
+          "quote": "Huang reportedly admitted to more than two affairs to Nvidia’s board"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "2dd73fac1781577153e4a4bdbc19a824ff6fdb41",
+          "quote": "Jensen Huang admitted to more affairs than the two that Nvidia's board members were already aware of before they agreed to let him return to the company as CEO, President, and board member"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The admission reportedly came during a board meeting ahead of Huang's reinstatement, attributed to The Wall Street Journal.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "8852b52f599dfaacf76f81891bb59ce4867511d6",
+          "quote": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

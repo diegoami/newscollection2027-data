@@ -25,8 +25,16 @@
       "published": "2026-11-23T22:05:50Z",
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "item_id": "5fc6e6053eb3ead62125ea2bf87d1c445912d6b5",
+      "lede": "Tired of waiting for a meatbag to approve a change? Anthropic has an agent for that",
+      "outlet": "theregister",
+      "published": "2026-11-24T14:29:00Z",
+      "title": "Claude Ship puts AI at the helm of pull request approvals",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

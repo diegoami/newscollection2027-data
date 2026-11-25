@@ -1,0 +1,40 @@
+{
+  "cluster_id": "2026-11-23-5fb26c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Apple renews Ted Lasso for a fifth season",
+  "summary": "Apple TV renewed Ted Lasso for a fifth season after what the company called a record-breaking fourth-season debut. No details on the new season or its premiere date have been released yet.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Apple renewed Ted Lasso for a fifth season.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f41c0847f22be1927f84ab2c42bf97fc579ec618",
+          "quote": "Apple renews Ted Lasso for season 5"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "99b6b00d1e571014ffc7c7be87a86c019def7008",
+          "quote": "Apple confirms Ted Lasso will return for Season 5"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Season four had a record-breaking debut for the show.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "f41c0847f22be1927f84ab2c42bf97fc579ec618",
+          "quote": "record-breaking season four debut"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,91 +1,111 @@
 {
   "cluster_id": "2026-11-20-b0d6c2",
-  "cluster_version": 2,
+  "cluster_version": 3,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-22T02:45:00Z",
-  "headline": "Anthropic mathematician claims Claude helped him prove the Riemann hypothesis",
-  "summary": "An Anthropic mathematician, Levent Alpöge, says he used Claude to prove the Riemann hypothesis, a problem that has eluded top mathematicians for decades, after six weeks of work. Outlets note the claim still needs verification. One outlet reported a competing human solution to the same problem had also emerged, a detail other outlets' reports did not mention.",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "Anthropic mathematician says Claude helped prove the Riemann hypothesis",
+  "summary": "An Anthropic mathematician, Levent Alpöge, says he used Claude to prove the long-unsolved Riemann hypothesis. Two outside groups reviewed the work and say the claim checks out, though the resulting written proof is enormous — described as either 250,000 pages or 17 million lines — and outlets differ on whether it is already verified or still being digested. A separate, human-derived claimed solution to the same problem also surfaced around the same time.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Anthropic mathematician Levent Alpöge claims he proved the Riemann hypothesis with help from Claude.",
+      "statement": "Anthropic mathematician Levent Alpöge claims to have proved the Riemann hypothesis with help from Claude.",
       "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "3f23871144f33361ec503a8a137db8418e48d2d7",
+          "quote": "Anthropic mathematician claims to have solved 167-year-old math problem with Claude"
+        },
         {
           "outlet": "theverge",
           "item_id": "859ee3ec8c206bcf248f3227ddbf4c2b0af2026d",
-          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis"
-        },
-        {
-          "outlet": "engadget",
-          "item_id": "79aefadf4299e78fe83bcdb8d24abe90263b7978",
-          "quote": "Levent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis."
+          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude"
         }
       ]
     },
     {
       "id": "c2",
-      "statement": "Verification of the claimed proof will take time.",
+      "statement": "Two groups of mathematicians reviewed the claim, and experts say it checks out.",
       "sources": [
         {
-          "outlet": "bbc-technology",
-          "item_id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
-          "quote": "though verification will take some time"
+          "outlet": "theguardian",
+          "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+          "quote": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem"
+        },
+        {
+          "outlet": "theguardian",
+          "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+          "quote": "experts say the claim checks out"
         }
       ]
     },
     {
       "id": "c3",
-      "statement": "The Riemann hypothesis has eluded some of the world's best mathematicians for decades.",
+      "statement": "The written proof Claude produced is extremely long and will take mathematicians time to fully understand.",
       "sources": [
         {
-          "outlet": "theverge",
-          "item_id": "859ee3ec8c206bcf248f3227ddbf4c2b0af2026d",
-          "quote": "cracking a puzzle that has eluded some of the world's best mathematicians for decades"
+          "outlet": "theregister",
+          "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+          "quote": "the written proof is 250,000 pages of slop"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+          "quote": "17-million-line solution an Anthropic researcher produced for the Riemann hypothesis"
         }
       ]
     },
     {
       "id": "c4",
-      "statement": "It took Alpöge six weeks using the AI tool to solve the problem.",
-      "sources": [
-        {
-          "outlet": "theguardian",
-          "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
-          "quote": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers"
-        }
-      ]
-    },
-    {
-      "id": "c5",
-      "statement": "A competing human solution to the same problem also emerged.",
+      "statement": "A separate, human-derived claimed solution to the same problem emerged around the same time.",
       "sources": [
         {
           "outlet": "techcrunch",
           "item_id": "d6bff5841b5a64e74379eec9ecae2be388eb66c1",
-          "quote": "there's a competing human solution, too"
+          "quote": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
         }
       ]
     }
   ],
   "discrepancies": [
     {
-      "kind": "omission",
+      "kind": "number",
       "severity": "medium",
+      "explanation": "The Register describes the written proof as 250,000 pages, while Wired describes it as a 17-million-line solution.",
       "claim_ids": [
-        "c5"
+        "c3"
       ],
-      "explanation": "One outlet reports a competing human solution to the same problem, a fact other outlets' texts do not mention.",
       "quotes": [
         {
-          "outlet": "techcrunch",
-          "item_id": "d6bff5841b5a64e74379eec9ecae2be388eb66c1",
-          "quote": "there's a competing human solution, too"
+          "outlet": "theregister",
+          "item_id": "285e69352b605d8ab2f01c3b0882cfdf5c69b0e5",
+          "quote": "the written proof is 250,000 pages of slop"
         },
         {
-          "outlet": "theverge",
-          "item_id": "859ee3ec8c206bcf248f3227ddbf4c2b0af2026d",
-          "quote": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis"
+          "outlet": "wired",
+          "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+          "quote": "17-million-line solution"
+        }
+      ]
+    },
+    {
+      "kind": "framing",
+      "severity": "medium",
+      "explanation": "The Guardian reports experts say the proof checks out, while Wired frames humans as still struggling to understand it.",
+      "claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "quotes": [
+        {
+          "outlet": "theguardian",
+          "item_id": "3500af305ed03afde70d667f66c4c065b614b69e",
+          "quote": "experts say the claim checks out"
+        },
+        {
+          "outlet": "wired",
+          "item_id": "1a4db0a69568f79183dd9d00384ffd1eb2f50347",
+          "quote": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It"
         }
       ]
     }

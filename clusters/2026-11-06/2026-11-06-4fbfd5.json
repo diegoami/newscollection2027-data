@@ -1057,8 +1057,64 @@
       "published": "2026-11-23T22:25:12Z",
       "title": "Trump engineered a risky comeback for Jensen Huang",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+    },
+    {
+      "item_id": "9b0b258cccd784804b6f8e5bd748d4038bf24371",
+      "lede": "Huang receives hero\u2019s welcome at firm\u2019s Silicon Valley headquarters as return cements role as key AI figure Jensen Huang made his return to Nvidia\u2019s headquarters with a hero\u2019s welcome on Monday. Hours earlier he\u2019d been reinstated as the CEO of the world\u2019s most valuable chip company, following a whiplash series of events that involved a romantic affair with a suspected",
+      "outlet": "theguardian",
+      "published": "2026-11-24T01:34:39Z",
+      "title": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/nvidia-jensen-huang-return-ceo"
+    },
+    {
+      "item_id": "6449fd839a612d928dc1e32b51096b60615b3f1b",
+      "lede": "Some saw Huang\u2019s resignation as an opportunity for culture change at the chip giant. \u201cIf Jensen comes back, I\u2019m not doing any HR trainings ever again,\u201d one employee said.",
+      "outlet": "wired",
+      "published": "2026-11-24T01:35:38Z",
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang\u2019s Return",
+      "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/"
+    },
+    {
+      "item_id": "530eaa08afbc98c45719c3baab59a9aa7903d3f8",
+      "lede": "Oligarchs believe they\u2019re untouchable \u2013 the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang\u2019s return as chief executive? One can imagine high-fives all around Nvidia\u2019s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat",
+      "outlet": "theguardian",
+      "published": "2026-11-24T08:00:11Z",
+      "title": "Trump, Nvidia and power: could we be nearing the end of tech\u2019s Gilded Age?",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age"
+    },
+    {
+      "item_id": "deb41e4f828db700c2887df86f5e927a954d1270",
+      "lede": "State-run Global Times says reports about CEO\u2019s affair with alleged Chinese spy were \u2018malicious\u2019 Trump made up to $15m on Nvidia stock after Huang\u2019s return Nvidia staff: what do you think of Jensen Huang\u2019s return as chief executive? Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary",
+      "outlet": "theguardian",
+      "published": "2026-11-24T14:45:03Z",
+      "title": "Chinese media hail Huang\u2019s Nvidia return with warning over \u2018witch-hunts\u2019",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo"
+    },
+    {
+      "item_id": "2f75382e1552daaade4e3767dc788d049830ce6a",
+      "lede": "Huang\u2019s allies enlisted Trump and Vance to pressure Nvidia\u2019s board into taking him back.",
+      "outlet": "arstechnica",
+      "published": "2026-11-24T14:56:50Z",
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+    },
+    {
+      "item_id": "650a4c88248107fcda1e740df2065990cff96b6e",
+      "lede": "Late-night hosts discussed disgraced Nvidia CEO\u2019s quick return to his role after pressure from shareholder Trump Late-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump . Continue reading...",
+      "outlet": "theguardian",
+      "published": "2026-11-24T15:51:00Z",
+      "title": "Jimmy Kimmel on Jensen Huang\u2019s return to Nvidia: \u2018What a profoundly stupid time to be alive\u2019",
+      "url": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump"
+    },
+    {
+      "item_id": "a80b129c68390b76e637a324a768fb6819d0cf03",
+      "lede": "Tech sector\u2019s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spy The tech billionaires could hardly contain their delight. \u201cJensen!\u201d exclaimed OpenAI\u2019s chief executive, Sam Altman, in a one-word post on X. \u201cThanksgiving\u201d, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this",
+      "outlet": "theguardian",
+      "published": "2026-11-24T16:27:41Z",
+      "title": "\u2018The mistake has been corrected\u2019: end of Jensen Huang\u2019s brief walk in the wilderness",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis"
     }
   ],
   "status": "analyzed",
-  "version": 17
+  "version": 18
 }

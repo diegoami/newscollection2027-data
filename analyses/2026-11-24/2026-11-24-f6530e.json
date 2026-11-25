@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-24-f6530e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-25T02:35:00Z",
+  "headline": "European Commission confirms data theft in EU Academy breach",
+  "summary": "The European Commission confirmed attackers breached its EU Academy online learning hub and stole an undisclosed number of users' personal data, including names and email addresses, with affected users warned via a website notice rather than direct contact. The Register's headline attributes the attack to AI assistance, a detail absent from BleepingComputer's report.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The European Commission confirmed that attackers breached its EU Academy learning hub and stole personal data.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "cad292c7e46bbd2df97862b9eeb1a2594d84fd31",
+          "quote": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users."
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+          "quote": "European Commission confirms personal data stolen"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The names and email addresses exposed were disclosed via a website notice rather than direct contact with affected users.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+          "quote": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "omission",
+      "severity": "low",
+      "explanation": "The Register's headline attributes the breach to an AI-assisted cyberattack, a detail BleepingComputer's report does not mention.",
+      "claim_ids": [
+        "c1"
+      ],
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+          "quote": "personal data stolen in AI-assisted cyberattack"
+        },
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "cad292c7e46bbd2df97862b9eeb1a2594d84fd31",
+          "quote": "has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}
