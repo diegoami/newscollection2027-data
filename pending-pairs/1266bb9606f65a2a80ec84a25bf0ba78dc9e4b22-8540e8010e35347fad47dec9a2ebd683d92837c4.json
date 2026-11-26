@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+    "lede": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-26T09:27:44Z",
+    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo"
+  },
+  "b": {
+    "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+    "lede": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+    "outlet": "arstechnica",
+    "published": "2026-11-25T18:22:38Z",
+    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+  },
+  "score": 0.617362
+}

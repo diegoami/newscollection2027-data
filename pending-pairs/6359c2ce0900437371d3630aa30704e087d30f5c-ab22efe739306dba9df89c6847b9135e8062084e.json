@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+    "lede": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T17:44:51Z",
+    "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  "b": {
+    "item_id": "ab22efe739306dba9df89c6847b9135e8062084e",
+    "lede": "Approval for \u2018Starmind\u2019 granted but it\u2019s a long way from the launchpad, or making sense",
+    "outlet": "theregister",
+    "published": "2026-11-25T22:54:07Z",
+    "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+    "url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268"
+  },
+  "score": 0.70981
+}

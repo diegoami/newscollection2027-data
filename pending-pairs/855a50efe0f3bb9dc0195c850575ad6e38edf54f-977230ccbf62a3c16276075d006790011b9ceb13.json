@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "855a50efe0f3bb9dc0195c850575ad6e38edf54f",
+    "lede": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-22T15:43:04Z",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+  },
+  "b": {
+    "item_id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "lede": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "outlet": "theregister",
+    "published": "2026-11-26T11:02:00Z",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  "score": 0.585736
+}

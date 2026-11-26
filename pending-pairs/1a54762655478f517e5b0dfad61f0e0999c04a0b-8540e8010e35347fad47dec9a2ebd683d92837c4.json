@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a54762655478f517e5b0dfad61f0e0999c04a0b",
+    "lede": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+    "outlet": "engadget",
+    "published": "2026-11-26T11:01:32Z",
+    "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+    "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+  },
+  "b": {
+    "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+    "lede": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+    "outlet": "arstechnica",
+    "published": "2026-11-25T18:22:38Z",
+    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+  },
+  "score": 0.81936
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2428b477d259bdd854244855a5281433c2fa6f53",
+    "lede": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+    "outlet": "engadget",
+    "published": "2026-11-22T21:00:00Z",
+    "title": "How Secure Is Your Password? Here's How To Test It",
+    "url": "https://www.engadget.com/2319522/how-secure-is-password/"
+  },
+  "b": {
+    "item_id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "lede": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "outlet": "theregister",
+    "published": "2026-11-26T11:02:00Z",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  "score": 0.575759
+}

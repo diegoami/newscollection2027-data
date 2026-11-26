@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+    "lede": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+    "outlet": "arstechnica",
+    "published": "2026-11-25T18:22:38Z",
+    "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+  },
+  "b": {
+    "item_id": "ab22efe739306dba9df89c6847b9135e8062084e",
+    "lede": "Approval for \u2018Starmind\u2019 granted but it\u2019s a long way from the launchpad, or making sense",
+    "outlet": "theregister",
+    "published": "2026-11-25T22:54:07Z",
+    "title": "The sky was once full of stars, kids; then the FCC let Elon Musk launch a million datacenter satellites",
+    "url": "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268"
+  },
+  "score": 0.60562
+}

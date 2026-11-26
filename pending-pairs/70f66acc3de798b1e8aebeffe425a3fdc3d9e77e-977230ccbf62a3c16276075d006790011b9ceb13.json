@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e",
+    "lede": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T21:33:33Z",
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  "b": {
+    "item_id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "lede": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "outlet": "theregister",
+    "published": "2026-11-26T11:02:00Z",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  "score": 0.708558
+}

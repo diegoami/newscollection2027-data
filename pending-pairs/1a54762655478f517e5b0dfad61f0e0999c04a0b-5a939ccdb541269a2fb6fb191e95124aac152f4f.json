@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a54762655478f517e5b0dfad61f0e0999c04a0b",
+    "lede": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+    "outlet": "engadget",
+    "published": "2026-11-26T11:01:32Z",
+    "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+    "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+  },
+  "b": {
+    "item_id": "5a939ccdb541269a2fb6fb191e95124aac152f4f",
+    "lede": "Intelligence agencies believe that Russia has spent the last several years readying Sputnik-S, a satellite armed with a nuclear weapon that could be used to destroy rival satellites in Earth's orbit \u2014 and it's expected to launch before the end of 2026.",
+    "outlet": "tomshardware",
+    "published": "2026-11-23T14:00:00Z",
+    "title": "Russia readying nuclear-armed satellite that could destroy every low-Earth-orbit satellite, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/space/russia-readying-nuclear-armed-satellite-that-could-destroy-every-low-earth-orbit-satellite-report-claims-kremlin-blasts-sputnik-s-claims-as-unfounded-allegations-and-propaganda"
+  },
+  "score": 0.59143
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+    "lede": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T18:49:52Z",
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+  },
+  "b": {
+    "item_id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "lede": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "outlet": "theregister",
+    "published": "2026-11-26T11:02:00Z",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  "score": 0.682455
+}

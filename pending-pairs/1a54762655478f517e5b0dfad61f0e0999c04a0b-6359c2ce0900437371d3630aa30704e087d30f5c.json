@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1a54762655478f517e5b0dfad61f0e0999c04a0b",
+    "lede": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+    "outlet": "engadget",
+    "published": "2026-11-26T11:01:32Z",
+    "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+    "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/"
+  },
+  "b": {
+    "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+    "lede": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T17:44:51Z",
+    "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  "score": 0.824602
+}

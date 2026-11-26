@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+    "lede": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-26T09:27:44Z",
+    "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo"
+  },
+  "b": {
+    "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+    "lede": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T17:44:51Z",
+    "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+  },
+  "score": 0.731073
+}
