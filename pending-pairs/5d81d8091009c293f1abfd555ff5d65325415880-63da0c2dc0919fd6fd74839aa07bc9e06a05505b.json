@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d81d8091009c293f1abfd555ff5d65325415880",
+    "lede": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T07:44:19Z",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+  },
+  "b": {
+    "item_id": "63da0c2dc0919fd6fd74839aa07bc9e06a05505b",
+    "lede": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T19:39:31Z",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  "score": 0.609236
+}

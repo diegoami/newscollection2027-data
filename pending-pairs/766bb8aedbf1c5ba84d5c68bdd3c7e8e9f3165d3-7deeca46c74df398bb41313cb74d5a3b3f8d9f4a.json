@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+    "lede": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T01:00:00Z",
+    "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+  },
+  "b": {
+    "item_id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a",
+    "lede": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'",
+    "outlet": "theregister",
+    "published": "2026-11-25T16:40:16Z",
+    "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+    "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+  },
+  "score": 0.619974
+}

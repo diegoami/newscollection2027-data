@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+    "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T19:10:15Z",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  "b": {
+    "item_id": "f5ef2a358697d369397e50eeb7159dbdcd5e2939",
+    "lede": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T14:20:28Z",
+    "title": "Todoist confirms 6% of customers\u2019 details were stolen in data breach",
+    "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"
+  },
+  "score": 0.665117
+}

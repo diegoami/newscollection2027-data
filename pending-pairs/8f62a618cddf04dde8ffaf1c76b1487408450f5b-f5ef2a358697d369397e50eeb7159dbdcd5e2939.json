@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+    "lede": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T18:49:52Z",
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+  },
+  "b": {
+    "item_id": "f5ef2a358697d369397e50eeb7159dbdcd5e2939",
+    "lede": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T14:20:28Z",
+    "title": "Todoist confirms 6% of customers\u2019 details were stolen in data breach",
+    "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/"
+  },
+  "score": 0.587664
+}

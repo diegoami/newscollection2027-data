@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5baa8b1de0f5b58e006644983d95f3ce6e82cd48",
+    "lede": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
+    "outlet": "theregister",
+    "published": "2026-11-25T11:16:18Z",
+    "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
+    "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
+  },
+  "b": {
+    "item_id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e",
+    "lede": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T21:33:33Z",
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  "score": 0.59235
+}

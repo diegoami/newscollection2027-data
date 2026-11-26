@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2428b477d259bdd854244855a5281433c2fa6f53",
+    "lede": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+    "outlet": "engadget",
+    "published": "2026-11-22T21:00:00Z",
+    "title": "How Secure Is Your Password? Here's How To Test It",
+    "url": "https://www.engadget.com/2319522/how-secure-is-password/"
+  },
+  "b": {
+    "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+    "lede": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T18:49:52Z",
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+  },
+  "score": 0.631182
+}

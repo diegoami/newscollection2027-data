@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+    "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T19:10:15Z",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  "b": {
+    "item_id": "855a50efe0f3bb9dc0195c850575ad6e38edf54f",
+    "lede": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-22T15:43:04Z",
+    "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+    "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+  },
+  "score": 0.59377
+}

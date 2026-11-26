@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+    "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T19:10:15Z",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  "b": {
+    "item_id": "4625e961d860c8452aa7184d5eeae08c03a49445",
+    "lede": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people\u2014including data that could let attackers \u201cown\u201d a victim\u2019s digital life.",
+    "outlet": "wired",
+    "published": "2026-11-24T11:00:00Z",
+    "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+    "url": "https://www.wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online/"
+  },
+  "score": 0.625142
+}

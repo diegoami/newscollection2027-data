@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "63da0c2dc0919fd6fd74839aa07bc9e06a05505b",
+    "lede": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T19:39:31Z",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  "b": {
+    "item_id": "b4a9690560183d3cc2803b53f0da7d19f19f831a",
+    "lede": "EU Academy names and email addresses exposed, with users warned via website notice rather than contacted directly",
+    "outlet": "theregister",
+    "published": "2026-11-24T11:32:41Z",
+    "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+    "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+  },
+  "score": 0.591738
+}

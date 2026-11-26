@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+    "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T19:10:15Z",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  "b": {
+    "item_id": "2428b477d259bdd854244855a5281433c2fa6f53",
+    "lede": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+    "outlet": "engadget",
+    "published": "2026-11-22T21:00:00Z",
+    "title": "How Secure Is Your Password? Here's How To Test It",
+    "url": "https://www.engadget.com/2319522/how-secure-is-password/"
+  },
+  "score": 0.629296
+}

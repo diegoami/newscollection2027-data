@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "03a6faa18818d60df26533b02c3e1f3248ddb6d4",
+    "lede": "Younger workers don\u2019t find AI useful, according to a recent survey.",
+    "outlet": "zdnet",
+    "published": "2026-11-25T18:07:00Z",
+    "title": "Gen Z is the least interested in AI at work \u2013 and it\u2019s not even close",
+    "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/"
+  },
+  "b": {
+    "item_id": "6e5f032fb046721a6133df4843ef3845ad5367aa",
+    "lede": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T21:33:29Z",
+    "title": "Even the best AI agents struggle with everyday life",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+  },
+  "score": 0.571951
+}
