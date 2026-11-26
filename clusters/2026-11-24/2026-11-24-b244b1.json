@@ -1,0 +1,24 @@
+{
+  "anchor": "485decdaf4812bd748e4c60f40cf2ff787357a07",
+  "id": "2026-11-24-b244b1",
+  "items": [
+    {
+      "item_id": "485decdaf4812bd748e4c60f40cf2ff787357a07",
+      "lede": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-24T00:02:52Z",
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+    },
+    {
+      "item_id": "5acdb5a9ff5c21746a9f8856d30cc6424f559e5c",
+      "lede": "The pitch is an unusual combination of privacy promises and AI features.",
+      "outlet": "arstechnica",
+      "published": "2026-11-25T20:57:09Z",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

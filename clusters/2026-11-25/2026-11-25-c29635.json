@@ -1,0 +1,32 @@
+{
+  "anchor": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+  "id": "2026-11-25-c29635",
+  "items": [
+    {
+      "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+      "lede": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T18:49:52Z",
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+    },
+    {
+      "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+      "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-25T19:10:15Z",
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+    },
+    {
+      "item_id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e",
+      "lede": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-25T21:33:33Z",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

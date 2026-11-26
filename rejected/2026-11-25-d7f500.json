@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+            "outlet": "bleepingcomputer",
+            "quote": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
+          },
+          {
+            "item_id": "0d89b0a5372069c085a90b9a63d15e8628a0fb5f",
+            "outlet": "theregister",
+            "quote": "Microsoft fixes Office dialog that had nothing to say and wouldn\u2019t go away"
+          }
+        ],
+        "statement": "Microsoft fixed a bug that was blocking some Microsoft 365 users from accessing Office apps via an empty, unresponsive dialog box."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "0d89b0a5372069c085a90b9a63d15e8628a0fb5f",
+            "outlet": "theregister",
+            "quote": "affected users may need an administrator command prompt to install it"
+          }
+        ],
+        "statement": "Some affected users may need to use an administrator command prompt to install the fix."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+            "outlet": "bleepingcomputer",
+            "quote": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications."
+          }
+        ],
+        "statement": "Microsoft resolved the issue earlier in the week."
+      }
+    ],
+    "cluster_id": "2026-11-25-d7f500",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-26T02:35:00Z",
+    "headline": "Microsoft fixes bug blocking Office app access via blank dialog",
+    "model": "claude-sonnet-5",
+    "summary": "Microsoft resolved a bug that showed an empty, unresponsive dialog box and blocked some Microsoft 365 customers from accessing Office applications. Some affected users may need an administrator command prompt to install the fix."
+  },
+  "cluster_id": "2026-11-25-d7f500",
+  "problems": [
+    "quote: not verbatim in theregister 0d89b0a5372069c085a90b9a63d15e8628a0fb5f's title or lede: 'Microsoft fixes Office dialog that had nothing to say and wouldn\u2019t go away'"
+  ],
+  "rejected_at": "2026-11-26T02:26:57Z"
+}

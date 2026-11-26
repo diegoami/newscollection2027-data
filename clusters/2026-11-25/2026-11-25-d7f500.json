@@ -1,0 +1,24 @@
+{
+  "anchor": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+  "id": "2026-11-25-d7f500",
+  "items": [
+    {
+      "item_id": "bd8fc62460121290fa5dda7c2b62e9dc15681d93",
+      "lede": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-25T11:16:32Z",
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+    },
+    {
+      "item_id": "0d89b0a5372069c085a90b9a63d15e8628a0fb5f",
+      "lede": "Update resolves work-blocking popup, but affected users may need an administrator command prompt to install it",
+      "outlet": "theregister",
+      "published": "2026-11-25T14:45:00Z",
+      "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
+      "url": "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

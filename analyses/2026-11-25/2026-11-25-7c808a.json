@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-25-7c808a",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "EA uses AI to bring back John Motson's voice for FC 27",
+  "summary": "EA Sports used AI to recreate the voice of late BBC football commentator John Motson, who died in February 2023, to provide commentary in FC 27 with the consent of his family. The AI version debuts in the game on 26 November.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "EA used AI to recreate late broadcaster John Motson's voice to commentate in FC 27, with his family's consent.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "481281d72147e63607ff8462b7bb1b00248a52f1", "quote": "EA adds AI-generated John Motson to FC 27 video game"},
+        {"outlet": "theguardian", "item_id": "132a1c505ee0ddee8562cf57c8f948862648bf97", "quote": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The AI version of Motson will debut in the game on 26 November.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "481281d72147e63607ff8462b7bb1b00248a52f1", "quote": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Motson, a BBC football pundit, died in February 2023.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "132a1c505ee0ddee8562cf57c8f948862648bf97", "quote": "John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

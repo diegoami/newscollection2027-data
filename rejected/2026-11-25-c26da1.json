@@ -1,0 +1,85 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+            "outlet": "theverge",
+            "quote": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space"
+          },
+          {
+            "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+            "outlet": "arstechnica",
+            "quote": "The FCC has authorized SpaceX to deploy 1 million satellites"
+          },
+          {
+            "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1",
+            "outlet": "techcrunch",
+            "quote": "FCC approves SpaceX plan to put AI data centers in space"
+          }
+        ],
+        "statement": "The FCC authorized SpaceX to deploy up to 1 million AI-chip-equipped satellites as part of its 'Starmind' initiative."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+            "outlet": "theverge",
+            "quote": "deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company\u2019s \u201cStarmind\u201d initiative"
+          }
+        ],
+        "statement": "The satellites are equipped with AI chips as part of SpaceX's 'Starmind' initiative."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+            "outlet": "theverge",
+            "quote": "several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin"
+          }
+        ],
+        "statement": "This is the FCC's first such approval, amid competing plans from Google and Blue Origin for space-based AI data centers."
+      },
+      {
+        "id": "c4",
+        "sources": [
+          {
+            "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+            "outlet": "arstechnica",
+            "quote": "This constellation would increase the number of satellites in orbit by roughly 50-fold."
+          }
+        ],
+        "statement": "The constellation would increase the number of satellites in orbit by roughly 50-fold."
+      },
+      {
+        "id": "c5",
+        "sources": [
+          {
+            "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1",
+            "outlet": "techcrunch",
+            "quote": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+          }
+        ],
+        "statement": "The FCC dismissed some opponents' concerns, including about scientific research, saying they fell outside its regulatory authority."
+      }
+    ],
+    "cluster_id": "2026-11-25-c26da1",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-26T02:35:00Z",
+    "headline": "FCC approves SpaceX plan for up to 1 million AI satellites",
+    "model": "claude-sonnet-5",
+    "summary": "The FCC authorized SpaceX to deploy up to 1 million AI chip-equipped satellites under its 'Starmind' initiative, the agency's first such approval amid competing plans from Google and Blue Origin. The constellation would increase satellites in orbit roughly 50-fold; the FCC said it dismissed opponents' concerns, including about scientific research, as outside its regulatory authority."
+  },
+  "cluster_id": "2026-11-25-c26da1",
+  "problems": [
+    "quote: not verbatim in theverge 6359c2ce0900437371d3630aa30704e087d30f5c's title or lede: 'deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company\u2019s \u201cStarmind\u201d initiative'"
+  ],
+  "rejected_at": "2026-11-26T02:26:57Z"
+}

@@ -1,0 +1,64 @@
+{
+  "anchor": "9336a8c017b0a140262a8fdb08d103f314a0fb9f",
+  "id": "2026-11-24-eb294c",
+  "items": [
+    {
+      "item_id": "9336a8c017b0a140262a8fdb08d103f314a0fb9f",
+      "lede": "The reinstated Nvidia CEO acknowledged violating the company\u2019s code of conduct and said he had made some \u201cvery serious personal mistakes.\u201d",
+      "outlet": "wired",
+      "published": "2026-11-24T17:44:53Z",
+      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+    },
+    {
+      "item_id": "a96c48c3a7de677a73d4c354584d018a4a481163",
+      "lede": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a \u201ctech bro,\u201d his disdain for succession planning, and his relationship with President Trump.",
+      "outlet": "wired",
+      "published": "2026-11-24T19:33:23Z",
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/"
+    },
+    {
+      "item_id": "32af257829de969688cb2a7c428e4b6af398aa4a",
+      "lede": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-24T20:02:03Z",
+      "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+    },
+    {
+      "item_id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685",
+      "lede": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company\u2019s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his",
+      "outlet": "theguardian",
+      "published": "2026-11-24T20:32:02Z",
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: \u2018I made some terrible mistakes\u2019",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff"
+    },
+    {
+      "item_id": "5f077d12f5abe5fadd84a97254446e824db2d866",
+      "lede": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "outlet": "techcrunch",
+      "published": "2026-11-24T21:48:27Z",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    },
+    {
+      "item_id": "aeb959b9d1c90a6bfce23754997dfa6d47ad334a",
+      "lede": "Jensen Huang says he didn't get special treatment from the government at first Nvidia all-hands meeting since his return \u2014 \"there are rumors on the internet that apparently I\u2019m a tech bro, and therefore I\u2019m back\"",
+      "outlet": "tomshardware",
+      "published": "2026-11-25T10:30:00Z",
+      "title": "Jensen Huang denies special government treatment at first Nvidia all-hands since return",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-denies-special-government-treatment-at-first-nvidia-all-hands-since-return-there-are-rumors-on-the-internet-that-apparently-im-a-tech-bro-and-therefore-im-back"
+    },
+    {
+      "item_id": "fb5a7d58c9a946b018dd7a67420ed9147b1e5b0d",
+      "lede": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T19:54:57Z",
+      "title": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -33,8 +33,16 @@
       "published": "2026-11-24T17:58:04Z",
       "title": "Tidal is banning AI-generated music entirely",
       "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/"
+    },
+    {
+      "item_id": "e1ad855d0eab4e392fd65e183d24b1cb6b9a24ab",
+      "lede": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence The music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music \u201cdiverts streams and royalties away from the artists, and confuses fans\u201d. \u201cTo ensure Tidal remains the best place",
+      "outlet": "theguardian",
+      "published": "2026-11-25T02:12:22Z",
+      "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+      "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music"
     }
   ],
   "status": "analyzed",
-  "version": 1
+  "version": 2
 }

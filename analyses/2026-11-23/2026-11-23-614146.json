@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-23-614146",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Ladybird browser's alpha brings a new browser engine to testing",
+  "summary": "Ladybird, an independent browser built on a from-scratch engine, released its first public alpha for macOS and Linux testing after more than four years of development, making it the first browser in years to debut an entirely new engine.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Ladybird, an independent browser with a from-scratch engine, released its first alpha for testing on macOS and Linux.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5", "quote": "On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development."},
+        {"outlet": "arstechnica", "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6", "quote": "An independent browser engine arrives on Linux and macOS, and we've tried it."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The release makes Ladybird the first browser in years to debut an entirely new engine.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5", "quote": "The release makes Ladybird the first browser in years to arrive with an entirely new engine."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

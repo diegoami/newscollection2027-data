@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-24-b244b1",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Kagi launches Gmail-rival email service in public beta",
+  "summary": "Kagi, known for its paid search alternative and Orion browser, launched a public beta of Kagi Mail, a new email service pitched as a privacy-focused rival to Gmail that also includes AI features.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Kagi launched a public beta of Kagi Mail, a new email service positioned as a Gmail rival.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "485decdaf4812bd748e4c60f40cf2ff787357a07", "quote": "Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\""},
+        {"outlet": "arstechnica", "item_id": "5acdb5a9ff5c21746a9f8856d30cc6424f559e5c", "quote": "Google search alternative Kagi launches Gmail rival"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The product pitch combines privacy promises with AI features.",
+      "sources": [
+        {"outlet": "arstechnica", "item_id": "5acdb5a9ff5c21746a9f8856d30cc6424f559e5c", "quote": "The pitch is an unusual combination of privacy promises and AI features."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

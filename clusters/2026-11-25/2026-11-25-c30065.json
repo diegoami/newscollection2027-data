@@ -1,0 +1,24 @@
+{
+  "anchor": "e06cab91631109e6877ca397cbde6c0db3d0189a",
+  "id": "2026-11-25-c30065",
+  "items": [
+    {
+      "item_id": "e06cab91631109e6877ca397cbde6c0db3d0189a",
+      "lede": "Amazon Autos will start selling cars in the UK early next year, marking the first time it has expanded outside the US.",
+      "outlet": "engadget",
+      "published": "2026-11-25T09:15:37Z",
+      "title": "Amazon Autos is coming to the UK in its first expansion outside the US",
+      "url": "https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/"
+    },
+    {
+      "item_id": "ae5493d15244c05b7beec202f92ac8c73fbf9b47",
+      "lede": "US retail giant links up with Hyundai in attempt to crack \u00a3200bn British market Business live \u2013 latest updates Amazon is planning to sell cars in the UK from early next year, in a move that threatens to disrupt the vehicle retail market. The Amazon Autos service will be launched in \u201cearly 2027\u201d, starting with cars from the Korean manufacturer",
+      "outlet": "theguardian",
+      "published": "2026-11-25T14:37:26Z",
+      "title": "Amazon to start selling cars in the UK next year",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

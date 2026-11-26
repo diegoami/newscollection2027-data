@@ -1,0 +1,24 @@
+{
+  "anchor": "61cb6e1f95ec64ca2b757ca317842ce7added38c",
+  "id": "2026-11-25-ccfbd6",
+  "items": [
+    {
+      "item_id": "61cb6e1f95ec64ca2b757ca317842ce7added38c",
+      "lede": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T14:10:18Z",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "item_id": "e1845ee0b548d25f61758bca2b25bc9ff235b003",
+      "lede": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-25T14:12:33Z",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

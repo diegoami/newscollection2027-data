@@ -1,0 +1,58 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+            "outlet": "theverge",
+            "quote": "it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\""
+          },
+          {
+            "item_id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a",
+            "outlet": "theregister",
+            "quote": "US Treasury financial crimes unit becomes latest fed breach victim"
+          }
+        ],
+        "statement": "FinCEN, part of the Treasury Department, disclosed it is investigating a cybersecurity incident involving unauthorized access to some of its systems."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+            "outlet": "theverge",
+            "quote": "hasn't offered any information about the full scope or source"
+          }
+        ],
+        "statement": "FinCEN has not disclosed the scope or source of the incident."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a",
+            "outlet": "theregister",
+            "quote": "FinCEN takes systems offline and extends filing deadlines while investigating \u2018unauthorized access\u2019"
+          }
+        ],
+        "statement": "FinCEN took systems offline and extended filing deadlines while investigating the unauthorized access."
+      }
+    ],
+    "cluster_id": "2026-11-25-aec817",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-26T02:35:00Z",
+    "headline": "FinCEN discloses cybersecurity incident, takes systems offline",
+    "model": "claude-sonnet-5",
+    "summary": "FinCEN, the Treasury Department's financial crimes bureau, disclosed a cybersecurity incident involving unauthorized access to some of its systems, taking systems offline and extending filing deadlines while it investigates. The bureau has not detailed the incident's scope or source."
+  },
+  "cluster_id": "2026-11-25-aec817",
+  "problems": [
+    "quote: not verbatim in theregister 7deeca46c74df398bb41313cb74d5a3b3f8d9f4a's title or lede: 'FinCEN takes systems offline and extends filing deadlines while investigating \u2018unauthorized access\u2019'"
+  ],
+  "rejected_at": "2026-11-26T02:26:57Z"
+}

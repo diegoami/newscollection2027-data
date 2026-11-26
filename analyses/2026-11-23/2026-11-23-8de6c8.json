@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-23-8de6c8",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Walmart lets Meta's AI shopping agent Muse handle Black Friday purchases",
+  "summary": "Walmart has enabled Meta's AI agent Muse to shop and purchase Black Friday deals on its site, extending the retailer's Agent Gateway integration announced last month.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Walmart now allows Meta's Muse AI agent to shop Black Friday deals on its website.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "106e5d1cffec6462988b47e3d3fafcb66b227957", "quote": "Meta Muse can now do your Black Friday shopping at Walmart"},
+        {"outlet": "techcrunch", "item_id": "42cb577d7e7884cbc5bdc9ce2fa08341c05457eb", "quote": "Walmart now lets customers shop Black Friday deals through Muse"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The rollout builds on Walmart's Agent Gateway, announced last month, which lets AI agents find products without sharing a shopper's purchase history.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "106e5d1cffec6462988b47e3d3fafcb66b227957", "quote": "The retail giant is rolling out a live implementation of the Agent Gateway it announced last month"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-23-05b602",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Report: July bug caused Outlook outage, prompting internal Code Red",
+  "summary": "A report found a bug dormant since July overwhelmed Microsoft's servers, triggering a days-long Outlook and Exchange Online outage that the company internally labeled a Code Red, prompting promises of stronger safeguards and faster recovery.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A bug that had gone unnoticed since July overwhelmed Microsoft's servers and caused the outage.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "7c524489815fadb099d57cd30e5134f7af4e1a2e", "quote": "July bug overwhelmed newer servers"},
+        {"outlet": "theverge", "item_id": "49df1091dd045cdbc0172968c83d9285e1d9820f", "quote": "a bug that had been sitting on Microsoft 365 networking gateway servers since July"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The nearly day-long outage took down email access for millions of Outlook and Exchange Online customers.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "49df1091dd045cdbc0172968c83d9285e1d9820f", "quote": "The nearly 24-hour outage took down email for millions of customers"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Microsoft internally declared an unusual \"Code Red\" over the incident, according to Reuters.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "49df1091dd045cdbc0172968c83d9285e1d9820f", "quote": "declare an unusual \"Code Red\" internally"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

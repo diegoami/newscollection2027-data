@@ -1,0 +1,32 @@
+{
+  "anchor": "cf77c858a1dcacd16d03ad6107be26c358d2b8cc",
+  "id": "2026-11-25-2ffac0",
+  "items": [
+    {
+      "item_id": "cf77c858a1dcacd16d03ad6107be26c358d2b8cc",
+      "lede": "You'll be able to schedule a text, photo or video message up to 14 days in advance.",
+      "outlet": "engadget",
+      "published": "2026-11-25T16:54:10Z",
+      "title": "WhatsApp is finally offering scheduled messages",
+      "url": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/"
+    },
+    {
+      "item_id": "ff23b12ebb8220f454ab2f2bd750ce3bf9c2344a",
+      "lede": "Users can schedule messages from 10 minutes later to after 14 days.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T16:57:51Z",
+      "title": "WhatsApp now lets you schedule messages in group and individual chats",
+      "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/"
+    },
+    {
+      "item_id": "2669f263fdac9cdec235e8c5aeb89bf936742f19",
+      "lede": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-25T20:31:48Z",
+      "title": "WhatsApp\u2019s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

@@ -1,0 +1,63 @@
+{
+  "analysis": {
+    "agreement": "full",
+    "backend": "claude_code",
+    "claims": [
+      {
+        "id": "c1",
+        "sources": [
+          {
+            "item_id": "ff23b12ebb8220f454ab2f2bd750ce3bf9c2344a",
+            "outlet": "techcrunch",
+            "quote": "WhatsApp now lets you schedule messages in group and individual chats"
+          },
+          {
+            "item_id": "2669f263fdac9cdec235e8c5aeb89bf936742f19",
+            "outlet": "theverge",
+            "quote": "with the ability to schedule messages in advance for both private conversations and group chats"
+          }
+        ],
+        "statement": "WhatsApp launched a scheduled-messages feature for both individual and group chats."
+      },
+      {
+        "id": "c2",
+        "sources": [
+          {
+            "item_id": "cf77c858a1dcacd16d03ad6107be26c358d2b8cc",
+            "outlet": "engadget",
+            "quote": "You'll be able to schedule a text, photo or video message up to 14 days in advance."
+          },
+          {
+            "item_id": "ff23b12ebb8220f454ab2f2bd750ce3bf9c2344a",
+            "outlet": "techcrunch",
+            "quote": "Users can schedule messages from 10 minutes later to after 14 days."
+          }
+        ],
+        "statement": "Messages, including text, photo or video, can be scheduled up to 14 days in advance."
+      },
+      {
+        "id": "c3",
+        "sources": [
+          {
+            "item_id": "2669f263fdac9cdec235e8c5aeb89bf936742f19",
+            "outlet": "theverge",
+            "quote": "WhatsApp\u2019s 3 billion users are getting an option that Meta says is one of the most requested features"
+          }
+        ],
+        "statement": "Meta says scheduled messages is one of WhatsApp's most requested features, now available to its 3 billion users."
+      }
+    ],
+    "cluster_id": "2026-11-25-2ffac0",
+    "cluster_version": 1,
+    "discrepancies": [],
+    "generated_at": "2026-11-26T02:35:00Z",
+    "headline": "WhatsApp launches scheduled messages for chats and groups",
+    "model": "claude-sonnet-5",
+    "summary": "WhatsApp rolled out a scheduled-messages feature letting users set texts, photos or videos to send from 10 minutes to 14 days later, for both individual and group chats. Meta calls it one of WhatsApp's most requested features, now reaching its 3 billion users."
+  },
+  "cluster_id": "2026-11-25-2ffac0",
+  "problems": [
+    "quote: not verbatim in theverge 2669f263fdac9cdec235e8c5aeb89bf936742f19's title or lede: 'WhatsApp\u2019s 3 billion users are getting an option that Meta says is one of the most requested features'"
+  ],
+  "rejected_at": "2026-11-26T02:26:57Z"
+}

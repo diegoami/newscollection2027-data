@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-25-ed4994",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:40:00Z",
+  "headline": "Nothing reveals AI earbuds, Ear (note), ahead of December 8 launch",
+  "summary": "Nothing detailed its upcoming AI earbuds, the Ear (note), ahead of their December 8th release. The buds can record calls, while the charging case can record, transcribe and summarize conversations via a microphone-equipped 'Talk' button.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nothing revealed detailed AI earbuds, the Ear (note), ahead of their December 8th release.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "6b1c4ab3d056003c48be90a75c210421413d0b4d", "quote": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release."},
+        {"outlet": "engadget", "item_id": "041d5701affdfae7c7f168a03ef330fd51f9320b", "quote": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The earbuds can record calls, and their charging case can record, transcribe and summarize conversations.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "6b1c4ab3d056003c48be90a75c210421413d0b4d", "quote": "The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Nothing said it would share more details on December 8.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "041d5701affdfae7c7f168a03ef330fd51f9320b", "quote": "The company has promised to share more details on December 8."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

@@ -1,0 +1,28 @@
+{
+  "cluster_id": "2026-11-25-c30065",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Amazon Autos to launch car sales in UK in early 2027",
+  "summary": "Amazon Autos will begin selling cars in the UK in early 2027, its first expansion outside the US, launching with vehicles from South Korean automaker Hyundai in a move that could disrupt Britain's roughly £200bn vehicle retail market.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon Autos will begin selling cars in the UK in early 2027, its first market outside the US.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "e06cab91631109e6877ca397cbde6c0db3d0189a", "quote": "Amazon Autos is coming to the UK in its first expansion outside the US"},
+        {"outlet": "theguardian", "item_id": "ae5493d15244c05b7beec202f92ac8c73fbf9b47", "quote": "The Amazon Autos service will be launched in “early 2027”, starting with cars from the Korean manufacturer"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The launch will start with vehicles from Hyundai, a South Korean automaker, in a market worth roughly £200bn.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "ae5493d15244c05b7beec202f92ac8c73fbf9b47", "quote": "links up with Hyundai in attempt to crack £200bn British market"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

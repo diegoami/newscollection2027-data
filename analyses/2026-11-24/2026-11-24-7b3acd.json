@@ -1,0 +1,38 @@
+{
+  "cluster_id": "2026-11-24-7b3acd",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "GTA 6 PC recompilation project shut down after takedown notice",
+  "summary": "Project Leonida, a fan effort to bring GTA 6's console build to PC, was shut down and its Discord and GitHub servers taken offline, with its 15-year-old creator banned until 2028. Outlets differ on which party is responsible, naming either Rockstar or publisher Take-Two.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Project Leonida, a fan effort to bring GTA 6's console build to PC, was shut down, taking its Discord and GitHub servers offline.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "83b4b107161cb62d7f7f80b51f87240fb2f6ff55", "quote": "Project Leonida, a recompilation project aiming to bring the console version of GTA 6 to the PC, has shut down with its Discord and GitHub servers offline"},
+        {"outlet": "theverge", "item_id": "16b41b9e1d8a0d6f8d5b2fc8d66670f3d1b07486", "quote": "Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two."}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The project's creator, a 15-year-old, was banned from the project's own Discord until 2028.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "83b4b107161cb62d7f7f80b51f87240fb2f6ff55", "quote": "its creator is now banned from the former until 2028"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "The outlets attribute the takedown to different parties: Tom's Hardware's headline names Rockstar, while The Verge says the DMCA notice came from publisher Take-Two.",
+      "quotes": [
+        {"outlet": "tomshardware", "item_id": "83b4b107161cb62d7f7f80b51f87240fb2f6ff55", "quote": "Rockstar nukes 15-year-old’s GTA 6 recompilation project, Discord and GitHub servers taken down"},
+        {"outlet": "theverge", "item_id": "16b41b9e1d8a0d6f8d5b2fc8d66670f3d1b07486", "quote": "a DMCA takedown notice from GTA VI publisher Take-Two"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

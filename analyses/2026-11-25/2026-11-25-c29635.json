@@ -1,0 +1,49 @@
+{
+  "cluster_id": "2026-11-25-c29635",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "1Password breach exposed customer names, emails, not passwords",
+  "summary": "1Password disclosed a data breach after an employee's corporate GitHub account was compromised and used to access backend systems, letting an attacker steal customer names and email addresses. The company said passwords and other vault data were not exposed, though affected users could face phishing risks.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "1Password disclosed a breach in which an attacker accessed an employee's account and stole some customer data, but not passwords.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b", "quote": "1Password said hackers broke into its internal systems, but customer passwords are safe"},
+        {"outlet": "theverge", "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9", "quote": "1Password breach leaked customer names and emails, but not passwords"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The attacker stole customer names and email addresses.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9", "quote": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The breach began with an employee's corporate GitHub account being hacked and used to deploy malicious code to backend services.",
+      "sources": [
+        {"outlet": "bleepingcomputer", "item_id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e", "quote": "an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data."}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "1Password said an attacker gained access to an employee's corporate account and took some customer information.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b", "quote": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers."}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "1Password said passwords and other vault information were not exposed, though users could face phishing risk.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9", "quote": "The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

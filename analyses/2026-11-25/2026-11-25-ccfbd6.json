@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-25-ccfbd6",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:40:00Z",
+  "headline": "Amazon and Meta reportedly in talks to end Muse AI block",
+  "summary": "Amazon and Meta are reportedly discussing a deal to end Amazon's roughly two-month block on Meta's Muse AI shopping agent, with talks said to focus on which products Muse can recommend and the potential effect on Amazon's advertising revenue.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Amazon and Meta are reportedly in talks to end Amazon's block on Meta's Muse AI shopping agent.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "61cb6e1f95ec64ca2b757ca317842ce7added38c", "quote": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse"},
+        {"outlet": "theverge", "item_id": "e1845ee0b548d25f61758bca2b25bc9ff235b003", "quote": "Amazon is reportedly in talks to end Muse AI shopping block"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The blockade of Muse has lasted about two months.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "61cb6e1f95ec64ca2b757ca317842ce7added38c", "quote": "a potential deal that would end a two-month-long blockade of Muse"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The discussions reportedly center on which products Muse can recommend and the potential impact on Amazon's advertising revenue, according to Fortune.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "e1845ee0b548d25f61758bca2b25bc9ff235b003", "quote": "The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

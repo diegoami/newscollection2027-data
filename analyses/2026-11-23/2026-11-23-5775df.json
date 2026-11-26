@@ -1,0 +1,52 @@
+{
+  "cluster_id": "2026-11-23-5775df",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Army detonates lead azide stockpile in Iowa; weight estimates vary",
+  "summary": "The US Army conducted a controlled detonation of its lead azide stockpile at an Iowa ammunition plant to prevent a possible spontaneous explosion, after local officials said they learned details mainly from a press release. The EPA later reported 'zero' airborne lead. Outlets gave different figures for the stockpile's weight, ranging from 9,500 to nearly 10,000 pounds.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "The Army said the detonation was needed to prevent the possible spontaneous explosion of stored lead azide.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "aeef62858770883416a98f9634076feb38313c4d", "quote": "to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Local Iowa officials said they learned most of the details about the planned detonation through a press release.",
+      "sources": [
+        {"outlet": "wired", "item_id": "d7c892f2f038c7696ca2825d001918d7d94aacfc", "quote": "Local officials say they learned most of the details through a press release."}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The Army carried out the detonation at the Iowa Army Ammunition Plant in Middletown, Iowa.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "aeef62858770883416a98f9634076feb38313c4d", "quote": "at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The EPA reported finding 'zero' airborne lead after the detonation.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "aeef62858770883416a98f9634076feb38313c4d", "quote": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "number",
+      "severity": "high",
+      "explanation": "Outlets give different weights for the lead azide stockpile: Wired reported 9,500 pounds, while The Verge said nearly 10,000 pounds in one report and over 9,700 pounds in another.",
+      "quotes": [
+        {"outlet": "wired", "item_id": "d7c892f2f038c7696ca2825d001918d7d94aacfc", "quote": "9,500 pounds of lead azide held at an Iowa ammunition plant"},
+        {"outlet": "theverge", "item_id": "cffe7bfdfa1c283933cbdcd581a3967b77d96d9a", "quote": "blow up nearly 10,000 pounds of unstable explosives in Iowa"},
+        {"outlet": "theverge", "item_id": "aeef62858770883416a98f9634076feb38313c4d", "quote": "a controlled detonation of over 9,700 pounds of lead azide today"}
+      ]
+    }
+  ],
+  "agreement": "conflicting"
+}

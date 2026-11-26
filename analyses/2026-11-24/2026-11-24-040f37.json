@@ -1,0 +1,70 @@
+{
+  "cluster_id": "2026-11-24-040f37",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Huawei convicted of stealing US trade secrets, acquitted of racketeering",
+  "summary": "A US jury convicted Huawei on 10 of 12 counts, including stealing trade secrets, money laundering, fraud and evading Iran sanctions, while acquitting it of racketeering. The charges, dating back to 2019, followed a months-long New York trial. Attorney General Todd Blanche said no person or company is above the law, and prosecutors said Huawei used front company names and did little to hide the thefts.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "A US jury convicted Huawei of stealing trade secrets from American companies.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "09ef7d778b8b8e18f2bf12c72ff10844345587ed", "quote": "China’s Huawei convicted of stealing US trade secrets"},
+        {"outlet": "theverge", "item_id": "4e956f5da2942ccbca160aa34eeb85802d9b0b29", "quote": "Huawei found guilty of stealing trade secrets"},
+        {"outlet": "bbc-technology", "item_id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc", "quote": "Huawei found guilty of stealing trade secrets but acquitted of racketeering"},
+        {"outlet": "arstechnica", "item_id": "9cfcbabc051f9e01a5d73064303296bf5bbc70a2", "quote": "Jury convicts Huawei of stealing US trade secrets, evading Iran sanctions"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The jury found Huawei guilty on 10 of 12 criminal counts.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "09ef7d778b8b8e18f2bf12c72ff10844345587ed", "quote": "found guilty on 10 of 12 criminal counts"},
+        {"outlet": "tomshardware", "item_id": "db953fd913e9a6ded6ea9a344b483af51875aa6a", "quote": "A jury found Huawei guilty on 10 out of 12 counts"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Huawei was acquitted of racketeering charges.",
+      "sources": [
+        {"outlet": "bbc-technology", "item_id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc", "quote": "but acquitted of racketeering"},
+        {"outlet": "tomshardware", "item_id": "db953fd913e9a6ded6ea9a344b483af51875aa6a", "quote": "it was acquitted of racketeering and conspiracy to obstruct justice"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Huawei was also convicted of money laundering and fraud, and of evading US sanctions on Iran.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "db953fd913e9a6ded6ea9a344b483af51875aa6a", "quote": "Huawei convicted of money laundering, conspiracy to steal trade secrets, and fraud by US jury"},
+        {"outlet": "arstechnica", "item_id": "9cfcbabc051f9e01a5d73064303296bf5bbc70a2", "quote": "evading Iran sanctions"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The charges stemmed from conduct dating back to 2019 and followed a months-long trial in New York.",
+      "sources": [
+        {"outlet": "engadget", "item_id": "1c6bec95482d678881fddaff51aeafa7486c5cc4", "quote": "The charges against the Chinese tech company date back to 2019."},
+        {"outlet": "bbc-technology", "item_id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc", "quote": "The verdict follows a months-long trial in New York."}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "US Attorney General Todd Blanche said no person or company is above the law.",
+      "sources": [
+        {"outlet": "theguardian", "item_id": "09ef7d778b8b8e18f2bf12c72ff10844345587ed", "quote": "US attorney general Todd Blanche says ‘No person or company is above the law’"}
+      ]
+    },
+    {
+      "id": "c7",
+      "statement": "Prosecutors said the defendants used fake company names and did not try hard to conceal the thefts.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "c77d4e597e1d221eb5d3d21f30285af786eb7f3c", "quote": "Criminal masterminds claimed to work for ‘Weihua’ or to have source code from ‘oscic’ instead of Cisco"},
+        {"outlet": "arstechnica", "item_id": "9cfcbabc051f9e01a5d73064303296bf5bbc70a2", "quote": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says."}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

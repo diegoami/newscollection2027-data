@@ -1,0 +1,73 @@
+{
+  "cluster_id": "2026-11-24-eb294c",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:35:00Z",
+  "headline": "Jensen Huang apologizes to Nvidia staff at first all-hands since return",
+  "summary": "At his first all-hands meeting since being reinstated as Nvidia CEO, Jensen Huang apologized to staff, acknowledged violating the company's code of conduct over extramarital affairs, and discussed therapy and his 'tech bro' reputation. He denied receiving special government treatment. Outlets differ on whether he distanced himself from White House involvement in his return or thanked the White House during the meeting.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Huang apologized to Nvidia staff during his first all-hands meeting since being reinstated as CEO.",
+      "sources": [
+        {"outlet": "wired", "item_id": "9336a8c017b0a140262a8fdb08d103f314a0fb9f", "quote": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return"},
+        {"outlet": "theverge", "item_id": "32af257829de969688cb2a7c428e4b6af398aa4a", "quote": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company"},
+        {"outlet": "theguardian", "item_id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685", "quote": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’"},
+        {"outlet": "techcrunch", "item_id": "5f077d12f5abe5fadd84a97254446e824db2d866", "quote": "The Nvidia founder apologized to his staff on Tuesday"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Huang acknowledged violating Nvidia's code of conduct, citing extramarital affairs, and called them serious personal mistakes.",
+      "sources": [
+        {"outlet": "wired", "item_id": "9336a8c017b0a140262a8fdb08d103f314a0fb9f", "quote": "acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”"},
+        {"outlet": "theguardian", "item_id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685", "quote": "Huang acknowledges he violated code of conduct by having affairs"},
+        {"outlet": "techcrunch", "item_id": "fb5a7d58c9a946b018dd7a67420ed9147b1e5b0d", "quote": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Huang discussed his daily therapy sessions and his reputation as a 'tech bro' during the meeting.",
+      "sources": [
+        {"outlet": "wired", "item_id": "a96c48c3a7de677a73d4c354584d018a4a481163", "quote": "his daily therapy sessions, his reputation as a “tech bro,”"},
+        {"outlet": "techcrunch", "item_id": "5f077d12f5abe5fadd84a97254446e824db2d866", "quote": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy"},
+        {"outlet": "tomshardware", "item_id": "aeb959b9d1c90a6bfce23754997dfa6d47ad334a", "quote": "there are rumors on the internet that apparently I’m a tech bro, and therefore I’m back"}
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Huang denied getting special government treatment and said rumors he is a 'tech bro' explain his return.",
+      "sources": [
+        {"outlet": "tomshardware", "item_id": "aeb959b9d1c90a6bfce23754997dfa6d47ad334a", "quote": "Jensen Huang denies special government treatment at first Nvidia all-hands since return"}
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Huang discussed his disdain for succession planning and his relationship with President Trump.",
+      "sources": [
+        {"outlet": "wired", "item_id": "a96c48c3a7de677a73d4c354584d018a4a481163", "quote": "his disdain for succession planning, and his relationship with President Trump."}
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "Huang said he was grateful for a second chance to lead the company.",
+      "sources": [
+        {"outlet": "techcrunch", "item_id": "5f077d12f5abe5fadd84a97254446e824db2d866", "quote": "said he was grateful for a second chance to lead the company"}
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "explanation": "The Verge and The Guardian report Huang denying that Trump or the White House was instrumental in his reinstatement, while TechCrunch reports Huang thanking the White House during the same meeting.",
+      "quotes": [
+        {"outlet": "theverge", "item_id": "32af257829de969688cb2a7c428e4b6af398aa4a", "quote": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired"},
+        {"outlet": "theguardian", "item_id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685", "quote": "denied Trump was instrumental in his return"},
+        {"outlet": "techcrunch", "item_id": "5f077d12f5abe5fadd84a97254446e824db2d866", "quote": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy"}
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

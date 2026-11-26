@@ -1,0 +1,32 @@
+{
+  "anchor": "6359c2ce0900437371d3630aa30704e087d30f5c",
+  "id": "2026-11-25-c26da1",
+  "items": [
+    {
+      "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+      "lede": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-25T17:44:51Z",
+      "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+      "lede": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "outlet": "arstechnica",
+      "published": "2026-11-25T18:22:38Z",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+    },
+    {
+      "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1",
+      "lede": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T20:56:44Z",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

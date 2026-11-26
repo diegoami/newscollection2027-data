@@ -1,0 +1,35 @@
+{
+  "cluster_id": "2026-11-25-aec817",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-26T02:40:00Z",
+  "headline": "FinCEN discloses cybersecurity incident, takes systems offline",
+  "summary": "FinCEN, the Treasury Department's financial crimes bureau, disclosed a cybersecurity incident involving unauthorized access to some of its systems, taking systems offline and extending filing deadlines while it investigates. The bureau has not detailed the incident's scope or source.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "FinCEN, part of the Treasury Department, disclosed it is investigating a cybersecurity incident involving unauthorized access to some of its systems.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3", "quote": "it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\""},
+        {"outlet": "theregister", "item_id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a", "quote": "US Treasury financial crimes unit becomes latest fed breach victim"}
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "FinCEN has not disclosed the scope or source of the incident.",
+      "sources": [
+        {"outlet": "theverge", "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3", "quote": "hasn't offered any information about the full scope or source"}
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "FinCEN took systems offline and extended filing deadlines while investigating the unauthorized access.",
+      "sources": [
+        {"outlet": "theregister", "item_id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a", "quote": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'"}
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}
