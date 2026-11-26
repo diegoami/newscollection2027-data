@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "16bed08c62d165f09a7e0f38daeb96d971a29d8a",
+    "lede": "Expiring IPv6 routes can bring affected systems down, though corrective update doesn't require a restart",
+    "outlet": "theregister",
+    "published": "2026-11-26T12:27:00Z",
+    "title": "Microsoft hotpatches hotpatch that could crash Windows Server 2025",
+    "url": "https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301"
+  },
+  "b": {
+    "item_id": "d0dd2916cf583a593ab5e8f54f3b3bc181bfb6f8",
+    "lede": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-23T09:11:15Z",
+    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"
+  },
+  "score": 0.624797
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "77c3b83c4c212f74365414c8836d7d0fe729ed4f",
+    "lede": "Forrester warns that shiny new services rest on brittle systems as organizations skimp on resilience",
+    "outlet": "theregister",
+    "published": "2026-11-26T17:09:00Z",
+    "title": "Tech's outage problem needs maintenance, not conspiracy theories",
+    "url": "https://www.theregister.com/research/2026/11/26/techs-outage-problem-needs-maintenance-not-conspiracy-theories/5312180"
+  },
+  "b": {
+    "item_id": "a903b208e0b06d44368bc390ad480fc2dd92949d",
+    "lede": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T15:01:11Z",
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
+  },
+  "score": 0.595499
+}

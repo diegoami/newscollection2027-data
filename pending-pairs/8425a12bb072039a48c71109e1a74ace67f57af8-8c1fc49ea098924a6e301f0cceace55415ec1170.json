@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8425a12bb072039a48c71109e1a74ace67f57af8",
+    "lede": "The company\u2019s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+    "outlet": "wired",
+    "published": "2026-11-23T14:27:35Z",
+    "title": "Jensen Huang Is Back as Nvidia CEO",
+    "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+  },
+  "b": {
+    "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+    "lede": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "outlet": "engadget",
+    "published": "2026-11-26T18:09:18Z",
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+  },
+  "score": 0.616594
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+    "lede": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "outlet": "engadget",
+    "published": "2026-11-26T18:09:18Z",
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+  },
+  "b": {
+    "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+    "lede": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "outlet": "techcrunch",
+    "published": "2026-11-26T20:03:54Z",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+  },
+  "score": 0.649382
+}

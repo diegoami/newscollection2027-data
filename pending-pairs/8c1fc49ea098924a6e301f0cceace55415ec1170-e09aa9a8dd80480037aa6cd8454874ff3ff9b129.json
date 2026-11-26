@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+    "lede": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "outlet": "engadget",
+    "published": "2026-11-26T18:09:18Z",
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+  },
+  "b": {
+    "item_id": "e09aa9a8dd80480037aa6cd8454874ff3ff9b129",
+    "lede": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+    "outlet": "arstechnica",
+    "published": "2026-11-23T15:46:18Z",
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+  },
+  "score": 0.573906
+}

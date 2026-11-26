@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2428b477d259bdd854244855a5281433c2fa6f53",
+    "lede": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+    "outlet": "engadget",
+    "published": "2026-11-22T21:00:00Z",
+    "title": "How Secure Is Your Password? Here's How To Test It",
+    "url": "https://www.engadget.com/2319522/how-secure-is-password/"
+  },
+  "b": {
+    "item_id": "f20e7e07ea68eb3e40e98ff727a780e90116fa67",
+    "lede": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+    "outlet": "engadget",
+    "published": "2026-11-26T20:00:00Z",
+    "title": "1Password says it was hacked but users' vaults are safe",
+    "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
+  },
+  "score": 0.611328
+}

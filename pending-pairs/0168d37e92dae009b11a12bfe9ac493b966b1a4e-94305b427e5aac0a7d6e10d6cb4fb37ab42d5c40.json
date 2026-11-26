@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "0168d37e92dae009b11a12bfe9ac493b966b1a4e",
+    "lede": "Data centers in Singapore, Malaysia, Thailand, and Indonesia are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered.",
+    "outlet": "tomshardware",
+    "published": "2026-11-26T16:00:00Z",
+    "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+    "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license"
+  },
+  "b": {
+    "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+    "lede": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "outlet": "techcrunch",
+    "published": "2026-11-26T20:03:54Z",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+  },
+  "score": 0.724272
+}

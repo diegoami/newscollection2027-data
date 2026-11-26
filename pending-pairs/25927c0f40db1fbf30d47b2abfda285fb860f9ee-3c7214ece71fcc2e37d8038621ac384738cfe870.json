@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "25927c0f40db1fbf30d47b2abfda285fb860f9ee",
+    "lede": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+    "outlet": "techcrunch",
+    "published": "2026-11-26T20:00:00Z",
+    "title": "Is Alice Huang a spy or not?",
+    "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+  },
+  "b": {
+    "item_id": "3c7214ece71fcc2e37d8038621ac384738cfe870",
+    "lede": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-23T22:45:51Z",
+    "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+    "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+  },
+  "score": 0.688597
+}

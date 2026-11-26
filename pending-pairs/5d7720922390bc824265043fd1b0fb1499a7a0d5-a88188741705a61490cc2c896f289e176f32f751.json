@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5",
+    "lede": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-23T22:38:09Z",
+    "title": "Ladybird, the first new browser engine in years, is now available to test",
+    "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing"
+  },
+  "b": {
+    "item_id": "a88188741705a61490cc2c896f289e176f32f751",
+    "lede": "Upstart engine gets downloadable macOS and Linux builds, but no security guarantees",
+    "outlet": "theregister",
+    "published": "2026-11-26T18:15:00Z",
+    "title": "Indie web browser Ladybird enters alpha testing",
+    "url": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914"
+  },
+  "score": 0.720121
+}

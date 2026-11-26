@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1f490d1f9d9ea49812304a76ba492ccf4fbd7438",
+    "lede": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+    "outlet": "theregister",
+    "published": "2026-11-26T19:04:00Z",
+    "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+  },
+  "b": {
+    "item_id": "63da0c2dc0919fd6fd74839aa07bc9e06a05505b",
+    "lede": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T19:39:31Z",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  "score": 0.575054
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "70f66acc3de798b1e8aebeffe425a3fdc3d9e77e",
+    "lede": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T21:33:33Z",
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+  },
+  "b": {
+    "item_id": "f20e7e07ea68eb3e40e98ff727a780e90116fa67",
+    "lede": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+    "outlet": "engadget",
+    "published": "2026-11-26T20:00:00Z",
+    "title": "1Password says it was hacked but users' vaults are safe",
+    "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
+  },
+  "score": 0.702198
+}

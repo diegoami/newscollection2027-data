@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1f490d1f9d9ea49812304a76ba492ccf4fbd7438",
+    "lede": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+    "outlet": "theregister",
+    "published": "2026-11-26T19:04:00Z",
+    "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+  },
+  "b": {
+    "item_id": "cb0d7372f9a0d9c643e35d23f752c814dae39e3b",
+    "lede": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  "score": 0.679401
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1f490d1f9d9ea49812304a76ba492ccf4fbd7438",
+    "lede": "Agentic offensive framework automates familiar attack techniques, with weak defenses potentially breached in minutes",
+    "outlet": "theregister",
+    "published": "2026-11-26T19:04:00Z",
+    "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+    "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433"
+  },
+  "b": {
+    "item_id": "21c67f84759f6dc51b11827c55ed14cfc61314e9",
+    "lede": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+    "outlet": "arstechnica",
+    "published": "2026-11-24T12:30:05Z",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+  },
+  "score": 0.61847
+}
