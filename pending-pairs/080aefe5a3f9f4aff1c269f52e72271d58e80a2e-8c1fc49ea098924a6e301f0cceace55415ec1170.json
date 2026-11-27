@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "080aefe5a3f9f4aff1c269f52e72271d58e80a2e",
+    "lede": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-26T23:08:12Z",
+    "title": "Asia made a big AI bet on Nvidia. What happens now?",
+    "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo"
+  },
+  "b": {
+    "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+    "lede": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "outlet": "engadget",
+    "published": "2026-11-26T18:09:18Z",
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/"
+  },
+  "score": 0.617763
+}
