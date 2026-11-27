@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "30a43f231a877acd479f58881357908d335008c2",
+    "lede": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T10:10:15Z",
+    "title": "Drupal warns of new site takeover flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "7bb089ac45e5adb87c1510472312f70f252ea9d3",
+    "lede": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T10:10:20Z",
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  "score": 0.885121
+}

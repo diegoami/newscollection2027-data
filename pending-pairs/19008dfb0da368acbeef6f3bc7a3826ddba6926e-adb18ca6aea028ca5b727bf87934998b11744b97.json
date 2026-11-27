@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19008dfb0da368acbeef6f3bc7a3826ddba6926e",
+    "lede": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force\u2019s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF\u2019s Cloud One platform could jeopardize the security of sensitive",
+    "outlet": "theguardian",
+    "published": "2026-11-27T14:50:15Z",
+    "title": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+  },
+  "b": {
+    "item_id": "adb18ca6aea028ca5b727bf87934998b11744b97",
+    "lede": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T17:49:05Z",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  "score": 0.673956
+}

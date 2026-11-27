@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2778b393e63471997b0074f9fce946641cb7ebab",
+    "lede": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T15:09:40Z",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+  },
+  "b": {
+    "item_id": "766bb8aedbf1c5ba84d5c68bdd3c7e8e9f3165d3",
+    "lede": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T01:00:00Z",
+    "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+    "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident"
+  },
+  "score": 0.593901
+}

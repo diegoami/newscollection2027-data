@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2778b393e63471997b0074f9fce946641cb7ebab",
+    "lede": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T15:09:40Z",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+  },
+  "b": {
+    "item_id": "63da0c2dc0919fd6fd74839aa07bc9e06a05505b",
+    "lede": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T19:39:31Z",
+    "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/"
+  },
+  "score": 0.573756
+}

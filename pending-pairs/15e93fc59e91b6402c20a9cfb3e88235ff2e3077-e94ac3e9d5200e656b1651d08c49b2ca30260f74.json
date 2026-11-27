@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "15e93fc59e91b6402c20a9cfb3e88235ff2e3077",
+    "lede": "\u200bA 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T08:06:58Z",
+    "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+    "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+  },
+  "b": {
+    "item_id": "e94ac3e9d5200e656b1651d08c49b2ca30260f74",
+    "lede": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T13:34:23Z",
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+    "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
+  },
+  "score": 0.606233
+}

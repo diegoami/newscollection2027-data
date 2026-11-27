@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "2778b393e63471997b0074f9fce946641cb7ebab",
+    "lede": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T15:09:40Z",
+    "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/"
+  },
+  "b": {
+    "item_id": "adb18ca6aea028ca5b727bf87934998b11744b97",
+    "lede": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T17:49:05Z",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  "score": 0.587931
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "96edb4ed0f1cdbb3104e477ac86712a99137cdad",
+    "lede": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T15:00:10Z",
+    "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+    "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/"
+  },
+  "b": {
+    "item_id": "adb18ca6aea028ca5b727bf87934998b11744b97",
+    "lede": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T17:49:05Z",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  "score": 0.579664
+}

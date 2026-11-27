@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "84e2117a560c66f4d8d9c76cbee0a5f7d0ef350a",
+    "lede": "TSMC announces availability of its version 0.9 process design kit for its A14 manufacturing technology. Availability of the v0.9 version of PDK signals that the fabrication process is generally ready for design and production.",
+    "outlet": "tomshardware",
+    "published": "2026-11-26T13:00:00Z",
+    "title": "TSMC's A14 1.4nm-class node is ready for chip design",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p"
+  },
+  "b": {
+    "item_id": "b2b22398ee8b7af01f6c145cd21fa1922001ed81",
+    "lede": "TSMC brings agentic AI to chip design as A14 design rule count hits 3.6X that of N5 while customers demand 33% shorter development cycle.",
+    "outlet": "tomshardware",
+    "published": "2026-11-27T13:00:00Z",
+    "title": "TSMC gives a sneap peak at AI Design Kit: Agentic AI with foundry expertise",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise"
+  },
+  "score": 0.575519
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "30a43f231a877acd479f58881357908d335008c2",
+    "lede": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T10:10:15Z",
+    "title": "Drupal warns of new site takeover flaw exploited in attacks",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
+  },
+  "b": {
+    "item_id": "cb0d7372f9a0d9c643e35d23f752c814dae39e3b",
+    "lede": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "outlet": "techcrunch",
+    "published": "2026-11-24T18:02:59Z",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+  },
+  "score": 0.604219
+}

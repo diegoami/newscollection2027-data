@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "19008dfb0da368acbeef6f3bc7a3826ddba6926e",
+    "lede": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force\u2019s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF\u2019s Cloud One platform could jeopardize the security of sensitive",
+    "outlet": "theguardian",
+    "published": "2026-11-27T14:50:15Z",
+    "title": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+  },
+  "b": {
+    "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+    "lede": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-24T21:37:30Z",
+    "title": "Rackspace shuts down Spot cloud platform after security breach",
+    "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+  },
+  "score": 0.577287
+}
