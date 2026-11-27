@@ -1,0 +1,106 @@
+{
+  "cluster_id": "2026-11-26-24b290",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "Nvidia reportedly halts AI chip shipments to Southeast Asia",
+  "summary": "Nvidia has reportedly halted AI chip shipments to data centers in Singapore, Malaysia, Thailand, and Indonesia, tied to U.S. efforts to keep AI chips out of China, in the same week it reinstated Jensen Huang as CEO. Outlets differ on whether the halt stems from a new export-license requirement or Nvidia's own directive to partners.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Nvidia has reportedly halted AI chip shipments to Southeast Asia.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "0168d37e92dae009b11a12bfe9ac493b966b1a4e",
+          "quote": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+          "quote": "NVIDIA reportedly halts AI chip shipments to Southeast Asia"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+          "quote": "Nvidia hits pause on chip shipments to Southeast Asia"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Facilities in Singapore, Malaysia, Thailand, and Indonesia are affected.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "0168d37e92dae009b11a12bfe9ac493b966b1a4e",
+          "quote": "Data centers in Singapore, Malaysia, Thailand, and Indonesia"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+          "quote": "pause server shipments to Malaysia, Singapore, Thailand and Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Affected facilities now need export licenses to receive Nvidia AI GPUs.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "0168d37e92dae009b11a12bfe9ac493b966b1a4e",
+          "quote": "are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The move is tied to U.S. efforts to keep AI chips out of China.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+          "quote": "as the U.S. tightens its push to keep AI chips out of China."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The halt comes in the same week Nvidia reinstated Jensen Huang as CEO.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "8c1fc49ea098924a6e301f0cceace55415ec1170",
+          "quote": "In the same week that NVIDIA reinstated Jensen Huang as its CEO"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "attribution",
+      "severity": "medium",
+      "claim_ids": [
+        "c1",
+        "c3",
+        "c4"
+      ],
+      "explanation": "Tom's Hardware attributes the halt to a new export-license requirement, while TechCrunch says Nvidia itself told partners to pause shipments.",
+      "quotes": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "0168d37e92dae009b11a12bfe9ac493b966b1a4e",
+          "quote": "are now required to obtain export licenses if they want to get their Nvidia AI GPUs delivered."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "94305b427e5aac0a7d6e10d6cb4fb37ab42d5c40",
+          "quote": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

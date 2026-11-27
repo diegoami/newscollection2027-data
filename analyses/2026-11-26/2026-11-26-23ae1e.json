@@ -1,0 +1,83 @@
+{
+  "cluster_id": "2026-11-26-23ae1e",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "X rolls out its first-ever parental control features",
+  "summary": "X is rolling out its first parental controls, letting parents and guardians see how much time their child spends on the platform, set daily limits, and require approval for new followers, while teens keep ownership of their accounts. Outlets note X and Twitter had never offered real parental controls before.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "X is rolling out its first parental controls feature.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "57902ac8c68f9602a043c4f4fc2a1b82445e4738",
+          "quote": "X is adding its first-ever parental controls"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "e95bfe93c4884da153f718b3d3bb307fc433fd16",
+          "quote": "X is finally getting its first parental controls"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "9ab1d867793feae9e16298afafc388ed5ee08fc0",
+          "quote": "X finally gets parental controls after 20 years"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Parents and guardians can see how much time their child spends on X and set daily limits.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e95bfe93c4884da153f718b3d3bb307fc433fd16",
+          "quote": "see how much time their child has spent on X, set daily limits"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Teens retain ownership of their own account under the new controls.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e95bfe93c4884da153f718b3d3bb307fc433fd16",
+          "quote": "While teens will retain ownership of their own account"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Parents and guardians can require approval for new followers.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "e95bfe93c4884da153f718b3d3bb307fc433fd16",
+          "quote": "require approval for new followers"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The rollout comes after X and Twitter had never really had parental controls before.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "57902ac8c68f9602a043c4f4fc2a1b82445e4738",
+          "quote": "X (and Twitter before it) have never really had real parental controls. Until now."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "9ab1d867793feae9e16298afafc388ed5ee08fc0",
+          "quote": "after 20 years"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

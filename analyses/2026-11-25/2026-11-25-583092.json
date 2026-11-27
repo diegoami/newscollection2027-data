@@ -1,0 +1,83 @@
+{
+  "cluster_id": "2026-11-25-583092",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "Trump says pardoning Jensen Huang remains an option",
+  "summary": "Trump said pardoning Nvidia CEO Jensen Huang over his affair with an alleged Chinese spy remains an option, as Huang faces a House Foreign Affairs Committee meeting. The alleged spy previously worked for a company accused of illegally diverting Nvidia chips to China. Outlets differ slightly on how directly they characterize her intelligence ties.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Trump says pardoning Jensen Huang is an option.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+          "quote": "pardoning Jensen Huang is \u2018an option\u2019"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "df5a157635989242a1d5422afc6301749570ff3a",
+          "quote": "a pardon for Nvidia CEO Jensen Huang is 'always an option'"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Huang faces ongoing questions about his relationship with Alice Huang, who has alleged ties to Chinese intelligence.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+          "quote": "an executive with alleged ties to Chinese intelligence"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Huang is set to meet with the House Foreign Affairs Committee next week.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "df5a157635989242a1d5422afc6301749570ff3a",
+          "quote": "Huang is set to meet with the House Foreign Affairs Committee next week."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Alice Huang's former company has been accused of illegally diverting Nvidia chips to China.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+          "quote": "a company that has been accused of illegally diverting Nvidia chips to China."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c2"
+      ],
+      "explanation": "TechCrunch describes Alice Huang as having alleged ties to Chinese intelligence, while Tom's Hardware directly calls her an alleged Chinese spy.",
+      "quotes": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+          "quote": "alleged ties to Chinese intelligence"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "df5a157635989242a1d5422afc6301749570ff3a",
+          "quote": "an alleged Chinese spy"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
+}

@@ -1,50 +1,131 @@
 {
   "cluster_id": "2026-11-25-c26da1",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-26T02:40:00Z",
-  "headline": "FCC approves SpaceX plan for up to 1 million AI satellites",
-  "summary": "The FCC authorized SpaceX to deploy up to 1 million AI chip-equipped satellites under its 'Starmind' initiative, the agency's first such approval amid competing plans from Google and Blue Origin. The constellation would increase satellites in orbit roughly 50-fold; the FCC said it dismissed opponents' concerns, including about scientific research, as outside its regulatory authority.",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "FCC approves SpaceX plan for 1 million AI satellites",
+  "summary": "The FCC approved SpaceX's \"Starmind\" plan to deploy up to 1 million AI data-center satellites, dismissing opponents' concerns, including threats to scientific research, as outside its authority. The constellation would increase satellites in orbit roughly 50-fold. Google and Blue Origin are pursuing similar projects. Coverage ranges from skeptical to describing the stated efficiency goal.",
   "claims": [
     {
       "id": "c1",
-      "statement": "The FCC authorized SpaceX to deploy up to 1 million AI-chip-equipped satellites as part of its 'Starmind' initiative.",
+      "statement": "The FCC approved SpaceX's plan to deploy up to 1 million AI data-center satellites.",
       "sources": [
-        {"outlet": "theverge", "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c", "quote": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space"},
-        {"outlet": "arstechnica", "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4", "quote": "The FCC has authorized SpaceX to deploy 1 million satellites"},
-        {"outlet": "techcrunch", "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1", "quote": "FCC approves SpaceX plan to put AI data centers in space"}
+        {
+          "outlet": "theverge",
+          "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+          "quote": "plan to put up to 1 million data center satellites into space"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+          "quote": "The FCC has authorized SpaceX to deploy 1 million satellites"
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1",
+          "quote": "FCC approves SpaceX plan to put AI data centers in space"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+          "quote": "Musk's plan to send a million SpaceX data satellites into space approved"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "1a54762655478f517e5b0dfad61f0e0999c04a0b",
+          "quote": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center"
+        }
       ]
     },
     {
       "id": "c2",
-      "statement": "The satellites are equipped with AI chips as part of SpaceX's 'Starmind' initiative.",
+      "statement": "The project is called \"Starmind.\"",
       "sources": [
-        {"outlet": "theverge", "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c", "quote": "deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative"}
+        {
+          "outlet": "theverge",
+          "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+          "quote": "Starmind"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "ab22efe739306dba9df89c6847b9135e8062084e",
+          "quote": "Approval for \u2018Starmind\u2019 granted"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+          "quote": "The Starmind constellation"
+        }
       ]
     },
     {
       "id": "c3",
-      "statement": "This is the FCC's first such approval, amid competing plans from Google and Blue Origin for space-based AI data centers.",
+      "statement": "The constellation would increase the number of satellites in orbit roughly 50-fold.",
       "sources": [
-        {"outlet": "theverge", "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c", "quote": "several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin"}
+        {
+          "outlet": "arstechnica",
+          "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4",
+          "quote": "This constellation would increase the number of satellites in orbit by roughly 50-fold."
+        }
       ]
     },
     {
       "id": "c4",
-      "statement": "The constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "statement": "The FCC dismissed concerns raised by opponents, including threats to scientific research, as outside its regulatory authority.",
       "sources": [
-        {"outlet": "arstechnica", "item_id": "8540e8010e35347fad47dec9a2ebd683d92837c4", "quote": "This constellation would increase the number of satellites in orbit by roughly 50-fold."}
+        {
+          "outlet": "techcrunch",
+          "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1",
+          "quote": "dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+        }
       ]
     },
     {
       "id": "c5",
-      "statement": "The FCC dismissed some opponents' concerns, including about scientific research, saying they fell outside its regulatory authority.",
+      "statement": "Other companies, including Google and Blue Origin, are also pursuing AI data centers in space.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "a4c3fb2f4ae0413730fb15614e79008e636486e1", "quote": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."}
+        {
+          "outlet": "theverge",
+          "item_id": "6359c2ce0900437371d3630aa30704e087d30f5c",
+          "quote": "including Google and Blue Origin"
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The project aims to be a cost- and energy-efficient way to meet growing AI computing demand.",
+      "sources": [
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+          "quote": "aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+        }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c1",
+        "c6"
+      ],
+      "explanation": "The Register frames the approval skeptically as impractical, while BBC reports the project's stated efficiency rationale without comment.",
+      "quotes": [
+        {
+          "outlet": "theregister",
+          "item_id": "ab22efe739306dba9df89c6847b9135e8062084e",
+          "quote": "a long way from the launchpad, or making sense"
+        },
+        {
+          "outlet": "bbc-technology",
+          "item_id": "1266bb9606f65a2a80ec84a25bf0ba78dc9e4b22",
+          "quote": "aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

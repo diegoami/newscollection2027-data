@@ -1,0 +1,78 @@
+{
+  "cluster_id": "2026-11-25-d42d39",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "New York bans AI chatbot toys for five years",
+  "summary": "New York Governor Kathy Hochul signed a five-year ban on AI chatbot toys, backed by $15,000 daily fines, covering talking stuffed animals, dolls and internet-connected conversational toys. The state attorney general said she would enforce it, and the ban follows research reporting safety failures including exposure to inappropriate content.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "New York Governor Kathy Hochul signed legislation banning AI chatbot toys for five years.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "16e4a7d7fbb202a316f3e832424f7d73709f2a43",
+          "quote": "signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "db5c6ce981c220c3d02a604797919be49ed5cc69",
+          "quote": "has signed into law a five-year ban on the sale of AI chatbot toys."
+        },
+        {
+          "outlet": "techcrunch",
+          "item_id": "4f0b7bfbd5a5d08ec8b3182d379771495c154248",
+          "quote": "New York has banned AI chatbot toys for five years"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The ban is backed by fines of $15,000 per day for violations.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "2e5447c7c5cff867b0114f3e7ff5d2d6fcabeb22",
+          "quote": "backed by $15,000 daily fines"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The state attorney general said she would enforce the ban.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "16e4a7d7fbb202a316f3e832424f7d73709f2a43",
+          "quote": "The state attorney general says she would \u2018not hesitate to enforce\u2019 the five-year ban"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The ban follows research reporting safety failures in AI chatbot toys, including exposure to inappropriate content.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "4f0b7bfbd5a5d08ec8b3182d379771495c154248",
+          "quote": "new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "The law covers toys such as talking stuffed animals, dolls and internet-connected conversational robots.",
+      "sources": [
+        {
+          "outlet": "theguardian",
+          "item_id": "16e4a7d7fbb202a316f3e832424f7d73709f2a43",
+          "quote": "including talking stuffed animals, dolls and robots that use the internet to hold conversations"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

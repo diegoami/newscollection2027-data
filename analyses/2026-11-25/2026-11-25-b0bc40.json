@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-25-b0bc40",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "S&P considers downgrading Nvidia's credit rating over governance risks",
+  "summary": "S&P Global Ratings is considering downgrading Nvidia's credit rating to AA-, citing governance and \"key man\" risks, including smuggling allegations and the lack of CEO succession planning.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "S&P Global Ratings is considering downgrading Nvidia's credit rating.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "707319c903aa5aba2fc9acfb2de05298a993d38a",
+          "quote": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks"
+        },
+        {
+          "outlet": "tomshardware",
+          "item_id": "e0bd58b9ea33778c1b02afa42e3c7b9144c24bfb",
+          "quote": "Credit rating agency puts Nvidia on notice for possible downgrade"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The potential downgrade would lower Nvidia's rating to AA-, the fourth-highest rating.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "707319c903aa5aba2fc9acfb2de05298a993d38a",
+          "quote": "may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The review cites governance and \"key man\" risk concerns.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "707319c903aa5aba2fc9acfb2de05298a993d38a",
+          "quote": "over governance and \u2018key man\u2019 risks"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "S&P cites smuggling allegations and a lack of CEO succession planning as risks.",
+      "sources": [
+        {
+          "outlet": "tomshardware",
+          "item_id": "e0bd58b9ea33778c1b02afa42e3c7b9144c24bfb",
+          "quote": "including the smuggling allegations and the fact the lack of succession planning for its CEO."
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

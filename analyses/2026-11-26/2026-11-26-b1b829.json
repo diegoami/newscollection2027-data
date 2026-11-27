@@ -1,0 +1,61 @@
+{
+  "cluster_id": "2026-11-26-b1b829",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "Rockstar Games workers vote against union recognition",
+  "summary": "Workers at Grand Theft Auto VI developer Rockstar Games voted against formal union recognition, with only about a quarter in favor. The IWGB union says it will continue organizing despite the failed vote.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Rockstar Games workers voted against formal union recognition.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8018eae6270d6b0068cb7475987e582fe16d4e50",
+          "quote": "GTA VI developers vote against unionization"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8ec3c12ec1056586b7086288681ef637b2b6ce69",
+          "quote": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "Only about a quarter of votes favored unionization.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8018eae6270d6b0068cb7475987e582fe16d4e50",
+          "quote": "with only 25 percent of votes in favor of unionization"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8ec3c12ec1056586b7086288681ef637b2b6ce69",
+          "quote": "after only a quarter of workers voted in favor of a formal deal"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "The IWGB union says it will keep organizing despite the failed vote.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "8018eae6270d6b0068cb7475987e582fe16d4e50",
+          "quote": "said that Rockstar workers in the union will continue organizing even without formal recognition"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "8ec3c12ec1056586b7086288681ef637b2b6ce69",
+          "quote": "The IWGB Rockstar Game Workers Union will continue to organize"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

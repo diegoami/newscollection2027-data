@@ -1,28 +1,99 @@
 {
   "cluster_id": "2026-11-23-614146",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-26T02:35:00Z",
-  "headline": "Ladybird browser's alpha brings a new browser engine to testing",
-  "summary": "Ladybird, an independent browser built on a from-scratch engine, released its first public alpha for macOS and Linux testing after more than four years of development, making it the first browser in years to debut an entirely new engine.",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "Ladybird browser's first alpha arrives for macOS and Linux",
+  "summary": "Independent browser project Ladybird released its first downloadable alpha for macOS and Linux, built on a from-scratch engine rather than an existing one. Outlets confirm the build is available after years of development. Coverage differs in tone: one review calls the alpha surprisingly capable, while another notes it ships without security guarantees.",
   "claims": [
     {
       "id": "c1",
-      "statement": "Ladybird, an independent browser with a from-scratch engine, released its first alpha for testing on macOS and Linux.",
+      "statement": "Ladybird's first alpha build is now downloadable for macOS and Linux.",
       "sources": [
-        {"outlet": "theverge", "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5", "quote": "On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development."},
-        {"outlet": "arstechnica", "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6", "quote": "An independent browser engine arrives on Linux and macOS, and we've tried it."}
+        {
+          "outlet": "theverge",
+          "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5",
+          "quote": "is launching in alpha on macOS and Linux"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6",
+          "quote": "An independent browser engine arrives on Linux and macOS"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a88188741705a61490cc2c896f289e176f32f751",
+          "quote": "gets downloadable macOS and Linux builds"
+        }
       ]
     },
     {
       "id": "c2",
-      "statement": "The release makes Ladybird the first browser in years to debut an entirely new engine.",
+      "statement": "Ladybird runs on an independent, from-scratch browser engine rather than an existing one.",
       "sources": [
-        {"outlet": "theverge", "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5", "quote": "The release makes Ladybird the first browser in years to arrive with an entirely new engine."}
+        {
+          "outlet": "theverge",
+          "item_id": "5d7720922390bc824265043fd1b0fb1499a7a0d5",
+          "quote": "an independent web browser with a built-from-scratch engine"
+        },
+        {
+          "outlet": "arstechnica",
+          "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6",
+          "quote": "An independent browser engine arrives on Linux and macOS"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a88188741705a61490cc2c896f289e176f32f751",
+          "quote": "Upstart engine gets downloadable macOS and Linux builds"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Ars Technica's hands-on testing found the first alpha surprisingly capable.",
+      "sources": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6",
+          "quote": "is surprisingly capable"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "The Register notes the alpha build ships with no security guarantees.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "a88188741705a61490cc2c896f289e176f32f751",
+          "quote": "no security guarantees"
+        }
       ]
     }
   ],
-  "discrepancies": [],
-  "agreement": "full"
+  "discrepancies": [
+    {
+      "kind": "framing",
+      "severity": "low",
+      "claim_ids": [
+        "c3",
+        "c4"
+      ],
+      "explanation": "Ars Technica emphasizes the alpha's capability, while The Register stresses it offers no security guarantees.",
+      "quotes": [
+        {
+          "outlet": "arstechnica",
+          "item_id": "863ac3a2c21b865539f88dec2c340c3e46e43fc6",
+          "quote": "is surprisingly capable"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "a88188741705a61490cc2c896f289e176f32f751",
+          "quote": "no security guarantees"
+        }
+      ]
+    }
+  ],
+  "agreement": "partial"
 }

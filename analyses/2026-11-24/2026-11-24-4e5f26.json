@@ -1,0 +1,62 @@
+{
+  "cluster_id": "2026-11-24-4e5f26",
+  "cluster_version": 1,
+  "backend": "claude_code",
+  "model": "claude-sonnet-5",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "Rackspace shuts down Spot cloud platform after security breach",
+  "summary": "Rackspace is shutting down its Spot cloud platform after a security breach let hackers access customer Kubernetes clusters and secrets. Customers have until December 8 to migrate workloads, download their data, and rotate compromised credentials before the service closes.",
+  "claims": [
+    {
+      "id": "c1",
+      "statement": "Rackspace is shutting down its Spot cloud platform following a security breach.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+          "quote": "Rackspace shuts down Spot cloud platform after security breach"
+        },
+        {
+          "outlet": "theregister",
+          "item_id": "b6c5d6c2f9d7815e06e13f0d5cbdc0d59808745c",
+          "quote": "Rackspace pulls plug on Spot cloud service after security breach"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "statement": "The breach let hackers access customer Kubernetes clusters and secrets.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+          "quote": "a security breach allowed hackers to access customer Kubernetes clusters and secrets"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "statement": "Customers have until December 8 to migrate their services and download their data.",
+      "sources": [
+        {
+          "outlet": "bleepingcomputer",
+          "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+          "quote": "giving customers until December 8 to migrate their services and download their data"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "Customers face a scramble to migrate workloads and rotate compromised credentials.",
+      "sources": [
+        {
+          "outlet": "theregister",
+          "item_id": "b6c5d6c2f9d7815e06e13f0d5cbdc0d59808745c",
+          "quote": "Customers face frantic scramble to migrate workloads and rotate compromised credentials"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [],
+  "agreement": "full"
+}

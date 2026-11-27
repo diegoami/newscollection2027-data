@@ -1,0 +1,24 @@
+{
+  "anchor": "8018eae6270d6b0068cb7475987e582fe16d4e50",
+  "id": "2026-11-26-b1b829",
+  "items": [
+    {
+      "item_id": "8018eae6270d6b0068cb7475987e582fe16d4e50",
+      "lede": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from [\u2026]",
+      "outlet": "theverge",
+      "published": "2026-11-26T15:55:24Z",
+      "title": "GTA VI developers vote against unionization",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
+    },
+    {
+      "item_id": "8ec3c12ec1056586b7086288681ef637b2b6ce69",
+      "lede": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
+      "outlet": "engadget",
+      "published": "2026-11-26T16:53:58Z",
+      "title": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+      "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

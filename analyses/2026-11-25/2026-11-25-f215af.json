@@ -1,32 +1,91 @@
 {
   "cluster_id": "2026-11-25-f215af",
-  "cluster_version": 1,
+  "cluster_version": 2,
   "backend": "claude_code",
   "model": "claude-sonnet-5",
-  "generated_at": "2026-11-26T02:40:00Z",
-  "headline": "State AGs challenge Character.AI's plan to auction user chats",
-  "summary": "State attorneys general are challenging Character.AI's plan to sell users' private chat data as part of its bankruptcy sale, which officials say includes data from more than 21 million US accounts, including 2.1 million minors, and explicit conversations with children.",
+  "generated_at": "2026-11-27T02:30:00Z",
+  "headline": "State AGs challenge Character.AI's plan to sell user chats",
+  "summary": "A coalition of 42 state attorneys general is trying to block Character.AI from selling users' private chat histories as part of its Chapter 11 bankruptcy proceedings. Officials say the proposed sale covers data from more than 21 million U.S. accounts, including 2.1 million minors, with some conversations described as explicit.",
   "claims": [
     {
       "id": "c1",
-      "statement": "State attorneys general are challenging Character.AI's plan to auction off users' private chat data as part of its bankruptcy sale.",
+      "statement": "State attorneys general are seeking to block Character.AI's proposed sale of users' private chat data in its bankruptcy case.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "16ddaf7683c8da2566598f349254eedd87bd281e", "quote": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"},
-        {"outlet": "engadget", "item_id": "52b20bf6c8f0a6c9b0948ea37f91528b3c9a48d8", "quote": "State AGs are trying to stop Character.AI from auctioning off users' chat histories"}
+        {
+          "outlet": "techcrunch",
+          "item_id": "16ddaf7683c8da2566598f349254eedd87bd281e",
+          "quote": "challenged by state AGs"
+        },
+        {
+          "outlet": "engadget",
+          "item_id": "52b20bf6c8f0a6c9b0948ea37f91528b3c9a48d8",
+          "quote": "State AGs are trying to stop Character.AI from auctioning off users' chat histories"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c0f2de19f05669ce83a2b699586c6f80f7cb4c34",
+          "quote": "42 state AGs are trying to stop Character.AI from selling users"
+        }
       ]
     },
     {
       "id": "c2",
-      "statement": "The proposed sale includes sensitive personal data from more than 21 million US accounts, including 2.1 million belonging to minors.",
+      "statement": "A coalition of 42 state attorneys general is behind the effort.",
       "sources": [
-        {"outlet": "techcrunch", "item_id": "16ddaf7683c8da2566598f349254eedd87bd281e", "quote": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors"}
+        {
+          "outlet": "theverge",
+          "item_id": "c0f2de19f05669ce83a2b699586c6f80f7cb4c34",
+          "quote": "A coalition of 42 state attorneys general"
+        }
       ]
     },
     {
       "id": "c3",
-      "statement": "Officials say the proposed sale would include explicit conversations with children.",
+      "statement": "The proposed sale covers personal data from more than 21 million U.S. accounts.",
       "sources": [
-        {"outlet": "engadget", "item_id": "52b20bf6c8f0a6c9b0948ea37f91528b3c9a48d8", "quote": "The proposed sale would include explicit conversations with children, officials say."}
+        {
+          "outlet": "techcrunch",
+          "item_id": "16ddaf7683c8da2566598f349254eedd87bd281e",
+          "quote": "sensitive personal data from more than 21 million U.S. accounts"
+        },
+        {
+          "outlet": "theverge",
+          "item_id": "c0f2de19f05669ce83a2b699586c6f80f7cb4c34",
+          "quote": "the private chat histories of more than 21 million U.S. accounts"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "statement": "About 2.1 million of the affected accounts are registered to minors.",
+      "sources": [
+        {
+          "outlet": "techcrunch",
+          "item_id": "16ddaf7683c8da2566598f349254eedd87bd281e",
+          "quote": "including 2.1 million registered to minors"
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "statement": "Officials say the data includes explicit conversations with children.",
+      "sources": [
+        {
+          "outlet": "engadget",
+          "item_id": "52b20bf6c8f0a6c9b0948ea37f91528b3c9a48d8",
+          "quote": "The proposed sale would include explicit conversations with children, officials say."
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "statement": "The sale is part of Character.AI's Chapter 11 bankruptcy proceedings.",
+      "sources": [
+        {
+          "outlet": "theverge",
+          "item_id": "c0f2de19f05669ce83a2b699586c6f80f7cb4c34",
+          "quote": "as it navigates Chapter 11 bankruptcy proceedings"
+        }
       ]
     }
   ],

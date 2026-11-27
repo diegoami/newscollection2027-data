@@ -1,0 +1,24 @@
+{
+  "anchor": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+  "id": "2026-11-25-583092",
+  "items": [
+    {
+      "item_id": "f4b8c1692ea542a8481ce5c096e9977f9043eaf9",
+      "lede": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+      "outlet": "techcrunch",
+      "published": "2026-11-25T00:10:27Z",
+      "title": "Trump reportedly says pardoning Jensen Huang is \u2018an option\u2019",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
+    },
+    {
+      "item_id": "df5a157635989242a1d5422afc6301749570ff3a",
+      "lede": "U.S. President Donald Trump says that he could pardon Nvidia CEO Jensen Huang if he finds himself in legal hot water over his affair with an alleged Chinese spy. Huang is set to meet with the House Foreign Affairs Committee next week.",
+      "outlet": "tomshardware",
+      "published": "2026-11-26T11:00:00Z",
+      "title": "Trump says a pardon for Nvidia CEO Jensen Huang is 'always an option'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/trump-says-a-pardon-for-nvidia-ceo-jensen-huang-is-always-an-option-urges-him-not-to-plead-the-fifth-ahead-of-house-committee-grilling"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

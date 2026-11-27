@@ -1,0 +1,24 @@
+{
+  "anchor": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+  "id": "2026-11-24-4e5f26",
+  "items": [
+    {
+      "item_id": "6c270107d3982041e8ea470aeac3e0a9fcf00edc",
+      "lede": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-24T21:37:30Z",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+    },
+    {
+      "item_id": "b6c5d6c2f9d7815e06e13f0d5cbdc0d59808745c",
+      "lede": "Customers face frantic scramble to migrate workloads and rotate compromised credentials",
+      "outlet": "theregister",
+      "published": "2026-11-26T14:45:00Z",
+      "title": "Rackspace pulls plug on Spot cloud service after security breach",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
