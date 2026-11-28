@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "915dbe7198451d3ead7f736584abd9059d48e17a",
+    "lede": "If you use Backloggd, you might need to log in again and reset your password.",
+    "outlet": "engadget",
+    "published": "2026-11-26T21:26:47Z",
+    "title": "Backloggd urges users to change their passwords after a breach",
+    "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/"
+  },
+  "b": {
+    "item_id": "c33ac200edb1beb10e6a7b4724c7c44483a55b63",
+    "lede": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T19:26:04Z",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  "score": 0.57901
+}

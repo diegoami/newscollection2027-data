@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "977230ccbf62a3c16276075d006790011b9ceb13",
+    "lede": "An intruder planted malicious code in backend services, but the biz insists passwords are safe",
+    "outlet": "theregister",
+    "published": "2026-11-26T11:02:00Z",
+    "title": "Hackers help themselves to 1Password's source code and customer data",
+    "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+  },
+  "b": {
+    "item_id": "c33ac200edb1beb10e6a7b4724c7c44483a55b63",
+    "lede": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T19:26:04Z",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  "score": 0.597063
+}

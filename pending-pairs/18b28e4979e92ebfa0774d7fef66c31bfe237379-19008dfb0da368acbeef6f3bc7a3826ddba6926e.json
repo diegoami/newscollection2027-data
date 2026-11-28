@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "18b28e4979e92ebfa0774d7fef66c31bfe237379",
+    "lede": "The breach was discovered within the last month during system upgrade work, according to Reuters.",
+    "outlet": "engadget",
+    "published": "2026-11-27T16:55:43Z",
+    "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+    "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/"
+  },
+  "b": {
+    "item_id": "19008dfb0da368acbeef6f3bc7a3826ddba6926e",
+    "lede": "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics data Hackers are reported to have breached the US Air Force\u2019s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed. Reuters reported Friday that the intrusion into the USAF\u2019s Cloud One platform could jeopardize the security of sensitive",
+    "outlet": "theguardian",
+    "published": "2026-11-27T14:50:15Z",
+    "title": "Hackers reportedly breach US Air Force\u2019s flagship cloud computing platform",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+  },
+  "score": 0.735741
+}

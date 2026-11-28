@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "c33ac200edb1beb10e6a7b4724c7c44483a55b63",
+    "lede": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T19:26:04Z",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  "b": {
+    "item_id": "f20e7e07ea68eb3e40e98ff727a780e90116fa67",
+    "lede": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
+    "outlet": "engadget",
+    "published": "2026-11-26T20:00:00Z",
+    "title": "1Password says it was hacked but users' vaults are safe",
+    "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/"
+  },
+  "score": 0.655705
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "11b99dd6ea416387ed94a1c4687f223d3834c2b9",
+    "lede": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [\u2026]",
+    "outlet": "theverge",
+    "published": "2026-11-25T19:10:15Z",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak"
+  },
+  "b": {
+    "item_id": "c33ac200edb1beb10e6a7b4724c7c44483a55b63",
+    "lede": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T19:26:04Z",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  "score": 0.667998
+}

@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "8f62a618cddf04dde8ffaf1c76b1487408450f5b",
+    "lede": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+    "outlet": "techcrunch",
+    "published": "2026-11-25T18:49:52Z",
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/"
+  },
+  "b": {
+    "item_id": "c33ac200edb1beb10e6a7b4724c7c44483a55b63",
+    "lede": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T19:26:04Z",
+    "title": "pCloud confirms password manager hack after suspicious login alerts",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+  },
+  "score": 0.662241
+}

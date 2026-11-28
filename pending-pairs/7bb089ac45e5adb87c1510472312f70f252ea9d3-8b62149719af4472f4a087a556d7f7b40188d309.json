@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "7bb089ac45e5adb87c1510472312f70f252ea9d3",
+    "lede": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-25T10:10:20Z",
+    "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+  },
+  "b": {
+    "item_id": "8b62149719af4472f4a087a556d7f7b40188d309",
+    "lede": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+    "outlet": "bleepingcomputer",
+    "published": "2026-11-27T17:06:13Z",
+    "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+    "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/"
+  },
+  "score": 0.589345
+}
