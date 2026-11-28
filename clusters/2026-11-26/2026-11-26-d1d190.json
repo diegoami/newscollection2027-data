@@ -1,0 +1,24 @@
+{
+  "anchor": "16bed08c62d165f09a7e0f38daeb96d971a29d8a",
+  "id": "2026-11-26-d1d190",
+  "items": [
+    {
+      "item_id": "16bed08c62d165f09a7e0f38daeb96d971a29d8a",
+      "lede": "Expiring IPv6 routes can bring affected systems down, though corrective update doesn't require a restart",
+      "outlet": "theregister",
+      "published": "2026-11-26T12:27:00Z",
+      "title": "Microsoft hotpatches hotpatch that could crash Windows Server 2025",
+      "url": "https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301"
+    },
+    {
+      "item_id": "05f4c13650df3f7cb2e3117d98034dd5e6fac36c",
+      "lede": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+      "outlet": "bleepingcomputer",
+      "published": "2026-11-27T09:08:16Z",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}

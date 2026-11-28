@@ -1,0 +1,24 @@
+{
+  "anchor": "9991e42cd175de903b84afdea733d3bc3dbb6ce7",
+  "id": "2026-11-25-da716d",
+  "items": [
+    {
+      "item_id": "9991e42cd175de903b84afdea733d3bc3dbb6ce7",
+      "lede": "The president apparently threatened the Intel board with \"consequences\" if they did not accept his demand for a 10% stake on the company.",
+      "outlet": "tomshardware",
+      "published": "2026-11-25T16:39:23Z",
+      "title": "Lawsuit alleges Trump strong-armed Intel",
+      "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds"
+    },
+    {
+      "item_id": "462e344e0f4f6895c465e0b67ccd02eb17d19795",
+      "lede": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+      "outlet": "arstechnica",
+      "published": "2026-11-27T12:05:01Z",
+      "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+      "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+    }
+  ],
+  "status": "analyzed",
+  "version": 1
+}
