@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1018590a0f0ad5573dc27db633e5f99e3288922e",
+    "lede": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-28T09:10:32Z",
+    "title": "Pensions and benefits services still down after 'cyber incident'",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o"
+  },
+  "b": {
+    "item_id": "902d6957376bbec600da1aa287baf9da33c16289",
+    "lede": "Pensioners assured their funds will arrive as normal",
+    "outlet": "theregister",
+    "published": "2026-11-27T10:01:00Z",
+    "title": "British social security system techies yank services offline following 'cyber incident'",
+    "url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"
+  },
+  "score": 0.59589
+}

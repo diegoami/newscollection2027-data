@@ -1,0 +1,19 @@
+{
+  "a": {
+    "item_id": "1018590a0f0ad5573dc27db633e5f99e3288922e",
+    "lede": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+    "outlet": "bbc-technology",
+    "published": "2026-11-28T09:10:32Z",
+    "title": "Pensions and benefits services still down after 'cyber incident'",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o"
+  },
+  "b": {
+    "item_id": "827e09c0f850db6ba5fd819e72633bc30fa6e3a1",
+    "lede": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties Tell us: have you been affected by the DWP \u2018cyber incident\u2019 Benefits and pensions claimants have faced chaos after the system was hit by a \u201cserious cyber incident\u201d, fuelling concerns about the UK government\u2019s ability to defend itself against",
+    "outlet": "theguardian",
+    "published": "2026-11-27T19:45:51Z",
+    "title": "DWP \u2018cyber incident\u2019 knocks almost all pensions and benefits systems offline",
+    "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline"
+  },
+  "score": 0.70167
+}
